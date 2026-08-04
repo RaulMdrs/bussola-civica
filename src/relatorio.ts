@@ -33,6 +33,38 @@ console.log(`votos           ${c.votos} de ${c.pol} parlamentares (${c.comp} com
 console.log(`orientações     ${um<{ n: number }>("SELECT COUNT(*) n FROM orientacao").n}`);
 console.log(`discursos       ${um<{ n: number }>("SELECT COUNT(*) n FROM discurso").n}`);
 
+console.log("\n═══ PROPOSIÇÕES E TEMAS ═══\n");
+{
+  const p = um<{ prop: number; vinc: number; nom: number; nomVinc: number; nomTema: number; proc: number }>(`
+    SELECT (SELECT COUNT(*) FROM proposicao) prop,
+           (SELECT COUNT(*) FROM votacao WHERE proposicao_id IS NOT NULL) vinc,
+           (SELECT COUNT(*) FROM votacao WHERE nominal=1) nom,
+           (SELECT COUNT(*) FROM votacao WHERE nominal=1 AND proposicao_id IS NOT NULL) nomVinc,
+           (SELECT COUNT(DISTINCT v.id) FROM votacao v
+              JOIN proposicao_tema pt ON pt.proposicao_id = v.proposicao_id
+             WHERE v.nominal=1) nomTema,
+           (SELECT COUNT(*) FROM votacao
+             WHERE objeto_votado_id IS NOT NULL AND proposicao_id IS NOT NULL
+               AND objeto_votado_id <> proposicao_id) proc`);
+  console.log(`proposições distintas   ${p.prop}`);
+  console.log(`votações vinculadas     ${p.vinc}/${v.total} (${pct(p.vinc, v.total)}%)`);
+  console.log(`  entre as nominais     ${p.nomVinc}/${p.nom} (${pct(p.nomVinc, p.nom)}%)`);
+  console.log(`  nominais com tema     ${p.nomTema}/${p.nom} (${pct(p.nomTema, p.nom)}%)`);
+  console.log(`votações procedimentais ${p.proc} (objeto votado ≠ matéria de fundo)`);
+
+  const temas = all<{ nome: string; n: number }>(`
+    SELECT t.nome, COUNT(DISTINCT v.id) n
+    FROM votacao v
+    JOIN proposicao_tema pt ON pt.proposicao_id = v.proposicao_id
+    JOIN tema t ON t.id = pt.tema_id
+    WHERE v.nominal = 1
+    GROUP BY t.id ORDER BY n DESC LIMIT 8`);
+  if (temas.length) {
+    console.log(`\n  temas mais votados (votações nominais):`);
+    for (const t of temas) console.log(`    ${String(t.n).padStart(3)}  ${t.nome}`);
+  }
+}
+
 console.log("\n═══ DISCURSOS: CLASSIFICAÇÃO ═══\n");
 {
   const linhas = all<{ c: string; rel: number; n: number; media: number }>(`

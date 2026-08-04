@@ -13,7 +13,7 @@ npm run ingerir -- --inicio 2025-01-01 --fim 2025-06-30
 | `--uf` | `RS` | recorte da bancada |
 | `--legislatura` | `57` | |
 | `--inicio` / `--fim` | `2025-01-01` / `2025-06-30` | período das votações |
-| `--etapas` | todas | `referencias,deputados,votacoes,discursos,reclassificar,posicoes` |
+| `--etapas` | todas | `referencias,deputados,votacoes,proposicoes,discursos,reclassificar,posicoes` |
 
 Etapas isoladamente:
 
@@ -108,6 +108,24 @@ truncada (`"Bl PlFdrPtUniPp..."`), e `/blocos/{id}/partidos` retorna vazio
 (§1.6). O ingestor grava `partido_id` NULL e preserva a sigla como veio.
 
 Adivinhar os membros a partir do texto truncado seria criar dado não rastreável.
+
+### Votação tem dois vínculos com proposição, não um
+
+`proposicoesAfetadas` (do detalhe da votação) traz a **matéria de fundo**;
+o prefixo do id da votação (`"2381043-91"`) traz o **objeto formalmente votado**.
+
+Em 37 de 40 votações amostradas eles coincidem. Nas outras 3, a votação é sobre
+um requerimento: objeto = `REQ 4731/2024`, matéria = `PLP 167/2024`. Usar o
+prefixo como vínculo de matéria erraria em ~7% dos casos.
+
+Guardar os dois não é preciosismo: dizer que o parlamentar "votou a favor do
+PLP" quando ele votou a urgência da tramitação é impreciso o bastante para
+violar o princípio do projeto. `objeto_votado_id = proposicao_id` marca votação
+de mérito; diferentes, votação procedimental.
+
+Cobertura no 1º sem/2025: **154/154 votações nominais** vinculadas à matéria,
+153 com tema. As 6 votações sem `proposicoesAfetadas` na origem são todas
+simbólicas, e portanto fora do cálculo dos eixos.
 
 ### Discurso deduplica por conteúdo, não por instante
 
@@ -222,6 +240,7 @@ Por semestre de plenário, aproximadamente:
 | `referencias` | 3 |
 | `deputados` | 2 × 31 = 62 |
 | `votacoes` | 2 janelas + ~450 `/votos` + ~154 `/orientacoes` |
+| `proposicoes` | ~450 detalhes + ~166 proposições + ~166 temas |
 | `discursos` | ~31 |
 
 A janela de `/votacoes` é limitada a **3 meses** pela origem (§1.3); `janelas()`

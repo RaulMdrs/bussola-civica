@@ -317,7 +317,24 @@ export const votacao = sqliteTable(
     casa: text("casa", { enum: CASAS }).notNull(),
     idExterno: text("id_externo").notNull(),
     orgaoId: integer("orgao_id").references(() => orgao.id),
+    /**
+     * Matéria de fundo — de `proposicoesAfetadas` no detalhe da votação.
+     * É "sobre o que" a votação versa, e é onde os temas fazem sentido.
+     */
     proposicaoId: integer("proposicao_id").references(() => proposicao.id),
+    /**
+     * O que foi FORMALMENTE votado, quando difere da matéria de fundo.
+     *
+     * Numa votação de requerimento de urgência, o objeto é o requerimento
+     * (REQ 4731/2024) e a matéria afetada é o projeto (PLP 167/2024). Tratar os
+     * dois como a mesma coisa faria a plataforma dizer que o parlamentar "votou
+     * a favor do PLP" quando votou apenas a urgência da tramitação — impreciso
+     * o bastante para violar o princípio do projeto.
+     *
+     * Igual a `proposicaoId` = votação de mérito sobre a própria matéria.
+     * Diferente = votação procedimental a respeito dela.
+     */
+    objetoVotadoId: integer("objeto_votado_id").references(() => proposicao.id),
     data: text("data").notNull(),
     descricao: text("descricao"),
     aprovacao: integer("aprovacao", { mode: "boolean" }), // pode ser NULL na origem

@@ -13,10 +13,11 @@ Documentos detalhados: [FONTES.md](./FONTES.md) · [MODELO-DADOS.md](./MODELO-DA
 | # | Etapa | Entregável |
 |---|---|---|
 | 1 | Reconhecimento das APIs | `docs/FONTES.md` — 26 endpoints testados, request/response verificados |
-| 2 | Modelo de dados | `src/db/schema.ts` — 20 tabelas, 3 migrations, 24 verificações |
+| 2 | Modelo de dados | `src/db/schema.ts` — 20 tabelas, 4 migrations, 24 verificações |
 | 3 | Ingestor | `src/ingest/` + `src/lib/` — coleta idempotente com retry e auditoria |
 | 4 | Cálculo de posições | `src/calc/posicoes.ts` — 2 eixos com evidência rastreável |
 | 5 | Classificação de discursos | `src/lib/classificar.ts` — filtro de ruído protocolar |
+| 6 | Vínculo votação↔proposição | etapa `proposicoes` — matéria, objeto votado e temas |
 
 Banco atual: **9,3 MB**, 1º semestre de 2025 (votações de 2025-02-04 a 2025-06-26).
 
@@ -132,7 +133,9 @@ Base: `https://dadosabertos.camara.leg.br/api/v2` · sem autenticação
 | `GET /orgaos?sigla=PLEN` | ✅ **usado** | Plenário = id **180** |
 | `GET /legislaturas/{id}` | ✅ **usado** | 57ª: 2023-02-01 → 2027-01-31 |
 | `GET /referencias/proposicoes/codTema` | ✅ **usado** | 32 temas — base dos eixos da Fase 2 |
-| `GET /proposicoes/{id}/temas` | ✅ testado | **Não usado ainda** (ver §9) |
+| `GET /votacoes/{id}` | ✅ **usado** | Detalhe; única fonte de `proposicoesAfetadas` |
+| `GET /proposicoes/{id}` | ✅ **usado** | Resolve o objeto formalmente votado |
+| `GET /proposicoes/{id}/temas` | ✅ **usado** | 153 de 154 votações nominais têm tema |
 | `GET /blocos?idLegislatura=57` | ✅ testado | Nomes completos dos blocos |
 | `GET /blocos/{id}/partidos` | ⚠️ | Responde 200 mas **retorna array vazio** |
 | `camara.leg.br/noticias/rss` | ⚠️ | HTML; feeds reais são **por tema**, não por político |
@@ -254,6 +257,7 @@ avulsos, antes de existir banco.
 | `politico` | 525 (31 completos) | | `posicao` | 58 |
 | `identidade_externa` | 525 | | `eixo` | 2 |
 | `votacao` | 450 | | `legislatura` | 1 |
+| `proposicao` | 166 | | `proposicao_tema` | 280 |
 
 **Coleta:** 926 operações, 952 requisições, **22 precisaram de retry**.
 
@@ -285,7 +289,7 @@ Honestamente: o que está no schema mas **não é populado**, e o que não foi f
 
 | Item | Estado | Impacto |
 |---|---|---|
-| `proposicao` / `proposicao_tema` | **vazias** — 0 de 450 votações ligadas a proposição | Bloqueia eixos temáticos da Fase 2; hoje a votação só tem `descricao` em texto livre |
+| ~~`proposicao` / `proposicao_tema`~~ | ✅ **resolvido** — 166 proposições, 154/154 nominais vinculadas, 153 com tema | Eixos temáticos da Fase 2 destravados |
 | `partido_alias` | **vazia** — schema existe, pipeline não popula | Sem efeito hoje (só Câmara); vira problema ao integrar TSE ("PC do B" vs "PCdoB") |
 | Integração TSE | **não implementada** — `identidade_externa` só tem fonte `camara` | Sem vínculo com candidatura, bens declarados, `SQ_CANDIDATO`. O método está validado (31/31 por CPF), falta codificar |
 | Senado | **não integrado** | Escopo da Fase 1 |
@@ -320,7 +324,7 @@ src/                                    3.049 linhas TypeScript
   ingest/index.ts     107   CLI
   calc/posicoes.ts    296   dois eixos + evidências
   relatorio.ts        156   verificação do acervo
-drizzle/                    3 migrations
+drizzle/                    4 migrations
 ```
 
 **Stack:** TypeScript (type-stripping nativo, sem build), Drizzle ORM,
@@ -340,8 +344,8 @@ npm run relatorio
 npm run db:validar
 ```
 
-Etapas: `referencias`, `deputados`, `votacoes`, `discursos`, `reclassificar`,
-`posicoes`. Flags: `--uf`, `--legislatura`, `--inicio`, `--fim`, `--etapas`.
+Etapas: `referencias`, `deputados`, `votacoes`, `proposicoes`, `discursos`,
+`reclassificar`, `posicoes`. Flags: `--uf`, `--legislatura`, `--inicio`, `--fim`, `--etapas`.
 
 Custo por semestre: ~3 + 62 + (2 janelas + ~450 `/votos` + ~154 `/orientacoes`)
 + ~31 ≈ 700 requisições. Primeira execução ~510s; re-execução ~60s (cache).
@@ -350,12 +354,12 @@ Custo por semestre: ~3 + 62 + (2 janelas + ~450 `/votos` + ~154 `/orientacoes`)
 
 ## 11. Próximos passos sugeridos
 
-1. **Ligar votação a proposição** — destrava temas e enriquece o perfil. Hoje a
-   votação carrega só texto livre.
-2. **Ampliar o período** para a legislatura inteira (2023→). São 8 janelas de 3
+1. **Ampliar o período** para a legislatura inteira (2023→). São 8 janelas de 3
    meses; volume estimado ~1.200 votações nominais, suficiente para escalonamento.
-3. **Integrar TSE via CSV** — método validado, falta implementar. Popular
+2. **Integrar TSE via CSV** — método validado, falta implementar. Popular
    `identidade_externa` e `partido_alias`.
-4. **Publicar a metodologia dos eixos** antes de qualquer exibição pública.
+3. **Publicar a metodologia dos eixos** antes de qualquer exibição pública.
+4. **Eixos temáticos (Fase 2)** — agora possíveis: `proposicao_tema` está
+   populada e 99,4% das votações nominais têm tema.
 5. **Camada web (Next.js)** — perfis indexáveis; a visualização orbital pode
    consumir `posicao` + `posicao_evidencia` diretamente.

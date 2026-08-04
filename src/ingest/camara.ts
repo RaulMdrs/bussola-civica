@@ -70,6 +70,41 @@ export interface VotacaoLista {
   aprovacao: number | null;
 }
 
+/** Proposição como aparece embutida no detalhe da votação. */
+export interface ProposicaoResumo {
+  id: number;
+  uri: string;
+  siglaTipo: string | null;
+  codTipo: number | null;
+  numero: number | null;
+  ano: number | null;
+  ementa: string | null;
+  dataApresentacao: string | null;
+}
+
+export interface VotacaoDetalhe {
+  id: string;
+  data: string;
+  descricao: string;
+  aprovacao: number | null;
+  /**
+   * A matéria de fundo. Medido em amostra de 40 votações: presente em 100%,
+   * sempre com exatamente um item.
+   */
+  proposicoesAfetadas: ProposicaoResumo[] | null;
+  /**
+   * Tudo que PODERIA ser votado na sessão (93 itens numa amostra) — não é o
+   * objeto desta votação. Não usar para vínculo.
+   */
+  objetosPossiveis: ProposicaoResumo[] | null;
+}
+
+export interface TemaProposicao {
+  codTema: number;
+  tema: string;
+  relevancia: number | null;
+}
+
 export interface VotoApi {
   tipoVoto: string;
   dataRegistroVoto: string | null;
@@ -155,6 +190,16 @@ export const camara = {
     return { ...r, url: `${BASE}/votacoes?idOrgao=${idOrgao}&dataInicio=${inicio}&dataFim=${fim}` };
   },
 
+  /** Detalhe da votação — única fonte de `proposicoesAfetadas`. */
+  votacao: (idVotacao: string, o?: OpcoesFetch) =>
+    um<VotacaoDetalhe>(`${BASE}/votacoes/${idVotacao}`, o),
+
+  proposicao: (id: number, o?: OpcoesFetch) =>
+    um<ProposicaoResumo>(`${BASE}/proposicoes/${id}`, o),
+
+  temasProposicao: (id: number, o?: OpcoesFetch) =>
+    um<TemaProposicao[]>(`${BASE}/proposicoes/${id}/temas`, o),
+
   /** Sem paginação: enviar `itens`/`pagina` devolve 400 (§1.3). */
   votos: (idVotacao: string, o?: OpcoesFetch) =>
     um<VotoApi[]>(`${BASE}/votacoes/${idVotacao}/votos`, o),
@@ -171,6 +216,20 @@ export const camara = {
       o,
     ).then((r) => ({ ...r, url: `${BASE}/deputados/${id}/discursos` })),
 };
+
+/**
+ * Id da proposição formalmente votada, extraído do id da votação.
+ *
+ * O id tem forma "2381043-91" = idProposicao-sequencial. Em 37 de 40 votações
+ * amostradas esse prefixo coincide com a matéria afetada; nas outras 3 ele é o
+ * requerimento votado (ex.: REQ 4731/2024) enquanto a matéria é outra
+ * (PLP 167/2024). Por isso o prefixo NÃO serve como vínculo de matéria — serve
+ * como objeto formal.
+ */
+export function idObjetoVotado(idVotacao: string): number | null {
+  const n = Number(String(idVotacao).split("-")[0]);
+  return Number.isFinite(n) && n > 0 ? n : null;
+}
 
 /** URL pública da votação no portal da Câmara — é o link que o usuário vê. */
 export function urlPublicaVotacao(id: string): string {

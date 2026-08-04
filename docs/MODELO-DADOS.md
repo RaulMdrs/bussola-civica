@@ -1,8 +1,8 @@
 # MODELO-DADOS.md — Fase 0
 
 Schema: [`src/db/schema.ts`](../src/db/schema.ts) (Drizzle + SQLite)
-Migration: [`drizzle/`](../drizzle/) — 20 tabelas
-Validação: `npm run db:validar` — 17 verificações contra os casos de borda
+Migrations: [`drizzle/`](../drizzle/) — 20 tabelas, 4 migrations
+Validação: `npm run db:validar` — 24 verificações contra os casos de borda
 
 Referências (§x.y) apontam para [FONTES.md](./FONTES.md).
 
@@ -43,7 +43,7 @@ erDiagram
     votacao  ||--o{ voto : ""
     votacao  ||--o{ orientacao : ""
     orgao    ||--o{ votacao : ""
-    proposicao ||--o{ votacao : ""
+    proposicao ||--o{ votacao : "matéria e objeto votado"
     proposicao ||--o{ proposicao_tema : ""
     tema     ||--o{ proposicao_tema : ""
     eixo     ||--o{ posicao : ""
@@ -246,6 +246,12 @@ histórico, discursos) de quem existe apenas como contraparte de voto. Sem a
 flag, a interface ofereceria perfil de quem só tem nome e id — lacuna de coleta
 parecendo perfil vazio.
 
+**`votacao` ganhou `objeto_votado_id`.** A matéria de fundo
+(`proposicoesAfetadas`) e o objeto formalmente votado (prefixo do id) divergem
+em ~7% das votações — tipicamente requerimentos de urgência. Tratá-los como a
+mesma coisa faria a plataforma afirmar que o parlamentar votou o projeto quando
+votou apenas a tramitação.
+
 **`discurso` deduplica por hash de conteúdo, não por instante.** A chave
 `(politico, dataHoraInicio)` descartava 6 discursos reais: um parlamentar
 registra falas distintas no mesmo minuto, às vezes com metadados idênticos e
@@ -261,15 +267,15 @@ Deliberadamente ausentes do schema, para não carregar estrutura sem uso:
   não serve aos dois eixos.
 - **Bens declarados / patrimônio** (TSE) — Fase 2+.
 - **Tramitações e autoria de proposições** — entram quando houver eixo temático.
+  (A proposição em si e seus temas **já são coletados** — ver §"Correções".)
 - **Notícias de terceiros** — sem fonte oficial por político (§4). Se entrarem,
   vão em tabela própria, marcadas como fonte terceira e visualmente separadas do
   dado oficial.
 - **Comissões e frentes parlamentares** — sinal fraco para posicionamento.
 
-`tema` e `proposicao_tema` **estão** no schema mesmo sem uso na Fase 0: os 32
-temas oficiais (§1.7) são a base dos eixos temáticos da Fase 2, e o custo de
-popular durante a ingestão inicial é próximo de zero — enquanto o custo de
-reprocessar todas as votações depois não é.
+`tema` e `proposicao_tema` estão populados desde a etapa `proposicoes`, embora
+os eixos temáticos só cheguem na Fase 2 — o custo de coletar junto é próximo de
+zero, e reprocessar todas as votações depois não seria.
 
 ---
 

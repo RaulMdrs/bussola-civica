@@ -11,10 +11,16 @@
  */
 
 import { createHash } from "node:crypto";
-import { and, eq, sql } from "drizzle-orm";
+import { and, eq, isNull, sql } from "drizzle-orm";
 import type { Banco } from "../db/client.ts";
 import * as s from "../db/schema.ts";
-import { camara, extrairPlacar, ID_ORGAO_PLENARIO } from "./camara.ts";
+import {
+  camara,
+  extrairPlacar,
+  idObjetoVotado,
+  ID_ORGAO_PLENARIO,
+  type ProposicaoResumo,
+} from "./camara.ts";
 import { janelas, type OpcoesFetch } from "../lib/http.ts";
 import { CLASSIFICACAO_VERSAO, classificarDiscurso } from "../lib/classificar.ts";
 import {
@@ -570,6 +576,177 @@ export async function ingerirVotacoes(
       (puladas ? ` (${puladas} já em cache)` : ""),
   );
   return { nominais, simbolicas, total: listadas.length };
+}
+
+// ---------------------------------------------------------------------------
+// Etapa 3b — proposições: vincula cada votação à matéria
+// ---------------------------------------------------------------------------
+
+/**
+ * Grava a proposição (se ainda não existir) e devolve o id interno.
+ *
+ * `onConflictDoNothing` + select: a mesma matéria costuma reaparecer em dezenas
+ * de votações (urgência, destaques, redação final), então a maioria das
+ * chamadas não gera escrita.
+ */
+async function upsertProposicao(
+  db: Banco,
+  p: ProposicaoResumo,
+): Promise<number> {
+  const fonteUrl = `https://dadosabertos.camara.leg.br/api/v2/proposicoes/${p.id}`;
+  await db
+    .insert(s.proposicao)
+    .values({
+      casa: "camara",
+      idExterno: String(p.id),
+      siglaTipo: p.siglaTipo,
+      numero: p.numero,
+      ano: p.ano,
+      ementa: p.ementa,
+      dataApresentacao: normalizarData(p.dataApresentacao),
+      fonteUrl,
+    })
+    .onConflictDoUpdate({
+      target: [s.proposicao.casa, s.proposicao.idExterno],
+      set: { ementa: p.ementa, siglaTipo: p.siglaTipo },
+    });
+  const [row] = await db
+    .select({ id: s.proposicao.id })
+    .from(s.proposicao)
+    .where(
+      and(
+        eq(s.proposicao.casa, "camara"),
+        eq(s.proposicao.idExterno, String(p.id)),
+      ),
+    );
+  return row!.id;
+}
+
+/**
+ * Vincula votações às proposições e coleta os temas.
+ *
+ * Duas ligações distintas, por precisão (ver `votacao.objetoVotadoId`):
+ *   - `proposicaoId`   = matéria de fundo, de `proposicoesAfetadas`;
+ *   - `objetoVotadoId` = o que foi formalmente votado, do prefixo do id.
+ *
+ * Quando diferem, a votação é procedimental (urgência, retirada de pauta) a
+ * respeito da matéria — e afirmar que o parlamentar "votou o projeto" seria
+ * impreciso.
+ *
+ * Só percorre votações ainda sem vínculo, então é retomável e barata em
+ * re-execução.
+ */
+export async function ingerirProposicoes(ctx: Contexto) {
+  ctx.log("proposições");
+
+  const pendentes = await ctx.db
+    .select({ id: s.votacao.id, idExterno: s.votacao.idExterno })
+    .from(s.votacao)
+    .where(and(eq(s.votacao.casa, "camara"), isNull(s.votacao.proposicaoId)));
+
+  if (pendentes.length === 0) {
+    ctx.log("  todas as votações já vinculadas");
+    return;
+  }
+  ctx.log(`  ${pendentes.length} votações sem vínculo`);
+
+  const cacheProp = new Map<number, number>();
+  const temasFeitos = new Set<number>();
+  let vinculadas = 0;
+  let semAfetada = 0;
+  let procedimentais = 0;
+
+  for (const v of pendentes) {
+    const det = await comAuditoria(ctx, `votacoes/${v.idExterno}`, (o) =>
+      camara.votacao(v.idExterno, o),
+    );
+
+    const afetada = det.proposicoesAfetadas?.[0] ?? null;
+    let proposicaoId: number | null = null;
+    if (afetada) {
+      proposicaoId = cacheProp.get(afetada.id) ?? null;
+      if (!proposicaoId) {
+        proposicaoId = await upsertProposicao(ctx.db, afetada);
+        cacheProp.set(afetada.id, proposicaoId);
+      }
+    } else {
+      semAfetada++;
+    }
+
+    // objeto formalmente votado: o prefixo do id da votação
+    let objetoVotadoId: number | null = null;
+    const idObj = idObjetoVotado(v.idExterno);
+    if (idObj) {
+      if (afetada && idObj === afetada.id) {
+        objetoVotadoId = proposicaoId; // votação de mérito
+      } else {
+        objetoVotadoId = cacheProp.get(idObj) ?? null;
+        if (!objetoVotadoId) {
+          try {
+            const p = await comAuditoria(ctx, `proposicoes/${idObj}`, (o) =>
+              camara.proposicao(idObj, o),
+            );
+            objetoVotadoId = await upsertProposicao(ctx.db, p);
+            cacheProp.set(idObj, objetoVotadoId);
+          } catch {
+            // objeto sem proposição resolvível — deixa NULL em vez de inventar
+            ctx.avisos.push(
+              `objeto votado ${idObj} não resolvido (votação ${v.idExterno})`,
+            );
+          }
+        }
+        if (objetoVotadoId && proposicaoId && objetoVotadoId !== proposicaoId) {
+          procedimentais++;
+        }
+      }
+    }
+
+    await ctx.db
+      .update(s.votacao)
+      .set({ proposicaoId, objetoVotadoId })
+      .where(eq(s.votacao.id, v.id));
+    if (proposicaoId) vinculadas++;
+  }
+
+  // temas de cada matéria distinta — insumo dos eixos temáticos (§1.7)
+  let comTema = 0;
+  for (const [idExterno, propId] of cacheProp) {
+    if (temasFeitos.has(idExterno)) continue;
+    temasFeitos.add(idExterno);
+    try {
+      const temas = await comAuditoria(ctx, `proposicoes/${idExterno}/temas`, (o) =>
+        camara.temasProposicao(idExterno, o),
+      );
+      for (const t of temas) {
+        await ctx.db
+          .insert(s.tema)
+          .values({ id: t.codTema, nome: t.tema })
+          .onConflictDoNothing();
+        await ctx.db
+          .insert(s.proposicaoTema)
+          .values({
+            proposicaoId: propId,
+            temaId: t.codTema,
+            relevancia: t.relevancia,
+          })
+          .onConflictDoNothing();
+      }
+      if (temas.length) comTema++;
+    } catch {
+      ctx.avisos.push(`temas da proposição ${idExterno} não coletados`);
+    }
+  }
+
+  ctx.log(
+    `  ${vinculadas} vinculadas, ${cacheProp.size} proposições resolvidas ` +
+      `(matérias + objetos votados), ${comTema} com tema`,
+  );
+  if (procedimentais)
+    ctx.log(`  ${procedimentais} votações procedimentais (objeto ≠ matéria)`);
+  // Sem `proposicoesAfetadas` na origem: ficam pendentes de propósito, para que
+  // uma correção futura da Câmara seja capturada numa re-execução. Custa poucas
+  // requisições e evita gravar ausência como se fosse fato.
+  if (semAfetada) ctx.log(`  ${semAfetada} sem proposição afetada na origem`);
 }
 
 // ---------------------------------------------------------------------------

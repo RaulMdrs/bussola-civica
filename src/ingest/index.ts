@@ -14,6 +14,7 @@ import { calcularPosicoes } from "../calc/posicoes.ts";
 import {
   ingerirDeputados,
   ingerirDiscursos,
+  ingerirProposicoes,
   ingerirReferencias,
   ingerirVotacoes,
   reclassificarDiscursos,
@@ -24,6 +25,7 @@ const ETAPAS = [
   "referencias",
   "deputados",
   "votacoes",
+  "proposicoes",
   "discursos",
   "reclassificar",
   "posicoes",
@@ -82,6 +84,7 @@ async function main() {
     if (etapas.includes("referencias")) await ingerirReferencias(ctx);
     if (etapas.includes("deputados")) await ingerirDeputados(ctx);
     if (etapas.includes("votacoes")) await ingerirVotacoes(ctx, inicio, fim);
+    if (etapas.includes("proposicoes")) await ingerirProposicoes(ctx);
     if (etapas.includes("discursos")) await ingerirDiscursos(ctx, inicio, fim);
     if (etapas.includes("reclassificar")) await reclassificarDiscursos(ctx);
     if (etapas.includes("posicoes")) {
