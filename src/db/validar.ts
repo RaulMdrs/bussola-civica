@@ -15,6 +15,7 @@ import {
   classificarDiscurso,
   type CategoriaDiscurso,
 } from "../lib/classificar.ts";
+import { classificarNatureza, type NaturezaVotacao } from "../lib/natureza.ts";
 
 const db = new DatabaseSync(":memory:");
 
@@ -295,7 +296,57 @@ console.log("\nClassificação de discursos — casos reais do acervo");
   }
 }
 
-const totalChecagens = 24;
+console.log("\nNatureza da votação — casos reais do acervo");
+{
+  // (descrição, objetoVotadoId, proposicaoId, esperado)
+  const casos: Array<[string, string, number | null, number | null, NaturezaVotacao]> = [
+    [
+      "requerimento rejeitado é procedimental",
+      "Rejeitado o Requerimento. Sim: 125; Não: 236; Abstenção: 2; Total: 363.",
+      10, 10, "procedimental",
+    ],
+    [
+      "requerimento de urgência é procedimental",
+      "Aprovado, por unanimidade, o Requerimento de Urgência (Art. 155 do RICD).",
+      11, 22, "procedimental",
+    ],
+    [
+      "aprovação de projeto é mérito",
+      "Aprovado o Projeto de Lei nº 2.215, de 2024. Sim: 273; Não: 136; Total: 409.",
+      10, 10, "merito",
+    ],
+    [
+      "'Mantido o texto' é destaque de mérito",
+      "Mantido o texto. Sim: 386; Não: 27; Total: 413.",
+      10, 10, "merito",
+    ],
+    [
+      "substitutivo é mérito",
+      "Aprovado o Substitutivo ao Projeto de Lei nº 9.133, de 2017.",
+      10, 10, "merito",
+    ],
+    [
+      "redação final é ato formal, fora dos escopos",
+      "Aprovada a Redação Final assinada pelo relator, Dep. Pedro C.",
+      10, 10, "formal",
+    ],
+    [
+      "objeto ≠ matéria é procedimental mesmo sem 'requerimento' na descrição",
+      "Aprovado.",
+      11, 22, "procedimental",
+    ],
+    [
+      "'requerimento' citado na ementa do projeto não torna a votação procedimental",
+      "Aprovado o Projeto de Lei nº 4.187, de 2024, que atende a requerimento da sociedade civil.",
+      10, 10, "merito",
+    ],
+  ];
+  for (const [nome, desc, obj, prop, esperado] of casos) {
+    checar(nome, classificarNatureza(desc, obj, prop), esperado);
+  }
+}
+
+const totalChecagens = 32;
 console.log(
   falhas === 0
     ? `\n✓ modelo validado: ${totalChecagens} verificações, 0 falhas\n`

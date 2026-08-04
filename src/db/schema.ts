@@ -15,6 +15,7 @@
 
 import { relations, sql } from "drizzle-orm";
 import { CATEGORIAS_DISCURSO } from "../lib/classificar.ts";
+import { NATUREZAS_VOTACAO } from "../lib/natureza.ts";
 import {
   index,
   integer,
@@ -339,6 +340,16 @@ export const votacao = sqliteTable(
     descricao: text("descricao"),
     aprovacao: integer("aprovacao", { mode: "boolean" }), // pode ser NULL na origem
     nominal: integer("nominal", { mode: "boolean" }).notNull(),
+    /**
+     * O que estava em jogo: mérito da matéria, procedimento (requerimento de
+     * urgência, retirada de pauta…) ou ato formal (redação final).
+     *
+     * 56% das votações nominais são procedimentais. Votar a urgência de um
+     * projeto não é votar o projeto — misturar as duas coisas num índice único
+     * produz um número que não responde a pergunta nenhuma. Ver src/lib/natureza.ts.
+     */
+    natureza: text("natureza", { enum: NATUREZAS_VOTACAO }),
+    naturezaVersao: text("natureza_versao"),
     secreta: integer("secreta", { mode: "boolean" }).notNull().default(false),
     totalSim: integer("total_sim"),
     totalNao: integer("total_nao"),
@@ -351,6 +362,7 @@ export const votacao = sqliteTable(
     index("votacao_data_idx").on(t.data),
     // índice de trabalho: o universo elegível para posicionamento
     index("votacao_elegivel_idx").on(t.nominal, t.secreta, t.data),
+    index("votacao_natureza_idx").on(t.natureza, t.nominal),
   ],
 );
 
@@ -573,6 +585,19 @@ export const posicao = sqliteTable(
       .references(() => legislatura.numero),
     periodoInicio: text("periodo_inicio").notNull(),
     periodoFim: text("periodo_fim").notNull(),
+    /**
+     * Universo de votações sobre o qual a posição foi apurada.
+     *
+     * `merito` é o escopo principal — é o que o cidadão entende por "posição do
+     * parlamentar". `procedimental` mede outra coisa (disciplina de pauta,
+     * estratégia regimental) e é exibido como tal, nunca como substituto.
+     *
+     * Ambos existem porque descartar as procedimentais jogaria fora 56% do
+     * acervo e uma informação política legítima.
+     */
+    escopo: text("escopo", { enum: ["merito", "procedimental"] })
+      .notNull()
+      .default("merito"),
     valor: real("valor").notNull(),
     nObservacoes: integer("n_observacoes").notNull(),
     nOportunidades: integer("n_oportunidades").notNull(),
@@ -583,11 +608,12 @@ export const posicao = sqliteTable(
     uniqueIndex("posicao_uq").on(
       t.politicoId,
       t.eixoId,
+      t.escopo,
       t.legislaturaNumero,
       t.periodoInicio,
       t.periodoFim,
     ),
-    index("posicao_eixo_idx").on(t.eixoId, t.legislaturaNumero),
+    index("posicao_eixo_idx").on(t.eixoId, t.escopo, t.legislaturaNumero),
   ],
 );
 

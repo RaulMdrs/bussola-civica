@@ -173,7 +173,37 @@ deputado não votou" na interface.
 
 ## Os dois eixos
 
-Ambos derivam de votação; nenhum usa rótulo atribuído.
+Ambos derivam de votação; nenhum usa rótulo atribuído. Ambos são apurados em
+**dois escopos separados**.
+
+### Por que separar mérito de procedimental
+
+**86 das 154 votações nominais (56%) são sobre requerimentos** — urgência,
+retirada de pauta, adiamento, encerramento de discussão. Votar a urgência de um
+projeto não é votar o projeto: mede disciplina de pauta e estratégia regimental,
+não concordância com o conteúdo.
+
+Somados num índice único, produziam um número que não respondia a pergunta
+nenhuma. Separados, revelam comportamento oposto em alguns parlamentares:
+
+| Parlamentar | Mérito | Procedimental |
+|---|---|---|
+| Any Ortiz (PP) | 28,0% | 6,1% |
+| Marcel van Hattem (NOVO) | 22,5% | 2,8% |
+| Franciane Bayer (REPUBLICANOS) | 56,0% | **72,2%** |
+
+A oposição concorda com o governo em matérias consensuais, mas diverge
+sistematicamente na disputa de pauta. Franciane Bayer faz o inverso: apoia a
+pauta mais do que o conteúdo.
+
+`votacao.natureza` (`merito` / `procedimental` / `formal`) é derivada da
+descrição oficial e do vínculo com a proposição — regra em
+[`src/lib/natureza.ts`](../src/lib/natureza.ts), versionada e revisável sem
+recoleta. `formal` (redação final) fica fora dos dois escopos: consolida texto
+já aprovado, não expressa posição.
+
+**O escopo `merito` é o principal** — é o que o cidadão entende por "posição do
+parlamentar". O procedimental é exibido como o que é, nunca como substituto.
 
 ### Eixo 1 — alinhamento com o governo federal
 
@@ -183,6 +213,7 @@ SELECT vt.politico_id,
        COUNT(*) AS n_observacoes
 FROM voto vt
 JOIN votacao v    ON v.id = vt.votacao_id AND v.nominal = 1 AND v.secreta = 0
+                 AND v.natureza = 'merito'          -- ou 'procedimental'
 JOIN orientacao o ON o.votacao_id = v.id AND o.sigla_bruta = 'Governo'
                  AND o.liberado = 0 AND o.orientacao IN ('sim','nao')
 WHERE vt.computavel = 1

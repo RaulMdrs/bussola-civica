@@ -14,7 +14,22 @@ import { sql } from "drizzle-orm";
 import type { Banco, Consultar } from "../db/client.ts";
 import * as s from "../db/schema.ts";
 
-export const METODOLOGIA_VERSAO = "2026-08-03.1";
+export const METODOLOGIA_VERSAO = "2026-08-04.2";
+
+/**
+ * Escopos de apuração.
+ *
+ * `merito` é o principal — é o que o cidadão entende por "posição do
+ * parlamentar". `procedimental` mede disciplina de pauta e estratégia
+ * regimental: legítimo, informativo, e uma coisa diferente.
+ *
+ * Antes desta versão os dois eram somados num índice único. Como 56% das
+ * votações nominais são procedimentais, o número resultante não respondia a
+ * nenhuma pergunta específica. Votações `formal` (redação final) ficam fora dos
+ * dois escopos: consolidam texto já aprovado, não expressam posição.
+ */
+export const ESCOPOS = ["merito", "procedimental"] as const;
+export type Escopo = (typeof ESCOPOS)[number];
 
 interface Periodo {
   legislatura: number;
@@ -36,9 +51,11 @@ const EIXOS = [
     nomeExibicao: "Alinhamento com o governo federal",
     descricao:
       "Proporção de votações nominais em que o parlamentar votou conforme a " +
-      "orientação da liderança do Governo. Mede posição relativa ao Executivo " +
-      "do momento — não é medida de ideologia: um partido pode mudar de lado " +
-      "sem mudar de programa.",
+      "orientação da liderança do Governo. Apurado em dois escopos: no MÉRITO " +
+      "das matérias e em votações PROCEDIMENTAIS (requerimentos de urgência, " +
+      "retirada de pauta, adiamento). Os dois medem coisas diferentes — o " +
+      "segundo é disciplina de pauta, não concordância de conteúdo. Nenhum é " +
+      "medida de ideologia: um partido muda de lado sem mudar de programa.",
     rotuloMin: "Vota contra a orientação do governo",
     rotuloMax: "Vota conforme a orientação do governo",
   },
@@ -48,7 +65,8 @@ const EIXOS = [
     descricao:
       "Proporção de votações nominais em que o parlamentar votou com a maioria " +
       "dos demais deputados do seu partido, excluído o próprio voto da apuração. " +
-      "Mede comportamento, não ideologia: dois parlamentares de partidos opostos " +
+      "Apurado separadamente no mérito e em votações procedimentais. Mede " +
+      "comportamento, não ideologia: dois parlamentares de partidos opostos " +
       "com 100% de coesão ocupam o mesmo ponto neste eixo.",
     rotuloMin: "Vota contra a maioria do partido",
     rotuloMax: "Vota com a maioria do partido",
@@ -101,7 +119,11 @@ interface LinhaEvidencia {
  * `liberado = 0` é essencial: liberação de bancada não é orientação, e tratá-la
  * como tal inventaria concordância onde não houve instrução (§1.6).
  */
-function calcularAlinhamentoGoverno(consultar: Consultar, p: Periodo) {
+function calcularAlinhamentoGoverno(
+  consultar: Consultar,
+  p: Periodo,
+  escopo: Escopo,
+) {
   const evidencias = consultar<LinhaEvidencia>(
     `SELECT vt.politico_id, vt.votacao_id, vt.id AS voto_id,
             'Orientação do Governo: ' || o.orientacao AS referencia,
@@ -109,12 +131,14 @@ function calcularAlinhamentoGoverno(consultar: Consultar, p: Periodo) {
      FROM voto vt
      JOIN votacao v     ON v.id = vt.votacao_id
                        AND v.nominal = 1 AND v.secreta = 0
+                       AND v.natureza = ?
                        AND v.data BETWEEN ? AND ?
      JOIN orientacao o  ON o.votacao_id = v.id
                        AND o.sigla_bruta = 'Governo'
                        AND o.liberado = 0
                        AND o.orientacao IN ('sim','nao')
      WHERE vt.computavel = 1`,
+    escopo,
     p.inicio,
     p.fim,
   );
@@ -134,13 +158,18 @@ function calcularAlinhamentoGoverno(consultar: Consultar, p: Periodo) {
  * Empate entre os pares (inclusive quando o parlamentar é o único do partido na
  * votação) não gera observação: não há maioria contra a qual comparar.
  */
-function calcularCoesaoPartidaria(consultar: Consultar, p: Periodo) {
+function calcularCoesaoPartidaria(
+  consultar: Consultar,
+  p: Periodo,
+  escopo: Escopo,
+) {
   const evidencias = consultar<LinhaEvidencia>(
     `WITH elegiveis AS (
       SELECT vt.id, vt.votacao_id, vt.politico_id, vt.partido_id, vt.voto
       FROM voto vt
       JOIN votacao v ON v.id = vt.votacao_id
                     AND v.nominal = 1 AND v.secreta = 0
+                    AND v.natureza = ?
                     AND v.data BETWEEN ? AND ?
       WHERE vt.computavel = 1 AND vt.partido_id IS NOT NULL
     ),
@@ -167,6 +196,7 @@ function calcularCoesaoPartidaria(consultar: Consultar, p: Periodo) {
                 THEN 1 ELSE 0 END AS concordou
     FROM pares
     WHERE sim_pares <> nao_pares`,
+    escopo,
     p.inicio,
     p.fim,
   );
@@ -193,17 +223,23 @@ function agregar(evidencias: LinhaEvidencia[]) {
  * É o denominador honesto (§1.8). Sem ele, quem assumiu em abril é comparado
  * contra o mesmo total de quem serviu o período inteiro.
  */
-function oportunidadesPorPolitico(consultar: Consultar, p: Periodo) {
+function oportunidadesPorPolitico(
+  consultar: Consultar,
+  p: Periodo,
+  escopo: Escopo,
+) {
   const linhas = consultar<{ politico_id: number; n: number }>(
     `SELECT m.politico_id, COUNT(DISTINCT v.id) AS n
      FROM mandato m
      JOIN exercicio e ON e.mandato_id = m.id
      JOIN votacao v   ON v.nominal = 1 AND v.secreta = 0
+                     AND v.natureza = ?
                      AND v.data BETWEEN ? AND ?
                      AND v.data >= e.data_inicio
                      AND (e.data_fim IS NULL OR v.data <= e.data_fim)
      WHERE m.legislatura_numero = ?
      GROUP BY m.politico_id`,
+    escopo,
     p.inicio,
     p.fim,
     p.legislatura,
@@ -218,7 +254,6 @@ export async function calcularPosicoes(
   log: (m: string) => void = console.log,
 ) {
   const eixos = await garantirEixos(db);
-  const oportunidades = oportunidadesPorPolitico(consultar, p);
 
   // só quem está no recorte recebe posição publicável
   const doRecorte = new Set(
@@ -232,65 +267,72 @@ export async function calcularPosicoes(
     { chave: "coesao_partidaria", fn: calcularCoesaoPartidaria },
   ] as const;
 
-  for (const c of calculos) {
-    const eixoId = eixos.get(c.chave)!;
-    const { porPolitico, evidencias } = c.fn(consultar, p);
+  for (const escopo of ESCOPOS) {
+    const oportunidades = oportunidadesPorPolitico(consultar, p, escopo);
 
-    // limpa recálculo anterior do mesmo período (cascade leva as evidências)
-    await db.run(sql`
-      DELETE FROM posicao
-      WHERE eixo_id = ${eixoId}
-        AND legislatura_numero = ${p.legislatura}
-        AND periodo_inicio = ${p.inicio} AND periodo_fim = ${p.fim}
-    `);
+    for (const c of calculos) {
+      const eixoId = eixos.get(c.chave)!;
+      const { porPolitico, evidencias } = c.fn(consultar, p, escopo);
 
-    let gravadas = 0;
-    let evidenciasGravadas = 0;
-    for (const [politicoId, acc] of porPolitico) {
-      if (!doRecorte.has(politicoId)) continue;
+      // limpa recálculo anterior do mesmo escopo e período (cascade leva as evidências)
+      await db.run(sql`
+        DELETE FROM posicao
+        WHERE eixo_id = ${eixoId}
+          AND escopo = ${escopo}
+          AND legislatura_numero = ${p.legislatura}
+          AND periodo_inicio = ${p.inicio} AND periodo_fim = ${p.fim}
+      `);
 
-      await db.insert(s.posicao).values({
-        politicoId,
-        eixoId,
-        legislaturaNumero: p.legislatura,
-        periodoInicio: p.inicio,
-        periodoFim: p.fim,
-        valor: acc.n > 0 ? acc.concordou / acc.n : 0,
-        nObservacoes: acc.n,
-        nOportunidades: oportunidades.get(politicoId) ?? 0,
-        metodologiaVersao: METODOLOGIA_VERSAO,
-      });
+      let gravadas = 0;
+      let evidenciasGravadas = 0;
+      for (const [politicoId, acc] of porPolitico) {
+        if (!doRecorte.has(politicoId)) continue;
 
-      const [posicao] = consultar<{ id: number }>(
-        `SELECT id FROM posicao
-         WHERE politico_id = ? AND eixo_id = ? AND legislatura_numero = ?
-           AND periodo_inicio = ? AND periodo_fim = ?`,
-        politicoId,
-        eixoId,
-        p.legislatura,
-        p.inicio,
-        p.fim,
-      );
+        await db.insert(s.posicao).values({
+          politicoId,
+          eixoId,
+          escopo,
+          legislaturaNumero: p.legislatura,
+          periodoInicio: p.inicio,
+          periodoFim: p.fim,
+          valor: acc.n > 0 ? acc.concordou / acc.n : 0,
+          nObservacoes: acc.n,
+          nOportunidades: oportunidades.get(politicoId) ?? 0,
+          metodologiaVersao: METODOLOGIA_VERSAO,
+        });
 
-      const minhas = evidencias.filter((e) => e.politico_id === politicoId);
-      for (let i = 0; i < minhas.length; i += 200) {
-        await db.insert(s.posicaoEvidencia).values(
-          minhas.slice(i, i + 200).map((e) => ({
-            posicaoId: posicao!.id,
-            votacaoId: e.votacao_id,
-            votoId: e.voto_id,
-            referencia: e.referencia,
-            concordou: Boolean(e.concordou),
-          })),
+        const [posicao] = consultar<{ id: number }>(
+          `SELECT id FROM posicao
+           WHERE politico_id = ? AND eixo_id = ? AND escopo = ?
+             AND legislatura_numero = ? AND periodo_inicio = ? AND periodo_fim = ?`,
+          politicoId,
+          eixoId,
+          escopo,
+          p.legislatura,
+          p.inicio,
+          p.fim,
         );
+
+        const minhas = evidencias.filter((e) => e.politico_id === politicoId);
+        for (let i = 0; i < minhas.length; i += 200) {
+          await db.insert(s.posicaoEvidencia).values(
+            minhas.slice(i, i + 200).map((e) => ({
+              posicaoId: posicao!.id,
+              votacaoId: e.votacao_id,
+              votoId: e.voto_id,
+              referencia: e.referencia,
+              concordou: Boolean(e.concordou),
+            })),
+          );
+        }
+        gravadas++;
+        evidenciasGravadas += minhas.length;
       }
-      gravadas++;
-      evidenciasGravadas += minhas.length;
+      // as evidências calculadas cobrem os 513; só as do recorte são gravadas
+      log(
+        `  ${c.chave} [${escopo}]: ${gravadas} posições, ${evidenciasGravadas} evidências ` +
+          `(de ${evidencias.length} calculadas para toda a Câmara)`,
+      );
     }
-    // as evidências calculadas cobrem os 513; só as do recorte são gravadas
-    log(
-      `  ${c.chave}: ${gravadas} posições, ${evidenciasGravadas} evidências ` +
-        `(de ${evidencias.length} calculadas para toda a Câmara)`,
-    );
   }
 }

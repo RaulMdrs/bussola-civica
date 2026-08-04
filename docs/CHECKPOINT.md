@@ -13,11 +13,12 @@ Documentos detalhados: [FONTES.md](./FONTES.md) · [MODELO-DADOS.md](./MODELO-DA
 | # | Etapa | Entregável |
 |---|---|---|
 | 1 | Reconhecimento das APIs | `docs/FONTES.md` — 26 endpoints testados, request/response verificados |
-| 2 | Modelo de dados | `src/db/schema.ts` — 20 tabelas, 4 migrations, 24 verificações |
+| 2 | Modelo de dados | `src/db/schema.ts` — 20 tabelas, 5 migrations, 32 verificações |
 | 3 | Ingestor | `src/ingest/` + `src/lib/` — coleta idempotente com retry e auditoria |
 | 4 | Cálculo de posições | `src/calc/posicoes.ts` — 2 eixos com evidência rastreável |
 | 5 | Classificação de discursos | `src/lib/classificar.ts` — filtro de ruído protocolar |
 | 6 | Vínculo votação↔proposição | etapa `proposicoes` — matéria, objeto votado e temas |
+| 7 | Separação mérito/procedimental | `src/lib/natureza.ts` — eixos apurados em dois escopos |
 
 Banco atual: **9,3 MB**, 1º semestre de 2025 (votações de 2025-02-04 a 2025-06-26).
 
@@ -74,7 +75,7 @@ estruturalmente:
 `npm run db:validar` monta um banco em memória com fixture que reproduz cada
 armadilha encontrada — suplente com exercício parcial, deputado que trocou de
 legenda, votação simbólica, obstrução, Artigo 17, votação secreta — e verifica
-que as queries respondem certo. **24 verificações.**
+que as queries respondem certo. **32 verificações.**
 
 Os sete casos de classificação de discurso são regressões: cada um quebrou uma
 versão anterior da regra.
@@ -199,6 +200,14 @@ Requer `User-Agent` de navegador. **Não integrado ao ingestor** (ver §9).
 computáveis; denominador = votações ocorridas **dentro do período de exercício**
 do parlamentar; toda posição grava evidência votação por votação.
 
+**Dois escopos.** 86 das 154 votações nominais (56%) são sobre requerimentos —
+urgência, retirada de pauta, adiamento. Votar a urgência de um projeto não é
+votar o projeto. Os dois eixos são apurados separadamente em `merito` (escopo
+principal) e `procedimental` (disciplina de pauta); `formal` (redação final)
+fica fora dos dois. A separação revela comportamento oposto: a oposição alinha
+mais no mérito que na pauta (Marcel van Hattem 22,5% × 2,8%), e Franciane Bayer
+faz o inverso (56,0% × 72,2%).
+
 **Eixo 1 — Alinhamento com o governo federal.** Compara o voto com a orientação
 da liderança do Governo (`sigla_bruta = 'Governo'`, `liberado = 0`). Presente em
 100% das votações nominais medidas.
@@ -213,7 +222,7 @@ comparado. Empate entre os pares não gera observação.
 *Rótulo obrigatório:* "coesão com o próprio partido". É comportamento, não
 ideologia: dois deputados de partidos opostos com 100% ocupam o mesmo ponto.
 
-Versão da metodologia gravada em cada linha: `2026-08-03.1`.
+Versão da metodologia gravada em cada linha: `2026-08-04.2`.
 
 ### 6.2 Classificação de discursos
 
@@ -241,7 +250,8 @@ avulsos, antes de existir banco.
 | Votos individuais | 58.724 | 58.724 |
 | Sim / Não | 31.375 / 26.940 | idênticos |
 | Artigo 17 / Abstenção / Obstrução | 151 / 149 / 109 | idênticos |
-| Posições calculadas | 29/31 | 29/31 |
+| Posições calculadas | 29/31 por eixo/escopo | 29/31 |
+| Natureza das nominais | mérito 66, proc. 86, formal 2 | idênticos |
 | Orientações de bloco com `partido_id` | 0 de 980 | confirma achado 6 |
 | Cruzamento Câmara↔TSE por CPF | — | 31/31 |
 
@@ -254,7 +264,7 @@ avulsos, antes de existir banco.
 | `orientacao` | 1.221 | | `partido` | 28 |
 | `coleta` | 926 | | `exercicio` | 39 |
 | `discurso` | 839 | | `filiacao` | 53 |
-| `politico` | 525 (31 completos) | | `posicao` | 58 |
+| `politico` | 525 (31 completos) | | `posicao` | 116 |
 | `identidade_externa` | 525 | | `eixo` | 2 |
 | `votacao` | 450 | | `legislatura` | 1 |
 | `proposicao` | 166 | | `proposicao_tema` | 280 |
@@ -324,7 +334,7 @@ src/                                    3.049 linhas TypeScript
   ingest/index.ts     107   CLI
   calc/posicoes.ts    296   dois eixos + evidências
   relatorio.ts        156   verificação do acervo
-drizzle/                    4 migrations
+drizzle/                    5 migrations
 ```
 
 **Stack:** TypeScript (type-stripping nativo, sem build), Drizzle ORM,
@@ -345,7 +355,8 @@ npm run db:validar
 ```
 
 Etapas: `referencias`, `deputados`, `votacoes`, `proposicoes`, `discursos`,
-`reclassificar`, `posicoes`. Flags: `--uf`, `--legislatura`, `--inicio`, `--fim`, `--etapas`.
+`reclassificar`, `posicoes`. A etapa `reclassificar` re-deriva natureza de
+votação e categoria de discurso sem recoletar. Flags: `--uf`, `--legislatura`, `--inicio`, `--fim`, `--etapas`.
 
 Custo por semestre: ~3 + 62 + (2 janelas + ~450 `/votos` + ~154 `/orientacoes`)
 + ~31 ≈ 700 requisições. Primeira execução ~510s; re-execução ~60s (cache).

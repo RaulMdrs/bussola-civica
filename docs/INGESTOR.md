@@ -142,6 +142,23 @@ Custo assumido: se a Câmara publicar a versão revisada de uma transcrição, o
 hash muda e a re-ingestão cria um segundo registro. É preferível a descartar em
 silêncio a fala de um parlamentar.
 
+### Natureza da votação separa mérito de procedimento
+
+56% das votações nominais são sobre requerimentos. `votacao.natureza` deriva de
+dois sinais oficiais — a descrição padronizada pela Câmara e a divergência entre
+objeto votado e matéria — e alimenta os dois escopos de apuração dos eixos.
+
+Medição do cruzamento nas 154 nominais: a descrição sozinha captura as 86
+procedimentais (14 com ambos os sinais, 72 só por descrição); o vínculo de
+proposição não captura nenhuma adicional. A descrição é o sinal dominante; o id
+entra como reforço.
+
+Revisar sem recoletar:
+
+```bash
+npm run ingerir -- --etapas reclassificar
+```
+
 ### Discursos são classificados, nunca descartados
 
 839 discursos num semestre incluem 97 registros de "orientou a bancada" — cujo

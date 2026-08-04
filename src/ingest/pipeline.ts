@@ -23,6 +23,7 @@ import {
 } from "./camara.ts";
 import { janelas, type OpcoesFetch } from "../lib/http.ts";
 import { CLASSIFICACAO_VERSAO, classificarDiscurso } from "../lib/classificar.ts";
+import { NATUREZA_VERSAO, classificarNatureza } from "../lib/natureza.ts";
 import {
   normalizarCpf,
   normalizarData,
@@ -747,6 +748,41 @@ export async function ingerirProposicoes(ctx: Contexto) {
   // uma correção futura da Câmara seja capturada numa re-execução. Custa poucas
   // requisições e evita gravar ausência como se fosse fato.
   if (semAfetada) ctx.log(`  ${semAfetada} sem proposição afetada na origem`);
+
+  await classificarNaturezaVotacoes(ctx);
+}
+
+/**
+ * Classifica a natureza de cada votação (mérito / procedimental / formal).
+ *
+ * Roda depois de `proposicoes`, porque um dos sinais é a divergência entre
+ * objeto votado e matéria de fundo. É idempotente e local — revisar a regra não
+ * exige recoleta.
+ */
+export async function classificarNaturezaVotacoes(ctx: Contexto) {
+  const linhas = await ctx.db
+    .select({
+      id: s.votacao.id,
+      descricao: s.votacao.descricao,
+      objetoVotadoId: s.votacao.objetoVotadoId,
+      proposicaoId: s.votacao.proposicaoId,
+      atual: s.votacao.natureza,
+    })
+    .from(s.votacao);
+
+  const contagem: Record<string, number> = {};
+  let mudou = 0;
+  for (const l of linhas) {
+    const natureza = classificarNatureza(l.descricao, l.objetoVotadoId, l.proposicaoId);
+    contagem[natureza] = (contagem[natureza] ?? 0) + 1;
+    if (l.atual !== natureza) mudou++;
+    await ctx.db
+      .update(s.votacao)
+      .set({ natureza, naturezaVersao: NATUREZA_VERSAO })
+      .where(eq(s.votacao.id, l.id));
+  }
+  ctx.log(`  natureza: ${Object.entries(contagem).map(([k, v]) => `${k} ${v}`).join(", ")}`);
+  if (mudou) ctx.log(`  ${mudou} votações reclassificadas (versão ${NATUREZA_VERSAO})`);
 }
 
 // ---------------------------------------------------------------------------
@@ -844,7 +880,8 @@ export async function ingerirDiscursos(
  * em vez de 31 requisições e uma janela de instabilidade da API.
  */
 export async function reclassificarDiscursos(ctx: Contexto) {
-  ctx.log("reclassificando discursos");
+  ctx.log("reclassificando");
+  await classificarNaturezaVotacoes(ctx);
   const linhas = await ctx.db
     .select({
       id: s.discurso.id,

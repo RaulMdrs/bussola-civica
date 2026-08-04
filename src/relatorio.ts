@@ -117,13 +117,52 @@ const retentadas = um<{ n: number }>(
 ).n;
 console.log(`  operações que precisaram de retry: ${retentadas}`);
 
-console.log("\n═══ EIXO 1 — ALINHAMENTO COM O GOVERNO ═══\n");
-mostrarEixo("alinhamento_governo");
+console.log("\n═══ NATUREZA DAS VOTAÇÕES NOMINAIS ═══\n");
+for (const r of all<{ natureza: string; n: number }>(
+  `SELECT natureza, COUNT(*) n FROM votacao WHERE nominal=1 GROUP BY natureza ORDER BY n DESC`,
+)) {
+  const nota =
+    r.natureza === "merito" ? "mérito da matéria"
+    : r.natureza === "procedimental" ? "requerimentos (urgência, pauta, adiamento)"
+    : "ato formal — fora dos dois escopos";
+  console.log(`  ${String(r.n).padStart(4)}  ${r.natureza.padEnd(14)} ${nota}`);
+}
 
-console.log("\n═══ EIXO 2 — COESÃO COM O PRÓPRIO PARTIDO ═══\n");
-mostrarEixo("coesao_partidaria");
+console.log("\n═══ EIXO 1 — ALINHAMENTO COM O GOVERNO ═══");
+console.log("\n  ── escopo: MÉRITO (principal) ──\n");
+mostrarEixo("alinhamento_governo", "merito");
+console.log("\n  ── escopo: PROCEDIMENTAL (disciplina de pauta) ──\n");
+mostrarEixo("alinhamento_governo", "procedimental");
 
-function mostrarEixo(chave: string) {
+console.log("\n═══ EIXO 2 — COESÃO COM O PRÓPRIO PARTIDO ═══");
+console.log("\n  ── escopo: MÉRITO (principal) ──\n");
+mostrarEixo("coesao_partidaria", "merito");
+
+console.log("\n═══ MÉRITO vs PROCEDIMENTAL — quem muda de lugar ═══\n");
+{
+  const linhas = all<{ nome: string; sigla: string; m: number; p: number }>(`
+    SELECT pl.nome_parlamentar nome, COALESCE(pt.sigla,'?') sigla,
+           MAX(CASE WHEN po.escopo='merito' THEN po.valor END) m,
+           MAX(CASE WHEN po.escopo='procedimental' THEN po.valor END) p
+    FROM posicao po
+    JOIN eixo e     ON e.id = po.eixo_id AND e.chave = 'alinhamento_governo'
+    JOIN politico pl ON pl.id = po.politico_id
+    LEFT JOIN filiacao f ON f.politico_id = pl.id AND f.data_fim IS NULL
+    LEFT JOIN partido pt ON pt.id = f.partido_id
+    GROUP BY pl.id HAVING m IS NOT NULL AND p IS NOT NULL
+    ORDER BY ABS(m - p) DESC LIMIT 8`);
+  for (const l of linhas) {
+    const delta = (l.m - l.p) * 100;
+    const seta = delta > 0 ? "↑" : "↓";
+    console.log(
+      `  ${l.nome.padEnd(28)} (${l.sigla.padEnd(12)}) ` +
+        `mérito ${(l.m * 100).toFixed(1).padStart(5)}%  ` +
+        `proc ${(l.p * 100).toFixed(1).padStart(5)}%  ${seta} ${Math.abs(delta).toFixed(1)} pp`,
+    );
+  }
+}
+
+function mostrarEixo(chave: string, escopo: string) {
   const linhas = all<{
     nome: string;
     sigla: string;
@@ -139,6 +178,7 @@ function mostrarEixo(chave: string) {
     JOIN politico p ON p.id = po.politico_id
     LEFT JOIN filiacao f ON f.politico_id = p.id AND f.data_fim IS NULL
     LEFT JOIN partido pt ON pt.id = f.partido_id
+    WHERE po.escopo = '${escopo}'
     ORDER BY po.valor DESC`);
 
   if (!linhas.length) {
