@@ -1,0 +1,1839 @@
+{
+  "version": "6",
+  "dialect": "sqlite",
+  "id": "9bdc08a3-b524-4a57-a94b-5f1ef9b349fe",
+  "prevId": "ddc469d8-66c8-4950-86a6-a478d464afa5",
+  "tables": {
+    "coleta": {
+      "name": "coleta",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "fonte": {
+          "name": "fonte",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "recurso": {
+          "name": "recurso",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "url": {
+          "name": "url",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "iniciado_em": {
+          "name": "iniciado_em",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false,
+          "default": "(strftime('%Y-%m-%dT%H:%M:%SZ','now'))"
+        },
+        "concluido_em": {
+          "name": "concluido_em",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "status": {
+          "name": "status",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "http_status": {
+          "name": "http_status",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "tentativas": {
+          "name": "tentativas",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false,
+          "default": 1
+        },
+        "registros": {
+          "name": "registros",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "erro": {
+          "name": "erro",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "coleta_recurso_idx": {
+          "name": "coleta_recurso_idx",
+          "columns": [
+            "recurso",
+            "iniciado_em"
+          ],
+          "isUnique": false
+        }
+      },
+      "foreignKeys": {},
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "discurso": {
+      "name": "discurso",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "politico_id": {
+          "name": "politico_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "data_hora_inicio": {
+          "name": "data_hora_inicio",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "tipo_discurso": {
+          "name": "tipo_discurso",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "sumario": {
+          "name": "sumario",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "transcricao": {
+          "name": "transcricao",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "url_texto": {
+          "name": "url_texto",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "url_audio": {
+          "name": "url_audio",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "url_video": {
+          "name": "url_video",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "chave_conteudo": {
+          "name": "chave_conteudo",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "fonte_url": {
+          "name": "fonte_url",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "discurso_politico_idx": {
+          "name": "discurso_politico_idx",
+          "columns": [
+            "politico_id",
+            "data_hora_inicio"
+          ],
+          "isUnique": false
+        },
+        "discurso_uq": {
+          "name": "discurso_uq",
+          "columns": [
+            "politico_id",
+            "chave_conteudo"
+          ],
+          "isUnique": true
+        }
+      },
+      "foreignKeys": {
+        "discurso_politico_id_politico_id_fk": {
+          "name": "discurso_politico_id_politico_id_fk",
+          "tableFrom": "discurso",
+          "tableTo": "politico",
+          "columnsFrom": [
+            "politico_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "cascade",
+          "onUpdate": "no action"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "eixo": {
+      "name": "eixo",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "chave": {
+          "name": "chave",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "nome_exibicao": {
+          "name": "nome_exibicao",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "descricao": {
+          "name": "descricao",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "rotulo_min": {
+          "name": "rotulo_min",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "rotulo_max": {
+          "name": "rotulo_max",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "metodologia_versao": {
+          "name": "metodologia_versao",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "metodologia_url": {
+          "name": "metodologia_url",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "eixo_chave_uq": {
+          "name": "eixo_chave_uq",
+          "columns": [
+            "chave"
+          ],
+          "isUnique": true
+        }
+      },
+      "foreignKeys": {},
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "exercicio": {
+      "name": "exercicio",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "mandato_id": {
+          "name": "mandato_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "data_inicio": {
+          "name": "data_inicio",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "data_fim": {
+          "name": "data_fim",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "situacao": {
+          "name": "situacao",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "descricao_status": {
+          "name": "descricao_status",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "fonte_url": {
+          "name": "fonte_url",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "exercicio_mandato_idx": {
+          "name": "exercicio_mandato_idx",
+          "columns": [
+            "mandato_id",
+            "data_inicio"
+          ],
+          "isUnique": false
+        },
+        "exercicio_uq": {
+          "name": "exercicio_uq",
+          "columns": [
+            "mandato_id",
+            "data_inicio"
+          ],
+          "isUnique": true
+        }
+      },
+      "foreignKeys": {
+        "exercicio_mandato_id_mandato_id_fk": {
+          "name": "exercicio_mandato_id_mandato_id_fk",
+          "tableFrom": "exercicio",
+          "tableTo": "mandato",
+          "columnsFrom": [
+            "mandato_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "cascade",
+          "onUpdate": "no action"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "filiacao": {
+      "name": "filiacao",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "politico_id": {
+          "name": "politico_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "partido_id": {
+          "name": "partido_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "data_inicio": {
+          "name": "data_inicio",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "data_fim": {
+          "name": "data_fim",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "fonte_url": {
+          "name": "fonte_url",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "filiacao_politico_idx": {
+          "name": "filiacao_politico_idx",
+          "columns": [
+            "politico_id",
+            "data_inicio"
+          ],
+          "isUnique": false
+        },
+        "filiacao_uq": {
+          "name": "filiacao_uq",
+          "columns": [
+            "politico_id",
+            "partido_id",
+            "data_inicio"
+          ],
+          "isUnique": true
+        }
+      },
+      "foreignKeys": {
+        "filiacao_politico_id_politico_id_fk": {
+          "name": "filiacao_politico_id_politico_id_fk",
+          "tableFrom": "filiacao",
+          "tableTo": "politico",
+          "columnsFrom": [
+            "politico_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "cascade",
+          "onUpdate": "no action"
+        },
+        "filiacao_partido_id_partido_id_fk": {
+          "name": "filiacao_partido_id_partido_id_fk",
+          "tableFrom": "filiacao",
+          "tableTo": "partido",
+          "columnsFrom": [
+            "partido_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "identidade_externa": {
+      "name": "identidade_externa",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "politico_id": {
+          "name": "politico_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "fonte": {
+          "name": "fonte",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "id_externo": {
+          "name": "id_externo",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "contexto": {
+          "name": "contexto",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "fonte_url": {
+          "name": "fonte_url",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "identidade_fonte_id_uq": {
+          "name": "identidade_fonte_id_uq",
+          "columns": [
+            "fonte",
+            "id_externo",
+            "contexto"
+          ],
+          "isUnique": true
+        },
+        "identidade_politico_idx": {
+          "name": "identidade_politico_idx",
+          "columns": [
+            "politico_id"
+          ],
+          "isUnique": false
+        }
+      },
+      "foreignKeys": {
+        "identidade_externa_politico_id_politico_id_fk": {
+          "name": "identidade_externa_politico_id_politico_id_fk",
+          "tableFrom": "identidade_externa",
+          "tableTo": "politico",
+          "columnsFrom": [
+            "politico_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "cascade",
+          "onUpdate": "no action"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "legislatura": {
+      "name": "legislatura",
+      "columns": {
+        "numero": {
+          "name": "numero",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "data_inicio": {
+          "name": "data_inicio",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "data_fim": {
+          "name": "data_fim",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {},
+      "foreignKeys": {},
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "mandato": {
+      "name": "mandato",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "politico_id": {
+          "name": "politico_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "casa": {
+          "name": "casa",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "legislatura_numero": {
+          "name": "legislatura_numero",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "uf": {
+          "name": "uf",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "condicao_eleitoral": {
+          "name": "condicao_eleitoral",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "fonte_url": {
+          "name": "fonte_url",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "mandato_uq": {
+          "name": "mandato_uq",
+          "columns": [
+            "politico_id",
+            "casa",
+            "legislatura_numero"
+          ],
+          "isUnique": true
+        },
+        "mandato_uf_idx": {
+          "name": "mandato_uf_idx",
+          "columns": [
+            "uf",
+            "casa",
+            "legislatura_numero"
+          ],
+          "isUnique": false
+        }
+      },
+      "foreignKeys": {
+        "mandato_politico_id_politico_id_fk": {
+          "name": "mandato_politico_id_politico_id_fk",
+          "tableFrom": "mandato",
+          "tableTo": "politico",
+          "columnsFrom": [
+            "politico_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "cascade",
+          "onUpdate": "no action"
+        },
+        "mandato_legislatura_numero_legislatura_numero_fk": {
+          "name": "mandato_legislatura_numero_legislatura_numero_fk",
+          "tableFrom": "mandato",
+          "tableTo": "legislatura",
+          "columnsFrom": [
+            "legislatura_numero"
+          ],
+          "columnsTo": [
+            "numero"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "orgao": {
+      "name": "orgao",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "casa": {
+          "name": "casa",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "id_externo": {
+          "name": "id_externo",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "sigla": {
+          "name": "sigla",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "nome": {
+          "name": "nome",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "tipo": {
+          "name": "tipo",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "orgao_uq": {
+          "name": "orgao_uq",
+          "columns": [
+            "casa",
+            "id_externo"
+          ],
+          "isUnique": true
+        }
+      },
+      "foreignKeys": {},
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "orientacao": {
+      "name": "orientacao",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "votacao_id": {
+          "name": "votacao_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "sigla_bruta": {
+          "name": "sigla_bruta",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "tipo_lideranca": {
+          "name": "tipo_lideranca",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "partido_id": {
+          "name": "partido_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "orientacao": {
+          "name": "orientacao",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "liberado": {
+          "name": "liberado",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false,
+          "default": false
+        }
+      },
+      "indexes": {
+        "orientacao_uq": {
+          "name": "orientacao_uq",
+          "columns": [
+            "votacao_id",
+            "sigla_bruta"
+          ],
+          "isUnique": true
+        },
+        "orientacao_votacao_idx": {
+          "name": "orientacao_votacao_idx",
+          "columns": [
+            "votacao_id"
+          ],
+          "isUnique": false
+        }
+      },
+      "foreignKeys": {
+        "orientacao_votacao_id_votacao_id_fk": {
+          "name": "orientacao_votacao_id_votacao_id_fk",
+          "tableFrom": "orientacao",
+          "tableTo": "votacao",
+          "columnsFrom": [
+            "votacao_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "cascade",
+          "onUpdate": "no action"
+        },
+        "orientacao_partido_id_partido_id_fk": {
+          "name": "orientacao_partido_id_partido_id_fk",
+          "tableFrom": "orientacao",
+          "tableTo": "partido",
+          "columnsFrom": [
+            "partido_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "partido": {
+      "name": "partido",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "sigla": {
+          "name": "sigla",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "nome": {
+          "name": "nome",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "fonte_url": {
+          "name": "fonte_url",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "partido_sigla_uq": {
+          "name": "partido_sigla_uq",
+          "columns": [
+            "sigla"
+          ],
+          "isUnique": true
+        }
+      },
+      "foreignKeys": {},
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "partido_alias": {
+      "name": "partido_alias",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "partido_id": {
+          "name": "partido_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "alias": {
+          "name": "alias",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "fonte": {
+          "name": "fonte",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "partido_alias_uq": {
+          "name": "partido_alias_uq",
+          "columns": [
+            "alias",
+            "fonte"
+          ],
+          "isUnique": true
+        }
+      },
+      "foreignKeys": {
+        "partido_alias_partido_id_partido_id_fk": {
+          "name": "partido_alias_partido_id_partido_id_fk",
+          "tableFrom": "partido_alias",
+          "tableTo": "partido",
+          "columnsFrom": [
+            "partido_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "cascade",
+          "onUpdate": "no action"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "politico": {
+      "name": "politico",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "cpf": {
+          "name": "cpf",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "nome_civil": {
+          "name": "nome_civil",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "nome_parlamentar": {
+          "name": "nome_parlamentar",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "data_nascimento": {
+          "name": "data_nascimento",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "data_falecimento": {
+          "name": "data_falecimento",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "sexo": {
+          "name": "sexo",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "uf_nascimento": {
+          "name": "uf_nascimento",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "municipio_nascimento": {
+          "name": "municipio_nascimento",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "escolaridade": {
+          "name": "escolaridade",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "url_foto": {
+          "name": "url_foto",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "perfil_completo": {
+          "name": "perfil_completo",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false,
+          "default": false
+        },
+        "fonte_url": {
+          "name": "fonte_url",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "coletado_em": {
+          "name": "coletado_em",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false,
+          "default": "(strftime('%Y-%m-%dT%H:%M:%SZ','now'))"
+        }
+      },
+      "indexes": {
+        "politico_cpf_uq": {
+          "name": "politico_cpf_uq",
+          "columns": [
+            "cpf"
+          ],
+          "isUnique": true
+        },
+        "politico_nome_idx": {
+          "name": "politico_nome_idx",
+          "columns": [
+            "nome_parlamentar"
+          ],
+          "isUnique": false
+        }
+      },
+      "foreignKeys": {},
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "posicao": {
+      "name": "posicao",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "politico_id": {
+          "name": "politico_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "eixo_id": {
+          "name": "eixo_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "legislatura_numero": {
+          "name": "legislatura_numero",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "periodo_inicio": {
+          "name": "periodo_inicio",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "periodo_fim": {
+          "name": "periodo_fim",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "valor": {
+          "name": "valor",
+          "type": "real",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "n_observacoes": {
+          "name": "n_observacoes",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "n_oportunidades": {
+          "name": "n_oportunidades",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "metodologia_versao": {
+          "name": "metodologia_versao",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "calculado_em": {
+          "name": "calculado_em",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false,
+          "default": "(strftime('%Y-%m-%dT%H:%M:%SZ','now'))"
+        }
+      },
+      "indexes": {
+        "posicao_uq": {
+          "name": "posicao_uq",
+          "columns": [
+            "politico_id",
+            "eixo_id",
+            "legislatura_numero",
+            "periodo_inicio",
+            "periodo_fim"
+          ],
+          "isUnique": true
+        },
+        "posicao_eixo_idx": {
+          "name": "posicao_eixo_idx",
+          "columns": [
+            "eixo_id",
+            "legislatura_numero"
+          ],
+          "isUnique": false
+        }
+      },
+      "foreignKeys": {
+        "posicao_politico_id_politico_id_fk": {
+          "name": "posicao_politico_id_politico_id_fk",
+          "tableFrom": "posicao",
+          "tableTo": "politico",
+          "columnsFrom": [
+            "politico_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "cascade",
+          "onUpdate": "no action"
+        },
+        "posicao_eixo_id_eixo_id_fk": {
+          "name": "posicao_eixo_id_eixo_id_fk",
+          "tableFrom": "posicao",
+          "tableTo": "eixo",
+          "columnsFrom": [
+            "eixo_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "cascade",
+          "onUpdate": "no action"
+        },
+        "posicao_legislatura_numero_legislatura_numero_fk": {
+          "name": "posicao_legislatura_numero_legislatura_numero_fk",
+          "tableFrom": "posicao",
+          "tableTo": "legislatura",
+          "columnsFrom": [
+            "legislatura_numero"
+          ],
+          "columnsTo": [
+            "numero"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "posicao_evidencia": {
+      "name": "posicao_evidencia",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "posicao_id": {
+          "name": "posicao_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "votacao_id": {
+          "name": "votacao_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "voto_id": {
+          "name": "voto_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "referencia": {
+          "name": "referencia",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "concordou": {
+          "name": "concordou",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "evidencia_uq": {
+          "name": "evidencia_uq",
+          "columns": [
+            "posicao_id",
+            "votacao_id"
+          ],
+          "isUnique": true
+        },
+        "evidencia_posicao_idx": {
+          "name": "evidencia_posicao_idx",
+          "columns": [
+            "posicao_id"
+          ],
+          "isUnique": false
+        }
+      },
+      "foreignKeys": {
+        "posicao_evidencia_posicao_id_posicao_id_fk": {
+          "name": "posicao_evidencia_posicao_id_posicao_id_fk",
+          "tableFrom": "posicao_evidencia",
+          "tableTo": "posicao",
+          "columnsFrom": [
+            "posicao_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "cascade",
+          "onUpdate": "no action"
+        },
+        "posicao_evidencia_votacao_id_votacao_id_fk": {
+          "name": "posicao_evidencia_votacao_id_votacao_id_fk",
+          "tableFrom": "posicao_evidencia",
+          "tableTo": "votacao",
+          "columnsFrom": [
+            "votacao_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "cascade",
+          "onUpdate": "no action"
+        },
+        "posicao_evidencia_voto_id_voto_id_fk": {
+          "name": "posicao_evidencia_voto_id_voto_id_fk",
+          "tableFrom": "posicao_evidencia",
+          "tableTo": "voto",
+          "columnsFrom": [
+            "voto_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "set null",
+          "onUpdate": "no action"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "proposicao": {
+      "name": "proposicao",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "casa": {
+          "name": "casa",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "id_externo": {
+          "name": "id_externo",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "sigla_tipo": {
+          "name": "sigla_tipo",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "numero": {
+          "name": "numero",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "ano": {
+          "name": "ano",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "ementa": {
+          "name": "ementa",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "data_apresentacao": {
+          "name": "data_apresentacao",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "fonte_url": {
+          "name": "fonte_url",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "proposicao_uq": {
+          "name": "proposicao_uq",
+          "columns": [
+            "casa",
+            "id_externo"
+          ],
+          "isUnique": true
+        }
+      },
+      "foreignKeys": {},
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "proposicao_tema": {
+      "name": "proposicao_tema",
+      "columns": {
+        "proposicao_id": {
+          "name": "proposicao_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "tema_id": {
+          "name": "tema_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "relevancia": {
+          "name": "relevancia",
+          "type": "real",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "proposicao_tema_uq": {
+          "name": "proposicao_tema_uq",
+          "columns": [
+            "proposicao_id",
+            "tema_id"
+          ],
+          "isUnique": true
+        }
+      },
+      "foreignKeys": {
+        "proposicao_tema_proposicao_id_proposicao_id_fk": {
+          "name": "proposicao_tema_proposicao_id_proposicao_id_fk",
+          "tableFrom": "proposicao_tema",
+          "tableTo": "proposicao",
+          "columnsFrom": [
+            "proposicao_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "cascade",
+          "onUpdate": "no action"
+        },
+        "proposicao_tema_tema_id_tema_id_fk": {
+          "name": "proposicao_tema_tema_id_tema_id_fk",
+          "tableFrom": "proposicao_tema",
+          "tableTo": "tema",
+          "columnsFrom": [
+            "tema_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "tema": {
+      "name": "tema",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "nome": {
+          "name": "nome",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {},
+      "foreignKeys": {},
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "votacao": {
+      "name": "votacao",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "casa": {
+          "name": "casa",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "id_externo": {
+          "name": "id_externo",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "orgao_id": {
+          "name": "orgao_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "proposicao_id": {
+          "name": "proposicao_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "data": {
+          "name": "data",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "descricao": {
+          "name": "descricao",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "aprovacao": {
+          "name": "aprovacao",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "nominal": {
+          "name": "nominal",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "secreta": {
+          "name": "secreta",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false,
+          "default": false
+        },
+        "total_sim": {
+          "name": "total_sim",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "total_nao": {
+          "name": "total_nao",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "total_abstencao": {
+          "name": "total_abstencao",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "fonte_url": {
+          "name": "fonte_url",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "coletado_em": {
+          "name": "coletado_em",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false,
+          "default": "(strftime('%Y-%m-%dT%H:%M:%SZ','now'))"
+        }
+      },
+      "indexes": {
+        "votacao_uq": {
+          "name": "votacao_uq",
+          "columns": [
+            "casa",
+            "id_externo"
+          ],
+          "isUnique": true
+        },
+        "votacao_data_idx": {
+          "name": "votacao_data_idx",
+          "columns": [
+            "data"
+          ],
+          "isUnique": false
+        },
+        "votacao_elegivel_idx": {
+          "name": "votacao_elegivel_idx",
+          "columns": [
+            "nominal",
+            "secreta",
+            "data"
+          ],
+          "isUnique": false
+        }
+      },
+      "foreignKeys": {
+        "votacao_orgao_id_orgao_id_fk": {
+          "name": "votacao_orgao_id_orgao_id_fk",
+          "tableFrom": "votacao",
+          "tableTo": "orgao",
+          "columnsFrom": [
+            "orgao_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        },
+        "votacao_proposicao_id_proposicao_id_fk": {
+          "name": "votacao_proposicao_id_proposicao_id_fk",
+          "tableFrom": "votacao",
+          "tableTo": "proposicao",
+          "columnsFrom": [
+            "proposicao_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    },
+    "voto": {
+      "name": "voto",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "votacao_id": {
+          "name": "votacao_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "politico_id": {
+          "name": "politico_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "partido_id": {
+          "name": "partido_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        },
+        "voto": {
+          "name": "voto",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "tipo_voto_original": {
+          "name": "tipo_voto_original",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "computavel": {
+          "name": "computavel",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "data_registro": {
+          "name": "data_registro",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "voto_uq": {
+          "name": "voto_uq",
+          "columns": [
+            "votacao_id",
+            "politico_id"
+          ],
+          "isUnique": true
+        },
+        "voto_politico_idx": {
+          "name": "voto_politico_idx",
+          "columns": [
+            "politico_id"
+          ],
+          "isUnique": false
+        },
+        "voto_votacao_partido_idx": {
+          "name": "voto_votacao_partido_idx",
+          "columns": [
+            "votacao_id",
+            "partido_id",
+            "voto"
+          ],
+          "isUnique": false
+        }
+      },
+      "foreignKeys": {
+        "voto_votacao_id_votacao_id_fk": {
+          "name": "voto_votacao_id_votacao_id_fk",
+          "tableFrom": "voto",
+          "tableTo": "votacao",
+          "columnsFrom": [
+            "votacao_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "cascade",
+          "onUpdate": "no action"
+        },
+        "voto_politico_id_politico_id_fk": {
+          "name": "voto_politico_id_politico_id_fk",
+          "tableFrom": "voto",
+          "tableTo": "politico",
+          "columnsFrom": [
+            "politico_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "cascade",
+          "onUpdate": "no action"
+        },
+        "voto_partido_id_partido_id_fk": {
+          "name": "voto_partido_id_partido_id_fk",
+          "tableFrom": "voto",
+          "tableTo": "partido",
+          "columnsFrom": [
+            "partido_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "checkConstraints": {}
+    }
+  },
+  "views": {},
+  "enums": {},
+  "_meta": {
+    "schemas": {},
+    "tables": {},
+    "columns": {}
+  },
+  "internal": {
+    "indexes": {}
+  }
+}

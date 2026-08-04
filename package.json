@@ -1,0 +1,24 @@
+{
+  "name": "bussola-civica",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "drizzle-kit migrate",
+    "db:studio": "drizzle-kit studio",
+    "db:migrar": "node --experimental-strip-types src/db/migrar.ts",
+    "db:validar": "node --experimental-strip-types src/db/validar.ts",
+    "ingerir": "node --experimental-strip-types src/ingest/index.ts",
+    "relatorio": "node --experimental-strip-types src/relatorio.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.45.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "drizzle-kit": "^0.31.10",
+    "typescript": "^5.7.2"
+  }
+}

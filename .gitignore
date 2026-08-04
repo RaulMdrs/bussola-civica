@@ -1,0 +1,18 @@
+node_modules/
+
+# Banco local. NÃO versionar: contém CPF de parlamentares, coletado da API
+# oficial apenas como chave interna de reconciliação com o TSE (docs/FONTES.md §1.1).
+# O acervo é integralmente reconstruível com `npm run ingerir`.
+data/
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
+
+.DS_Store
+.env
+.env.local
+tmp/
+
+# Permissões locais da sessão — específicas da máquina
+.claude/settings.local.json
