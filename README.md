@@ -93,5 +93,8 @@ exposto pela API pública nem pelo front. Todo o acervo é reconstruível com
 
 ## Licença
 
-A definir. Os dados são públicos e de fonte oficial; o código ainda não tem
-licença declarada.
+Código sob [MIT](LICENSE).
+
+Os dados vêm de fontes públicas oficiais (Câmara, Senado, TSE) e não são
+cobertos por esta licença — ao redistribuí-los, mantenha a atribuição à fonte,
+como o próprio modelo faz via `fonte_url`.
