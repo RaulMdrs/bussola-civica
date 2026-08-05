@@ -43,8 +43,10 @@ npm install
 npm run ingerir -- --inicio 2025-01-01 --fim 2025-06-30
 ```
 
-Cria `data/bussola.db` e coleta o período. Primeira execução leva ~9 min
-(~700 requisições contra uma API instável, com retry); re-execuções usam cache.
+Cria `data/bussola.db` e coleta o período. Um semestre leva ~9 min (~700
+requisições contra uma API instável, com retry); a legislatura inteira
+(`--inicio 2023-02-01`) leva ~1h e produz um banco de ~71 MB com 6.281
+votações e 450 mil votos. Re-execuções usam cache.
 
 ```bash
 npm run relatorio

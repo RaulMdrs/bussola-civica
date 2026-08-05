@@ -21,7 +21,7 @@ import {
   ID_ORGAO_PLENARIO,
   type ProposicaoResumo,
 } from "./camara.ts";
-import { janelas, type OpcoesFetch } from "../lib/http.ts";
+import { ErroHttp, janelas, type OpcoesFetch } from "../lib/http.ts";
 import { CLASSIFICACAO_VERSAO, classificarDiscurso } from "../lib/classificar.ts";
 import { NATUREZA_VERSAO, classificarNatureza } from "../lib/natureza.ts";
 import {
@@ -99,8 +99,12 @@ async function comAuditoria<T>(
 
 const cachePartidos = new Map<string, number>();
 
-async function idPartido(db: Banco, siglaBruta: string): Promise<number> {
+async function idPartido(
+  db: Banco,
+  siglaBruta: string | null | undefined,
+): Promise<number | null> {
   const sigla = normalizarSigla(siglaBruta);
+  if (!sigla) return null;
   const emCache = cachePartidos.get(sigla);
   if (emCache) return emCache;
 
@@ -111,6 +115,13 @@ async function idPartido(db: Banco, siglaBruta: string): Promise<number> {
     .where(eq(s.partido.sigla, sigla));
   cachePartidos.set(sigla, row!.id);
   return row!.id;
+}
+
+/** Igual a `idPartido`, mas para contextos que exigem um id. */
+async function idPartidoObrigatorio(db: Banco, sigla: string): Promise<number> {
+  const id = await idPartido(db, sigla);
+  if (id === null) throw new Error(`sigla de partido vazia: ${JSON.stringify(sigla)}`);
+  return id;
 }
 
 // ---------------------------------------------------------------------------
@@ -266,7 +277,7 @@ export async function ingerirDeputados(ctx: Contexto) {
 
     // filiações
     for (const f of derivarFiliacoes(hist)) {
-      const partidoId = await idPartido(ctx.db, f.sigla);
+      const partidoId = await idPartidoObrigatorio(ctx.db, f.sigla);
       await ctx.db
         .insert(s.filiacao)
         .values({
@@ -451,6 +462,7 @@ export async function ingerirVotacoes(
   let nominais = 0;
   let simbolicas = 0;
   let puladas = 0;
+  let ignoradas = 0;
 
   for (const v of listadas) {
     // Votação passada é imutável: se já foi coletada, não recoletar (§6).
@@ -467,9 +479,30 @@ export async function ingerirVotacoes(
       continue;
     }
 
-    const votos = await comAuditoria(ctx, `votacoes/${v.id}/votos`, (o) =>
-      camara.votos(v.id, o),
-    );
+    // A listagem às vezes devolve id que os endpoints de detalhe não reconhecem
+    // — 2351287-23 dá 404 tanto em /votos quanto em /votacoes/{id}. É
+    // inconsistência da origem (votação anulada, provavelmente).
+    //
+    // Uma votação assim não pode derrubar a coleta inteira: num período de
+    // legislatura são ~6.400 votações, e abortar no item 657 desperdiça tudo o
+    // que viria depois. Registra-se o aviso e segue — a votação fica FORA do
+    // acervo, porque não temos o dado, e inventar `nominal = false` afirmaria
+    // algo que não foi verificado.
+    let votos;
+    try {
+      votos = await comAuditoria(ctx, `votacoes/${v.id}/votos`, (o) =>
+        camara.votos(v.id, o),
+      );
+    } catch (e) {
+      const erro = e as ErroHttp;
+      ctx.avisos.push(
+        erro?.status === 404
+          ? `votação ${v.id} (${v.data}) não existe na origem, apesar de listada — ignorada`
+          : `votação ${v.id} (${v.data}) falhou: ${erro?.message?.slice(0, 90)} — ignorada`,
+      );
+      ignoradas++;
+      continue;
+    }
 
     // A ÚNICA forma de distinguir nominal de simbólica: lista de votos vazia
     // significa simbólica (§1.4). Não há campo equivalente na origem.
@@ -532,7 +565,7 @@ export async function ingerirVotacoes(
           politicoId,
           partidoId: d.siglaPartido ? await idPartido(ctx.db, d.siglaPartido) : null,
           voto: n.voto,
-          tipoVotoOriginal: voto.tipoVoto,
+          tipoVotoOriginal: voto.tipoVoto ?? "(nulo na origem)",
           computavel: n.computavel,
           dataRegistro: normalizarData(voto.dataRegistroVoto),
         })
@@ -542,9 +575,16 @@ export async function ingerirVotacoes(
         });
     }
 
-    const orientacoes = await comAuditoria(ctx, `votacoes/${v.id}/orientacoes`, (o) =>
-      camara.orientacoes(v.id, o),
-    );
+    let orientacoes;
+    try {
+      orientacoes = await comAuditoria(ctx, `votacoes/${v.id}/orientacoes`, (o) =>
+        camara.orientacoes(v.id, o),
+      );
+    } catch {
+      // sem orientação a votação segue no acervo; só não entra no eixo 1
+      ctx.avisos.push(`orientações da votação ${v.id} não coletadas`);
+      continue;
+    }
     for (const o of orientacoes) {
       const { orientacao, liberado } = normalizarOrientacao(o.orientacaoVoto);
       // partido_id só é resolvível quando a liderança é de PARTIDO ('P').
@@ -574,7 +614,8 @@ export async function ingerirVotacoes(
 
   ctx.log(
     `  total ${listadas.length}: ${nominais} nominais, ${simbolicas} simbólicas` +
-      (puladas ? ` (${puladas} já em cache)` : ""),
+      (puladas ? ` (${puladas} já em cache)` : "") +
+      (ignoradas ? ` — ${ignoradas} indisponíveis na origem` : ""),
   );
   return { nominais, simbolicas, total: listadas.length };
 }
@@ -640,16 +681,26 @@ async function upsertProposicao(
 export async function ingerirProposicoes(ctx: Contexto) {
   ctx.log("proposições");
 
+  // Só votações NOMINAIS: são as únicas que alimentam eixos e perfis, e o
+  // detalhe custa uma requisição por votação. Numa legislatura inteira isso é a
+  // diferença entre ~2.200 e ~6.400 chamadas. As simbólicas permanecem no
+  // acervo, apenas sem vínculo de matéria.
   const pendentes = await ctx.db
     .select({ id: s.votacao.id, idExterno: s.votacao.idExterno })
     .from(s.votacao)
-    .where(and(eq(s.votacao.casa, "camara"), isNull(s.votacao.proposicaoId)));
+    .where(
+      and(
+        eq(s.votacao.casa, "camara"),
+        eq(s.votacao.nominal, true),
+        isNull(s.votacao.proposicaoId),
+      ),
+    );
 
   if (pendentes.length === 0) {
-    ctx.log("  todas as votações já vinculadas");
+    ctx.log("  todas as votações nominais já vinculadas");
     return;
   }
-  ctx.log(`  ${pendentes.length} votações sem vínculo`);
+  ctx.log(`  ${pendentes.length} votações nominais sem vínculo`);
 
   const cacheProp = new Map<number, number>();
   const temasFeitos = new Set<number>();

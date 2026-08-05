@@ -17,6 +17,19 @@ const um = <T>(sql: string): T => db.prepare(sql).get() as T;
 
 const pct = (n: number, d: number) => (d ? ((100 * n) / d).toFixed(1) : "0.0");
 
+/**
+ * O banco pode conter posições de vários períodos (um semestre, a legislatura
+ * inteira). O relatório escolhe o mais abrangente e diz qual está mostrando —
+ * misturar períodos faria o mesmo parlamentar aparecer duas vezes com números
+ * diferentes.
+ */
+const periodo = um<{ ini: string; fim: string } | undefined>(`
+  SELECT periodo_inicio ini, periodo_fim fim
+  FROM posicao
+  GROUP BY periodo_inicio, periodo_fim
+  ORDER BY julianday(periodo_fim) - julianday(periodo_inicio) DESC
+  LIMIT 1`);
+
 console.log("═══ ACERVO ═══\n");
 
 const v = um<{ total: number; nominais: number; simbolicas: number }>(`
@@ -25,7 +38,11 @@ const v = um<{ total: number; nominais: number; simbolicas: number }>(`
          SUM(CASE WHEN nominal=0 THEN 1 ELSE 0 END) simbolicas
   FROM votacao`);
 console.log(`votações        ${v.total} (${v.nominais} nominais, ${v.simbolicas} simbólicas)`);
-console.log(`taxa nominal    ${pct(v.nominais, v.total)}%   [reconhecimento: 34,2%]`);
+const dt = um<{ ini: string; fim: string }>("SELECT MIN(data) ini, MAX(data) fim FROM votacao");
+console.log(`período         ${dt.ini} → ${dt.fim}`);
+// A taxa varia muito por período: 34,2% no 1º sem/2025, 17,7% na legislatura
+// inteira. Não há um valor "correto" a comparar — só o do mesmo recorte.
+console.log(`taxa nominal    ${pct(v.nominais, v.total)}%`);
 
 const c = um<{ votos: number; pol: number; comp: number }>(`
   SELECT COUNT(*) votos, COUNT(DISTINCT politico_id) pol, SUM(computavel) comp FROM voto`);
@@ -128,6 +145,12 @@ for (const r of all<{ natureza: string; n: number }>(
   console.log(`  ${String(r.n).padStart(4)}  ${r.natureza.padEnd(14)} ${nota}`);
 }
 
+if (periodo) {
+  console.log(
+    `\n(posições apuradas no período ${periodo.ini} → ${periodo.fim})`,
+  );
+}
+
 console.log("\n═══ EIXO 1 — ALINHAMENTO COM O GOVERNO ═══");
 console.log("\n  ── escopo: MÉRITO (principal) ──\n");
 mostrarEixo("alinhamento_governo", "merito");
@@ -146,6 +169,8 @@ console.log("\n═══ MÉRITO vs PROCEDIMENTAL — quem muda de lugar ══�
            MAX(CASE WHEN po.escopo='procedimental' THEN po.valor END) p
     FROM posicao po
     JOIN eixo e     ON e.id = po.eixo_id AND e.chave = 'alinhamento_governo'
+                   AND po.periodo_inicio = '${periodo?.ini ?? ""}'
+                   AND po.periodo_fim = '${periodo?.fim ?? ""}'
     JOIN politico pl ON pl.id = po.politico_id
     LEFT JOIN filiacao f ON f.politico_id = pl.id AND f.data_fim IS NULL
     LEFT JOIN partido pt ON pt.id = f.partido_id
@@ -179,6 +204,8 @@ function mostrarEixo(chave: string, escopo: string) {
     LEFT JOIN filiacao f ON f.politico_id = p.id AND f.data_fim IS NULL
     LEFT JOIN partido pt ON pt.id = f.partido_id
     WHERE po.escopo = '${escopo}'
+      AND po.periodo_inicio = '${periodo?.ini ?? ""}'
+      AND po.periodo_fim = '${periodo?.fim ?? ""}'
     ORDER BY po.valor DESC`);
 
   if (!linhas.length) {

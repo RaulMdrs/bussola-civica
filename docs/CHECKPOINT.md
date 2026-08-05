@@ -1,6 +1,6 @@
 # CHECKPOINT — Bússola Cívica
 
-**Data:** 2026-08-04 · **Fase:** 0 (deputados federais do RS)
+**Data:** 2026-08-05 · **Fase:** 0 (deputados federais do RS)
 **Estado:** backend funcional — reconhecimento, modelo, ingestor e cálculo de
 posições prontos e validados contra dados reais. Web e app ainda não iniciados.
 
@@ -19,8 +19,10 @@ Documentos detalhados: [FONTES.md](./FONTES.md) · [MODELO-DADOS.md](./MODELO-DA
 | 5 | Classificação de discursos | `src/lib/classificar.ts` — filtro de ruído protocolar |
 | 6 | Vínculo votação↔proposição | etapa `proposicoes` — matéria, objeto votado e temas |
 | 7 | Separação mérito/procedimental | `src/lib/natureza.ts` — eixos apurados em dois escopos |
+| 8 | Ampliação para a legislatura | 6.281 votações, 450 mil votos, 31/31 parlamentares posicionados |
 
-Banco atual: **9,3 MB**, 1º semestre de 2025 (votações de 2025-02-04 a 2025-06-26).
+Banco atual: **71 MB**, **legislatura 57 inteira** (votações de 2023-02-01 a
+2026-08-04): 6.281 votações, 1.112 nominais, 450.209 votos.
 
 ---
 
@@ -242,34 +244,62 @@ substantivo. Regra em `src/lib/classificar.ts`, versão `2026-08-04.4`.
 Verificação independente: os números do reconhecimento foram obtidos por scripts
 avulsos, antes de existir banco.
 
+Validação original, no 1º semestre de 2025 (recorte do reconhecimento):
+
 | Métrica | Ingestor | Reconhecimento |
 |---|---|---|
-| Votações de plenário (1º sem/2025) | 450 | 450 |
+| Votações de plenário | 450 | 450 |
 | Nominais / simbólicas | 154 / 296 | 154 / 296 |
 | Taxa de nominais | 34,2% | 34,2% |
 | Votos individuais | 58.724 | 58.724 |
 | Sim / Não | 31.375 / 26.940 | idênticos |
 | Artigo 17 / Abstenção / Obstrução | 151 / 149 / 109 | idênticos |
-| Posições calculadas | 29/31 por eixo/escopo | 29/31 |
 | Natureza das nominais | mérito 66, proc. 86, formal 2 | idênticos |
 | Orientações de bloco com `partido_id` | 0 de 980 | confirma achado 6 |
 | Cruzamento Câmara↔TSE por CPF | — | 31/31 |
+
+### Acervo atual — legislatura 57 completa
+
+| | |
+|---|---|
+| Período | 2023-02-01 → 2026-08-04 |
+| Votações | 6.281 (1.112 nominais, 5.169 simbólicas) |
+| Taxa de nominais | **17,7%** |
+| Votos individuais | 450.209, de 643 parlamentares |
+| Natureza das nominais | mérito 570, procedimental 532, formal 10 |
+| Proposições / vínculos de tema | 741 / 1.071 |
+| Nominais vinculadas à matéria | 1.111/1.112 (99,9%) |
+| Discursos | 5.868 (4.964 substantivos) |
+| Posições | 31/31 parlamentares × 2 eixos × 2 escopos |
+| Evidências | 51.766 |
+| Coleta | 10.355 operações, 10.614 requisições, 83 com retry |
+
+> **A taxa de nominais varia muito por período** — 34,2% no 1º sem/2025 contra
+> 17,7% na legislatura inteira. Não existe um valor de referência universal; só
+> faz sentido comparar recortes iguais.
+
+**31/31 parlamentares posicionados** (contra 29/31 no semestre): com a
+legislatura inteira, Carlos Gomes e Sérgio Turra passam a ter votações dentro
+dos seus períodos de exercício. O denominador individualizado funciona como
+projetado — Sérgio Turra tem 28 oportunidades (em exercício desde 2026-04-07),
+Carlos Gomes 171 (períodos fragmentados) e Paulo Pimenta 272 (licenciado para
+o cargo de ministro), contra 570 de quem serviu o período inteiro.
 
 ### Conteúdo do banco
 
 | Tabela | Linhas | | Tabela | Linhas |
 |---|---|---|---|---|
-| `voto` | 58.724 | | `mandato` | 31 |
-| `posicao_evidencia` | 6.164 | | `tema` | 32 |
-| `orientacao` | 1.221 | | `partido` | 28 |
-| `coleta` | 926 | | `exercicio` | 39 |
-| `discurso` | 839 | | `filiacao` | 53 |
-| `politico` | 525 (31 completos) | | `posicao` | 116 |
-| `identidade_externa` | 525 | | `eixo` | 2 |
-| `votacao` | 450 | | `legislatura` | 1 |
-| `proposicao` | 166 | | `proposicao_tema` | 280 |
+| `voto` | 450.209 | | `mandato` | 31 |
+| `posicao_evidencia` | 51.766 | | `tema` | 32 |
+| `orientacao` | 11.682 | | `partido` | 28 |
+| `coleta` | 10.355 | | `exercicio` | 39 |
+| `discurso` | 5.868 | | `filiacao` | 53 |
+| `politico` | 643 (31 completos) | | `posicao` | 240 |
+| `identidade_externa` | 643 | | `eixo` | 2 |
+| `votacao` | 6.281 | | `legislatura` | 1 |
+| `proposicao` | 741 | | `proposicao_tema` | 1.071 |
 
-**Coleta:** 926 operações, 952 requisições, **22 precisaram de retry**.
+**Coleta:** 10.355 operações, 10.614 requisições, **83 precisaram de retry**.
 
 ---
 
@@ -286,6 +316,9 @@ Todos apareceram ao rodar contra dados reais, não em revisão de código.
 | Salvaguarda testava o sumário inteiro | Ementa do projeto ("requerimento que **solicita**…") virava "posicionamento"; filtro caiu para 10% | Testar só sentenças após a primeira |
 | `\b` impedia casar radicais prefixados | "Reafirmou" não casava `afirm` | `(?:re)?` opcional |
 | `validar.ts` aplicava só a 1ª migration | Validação silenciosamente desatualizada | Aplica todas em ordem |
+| 404 numa votação abortava o lote inteiro | Coleta parou no item 657 de 6.364 | Falha individual vira aviso; votação fica fora do acervo |
+| `tipoVoto` e `siglaPartido` nulos quebravam `.trim()` | Coleta parou de novo, no item ~4.700 | Normalizações aceitam null; código nulo vira aviso |
+| Relatório misturava períodos | Cada parlamentar aparecia duas vezes com números diferentes | Escolhe o período mais abrangente e o declara |
 | Log reportava evidências calculadas como gravadas | Número enganoso (40.666 vs 2.544) | Log distingue os dois |
 
 **Ajustes de ambiente:** `better-sqlite3` não compila no Node 26 → `node:sqlite`
@@ -303,7 +336,7 @@ Honestamente: o que está no schema mas **não é populado**, e o que não foi f
 | `partido_alias` | **vazia** — schema existe, pipeline não popula | Sem efeito hoje (só Câmara); vira problema ao integrar TSE ("PC do B" vs "PCdoB") |
 | Integração TSE | **não implementada** — `identidade_externa` só tem fonte `camara` | Sem vínculo com candidatura, bens declarados, `SQ_CANDIDATO`. O método está validado (31/31 por CPF), falta codificar |
 | Senado | **não integrado** | Escopo da Fase 1 |
-| Período coletado | apenas 1º sem/2025 | Legislatura 57 vai de 2023-02-01 a 2027-01-31 |
+| ~~Período coletado~~ | ✅ **resolvido** — legislatura 57 completa até 2026-08-04 | Restam apenas as sessões até 2027-01-31, coletáveis incrementalmente |
 | Camada web / API HTTP | **não iniciada** | Nada é servido ainda |
 | App mobile | **não iniciado** | Fase 3 |
 | Metodologia pública dos eixos | documentada em `MODELO-DADOS.md`, **não publicada** | Requisito antes de exibir posições |
@@ -365,8 +398,8 @@ Custo por semestre: ~3 + 62 + (2 janelas + ~450 `/votos` + ~154 `/orientacoes`)
 
 ## 11. Próximos passos sugeridos
 
-1. **Ampliar o período** para a legislatura inteira (2023→). São 8 janelas de 3
-   meses; volume estimado ~1.200 votações nominais, suficiente para escalonamento.
+1. **Manter o acervo atualizado** — rodar periodicamente com `--inicio` na
+   última data coletada. Votações passadas são imutáveis e ficam em cache.
 2. **Integrar TSE via CSV** — método validado, falta implementar. Popular
    `identidade_externa` e `partido_alias`.
 3. **Publicar a metodologia dos eixos** antes de qualquer exibição pública.

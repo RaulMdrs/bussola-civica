@@ -49,11 +49,14 @@ export interface ResultadoVoto {
 }
 
 export function normalizarVoto(
-  original: string,
+  original: string | null | undefined,
   casa: "camara" | "senado",
   votacaoSecreta = false,
 ): ResultadoVoto {
-  const bruto = original.trim();
+  // `tipoVoto` chega null em registros reais da legislatura 57 — tratar como
+  // desconhecido, jamais como ausência tácita.
+  const bruto = (original ?? "").trim();
+  if (!bruto) return { voto: "ausente", computavel: false, desconhecido: true };
 
   if (SIGILOSOS.has(bruto)) {
     // Em votação secreta a API confirma que votou, mas não como (§2.4).
@@ -101,8 +104,8 @@ const ALIASES: Record<string, string> = {
   "REPUBLICAN": "REPUBLICANOS",
 };
 
-export function normalizarSigla(sigla: string): string {
-  const limpa = sigla.trim().replace(/\s+/g, " ");
+export function normalizarSigla(sigla: string | null | undefined): string {
+  const limpa = (sigla ?? "").trim().replace(/\s+/g, " ");
   return ALIASES[limpa.toUpperCase()] ?? limpa;
 }
 
