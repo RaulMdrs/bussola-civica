@@ -27,6 +27,65 @@ Conferir o resultado contra os números do reconhecimento:
 npm run relatorio
 ```
 
+### Manutenção periódica
+
+```bash
+npm run ingerir:incremental
+```
+
+Sem argumentos: descobre no banco até onde a coleta chegou e continua dali até
+hoje. Aceita `--uf` e `--legislatura`. Não inicia acervo — sem banco, falha
+dizendo como reconstruir.
+
+---
+
+## Duas janelas, não uma
+
+A ingestão incremental **não** é a ingestão completa com datas mais estreitas.
+Coleta e apuração usam janelas diferentes:
+
+| | Janela |
+|---|---|
+| `votacoes`, `proposicoes`, `discursos` | última data coberta → hoje |
+| `posicoes` | início da legislatura → hoje |
+
+`posicao` é gravada com chave `(periodo_inicio, periodo_fim)`. Rodar `posicoes`
+na janela incremental não atualiza as posições da legislatura — grava um
+**segundo** conjunto, apurado sobre os dias novos, com denominador de poucas
+votações. E o `relatorio` escolhe o período mais abrangente, então o engano não
+apareceria ali: o acervo teria posições enganosas que nenhum comando exibe.
+
+Rodar `npm run ingerir -- --inicio <última data> --fim <hoje>` sem restringir as
+etapas cai exatamente nessa armadilha. É o motivo de `ingerir:incremental`
+existir em vez de ser só uma anotação de uso.
+
+### A última data coberta não é a última data com votação
+
+`MAX(votacao.data)` diz onde houve sessão. A tabela `coleta` registra a janela
+pedida à origem (`votacoes 2023-02-01..2023-04-30`), e portanto até onde se
+**olhou** — que é a pergunta certa. Em recesso as duas divergem por semanas, e
+recomeçar pela segunda revarreria janelas já cobertas a cada execução.
+`MAX(votacao.data)` fica como fallback, para banco anterior a esta auditoria.
+
+A retomada é **na** última data coberta, não no dia seguinte: a votação do dia
+em que a coleta anterior rodou pode ter sido gravada com a sessão em curso, e o
+pipeline só trata como imutável votação anterior a hoje (§ *Idempotência*).
+Revarrer um dia custa cache; perder a votação de fecho de sessão, não.
+
+### Data corrente é a de Brasília
+
+`hoje()` (`src/lib/normalizar.ts`) usa `America/Sao_Paulo`, não `toISOString()`.
+Vale para a coleta inteira, não só para o incremental — a fronteira do cache é
+uma data, e data depende de fuso.
+
+UTC vira o dia às 21h BRT. Enquanto o pipeline usava `toISOString()`, coleta
+rodada entre 21h e meia-noite lia o dia seguinte, dava por passada a votação
+**do próprio dia** e a gravava como imutável — placar de sessão em curso,
+nunca mais rebuscado. No incremental, o mesmo cálculo declararia cobertura até
+uma data que ainda não começou no país da fonte.
+
+As três horas do defeito estão fixadas como regressão em `npm run db:validar`.
+
 ---
 
 ## Arquitetura
