@@ -33,7 +33,9 @@ Todas públicas, gratuitas e sem autenticação.
 
 ## Como rodar
 
-Requer **Node 22+** (usa `node:sqlite` nativo e type-stripping; sem passo de build).
+Requer **Node 22.6+** (`node:sqlite` nativo chegou no 22.5, o type-stripping no
+22.6; sem passo de build). Declarado em `engines` — `npm install` avisa se a
+versão não servir, em vez de falhar depois com erro obscuro de sintaxe.
 
 ```bash
 npm install
