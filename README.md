@@ -51,6 +51,13 @@ requisições contra uma API instável, com retry); a legislatura inteira
 votações e 450 mil votos. Re-execuções usam cache.
 
 ```bash
+npm run ingerir:incremental
+```
+
+Continua de onde a última coleta parou — descobre a data no próprio banco, não
+precisa de argumento. É o comando da manutenção periódica.
+
+```bash
 npm run relatorio
 ```
 
