@@ -104,6 +104,13 @@ há nada novo a coletar — são derivação pura, e mudança de regra de
 classificação ou de metodologia de eixo precisa poder ser aplicada sem que a
 Câmara tenha publicado uma sessão nova.
 
+A decisão mora em [`src/ingest/horizonte.ts`](../src/ingest/horizonte.ts),
+separada da CLI por um motivo só: `incremental.ts` é um script, executa ao ser
+importado. Em módulo à parte, a lógica é verificável em `npm run db:validar` —
+10 casos, contra banco em memória, sem rede. Os casos foram conferidos por
+mutação: herdar o horizonte de votação no discurso, trocar o mínimo entre
+etapas pelo máximo, e ignorar `status <> 'ok'` fazem a suíte falhar.
+
 ### Data corrente é a de Brasília
 
 `hoje()` (`src/lib/normalizar.ts`) usa `America/Sao_Paulo`, não `toISOString()`.
