@@ -127,6 +127,20 @@ export function normalizarData(v: string | null | undefined): string | null {
  *
  * A Câmara publica em horário de Brasília; a régua do acervo é a mesma.
  */
+/**
+ * Dia seguinte a uma data `YYYY-MM-DD`, na própria data — sem fuso.
+ *
+ * Existe porque `dataFim` da Câmara é **exclusivo** (ver `camara.votacoes`).
+ * Faz a aritmética em UTC de propósito: a entrada é uma data civil, não um
+ * instante, e converter para hora local abriria a mesma classe de erro que
+ * `hoje()` fecha.
+ */
+export function diaSeguinte(data: string): string {
+  const t = Date.parse(`${data}T00:00:00Z`);
+  if (Number.isNaN(t)) throw new Error(`data inválida: ${data}`);
+  return new Date(t + 86_400_000).toISOString().slice(0, 10);
+}
+
 export function hoje(agora: Date = new Date()): string {
   return new Intl.DateTimeFormat("en-CA", {
     timeZone: "America/Sao_Paulo",

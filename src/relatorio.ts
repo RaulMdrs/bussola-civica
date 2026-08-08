@@ -10,6 +10,7 @@
 
 import { DatabaseSync } from "node:sqlite";
 import { CAMINHO_DB } from "./db/client.ts";
+import { INVARIANTES, conferirIntegridade } from "./db/integridade.ts";
 
 const db = new DatabaseSync(process.env.BUSSOLA_DB ?? CAMINHO_DB);
 const all = <T>(sql: string): T[] => db.prepare(sql).all() as T[];
@@ -133,6 +134,23 @@ const retentadas = um<{ n: number }>(
   `SELECT COUNT(*) n FROM coleta WHERE tentativas > 1`,
 ).n;
 console.log(`  operações que precisaram de retry: ${retentadas}`);
+
+console.log("\n═══ INTEGRIDADE ═══\n");
+const achados = conferirIntegridade((s) => all<Record<string, unknown>>(s));
+if (!achados.length) {
+  console.log(`  ✓ ${INVARIANTES.length} invariantes, nenhuma violação`);
+} else {
+  for (const { invariante, linhas } of achados) {
+    console.log(`  ✗ ${invariante.nome}: ${linhas.length}`);
+    console.log(`      ${invariante.porque}`);
+    for (const l of linhas.slice(0, 5)) console.log(`      · ${JSON.stringify(l)}`);
+    if (linhas.length > 5) console.log(`      · … e mais ${linhas.length - 5}`);
+  }
+  console.log(
+    `\n  O acervo afirma algo que a coleta não sustenta. Recolete o período` +
+      `\n  afetado, ou recalcule as posições, conforme o caso acima.`,
+  );
+}
 
 console.log("\n═══ NATUREZA DAS VOTAÇÕES NOMINAIS ═══\n");
 for (const r of all<{ natureza: string; n: number }>(

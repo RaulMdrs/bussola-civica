@@ -18,6 +18,8 @@ import {
 import { classificarNatureza, type NaturezaVotacao } from "../lib/natureza.ts";
 import { hoje } from "../lib/normalizar.ts";
 import { descobrirJanelas } from "../ingest/horizonte.ts";
+import { conferirIntegridade } from "./integridade.ts";
+import { abrirBanco, schema } from "./client.ts";
 
 const db = new DatabaseSync(":memory:");
 
@@ -471,7 +473,129 @@ console.log("\nRetomada incremental — horizonte por etapa");
   db.exec("DELETE FROM coleta");
 }
 
-const totalChecagens = 45;
+/**
+ * Invariantes do acervo (`src/db/integridade.ts`).
+ *
+ * Cada uma existe por causa de um estado que a coleta produziu de verdade: a
+ * votação 2576389-4 ficou com a linha gravada e zero votos, porque o processo
+ * caiu no meio do laço e a re-execução a pulou como "já coletada". A transação
+ * em `ingerirVotacoes` impede que aconteça de novo; estas consultas garantem
+ * que, se acontecer, alguém veja.
+ */
+console.log("\nIntegridade do acervo — estados que a coleta não pode produzir");
+{
+  const todos = (s: string) => db.prepare(s).all() as Record<string, unknown>[];
+  const nomes = (a: ReturnType<typeof conferirIntegridade>) =>
+    a.map((x) => x.invariante.nome);
+
+  checar("fixture coerente não acusa nada", conferirIntegridade(todos), []);
+
+  // O caso real: linha de votação escrita, votos interrompidos.
+  db.exec(`INSERT INTO votacao (id, casa, id_externo, orgao_id, data, descricao, nominal, secreta, fonte_url)
+           VALUES (90,'camara','990-1',1,'2025-05-01','Nominal sem votos',1,0,'https://exemplo/v90')`);
+  checar("nominal sem voto é detectada", nomes(conferirIntegridade(todos)), [
+    "votação nominal sem nenhum voto gravado",
+  ]);
+  db.exec("DELETE FROM votacao WHERE id = 90");
+
+  // O inverso: votação 3 da fixture é simbólica.
+  db.exec(`INSERT INTO voto (votacao_id, politico_id, voto, tipo_voto_original, computavel)
+           VALUES (3,1,'sim','Sim',1)`);
+  checar("simbólica com voto é detectada", nomes(conferirIntegridade(todos)), [
+    "votação simbólica com voto gravado",
+  ]);
+  db.exec("DELETE FROM voto WHERE votacao_id = 3");
+
+  db.exec(`
+    INSERT INTO eixo (id, chave, nome_exibicao, descricao, rotulo_min, rotulo_max, metodologia_versao)
+      VALUES (90,'teste','Teste','—','min','max','2026-08-07.0');
+    INSERT INTO posicao (id, politico_id, eixo_id, legislatura_numero, periodo_inicio, periodo_fim,
+                         escopo, valor, n_observacoes, n_oportunidades, metodologia_versao)
+      VALUES (90,1,90,57,'2023-02-01','2026-08-07','merito',0.5,10,20,'2026-08-07.0')`);
+  checar("posição sem evidência é detectada", nomes(conferirIntegridade(todos)), [
+    "posição sem nenhuma evidência",
+  ]);
+
+  /**
+   * O caso que `ingerir:incremental` produzia todo dia: mesma série apurada
+   * com dois `periodo_fim`. Aconteceu de verdade na virada de 2026-08-07 para
+   * 08-08 — 124 posições viraram 248.
+   */
+  db.exec(`
+    INSERT INTO posicao (id, politico_id, eixo_id, legislatura_numero, periodo_inicio, periodo_fim,
+                         escopo, valor, n_observacoes, n_oportunidades, metodologia_versao)
+      VALUES (91,1,90,57,'2023-02-01','2026-08-08','merito',0.5,10,20,'2026-08-07.0')`);
+  checar(
+    "mesma série com dois períodos é detectada",
+    nomes(conferirIntegridade(todos)).sort(),
+    ["mesma série de posição apurada em dois períodos", "posição sem nenhuma evidência"],
+  );
+
+  db.exec("DELETE FROM posicao WHERE id IN (90, 91); DELETE FROM eixo WHERE id = 90");
+
+  checar("e a limpeza devolve o acervo à coerência", conferirIntegridade(todos), []);
+}
+
+/**
+ * A transação de `ingerirVotacoes` é atômica de verdade?
+ *
+ * A correção do gap assume uma coisa não óbvia: que uma escrita feita pelo
+ * Drizzle **sobre o adaptador `sqlite-proxy`** participa da transação aberta
+ * por `sqlite.exec("BEGIN")` na conexão de baixo. Se as duas vias não
+ * compartilhassem a transação, o BEGIN/COMMIT seria decorativo e o gap
+ * continuaria aberto — sem nenhum sintoma visível.
+ *
+ * Aqui isso é exercitado com o cliente real, em banco em memória.
+ */
+console.log("\nAtomicidade — Drizzle e conexão crua na mesma transação");
+{
+  const mem = abrirBanco(":memory:");
+  for (const arquivo of readdirSync(dir).filter((f) => f.endsWith(".sql")).sort()) {
+    for (const stmt of readFileSync(join(dir, arquivo), "utf8").split("--> statement-breakpoint")) {
+      const t = stmt.trim();
+      if (t) mem.sqlite.exec(t);
+    }
+  }
+  mem.sqlite.exec(
+    `INSERT INTO orgao (id, casa, id_externo, sigla, nome) VALUES (1,'camara','180','PLEN','Plenário')`,
+  );
+  const contar = () =>
+    (mem.sqlite.prepare("SELECT COUNT(*) n FROM votacao").get() as { n: number }).n;
+
+  mem.sqlite.exec("BEGIN");
+  await mem.db.insert(schema.votacao).values({
+    casa: "camara",
+    idExterno: "999-1",
+    orgaoId: 1,
+    data: "2026-08-07",
+    descricao: "escrita pelo Drizzle dentro de BEGIN",
+    nominal: true,
+    secreta: false,
+    fonteUrl: "https://exemplo/atomicidade",
+  });
+  checar("dentro da transação, a escrita do Drizzle é visível", contar(), 1);
+
+  mem.sqlite.exec("ROLLBACK");
+  checar("ROLLBACK na conexão crua desfaz a escrita do Drizzle", contar(), 0);
+
+  mem.sqlite.exec("BEGIN");
+  await mem.db.insert(schema.votacao).values({
+    casa: "camara",
+    idExterno: "999-2",
+    orgaoId: 1,
+    data: "2026-08-07",
+    descricao: "commitada",
+    nominal: true,
+    secreta: false,
+    fonteUrl: "https://exemplo/atomicidade",
+  });
+  mem.sqlite.exec("COMMIT");
+  checar("COMMIT persiste", contar(), 1);
+
+  mem.sqlite.close();
+}
+
+const totalChecagens = 54;
 console.log(
   falhas === 0
     ? `\n✓ modelo validado: ${totalChecagens} verificações, 0 falhas\n`

@@ -8,6 +8,7 @@
  */
 
 import { buscarJson, buscarPaginado, type OpcoesFetch } from "../lib/http.ts";
+import { diaSeguinte } from "../lib/normalizar.ts";
 
 export const BASE = "https://dadosabertos.camara.leg.br/api/v2";
 
@@ -178,16 +179,35 @@ export const camara = {
   temas: (o?: OpcoesFetch) =>
     um<TemaApi[]>(`${BASE}/referencias/proposicoes/codTema`, o),
 
-  /** Janela de datas limitada a 3 meses pela origem — use `janelas()` (§1.3). */
+  /**
+   * Janela de datas limitada a 3 meses pela origem — use `janelas()` (§1.3).
+   *
+   * **`dataFim` é exclusivo.** Medido contra a origem em 2026-08-07:
+   *
+   *   dataInicio=2026-07-15 & dataFim=2026-07-15 →  0 votações
+   *   dataInicio=2026-07-15 & dataFim=2026-07-16 → 74 votações, todas de 07-15
+   *
+   * Não está documentado na spec. Como `janelas()` fatia em blocos consecutivos
+   * (`..2023-04-30`, `2023-05-01..`), o último dia de cada bloco não era pedido
+   * a ninguém: custou **10 votações de 2023-10-31** ao acervo, descobertas ao
+   * cruzar as datas de borda contra a origem. As outras 13 bordas caíram em
+   * recesso ou fim de semana, e por sorte não perderam nada.
+   *
+   * A correção fica aqui, e não em `janelas()`: o intervalo continua sendo
+   * inclusivo em todo o resto do código — inclusive no nome do recurso gravado
+   * em `coleta`, que é o que a retomada incremental lê. Só a URL usa o dia
+   * seguinte, porque é o que a origem entende por "até".
+   */
   async votacoes(idOrgao: string, inicio: string, fim: string, o?: OpcoesFetch) {
+    const ate = diaSeguinte(fim);
     const r = await buscarPaginado<VotacaoLista>(
       (p) =>
-        `${BASE}/votacoes?idOrgao=${idOrgao}&dataInicio=${inicio}&dataFim=${fim}` +
+        `${BASE}/votacoes?idOrgao=${idOrgao}&dataInicio=${inicio}&dataFim=${ate}` +
         `&itens=100&pagina=${p}&ordem=ASC&ordenarPor=dataHoraRegistro`,
       100,
       o,
     );
-    return { ...r, url: `${BASE}/votacoes?idOrgao=${idOrgao}&dataInicio=${inicio}&dataFim=${fim}` };
+    return { ...r, url: `${BASE}/votacoes?idOrgao=${idOrgao}&dataInicio=${inicio}&dataFim=${ate}` };
   },
 
   /** Detalhe da votação — única fonte de `proposicoesAfetadas`. */

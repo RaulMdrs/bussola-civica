@@ -74,6 +74,7 @@ async function main() {
   const { db, sqlite, consultar } = abrirBanco();
   const ctx: Contexto = {
     db,
+    sqlite,
     legislatura,
     uf,
     avisos: [],
