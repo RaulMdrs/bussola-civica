@@ -114,3 +114,24 @@ export function normalizarData(v: string | null | undefined): string | null {
   if (!v) return null;
   return v.trim().replace(" ", "T");
 }
+
+/**
+ * Data de hoje **em Brasília**, `YYYY-MM-DD`.
+ *
+ * Não é `toISOString().slice(0, 10)`: UTC vira o dia às 21h BRT, e as três
+ * horas seguintes ficam com a data do dia seguinte. Onde isso importa é na
+ * fronteira do cache — "esta votação já é passado?" (§ *Idempotência* em
+ * docs/INGESTOR.md). Rodar a coleta às 22h faria o pipeline dar por encerrada
+ * uma sessão ainda em curso, gravar o placar parcial e nunca mais rebuscá-lo,
+ * porque a votação já constaria como imutável.
+ *
+ * A Câmara publica em horário de Brasília; a régua do acervo é a mesma.
+ */
+export function hoje(agora: Date = new Date()): string {
+  return new Intl.DateTimeFormat("en-CA", {
+    timeZone: "America/Sao_Paulo",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).format(agora);
+}
