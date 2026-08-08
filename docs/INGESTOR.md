@@ -168,6 +168,50 @@ insistir num 400 desperdiça tempo e mascara bug de parâmetro. Foi assim que o
 `siglaOrgao` inexistente apareceu rápido no reconhecimento, em vez de virar
 oito tentativas silenciosas.
 
+### `dataFim` é exclusivo em `/votacoes` — e inclusivo em `/discursos`
+
+Medido contra a origem, não lido na spec:
+
+```
+/votacoes  dataInicio=2026-07-15  dataFim=2026-07-15  →  0 votações
+/votacoes  dataInicio=2026-07-15  dataFim=2026-07-16  → 74, todas de 07-15
+```
+
+`janelas()` fatia em blocos consecutivos (`..2023-04-30`, depois `2023-05-01..`),
+então o último dia de cada bloco não era pedido a ninguém. Custou **10 votações
+de 2023-10-31** ao acervo — descobertas ao cruzar cada data de borda contra a
+origem. As outras 13 bordas caíram em recesso ou fim de semana e não perderam
+nada, o que é sorte, não desenho.
+
+O ajuste fica em `camara.votacoes`: só a URL usa o dia seguinte. O intervalo
+segue inclusivo em todo o resto do código, inclusive no recurso gravado em
+`coleta` — que é o que a retomada incremental lê.
+
+O mesmo teste em `/deputados/{id}/discursos` mostra o comportamento **oposto**:
+`dataFim=2026-07-14` devolve os discursos daquele dia. Os dois endpoints não
+compartilham a convenção, e assumir que sim é como o defeito nasceu.
+
+O filtro, aliás, é por `dataHoraRegistro`, não pela data da votação: pedir
+`2023-10-31..2023-10-31` devolve 19 registros, dos quais 14 são de 2023-10-31 e
+o resto é de sessão anterior registrada depois.
+
+### Votação e votos entram juntos, ou não entram
+
+O teste de cache pergunta se a linha de `votacao` existe. Enquanto a linha era
+escrita antes dos votos e fora de transação, uma interrupção no meio do laço
+deixava a votação registrada e os votos pela metade — e a re-execução a pulava,
+para sempre, sem erro e sem sinal.
+
+Aconteceu: a votação **2576389-4** (2025-10-29) é a única do acervo em que a
+origem devolve `tipoVoto` nulo para todos os 421 votantes. O `.trim()` sobre
+nulo derrubou o processo exatamente ali, e os 421 votos ficaram fora do acervo
+por três dias, até a recoleta completa.
+
+`ingerirVotacoes` agora envolve os dois numa transação só, pela conexão crua —
+o Drizzle sobre `sqlite-proxy` não expõe transação. Que as duas vias
+compartilhem a mesma transação é premissa da correção, e está fixada como
+regressão em `npm run db:validar`.
+
 ### Nominal vs. simbólica só se descobre chamando
 
 Não há campo na origem. A lista de votos vazia é o único sinal (§1.4):

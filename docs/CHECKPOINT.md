@@ -1,6 +1,6 @@
 # CHECKPOINT — Bússola Cívica
 
-**Data:** 2026-08-07 · **Fase:** 0 (deputados federais do RS)
+**Data:** 2026-08-08 · **Fase:** 0 (deputados federais do RS)
 **Estado:** backend funcional — reconhecimento, modelo, ingestor e cálculo de
 posições prontos e validados contra dados reais. Web e app ainda não iniciados.
 
@@ -13,21 +13,25 @@ Documentos detalhados: [FONTES.md](./FONTES.md) · [MODELO-DADOS.md](./MODELO-DA
 | # | Etapa | Entregável |
 |---|---|---|
 | 1 | Reconhecimento das APIs | `docs/FONTES.md` — 26 endpoints testados, request/response verificados |
-| 2 | Modelo de dados | `src/db/schema.ts` — 20 tabelas, 5 migrations, 45 verificações |
+| 2 | Modelo de dados | `src/db/schema.ts` — 20 tabelas, 5 migrations, 54 verificações |
 | 3 | Ingestor | `src/ingest/` + `src/lib/` — coleta idempotente com retry e auditoria |
 | 4 | Cálculo de posições | `src/calc/posicoes.ts` — 2 eixos com evidência rastreável |
 | 5 | Classificação de discursos | `src/lib/classificar.ts` — filtro de ruído protocolar |
 | 6 | Vínculo votação↔proposição | etapa `proposicoes` — matéria, objeto votado e temas |
 | 7 | Separação mérito/procedimental | `src/lib/natureza.ts` — eixos apurados em dois escopos |
-| 8 | Ampliação para a legislatura | 6.281 votações, 450 mil votos, 31/31 parlamentares posicionados |
+| 8 | Ampliação para a legislatura | 6.291 votações, 452 mil votos, 31/31 parlamentares posicionados |
 | 9 | Ingestão incremental | `src/ingest/incremental.ts` — retomada automática, sem informar data |
 
 Banco atual: **80 MB**, **legislatura 57 inteira**, coletada de 2023-02-01 a
-2026-08-07: 6.281 votações, 1.112 nominais, 450.630 votos.
+2026-08-08: 6.291 votações, 1.117 nominais, 452.356 votos.
 
 O acervo foi **reconstruído do zero** em 2026-08-07 (91 min, ~9.700 operações) e
 reproduziu exatamente os totais estruturais da coleta anterior — 1.112 nominais,
 5.169 simbólicas, natureza 570/532/10. As diferenças residuais estão em §7.1.
+
+Em 2026-08-08 entraram **10 votações de 2023-10-31** que nenhuma das duas
+coletas anteriores tinha: caíam na borda de uma janela, e `dataFim` é exclusivo
+na origem (§8). Daí os totais atuais serem 6.291 e 1.117, e não 6.281 e 1.112.
 
 ---
 
@@ -82,7 +86,7 @@ estruturalmente:
 `npm run db:validar` monta um banco em memória com fixture que reproduz cada
 armadilha encontrada — suplente com exercício parcial, deputado que trocou de
 legenda, votação simbólica, obstrução, Artigo 17, votação secreta — e verifica
-que as queries respondem certo. **45 verificações.**
+que as queries respondem certo. **54 verificações.**
 
 Os sete casos de classificação de discurso são regressões: cada um quebrou uma
 versão anterior da regra.
@@ -133,7 +137,8 @@ Base: `https://dadosabertos.camara.leg.br/api/v2` · sem autenticação
 | `GET /deputados/{id}/historico` | ✅ **usado** | Filiação, mandato e **períodos de exercício** |
 | `GET /deputados/{id}/discursos` | ✅ **usado** | Transcrição integral + link do Diário |
 | `GET /deputados/{id}/votacoes` | ❌ **405** | **NÃO EXISTE** — determina a direção da ingestão |
-| `GET /votacoes?idOrgao=180&dataInicio=&dataFim=` | ✅ **usado** | Janela **máx. 3 meses**; `itens` **máx. 100** |
+| `GET /votacoes?idOrgao=180&dataInicio=&dataFim=` | ✅ **usado** | Janela **máx. 3 meses**; `itens` **máx. 100**; **`dataFim` é exclusivo** e filtra por `dataHoraRegistro`, não pela data da votação — medido, não documentado na spec (§8) |
+| `GET /deputados/{id}/discursos?dataInicio=&dataFim=` | ✅ **usado** | **`dataFim` é inclusivo** aqui — comportamento oposto ao de `/votacoes`, também medido |
 | `GET /votacoes?siglaOrgao=PLEN` | ❌ 400 | Parâmetro inexistente — é `idOrgao` |
 | `GET /votacoes/{id}/votos` | ✅ **usado** | **Sem paginação**; `[]` = votação simbólica |
 | `GET /votacoes/{id}/votos?itens=600` | ❌ 400 | Não aceita paginação |
@@ -271,18 +276,18 @@ Validação original, no 1º semestre de 2025 (recorte do reconhecimento):
 
 | | |
 |---|---|
-| **Cobertura** (até onde se olhou) | 2023-02-01 → 2026-08-07 |
+| **Cobertura** (até onde se olhou) | 2023-02-01 → 2026-08-08 |
 | **Votações** (primeira → última sessão) | 2023-02-07 → 2026-07-15 |
-| Votações | 6.281 (1.112 nominais, 5.169 simbólicas) |
-| Taxa de nominais | **17,7%** |
-| Votos individuais | 450.630, de 643 parlamentares (442.821 computáveis) |
-| Natureza das nominais | mérito 570, procedimental 532, formal 10 |
-| Proposições / vínculos de tema | 645 / 905 |
-| Nominais vinculadas à matéria | 1.111/1.112 (99,9%); com tema 1.105 (99,4%) |
+| Votações | 6.291 (1.117 nominais, 5.174 simbólicas) |
+| Taxa de nominais | **17,8%** |
+| Votos individuais | 452.356, de 643 parlamentares (444.539 computáveis) |
+| Natureza das nominais | mérito 571, procedimental 536, formal 10 |
+| Proposições / vínculos de tema | 646 / 906 |
+| Nominais vinculadas à matéria | 1.116/1.117 (99,9%); com tema 1.110 (99,4%) |
 | Discursos | 5.851 (4.947 substantivos) |
 | Posições | 124 = 31/31 parlamentares × 2 eixos × 2 escopos |
-| Evidências | 47.011 |
-| Coleta | 10.071 operações (acumulado), 83 falhas, 34 com retry |
+| Evidências | 47.158 |
+| Coleta | 10.397 operações (acumulado), 83 falhas |
 
 > **Cobertura e votação não são a mesma data.** O acervo foi varrido até
 > 2026-08-07, mas a última sessão com votação em plenário é de 2026-07-15 —
@@ -307,18 +312,17 @@ o cargo de ministro), contra 570 de quem serviu o período inteiro.
 
 | Tabela | Linhas | | Tabela | Linhas |
 |---|---|---|---|---|
-| `voto` | 450.630 | | `mandato` | 31 |
-| `posicao_evidencia` | 47.011 | | `tema` | 32 |
-| `orientacao` | 11.682 | | `partido` | 33 |
-| `coleta` | 10.071 | | `exercicio` | 40 |
+| `voto` | 452.356 | | `mandato` | 31 |
+| `posicao_evidencia` | 47.158 | | `tema` | 32 |
+| `orientacao` | 11.732 | | `partido` | 33 |
+| `coleta` | 10.397 | | `exercicio` | 40 |
 | `discurso` | 5.851 | | `filiacao` | 54 |
 | `politico` | 643 (31 completos) | | `posicao` | 124 |
 | `identidade_externa` | 643 | | `eixo` | 2 |
-| `votacao` | 6.281 | | `legislatura` | 1 |
-| `proposicao` | 645 | | `proposicao_tema` | 905 |
+| `votacao` | 6.291 | | `legislatura` | 1 |
+| `proposicao` | 646 | | `proposicao_tema` | 906 |
 
-**Coleta:** 10.071 operações (acumulado — cresce a cada execução), 83 falhas,
-**34 precisaram de retry**. As 83 falhas
+**Coleta:** 10.397 operações (acumulado — cresce a cada execução), 83 falhas. As 83 falhas
 são todas 404 em `/votos` de votações que a listagem devolve mas os endpoints de
 detalhe não reconhecem — inconsistência conhecida da origem (§5, achado 1 de
 INGESTOR.md). Ficam **fora** do acervo, com registro em `coleta`: inventar
@@ -337,7 +341,7 @@ A reconstrução reproduziu **exatamente** tudo que é estrutural: 6.281 votaç�
 | `proposicao_tema` | 1.071 | **905** | Mesma causa — 166 eram do run do semestre |
 | `proposicao` | 741 | **645** | Mesma causa, parcialmente: 96 proposições sem correspondência no run da legislatura. **Não totalmente explicado** |
 | `discurso` | 5.868 | **5.851** | Deduplicação por hash de conteúdo: transcrição republicada pela Câmara gera segundo registro na re-ingestão (custo assumido, INGESTOR.md). Coleta limpa não tem os 17 |
-| `voto` | 450.209 | **450.630** | +421, exatamente o nº de votos com `tipoVoto` nulo na origem. Hipótese em §9 |
+| `voto` | 450.209 | **450.630** | +421 — a votação 2576389-4, única do acervo em que a origem devolve `tipoVoto` nulo para todos os 421 votantes. **Confirmado**: foi onde a coleta anterior quebrou, e a re-execução a pulou como "já coletada" (§8) |
 
 Nenhuma dessas diferenças altera eixo, escopo ou posição de parlamentar. O
 acervo novo é o menos ambíguo dos dois: um período só, sem resíduo de execução
@@ -363,6 +367,9 @@ Todos apareceram ao rodar contra dados reais, não em revisão de código.
 | Relatório misturava períodos | Cada parlamentar aparecia duas vezes com números diferentes | Escolhe o período mais abrangente e o declara |
 | Log reportava evidências calculadas como gravadas | Número enganoso (40.666 vs 2.544) | Log distingue os dois |
 | `hoje` calculado em UTC (`toISOString()`) | Das 21h à meia-noite BRT o pipeline lia o dia seguinte, dava por passada a votação **do próprio dia** e gravava o placar de sessão em curso como imutável — nunca mais rebuscado | `hoje()` em `America/Sao_Paulo`, compartilhado por pipeline e incremental; 3 regressões em `db:validar` |
+| Linha de `votacao` gravada antes dos votos, fora de transação | Interrupção no meio do laço deixava a votação registrada e os votos pela metade; a re-execução a pulava como "já coletada". **421 votos da votação 2576389-4 ficaram fora do acervo** entre 2026-08-04 e 2026-08-07 | Votação e votos numa transação só. "A linha existe" volta a significar "os votos estão todos lá" |
+| `dataFim` da origem é **exclusivo**, e `janelas()` fatia em blocos consecutivos | O último dia de cada janela não era pedido a ninguém. **10 votações de 2023-10-31** faltavam no acervo; as outras 13 bordas caíram em recesso ou fim de semana e não perderam nada | A URL de `/votacoes` pede o dia seguinte; o intervalo segue inclusivo no resto do código, inclusive no recurso gravado em `coleta` |
+| `DELETE` do recálculo de posições casava o `periodo_fim` exato | `ingerir:incremental` rodado em dois dias seguidos gravava dois conjuntos completos, um por `fim` — 124 posições viraram 248 na virada de 2026-08-07 para 08-08 | O `DELETE` passa a casar a **série** (eixo, escopo, legislatura, `periodo_inicio`); apuração nova supersede a anterior |
 
 **Ajustes de ambiente:** `better-sqlite3` não compila no Node 26 → `node:sqlite`
 nativo via `sqlite-proxy`; type-stripping proíbe *parameter properties* e enums.
@@ -380,8 +387,8 @@ Honestamente: o que está no schema mas **não é populado**, e o que não foi f
 | Integração TSE | **não implementada** — `identidade_externa` só tem fonte `camara` | Sem vínculo com candidatura, bens declarados, `SQ_CANDIDATO`. O método está validado (31/31 por CPF), falta codificar |
 | Senado | **não integrado** | Escopo da Fase 1 |
 | ~~Período coletado~~ | ✅ **resolvido** — legislatura 57 varrida até 2026-08-07 | Restam as sessões até 2027-01-31, via `npm run ingerir:incremental` |
-| Votação parcialmente escrita é dada por completa | **gap conhecido** — a checagem de "já coletada" olha só se a linha de `votacao` existe (`pipeline.ts:470`), não se os votos ficaram completos | Coleta interrompida no meio de uma votação deixa votos faltando **permanentemente**: na re-execução ela é pulada. É a hipótese para os 421 votos a mais na recoleta (§7.1) — a coleta anterior sofreu duas interrupções documentadas em §8. Correção possível: comparar o nº de votos gravados com o placar da `descricao`, ou marcar a votação como completa só após o commit dos votos |
-| `posicao` acumula períodos sem sinalizar | **gap de modelo** — nada impede dois recortes coexistirem, e só o `relatorio` escolhe o mais abrangente | Foi o que produziu `posicao = 240` no banco antigo (§7.1). `ingerir:incremental` evita **criar** o resíduo, mas não limpa o que já existe nem alerta. Uma UI que consultasse `posicao` sem filtrar por período mostraria o parlamentar duas vezes |
+| ~~Votação parcialmente escrita~~ | ✅ **resolvido** — transação em `ingerirVotacoes` (§8) | O invariante "nominal sem voto gravado" detecta o estado, caso volte a ocorrer |
+| ~~`posicao` acumula períodos~~ | ✅ **resolvido** — o `DELETE` supersede a série (§8) | O invariante "mesma série em dois períodos" detecta. Recortes com `periodo_inicio` diferente continuam coexistindo, que é o caso legítimo |
 | Camada web / API HTTP | **não iniciada** | Nada é servido ainda |
 | App mobile | **não iniciado** | Fase 3 |
 | Metodologia pública dos eixos | documentada em `MODELO-DADOS.md`, **não publicada** | Requisito antes de exibir posições |
@@ -399,22 +406,23 @@ primeiro grupo a reconsiderar.
 ## 10. Estado do código
 
 ```
-src/                                    4.350 linhas TypeScript
+src/                                    4.711 linhas TypeScript
   db/schema.ts        840   20 tabelas, comentadas com o achado que as motivou
   db/client.ts         72   node:sqlite via sqlite-proxy + consultar() tipado
   db/migrar.ts         59   aplica migrations, controla em _migrations
-  db/validar.ts       480   45 verificações contra casos de borda reais
+  db/validar.ts       604   54 verificações contra casos de borda reais
+  db/integridade.ts    91   invariantes do acervo (usadas por validar e relatorio)
   lib/http.ts         148   retry, backoff, janelas de data
-  lib/normalizar.ts   137   voto, CPF, sigla, data, hoje() em Brasília
+  lib/normalizar.ts   151   voto, CPF, sigla, data, hoje() em Brasília
   lib/classificar.ts  111   classificação de discurso
   lib/natureza.ts      69   mérito vs. procedimental
-  ingest/camara.ts    251   cliente tipado da API
-  ingest/pipeline.ts  967   6 etapas de ingestão
+  ingest/camara.ts    271   cliente tipado da API (dataFim exclusivo)
+  ingest/pipeline.ts 1024   6 etapas de ingestão; votação+votos em transação
   ingest/index.ts     110   CLI
   ingest/incremental.ts 153 CLI da retomada automática
   ingest/horizonte.ts 105   de onde continuar — testável, sem rede
-  calc/posicoes.ts    338   dois eixos + evidências
-  relatorio.ts        255   verificação do acervo
+  calc/posicoes.ts    356   dois eixos + evidências
+  relatorio.ts        273   verificação do acervo + invariantes
 drizzle/                    5 migrations
 ```
 

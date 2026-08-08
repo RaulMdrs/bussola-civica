@@ -11,6 +11,7 @@
  */
 
 import { createHash } from "node:crypto";
+import type { DatabaseSync } from "node:sqlite";
 import { and, eq, isNull, sql } from "drizzle-orm";
 import type { Banco } from "../db/client.ts";
 import * as s from "../db/schema.ts";
@@ -36,11 +37,41 @@ import type { HistoricoItem } from "./camara.ts";
 
 export interface Contexto {
   db: Banco;
+  /**
+   * Conexão crua, só para transação.
+   *
+   * O Drizzle sobre `sqlite-proxy` não expõe transação — o proxy é um
+   * transporte, e `db.transaction()` não tem para onde mandar o BEGIN. Como a
+   * atomicidade de votação+votos é requisito de integridade (ver
+   * `ingerirVotacoes`), o BEGIN/COMMIT vai pela conexão de baixo. É a mesma
+   * conexão que o Drizzle usa, então as duas vias enxergam a mesma transação.
+   */
+  sqlite: DatabaseSync;
   legislatura: number;
   uf: string;
   /** Avisos que exigem olho humano (ex.: código de voto desconhecido). */
   avisos: string[];
   log: (msg: string) => void;
+}
+
+/**
+ * Executa `fn` dentro de uma transação.
+ *
+ * Seguro apesar dos `await` internos porque a ingestão é estritamente
+ * sequencial: não há outra operação de banco pendente que pudesse se intercalar
+ * entre o BEGIN e o COMMIT. Se algum dia houver concorrência, isto precisa
+ * virar uma conexão dedicada.
+ */
+async function emTransacao<T>(ctx: Contexto, fn: () => Promise<T>): Promise<T> {
+  ctx.sqlite.exec("BEGIN");
+  try {
+    const r = await fn();
+    ctx.sqlite.exec("COMMIT");
+    return r;
+  } catch (e) {
+    ctx.sqlite.exec("ROLLBACK");
+    throw e;
+  }
 }
 
 // ---------------------------------------------------------------------------
@@ -513,6 +544,26 @@ export async function ingerirVotacoes(
     const placar = extrairPlacar(v.descricao);
     const fonteUrl = `https://dadosabertos.camara.leg.br/api/v2/votacoes/${v.id}`;
 
+    /**
+     * Votação e votos entram juntos ou não entram.
+     *
+     * O teste de cache lá em cima pergunta só se a linha de `votacao` existe.
+     * Enquanto a linha era escrita antes dos votos, uma interrupção no meio do
+     * laço deixava a votação registrada e os votos pela metade — e a
+     * re-execução a pulava, para sempre, sem erro e sem sinal.
+     *
+     * Não é hipótese: aconteceu na coleta de 2026-08-04. A votação 2576389-4
+     * (2025-10-29) é a primeira do acervo em que a origem devolve `tipoVoto`
+     * nulo para os 421 votantes; o `.trim()` sobre nulo derrubou o processo
+     * exatamente ali, e os 421 votos ficaram fora do acervo até a recoleta de
+     * 2026-08-07 (docs/CHECKPOINT.md §7.1).
+     *
+     * Com a transação, "a linha existe" volta a significar "os votos estão
+     * todos lá", que é o que o teste de cache sempre assumiu. Nenhuma chamada
+     * HTTP acontece aqui dentro: os votos já foram buscados, e as orientações
+     * são buscadas depois do COMMIT.
+     */
+    const votacaoId = await emTransacao(ctx, async () => {
     await ctx.db
       .insert(s.votacao)
       .values({
@@ -539,7 +590,8 @@ export async function ingerirVotacoes(
       .where(and(eq(s.votacao.casa, "camara"), eq(s.votacao.idExterno, v.id)));
     const votacaoId = reg!.id;
 
-    if (!nominal) continue;
+    // Simbólica não tem voto a gravar: a transação fecha aqui.
+    if (!nominal) return votacaoId;
 
     for (const voto of votos) {
       const d = voto.deputado_;
@@ -575,6 +627,11 @@ export async function ingerirVotacoes(
           set: { voto: n.voto, computavel: n.computavel },
         });
     }
+
+      return votacaoId;
+    });
+
+    if (!nominal) continue;
 
     let orientacoes;
     try {

@@ -274,13 +274,31 @@ export async function calcularPosicoes(
       const eixoId = eixos.get(c.chave)!;
       const { porPolitico, evidencias } = c.fn(consultar, p, escopo);
 
-      // limpa recálculo anterior do mesmo escopo e período (cascade leva as evidências)
+      /**
+       * Substitui a apuração anterior da **mesma série** — mesmo eixo, escopo,
+       * legislatura e início de período —, qualquer que fosse o fim. Cascade
+       * leva as evidências junto.
+       *
+       * O `periodo_fim` **não** entra na condição, e isso é deliberado.
+       * "Alinhamento na legislatura 57 desde 2023-02-01" é uma série só; o fim
+       * é apenas até onde ela foi apurada, e uma apuração mais recente torna a
+       * anterior obsoleta, não paralela.
+       *
+       * Casá-lo tornava o recálculo idempotente apenas dentro do mesmo dia:
+       * `ingerir:incremental` rodado em dois dias seguidos gravava dois
+       * conjuntos completos, um por `fim`, e o acervo passava a ter o mesmo
+       * parlamentar duas vezes. Medido: 124 posições viraram 248 na virada de
+       * 2026-08-07 para 2026-08-08.
+       *
+       * Recorte com outro `periodo_inicio` (um semestre, por exemplo) é outra
+       * série e continua coexistindo — é o caso legítimo.
+       */
       await db.run(sql`
         DELETE FROM posicao
         WHERE eixo_id = ${eixoId}
           AND escopo = ${escopo}
           AND legislatura_numero = ${p.legislatura}
-          AND periodo_inicio = ${p.inicio} AND periodo_fim = ${p.fim}
+          AND periodo_inicio = ${p.inicio}
       `);
 
       let gravadas = 0;
