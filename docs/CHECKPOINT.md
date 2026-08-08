@@ -1,6 +1,6 @@
 # CHECKPOINT — Bússola Cívica
 
-**Data:** 2026-08-05 · **Fase:** 0 (deputados federais do RS)
+**Data:** 2026-08-07 · **Fase:** 0 (deputados federais do RS)
 **Estado:** backend funcional — reconhecimento, modelo, ingestor e cálculo de
 posições prontos e validados contra dados reais. Web e app ainda não iniciados.
 
@@ -13,16 +13,21 @@ Documentos detalhados: [FONTES.md](./FONTES.md) · [MODELO-DADOS.md](./MODELO-DA
 | # | Etapa | Entregável |
 |---|---|---|
 | 1 | Reconhecimento das APIs | `docs/FONTES.md` — 26 endpoints testados, request/response verificados |
-| 2 | Modelo de dados | `src/db/schema.ts` — 20 tabelas, 5 migrations, 32 verificações |
+| 2 | Modelo de dados | `src/db/schema.ts` — 20 tabelas, 5 migrations, 35 verificações |
 | 3 | Ingestor | `src/ingest/` + `src/lib/` — coleta idempotente com retry e auditoria |
 | 4 | Cálculo de posições | `src/calc/posicoes.ts` — 2 eixos com evidência rastreável |
 | 5 | Classificação de discursos | `src/lib/classificar.ts` — filtro de ruído protocolar |
 | 6 | Vínculo votação↔proposição | etapa `proposicoes` — matéria, objeto votado e temas |
 | 7 | Separação mérito/procedimental | `src/lib/natureza.ts` — eixos apurados em dois escopos |
 | 8 | Ampliação para a legislatura | 6.281 votações, 450 mil votos, 31/31 parlamentares posicionados |
+| 9 | Ingestão incremental | `src/ingest/incremental.ts` — retomada automática, sem informar data |
 
-Banco atual: **71 MB**, **legislatura 57 inteira** (votações de 2023-02-01 a
-2026-08-04): 6.281 votações, 1.112 nominais, 450.209 votos.
+Banco atual: **80 MB**, **legislatura 57 inteira**, coletada de 2023-02-01 a
+2026-08-07: 6.281 votações, 1.112 nominais, 450.630 votos.
+
+O acervo foi **reconstruído do zero** em 2026-08-07 (91 min, ~9.700 operações) e
+reproduziu exatamente os totais estruturais da coleta anterior — 1.112 nominais,
+5.169 simbólicas, natureza 570/532/10. As diferenças residuais estão em §7.1.
 
 ---
 
@@ -77,7 +82,7 @@ estruturalmente:
 `npm run db:validar` monta um banco em memória com fixture que reproduz cada
 armadilha encontrada — suplente com exercício parcial, deputado que trocou de
 legenda, votação simbólica, obstrução, Artigo 17, votação secreta — e verifica
-que as queries respondem certo. **32 verificações.**
+que as queries respondem certo. **35 verificações.**
 
 Os sete casos de classificação de discurso são regressões: cada um quebrou uma
 versão anterior da regra.
@@ -207,8 +212,12 @@ urgência, retirada de pauta, adiamento. Votar a urgência de um projeto não é
 votar o projeto. Os dois eixos são apurados separadamente em `merito` (escopo
 principal) e `procedimental` (disciplina de pauta); `formal` (redação final)
 fica fora dos dois. A separação revela comportamento oposto: a oposição alinha
-mais no mérito que na pauta (Marcel van Hattem 22,5% × 2,8%), e Franciane Bayer
-faz o inverso (56,0% × 72,2%).
+mais no mérito que na pauta (Marcel van Hattem 27,8% × 12,6%), e Franciane Bayer
+faz o inverso (57,7% × 64,5%).
+
+> Os percentuais acima são da **legislatura inteira**. Até 2026-08-04 esta seção
+> citava 22,5% × 2,8% e 56,0% × 72,2%, medidos no 1º sem/2025 — a direção do
+> efeito é a mesma, a magnitude não. Comparar recortes diferentes não vale.
 
 **Eixo 1 — Alinhamento com o governo federal.** Compara o voto com a orientação
 da liderança do Governo (`sigla_bruta = 'Governo'`, `liberado = 0`). Presente em
@@ -262,17 +271,26 @@ Validação original, no 1º semestre de 2025 (recorte do reconhecimento):
 
 | | |
 |---|---|
-| Período | 2023-02-01 → 2026-08-04 |
+| **Cobertura** (até onde se olhou) | 2023-02-01 → 2026-08-07 |
+| **Votações** (primeira → última sessão) | 2023-02-07 → 2026-07-15 |
 | Votações | 6.281 (1.112 nominais, 5.169 simbólicas) |
 | Taxa de nominais | **17,7%** |
-| Votos individuais | 450.209, de 643 parlamentares |
+| Votos individuais | 450.630, de 643 parlamentares (442.821 computáveis) |
 | Natureza das nominais | mérito 570, procedimental 532, formal 10 |
-| Proposições / vínculos de tema | 741 / 1.071 |
-| Nominais vinculadas à matéria | 1.111/1.112 (99,9%) |
-| Discursos | 5.868 (4.964 substantivos) |
-| Posições | 31/31 parlamentares × 2 eixos × 2 escopos |
-| Evidências | 51.766 |
-| Coleta | 10.355 operações, 10.614 requisições, 83 com retry |
+| Proposições / vínculos de tema | 645 / 905 |
+| Nominais vinculadas à matéria | 1.111/1.112 (99,9%); com tema 1.105 (99,4%) |
+| Discursos | 5.851 (4.947 substantivos) |
+| Posições | 124 = 31/31 parlamentares × 2 eixos × 2 escopos |
+| Evidências | 47.011 |
+| Coleta | 9.772 operações, 83 falhas, 34 com retry |
+
+> **Cobertura e votação não são a mesma data.** O acervo foi varrido até
+> 2026-08-07, mas a última sessão com votação em plenário é de 2026-07-15 —
+> 23 dias de recesso à frente. Registrar as duas é o que permite retomar a
+> coleta do ponto certo; `MAX(votacao.data)` sozinho revarreria o recesso a
+> cada execução. Versões anteriores deste documento traziam uma só linha,
+> "Período 2023-02-01 → 2026-08-04", que era a **data passada em `--fim`**, não
+> um fato do acervo.
 
 > **A taxa de nominais varia muito por período** — 34,2% no 1º sem/2025 contra
 > 17,7% na legislatura inteira. Não existe um valor de referência universal; só
@@ -289,17 +307,40 @@ o cargo de ministro), contra 570 de quem serviu o período inteiro.
 
 | Tabela | Linhas | | Tabela | Linhas |
 |---|---|---|---|---|
-| `voto` | 450.209 | | `mandato` | 31 |
-| `posicao_evidencia` | 51.766 | | `tema` | 32 |
-| `orientacao` | 11.682 | | `partido` | 28 |
-| `coleta` | 10.355 | | `exercicio` | 39 |
-| `discurso` | 5.868 | | `filiacao` | 53 |
-| `politico` | 643 (31 completos) | | `posicao` | 240 |
+| `voto` | 450.630 | | `mandato` | 31 |
+| `posicao_evidencia` | 47.011 | | `tema` | 32 |
+| `orientacao` | 11.682 | | `partido` | 33 |
+| `coleta` | 9.772 | | `exercicio` | 40 |
+| `discurso` | 5.851 | | `filiacao` | 54 |
+| `politico` | 643 (31 completos) | | `posicao` | 124 |
 | `identidade_externa` | 643 | | `eixo` | 2 |
 | `votacao` | 6.281 | | `legislatura` | 1 |
-| `proposicao` | 741 | | `proposicao_tema` | 1.071 |
+| `proposicao` | 645 | | `proposicao_tema` | 905 |
 
-**Coleta:** 10.355 operações, 10.614 requisições, **83 precisaram de retry**.
+**Coleta:** 9.772 operações, 83 falhas, **34 precisaram de retry**. As 83 falhas
+são todas 404 em `/votos` de votações que a listagem devolve mas os endpoints de
+detalhe não reconhecem — inconsistência conhecida da origem (§5, achado 1 de
+INGESTOR.md). Ficam **fora** do acervo, com registro em `coleta`: inventar
+`nominal = false` afirmaria algo não verificado.
+
+### 7.1 Diferenças contra a coleta de 2026-08-04
+
+A reconstrução reproduziu **exatamente** tudo que é estrutural: 6.281 votações,
+1.112/5.169, natureza 570/532/10, 1.111/1.112 vinculadas, 11.682 orientações,
+643 políticos. As diferenças estão nos derivados e têm causa identificada:
+
+| Tabela | Antes | Agora | Causa |
+|---|---|---|---|
+| `posicao` | 240 | **124** | O banco antigo acumulava **dois períodos**: a legislatura (124 = 31×2×2) e o 1º sem/2025 (116 = 29×2×2). O novo tem só um. Ver §9 |
+| `posicao_evidencia` | 51.766 | **47.011** | Mesma causa — 4.755 eram do período do semestre |
+| `proposicao_tema` | 1.071 | **905** | Mesma causa — 166 eram do run do semestre |
+| `proposicao` | 741 | **645** | Mesma causa, parcialmente: 96 proposições sem correspondência no run da legislatura. **Não totalmente explicado** |
+| `discurso` | 5.868 | **5.851** | Deduplicação por hash de conteúdo: transcrição republicada pela Câmara gera segundo registro na re-ingestão (custo assumido, INGESTOR.md). Coleta limpa não tem os 17 |
+| `voto` | 450.209 | **450.630** | +421, exatamente o nº de votos com `tipoVoto` nulo na origem. Hipótese em §9 |
+
+Nenhuma dessas diferenças altera eixo, escopo ou posição de parlamentar. O
+acervo novo é o menos ambíguo dos dois: um período só, sem resíduo de execução
+anterior.
 
 ---
 
@@ -320,6 +361,7 @@ Todos apareceram ao rodar contra dados reais, não em revisão de código.
 | `tipoVoto` e `siglaPartido` nulos quebravam `.trim()` | Coleta parou de novo, no item ~4.700 | Normalizações aceitam null; código nulo vira aviso |
 | Relatório misturava períodos | Cada parlamentar aparecia duas vezes com números diferentes | Escolhe o período mais abrangente e o declara |
 | Log reportava evidências calculadas como gravadas | Número enganoso (40.666 vs 2.544) | Log distingue os dois |
+| `hoje` calculado em UTC (`toISOString()`) | Das 21h à meia-noite BRT o pipeline lia o dia seguinte, dava por passada a votação **do próprio dia** e gravava o placar de sessão em curso como imutável — nunca mais rebuscado | `hoje()` em `America/Sao_Paulo`, compartilhado por pipeline e incremental; 3 regressões em `db:validar` |
 
 **Ajustes de ambiente:** `better-sqlite3` não compila no Node 26 → `node:sqlite`
 nativo via `sqlite-proxy`; type-stripping proíbe *parameter properties* e enums.
@@ -336,7 +378,9 @@ Honestamente: o que está no schema mas **não é populado**, e o que não foi f
 | `partido_alias` | **vazia** — schema existe, pipeline não popula | Sem efeito hoje (só Câmara); vira problema ao integrar TSE ("PC do B" vs "PCdoB") |
 | Integração TSE | **não implementada** — `identidade_externa` só tem fonte `camara` | Sem vínculo com candidatura, bens declarados, `SQ_CANDIDATO`. O método está validado (31/31 por CPF), falta codificar |
 | Senado | **não integrado** | Escopo da Fase 1 |
-| ~~Período coletado~~ | ✅ **resolvido** — legislatura 57 completa até 2026-08-04 | Restam apenas as sessões até 2027-01-31, coletáveis incrementalmente |
+| ~~Período coletado~~ | ✅ **resolvido** — legislatura 57 varrida até 2026-08-07 | Restam as sessões até 2027-01-31, via `npm run ingerir:incremental` |
+| Votação parcialmente escrita é dada por completa | **gap conhecido** — a checagem de "já coletada" olha só se a linha de `votacao` existe (`pipeline.ts:470`), não se os votos ficaram completos | Coleta interrompida no meio de uma votação deixa votos faltando **permanentemente**: na re-execução ela é pulada. É a hipótese para os 421 votos a mais na recoleta (§7.1) — a coleta anterior sofreu duas interrupções documentadas em §8. Correção possível: comparar o nº de votos gravados com o placar da `descricao`, ou marcar a votação como completa só após o commit dos votos |
+| `posicao` acumula períodos sem sinalizar | **gap de modelo** — nada impede dois recortes coexistirem, e só o `relatorio` escolhe o mais abrangente | Foi o que produziu `posicao = 240` no banco antigo (§7.1). `ingerir:incremental` evita **criar** o resíduo, mas não limpa o que já existe nem alerta. Uma UI que consultasse `posicao` sem filtrar por período mostraria o parlamentar duas vezes |
 | Camada web / API HTTP | **não iniciada** | Nada é servido ainda |
 | App mobile | **não iniciado** | Fase 3 |
 | Metodologia pública dos eixos | documentada em `MODELO-DADOS.md`, **não publicada** | Requisito antes de exibir posições |
@@ -354,30 +398,43 @@ primeiro grupo a reconsiderar.
 ## 10. Estado do código
 
 ```
-src/                                    3.049 linhas TypeScript
-  db/schema.ts        797   20 tabelas, comentadas com o achado que as motivou
+src/                                    4.118 linhas TypeScript
+  db/schema.ts        840   20 tabelas, comentadas com o achado que as motivou
   db/client.ts         72   node:sqlite via sqlite-proxy + consultar() tipado
   db/migrar.ts         59   aplica migrations, controla em _migrations
-  db/validar.ts       304   24 verificações contra casos de borda reais
+  db/validar.ts       374   35 verificações contra casos de borda reais
   lib/http.ts         148   retry, backoff, janelas de data
-  lib/normalizar.ts   113   voto, CPF, sigla, data
+  lib/normalizar.ts   137   voto, CPF, sigla, data, hoje() em Brasília
   lib/classificar.ts  111   classificação de discurso
-  ingest/camara.ts    192   cliente tipado da API
-  ingest/pipeline.ts  694   5 etapas de ingestão
-  ingest/index.ts     107   CLI
-  calc/posicoes.ts    296   dois eixos + evidências
-  relatorio.ts        156   verificação do acervo
+  lib/natureza.ts      69   mérito vs. procedimental
+  ingest/camara.ts    251   cliente tipado da API
+  ingest/pipeline.ts  960   6 etapas de ingestão
+  ingest/index.ts     110   CLI
+  ingest/incremental.ts 139 retomada automática (descobre a data no banco)
+  calc/posicoes.ts    338   dois eixos + evidências
+  relatorio.ts        255   verificação do acervo
 drizzle/                    5 migrations
 ```
 
 **Stack:** TypeScript (type-stripping nativo, sem build), Drizzle ORM,
-SQLite via `node:sqlite`, Node 26.
+SQLite via `node:sqlite`. Node **22.6+** (declarado em `engines`, com
+`engine-strict=true`): abaixo disso não existe `--experimental-strip-types` e
+todo `npm run` falha com erro de sintaxe.
 
 ### Comandos
 
 ```bash
-npm run ingerir -- --inicio 2025-01-01 --fim 2025-06-30
+npm run ingerir:incremental
 ```
+
+Manutenção periódica: descobre no banco até onde a coleta chegou e continua daí.
+Sem banco, falha dizendo como reconstruir — não inicia acervo.
+
+```bash
+npm run ingerir -- --inicio 2023-02-01 --fim 2026-08-07
+```
+
+Reconstrução do zero. A legislatura inteira leva **~91 min** e ~9.700 operações.
 
 ```bash
 npm run relatorio
@@ -394,12 +451,19 @@ votação e categoria de discurso sem recoletar. Flags: `--uf`, `--legislatura`,
 Custo por semestre: ~3 + 62 + (2 janelas + ~450 `/votos` + ~154 `/orientacoes`)
 + ~31 ≈ 700 requisições. Primeira execução ~510s; re-execução ~60s (cache).
 
+> **`--etapas` importa na ingestão incremental.** `posicao` é gravada com chave
+> `(periodo_inicio, periodo_fim)`. Rodar todas as etapas com uma janela estreita
+> não atualiza as posições da legislatura: cria um segundo conjunto apurado
+> sobre poucos dias, que o `relatorio` não mostra por escolher o período mais
+> abrangente. `ingerir:incremental` existe para separar as duas janelas.
+
 ---
 
 ## 11. Próximos passos sugeridos
 
-1. **Manter o acervo atualizado** — rodar periodicamente com `--inicio` na
-   última data coletada. Votações passadas são imutáveis e ficam em cache.
+1. ~~**Manter o acervo atualizado**~~ — ✅ automatizado em
+   `npm run ingerir:incremental`. Rodar periodicamente; votações passadas são
+   imutáveis e ficam em cache. A legislatura vai até 2027-01-31.
 2. **Integrar TSE via CSV** — método validado, falta implementar. Popular
    `identidade_externa` e `partido_alias`.
 3. **Publicar a metodologia dos eixos** antes de qualquer exibição pública.
