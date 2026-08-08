@@ -27,6 +27,7 @@ import { DatabaseSync } from "node:sqlite";
 import { fileURLToPath } from "node:url";
 import { CAMINHO_DB } from "../db/client.ts";
 import { hoje } from "../lib/normalizar.ts";
+import { descobrirJanelas, type Origem } from "./horizonte.ts";
 
 const CLI = fileURLToPath(new URL("./index.ts", import.meta.url));
 
@@ -100,80 +101,33 @@ if (!leg) {
 }
 
 /**
- * Até que data uma etapa foi varrida, segundo `coleta`.
+ * A retomada recomeça **na** data coberta, não no dia seguinte: a votação do
+ * dia em que a coleta anterior rodou pode ter sido gravada com a sessão ainda
+ * em curso, e o pipeline só trata como imutável votação anterior a hoje.
  *
- * As etapas recortadas por data gravam a janela no nome do recurso
- * (`votacoes 2023-02-01..2023-04-30`), então a auditoria responde "até onde se
- * **olhou**" — que é a pergunta certa. `MAX(votacao.data)` responde só "onde
- * houve sessão": em recesso as duas divergem por semanas, e retomar pela
- * segunda revarreria o recesso inteiro a cada execução.
+ * A decisão em si mora em `horizonte.ts`, para poder ser verificada em
+ * `npm run db:validar` sem tocar na rede.
  */
-function horizonte(glob: string): string | null {
-  const r = um<{ ate: string | null }>(
-    `SELECT MAX(substr(recurso, -10)) ate
-     FROM coleta
-     WHERE status = 'ok' AND recurso GLOB ?`,
-    glob,
-  );
-  return r?.ate ?? null;
-}
-
-const JANELA = "????-??-??..????-??-??";
-const horizVotacoes = horizonte(`votacoes ${JANELA}`);
-const horizDiscursos = horizonte(`deputados/*/discursos ${JANELA}`);
-
-/**
- * Fallback do horizonte de votação, para banco coletado antes desta auditoria.
- * Impreciso de propósito para o lado seguro: revarre em vez de pular.
- */
-const fallbackVotacoes = um<{ ate: string | null }>("SELECT MAX(data) ate FROM votacao")?.ate;
-
-const deVotacoes = horizVotacoes ?? fallbackVotacoes ?? leg.ini;
-
-/**
- * Sem horizonte de discurso, assume-se **nenhuma** cobertura.
- *
- * Vale para banco anterior a esta versão (o recurso não trazia a janela) e para
- * banco em que a etapa nunca rodou. Nos dois casos, provar cobertura é
- * impossível, e a alternativa — assumir que os discursos acompanham as
- * votações — é o que produzia a lacuna silenciosa: quem rodasse
- * `--etapas votacoes` isoladamente ficaria sem os discursos do período, para
- * sempre e sem sinal. Recoletar custa ~31 requisições e deduplica por hash de
- * conteúdo, então o pior caso é barato. Corrige-se sozinho na primeira execução.
- */
-const deDiscursos = horizDiscursos ?? leg.ini;
+const j = descobrirJanelas((sql, ...p) => um(sql, ...p), leg, hoje());
 
 db.close();
 
-/**
- * A coleta recomeça pelo **menor** horizonte: adiantar qualquer etapa deixaria
- * a que está atrasada permanentemente para trás. Etapas já em dia apenas
- * revarrem janela conhecida, o que sai do cache.
- *
- * E recomeça **na** data coberta, não no dia seguinte: a votação do dia em que
- * a coleta anterior rodou pode ter sido gravada com a sessão ainda em curso; o
- * pipeline só trata como imutável votação anterior a hoje.
- */
-const inicio = menor(deVotacoes, deDiscursos);
-// A legislatura tem fim; coletar além dele pediria à origem votações de outra.
-const fim = menor(hoje(), leg.fim);
-
 console.log(`Bússola Cívica — ingestão incremental`);
 console.log(`banco           ${caminho}`);
-console.log(`horizontes      votações  ${deVotacoes}${proveniencia(horizVotacoes, fallbackVotacoes)}`);
-console.log(`                discursos ${deDiscursos}${proveniencia(horizDiscursos, null)}`);
-console.log(`coleta          ${inicio} → ${fim}`);
-console.log(`derivação       ${leg.ini} → ${fim}  (legislatura inteira)\n`);
+console.log(`horizontes      votações  ${j.votacoes.ate}${nota(j.votacoes.origem)}`);
+console.log(`                discursos ${j.discursos.ate}${nota(j.discursos.origem)}`);
+console.log(`coleta          ${j.inicio} → ${j.fim}`);
+console.log(`derivação       ${leg.ini} → ${j.fim}  (legislatura inteira)\n`);
 
-if (inicio > fim) {
-  console.log(`nada novo a coletar — a cobertura (${inicio}) já passa do fim da janela (${fim}).`);
+if (!j.coletar) {
+  console.log(`nada novo a coletar — a cobertura (${j.inicio}) já passa do fim da janela (${j.fim}).`);
   console.log(`re-derivando assim mesmo: classificação e eixos saem do que já está no banco.\n`);
 } else {
-  rodar(["--inicio", inicio, "--fim", fim, "--etapas", ETAPAS_COLETA]);
+  rodar(["--inicio", j.inicio, "--fim", j.fim, "--etapas", ETAPAS_COLETA]);
 }
 
 // Sempre — ver ETAPAS_DERIVACAO.
-rodar(["--inicio", leg.ini, "--fim", fim, "--etapas", ETAPAS_DERIVACAO]);
+rodar(["--inicio", leg.ini, "--fim", j.fim, "--etapas", ETAPAS_DERIVACAO]);
 
 console.log(`\n✓ incremental concluído — confira com: npm run relatorio`);
 
@@ -192,12 +146,8 @@ function rodar(janela: string[]) {
 }
 
 /** Diz de onde veio a data, para que "sem registro" não pareça "coletado até". */
-function proveniencia(daColeta: string | null, fallback: string | null | undefined) {
-  if (daColeta) return "";
-  if (fallback) return "  (sem registro em coleta; inferido de votacao.data)";
+function nota(origem: Origem) {
+  if (origem === "coleta") return "";
+  if (origem === "votacao") return "  (sem registro em coleta; inferido de votacao.data)";
   return "  (sem registro em coleta; assumindo nenhuma cobertura)";
-}
-
-function menor(a: string, b: string) {
-  return a < b ? a : b;
 }

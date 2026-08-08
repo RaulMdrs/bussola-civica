@@ -13,7 +13,7 @@ Documentos detalhados: [FONTES.md](./FONTES.md) · [MODELO-DADOS.md](./MODELO-DA
 | # | Etapa | Entregável |
 |---|---|---|
 | 1 | Reconhecimento das APIs | `docs/FONTES.md` — 26 endpoints testados, request/response verificados |
-| 2 | Modelo de dados | `src/db/schema.ts` — 20 tabelas, 5 migrations, 35 verificações |
+| 2 | Modelo de dados | `src/db/schema.ts` — 20 tabelas, 5 migrations, 45 verificações |
 | 3 | Ingestor | `src/ingest/` + `src/lib/` — coleta idempotente com retry e auditoria |
 | 4 | Cálculo de posições | `src/calc/posicoes.ts` — 2 eixos com evidência rastreável |
 | 5 | Classificação de discursos | `src/lib/classificar.ts` — filtro de ruído protocolar |
@@ -82,7 +82,7 @@ estruturalmente:
 `npm run db:validar` monta um banco em memória com fixture que reproduz cada
 armadilha encontrada — suplente com exercício parcial, deputado que trocou de
 legenda, votação simbólica, obstrução, Artigo 17, votação secreta — e verifica
-que as queries respondem certo. **35 verificações.**
+que as queries respondem certo. **45 verificações.**
 
 Os sete casos de classificação de discurso são regressões: cada um quebrou uma
 versão anterior da regra.
@@ -399,11 +399,11 @@ primeiro grupo a reconsiderar.
 ## 10. Estado do código
 
 ```
-src/                                    4.189 linhas TypeScript
+src/                                    4.350 linhas TypeScript
   db/schema.ts        840   20 tabelas, comentadas com o achado que as motivou
   db/client.ts         72   node:sqlite via sqlite-proxy + consultar() tipado
   db/migrar.ts         59   aplica migrations, controla em _migrations
-  db/validar.ts       374   35 verificações contra casos de borda reais
+  db/validar.ts       480   45 verificações contra casos de borda reais
   lib/http.ts         148   retry, backoff, janelas de data
   lib/normalizar.ts   137   voto, CPF, sigla, data, hoje() em Brasília
   lib/classificar.ts  111   classificação de discurso
@@ -411,7 +411,8 @@ src/                                    4.189 linhas TypeScript
   ingest/camara.ts    251   cliente tipado da API
   ingest/pipeline.ts  967   6 etapas de ingestão
   ingest/index.ts     110   CLI
-  ingest/incremental.ts 203 retomada automática (horizonte por etapa)
+  ingest/incremental.ts 153 CLI da retomada automática
+  ingest/horizonte.ts 105   de onde continuar — testável, sem rede
   calc/posicoes.ts    338   dois eixos + evidências
   relatorio.ts        255   verificação do acervo
 drizzle/                    5 migrations

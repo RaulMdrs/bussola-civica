@@ -68,7 +68,7 @@ eixos.
 npm run db:validar
 ```
 
-35 verificações do modelo contra casos de borda reais.
+45 verificações do modelo contra casos de borda reais.
 
 ### Etapas isoladas
 

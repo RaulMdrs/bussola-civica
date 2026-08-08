@@ -17,6 +17,7 @@ import {
 } from "../lib/classificar.ts";
 import { classificarNatureza, type NaturezaVotacao } from "../lib/natureza.ts";
 import { hoje } from "../lib/normalizar.ts";
+import { descobrirJanelas } from "../ingest/horizonte.ts";
 
 const db = new DatabaseSync(":memory:");
 
@@ -365,7 +366,112 @@ console.log("\nFronteira do dia — horário de Brasília, não UTC");
   }
 }
 
-const totalChecagens = 35;
+/**
+ * Retomada da ingestão incremental (`src/ingest/horizonte.ts`).
+ *
+ * O que se prova aqui é que a auditoria consegue responder "até onde se olhou"
+ * **por etapa** — e que etapa sem registro nunca é confundida com etapa em dia.
+ * Foi a confusão entre as duas que abriu, por um caminho novo, a lacuna
+ * silenciosa que a tabela `coleta` existe para impedir: quem rodasse
+ * `--etapas votacoes` isoladamente perderia os discursos daquele período para
+ * sempre, sem erro e sem sinal.
+ */
+console.log("\nRetomada incremental — horizonte por etapa");
+{
+  const LEG = { ini: "2023-02-01", fim: "2027-01-31" }; // igual à fixture
+  const consulta = (sql: string, ...p: string[]) =>
+    db.prepare(sql).get(...p) as Record<string, unknown> | undefined;
+
+  /** Repõe `coleta` do zero — os casos não podem contaminar uns aos outros. */
+  const comColeta = (...recursos: [string, string][]) => {
+    db.exec("DELETE FROM coleta");
+    for (const [recurso, status] of recursos) {
+      db.prepare(
+        `INSERT INTO coleta (fonte, recurso, url, status)
+         VALUES ('camara', ?, 'https://exemplo/coleta', ?)`,
+      ).run(recurso, status);
+    }
+  };
+
+  const V = (ate: string): [string, string] => [`votacoes 2023-02-01..${ate}`, "ok"];
+  const D = (ate: string): [string, string] => [
+    `deputados/204536/discursos 2023-02-01..${ate}`,
+    "ok",
+  ];
+
+  comColeta(V("2026-07-01"), D("2026-07-01"));
+  checar(
+    "etapas em dia: retoma da data coberta",
+    descobrirJanelas(consulta, LEG, "2026-08-07").inicio,
+    "2026-07-01",
+  );
+
+  comColeta(V("2026-08-07"), D("2026-03-01"));
+  checar(
+    "discurso atrasado puxa a retomada para trás",
+    descobrirJanelas(consulta, LEG, "2026-08-07").inicio,
+    "2026-03-01",
+  );
+
+  comColeta(V("2026-03-01"), D("2026-08-07"));
+  checar(
+    "votação atrasada puxa a retomada para trás",
+    descobrirJanelas(consulta, LEG, "2026-08-07").inicio,
+    "2026-03-01",
+  );
+
+  // O caso que motivou a correção: só `votacoes` rodou.
+  comColeta(V("2026-08-07"));
+  {
+    const j = descobrirJanelas(consulta, LEG, "2026-08-07");
+    checar("discurso sem registro conta como sem cobertura", j.discursos, {
+      ate: LEG.ini,
+      origem: "nenhuma",
+    });
+    checar("e a retomada volta ao início da legislatura", j.inicio, LEG.ini);
+  }
+
+  // Recurso no formato anterior a esta versão: sem janela no nome.
+  comColeta(V("2026-08-07"), ["deputados/204536/discursos", "ok"]);
+  checar(
+    "recurso de discurso sem janela não vira horizonte",
+    descobrirJanelas(consulta, LEG, "2026-08-07").discursos.origem,
+    "nenhuma",
+  );
+
+  comColeta(V("2026-08-07"), [`deputados/204536/discursos 2023-02-01..2026-08-07`, "falha"]);
+  checar(
+    "coleta com status 'falha' não conta como cobertura",
+    descobrirJanelas(consulta, LEG, "2026-08-07").discursos.origem,
+    "nenhuma",
+  );
+
+  // Sem linha de votação em `coleta`, cai no fallback: a fixture tem votação
+  // até 2025-04-12.
+  comColeta(D("2026-08-07"));
+  checar("sem registro de votação, infere de votacao.data", descobrirJanelas(consulta, LEG, "2026-08-07").votacoes, {
+    ate: "2025-04-12",
+    origem: "votacao",
+  });
+
+  comColeta(V("2027-06-30"), D("2027-06-30"));
+  checar(
+    "cobertura além da janela não coleta (mas o chamador ainda deriva)",
+    descobrirJanelas(consulta, LEG, "2026-08-07").coletar,
+    false,
+  );
+
+  comColeta(V("2026-08-07"), D("2026-08-07"));
+  checar(
+    "fim da janela é limitado pelo fim da legislatura",
+    descobrirJanelas(consulta, LEG, "2027-06-30").fim,
+    LEG.fim,
+  );
+
+  db.exec("DELETE FROM coleta");
+}
+
+const totalChecagens = 45;
 console.log(
   falhas === 0
     ? `\n✓ modelo validado: ${totalChecagens} verificações, 0 falhas\n`
