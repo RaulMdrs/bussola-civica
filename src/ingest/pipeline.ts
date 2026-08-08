@@ -25,6 +25,7 @@ import { ErroHttp, janelas, type OpcoesFetch } from "../lib/http.ts";
 import { CLASSIFICACAO_VERSAO, classificarDiscurso } from "../lib/classificar.ts";
 import { NATUREZA_VERSAO, classificarNatureza } from "../lib/natureza.ts";
 import {
+  hoje as dataDeHoje,
   normalizarCpf,
   normalizarData,
   normalizarOrientacao,
@@ -458,7 +459,7 @@ export async function ingerirVotacoes(
     ctx.log(`  ${j.inicio}..${j.fim}: ${lote.length} votações`);
   }
 
-  const hoje = new Date().toISOString().slice(0, 10);
+  const hoje = dataDeHoje();
   let nominais = 0;
   let simbolicas = 0;
   let puladas = 0;

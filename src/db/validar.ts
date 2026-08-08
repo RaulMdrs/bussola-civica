@@ -16,6 +16,7 @@ import {
   type CategoriaDiscurso,
 } from "../lib/classificar.ts";
 import { classificarNatureza, type NaturezaVotacao } from "../lib/natureza.ts";
+import { hoje } from "../lib/normalizar.ts";
 
 const db = new DatabaseSync(":memory:");
 
@@ -346,7 +347,25 @@ console.log("\nNatureza da votação — casos reais do acervo");
   }
 }
 
-const totalChecagens = 32;
+/**
+ * A fronteira do cache é uma data, e data depende de fuso. Com `toISOString()`
+ * (UTC), toda coleta rodada entre 21h e meia-noite BRT lia o dia seguinte, dava
+ * a sessão em curso por encerrada e gravava o placar parcial como imutável.
+ * Os três casos abaixo são as três horas que o defeito ocupava.
+ */
+console.log("\nFronteira do dia — horário de Brasília, não UTC");
+{
+  const casos: [string, string, string][] = [
+    ["meio-dia BRT é o próprio dia", "2026-08-07T15:00:00Z", "2026-08-07"],
+    ["21h BRT ainda é o mesmo dia (UTC já virou)", "2026-08-08T00:30:00Z", "2026-08-07"],
+    ["madrugada BRT é o dia novo", "2026-08-08T03:30:00Z", "2026-08-08"],
+  ];
+  for (const [nome, instante, esperado] of casos) {
+    checar(nome, hoje(new Date(instante)), esperado);
+  }
+}
+
+const totalChecagens = 35;
 console.log(
   falhas === 0
     ? `\n✓ modelo validado: ${totalChecagens} verificações, 0 falhas\n`
