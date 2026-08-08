@@ -72,6 +72,38 @@ em que a coleta anterior rodou pode ter sido gravada com a sessão em curso, e o
 pipeline só trata como imutável votação anterior a hoje (§ *Idempotência*).
 Revarrer um dia custa cache; perder a votação de fecho de sessão, não.
 
+### O horizonte é por etapa, e a retomada usa o menor
+
+Duas etapas são recortadas por data — `votacoes` e `discursos` — e elas podem
+estar em pontos diferentes. Basta rodar `npm run ingerir -- --etapas votacoes`
+isoladamente, uso documentado logo acima.
+
+Por isso as duas gravam a janela no nome do recurso:
+
+```
+votacoes 2023-02-01..2023-04-30
+deputados/204536/discursos 2023-02-01..2023-04-30
+```
+
+e a retomada é o **menor** dos dois horizontes. Adiantar qualquer etapa deixaria
+a atrasada permanentemente para trás: quem rodasse só `votacoes` até hoje veria
+a próxima execução incremental começar de hoje, e os discursos daquele período
+**nunca** seriam coletados — sem erro, sem aviso, sem linha em `coleta` que
+denunciasse a lacuna. Exatamente o que a auditoria existe para impedir.
+
+Etapa sem horizonte registrado é tratada como **sem cobertura nenhuma**, não
+como "acompanha as outras". Vale para banco anterior a esta versão, em que o
+recurso de discurso não trazia a janela. Recoletar discurso custa ~31
+requisições e deduplica por hash de conteúdo, então o pior caso é barato — e o
+banco se corrige sozinho na primeira execução. Medido: 8,3 min na execução de
+auto-cura, ~49 s nas seguintes.
+
+`proposicoes`, `reclassificar` e `posicoes` não entram nessa conta: não
+consultam a origem por data. As duas últimas rodam **sempre**, mesmo quando não
+há nada novo a coletar — são derivação pura, e mudança de regra de
+classificação ou de metodologia de eixo precisa poder ser aplicada sem que a
+Câmara tenha publicado uma sessão nova.
+
 ### Data corrente é a de Brasília
 
 `hoje()` (`src/lib/normalizar.ts`) usa `America/Sao_Paulo`, não `toISOString()`.

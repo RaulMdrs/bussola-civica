@@ -282,7 +282,7 @@ Validação original, no 1º semestre de 2025 (recorte do reconhecimento):
 | Discursos | 5.851 (4.947 substantivos) |
 | Posições | 124 = 31/31 parlamentares × 2 eixos × 2 escopos |
 | Evidências | 47.011 |
-| Coleta | 9.772 operações, 83 falhas, 34 com retry |
+| Coleta | 10.071 operações (acumulado), 83 falhas, 34 com retry |
 
 > **Cobertura e votação não são a mesma data.** O acervo foi varrido até
 > 2026-08-07, mas a última sessão com votação em plenário é de 2026-07-15 —
@@ -310,14 +310,15 @@ o cargo de ministro), contra 570 de quem serviu o período inteiro.
 | `voto` | 450.630 | | `mandato` | 31 |
 | `posicao_evidencia` | 47.011 | | `tema` | 32 |
 | `orientacao` | 11.682 | | `partido` | 33 |
-| `coleta` | 9.772 | | `exercicio` | 40 |
+| `coleta` | 10.071 | | `exercicio` | 40 |
 | `discurso` | 5.851 | | `filiacao` | 54 |
 | `politico` | 643 (31 completos) | | `posicao` | 124 |
 | `identidade_externa` | 643 | | `eixo` | 2 |
 | `votacao` | 6.281 | | `legislatura` | 1 |
 | `proposicao` | 645 | | `proposicao_tema` | 905 |
 
-**Coleta:** 9.772 operações, 83 falhas, **34 precisaram de retry**. As 83 falhas
+**Coleta:** 10.071 operações (acumulado — cresce a cada execução), 83 falhas,
+**34 precisaram de retry**. As 83 falhas
 são todas 404 em `/votos` de votações que a listagem devolve mas os endpoints de
 detalhe não reconhecem — inconsistência conhecida da origem (§5, achado 1 de
 INGESTOR.md). Ficam **fora** do acervo, com registro em `coleta`: inventar
@@ -398,7 +399,7 @@ primeiro grupo a reconsiderar.
 ## 10. Estado do código
 
 ```
-src/                                    4.118 linhas TypeScript
+src/                                    4.189 linhas TypeScript
   db/schema.ts        840   20 tabelas, comentadas com o achado que as motivou
   db/client.ts         72   node:sqlite via sqlite-proxy + consultar() tipado
   db/migrar.ts         59   aplica migrations, controla em _migrations
@@ -408,9 +409,9 @@ src/                                    4.118 linhas TypeScript
   lib/classificar.ts  111   classificação de discurso
   lib/natureza.ts      69   mérito vs. procedimental
   ingest/camara.ts    251   cliente tipado da API
-  ingest/pipeline.ts  960   6 etapas de ingestão
+  ingest/pipeline.ts  967   6 etapas de ingestão
   ingest/index.ts     110   CLI
-  ingest/incremental.ts 139 retomada automática (descobre a data no banco)
+  ingest/incremental.ts 203 retomada automática (horizonte por etapa)
   calc/posicoes.ts    338   dois eixos + evidências
   relatorio.ts        255   verificação do acervo
 drizzle/                    5 migrations
@@ -427,8 +428,13 @@ todo `npm run` falha com erro de sintaxe.
 npm run ingerir:incremental
 ```
 
-Manutenção periódica: descobre no banco até onde a coleta chegou e continua daí.
-Sem banco, falha dizendo como reconstruir — não inicia acervo.
+Manutenção periódica: descobre no banco até onde cada etapa chegou e continua do
+**menor** horizonte. Sem banco, falha dizendo como reconstruir — não inicia
+acervo. Rejeita `--inicio`/`--fim`/`--etapas`: as datas vêm do banco.
+
+Medido: **~49 s** em regime normal; **8,3 min** na primeira execução sobre banco
+anterior a esta versão, que recoleta os discursos por não ter como provar
+cobertura (auto-cura, uma vez por banco — ver INGESTOR.md).
 
 ```bash
 npm run ingerir -- --inicio 2023-02-01 --fim 2026-08-07
