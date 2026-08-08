@@ -867,8 +867,15 @@ export async function ingerirDiscursos(
   let total = 0;
   for (const alvo of alvos) {
     const id = Number(alvo.idExterno);
-    const lote = await comAuditoria(ctx, `deputados/${id}/discursos`, (o) =>
-      camara.discursos(id, inicio, fim, o),
+    // A janela entra no nome do recurso, como em `votacoes <inicio>..<fim>`:
+    // sem ela, `coleta` diz que os discursos deste deputado foram coletados,
+    // mas não *de que período* — e a ingestão incremental não tem como saber
+    // que esta etapa ficou para trás das outras (docs/INGESTOR.md, § horizonte
+    // por etapa).
+    const lote = await comAuditoria(
+      ctx,
+      `deputados/${id}/discursos ${inicio}..${fim}`,
+      (o) => camara.discursos(id, inicio, fim, o),
     );
     for (const d of lote) {
       // Dedupe por conteudo: o instante NAO e unico (ver `chaveConteudo`).
