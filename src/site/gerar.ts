@@ -8,10 +8,15 @@
  * geração. Um servidor teria de hospedar os 80 MB do banco para responder o que
  * um arquivo já responde — mais infraestrutura, mais superfície, zero ganho.
  *
- * Saída em Markdown com front matter, não HTML: o GitHub Pages já serve `docs/`
- * com tema, então as páginas herdam estilo sem CSS próprio, e o diff de cada
- * rebuild mostra o que mudou nos números — o site vira parte do registro
- * auditável, não um artefato opaco.
+ * Saída em Markdown com front matter, não HTML: o diff de cada rebuild mostra
+ * o que mudou nos números — o site vira parte do registro auditável, não um
+ * artefato opaco. O Jekyll converte, e `docs/_layouts/default.html` mais
+ * `docs/assets/bussola.css` dão a forma.
+ *
+ * As células de tabela carregam HTML inline (`<span class="valor">`, `.n`,
+ * `.aviso-n`) e cada tabela declara sua classe pelo IAL do kramdown
+ * (`{: .t-indice}`) — é o que permite ao CSS transformar tabela em blocos no
+ * celular sem esconder coluna nenhuma.
  *
  * Regra que atravessa o arquivo: **nenhum número sai sem seu `n` e sem link
  * para a fonte.** É a tradução do princípio do projeto para HTML.
@@ -38,10 +43,42 @@ export function slug(s: string): string {
     .replace(/^-|-$/g, "");
 }
 
+/**
+ * Escape de HTML. Obrigatório: 73 votações trazem `<`, `>` ou `&` na descrição
+ * vinda da fonte, e a descrição é reproduzida sem edição — é o que torna o
+ * dado conferível. Sem escape, o texto oficial vira marcação.
+ */
+const esc = (s: string) =>
+  s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+
 const pct = (v: number) => (v * 100).toFixed(1).replace(".", ",");
 
-/** Barra em blocos — legível em texto puro e sem depender de CSS. */
-const barra = (v: number) => "█".repeat(Math.round(v * 20)).padEnd(20, "·");
+/** O `n` é conteúdo, não metadado: sai rotulado e em corpo legível. */
+const enne = (n: number) => `<span class="n">n&nbsp;=&nbsp;<b>${n}</b></span>`;
+
+/**
+ * Etiqueta de amostra pequena. Substitui o `⚠️` solto, que o CSS não alcança:
+ * emoji não recebe borda, fundo nem caixa alta, então o aviso ficava mais
+ * fraco que o número que ele contesta — exatamente ao contrário do necessário.
+ */
+const FRAGIL = 20;
+const avisoN = (n: number) =>
+  n < FRAGIL ? ` <span class="aviso-n">amostra pequena</span>` : "";
+
+/** Barra de proporção. Um tom só: é proporção, não nota. */
+const barra = (v: number, n: number) =>
+  `<span class="barra"${n < FRAGIL ? ` data-fragil` : ""}>` +
+  `<i style="width:${(v * 100).toFixed(1)}%"></i></span>`;
+
+/** Link de fonte: sempre rotulado, nunca só ícone, alvo de toque de 44px. */
+const fonte = (url: string) =>
+  `<a class="fonte" href="${esc(url)}">Ver votação na fonte oficial</a>`;
+
+const ESCOPO_ROTULO: Record<string, string> = {
+  merito: "Mérito",
+  procedimental: "Procedimental",
+  unico: "Todas as votações abertas",
+};
 
 /**
  * Período apurado. O acervo pode conter mais de um recorte; o site exibe o mais
@@ -109,7 +146,7 @@ interface Evidencia {
   descricao: string;
   data: string;
   referencia: string;
-  concordou: number;
+  voto: string;
   fonte: string;
 }
 
@@ -120,6 +157,12 @@ interface Evidencia {
  * ilegível para pessoa e para buscador. A amostra existe para provar que a
  * decomposição existe e é verificável; o acervo inteiro continua no banco, e o
  * link leva à votação na origem.
+ *
+ * O voto individual vem de `voto`, por `posicao_evidencia.voto_id`. Não se
+ * deduz de `concordou = 0`: o vocabulário tem `abstencao`, `obstrucao`,
+ * `ausente` e `presidente`, e divergir não implica ter votado o contrário.
+ * Hoje as divergências são todas `sim`/`nao` — ler mesmo assim é a diferença
+ * entre exibir dado e inferi-lo.
  */
 const evidenciasDe = (
   politicoId: number,
@@ -129,11 +172,12 @@ const evidenciasDe = (
   escopo = "merito",
 ) =>
   todos<Evidencia>(
-    `SELECT v.descricao, v.data, pe.referencia, pe.concordou, v.fonte_url fonte
+    `SELECT v.descricao, v.data, pe.referencia, vo.voto, v.fonte_url fonte
      FROM posicao_evidencia pe
      JOIN posicao po ON po.id = pe.posicao_id AND po.tema_id IS NULL AND po.escopo = ?
      JOIN eixo e ON e.id = po.eixo_id AND e.chave = ?
      JOIN votacao v ON v.id = pe.votacao_id
+     JOIN voto vo ON vo.id = pe.voto_id
      WHERE po.politico_id = ? AND pe.concordou = ?
        AND po.periodo_inicio = ? AND po.periodo_fim = ?
      ORDER BY v.data DESC LIMIT ?`,
@@ -146,17 +190,37 @@ const evidenciasDe = (
     limite,
   );
 
-const frontMatter = (titulo: string, descricao: string) =>
-  `---\ntitle: "${titulo.replace(/"/g, "'")}"\ndescription: "${descricao.replace(/"/g, "'")}"\n---\n\n`;
+/**
+ * A descrição da fonte costuma terminar no placar ("... Sim: 182; Não: 182;").
+ * Separar os dois deixa o texto escaneável sem alterar uma vírgula do que a
+ * origem publicou — a pontuação original fica como está, inclusive.
+ */
+function partirDescricao(d: string): { texto: string; placar: string } {
+  const i = d.search(/\bSim:/);
+  return i < 0
+    ? { texto: d.trim(), placar: "" }
+    : { texto: d.slice(0, i).trim(), placar: d.slice(i).trim() };
+}
 
-/** Repetido em toda página: o número sozinho não se defende. */
-const rodape = () =>
-  `\n---\n\n` +
-  `Apurado sobre a legislatura 57, período **${periodo.ini} → ${periodo.fim}**.\n` +
-  `Metodologia \`${metodologia.versao}\`: <${metodologia.url}>\n\n` +
-  `> Nenhum eixo mede ideologia, qualidade ou desempenho. Todos derivam de voto\n` +
-  `> registrado em fonte oficial, e cada valor é decomponível até a votação que\n` +
-  `> o compõe. O leitor tira a conclusão.\n`;
+function blocoEvidencia(e: Evidencia): string {
+  const { texto, placar } = partirDescricao(e.descricao);
+  return (
+    `<blockquote class="evidencia">\n` +
+    `<span class="data">${esc(e.data)}</span>\n` +
+    `<div class="corpo">\n` +
+    `<p>${esc(texto)}` +
+    (placar ? ` <span class="placar">${esc(placar)}</span>` : "") +
+    `</p>\n` +
+    `<p class="referencia">${esc(e.referencia)} — voto registrado: <b>${esc(e.voto)}</b>.</p>\n` +
+    fonte(e.fonte) +
+    `\n</div>\n</blockquote>\n\n`
+  );
+}
+
+const frontMatter = (titulo: string, descricao: string, kind: string) =>
+  `---\nlayout: default\nkind: ${kind}\n` +
+  `title: "${titulo.replace(/"/g, "'")}"\n` +
+  `description: "${descricao.replace(/"/g, "'")}"\n---\n\n`;
 
 // ---------------------------------------------------------------------------
 
@@ -168,53 +232,74 @@ function gerarPerfil(p: Parlamentar): string {
   let md = frontMatter(
     `${p.nome}${p.sigla ? ` (${p.sigla})` : ""}`,
     `Como ${p.nome} vota: alinhamento com o governo federal e coesão partidária, a partir de votações nominais da Câmara.`,
+    "perfil",
   );
 
   md += `# ${p.nome}\n\n`;
-  md += `**${p.sigla ?? "sem filiação registrada"}** · deputado federal pelo RS · `;
-  md += `${p.condicao}${p.exercicio ? ` · em exercício desde ${p.exercicio}` : ""}\n\n`;
+  md += `<p class="subtitulo"><b>${esc(p.sigla ?? "sem filiação registrada")}</b> · `;
+  md += `deputado federal pelo RS · ${esc(p.condicao)}`;
+  md += p.exercicio ? ` · em exercício desde <b>${esc(p.exercicio)}</b>` : "";
+  md += `</p>\n\n`;
 
   md += `## Os dois eixos\n\n`;
-  md += `| Eixo | Escopo | Valor | Observações |\n|---|---|---:|---|\n`;
+  md += `Duas medidas, apuradas em separado para o **mérito** das matérias e para\n`;
+  md += `votações **procedimentais** — votar a urgência de um projeto não é votar o\n`;
+  md += `projeto. Os denominadores mudam de parlamentar para parlamentar: dependem de\n`;
+  md += `quantas votações ocorreram no período de exercício de cada um.\n\n`;
+
+  md += `| Eixo | Escopo | Valor | Base de cálculo |\n|---|---|---:|---|\n`;
   for (const x of geral) {
-    md += `| ${x.rotulo} | ${x.escopo} | **${pct(x.valor)}%** | ${x.n} de ${x.opo} votações |\n`;
+    const classe = x.eixo === "alinhamento_governo" ? "eixo-gov" : "eixo-par";
+    md += `| <span class="${classe}">${esc(x.rotulo)}</span> `;
+    md += `| <span class="escopo">${ESCOPO_ROTULO[x.escopo] ?? x.escopo}</span> `;
+    md += `| <span class="valor">${pct(x.valor)}%</span> `;
+    md += `| <span class="n-detalhe">${x.n} <span>votações computáveis</span></span>`;
+    md += `<span class="n-detalhe">${x.opo} <span>votações no exercício</span></span> |\n`;
   }
-  md += `\n`;
-  md += `*Observações* é em quantas votações o voto foi computável; o segundo número\n`;
-  md += `é quantas ocorreram dentro do período de exercício deste parlamentar — por\n`;
-  md += `isso os denominadores variam entre perfis.\n\n`;
+  md += `{: .t-eixos}\n\n`;
+
+  md += `> **Coesão alta não é virtude, coesão baixa não é defeito.** Dois\n`;
+  md += `> parlamentares de partidos opostos, votando em direções contrárias, podem\n`;
+  md += `> ambos ter 100% de coesão. O eixo mede quanto o voto coincidiu com a\n`;
+  md += `> maioria dos próprios pares — nada além disso.\n\n`;
 
   if (tematicas.length) {
     md += `## Alinhamento com o governo, por tema\n\n`;
-    md += `Mesma metodologia, universo menor. **Não é posição sobre o tema**: a fonte\n`;
-    md += `diz que a matéria trata do assunto, não se aprová-la o favorece.\n\n`;
-    md += `| Tema | Alinhamento | n |\n|---|---:|---:|\n`;
+    md += `> Isto **não é posição sobre o tema**. A classificação vem da fonte oficial\n`;
+    md += `> e diz apenas que a matéria trata daquele assunto — não se aprová-la\n`;
+    md += `> favorece ou contraria o assunto. Leia o percentual junto do \`n\`: em temas\n`;
+    md += `> com poucas votações, uma única sessão move o número dezenas de pontos.\n\n`;
+
+    md += `| Tema | Alinhamento | Votações (n) |\n|---|---:|---:|\n`;
     for (const t of tematicas) {
-      const alerta = t.n < 20 ? ` ⚠️` : "";
-      md += `| [${t.tema}](../../temas/${slug(t.tema!)}/) | ${pct(t.valor)}% | ${t.n}${alerta} |\n`;
+      md += `| [${t.tema}](../../temas/${slug(t.tema!)}/) `;
+      md += `| <span class="valor">${pct(t.valor)}%</span> `;
+      md += `| ${enne(t.n)}${avisoN(t.n)} |\n`;
     }
-    md += `\n⚠️ = menos de 20 votações do tema. Leia o \`n\` antes da porcentagem:\n`;
-    md += `100% sobre 3 votações não é 100%.\n\n`;
+    md += `{: .t-temas}\n\n`;
+    md += `<span class="aviso-n">amostra pequena</span> marca temas com menos de\n`;
+    md += `${FRAGIL} votações. Nesses casos a porcentagem é frágil e o \`n\` é a\n`;
+    md += `informação mais importante da linha.\n\n`;
   }
 
   md += `## Por que estes números\n\n`;
-  for (const [eixo, titulo] of [
-    ["alinhamento_governo", "Alinhamento com o governo federal"],
-    ["coesao_partidaria", "Coesão com o próprio partido"],
+  md += `Uma amostra das votações em que o voto de ${p.nome} **divergiu** da\n`;
+  md += `referência de cada eixo. As descrições são o texto original da fonte\n`;
+  md += `oficial, reproduzido sem edição — é o que torna o dado conferível.\n\n`;
+
+  for (const [eixo, titulo, classe] of [
+    ["alinhamento_governo", "Divergências da orientação do Governo", "eixo-gov"],
+    ["coesao_partidaria", "Divergências da maioria do próprio partido", "eixo-par"],
   ] as const) {
     const divergiu = evidenciasDe(p.id, eixo, 0, 3);
     if (!divergiu.length) continue;
-    md += `### ${titulo} — amostra de divergência\n\n`;
-    for (const e of divergiu) {
-      md += `- **${e.data}** · ${e.descricao.slice(0, 110)}\n`;
-      md += `  ${e.referencia} · [fonte oficial](${e.fonte})\n`;
-    }
-    md += `\n`;
+    md += `### <span class="${classe}">${titulo}</span>\n\n`;
+    for (const e of divergiu) md += blocoEvidencia(e);
   }
   md += `Esta é uma amostra. A decomposição completa existe no acervo, votação por\n`;
   md += `votação, e é reconstruível a partir das fontes oficiais.\n`;
 
-  return md + rodape();
+  return md;
 }
 
 /**
@@ -224,65 +309,85 @@ function gerarPerfil(p: Parlamentar): string {
  * senador com 88% de deputado. Os universos não se comparam: 114 votações
  * abertas contra 1.117 nominais, vocabulário de voto diferente, e 68% das
  * votações do Senado sem voto individual recuperável. Por isso o aviso está no
- * corpo, antes da tabela, e não em rodapé.
+ * corpo, antes da tabela, e num bloco que interrompe — não em rodapé.
  */
 const AVISO_SENADO =
-  `> **Não compare estes números com os dos deputados.** O Senado tem outro\n` +
-  `> universo: **114 votações abertas** no período, contra 1.117 nominais da\n` +
-  `> Câmara, porque **68% das votações do Senado são secretas** — nelas a origem\n` +
-  `> confirma que o senador votou, não como.\n` +
-  `>\n` +
-  `> E aqui existe **um eixo só**. O alinhamento com o governo federal não é\n` +
-  `> calculável: o Senado não publica orientação de bancada em dados abertos, e\n` +
-  `> sem referência oficial não há contra o que comparar. Escolher uma seria\n` +
-  `> rotular por conta própria, que é o que este projeto não faz.\n`;
+  `<div class="interrompe">\n` +
+  `<h4>Não compare estes números com os dos deputados</h4>\n` +
+  `<p>O Senado tem outro universo: <b>114 votações abertas</b> no período, contra\n` +
+  `1.117 nominais da Câmara, porque <b>68% das votações do Senado são secretas</b>\n` +
+  `— nelas a origem confirma que o senador votou, não como.</p>\n` +
+  `</div>\n\n`;
+
+/** A ausência do eixo 1 é informação, não falha de layout. */
+const AUSENCIA_SENADO =
+  `<div class="ausencia">\n` +
+  `<h4>Alinhamento com o governo federal — não calculável</h4>\n` +
+  `<p>O Senado não publica orientação de bancada em dados abertos, e sem\n` +
+  `referência oficial não há contra o que comparar. Escolher uma seria rotular\n` +
+  `por conta própria, que é o que este projeto não faz. Aqui existe um eixo só.</p>\n` +
+  `</div>\n\n`;
 
 function gerarPerfilSenador(p: Parlamentar): string {
   const pos = posicoesDe(p.id).filter((x) => !x.tema);
   let md = frontMatter(
     `${p.nome}${p.sigla ? ` (${p.sigla})` : ""} — senador`,
     `Como ${p.nome} vota no Senado: coesão com o próprio partido, a partir das votações abertas.`,
+    "perfil",
   );
   md += `# ${p.nome}\n\n`;
-  md += `**${p.sigla ?? "sem filiação registrada"}** · senador pelo RS · `;
-  md += `${p.condicao}${p.exercicio ? ` · em exercício desde ${p.exercicio}` : ""}\n\n`;
-  md += AVISO_SENADO + `\n`;
+  md += `<p class="subtitulo"><b>${esc(p.sigla ?? "sem filiação registrada")}</b> · `;
+  md += `senador pelo RS · ${esc(p.condicao)}`;
+  md += p.exercicio ? ` · em exercício desde <b>${esc(p.exercicio)}</b>` : "";
+  md += `</p>\n\n`;
+  md += AVISO_SENADO;
+  md += AUSENCIA_SENADO;
 
   md += `## Coesão com o próprio partido\n\n`;
-  md += `| Escopo | Valor | Observações |\n|---|---:|---|\n`;
+  md += `| Eixo | Escopo | Valor | Base de cálculo |\n|---|---|---:|---|\n`;
   for (const x of pos) {
-    md += `| todas as votações abertas | **${pct(x.valor)}%** | ${x.n} de ${x.opo} votações |\n`;
+    md += `| <span class="eixo-par">${esc(x.rotulo)}</span> `;
+    md += `| <span class="escopo">${ESCOPO_ROTULO[x.escopo] ?? x.escopo}</span> `;
+    md += `| <span class="valor">${pct(x.valor)}%</span> `;
+    md += `| <span class="n-detalhe">${x.n} <span>votações computáveis</span></span>`;
+    md += `<span class="n-detalhe">${x.opo} <span>votações no exercício</span></span> |\n`;
   }
-  md += `\nNão há recorte entre mérito e procedimental aqui: a regra que separa os\n`;
+  md += `{: .t-eixos}\n\n`;
+  md += `Não há recorte entre mérito e procedimental aqui: a regra que separa os\n`;
   md += `dois foi calibrada contra a descrição de votação da Câmara, e não foi\n`;
   md += `validada para o texto do Senado. Sem recorte medido, não se inventa recorte.\n\n`;
 
   const divergiu = evidenciasDe(p.id, "coesao_partidaria", 0, 3, "unico");
   if (divergiu.length) {
-    md += `## Por que este número — amostra de divergência\n\n`;
-    for (const e of divergiu) {
-      md += `- **${e.data}** · ${e.descricao.slice(0, 110)}\n`;
-      md += `  ${e.referencia} · [fonte oficial](${e.fonte})\n`;
-    }
-    md += `\n`;
+    md += `## Por que este número\n\n`;
+    md += `Amostra das votações em que o voto divergiu da maioria do próprio partido.\n`;
+    md += `As descrições são o texto original da fonte oficial.\n\n`;
+    for (const e of divergiu) md += blocoEvidencia(e);
   }
-  return md + rodape();
+  return md;
 }
 
 function gerarIndiceSenadores(senadores: Parlamentar[]): string {
   let md = frontMatter(
     "Senadores do Rio Grande do Sul",
     "Os 3 senadores gaúchos: coesão partidária a partir das votações abertas do Senado.",
+    "indice",
   );
   md += `# Senadores do Rio Grande do Sul\n\n`;
-  md += AVISO_SENADO + `\n`;
-  md += `| Senador | Partido | Coesão partidária | n |\n|---|---|---:|---:|\n`;
+  md += `<p class="subtitulo">${senadores.length} parlamentares, em ordem alfabética. `;
+  md += `A ordem é navegação, não classificação.</p>\n\n`;
+  md += AVISO_SENADO;
+  md += AUSENCIA_SENADO;
+  md += `| Senador | Partido | Coesão partidária | Votações (n) |\n|---|---|---:|---:|\n`;
   for (const p of senadores) {
     const x = posicoesDe(p.id).find((y) => !y.tema);
-    md += `| [${p.nome}](${slug(p.nome)}/) | ${p.sigla ?? "—"} `;
-    md += `| ${x ? pct(x.valor) + "%" : "—"} | ${x ? `${x.n}/${x.opo}` : "—"} |\n`;
+    md += `| [${p.nome}](${slug(p.nome)}/) `;
+    md += `| <span class="sigla">${esc(p.sigla ?? "—")}</span> `;
+    md += `| ${x ? `<span class="valor">${pct(x.valor)}%</span>` : "—"} `;
+    md += `| ${x ? enne(x.n) + avisoN(x.n) : "—"} |\n`;
   }
-  return md + rodape();
+  md += `{: .t-senado}\n`;
+  return md;
 }
 
 function gerarTema(tema: string, temaId: number): string {
@@ -311,66 +416,81 @@ function gerarTema(tema: string, temaId: number): string {
   let md = frontMatter(
     `${tema} — alinhamento com o governo`,
     `Como a bancada gaúcha vota em ${tema}, medido contra a orientação da liderança do Governo.`,
+    "tema",
   );
   md += `# ${tema}\n\n`;
-  md += `**${votacoes.n} votações nominais de mérito** sobre este tema no período.\n\n`;
-  md += `O que a tabela mede é **alinhamento com a orientação do Governo dentro deste\n`;
-  md += `tema** — não posição a favor ou contra o assunto. Essa direção não existe em\n`;
-  md += `fonte oficial, e atribuí-la seria rotular por conta própria.\n\n`;
+  md += `<p class="subtitulo"><b>${votacoes.n} votações nominais de mérito</b> sobre `;
+  md += `este tema no período.</p>\n\n`;
+  md += `> O que a tabela mede é **alinhamento com a orientação do Governo dentro\n`;
+  md += `> deste tema** — não posição a favor ou contra o assunto. Essa direção não\n`;
+  md += `> existe em fonte oficial, e atribuí-la seria rotular por conta própria.\n\n`;
 
-  md += `| Parlamentar | | Alinhamento | n |\n|---|---|---:|---:|\n`;
+  md += `| Parlamentar | Partido | Alinhamento | Votações (n) |\n|---|---|---|---:|\n`;
   for (const l of linhas) {
-    const alerta = l.n < 20 ? ` ⚠️` : "";
-    md += `| [${l.nome}](../../parlamentares/${slug(l.nome)}/) | ${l.sigla ?? "—"} `;
-    md += `| \`${barra(l.valor)}\` ${pct(l.valor)}% | ${l.n}${alerta} |\n`;
+    md += `| [${l.nome}](../../parlamentares/${slug(l.nome)}/) `;
+    md += `| <span class="sigla">${esc(l.sigla ?? "—")}</span> `;
+    md += `| ${barra(l.valor, l.n)} <span class="valor">${pct(l.valor)}%</span> `;
+    md += `| ${enne(l.n)}${avisoN(l.n)} |\n`;
   }
-  const fracos = linhas.filter((l) => l.n < 20).length;
-  md += `\n`;
+  md += `{: .t-bancada}\n\n`;
+
+  const fracos = linhas.filter((l) => l.n < FRAGIL).length;
   if (fracos) {
-    md += `⚠️ **${fracos} de ${linhas.length} parlamentares têm menos de 20 votações**\n`;
-    md += `neste tema. Nesses casos a porcentagem é frágil e o \`n\` é a informação\n`;
-    md += `mais importante da linha.\n\n`;
+    md += `**${fracos} de ${linhas.length} parlamentares têm menos de ${FRAGIL}\n`;
+    md += `votações** neste tema. Nesses casos a porcentagem é frágil e o \`n\` é a\n`;
+    md += `informação mais importante da linha.\n`;
   }
-  return md + rodape();
+  return md;
 }
 
 function gerarIndiceParlamentares(): string {
   let md = frontMatter(
-    "Bancada gaúcha na Câmara",
+    "Deputados federais do Rio Grande do Sul",
     "Os 31 deputados federais do Rio Grande do Sul: alinhamento com o governo e coesão partidária, a partir de votações nominais.",
+    "indice",
   );
-  md += `# Bancada gaúcha na Câmara\n\n`;
-  md += `Os **31 deputados federais do Rio Grande do Sul** na legislatura 57.\n`;
-  md += `Clique no nome para ver a decomposição de cada número.\n\n`;
-  md += `| Parlamentar | Partido | Alinhamento c/ governo | Coesão partidária | n |\n`;
+  md += `# Deputados federais do Rio Grande do Sul\n\n`;
+  md += `<p class="subtitulo">${parlamentares.length} parlamentares da legislatura 57, `;
+  md += `em ordem alfabética. A ordem é navegação, não classificação.</p>\n\n`;
+
+  md += `> **Estas duas colunas não se comparam entre si e não ordenam ninguém.**\n`;
+  md += `> Alinhamento mede coincidência com a orientação declarada pela liderança do\n`;
+  md += `> Governo; coesão mede coincidência com a maioria do próprio partido. Um\n`;
+  md += `> valor alto não é melhor que um baixo — é outro. E os dois só significam\n`;
+  md += `> alguma coisa ao lado do \`n\`: o número de votações de que foram extraídos.\n\n`;
+
+  md += `| Parlamentar | Partido | Alinh. c/ governo | Coesão partidária | Votações (n) |\n`;
   md += `|---|---|---:|---:|---:|\n`;
 
   for (const p of parlamentares) {
     const pos = posicoesDe(p.id).filter((x) => !x.tema && x.escopo === "merito");
     const al = pos.find((x) => x.eixo === "alinhamento_governo");
     const co = pos.find((x) => x.eixo === "coesao_partidaria");
-    md += `| [${p.nome}](${slug(p.nome)}/) | ${p.sigla ?? "—"} `;
-    md += `| ${al ? pct(al.valor) + "%" : "—"} | ${co ? pct(co.valor) + "%" : "—"} `;
-    md += `| ${al?.n ?? "—"} |\n`;
+    md += `| [${p.nome}](${slug(p.nome)}/) `;
+    md += `| <span class="sigla">${esc(p.sigla ?? "—")}</span> `;
+    md += `| ${al ? `<span class="valor">${pct(al.valor)}%</span>` : "—"} `;
+    md += `| ${co ? `<span class="valor">${pct(co.valor)}%</span>` : "—"} `;
+    md += `| ${al ? enne(al.n) + avisoN(al.n) : "—"} |\n`;
   }
+  md += `{: .t-indice}\n\n`;
 
-  md += `\nValores do escopo de **mérito** — o principal. Cada perfil traz também o\n`;
-  md += `escopo procedimental e os recortes por tema.\n\n`;
-  md += `**Nenhuma destas colunas mede ideologia.** Dois parlamentares de partidos\n`;
-  md += `opostos podem ter a mesma coesão partidária e votar em direções contrárias.\n`;
-  return md + rodape();
+  md += `Valores do escopo de **mérito** — o principal. Cada perfil traz também o\n`;
+  md += `escopo procedimental e os recortes por tema.\n`;
+  return md;
 }
 
 function gerarIndiceTemas(temas: { id: number; nome: string }[]): string {
   let md = frontMatter(
     "Temas",
     "Alinhamento com o governo federal recortado pelos 12 temas com votação suficiente.",
+    "indice",
   );
   md += `# Temas\n\n`;
-  md += `Os eixos também são apurados **dentro de um tema**. Um tema vira recorte\n`;
-  md += `quando tem ao menos 30 votações nominais de mérito no período — hoje são\n`;
-  md += `**${temas.length}**, dos 32 da classificação oficial da Câmara.\n\n`;
-  md += `| Tema | Votações | Média da bancada |\n|---|---:|---:|\n`;
+  md += `<p class="subtitulo">Os eixos também são apurados <b>dentro de um tema</b>. `;
+  md += `Um tema vira recorte quando tem ao menos 30 votações nominais de mérito no `;
+  md += `período — hoje são <b>${temas.length}</b>, dos 32 da classificação oficial `;
+  md += `da Câmara.</p>\n\n`;
+  md += `| Tema | Votações nominais | Média da bancada |\n|---|---:|---:|\n`;
   for (const t of temas) {
     const r = um<{ n: number; media: number; v: number }>(
       `SELECT COUNT(*) n, AVG(po.valor) media,
@@ -386,9 +506,11 @@ function gerarIndiceTemas(temas: { id: number; nome: string }[]): string {
       periodo.ini,
       periodo.fim,
     );
-    md += `| [${t.nome}](${slug(t.nome)}/) | ${r.v} | ${pct(r.media)}% |\n`;
+    md += `| [${t.nome}](${slug(t.nome)}/) | ${enne(r.v)} `;
+    md += `| <span class="valor">${pct(r.media)}%</span> |\n`;
   }
-  return md + rodape();
+  md += `{: .t-lista-temas}\n`;
+  return md;
 }
 
 // ---------------------------------------------------------------------------
@@ -396,6 +518,24 @@ function gerarIndiceTemas(temas: { id: number; nome: string }[]): string {
 function escrever(caminho: string, conteudo: string) {
   mkdirSync(join(SAIDA, caminho), { recursive: true });
   writeFileSync(join(SAIDA, caminho, "index.md"), conteudo);
+}
+
+/**
+ * Metadados do rodapé, para o layout. Escritos aqui, a partir do banco, na
+ * mesma execução que escreve as páginas: rodapé mantido à mão desvia em
+ * silêncio, e o dia em que desviar o site vai afirmar que os números foram
+ * calculados sob uma metodologia que não os produziu.
+ */
+function escreverMeta() {
+  mkdirSync(join(SAIDA, "_data"), { recursive: true });
+  writeFileSync(
+    join(SAIDA, "_data", "meta.yml"),
+    `# Gerado por 'npm run site' a partir do acervo. Não editar à mão.\n` +
+      `periodo_inicio: "${periodo.ini}"\n` +
+      `periodo_fim: "${periodo.fim}"\n` +
+      `metodologia_versao: "${metodologia.versao}"\n` +
+      `metodologia_url: "${metodologia.url}"\n`,
+  );
 }
 
 // Regenera do zero: parlamentar que sai da bancada tem de sumir do site, e
@@ -412,6 +552,8 @@ const temas = todos<{ id: number; nome: string }>(
   periodo.ini,
   periodo.fim,
 );
+
+escreverMeta();
 
 escrever("parlamentares", gerarIndiceParlamentares());
 for (const p of parlamentares) escrever(`parlamentares/${slug(p.nome)}`, gerarPerfil(p));

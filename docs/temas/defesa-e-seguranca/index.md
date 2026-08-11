@@ -1,60 +1,53 @@
 ---
+layout: default
+kind: tema
 title: "Defesa e Segurança — alinhamento com o governo"
 description: "Como a bancada gaúcha vota em Defesa e Segurança, medido contra a orientação da liderança do Governo."
 ---
 
 # Defesa e Segurança
 
-**41 votações nominais de mérito** sobre este tema no período.
+<p class="subtitulo"><b>41 votações nominais de mérito</b> sobre este tema no período.</p>
 
-O que a tabela mede é **alinhamento com a orientação do Governo dentro deste
-tema** — não posição a favor ou contra o assunto. Essa direção não existe em
-fonte oficial, e atribuí-la seria rotular por conta própria.
+> O que a tabela mede é **alinhamento com a orientação do Governo dentro
+> deste tema** — não posição a favor ou contra o assunto. Essa direção não
+> existe em fonte oficial, e atribuí-la seria rotular por conta própria.
 
-| Parlamentar | | Alinhamento | n |
-|---|---|---:|---:|
-| [Bohn Gass](../../parlamentares/bohn-gass/) | PT | `████████████████████` 100,0% | 30 |
-| [Daiana Santos](../../parlamentares/daiana-santos/) | PCdoB | `████████████████████` 100,0% | 33 |
-| [Maria do Rosário](../../parlamentares/maria-do-rosario/) | PT | `████████████████████` 100,0% | 26 |
-| [Alexandre Lindenmeyer](../../parlamentares/alexandre-lindenmeyer/) | PT | `███████████████████·` 95,8% | 24 |
-| [Heitor Schuch](../../parlamentares/heitor-schuch/) | PSD | `███████████████████·` 95,2% | 21 |
-| [Paulo Pimenta](../../parlamentares/paulo-pimenta/) | PT | `███████████████████·` 94,7% | 19 ⚠️ |
-| [Marcon](../../parlamentares/marcon/) | PT | `███████████████████·` 93,9% | 33 |
-| [Fernanda Melchionna](../../parlamentares/fernanda-melchionna/) | PSOL | `███████████████████·` 92,9% | 28 |
-| [Denise Pessôa](../../parlamentares/denise-pessoa/) | PT | `███████████████████·` 92,6% | 27 |
-| [Pompeo de Mattos](../../parlamentares/pompeo-de-mattos/) | PDT | `████████████········` 59,4% | 32 |
-| [Carlos Gomes](../../parlamentares/carlos-gomes/) | REPUBLICANOS | `███████████·········` 57,1% | 7 ⚠️ |
-| [Afonso Motta](../../parlamentares/afonso-motta/) | PDT | `███████████·········` 54,8% | 31 |
-| [Danrlei de Deus Hinterholz](../../parlamentares/danrlei-de-deus-hinterholz/) | PSD | `██████████··········` 50,0% | 12 ⚠️ |
-| [Daniel Trzeciak](../../parlamentares/daniel-trzeciak/) | PSDB | `██████████··········` 48,4% | 31 |
-| [Márcio Biolchi](../../parlamentares/marcio-biolchi/) | MDB | `██████████··········` 48,0% | 25 |
-| [Franciane Bayer](../../parlamentares/franciane-bayer/) | REPUBLICANOS | `█████████···········` 44,4% | 27 |
-| [Marcelo Moraes](../../parlamentares/marcelo-moraes/) | PL | `█████████···········` 44,4% | 27 |
-| [Luiz Carlos Busato](../../parlamentares/luiz-carlos-busato/) | UNIÃO | `█████████···········` 43,3% | 30 |
-| [Alceu Moreira](../../parlamentares/alceu-moreira/) | MDB | `████████············` 41,2% | 34 |
-| [Zucco](../../parlamentares/zucco/) | PL | `████████············` 39,4% | 33 |
-| [Afonso Hamm](../../parlamentares/afonso-hamm/) | PP | `████████············` 39,1% | 23 |
-| [Osmar Terra](../../parlamentares/osmar-terra/) | PL | `████████············` 38,5% | 26 |
-| [Lucas Redecker](../../parlamentares/lucas-redecker/) | PSD | `████████············` 37,5% | 32 |
-| [Pedro Westphalen](../../parlamentares/pedro-westphalen/) | PP | `███████·············` 36,7% | 30 |
-| [Covatti Filho](../../parlamentares/covatti-filho/) | PP | `███████·············` 36,0% | 25 |
-| [Mauricio Marcon](../../parlamentares/mauricio-marcon/) | PL | `███████·············` 35,3% | 34 |
-| [Giovani Cherini](../../parlamentares/giovani-cherini/) | PL | `███████·············` 34,4% | 32 |
-| [Bibo Nunes](../../parlamentares/bibo-nunes/) | PL | `███████·············` 33,3% | 33 |
-| [Sanderson](../../parlamentares/sanderson/) | PL | `██████··············` 32,3% | 31 |
-| [Any Ortiz](../../parlamentares/any-ortiz/) | PP | `██████··············` 29,0% | 31 |
-| [Marcel van Hattem](../../parlamentares/marcel-van-hattem/) | NOVO | `██████··············` 28,1% | 32 |
+| Parlamentar | Partido | Alinhamento | Votações (n) |
+|---|---|---|---:|
+| [Bohn Gass](../../parlamentares/bohn-gass/) | <span class="sigla">PT</span> | <span class="barra"><i style="width:100.0%"></i></span> <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>30</b></span> |
+| [Daiana Santos](../../parlamentares/daiana-santos/) | <span class="sigla">PCdoB</span> | <span class="barra"><i style="width:100.0%"></i></span> <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>33</b></span> |
+| [Maria do Rosário](../../parlamentares/maria-do-rosario/) | <span class="sigla">PT</span> | <span class="barra"><i style="width:100.0%"></i></span> <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>26</b></span> |
+| [Alexandre Lindenmeyer](../../parlamentares/alexandre-lindenmeyer/) | <span class="sigla">PT</span> | <span class="barra"><i style="width:95.8%"></i></span> <span class="valor">95,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>24</b></span> |
+| [Heitor Schuch](../../parlamentares/heitor-schuch/) | <span class="sigla">PSD</span> | <span class="barra"><i style="width:95.2%"></i></span> <span class="valor">95,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>21</b></span> |
+| [Paulo Pimenta](../../parlamentares/paulo-pimenta/) | <span class="sigla">PT</span> | <span class="barra" data-fragil><i style="width:94.7%"></i></span> <span class="valor">94,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>19</b></span> <span class="aviso-n">amostra pequena</span> |
+| [Marcon](../../parlamentares/marcon/) | <span class="sigla">PT</span> | <span class="barra"><i style="width:93.9%"></i></span> <span class="valor">93,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>33</b></span> |
+| [Fernanda Melchionna](../../parlamentares/fernanda-melchionna/) | <span class="sigla">PSOL</span> | <span class="barra"><i style="width:92.9%"></i></span> <span class="valor">92,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>28</b></span> |
+| [Denise Pessôa](../../parlamentares/denise-pessoa/) | <span class="sigla">PT</span> | <span class="barra"><i style="width:92.6%"></i></span> <span class="valor">92,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>27</b></span> |
+| [Pompeo de Mattos](../../parlamentares/pompeo-de-mattos/) | <span class="sigla">PDT</span> | <span class="barra"><i style="width:59.4%"></i></span> <span class="valor">59,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>32</b></span> |
+| [Carlos Gomes](../../parlamentares/carlos-gomes/) | <span class="sigla">REPUBLICANOS</span> | <span class="barra" data-fragil><i style="width:57.1%"></i></span> <span class="valor">57,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>7</b></span> <span class="aviso-n">amostra pequena</span> |
+| [Afonso Motta](../../parlamentares/afonso-motta/) | <span class="sigla">PDT</span> | <span class="barra"><i style="width:54.8%"></i></span> <span class="valor">54,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>31</b></span> |
+| [Danrlei de Deus Hinterholz](../../parlamentares/danrlei-de-deus-hinterholz/) | <span class="sigla">PSD</span> | <span class="barra" data-fragil><i style="width:50.0%"></i></span> <span class="valor">50,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>12</b></span> <span class="aviso-n">amostra pequena</span> |
+| [Daniel Trzeciak](../../parlamentares/daniel-trzeciak/) | <span class="sigla">PSDB</span> | <span class="barra"><i style="width:48.4%"></i></span> <span class="valor">48,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>31</b></span> |
+| [Márcio Biolchi](../../parlamentares/marcio-biolchi/) | <span class="sigla">MDB</span> | <span class="barra"><i style="width:48.0%"></i></span> <span class="valor">48,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>25</b></span> |
+| [Franciane Bayer](../../parlamentares/franciane-bayer/) | <span class="sigla">REPUBLICANOS</span> | <span class="barra"><i style="width:44.4%"></i></span> <span class="valor">44,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>27</b></span> |
+| [Marcelo Moraes](../../parlamentares/marcelo-moraes/) | <span class="sigla">PL</span> | <span class="barra"><i style="width:44.4%"></i></span> <span class="valor">44,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>27</b></span> |
+| [Luiz Carlos Busato](../../parlamentares/luiz-carlos-busato/) | <span class="sigla">UNIÃO</span> | <span class="barra"><i style="width:43.3%"></i></span> <span class="valor">43,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>30</b></span> |
+| [Alceu Moreira](../../parlamentares/alceu-moreira/) | <span class="sigla">MDB</span> | <span class="barra"><i style="width:41.2%"></i></span> <span class="valor">41,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>34</b></span> |
+| [Zucco](../../parlamentares/zucco/) | <span class="sigla">PL</span> | <span class="barra"><i style="width:39.4%"></i></span> <span class="valor">39,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>33</b></span> |
+| [Afonso Hamm](../../parlamentares/afonso-hamm/) | <span class="sigla">PP</span> | <span class="barra"><i style="width:39.1%"></i></span> <span class="valor">39,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>23</b></span> |
+| [Osmar Terra](../../parlamentares/osmar-terra/) | <span class="sigla">PL</span> | <span class="barra"><i style="width:38.5%"></i></span> <span class="valor">38,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>26</b></span> |
+| [Lucas Redecker](../../parlamentares/lucas-redecker/) | <span class="sigla">PSD</span> | <span class="barra"><i style="width:37.5%"></i></span> <span class="valor">37,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>32</b></span> |
+| [Pedro Westphalen](../../parlamentares/pedro-westphalen/) | <span class="sigla">PP</span> | <span class="barra"><i style="width:36.7%"></i></span> <span class="valor">36,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>30</b></span> |
+| [Covatti Filho](../../parlamentares/covatti-filho/) | <span class="sigla">PP</span> | <span class="barra"><i style="width:36.0%"></i></span> <span class="valor">36,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>25</b></span> |
+| [Mauricio Marcon](../../parlamentares/mauricio-marcon/) | <span class="sigla">PL</span> | <span class="barra"><i style="width:35.3%"></i></span> <span class="valor">35,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>34</b></span> |
+| [Giovani Cherini](../../parlamentares/giovani-cherini/) | <span class="sigla">PL</span> | <span class="barra"><i style="width:34.4%"></i></span> <span class="valor">34,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>32</b></span> |
+| [Bibo Nunes](../../parlamentares/bibo-nunes/) | <span class="sigla">PL</span> | <span class="barra"><i style="width:33.3%"></i></span> <span class="valor">33,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>33</b></span> |
+| [Sanderson](../../parlamentares/sanderson/) | <span class="sigla">PL</span> | <span class="barra"><i style="width:32.3%"></i></span> <span class="valor">32,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>31</b></span> |
+| [Any Ortiz](../../parlamentares/any-ortiz/) | <span class="sigla">PP</span> | <span class="barra"><i style="width:29.0%"></i></span> <span class="valor">29,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>31</b></span> |
+| [Marcel van Hattem](../../parlamentares/marcel-van-hattem/) | <span class="sigla">NOVO</span> | <span class="barra"><i style="width:28.1%"></i></span> <span class="valor">28,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>32</b></span> |
+{: .t-bancada}
 
-⚠️ **3 de 31 parlamentares têm menos de 20 votações**
-neste tema. Nesses casos a porcentagem é frágil e o `n` é a informação
-mais importante da linha.
-
-
----
-
-Apurado sobre a legislatura 57, período **2023-02-01 → 2026-08-11**.
-Metodologia `2026-08-11.2`: <https://raulmdrs.github.io/bussola-civica/metodologia/>
-
-> Nenhum eixo mede ideologia, qualidade ou desempenho. Todos derivam de voto
-> registrado em fonte oficial, e cada valor é decomponível até a votação que
-> o compõe. O leitor tira a conclusão.
+**3 de 31 parlamentares têm menos de 20
+votações** neste tema. Nesses casos a porcentagem é frágil e o `n` é a
+informação mais importante da linha.

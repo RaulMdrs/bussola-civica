@@ -1,3 +1,10 @@
+---
+layout: default
+kind: prosa
+title: "Arquitetura de coleta"
+description: "Idempotência, auditoria e retomada incremental do ingestor."
+---
+
 # INGESTOR.md
 
 Coletor das fontes oficiais. Referências (§x.y) apontam para [FONTES.md](./FONTES.md).

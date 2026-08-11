@@ -1,47 +1,68 @@
 ---
+layout: default
+kind: perfil
 title: "Luis Carlos Heinze (PP) — senador"
 description: "Como Luis Carlos Heinze vota no Senado: coesão com o próprio partido, a partir das votações abertas."
 ---
 
 # Luis Carlos Heinze
 
-**PP** · senador pelo RS · titular · em exercício desde 2023-02-01
+<p class="subtitulo"><b>PP</b> · senador pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
 
-> **Não compare estes números com os dos deputados.** O Senado tem outro
-> universo: **114 votações abertas** no período, contra 1.117 nominais da
-> Câmara, porque **68% das votações do Senado são secretas** — nelas a origem
-> confirma que o senador votou, não como.
->
-> E aqui existe **um eixo só**. O alinhamento com o governo federal não é
-> calculável: o Senado não publica orientação de bancada em dados abertos, e
-> sem referência oficial não há contra o que comparar. Escolher uma seria
-> rotular por conta própria, que é o que este projeto não faz.
+<div class="interrompe">
+<h4>Não compare estes números com os dos deputados</h4>
+<p>O Senado tem outro universo: <b>114 votações abertas</b> no período, contra
+1.117 nominais da Câmara, porque <b>68% das votações do Senado são secretas</b>
+— nelas a origem confirma que o senador votou, não como.</p>
+</div>
+
+<div class="ausencia">
+<h4>Alinhamento com o governo federal — não calculável</h4>
+<p>O Senado não publica orientação de bancada em dados abertos, e sem
+referência oficial não há contra o que comparar. Escolher uma seria rotular
+por conta própria, que é o que este projeto não faz. Aqui existe um eixo só.</p>
+</div>
 
 ## Coesão com o próprio partido
 
-| Escopo | Valor | Observações |
-|---|---:|---|
-| todas as votações abertas | **88,3%** | 77 de 114 votações |
+| Eixo | Escopo | Valor | Base de cálculo |
+|---|---|---:|---|
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Todas as votações abertas</span> | <span class="valor">88,3%</span> | <span class="n-detalhe">77 <span>votações computáveis</span></span><span class="n-detalhe">114 <span>votações no exercício</span></span> |
+{: .t-eixos}
 
 Não há recorte entre mérito e procedimental aqui: a regra que separa os
 dois foi calibrada contra a descrição de votação da Câmara, e não foi
 validada para o texto do Senado. Sem recorte medido, não se inventa recorte.
 
-## Por que este número — amostra de divergência
+## Por que este número
 
-- **2025-09-30** · Votação nominal da Emenda nº 721 (Substitutivo) ao PLP nº 108/2024, nos termos do parecer, ressalvado o destaq
-  Maioria do partido: sim (5 sim / 0 não entre os pares) · [fonte oficial](https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=7013)
-- **2025-06-25** · Votação nominal do Requerimento nº 451, de 2025, que solicita urgência para o Projeto de Lei Complementar nº 1
-  Maioria do partido: sim (4 sim / 2 não entre os pares) · [fonte oficial](https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=6953)
-- **2025-06-25** · (Votação nominal do Requerimento nº 451, de 2025, que solicita urgência para o Projeto de Lei Complementar nº 
-  Maioria do partido: sim (4 sim / 2 não entre os pares) · [fonte oficial](https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=6950)
+Amostra das votações em que o voto divergiu da maioria do próprio partido.
+As descrições são o texto original da fonte oficial.
 
+<blockquote class="evidencia">
+<span class="data">2025-09-30</span>
+<div class="corpo">
+<p>Votação nominal da Emenda nº 721 (Substitutivo) ao PLP nº 108/2024, nos termos do parecer, ressalvado o destaque.</p>
+<p class="referencia">Maioria do partido: sim (5 sim / 0 não entre os pares) — voto registrado: <b>nao</b>.</p>
+<a class="fonte" href="https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=7013">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
 
----
+<blockquote class="evidencia">
+<span class="data">2025-06-25</span>
+<div class="corpo">
+<p>Votação nominal do Requerimento nº 451, de 2025, que solicita urgência para o Projeto de Lei Complementar nº 177, de 2023</p>
+<p class="referencia">Maioria do partido: sim (4 sim / 2 não entre os pares) — voto registrado: <b>nao</b>.</p>
+<a class="fonte" href="https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=6953">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
 
-Apurado sobre a legislatura 57, período **2023-02-01 → 2026-08-11**.
-Metodologia `2026-08-11.2`: <https://raulmdrs.github.io/bussola-civica/metodologia/>
+<blockquote class="evidencia">
+<span class="data">2025-06-25</span>
+<div class="corpo">
+<p>(Votação nominal do Requerimento nº 451, de 2025, que solicita urgência para o Projeto de Lei Complementar nº 177, de 2023).</p>
+<p class="referencia">Maioria do partido: sim (4 sim / 2 não entre os pares) — voto registrado: <b>nao</b>.</p>
+<a class="fonte" href="https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=6950">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
 
-> Nenhum eixo mede ideologia, qualidade ou desempenho. Todos derivam de voto
-> registrado em fonte oficial, e cada valor é decomponível até a votação que
-> o compõe. O leitor tira a conclusão.

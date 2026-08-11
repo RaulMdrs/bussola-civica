@@ -1,3 +1,10 @@
+---
+layout: default
+kind: prosa
+title: "Metodologia 2026-08-04.2 — versão arquivada"
+description: "Versão superada da metodologia dos eixos."
+---
+
 # Metodologia dos eixos — Bússola Cívica
 
 > ⚠️ **Versão arquivada.** Esta é a `2026-08-04.2`, **superada** pela
@@ -5,6 +12,7 @@
 > calculados sob ela só são explicados por ela. O que mudou depois:
 > acrescentou-se o recorte por tema. Os dois eixos descritos abaixo não
 > mudaram — seus valores são idênticos nas duas versões.
+{: .superada}
 
 **Versão `2026-08-04.2`** · apurada sobre a legislatura 57
 (2023-02-01 → 2026-08-11), Câmara dos Deputados, bancada do Rio Grande do Sul.

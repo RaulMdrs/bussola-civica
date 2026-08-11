@@ -1,31 +1,31 @@
 ---
+layout: default
+kind: indice
 title: "Senadores do Rio Grande do Sul"
 description: "Os 3 senadores gaúchos: coesão partidária a partir das votações abertas do Senado."
 ---
 
 # Senadores do Rio Grande do Sul
 
-> **Não compare estes números com os dos deputados.** O Senado tem outro
-> universo: **114 votações abertas** no período, contra 1.117 nominais da
-> Câmara, porque **68% das votações do Senado são secretas** — nelas a origem
-> confirma que o senador votou, não como.
->
-> E aqui existe **um eixo só**. O alinhamento com o governo federal não é
-> calculável: o Senado não publica orientação de bancada em dados abertos, e
-> sem referência oficial não há contra o que comparar. Escolher uma seria
-> rotular por conta própria, que é o que este projeto não faz.
+<p class="subtitulo">3 parlamentares, em ordem alfabética. A ordem é navegação, não classificação.</p>
 
-| Senador | Partido | Coesão partidária | n |
+<div class="interrompe">
+<h4>Não compare estes números com os dos deputados</h4>
+<p>O Senado tem outro universo: <b>114 votações abertas</b> no período, contra
+1.117 nominais da Câmara, porque <b>68% das votações do Senado são secretas</b>
+— nelas a origem confirma que o senador votou, não como.</p>
+</div>
+
+<div class="ausencia">
+<h4>Alinhamento com o governo federal — não calculável</h4>
+<p>O Senado não publica orientação de bancada em dados abertos, e sem
+referência oficial não há contra o que comparar. Escolher uma seria rotular
+por conta própria, que é o que este projeto não faz. Aqui existe um eixo só.</p>
+</div>
+
+| Senador | Partido | Coesão partidária | Votações (n) |
 |---|---|---:|---:|
-| [Hamilton Mourão](hamilton-mourao/) | REPUBLICANOS | 86,3% | 102/114 |
-| [Luis Carlos Heinze](luis-carlos-heinze/) | PP | 88,3% | 77/114 |
-| [Paulo Paim](paulo-paim/) | PT | 93,3% | 104/114 |
-
----
-
-Apurado sobre a legislatura 57, período **2023-02-01 → 2026-08-11**.
-Metodologia `2026-08-11.2`: <https://raulmdrs.github.io/bussola-civica/metodologia/>
-
-> Nenhum eixo mede ideologia, qualidade ou desempenho. Todos derivam de voto
-> registrado em fonte oficial, e cada valor é decomponível até a votação que
-> o compõe. O leitor tira a conclusão.
+| [Hamilton Mourão](hamilton-mourao/) | <span class="sigla">REPUBLICANOS</span> | <span class="valor">86,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>102</b></span> |
+| [Luis Carlos Heinze](luis-carlos-heinze/) | <span class="sigla">PP</span> | <span class="valor">88,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>77</b></span> |
+| [Paulo Paim](paulo-paim/) | <span class="sigla">PT</span> | <span class="valor">93,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>104</b></span> |
+{: .t-senado}

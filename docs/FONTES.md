@@ -1,3 +1,10 @@
+---
+layout: default
+kind: prosa
+title: "Fontes oficiais"
+description: "Reconhecimento das APIs oficiais: o que cada endpoint entrega e onde falha."
+---
+
 # FONTES.md — Reconhecimento das APIs
 
 Documento de reconhecimento das fontes oficiais, anterior à definição do modelo

@@ -1,3 +1,10 @@
+---
+layout: default
+kind: prosa
+title: "Metodologia dos eixos"
+description: "Como cada número é calculado, e o que ele não significa."
+---
+
 # Metodologia dos eixos — Bússola Cívica
 
 **Versão `2026-08-11.2`** · vigente · apurada sobre a legislatura 57

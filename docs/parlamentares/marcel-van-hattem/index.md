@@ -1,76 +1,124 @@
 ---
+layout: default
+kind: perfil
 title: "Marcel van Hattem (NOVO)"
 description: "Como Marcel van Hattem vota: alinhamento com o governo federal e coesão partidária, a partir de votações nominais da Câmara."
 ---
 
 # Marcel van Hattem
 
-**NOVO** · deputado federal pelo RS · titular · em exercício desde 2023-02-01
+<p class="subtitulo"><b>NOVO</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
 
 ## Os dois eixos
 
-| Eixo | Escopo | Valor | Observações |
-|---|---|---:|---|
-| Alinhamento com o governo federal | merito | **27,8%** | 399 de 571 votações |
-| Alinhamento com o governo federal | procedimental | **12,5%** | 344 de 536 votações |
-| Coesão com o próprio partido | merito | **99,2%** | 507 de 571 votações |
-| Coesão com o próprio partido | procedimental | **99,8%** | 461 de 536 votações |
+Duas medidas, apuradas em separado para o **mérito** das matérias e para
+votações **procedimentais** — votar a urgência de um projeto não é votar o
+projeto. Os denominadores mudam de parlamentar para parlamentar: dependem de
+quantas votações ocorreram no período de exercício de cada um.
 
-*Observações* é em quantas votações o voto foi computável; o segundo número
-é quantas ocorreram dentro do período de exercício deste parlamentar — por
-isso os denominadores variam entre perfis.
+| Eixo | Escopo | Valor | Base de cálculo |
+|---|---|---:|---|
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | <span class="valor">27,8%</span> | <span class="n-detalhe">399 <span>votações computáveis</span></span><span class="n-detalhe">571 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | <span class="valor">12,5%</span> | <span class="n-detalhe">344 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | <span class="valor">99,2%</span> | <span class="n-detalhe">507 <span>votações computáveis</span></span><span class="n-detalhe">571 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | <span class="valor">99,8%</span> | <span class="n-detalhe">461 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
+{: .t-eixos}
+
+> **Coesão alta não é virtude, coesão baixa não é defeito.** Dois
+> parlamentares de partidos opostos, votando em direções contrárias, podem
+> ambos ter 100% de coesão. O eixo mede quanto o voto coincidiu com a
+> maioria dos próprios pares — nada além disso.
 
 ## Alinhamento com o governo, por tema
 
-Mesma metodologia, universo menor. **Não é posição sobre o tema**: a fonte
-diz que a matéria trata do assunto, não se aprová-la o favorece.
+> Isto **não é posição sobre o tema**. A classificação vem da fonte oficial
+> e diz apenas que a matéria trata daquele assunto — não se aprová-la
+> favorece ou contraria o assunto. Leia o percentual junto do `n`: em temas
+> com poucas votações, uma única sessão move o número dezenas de pontos.
 
-| Tema | Alinhamento | n |
+| Tema | Alinhamento | Votações (n) |
 |---|---:|---:|
-| [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | 39,3% | 28 |
-| [Saúde](../../temas/saude/) | 34,6% | 26 |
-| [Indústria, Comércio e Serviços](../../temas/industria-comercio-e-servicos/) | 34,6% | 26 |
-| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | 32,1% | 190 |
-| [Economia](../../temas/economia/) | 31,1% | 61 |
-| [Defesa e Segurança](../../temas/defesa-e-seguranca/) | 28,1% | 32 |
-| [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | 26,1% | 46 |
-| [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | 25,0% | 16 ⚠️ |
-| [Administração Pública](../../temas/administracao-publica/) | 22,8% | 123 |
-| [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | 20,0% | 20 |
-| [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | 14,0% | 43 |
-| [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | 12,0% | 25 |
+| [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | <span class="valor">39,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>28</b></span> |
+| [Saúde](../../temas/saude/) | <span class="valor">34,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>26</b></span> |
+| [Indústria, Comércio e Serviços](../../temas/industria-comercio-e-servicos/) | <span class="valor">34,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>26</b></span> |
+| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">32,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>190</b></span> |
+| [Economia](../../temas/economia/) | <span class="valor">31,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>61</b></span> |
+| [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">28,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>32</b></span> |
+| [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">26,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>46</b></span> |
+| [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">25,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>16</b></span> <span class="aviso-n">amostra pequena</span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">22,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>123</b></span> |
+| [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">20,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>20</b></span> |
+| [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">14,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>43</b></span> |
+| [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">12,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>25</b></span> |
+{: .t-temas}
 
-⚠️ = menos de 20 votações do tema. Leia o `n` antes da porcentagem:
-100% sobre 3 votações não é 100%.
+<span class="aviso-n">amostra pequena</span> marca temas com menos de
+20 votações. Nesses casos a porcentagem é frágil e o `n` é a
+informação mais importante da linha.
 
 ## Por que estes números
 
-### Alinhamento com o governo federal — amostra de divergência
+Uma amostra das votações em que o voto de Marcel van Hattem **divergiu** da
+referência de cada eixo. As descrições são o texto original da fonte
+oficial, reproduzido sem edição — é o que torna o dado conferível.
 
-- **2026-06-17** · Mantido o texto. Sim: 285; Não: 106; Abstenção: 1; Total: 392.
-  Orientação do Governo: sim · [fonte oficial](https://dadosabertos.camara.leg.br/api/v2/votacoes/947810-85)
-- **2026-06-17** · Rejeitada a Emenda n° 102. Sim: 22; Não: 378; Abstenção: 1; Total: 401.
-  Orientação do Governo: nao · [fonte oficial](https://dadosabertos.camara.leg.br/api/v2/votacoes/2610975-23)
-- **2026-06-16** · Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 337, de 2017, adotada pelo relator da Comi
-  Orientação do Governo: sim · [fonte oficial](https://dadosabertos.camara.leg.br/api/v2/votacoes/2122125-115)
+### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
-### Coesão com o próprio partido — amostra de divergência
+<blockquote class="evidencia">
+<span class="data">2026-06-17</span>
+<div class="corpo">
+<p>Mantido o texto. <span class="placar">Sim: 285; Não: 106; Abstenção: 1; Total: 392.</span></p>
+<p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/947810-85">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
 
-- **2024-12-05** · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 136, de 2024, adotado pela relatora da Comissão de S
-  Maioria do partido: sim (1 sim / 0 não entre os pares) · [fonte oficial](https://dadosabertos.camara.leg.br/api/v2/votacoes/2454257-27)
-- **2024-04-10** · Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Comunicação de Medida Cautelar nº 1/
-  Maioria do partido: sim (2 sim / 0 não entre os pares) · [fonte oficial](https://dadosabertos.camara.leg.br/api/v2/votacoes/2423268-40)
-- **2023-11-29** · Aprovado o Projeto de Lei Complementar nº 205, de 2023.Sim: 326; não: 84; abstenção: 1; total: 411.
-  Maioria do partido: nao (0 sim / 2 não entre os pares) · [fonte oficial](https://dadosabertos.camara.leg.br/api/v2/votacoes/2398741-64)
+<blockquote class="evidencia">
+<span class="data">2026-06-17</span>
+<div class="corpo">
+<p>Rejeitada a Emenda n° 102. <span class="placar">Sim: 22; Não: 378; Abstenção: 1; Total: 401.</span></p>
+<p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2610975-23">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia">
+<span class="data">2026-06-16</span>
+<div class="corpo">
+<p>Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 337, de 2017, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania. <span class="placar">Sim: 417; Não: 19; Total: 436.</span></p>
+<p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2122125-115">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
+
+### <span class="eixo-par">Divergências da maioria do próprio partido</span>
+
+<blockquote class="evidencia">
+<span class="data">2024-12-05</span>
+<div class="corpo">
+<p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 136, de 2024, adotado pela relatora da Comissão de Segurança Pública e Combate ao Crime Organizado. <span class="placar">Sim: 348; Não: 57; Total: 405.</span></p>
+<p class="referencia">Maioria do partido: sim (1 sim / 0 não entre os pares) — voto registrado: <b>nao</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2454257-27">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia">
+<span class="data">2024-04-10</span>
+<div class="corpo">
+<p>Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Comunicação de Medida Cautelar nº 1/2024. <span class="placar">Sim: 277; não: 129; abstenção: 28; total: 434.</span></p>
+<p class="referencia">Maioria do partido: sim (2 sim / 0 não entre os pares) — voto registrado: <b>nao</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2423268-40">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia">
+<span class="data">2023-11-29</span>
+<div class="corpo">
+<p>Aprovado o Projeto de Lei Complementar nº 205, de 2023. <span class="placar">Sim: 326; não: 84; abstenção: 1; total: 411.</span></p>
+<p class="referencia">Maioria do partido: nao (0 sim / 2 não entre os pares) — voto registrado: <b>sim</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2398741-64">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
-
----
-
-Apurado sobre a legislatura 57, período **2023-02-01 → 2026-08-11**.
-Metodologia `2026-08-11.2`: <https://raulmdrs.github.io/bussola-civica/metodologia/>
-
-> Nenhum eixo mede ideologia, qualidade ou desempenho. Todos derivam de voto
-> registrado em fonte oficial, e cada valor é decomponível até a votação que
-> o compõe. O leitor tira a conclusão.

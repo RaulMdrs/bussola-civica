@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% comment %} Na home o sufixo repetiria o próprio título. {% endcomment %}
+<title>{% if page.title == site.title %}{{ site.title }}{% else %}{{ page.title }} · {{ site.title }}{% endif %}</title>
+{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+<link rel="stylesheet" href="{{ '/assets/bussola.css' | relative_url }}">
+</head>
+<body>
+<a class="pular" href="#conteudo">Pular para o conteúdo</a>
+
+<header class="topo">
+  <div class="topo-int">
+    <a class="marca" href="{{ '/' | relative_url }}">Bússola Cívica
+      <small>Rio Grande do Sul · 57ª legislatura</small></a>
+    <nav class="nav" aria-label="Seções">
+      <a href="{{ '/parlamentares/' | relative_url }}">Deputados</a>
+      <a href="{{ '/senadores/' | relative_url }}">Senadores</a>
+      <a href="{{ '/temas/' | relative_url }}">Temas</a>
+      <a href="{{ '/metodologia/' | relative_url }}">Metodologia</a>
+    </nav>
+  </div>
+</header>
+
+<main id="conteudo" class="envelope conteudo page-{{ page.kind }}">
+  {{ content }}
+</main>
+
+{% comment %}
+  Período e metodologia vêm de `_data/meta.yml`, que o gerador escreve a
+  partir do banco na mesma execução que escreve as páginas. Não editar à
+  mão: rodapé que afirma uma versão de metodologia diferente da que
+  produziu os números quebra exatamente a rastreabilidade que sustenta o
+  princípio do projeto.
+{% endcomment %}
+<footer class="rodape">
+  <div class="envelope">
+    <dl class="rodape-grade">
+      <div><dt>Período apurado</dt>
+        <dd>{{ site.data.meta.periodo_inicio }} → {{ site.data.meta.periodo_fim }}</dd></div>
+      <div><dt>Metodologia</dt>
+        <dd><a href="{{ site.data.meta.metodologia_url }}">versão {{ site.data.meta.metodologia_versao }}</a></dd></div>
+      <div><dt>Fonte</dt>
+        <dd><a href="https://dadosabertos.camara.leg.br">Dados Abertos da Câmara</a> ·
+            <a href="https://legis.senado.leg.br/dadosabertos/">Senado Federal</a></dd></div>
+    </dl>
+    <p class="ressalva">Nenhum eixo desta página mede ideologia, qualidade ou
+      desempenho parlamentar. Todos os números derivam de registro oficial de
+      votação, e cada um é decomponível até a votação que o compõe. A conclusão
+      é sua.</p>
+  </div>
+</footer>
+</body>
+</html>

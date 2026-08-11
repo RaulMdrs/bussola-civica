@@ -1,3 +1,10 @@
+---
+layout: default
+kind: prosa
+title: "Versões arquivadas da metodologia"
+description: "As regras superadas, congeladas como estavam quando produziram números."
+---
+
 # Versões arquivadas da metodologia
 
 A [metodologia vigente](../) é um documento vivo: descreve sempre a regra em

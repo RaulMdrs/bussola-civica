@@ -1,11 +1,22 @@
-# GitHub Pages serve este diretório. Sem tema, o Jekyll entrega o markdown
-# convertido sem folha de estilo nenhuma — legível, mas não publicável.
-theme: jekyll-theme-primer
-
+# GitHub Pages serve este diretório.
+#
+# Sem tema de terceiro: o layout e a folha de estilo são deste projeto, em
+# `_layouts/default.html` e `assets/bussola.css`. O tema `jekyll-theme-primer`
+# saiu daqui quando o design próprio entrou — manter os dois faria a folha do
+# tema disputar com a nossa.
 title: Bússola Cívica
 description: >-
   Como os números são calculados. Todo dado exibido deriva de fonte oficial
   rastreável.
+
+# Toda página herda o layout. As geradas declaram também `kind`, que vira a
+# classe `page-<kind>` no `<main>`; as escritas à mão caem no padrão abaixo.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      kind: prosa
 
 # O acervo e o código não são conteúdo de site.
 exclude:

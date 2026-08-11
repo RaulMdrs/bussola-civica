@@ -1,0 +1,583 @@
+/* =============================================================
+   Bússola Cívica — folha de estilo única
+   CSS escrito à mão. Sem build, sem dependência externa.
+   Estiliza a saída do Markdown (kramdown/Jekyll).
+
+   Sumário
+   0. Variáveis (cor, espaço, tipografia)
+   1. Reset mínimo e base
+   2. Tipografia do conteúdo (prosa)
+   3. Blockquote — ressalvas e evidências
+   4. Links e fonte oficial
+   5. Tabelas — desktop
+   6. Tabelas — 360px (blocos-registro)
+   7. O `n` e o aviso de amostra pequena
+   8. Barras de proporção (páginas de tema)
+   9. Blocos especiais (incomparabilidade, versão superada)
+   10. Cabeçalho, navegação, rodapé
+   11. Acessibilidade e impressão
+   ============================================================= */
+
+/* ---------- 0. Variáveis ------------------------------------ */
+:root {
+  /* Tipografia: pilhas de sistema. Serifa para prosa (leitura longa,
+     atitude de relatório impresso); sans para dados e interface;
+     mono para números que precisam alinhar. */
+  --f-prosa: ui-serif, Charter, "Bitstream Charter", "Iowan Old Style",
+             "Source Serif Pro", Georgia, "Times New Roman", serif;
+  --f-ui: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+          Arial, sans-serif;
+  --f-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas,
+            "Liberation Mono", monospace;
+
+  --t-base: 1.0625rem;   /* 17px — corpo */
+  --t-peq: 0.9375rem;    /* 15px — mínimo permitido; nunca menor para dado */
+  --lh-prosa: 1.62;
+  --medida: 34rem;       /* medida de linha confortável para prosa */
+
+  /* Espaço — escala de 4px */
+  --e1: .25rem;  --e2: .5rem;   --e3: .75rem;  --e4: 1rem;
+  --e5: 1.5rem;  --e6: 2rem;    --e7: 3rem;    --e8: 4.5rem;
+
+  /* Cor — papel levemente quente, tinta quase-preta.
+     Nenhuma cor é avaliativa. Os dois matizes abaixo distinguem
+     EIXOS (governo × partido), nunca pessoas nem valores. */
+  --papel:      oklch(0.987 0.005 85);
+  --papel-2:    oklch(0.958 0.007 85);
+  --tinta:      oklch(0.245 0.012 70);
+  --tinta-2:    oklch(0.445 0.010 70);
+  --fio:        oklch(0.875 0.008 80);
+  --fio-forte:  oklch(0.640 0.010 80);
+
+  --eixo-gov:   oklch(0.47 0.075 250); /* eixo: alinhamento com o governo */
+  --eixo-par:   oklch(0.47 0.075 55);  /* eixo: coesão partidária */
+  --link:       oklch(0.44 0.085 250);
+  --link-hover: oklch(0.32 0.095 250);
+
+  /* Aviso de qualidade do dado (n baixo). Âmbar: adverte sobre a
+     MEDIÇÃO, não sobre o parlamentar. Nunca verde/vermelho. */
+  --aviso:      oklch(0.46 0.105 78);
+  --aviso-fundo:oklch(0.945 0.045 90);
+  --aviso-fio:  oklch(0.72 0.090 85);
+
+  --foco:       oklch(0.55 0.15 250);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --papel:      oklch(0.185 0.008 80);
+    --papel-2:    oklch(0.235 0.008 80);
+    --tinta:      oklch(0.925 0.008 85);
+    --tinta-2:    oklch(0.755 0.008 85);
+    --fio:        oklch(0.345 0.008 80);
+    --fio-forte:  oklch(0.520 0.010 80);
+
+    --eixo-gov:   oklch(0.78 0.075 250);
+    --eixo-par:   oklch(0.79 0.075 65);
+    --link:       oklch(0.80 0.085 245);
+    --link-hover: oklch(0.90 0.090 245);
+
+    --aviso:      oklch(0.84 0.100 85);
+    --aviso-fundo:oklch(0.285 0.045 85);
+    --aviso-fio:  oklch(0.55 0.080 85);
+
+    --foco:       oklch(0.80 0.13 245);
+  }
+}
+
+/* ---------- 1. Reset mínimo e base -------------------------- */
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--papel);
+  color: var(--tinta);
+  font: var(--t-base)/var(--lh-prosa) var(--f-prosa);
+  font-synthesis-weight: none;
+  text-rendering: optimizeLegibility;
+}
+img { max-width: 100%; height: auto; }
+
+.envelope {            /* largura máxima do documento */
+  max-width: 60rem;
+  margin: 0 auto;
+  padding: 0 var(--e5);
+}
+@media (max-width: 640px) { .envelope { padding: 0 var(--e4); } }
+
+/* ---------- 2. Tipografia do conteúdo ----------------------- */
+.conteudo { padding: var(--e7) 0 var(--e8); }
+
+.conteudo h1 {
+  font-size: clamp(1.75rem, 1.35rem + 1.8vw, 2.6rem);
+  line-height: 1.14;
+  letter-spacing: -0.015em;
+  font-weight: 600;
+  margin: 0 0 var(--e3);
+  text-wrap: balance;
+}
+.conteudo h2 {
+  font-size: clamp(1.25rem, 1.1rem + 0.7vw, 1.5rem);
+  line-height: 1.22;
+  font-weight: 600;
+  margin: var(--e8) 0 var(--e4);
+  padding-top: var(--e4);
+  border-top: 2px solid var(--tinta);   /* fio de seção, à moda de jornal */
+  text-wrap: balance;
+}
+.conteudo h3 {
+  font-size: 1.125rem; font-weight: 600;
+  margin: var(--e6) 0 var(--e2);
+}
+.conteudo h4 {
+  font: 600 var(--t-peq)/1.3 var(--f-ui);
+  text-transform: uppercase; letter-spacing: .08em;
+  color: var(--tinta-2);
+  margin: var(--e5) 0 var(--e2);
+}
+.conteudo p { margin: 0 0 var(--e4); max-width: var(--medida); }
+.conteudo h1 + p, .conteudo h2 + p { margin-top: calc(var(--e2) * -1); }
+.conteudo strong { font-weight: 650; }
+.conteudo ul, .conteudo ol { max-width: var(--medida); padding-left: 1.15em; margin: 0 0 var(--e4); }
+.conteudo li { margin-bottom: var(--e2); }
+.conteudo li::marker { color: var(--fio-forte); }
+.conteudo hr {
+  border: 0; border-top: 1px solid var(--fio);
+  margin: var(--e6) 0;
+}
+.conteudo code {
+  font: 500 0.9em/1 var(--f-mono);
+  background: var(--papel-2);
+  border: 1px solid var(--fio);
+  border-radius: 2px;
+  padding: .1em .3em;
+}
+/* Linha-fina abaixo do H1: contexto do parlamentar/página */
+.subtitulo {
+  font: var(--t-base)/1.45 var(--f-ui);
+  color: var(--tinta-2);
+  margin: 0 0 var(--e6);
+  max-width: var(--medida);
+}
+/* `nowrap`: a data de exercício estava quebrando em "2023-02-" / "01". */
+.subtitulo b { color: var(--tinta); font-weight: 600; white-space: nowrap; }
+
+/* ---------- 3. Blockquote ----------------------------------- */
+/* Dois usos: ressalva em prosa (convida à leitura) e evidência
+   (texto oficial, seco — precisa ser escaneável). */
+.conteudo blockquote {
+  margin: 0 0 var(--e4);
+  padding: var(--e4) var(--e5);
+  background: var(--papel-2);
+  border: 1px solid var(--fio);
+  max-width: var(--medida);
+}
+.conteudo blockquote p { margin: 0; font-size: var(--t-base); }
+.conteudo blockquote p + p { margin-top: var(--e3); }
+
+/* Evidência: uma votação divergente. Denso, tabular, com fonte. */
+.evidencia {
+  max-width: none;
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: var(--e1) var(--e5);
+  align-items: baseline;
+  padding: var(--e4) var(--e5);
+  background: transparent;
+  border: 0; border-top: 1px solid var(--fio);
+}
+.evidencia:last-of-type { border-bottom: 1px solid var(--fio); }
+.evidencia .data {
+  font: 600 var(--t-peq)/1.4 var(--f-mono);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -.01em;
+  white-space: nowrap;
+}
+.evidencia .corpo { margin: 0; max-width: 44rem; }
+.evidencia .placar {
+  font: 500 var(--t-peq)/1.5 var(--f-mono);
+  font-variant-numeric: tabular-nums;
+  color: var(--tinta-2);
+}
+.evidencia .referencia {
+  font: var(--t-peq)/1.5 var(--f-ui);
+  margin-top: var(--e1);
+}
+.evidencia .referencia b { font-weight: 600; }
+@media (max-width: 640px) {
+  .evidencia { grid-template-columns: 1fr; padding: var(--e4) 0; gap: var(--e2); }
+}
+
+/* ---------- 4. Links e fonte oficial ------------------------ */
+a { color: var(--link); text-decoration-thickness: 1px; text-underline-offset: .18em; }
+a:hover { color: var(--link-hover); text-decoration-thickness: 2px; }
+a:focus-visible { outline: 2px solid var(--foco); outline-offset: 2px; border-radius: 1px; }
+
+/* Elemento de primeira classe: sempre rotulado, nunca só ícone,
+   nunca escondido em hover, alvo de toque de 44px. */
+.fonte {
+  display: inline-flex; align-items: center; gap: .4em;
+  font: 600 var(--t-peq)/1 var(--f-ui);
+  min-height: 44px; padding: .55em .75em;
+  border: 1px solid var(--fio-forte);
+  border-radius: 2px;
+  text-decoration: none;
+  color: var(--link);
+  background: var(--papel);
+}
+.fonte::after { content: "↗"; font-size: .9em; }
+.fonte:hover { border-color: var(--link-hover); background: var(--papel-2); text-decoration: underline; }
+td .fonte, .evidencia .fonte { margin-top: var(--e2); }
+
+/* ---------- 5. Tabelas — desktop ---------------------------- */
+.conteudo table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0 0 var(--e5);
+  font-family: var(--f-ui);
+  font-size: var(--t-base);
+}
+.conteudo caption {
+  text-align: left;
+  font: var(--t-peq)/1.5 var(--f-ui);
+  color: var(--tinta-2);
+  padding-bottom: var(--e2);
+  max-width: var(--medida);
+}
+.conteudo th {
+  text-align: left;
+  font: 600 var(--t-peq)/1.3 var(--f-ui);
+  text-transform: uppercase; letter-spacing: .06em;
+  color: var(--tinta-2);
+  padding: 0 var(--e3) var(--e2);
+  border-bottom: 2px solid var(--tinta);
+  vertical-align: bottom;
+}
+.conteudo td {
+  padding: var(--e3);
+  border-bottom: 1px solid var(--fio);
+  vertical-align: baseline;
+}
+.conteudo th:first-child, .conteudo td:first-child { padding-left: 0; }
+.conteudo th:last-child,  .conteudo td:last-child  { padding-right: 0; }
+/* alinhamento à direita que o kramdown gera com |---:| */
+.conteudo th[style*="right"], .conteudo td[style*="right"],
+.conteudo .num { text-align: right; }
+
+/* Números: tabulares sempre, para as colunas se lerem verticalmente. */
+.conteudo td { font-variant-numeric: tabular-nums; }
+.valor {
+  font: 600 1.0625rem/1.2 var(--f-ui);
+  font-variant-numeric: tabular-nums lining-nums;
+  letter-spacing: -.01em;
+  white-space: nowrap;
+}
+/* Sigla de partido: neutra por decisão. Sem cores oficiais. */
+.sigla {
+  display: inline-block;
+  font: 600 var(--t-peq)/1 var(--f-ui);
+  letter-spacing: .04em;
+  padding: .35em .5em;
+  border: 1px solid var(--fio-forte);
+  border-radius: 2px;
+  color: var(--tinta-2);
+  white-space: nowrap;
+}
+/* Marcador de eixo — cor identifica o EIXO, não a pessoa nem o valor.
+   A cor vai num filete, não no texto: `--eixo-gov` e `--link` diferem em
+   0,02 de luminosidade e 5° de matiz, então texto de eixo pintado de azul
+   era indistinguível de link — anunciava um clique que não existe. Como
+   filete, a cor continua identificando o eixo e para de disputar com o
+   azul de link e com o âmbar de dado frágil. */
+.eixo-gov, .eixo-par { font-weight: 600; color: var(--tinta); }
+.eixo-gov::before, .eixo-par::before {
+  content: ""; display: inline-block;
+  width: .3em; height: .95em; margin-right: .5em;
+  vertical-align: -.1em; border-radius: 1px;
+}
+.eixo-gov::before { background: var(--eixo-gov); }
+.eixo-par::before { background: var(--eixo-par); }
+.escopo {
+  font: 600 var(--t-peq)/1 var(--f-ui);
+  text-transform: uppercase; letter-spacing: .07em;
+  color: var(--tinta-2);
+}
+/* Nome do parlamentar no índice: sem realce de topo/base. */
+.t-indice td:first-child a { font-weight: 600; text-decoration-color: var(--fio-forte); }
+
+/* ---------- 6. Tabelas — 360px ------------------------------ */
+/* As tabelas de 5 colunas viram blocos-registro. Não há scroll
+   horizontal e nenhuma coluna é sacrificada. Os rótulos vêm do CSS
+   (o Markdown não os produz), por posição de célula e por classe de
+   tabela — a classe entra no Markdown com o IAL do kramdown:
+       {: .t-indice}
+   logo abaixo da tabela. Para uma tabela nova, basta uma classe e
+   quatro linhas de `content:` aqui. */
+@media (max-width: 700px) {
+  .conteudo table { display: block; font-size: var(--t-base); }
+  /* A legenda continuava `table-caption` dentro de uma tabela que virou
+     bloco, e encolhia para a largura da palavra mais longa — uma palavra
+     por linha. Bloco resolve. */
+  .conteudo caption { display: block; }
+  .conteudo thead {  /* cabeçalho vira rótulo por célula; some da tela */
+    display: block;
+    position: absolute; width: 1px; height: 1px;
+    overflow: hidden; clip-path: inset(50%); white-space: nowrap;
+  }
+  .conteudo tbody { display: block; }
+  .conteudo tr {
+    display: block;
+    border: 1px solid var(--fio);
+    background: var(--papel);
+    margin-bottom: calc(var(--e3) * -1 + var(--e4));
+    margin-top: 0;
+    padding: 0;
+  }
+  .conteudo tr + tr { margin-top: var(--e3); }
+  /* `:last-child` vale mais que `td`, então a regra de desktop que zera o
+     recuo direito vazava para cá — e aqui existe borda de cartão, com o
+     valor encostando no fio. Os cartões recuperam os dois lados. */
+  .conteudo td,
+  .conteudo td:last-child {
+    display: flex; flex-wrap: wrap; justify-content: space-between;
+    align-items: baseline; gap: var(--e2) var(--e4);
+    padding: var(--e2) var(--e3);
+    border: 0; border-top: 1px solid var(--fio);
+    text-align: right;
+  }
+  .conteudo td::before {
+    content: attr(data-rotulo);
+    font: 600 var(--t-peq)/1.35 var(--f-ui);
+    text-transform: uppercase; letter-spacing: .06em;
+    color: var(--tinta-2);
+    text-align: left; flex: 0 1 auto;
+  }
+  /* primeira célula = título do registro, sem rótulo */
+  .conteudo td:first-child {
+    display: block; text-align: left;
+    border-top: 0; padding: var(--e3);
+    background: var(--papel-2);
+    font-size: 1.125rem; font-weight: 600;
+  }
+  .conteudo td:first-child::before { content: none; }
+
+  /* Rótulos por tabela (fallback quando o Markdown não traz data-rotulo) */
+  .t-indice td:nth-child(2)::before { content: "Partido"; }
+  .t-indice td:nth-child(3)::before { content: "Alinh. c/ governo"; }
+  .t-indice td:nth-child(4)::before { content: "Coesão partidária"; }
+  .t-indice td:nth-child(5)::before { content: "Votações (n)"; }
+
+  .t-eixos td:nth-child(2)::before { content: "Escopo"; }
+  .t-eixos td:nth-child(3)::before { content: "Valor"; }
+  .t-eixos td:nth-child(4)::before { content: "Base de cálculo"; }
+
+  .t-temas td:nth-child(2)::before { content: "Alinhamento"; }
+  .t-temas td:nth-child(3)::before { content: "Votações (n)"; }
+
+  .t-senado td:nth-child(2)::before { content: "Partido"; }
+  .t-senado td:nth-child(3)::before { content: "Coesão partidária"; }
+  .t-senado td:nth-child(4)::before { content: "Votações (n)"; }
+
+  .t-bancada td:nth-child(2)::before { content: "Partido"; }
+  .t-bancada td:nth-child(3)::before { content: "Alinhamento"; }
+  .t-bancada td:nth-child(4)::before { content: "Votações (n)"; }
+  /* a barra ganha a linha inteira do registro: comprimida ao lado do
+     rótulo ela deixaria de comunicar proporção */
+  .t-bancada .barra { flex: 1 0 100%; margin-top: var(--e2); }
+
+  .t-lista-temas td:nth-child(2)::before { content: "Votações nominais"; }
+  .t-lista-temas td:nth-child(3)::before { content: "Média da bancada"; }
+
+  .conteudo td[data-rotulo]::before { content: attr(data-rotulo); }
+
+  /* a etiqueta de amostra pequena ocupa a linha inteira do registro:
+     mantém o peso visual exigido sem estourar os 360px */
+  .conteudo td .aviso-n {
+    flex: 1 0 100%; justify-content: flex-start;
+    white-space: normal; margin-top: var(--e1);
+  }
+}
+
+/* ---------- 7. O `n` e o aviso de amostra pequena ------------ */
+/* Regra do projeto: o `n` é conteúdo. Nunca menor que --t-peq,
+   nunca cinza-claro, nunca só em tooltip. Onde há porcentagem,
+   há `n` legível antes de qualquer decisão. */
+.n {
+  font: 500 var(--t-peq)/1.3 var(--f-mono);
+  font-variant-numeric: tabular-nums;
+  color: var(--tinta);
+  white-space: nowrap;
+}
+.n b { font-weight: 700; }
+.n-detalhe {              /* "349 de 571 votações" */
+  display: block;
+  font: 500 var(--t-peq)/1.45 var(--f-mono);
+  font-variant-numeric: tabular-nums;
+  color: var(--tinta);
+}
+.n-detalhe + .n-detalhe { margin-top: var(--e1); }
+.n-detalhe span { font-family: var(--f-ui); color: var(--tinta-2); }
+
+/* Amostra pequena (n < 20): compete com o número, não desaparece
+   atrás dele. Nada de opacidade reduzida. */
+.aviso-n {
+  display: inline-flex; align-items: center; gap: .4em;
+  font: 700 var(--t-peq)/1 var(--f-ui);
+  text-transform: uppercase; letter-spacing: .05em;
+  color: var(--aviso);
+  background: var(--aviso-fundo);
+  border: 1.5px solid var(--aviso-fio);
+  border-radius: 2px;
+  padding: .35em .5em;
+  white-space: nowrap;
+}
+.aviso-n::before { content: "⚠"; font-size: 1.05em; }
+/* a linha inteira recebe hachura discreta — sinaliza sem ordenar */
+tr:has(.aviso-n) td { background-image: repeating-linear-gradient(
+    135deg, transparent 0 7px, var(--aviso-fundo) 7px 8px); }
+@media (max-width: 700px) {
+  tr:has(.aviso-n) { border-color: var(--aviso-fio); border-width: 2px; }
+}
+
+/* ---------- 8. Barras de proporção (páginas de tema) --------- */
+/* Substituem os caracteres █ e ·. Uma barra é proporção, não nota:
+   um tom só, sem escala de cor, com marca de 50% para leitura. */
+.barra {
+  display: block; position: relative;
+  height: 10px; min-width: 8rem;
+  background: var(--papel-2);
+  border: 1px solid var(--fio);
+}
+.barra > i {
+  display: block; height: 100%;
+  background: var(--fio-forte);
+  border-right: 2px solid var(--tinta);
+}
+.barra::after {          /* referência de 50% */
+  content: ""; position: absolute; top: -3px; bottom: -3px; left: 50%;
+  border-left: 1px dotted var(--fio-forte);
+}
+/* `data-fragil` sem acento: nome de atributo com diacrítico depende de
+   normalização do parser e não vale o risco num arquivo gerado. */
+.barra[data-fragil] > i { background: var(--aviso-fio); }
+
+/* ---------- 9. Blocos especiais ----------------------------- */
+/* Incomparabilidade (perfil de senador): precisa interromper. */
+.interrompe {
+  max-width: var(--medida);
+  margin: 0 0 var(--e6);
+  padding: var(--e5);
+  background: var(--papel);
+  border: 2px solid var(--tinta);
+  border-top-width: 6px;
+}
+.interrompe h4 { margin-top: 0; color: var(--tinta); }
+.interrompe p:last-child { margin-bottom: 0; }
+
+/* Ausência de eixo (Senado): a ausência é informação, não falha. */
+.ausencia {
+  padding: var(--e5);
+  border: 1px dashed var(--fio-forte);
+  background: transparent;
+  max-width: var(--medida);
+  margin-bottom: var(--e5);
+}
+.ausencia h4 { margin-top: 0; }
+.ausencia p:last-child { margin-bottom: 0; }
+
+/* Versão superada da metodologia.
+   Precisa de `.conteudo` no seletor: o banner é um blockquote, e
+   `.conteudo blockquote` (0,1,1) vencia `.superada` (0,1,0) — a faixa
+   saía cinza, indistinguível de uma citação comum. E o alvo é `strong`,
+   não `b`: `**texto**` no Markdown vira `<strong>`. */
+.conteudo .superada {
+  max-width: none;
+  padding: var(--e4) var(--e5);
+  border: 1.5px solid var(--aviso-fio);
+  background: var(--aviso-fundo);
+  color: var(--tinta);
+  font-family: var(--f-ui);
+  margin-bottom: var(--e6);
+}
+.conteudo .superada strong:first-child {
+  color: var(--aviso); text-transform: uppercase; letter-spacing: .05em;
+}
+
+/* ---------- 10. Cabeçalho, navegação, rodapé ---------------- */
+.topo {
+  border-bottom: 1px solid var(--fio);
+  background: var(--papel);
+}
+.topo-int {
+  display: flex; flex-wrap: wrap; align-items: baseline;
+  gap: var(--e3) var(--e6);
+  padding: var(--e4) var(--e5);
+  max-width: 60rem; margin: 0 auto;
+}
+.marca {
+  font: 600 1.125rem/1.2 var(--f-prosa);
+  letter-spacing: -.01em;
+  color: var(--tinta); text-decoration: none;
+  border-bottom: 2px solid var(--tinta);
+  padding-bottom: 1px;
+}
+.marca:hover { color: var(--tinta); }
+.marca small {
+  display: block; border: 0;
+  font: 500 0.75rem/1.4 var(--f-ui);
+  text-transform: uppercase; letter-spacing: .1em;
+  color: var(--tinta-2);
+}
+.nav { display: flex; flex-wrap: wrap; gap: var(--e2) var(--e5); margin-left: auto; }
+.nav a {
+  font: 500 var(--t-peq)/1 var(--f-ui);
+  color: var(--tinta); text-decoration: none;
+  display: inline-flex; align-items: center; min-height: 44px;
+  border-bottom: 2px solid transparent;
+}
+.nav a:hover, .nav a[aria-current="page"] { border-bottom-color: var(--tinta); }
+.nav a[aria-current="page"] { font-weight: 700; }
+@media (max-width: 640px) {
+  .topo-int { padding: var(--e3) var(--e4); gap: 0 var(--e4); }
+  .nav { margin-left: 0; width: 100%; gap: 0 var(--e4); }
+}
+
+.rodape {
+  border-top: 2px solid var(--tinta);
+  margin-top: var(--e8);
+  padding: var(--e6) 0 var(--e8);
+  font-family: var(--f-ui);
+  font-size: var(--t-peq);
+  color: var(--tinta-2);
+}
+.rodape-grade {
+  display: grid; gap: var(--e5);
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+}
+.rodape dt {
+  font-weight: 600; text-transform: uppercase; letter-spacing: .07em;
+  color: var(--tinta); margin-bottom: var(--e1);
+}
+.rodape dd { margin: 0; font-variant-numeric: tabular-nums; }
+/* Fora do `<dl>`: `<p>` não é conteúdo válido de lista de definições. */
+.rodape .ressalva {
+  border-top: 1px solid var(--fio);
+  margin-top: var(--e5);
+  padding-top: var(--e4);
+  font-family: var(--f-prosa); font-size: var(--t-base);
+  line-height: 1.55; max-width: var(--medida); color: var(--tinta);
+}
+
+/* ---------- 11. Acessibilidade e impressão ------------------ */
+.pular {
+  position: absolute; left: -9999px;
+  background: var(--papel); color: var(--tinta);
+  padding: var(--e3); border: 2px solid var(--tinta); z-index: 10;
+}
+.pular:focus { left: var(--e4); top: var(--e4); }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+@media print {
+  .nav, .fonte::after { display: none; }
+  body { background: #fff; color: #000; }
+  .conteudo a::after { content: " (" attr(href) ")"; font: 400 9pt var(--f-mono); }
+}

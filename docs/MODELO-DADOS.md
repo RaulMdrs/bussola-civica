@@ -1,3 +1,10 @@
+---
+layout: default
+kind: prosa
+title: "Modelo de dados"
+description: "Por que o schema tem a forma que tem, e o que ele bloqueia."
+---
+
 # MODELO-DADOS.md — Fase 0
 
 Schema: [`src/db/schema.ts`](../src/db/schema.ts) (Drizzle + SQLite)

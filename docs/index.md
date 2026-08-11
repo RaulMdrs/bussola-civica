@@ -1,3 +1,10 @@
+---
+layout: default
+kind: home
+title: "Bússola Cívica"
+description: "Como parlamentares votam, a partir de fontes oficiais rastreáveis."
+---
+
 # Bússola Cívica
 
 Plataforma que mostra como parlamentares votam, a partir de fontes oficiais.
@@ -9,7 +16,7 @@ Fase 0: deputados federais do Rio Grande do Sul, legislatura 57.
 
 ---
 
-## [Bancada gaúcha na Câmara →](./parlamentares/)
+## [Deputados federais do Rio Grande do Sul →](./parlamentares/)
 
 Os **31 deputados federais do Rio Grande do Sul** na legislatura 57, cada um com
 seus dois eixos, os recortes por tema e amostra da evidência que sustenta cada
