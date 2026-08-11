@@ -11,9 +11,10 @@ description: "Como Hamilton Mourão vota no Senado: coesão com o próprio parti
 
 <div class="interrompe">
 <h4>Não compare estes números com os dos deputados</h4>
-<p>O Senado tem outro universo: <b>114 votações abertas</b> no período, contra
-1.117 nominais da Câmara, porque <b>68% das votações do Senado são secretas</b>
-— nelas a origem confirma que o senador votou, não como.</p>
+<p>O Senado tem outro universo: <b>114 votações abertas</b> no
+período, contra 1.117 nominais da Câmara, porque
+<b>68% das votações do Senado são secretas</b> — nelas a origem
+confirma que o senador votou, não como.</p>
 </div>
 
 <div class="ausencia">

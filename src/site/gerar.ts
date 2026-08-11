@@ -93,6 +93,34 @@ const metodologia = um<{ url: string; versao: string }>(
   `SELECT metodologia_url url, metodologia_versao versao FROM eixo LIMIT 1`,
 );
 
+const legislatura = um<{ n: number }>(
+  `SELECT legislatura_numero n FROM posicao GROUP BY legislatura_numero
+   ORDER BY COUNT(*) DESC LIMIT 1`,
+).n;
+
+/**
+ * Números do acervo que aparecem em prosa.
+ *
+ * Ficavam digitados no texto — na home e no aviso do Senado. Número digitado
+ * não desvia no dia em que é escrito; desvia depois, calado, e aí a página
+ * afirma um acervo que não é o que está no banco. Estes saem daqui.
+ *
+ * O eixo do Senado não é nominal × simbólica, é aberta × secreta: em votação
+ * secreta a origem confirma que o senador votou, não como.
+ */
+const acervo = um<{
+  nominaisCamara: number;
+  totalSenado: number;
+  secretasSenado: number;
+}>(`
+  SELECT (SELECT SUM(nominal) FROM votacao WHERE casa='camara')  nominaisCamara,
+         (SELECT COUNT(*)     FROM votacao WHERE casa='senado')  totalSenado,
+         (SELECT SUM(secreta) FROM votacao WHERE casa='senado')  secretasSenado`);
+
+const abertasSenado = acervo.totalSenado - acervo.secretasSenado;
+const sigiloSenado = Math.round((acervo.secretasSenado / acervo.totalSenado) * 100);
+const milhar = (n: number) => n.toLocaleString("pt-BR");
+
 interface Parlamentar {
   id: number;
   nome: string;
@@ -314,9 +342,10 @@ function gerarPerfil(p: Parlamentar): string {
 const AVISO_SENADO =
   `<div class="interrompe">\n` +
   `<h4>Não compare estes números com os dos deputados</h4>\n` +
-  `<p>O Senado tem outro universo: <b>114 votações abertas</b> no período, contra\n` +
-  `1.117 nominais da Câmara, porque <b>68% das votações do Senado são secretas</b>\n` +
-  `— nelas a origem confirma que o senador votou, não como.</p>\n` +
+  `<p>O Senado tem outro universo: <b>${abertasSenado} votações abertas</b> no\n` +
+  `período, contra ${milhar(acervo.nominaisCamara)} nominais da Câmara, porque\n` +
+  `<b>${sigiloSenado}% das votações do Senado são secretas</b> — nelas a origem\n` +
+  `confirma que o senador votou, não como.</p>\n` +
   `</div>\n\n`;
 
 /** A ausência do eixo 1 é informação, não falha de layout. */
@@ -479,6 +508,76 @@ function gerarIndiceParlamentares(): string {
   return md;
 }
 
+/**
+ * Home. Gerada como as demais, e pelo mesmo motivo: os números que ela cita
+ * — quantos deputados, quantos temas, quantas votações — mudam com o acervo.
+ * Escritos à mão, ficariam certos no dia e errados na semana seguinte, sem
+ * ninguém perceber. A prosa é fixa; só os números vêm do banco.
+ */
+function gerarHome(temas: { id: number; nome: string }[]): string {
+  let md = frontMatter(
+    "Bússola Cívica",
+    "Como parlamentares votam, a partir de fontes oficiais rastreáveis.",
+    "home",
+  );
+  md += `# Bússola Cívica\n\n`;
+  md += `<p class="subtitulo">Plataforma que mostra como parlamentares votam, a `;
+  md += `partir de fontes oficiais. Câmara e Senado, bancada do Rio Grande do Sul, `;
+  md += `<b>${legislatura}ª legislatura</b>.</p>\n\n`;
+
+  md += `> **Princípio inegociável:** nunca rotular político por conta própria.\n`;
+  md += `> Todo dado exibido deriva de fonte oficial e carrega link para ela. O\n`;
+  md += `> usuário tira a conclusão.\n\n`;
+
+  md += `## [Deputados federais do Rio Grande do Sul →](./parlamentares/)\n\n`;
+  md += `Os **${parlamentares.length} deputados federais** da legislatura\n`;
+  md += `${legislatura}, cada um com seus dois eixos, os recortes por tema e amostra\n`;
+  md += `da evidência que sustenta cada número — com link para a votação na fonte\n`;
+  md += `oficial.\n\n`;
+  md += `Também por [tema](./temas/): **${temas.length} assuntos** com votação\n`;
+  md += `suficiente para sustentar um recorte.\n\n`;
+
+  md += `## [Senadores do Rio Grande do Sul →](./senadores/)\n\n`;
+  md += `Os **${senadores.length} senadores gaúchos**, com coesão partidária apurada\n`;
+  md += `sobre as votações abertas. O universo do Senado é outro —\n`;
+  md += `**${abertasSenado} votações abertas** contra\n`;
+  md += `${milhar(acervo.nominaisCamara)} nominais da Câmara — e lá existe **um eixo\n`;
+  md += `só**: não há orientação de bancada em dados abertos, então o alinhamento com\n`;
+  md += `o governo não é calculável.\n\n`;
+
+  md += `## [Metodologia dos eixos →](./metodologia/)\n\n`;
+  md += `**É por isso que este site existe.** A plataforma exibe números que\n`;
+  md += `posicionam parlamentares, e o princípio acima exige que qualquer pessoa\n`;
+  md += `consiga refazer a conta. A metodologia é um documento vivo — hoje na versão\n`;
+  md += `\`${metodologia.versao}\` — e as versões superadas ficam\n`;
+  md += `[arquivadas](./metodologia/versoes/), porque um número calculado sob uma\n`;
+  md += `regra antiga só é explicado pelo documento daquela regra.\n\n`;
+
+  md += `Os dois eixos, em uma linha cada:\n\n`;
+  md += `- **Alinhamento com o governo federal** — proporção de votos conforme a\n`;
+  md += `  orientação da liderança do Governo. Mede posição relativa ao Executivo do\n`;
+  md += `  momento, **não ideologia**.\n`;
+  md += `- **Coesão com o próprio partido** — proporção de votos com a maioria do\n`;
+  md += `  próprio partido, excluído o voto de quem está sendo medido. Mede\n`;
+  md += `  comportamento, **não ideologia**: dois parlamentares de partidos opostos\n`;
+  md += `  com 100% ocupam o mesmo ponto.\n\n`;
+  md += `Ambos são apurados separadamente no **mérito** das matérias e em votações\n`;
+  md += `**procedimentais** — votar a urgência de um projeto não é votar o projeto.\n\n`;
+
+  md += `## Documentação técnica\n\n`;
+  md += `| Documento | O que traz |\n|---|---|\n`;
+  md += `| [FONTES](./FONTES) | Reconhecimento das APIs oficiais: o que cada endpoint entrega e onde falha |\n`;
+  md += `| [MODELO-DADOS](./MODELO-DADOS) | Por que o schema tem a forma que tem — as formas de mentir que ele bloqueia |\n`;
+  md += `| [INGESTOR](./INGESTOR) | Arquitetura de coleta: idempotência, auditoria, retomada incremental |\n`;
+  md += `{: .t-docs}\n\n`;
+
+  md += `Código: [github.com/RaulMdrs/bussola-civica](https://github.com/RaulMdrs/bussola-civica) · MIT\n\n`;
+  md += `O acervo é integralmente reconstruível a partir das fontes oficiais, com um\n`;
+  md += `comando. Nada aqui depende de dado que não possa ser recoletado e conferido.\n`;
+
+  return md;
+}
+
 function gerarIndiceTemas(temas: { id: number; nome: string }[]): string {
   let md = frontMatter(
     "Temas",
@@ -533,6 +632,7 @@ function escreverMeta() {
     `# Gerado por 'npm run site' a partir do acervo. Não editar à mão.\n` +
       `periodo_inicio: "${periodo.ini}"\n` +
       `periodo_fim: "${periodo.fim}"\n` +
+      `legislatura: ${legislatura}\n` +
       `metodologia_versao: "${metodologia.versao}"\n` +
       `metodologia_url: "${metodologia.url}"\n`,
   );
@@ -555,6 +655,7 @@ const temas = todos<{ id: number; nome: string }>(
 
 escreverMeta();
 
+escrever("", gerarHome(temas));
 escrever("parlamentares", gerarIndiceParlamentares());
 for (const p of parlamentares) escrever(`parlamentares/${slug(p.nome)}`, gerarPerfil(p));
 

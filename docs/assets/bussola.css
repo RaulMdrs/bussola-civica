@@ -388,6 +388,11 @@ td .fonte, .evidencia .fonte { margin-top: var(--e2); }
   .t-lista-temas td:nth-child(2)::before { content: "Votações nominais"; }
   .t-lista-temas td:nth-child(3)::before { content: "Média da bancada"; }
 
+  /* Tabela de documentos: a segunda célula é descrição em prosa, não dado
+     rotulado — vira parágrafo do cartão, alinhado à esquerda e sem rótulo. */
+  .t-docs td:nth-child(2) { display: block; text-align: left; }
+  .t-docs td:nth-child(2)::before { content: none; }
+
   .conteudo td[data-rotulo]::before { content: attr(data-rotulo); }
 
   /* a etiqueta de amostra pequena ocupa a linha inteira do registro:

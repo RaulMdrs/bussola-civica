@@ -11,7 +11,7 @@ Schema: [`src/db/schema.ts`](../src/db/schema.ts) (Drizzle + SQLite)
 Migrations: [`drizzle/`](../drizzle/) — 20 tabelas, 4 migrations
 Validação: `npm run db:validar` — 57 verificações contra os casos de borda
 
-Referências (§x.y) apontam para [FONTES.md](./FONTES.md).
+Referências (§x.y) apontam para [FONTES](./FONTES).
 
 ---
 
@@ -299,7 +299,7 @@ votou apenas a tramitação.
 **`discurso` deduplica por hash de conteúdo, não por instante.** A chave
 `(politico, dataHoraInicio)` descartava 6 discursos reais: um parlamentar
 registra falas distintas no mesmo minuto, às vezes com metadados idênticos e
-transcrições diferentes. Detalhe em [INGESTOR.md](./INGESTOR.md).
+transcrições diferentes. Detalhe em [INGESTOR](./INGESTOR).
 
 ---
 
