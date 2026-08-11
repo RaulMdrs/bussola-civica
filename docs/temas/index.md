@@ -27,7 +27,7 @@ quando tem ao menos 30 votações nominais de mérito no período — hoje são
 ---
 
 Apurado sobre a legislatura 57, período **2023-02-01 → 2026-08-11**.
-Metodologia `2026-08-11.1`: <https://raulmdrs.github.io/bussola-civica/metodologia/>
+Metodologia `2026-08-12.1`: <https://raulmdrs.github.io/bussola-civica/metodologia/>
 
 > Nenhum eixo mede ideologia, qualidade ou desempenho. Todos derivam de voto
 > registrado em fonte oficial, e cada valor é decomponível até a votação que

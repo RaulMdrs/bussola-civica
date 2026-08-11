@@ -29,7 +29,7 @@ parlamentares, recortes por tema e a metodologia.
 ## Fontes
 
 - **Câmara dos Deputados** — [dadosabertos.camara.leg.br](https://dadosabertos.camara.leg.br)
-- **Senado Federal** — [legis.senado.leg.br/dadosabertos](https://legis.senado.leg.br/dadosabertos) *(Fase 1)*
+- **Senado Federal** — [legis.senado.leg.br/dadosabertos](https://legis.senado.leg.br/dadosabertos)
 - **TSE** — [dadosabertos.tse.jus.br](https://dadosabertos.tse.jus.br), via CSV de candidaturas
 
 Todas públicas, gratuitas e sem autenticação.
@@ -79,7 +79,7 @@ números.
 npm run db:validar
 ```
 
-74 verificações do modelo contra casos de borda reais.
+79 verificações do modelo contra casos de borda reais.
 
 ### Etapas isoladas
 
@@ -88,7 +88,7 @@ npm run ingerir -- --etapas votacoes --inicio 2025-07-01 --fim 2025-12-31
 ```
 
 Etapas: `referencias`, `deputados`, `votacoes`, `proposicoes`, `discursos`,
-`reclassificar`, `tse`, `posicoes`. Todas idempotentes.
+`reclassificar`, `tse`, `senado`, `posicoes`. Todas idempotentes.
 
 A etapa `tse` cruza a bancada com as candidaturas de 2022 por CPF (31/31) e
 baixa um CSV de 4 MB. Não entra no `ingerir:incremental`: eleição é anual, não

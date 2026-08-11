@@ -599,7 +599,17 @@ export const posicao = sqliteTable(
      * Ambos existem porque descartar as procedimentais jogaria fora 56% do
      * acervo e uma informação política legítima.
      */
-    escopo: text("escopo", { enum: ["merito", "procedimental"] })
+    /**
+     * `unico` é o escopo do Senado: lá as votações entram com `natureza` NULL,
+     * porque a regra de classificação foi calibrada contra descrição da Câmara
+     * e devolve `merito` para todas as 114 abertas do Senado — inclusive as 9
+     * que mencionam requerimento. Sem recorte medido, não se inventa recorte.
+     *
+     * O enum é do TypeScript, não do SQLite: não há CHECK na tabela, então
+     * acrescentar valor não pede migration. A restrição vive no tipo, que é
+     * onde ela é verificada antes de virar linha.
+     */
+    escopo: text("escopo", { enum: ["merito", "procedimental", "unico"] })
       .notNull()
       .default("merito"),
     /**

@@ -47,3 +47,4 @@ calculados. A correção entra como versão nova, nunca por edição retroativa.
 | Versão | Vigorou até | O que mudou depois |
 |---|---|---|
 | [`2026-08-04.2`](./2026-08-04.2/) | 2026-08-11 | Acrescentou-se o recorte por tema. Os dois eixos não mudaram: os valores são idênticos nas duas versões |
+| [`2026-08-11.1`](./2026-08-11.1/) | 2026-08-12 | Entrou o Senado Federal, com um eixo só e escopo próprio. Nada da Câmara mudou |

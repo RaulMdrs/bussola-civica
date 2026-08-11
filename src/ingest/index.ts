@@ -12,6 +12,7 @@ import { abrirBanco } from "../db/client.ts";
 import { migrar } from "../db/migrar.ts";
 import { calcularPosicoes } from "../calc/posicoes.ts";
 import { ingerirTse } from "./tse.ts";
+import { ingerirSenado } from "./senado.ts";
 import {
   ingerirDeputados,
   ingerirDiscursos,
@@ -30,6 +31,7 @@ const ETAPAS = [
   "discursos",
   "reclassificar",
   "tse",
+  "senado",
   "posicoes",
 ] as const;
 type Etapa = (typeof ETAPAS)[number];
@@ -91,9 +93,18 @@ async function main() {
     if (etapas.includes("discursos")) await ingerirDiscursos(ctx, inicio, fim);
     if (etapas.includes("reclassificar")) await reclassificarDiscursos(ctx);
     if (etapas.includes("tse")) await ingerirTse(ctx);
+    if (etapas.includes("senado")) await ingerirSenado(ctx, inicio, fim);
     if (etapas.includes("posicoes")) {
       console.log("posições");
-      await calcularPosicoes(db, consultar, { legislatura, inicio, fim }, (m) => console.log(m));
+      // Uma apuração por casa. Não é detalhe de organização: sem o filtro de
+      // casa, as votações do Senado entrariam no denominador dos deputados —
+      // `oportunidadesPorPolitico` conta votações do período, e um deputado
+      // passaria a ser medido contra sessões de que não podia participar.
+      for (const casa of ["camara", "senado"] as const) {
+        await calcularPosicoes(db, consultar, { legislatura, inicio, fim, casa }, (m) =>
+          console.log(`  [${casa}]${m}`),
+        );
+      }
     }
   } finally {
     sqlite.close();

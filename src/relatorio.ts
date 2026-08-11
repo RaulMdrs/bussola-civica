@@ -33,21 +33,47 @@ const periodo = um<{ ini: string; fim: string } | undefined>(`
 
 console.log("═══ ACERVO ═══\n");
 
-const v = um<{ total: number; nominais: number; simbolicas: number }>(`
-  SELECT COUNT(*) total,
-         SUM(nominal) nominais,
-         SUM(CASE WHEN nominal=0 THEN 1 ELSE 0 END) simbolicas
-  FROM votacao`);
-console.log(`votações        ${v.total} (${v.nominais} nominais, ${v.simbolicas} simbólicas)`);
-const dt = um<{ ini: string; fim: string }>("SELECT MIN(data) ini, MAX(data) fim FROM votacao");
-console.log(`período         ${dt.ini} → ${dt.fim}`);
-// A taxa varia muito por período: 34,2% no 1º sem/2025, 17,7% na legislatura
-// inteira. Não há um valor "correto" a comparar — só o do mesmo recorte.
-console.log(`taxa nominal    ${pct(v.nominais, v.total)}%`);
+/**
+ * Sempre por casa, nunca somado.
+ *
+ * Câmara e Senado têm universos incomparáveis: 1.117 votações nominais contra
+ * 114 abertas, vocabulário de voto diferente, 68% de sigilo de um lado e zero
+ * do outro. Um total conjunto ("1.470 nominais") não responde a pergunta
+ * nenhuma e destrói a conferência contra os números do reconhecimento, que são
+ * por casa.
+ */
+for (const casa of ["camara", "senado"] as const) {
+  const v = um<{ total: number; nominais: number; simbolicas: number; secretas: number }>(`
+    SELECT COUNT(*) total,
+           SUM(nominal) nominais,
+           SUM(CASE WHEN nominal=0 THEN 1 ELSE 0 END) simbolicas,
+           SUM(secreta) secretas
+    FROM votacao WHERE casa = '${casa}'`);
+  if (!v.total) continue;
 
-const c = um<{ votos: number; pol: number; comp: number }>(`
-  SELECT COUNT(*) votos, COUNT(DISTINCT politico_id) pol, SUM(computavel) comp FROM voto`);
-console.log(`votos           ${c.votos} de ${c.pol} parlamentares (${c.comp} computáveis)`);
+  const dt = um<{ ini: string; fim: string }>(
+    `SELECT MIN(data) ini, MAX(data) fim FROM votacao WHERE casa = '${casa}'`,
+  );
+  const c = um<{ votos: number; pol: number; comp: number }>(`
+    SELECT COUNT(*) votos, COUNT(DISTINCT politico_id) pol, SUM(computavel) comp
+    FROM voto vt JOIN votacao x ON x.id = vt.votacao_id AND x.casa = '${casa}'`);
+
+  console.log(`── ${casa.toUpperCase()} ──`);
+  console.log(`  votações      ${v.total}  (${dt.ini} → ${dt.fim})`);
+  if (casa === "camara") {
+    console.log(`  nominais      ${v.nominais} · simbólicas ${v.simbolicas}`);
+    // A taxa varia muito por período: 34,2% no 1º sem/2025, 17,8% na
+    // legislatura. Não há valor "correto" a comparar — só o do mesmo recorte.
+    console.log(`  taxa nominal  ${pct(v.nominais, v.total)}%`);
+  } else {
+    // No Senado o eixo relevante não é nominal × simbólica, é aberta × secreta:
+    // em votação secreta a origem confirma que votou, não como (§2.4).
+    console.log(`  abertas       ${v.total - v.secretas} · secretas ${v.secretas}`);
+    console.log(`  taxa de sigilo ${pct(v.secretas, v.total)}% — só as abertas são apuráveis`);
+  }
+  console.log(`  votos         ${c.votos} de ${c.pol} parlamentares (${c.comp} computáveis)`);
+}
+
 console.log(`orientações     ${um<{ n: number }>("SELECT COUNT(*) n FROM orientacao").n}`);
 console.log(`discursos       ${um<{ n: number }>("SELECT COUNT(*) n FROM discurso").n}`);
 
@@ -55,17 +81,23 @@ console.log("\n═══ PROPOSIÇÕES E TEMAS ═══\n");
 {
   const p = um<{ prop: number; vinc: number; nom: number; nomVinc: number; nomTema: number; proc: number }>(`
     SELECT (SELECT COUNT(*) FROM proposicao) prop,
-           (SELECT COUNT(*) FROM votacao WHERE proposicao_id IS NOT NULL) vinc,
-           (SELECT COUNT(*) FROM votacao WHERE nominal=1) nom,
-           (SELECT COUNT(*) FROM votacao WHERE nominal=1 AND proposicao_id IS NOT NULL) nomVinc,
+           (SELECT COUNT(*) FROM votacao WHERE casa='camara' AND proposicao_id IS NOT NULL) vinc,
+           (SELECT COUNT(*) FROM votacao WHERE casa='camara' AND nominal=1) nom,
+           (SELECT COUNT(*) FROM votacao WHERE casa='camara' AND nominal=1 AND proposicao_id IS NOT NULL) nomVinc,
            (SELECT COUNT(DISTINCT v.id) FROM votacao v
               JOIN proposicao_tema pt ON pt.proposicao_id = v.proposicao_id
-             WHERE v.nominal=1) nomTema,
+             WHERE v.casa='camara' AND v.nominal=1) nomTema,
            (SELECT COUNT(*) FROM votacao
-             WHERE objeto_votado_id IS NOT NULL AND proposicao_id IS NOT NULL
+             WHERE casa='camara' AND objeto_votado_id IS NOT NULL AND proposicao_id IS NOT NULL
                AND objeto_votado_id <> proposicao_id) proc`);
+  // Denominador da Câmara: vínculo de proposição é conceito de lá. No Senado
+  // `proposicao_id` é sempre NULL, e somá-lo aqui faria a cobertura despencar
+  // por diluição, não por lacuna.
+  const totalCamara = um<{ n: number }>(
+    `SELECT COUNT(*) n FROM votacao WHERE casa = 'camara'`,
+  ).n;
   console.log(`proposições distintas   ${p.prop}`);
-  console.log(`votações vinculadas     ${p.vinc}/${v.total} (${pct(p.vinc, v.total)}%)`);
+  console.log(`votações vinculadas     ${p.vinc}/${totalCamara} (${pct(p.vinc, totalCamara)}%)`);
   console.log(`  entre as nominais     ${p.nomVinc}/${p.nom} (${pct(p.nomVinc, p.nom)}%)`);
   console.log(`  nominais com tema     ${p.nomTema}/${p.nom} (${pct(p.nomTema, p.nom)}%)`);
   console.log(`votações procedimentais ${p.proc} (objeto votado ≠ matéria de fundo)`);

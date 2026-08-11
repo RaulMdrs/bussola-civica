@@ -1,12 +1,16 @@
 # Metodologia dos eixos — Bússola Cívica
 
-**Versão `2026-08-12.1`** · vigente · apurada sobre a legislatura 57
+> ⚠️ **Versão arquivada.** Esta é a `2026-08-11.1`, **superada** pela
+> [`2026-08-12.1`](../../). O que mudou depois: entrou o Senado Federal, com um
+> eixo só e escopo próprio. Os eixos da Câmara descritos abaixo não mudaram.
+
+**Versão `2026-08-11.1`** · apurada sobre a legislatura 57
 (2023-02-01 → 2026-08-11), Câmara dos Deputados, bancada do Rio Grande do Sul.
 
 Este é o **documento vivo**: descreve sempre a metodologia em vigor. Cada número
 exibido pela plataforma carrega a versão da regra que o produziu, e as versões
 anteriores ficam em [versoes/](./versoes/). Se um número foi calculado com a
-`2026-08-11.1`, é [aquele documento](./versoes/2026-08-11.1/) que o explica —
+`2026-08-04.2`, é [aquele documento](./versoes/2026-08-04.2/) que o explica —
 não este.
 
 ---
@@ -217,46 +221,6 @@ de rodapé. Uma porcentagem sobre 3 votações não é uma porcentagem sobre 3
 votações: é uma porcentagem que parece igual a todas as outras. Ao ler qualquer
 número temático, leia o `n` antes.
 
-## O Senado Federal
-
-Desde a versão `2026-08-12.1` a plataforma cobre também os 3 senadores do Rio
-Grande do Sul. **O Senado não é a Câmara com outra fonte**, e as diferenças não
-são de detalhe:
-
-| | Câmara | Senado |
-|---|---|---|
-| Votações apuráveis no período | 1.117 nominais | **114 abertas** |
-| Sigilo | nenhum | **68% das votações** |
-| Eixos calculáveis | 2 | **1** |
-| Recorte por escopo | mérito × procedimental | nenhum |
-| Recorte por tema | 12 temas | nenhum |
-
-### Por que só um eixo
-
-**O alinhamento com o governo federal não é calculável no Senado.** Ele compara
-o voto com a orientação da liderança do Governo, e o Senado não publica
-orientação de bancada em dados abertos — nem no endpoint de votação, nem em
-endpoint próprio: nove candidatos foram testados, todos devolvem 404, e a busca
-por nome de campo numa resposta de 2,5 MB não encontrou nada.
-
-Sem referência oficial não há contra o que comparar. Escolher uma — o voto do
-líder, a maioria, o resultado — seria atribuir uma régua que a fonte não
-sustenta, exatamente o que este projeto não faz.
-
-### Por que não há recorte de escopo
-
-A regra que separa mérito de procedimental foi calibrada e testada contra a
-descrição de votação da Câmara. Aplicada ao texto do Senado, classifica as 114
-votações abertas como mérito — inclusive as 9 que mencionam requerimento.
-Enquanto não for validada para esse texto, o Senado é apurado num escopo único,
-e as votações entram com `natureza` não classificada.
-
-### Não compare as duas casas
-
-Uma coesão de 88% no Senado e 88% na Câmara não são o mesmo número. Além dos
-universos diferentes, as bancadas são de tamanhos muito distintos: a maioria
-partidária no Senado é apurada entre 4 a 8 pares, contra dezenas na Câmara.
-
 ## Como conferir por conta própria
 
 Cada posição é decomposta em evidências — uma linha por votação, com o voto, a
@@ -304,8 +268,7 @@ que se sabe qual documento explica qual número.
 
 | Versão | Situação | Mudança |
 |---|---|---|
-| `2026-08-12.1` | **vigente** | Acrescenta o Senado Federal: um eixo, escopo único, sem recorte por tema. Nada da Câmara mudou |
-| [`2026-08-11.1`](./versoes/2026-08-11.1/) | superada | Acrescenta o recorte por tema (12 temas, só no mérito). Os dois eixos não mudaram — os valores gerais são idênticos aos da versão anterior |
+| `2026-08-11.1` | **vigente** | Acrescenta o recorte por tema (12 temas, só no mérito). Os dois eixos não mudaram — os valores gerais são idênticos aos da versão anterior |
 | [`2026-08-04.2`](./versoes/2026-08-04.2/) | superada | Primeira versão publicada. Introduz a separação entre os escopos `merito` e `procedimental` |
 
 Quando a metodologia mudar, esta página passa a descrever a versão nova e a

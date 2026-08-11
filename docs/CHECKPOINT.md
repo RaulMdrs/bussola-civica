@@ -13,7 +13,7 @@ Documentos detalhados: [FONTES.md](./FONTES.md) · [MODELO-DADOS.md](./MODELO-DA
 | # | Etapa | Entregável |
 |---|---|---|
 | 1 | Reconhecimento das APIs | `docs/FONTES.md` — 26 endpoints testados, request/response verificados |
-| 2 | Modelo de dados | `src/db/schema.ts` — 20 tabelas, 7 migrations, 74 verificações |
+| 2 | Modelo de dados | `src/db/schema.ts` — 20 tabelas, 7 migrations, 79 verificações |
 | 3 | Ingestor | `src/ingest/` + `src/lib/` — coleta idempotente com retry e auditoria |
 | 4 | Cálculo de posições | `src/calc/posicoes.ts` — 2 eixos com evidência rastreável |
 | 5 | Classificação de discursos | `src/lib/classificar.ts` — filtro de ruído protocolar |
@@ -23,6 +23,8 @@ Documentos detalhados: [FONTES.md](./FONTES.md) · [MODELO-DADOS.md](./MODELO-DA
 | 9 | Ingestão incremental | `src/ingest/incremental.ts` — retomada automática, sem informar data |
 | 10 | Eixos por tema | `posicao.tema_id` — 12 temas, mesma metodologia sobre universo menor |
 | 11 | Integração TSE | etapa `tse` — 546 candidaturas, 31/31 cruzadas por HMAC do CPF |
+| 12 | Camada web | `npm run site` — 31 perfis, 12 temas, estático no GitHub Pages |
+| 13 | Senado (Fase 1) | etapa `senado` — 353 votações, 3 senadores, **um eixo só** |
 
 Banco atual: **80 MB**, **legislatura 57 inteira**, coletada de 2023-02-01 a
 2026-08-08: 6.291 votações, 1.117 nominais, 452.356 votos.
@@ -88,7 +90,7 @@ estruturalmente:
 `npm run db:validar` monta um banco em memória com fixture que reproduz cada
 armadilha encontrada — suplente com exercício parcial, deputado que trocou de
 legenda, votação simbólica, obstrução, Artigo 17, votação secreta — e verifica
-que as queries respondem certo. **74 verificações.**
+que as queries respondem certo. **79 verificações.**
 
 Os sete casos de classificação de discurso são regressões: cada um quebrou uma
 versão anterior da regra.
@@ -413,7 +415,7 @@ Honestamente: o que está no schema mas **não é populado**, e o que não foi f
 | ~~`proposicao` / `proposicao_tema`~~ | ✅ **resolvido e conferido contra a origem** (§7.2) — 646 proposições, 1.116/1.117 nominais vinculadas, 1.110 com tema, zero divergências | Eixos temáticos da Fase 2 destravados |
 | ~~`partido_alias`~~ | ✅ **populada** pela etapa `tse` | O caso previsto apareceu: "PC do B" (TSE) → "PCdoB" (Câmara), 1 alias |
 | ~~Integração TSE~~ | ✅ **implementada** — etapa `tse`, 546 candidaturas de 2022, 31/31 cruzadas | `identidade_externa` tem `SQ_CANDIDATO` por eleição. O CPF passou a ser guardado como HMAC (§8) |
-| Senado | **não integrado** | Escopo da Fase 1 |
+| ~~Senado~~ | ✅ **integrado** — 353 votações, 114 abertas, 3 senadores | Só coesão partidária: não há orientação de bancada em dados abertos, então o eixo 1 não é calculável lá (§8). Sem CPF na origem, senador não cruza com o TSE |
 | ~~Período coletado~~ | ✅ **resolvido** — legislatura 57 varrida até 2026-08-08 | Restam as sessões até 2027-01-31, via `npm run ingerir:incremental` |
 | ~~Votação parcialmente escrita~~ | ✅ **resolvido** — transação em `ingerirVotacoes` (§8) | O invariante "nominal sem voto gravado" detecta o estado, caso volte a ocorrer |
 | ~~`posicao` acumula períodos~~ | ✅ **resolvido** — o `DELETE` supersede a série (§8) | O invariante "mesma série em dois períodos" detecta. Recortes com `periodo_inicio` diferente continuam coexistindo, que é o caso legítimo |

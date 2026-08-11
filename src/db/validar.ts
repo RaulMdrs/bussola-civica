@@ -612,8 +612,8 @@ console.log("\nMetodologia — a versão resolve para o documento que a descreve
   checar("versão vigente aponta para o documento vivo", viva.endsWith("/metodologia/"), true);
   checar(
     "versão antiga aponta para o arquivo, com o nome da versão",
-    urlDaVersao("2026-08-04.2"),
-    "https://raulmdrs.github.io/bussola-civica/metodologia/versoes/2026-08-04.2/",
+    urlDaVersao("2026-08-11.1"),
+    "https://raulmdrs.github.io/bussola-civica/metodologia/versoes/2026-08-11.1/",
   );
   checar("a URL é absoluta", viva.startsWith("https://"), true);
   // Nome de versão é todo ponto: a URL não pode depender de resolução de extensão.
@@ -665,7 +665,7 @@ console.log("\nRecorte temático — matéria com dois temas não conta em dobro
   await calcularPosicoes(
     mem.db,
     mem.consultar,
-    { legislatura: 57, inicio: "2023-02-01", fim: "2026-12-31" },
+    { legislatura: 57, inicio: "2023-02-01", fim: "2026-12-31", casa: "camara" },
     () => {},
     1, // limiar de 1 votação: a fixture tem uma só, e o alvo aqui é o N:N
   );
@@ -753,7 +753,101 @@ console.log("\nHMAC do CPF — a junção Câmara ↔ TSE depende disto");
   checar("nulo continua nulo", hmacCpf(null, segredo), null);
 }
 
-const totalChecagens = 74;
+/**
+ * Senado — o que a casa sustenta, e o que não sustenta.
+ *
+ * O risco aqui não é errar uma conta: é **calcular um eixo que a fonte não
+ * sustenta**. O Senado não publica orientação de bancada, então alinhamento com
+ * o governo não existe lá; e suas votações entram com `natureza` NULL, porque a
+ * regra de classificação não foi validada para aquele texto.
+ *
+ * O outro risco é de contaminação: sem filtro de casa, `oportunidadesPorPolitico`
+ * conta as votações do Senado no denominador dos deputados.
+ */
+console.log("\nSenado — um eixo, escopo próprio, e sem contaminar a Câmara");
+{
+  const mem = abrirBanco(":memory:");
+  for (const arquivo of readdirSync(dir).filter((f) => f.endsWith(".sql")).sort()) {
+    for (const stmt of readFileSync(join(dir, arquivo), "utf8").split("--> statement-breakpoint")) {
+      const t = stmt.trim();
+      if (t) mem.sqlite.exec(t);
+    }
+  }
+  mem.sqlite.exec(`
+    INSERT INTO legislatura (numero, data_inicio, data_fim) VALUES (57,'2023-02-01','2027-01-31');
+    INSERT INTO orgao (id, casa, id_externo, sigla, nome) VALUES (1,'camara','180','PLEN','Plenário');
+    INSERT INTO partido (id, sigla) VALUES (1,'PT');
+
+    -- um deputado e um senador, cada um com uma votação da sua casa
+    INSERT INTO politico (id, nome_parlamentar, perfil_completo, fonte_url)
+      VALUES (1,'Deputado',1,'https://exemplo/d'), (2,'Senador',1,'https://exemplo/s'),
+             (3,'Colega Dep',0,'https://exemplo/cd'), (4,'Colega Sen',0,'https://exemplo/cs');
+    INSERT INTO mandato (id, politico_id, casa, legislatura_numero, uf, condicao_eleitoral, fonte_url) VALUES
+      (1,1,'camara',57,'RS','titular','https://exemplo/m1'),
+      (2,2,'senado',57,'RS','titular','https://exemplo/m2');
+    INSERT INTO exercicio (mandato_id, data_inicio, situacao, fonte_url) VALUES
+      (1,'2023-02-01','Exercício','https://exemplo/e1'),
+      (2,'2023-02-01','Exercício','https://exemplo/e2');
+
+    INSERT INTO votacao (id, casa, id_externo, orgao_id, data, descricao, nominal, secreta, natureza, fonte_url) VALUES
+      (1,'camara','c-1',1,'2025-03-01','Câmara',1,0,'merito','https://exemplo/v1'),
+      (2,'senado','s-1',NULL,'2025-03-02','Senado aberta',1,0,NULL,'https://exemplo/v2'),
+      (3,'senado','s-2',NULL,'2025-03-03','Senado secreta',1,1,NULL,'https://exemplo/v3');
+    INSERT INTO orientacao (votacao_id, sigla_bruta, tipo_lideranca, orientacao, liberado)
+      VALUES (1,'Governo','B','sim',0);
+    INSERT INTO voto (votacao_id, politico_id, partido_id, voto, tipo_voto_original, computavel) VALUES
+      (1,1,1,'sim','Sim',1), (1,3,1,'sim','Sim',1),
+      (2,2,1,'sim','Sim',1), (2,4,1,'sim','Sim',1),
+      (3,2,1,'sigiloso','Votou',0);
+  `);
+
+  const rodar = async (casa: "camara" | "senado") =>
+    calcularPosicoes(
+      mem.db,
+      mem.consultar,
+      { legislatura: 57, inicio: "2023-02-01", fim: "2026-12-31", casa },
+      () => {},
+      1,
+    );
+  await rodar("camara");
+  await rodar("senado");
+
+  const q = (sql: string) => mem.sqlite.prepare(sql).get() as { n: number } | undefined;
+
+  checar(
+    "o Senado não recebe eixo de alinhamento com o governo",
+    q(`SELECT COUNT(*) n FROM posicao p JOIN eixo e ON e.id=p.eixo_id
+       WHERE e.chave='alinhamento_governo' AND p.politico_id=2`)?.n,
+    0,
+  );
+  checar(
+    "o Senado recebe coesão, no escopo 'unico'",
+    q(`SELECT COUNT(*) n FROM posicao WHERE politico_id=2 AND escopo='unico'`)?.n,
+    1,
+  );
+  checar(
+    "o Senado não é apurado em merito/procedimental",
+    q(`SELECT COUNT(*) n FROM posicao WHERE politico_id=2 AND escopo<>'unico'`)?.n,
+    0,
+  );
+  // A contaminação: o deputado tem UMA votação elegível, não duas.
+  checar(
+    "votação do Senado não entra no denominador do deputado",
+    q(`SELECT n_oportunidades n FROM posicao WHERE politico_id=1 AND escopo='merito'
+       AND eixo_id=(SELECT id FROM eixo WHERE chave='coesao_partidaria')`)?.n,
+    1,
+  );
+  // E a secreta não entra no do senador.
+  checar(
+    "votação secreta não entra no denominador do senador",
+    q(`SELECT n_oportunidades n FROM posicao WHERE politico_id=2 AND escopo='unico'`)?.n,
+    1,
+  );
+
+  mem.sqlite.close();
+}
+
+const totalChecagens = 79;
 console.log(
   falhas === 0
     ? `\n✓ modelo validado: ${totalChecagens} verificações, 0 falhas\n`

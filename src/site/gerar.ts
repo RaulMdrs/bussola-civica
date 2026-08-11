@@ -64,16 +64,22 @@ interface Parlamentar {
   exercicio: string | null;
 }
 
-const parlamentares = todos<Parlamentar>(`
-  SELECT p.id, p.nome_parlamentar nome, pt.sigla,
-         m.condicao_eleitoral condicao,
-         (SELECT MIN(data_inicio) FROM exercicio WHERE mandato_id = m.id) exercicio
-  FROM politico p
-  JOIN mandato m ON m.politico_id = p.id
-  LEFT JOIN filiacao f ON f.politico_id = p.id AND f.data_fim IS NULL
-  LEFT JOIN partido pt ON pt.id = f.partido_id
-  WHERE p.perfil_completo = 1
-  ORDER BY p.nome_parlamentar`);
+const daCasa = (casa: "camara" | "senado") =>
+  todos<Parlamentar>(
+    `SELECT p.id, p.nome_parlamentar nome, pt.sigla,
+            m.condicao_eleitoral condicao,
+            (SELECT MIN(data_inicio) FROM exercicio WHERE mandato_id = m.id) exercicio
+     FROM politico p
+     JOIN mandato m ON m.politico_id = p.id AND m.casa = ?
+     LEFT JOIN filiacao f ON f.politico_id = p.id AND f.data_fim IS NULL
+     LEFT JOIN partido pt ON pt.id = f.partido_id
+     WHERE p.perfil_completo = 1
+     ORDER BY p.nome_parlamentar`,
+    casa,
+  );
+
+const parlamentares = daCasa("camara");
+const senadores = daCasa("senado");
 
 interface Posicao {
   eixo: string;
@@ -115,16 +121,23 @@ interface Evidencia {
  * decomposição existe e é verificável; o acervo inteiro continua no banco, e o
  * link leva à votação na origem.
  */
-const evidenciasDe = (politicoId: number, eixo: string, concordou: 0 | 1, limite = 5) =>
+const evidenciasDe = (
+  politicoId: number,
+  eixo: string,
+  concordou: 0 | 1,
+  limite = 5,
+  escopo = "merito",
+) =>
   todos<Evidencia>(
     `SELECT v.descricao, v.data, pe.referencia, pe.concordou, v.fonte_url fonte
      FROM posicao_evidencia pe
-     JOIN posicao po ON po.id = pe.posicao_id AND po.tema_id IS NULL AND po.escopo = 'merito'
+     JOIN posicao po ON po.id = pe.posicao_id AND po.tema_id IS NULL AND po.escopo = ?
      JOIN eixo e ON e.id = po.eixo_id AND e.chave = ?
      JOIN votacao v ON v.id = pe.votacao_id
      WHERE po.politico_id = ? AND pe.concordou = ?
        AND po.periodo_inicio = ? AND po.periodo_fim = ?
      ORDER BY v.data DESC LIMIT ?`,
+    escopo,
     eixo,
     politicoId,
     concordou,
@@ -201,6 +214,74 @@ function gerarPerfil(p: Parlamentar): string {
   md += `Esta é uma amostra. A decomposição completa existe no acervo, votação por\n`;
   md += `votação, e é reconstruível a partir das fontes oficiais.\n`;
 
+  return md + rodape();
+}
+
+/**
+ * Aviso de incomparabilidade — repetido em toda página do Senado.
+ *
+ * O risco desta seção não é o número estar errado; é o leitor comparar 88% de
+ * senador com 88% de deputado. Os universos não se comparam: 114 votações
+ * abertas contra 1.117 nominais, vocabulário de voto diferente, e 68% das
+ * votações do Senado sem voto individual recuperável. Por isso o aviso está no
+ * corpo, antes da tabela, e não em rodapé.
+ */
+const AVISO_SENADO =
+  `> **Não compare estes números com os dos deputados.** O Senado tem outro\n` +
+  `> universo: **114 votações abertas** no período, contra 1.117 nominais da\n` +
+  `> Câmara, porque **68% das votações do Senado são secretas** — nelas a origem\n` +
+  `> confirma que o senador votou, não como.\n` +
+  `>\n` +
+  `> E aqui existe **um eixo só**. O alinhamento com o governo federal não é\n` +
+  `> calculável: o Senado não publica orientação de bancada em dados abertos, e\n` +
+  `> sem referência oficial não há contra o que comparar. Escolher uma seria\n` +
+  `> rotular por conta própria, que é o que este projeto não faz.\n`;
+
+function gerarPerfilSenador(p: Parlamentar): string {
+  const pos = posicoesDe(p.id).filter((x) => !x.tema);
+  let md = frontMatter(
+    `${p.nome}${p.sigla ? ` (${p.sigla})` : ""} — senador`,
+    `Como ${p.nome} vota no Senado: coesão com o próprio partido, a partir das votações abertas.`,
+  );
+  md += `# ${p.nome}\n\n`;
+  md += `**${p.sigla ?? "sem filiação registrada"}** · senador pelo RS · `;
+  md += `${p.condicao}${p.exercicio ? ` · em exercício desde ${p.exercicio}` : ""}\n\n`;
+  md += AVISO_SENADO + `\n`;
+
+  md += `## Coesão com o próprio partido\n\n`;
+  md += `| Escopo | Valor | Observações |\n|---|---:|---|\n`;
+  for (const x of pos) {
+    md += `| todas as votações abertas | **${pct(x.valor)}%** | ${x.n} de ${x.opo} votações |\n`;
+  }
+  md += `\nNão há recorte entre mérito e procedimental aqui: a regra que separa os\n`;
+  md += `dois foi calibrada contra a descrição de votação da Câmara, e não foi\n`;
+  md += `validada para o texto do Senado. Sem recorte medido, não se inventa recorte.\n\n`;
+
+  const divergiu = evidenciasDe(p.id, "coesao_partidaria", 0, 3, "unico");
+  if (divergiu.length) {
+    md += `## Por que este número — amostra de divergência\n\n`;
+    for (const e of divergiu) {
+      md += `- **${e.data}** · ${e.descricao.slice(0, 110)}\n`;
+      md += `  ${e.referencia} · [fonte oficial](${e.fonte})\n`;
+    }
+    md += `\n`;
+  }
+  return md + rodape();
+}
+
+function gerarIndiceSenadores(senadores: Parlamentar[]): string {
+  let md = frontMatter(
+    "Senadores do Rio Grande do Sul",
+    "Os 3 senadores gaúchos: coesão partidária a partir das votações abertas do Senado.",
+  );
+  md += `# Senadores do Rio Grande do Sul\n\n`;
+  md += AVISO_SENADO + `\n`;
+  md += `| Senador | Partido | Coesão partidária | n |\n|---|---|---:|---:|\n`;
+  for (const p of senadores) {
+    const x = posicoesDe(p.id).find((y) => !y.tema);
+    md += `| [${p.nome}](${slug(p.nome)}/) | ${p.sigla ?? "—"} `;
+    md += `| ${x ? pct(x.valor) + "%" : "—"} | ${x ? `${x.n}/${x.opo}` : "—"} |\n`;
+  }
   return md + rodape();
 }
 
@@ -319,7 +400,7 @@ function escrever(caminho: string, conteudo: string) {
 
 // Regenera do zero: parlamentar que sai da bancada tem de sumir do site, e
 // deixar página órfã é afirmar que ele ainda está lá.
-for (const dir of ["parlamentares", "temas"]) {
+for (const dir of ["parlamentares", "temas", "senadores"]) {
   rmSync(join(SAIDA, dir), { recursive: true, force: true });
 }
 
@@ -335,11 +416,14 @@ const temas = todos<{ id: number; nome: string }>(
 escrever("parlamentares", gerarIndiceParlamentares());
 for (const p of parlamentares) escrever(`parlamentares/${slug(p.nome)}`, gerarPerfil(p));
 
+escrever("senadores", gerarIndiceSenadores(senadores));
+for (const p of senadores) escrever(`senadores/${slug(p.nome)}`, gerarPerfilSenador(p));
+
 escrever("temas", gerarIndiceTemas(temas));
 for (const t of temas) escrever(`temas/${slug(t.nome)}`, gerarTema(t.nome, t.id));
 
 console.log(`site gerado em ${SAIDA}/`);
-console.log(`  ${parlamentares.length} perfis · ${temas.length} temas · 2 índices`);
+console.log(`  ${parlamentares.length} deputados · ${senadores.length} senadores · ${temas.length} temas · 3 índices`);
 console.log(`  período ${periodo.ini} → ${periodo.fim} · metodologia ${metodologia.versao}`);
 
 db.close();

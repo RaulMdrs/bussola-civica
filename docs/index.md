@@ -18,6 +18,13 @@ número — com link para a votação na fonte oficial.
 Também por [tema](./temas/): 12 assuntos com votação suficiente para sustentar
 um recorte.
 
+## [Senadores do Rio Grande do Sul →](./senadores/)
+
+Os **3 senadores gaúchos**, com coesão partidária apurada sobre as votações
+abertas. O universo do Senado é outro — 114 votações abertas contra 1.117
+nominais da Câmara — e lá existe **um eixo só**: não há orientação de bancada
+em dados abertos, então o alinhamento com o governo não é calculável.
+
 ## [Metodologia dos eixos →](./metodologia/)
 
 **É por isso que este site existe.** A plataforma exibe números que posicionam

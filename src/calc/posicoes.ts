@@ -14,7 +14,7 @@ import { sql } from "drizzle-orm";
 import type { Banco, Consultar } from "../db/client.ts";
 import * as s from "../db/schema.ts";
 
-export const METODOLOGIA_VERSAO = "2026-08-11.1";
+export const METODOLOGIA_VERSAO = "2026-08-12.1";
 
 /**
  * Escopos de apuração.
@@ -28,14 +28,59 @@ export const METODOLOGIA_VERSAO = "2026-08-11.1";
  * nenhuma pergunta específica. Votações `formal` (redação final) ficam fora dos
  * dois escopos: consolidam texto já aprovado, não expressam posição.
  */
-export const ESCOPOS = ["merito", "procedimental"] as const;
+export const ESCOPOS = ["merito", "procedimental", "unico"] as const;
 export type Escopo = (typeof ESCOPOS)[number];
+
+export type Casa = "camara" | "senado";
 
 interface Periodo {
   legislatura: number;
   inicio: string;
   fim: string;
+  casa: Casa;
 }
+
+/**
+ * Um recorte de apuração: o escopo gravado e o filtro de natureza que o define.
+ *
+ * `natureza: null` significa **sem filtro**, não "natureza nula" — é o caso do
+ * Senado, cujas votações entram com `natureza` NULL porque a regra de
+ * classificação foi calibrada e testada contra descrição da Câmara. Aplicá-la
+ * ao texto do Senado devolve `merito` para as 114 votações abertas, inclusive
+ * as 9 que mencionam requerimento: afirmaria mérito onde não se mediu.
+ */
+interface Recorte {
+  escopo: Escopo;
+  natureza: "merito" | "procedimental" | null;
+}
+
+/**
+ * O que cada casa sustenta.
+ *
+ * **O Senado não tem eixo 1.** Não existe orientação de bancada nos dados
+ * abertos — nem no endpoint de votação, nem em endpoint próprio: nove
+ * candidatos testados, todos 404, e busca por nome de campo numa resposta de
+ * 2,5 MB não achou nada. Sem referência oficial não há contra o que comparar, e
+ * escolher uma seria rotular por conta própria.
+ *
+ * O recorte por tema também não se aplica: depende de `proposicao_tema`, que
+ * vem da classificação da Câmara.
+ */
+const REGIME: Record<Casa, { eixos: readonly string[]; recortes: Recorte[]; temas: boolean }> = {
+  camara: {
+    eixos: ["alinhamento_governo", "coesao_partidaria"],
+    recortes: [
+      { escopo: "merito", natureza: "merito" },
+      { escopo: "procedimental", natureza: "procedimental" },
+    ],
+    temas: true,
+  },
+  senado: {
+    eixos: ["coesao_partidaria"],
+    recortes: [{ escopo: "unico", natureza: null }],
+    temas: false,
+  },
+};
 
 /**
  * Onde a metodologia está publicada.
@@ -163,6 +208,19 @@ interface LinhaEvidencia {
  * Devolve o fragmento e o parâmetro juntos porque a ordem posicional importa:
  * o fragmento é inserido logo após o `BETWEEN` de datas em todas as consultas.
  */
+/**
+ * Filtro de natureza. `natureza: null` no recorte = **sem cláusula nenhuma**.
+ *
+ * Não é `natureza IS NULL`: a diferença importa. O Senado grava `natureza` NULL
+ * e apura sobre todas as suas votações abertas; se um dia a regra for validada
+ * para o texto do Senado, o recorte ganha filtro sem mudar mais nada aqui.
+ */
+function filtroNatureza(r: Recorte): { sql: string; params: string[] } {
+  return r.natureza === null
+    ? { sql: "", params: [] }
+    : { sql: "AND v.natureza = ?", params: [r.natureza] };
+}
+
 function filtroTema(temaId: number | null): { sql: string; params: number[] } {
   if (temaId === null) return { sql: "", params: [] };
   return {
@@ -181,10 +239,11 @@ function filtroTema(temaId: number | null): { sql: string; params: number[] } {
 function calcularAlinhamentoGoverno(
   consultar: Consultar,
   p: Periodo,
-  escopo: Escopo,
+  r: Recorte,
   temaId: number | null = null,
 ) {
   const t = filtroTema(temaId);
+  const nat = filtroNatureza(r);
   const evidencias = consultar<LinhaEvidencia>(
     `SELECT vt.politico_id, vt.votacao_id, vt.id AS voto_id,
             'Orientação do Governo: ' || o.orientacao AS referencia,
@@ -192,7 +251,8 @@ function calcularAlinhamentoGoverno(
      FROM voto vt
      JOIN votacao v     ON v.id = vt.votacao_id
                        AND v.nominal = 1 AND v.secreta = 0
-                       AND v.natureza = ?
+                       AND v.casa = ?
+                       ${nat.sql}
                        AND v.data BETWEEN ? AND ?
                        ${t.sql}
      JOIN orientacao o  ON o.votacao_id = v.id
@@ -200,7 +260,8 @@ function calcularAlinhamentoGoverno(
                        AND o.liberado = 0
                        AND o.orientacao IN ('sim','nao')
      WHERE vt.computavel = 1`,
-    escopo,
+    p.casa,
+    ...nat.params,
     p.inicio,
     p.fim,
     ...t.params,
@@ -224,17 +285,19 @@ function calcularAlinhamentoGoverno(
 function calcularCoesaoPartidaria(
   consultar: Consultar,
   p: Periodo,
-  escopo: Escopo,
+  r: Recorte,
   temaId: number | null = null,
 ) {
   const t = filtroTema(temaId);
+  const nat = filtroNatureza(r);
   const evidencias = consultar<LinhaEvidencia>(
     `WITH elegiveis AS (
       SELECT vt.id, vt.votacao_id, vt.politico_id, vt.partido_id, vt.voto
       FROM voto vt
       JOIN votacao v ON v.id = vt.votacao_id
                     AND v.nominal = 1 AND v.secreta = 0
-                    AND v.natureza = ?
+                    AND v.casa = ?
+                    ${nat.sql}
                     AND v.data BETWEEN ? AND ?
                     ${t.sql}
       WHERE vt.computavel = 1 AND vt.partido_id IS NOT NULL
@@ -262,7 +325,8 @@ function calcularCoesaoPartidaria(
                 THEN 1 ELSE 0 END AS concordou
     FROM pares
     WHERE sim_pares <> nao_pares`,
-    escopo,
+    p.casa,
+    ...nat.params,
     p.inicio,
     p.fim,
     ...t.params,
@@ -293,23 +357,26 @@ function agregar(evidencias: LinhaEvidencia[]) {
 function oportunidadesPorPolitico(
   consultar: Consultar,
   p: Periodo,
-  escopo: Escopo,
+  r: Recorte,
   temaId: number | null = null,
 ) {
   const t = filtroTema(temaId);
+  const nat = filtroNatureza(r);
   const linhas = consultar<{ politico_id: number; n: number }>(
     `SELECT m.politico_id, COUNT(DISTINCT v.id) AS n
      FROM mandato m
      JOIN exercicio e ON e.mandato_id = m.id
      JOIN votacao v   ON v.nominal = 1 AND v.secreta = 0
-                     AND v.natureza = ?
+                     AND v.casa = ?
+                     ${nat.sql}
                      AND v.data BETWEEN ? AND ?
                      ${t.sql}
                      AND v.data >= e.data_inicio
                      AND (e.data_fim IS NULL OR v.data <= e.data_fim)
      WHERE m.legislatura_numero = ?
      GROUP BY m.politico_id`,
-    escopo,
+    p.casa,
+    ...nat.params,
     p.inicio,
     p.fim,
     ...t.params,
@@ -335,10 +402,11 @@ export async function calcularPosicoes(
     ).map((r) => r.id),
   );
 
+  const regime = REGIME[p.casa];
   const calculos = [
     { chave: "alinhamento_governo", fn: calcularAlinhamentoGoverno },
     { chave: "coesao_partidaria", fn: calcularCoesaoPartidaria },
-  ] as const;
+  ].filter((c) => regime.eixos.includes(c.chave));
 
   /**
    * Recortes a apurar: as matérias todas, mais um por tema elegível.
@@ -352,20 +420,25 @@ export async function calcularPosicoes(
    * "onde" só faz sentido sobre o conteúdo. Disciplina de pauta por tema seria
    * um número sobre poucas votações respondendo a pergunta nenhuma.
    */
-  const temas = temasElegiveis(consultar, p, limiarTema);
-  const recortes: { temaId: number | null; nome: string; escopos: readonly Escopo[] }[] = [
-    { temaId: null, nome: "todas as matérias", escopos: ESCOPOS },
-    ...temas.map((t) => ({ temaId: t.id, nome: t.nome, escopos: ["merito"] as const })),
+  const temas = regime.temas ? temasElegiveis(consultar, p, limiarTema) : [];
+  const recortes: { temaId: number | null; nome: string; recortes: Recorte[] }[] = [
+    { temaId: null, nome: "todas as matérias", recortes: regime.recortes },
+    ...temas.map((t) => ({
+      temaId: t.id,
+      nome: t.nome,
+      recortes: [{ escopo: "merito", natureza: "merito" }] as Recorte[],
+    })),
   ];
-  log(`  ${temas.length} temas elegíveis (>= ${limiarTema} votações de mérito)`);
+  if (regime.temas) log(`  ${temas.length} temas elegíveis (>= ${limiarTema} votações de mérito)`);
 
   for (const recorte of recortes) {
-  for (const escopo of recorte.escopos) {
-    const oportunidades = oportunidadesPorPolitico(consultar, p, escopo, recorte.temaId);
+  for (const r of recorte.recortes) {
+    const escopo = r.escopo;
+    const oportunidades = oportunidadesPorPolitico(consultar, p, r, recorte.temaId);
 
     for (const c of calculos) {
       const eixoId = eixos.get(c.chave)!;
-      const { porPolitico, evidencias } = c.fn(consultar, p, escopo, recorte.temaId);
+      const { porPolitico, evidencias } = c.fn(consultar, p, r, recorte.temaId);
 
       /**
        * Substitui a apuração anterior da **mesma série** — mesmo eixo, escopo,
@@ -446,11 +519,11 @@ export async function calcularPosicoes(
         gravadas++;
         evidenciasGravadas += minhas.length;
       }
-      // as evidências calculadas cobrem os 513; só as do recorte são gravadas
+      // as evidências calculadas cobrem a casa inteira; só as do recorte são gravadas
       const onde = recorte.temaId === null ? escopo : `${escopo} · ${recorte.nome}`;
       log(
         `  ${c.chave} [${onde}]: ${gravadas} posições, ${evidenciasGravadas} evidências ` +
-          `(de ${evidencias.length} calculadas para toda a Câmara)`,
+          `(de ${evidencias.length} calculadas para a casa toda)`,
       );
     }
   }
