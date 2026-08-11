@@ -14,7 +14,7 @@ import { sql } from "drizzle-orm";
 import type { Banco, Consultar } from "../db/client.ts";
 import * as s from "../db/schema.ts";
 
-export const METODOLOGIA_VERSAO = "2026-08-12.1";
+export const METODOLOGIA_VERSAO = "2026-08-11.2";
 
 /**
  * Escopos de apuração.

@@ -24,7 +24,7 @@ description: "Os 3 senadores gaúchos: coesão partidária a partir das votaçõ
 ---
 
 Apurado sobre a legislatura 57, período **2023-02-01 → 2026-08-11**.
-Metodologia `2026-08-12.1`: <https://raulmdrs.github.io/bussola-civica/metodologia/>
+Metodologia `2026-08-11.2`: <https://raulmdrs.github.io/bussola-civica/metodologia/>
 
 > Nenhum eixo mede ideologia, qualidade ou desempenho. Todos derivam de voto
 > registrado em fonte oficial, e cada valor é decomponível até a votação que

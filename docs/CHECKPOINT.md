@@ -1,8 +1,10 @@
 # CHECKPOINT — Bússola Cívica
 
-**Data:** 2026-08-11 · **Fase:** 0 (deputados federais do RS)
-**Estado:** backend funcional — reconhecimento, modelo, ingestor e cálculo de
-posições prontos e validados contra dados reais. Web e app ainda não iniciados.
+**Data:** 2026-08-11 · **Fase:** 0 concluída · Fase 1 (Senado) integrada
+**Estado:** backend e site no ar. Coleta, modelo, cálculo, metodologia pública e
+camada web funcionando e validados contra dados reais. App mobile não iniciado.
+
+Site: <https://raulmdrs.github.io/bussola-civica/>
 
 Documentos detalhados: [FONTES.md](./FONTES.md) · [MODELO-DADOS.md](./MODELO-DADOS.md) · [INGESTOR.md](./INGESTOR.md)
 
@@ -26,8 +28,9 @@ Documentos detalhados: [FONTES.md](./FONTES.md) · [MODELO-DADOS.md](./MODELO-DA
 | 12 | Camada web | `npm run site` — 31 perfis, 12 temas, estático no GitHub Pages |
 | 13 | Senado (Fase 1) | etapa `senado` — 353 votações, 3 senadores, **um eixo só** |
 
-Banco atual: **80 MB**, **legislatura 57 inteira**, coletada de 2023-02-01 a
-2026-08-08: 6.291 votações, 1.117 nominais, 452.356 votos.
+Banco atual: **80 MB**. Câmara: 6.291 votações (1.117 nominais), 452.356 votos.
+Senado: 353 votações (114 abertas), 28.593 votos. 34 parlamentares com perfil
+completo — 31 deputados e 3 senadores —, 871 posições e 86.315 evidências.
 
 O acervo foi **reconstruído do zero** em 2026-08-07 (91 min, ~9.700 operações) e
 reproduziu exatamente os totais estruturais da coleta anterior — 1.112 nominais,
@@ -436,7 +439,7 @@ primeiro grupo a reconsiderar.
 ## 10. Estado do código
 
 ```
-src/                                    5.644 linhas TypeScript
+src/                                    6.704 linhas TypeScript
   db/schema.ts        862   20 tabelas, comentadas com o achado que as motivou
   db/client.ts         72   node:sqlite via sqlite-proxy + consultar() tipado
   db/migrar.ts         59   aplica migrations, controla em _migrations
@@ -509,82 +512,76 @@ Custo por semestre: ~3 + 62 + (2 janelas + ~450 `/votos` + ~154 `/orientacoes`)
 
 ## 11. Próximos passos sugeridos
 
-Em ordem sugerida. O critério é o que destrava o resto e o que impede o projeto
-de afirmar algo que não sustenta.
+**Os seis itens da lista anterior foram fechados** — manutenção incremental,
+metodologia publicada, as 96 proposições explicadas, eixos temáticos, TSE com
+HMAC do CPF, camada web e Senado. O que segue é outra lista, não a continuação
+daquela.
 
-### Rotina, não projeto
+### Rotina
 
-**0. Rodar `npm run ingerir:incremental`.** Semanalmente basta — o plenário não
-vota todo dia, e votação passada é imutável. ~49 s quando não há nada novo.
-A legislatura vai até **2027-01-31**; depois disso o comando para de coletar e
-passa a só re-derivar, o que continua sendo o comportamento certo.
+**0. Manter o acervo e o site.** Semanalmente:
 
-### Bloqueiam exibição pública
+```bash
+npm run ingerir:incremental && npm run site && git commit -am "atualiza acervo"
+```
 
-**1. ~~Publicar a metodologia dos eixos~~** — ✅ escrita em
-[docs/metodologia/](./metodologia/), como **documento vivo** com arquivo de
-versões superadas em [versoes/](./metodologia/versoes/). `eixo.metodologia_url`
-passou de caminho relativo de repositório para URL absoluta, e `urlDaVersao()`
-resolve o endereço de qualquer versão a partir do `metodologia_versao` gravado
-em cada posição — sem isso a rastreabilidade quebraria na primeira mudança de
-regra.
+~49 s de coleta, alguns segundos de geração, e o Pages reconstrói sozinho. O
+diff do commit mostra o que mudou nos números — é registro, não ruído.
 
-Publicada em **<https://raulmdrs.github.io/bussola-civica/metodologia/>** (GitHub
-Pages servindo `docs/`). O `CHECKPOINT` fica de fora do site por `_config.yml`:
-é registro interno de estado, não conteúdo público.
+### O que dá mais retorno agora
 
-Versão arquivada mora em **diretório** (`versoes/<versao>/index.md`), não em
-arquivo solto — nome de versão é todo ponto, e diretório com `index.md` publica
-numa URL com barra final sem depender de resolução de extensão.
+**1. Exibir os discursos.** São **4.947 discursos substantivos** coletados,
+classificados e com link para o Diário da Câmara — e **invisíveis no site**. É o
+maior desperdício do acervo hoje, e não é acaso: os discursos entraram no MVP
+justamente como substituto do plano de governo, que não existe para deputado
+(§5, achado 3). Coletá-los e não mostrá-los devolve o projeto ao problema que
+eles resolviam.
 
-**2. ~~Fechar as 96 proposições não explicadas~~** — ✅ explicado e verificado
-(§7.1, §7.2). Vieram da regra antiga de vínculo, que não filtrava por `nominal`;
-refazendo aquele cálculo sobre as mesmas simbólicas dão exatamente 96. E o
-vínculo atual foi conferido contra a origem nas **1.117** nominais, uma a uma:
-zero divergências, zero órfãs.
+Cuidado ao fazer: são 9,9 MB de transcrição. Perfil com 124 discursos precisa
+de recorte — os mais recentes, com link para o resto — e o filtro
+`relevante = 0` continua sendo classificação, não exclusão: a interface deve dar
+acesso ao acervo inteiro.
 
-### Destravam a Fase 2
+**2. Decompor a evidência por inteiro.** O site mostra **amostra** de
+divergência e diz que é amostra. As 86.315 evidências existem no banco e não são
+alcançáveis por quem não roda SQL. Uma página por eixo, paginada, fecharia a
+promessa de "por que este político está aqui?" sem inchar o perfil.
 
-**3. Eixos temáticos.** `proposicao_tema` está populada e **99,4%** das
-nominais têm tema (1.110 de 1.117). É a Fase 2 inteira esperando só por decisão
-de recorte: quais dos 32 temas viram eixo, e com que denominador.
+**3. Automatizar a atualização.** Hoje o ciclo depende de você rodar dois
+comandos numa máquina que tem o banco. Uma GitHub Action semanal faria tudo —
+mas exige reconstruir o acervo no CI ou cacheá-lo, e o segredo do HMAC vira
+segredo do repositório. Decisão real de superfície, não tarefa mecânica.
 
-**4. ~~Integrar TSE via CSV~~** — ✅ etapa `tse`. 546 candidaturas de 2022 no RS,
-**31/31 da bancada cruzadas**, reproduzindo o resultado do reconhecimento 14
-meses depois. `partido_alias` populada, e o caso previsto apareceu sozinho:
-"PC do B" (TSE) → "PCdoB" (Câmara).
+### Bloqueado pela fonte, não por nós
 
-O CPF foi junto, como planejado: `politico.cpf` virou `politico.cpf_hmac`. A
-junção aplica o mesmo HMAC aos dois lados e funciona idêntica; o banco deixou de
-conter identificador pessoal. Segredo em `.env` (`.env.example` versionado),
-carregado por `--env-file-if-exists`. Sem ele, as etapas que tocam CPF falham
-com mensagem que diz como gerar — nunca um default, que tornaria o HMAC
-reversível por qualquer pessoa com acesso ao código, que é público.
+Registrado para quando houver fonte — nenhum destes é "fazer depois":
 
-> **A decisão dos 515.** Optou-se por gravar **todos** os candidatos a deputado
-> federal, não só os 31 eleitos. Os 515 restantes entram com
-> `perfil_completo = 0` — sem voto, sem discurso, sem posição. A flag é o que
-> impede a interface de oferecer perfil de quem só tem nome; se a camada web
-> ignorá-la, são 515 perfis vazios. É o risco que essa escolha carrega, e ele
-> vive na UI, não no acervo.
+| Item | Por que está parado |
+|---|---|
+| Eixo 1 no Senado | Não há orientação de bancada em dados abertos. Nove endpoints testados, todos 404; busca por nome de campo em 2,5 MB não achou nada (§8) |
+| Senador × TSE | Não há CPF na API do Senado. Nome de urna não é chave, e partido menos ainda |
+| Recorte por escopo no Senado | A regra mérito × procedimental foi calibrada contra texto da Câmara. Validá-la para o Senado exige casos de borda que ainda não temos |
+| Plano de governo | Não existe para deputado federal — interseção medida: zero (§5) |
+| Notícias por político | Sem fonte oficial (§5) |
 
-### Depois
+### Fases seguintes
 
-**5. Camada web (Next.js).** Perfis indexáveis; a visualização orbital consome
-`posicao` + `posicao_evidencia` direto. Depende do item 1. Ao consultar
-`posicao`, **filtrar por período** — o invariante de integridade protege contra
-séries duplicadas, mas recortes legítimos com `periodo_inicio` diferente
-coexistem por desenho.
+**4. Visualização orbital.** Estava no plano original; o site hoje é tabela.
+Consome `posicao` + `posicao_evidencia` direto e roda no cliente, sem servidor.
+Exige resolver a armadilha do eixo 2: dois parlamentares opostos com 100% de
+coesão ocupam o mesmo ponto, e a visualização precisa deixar isso óbvio.
 
-**6. Senado (Fase 1).** 67% das votações são secretas e o endpoint por senador
-foi depreciado, então exige normalizador próprio e base amostral menor. O mapa
-de endpoints está em §4.2.
+**5. App mobile** (Fase 3) e **estadual/municipal** (Fase 4).
 
-### Manutenção de fundo
+### Dívidas pequenas
 
-- **Segunda máquina (Windows).** `git clone` + `npm install` + reconstrução do
-  acervo (~91 min). O banco é artefato de build, não arquivo do projeto: não
-  sincronizar. SQLite em pasta de sync corrompe, e o CPF agrava.
 - **`esbuild <= 0.24.2`** nas `devDependencies`, via `drizzle-kit`: 4 avisos
-  moderados, só alcançáveis por quem roda `npm run db:studio`. A correção exige
-  subir o `drizzle-kit` de major.
+  moderados, alcançáveis só por quem roda `npm run db:studio`. A correção sobe o
+  `drizzle-kit` de major.
+- **Os 515 candidatos sem mandato** entraram com `perfil_completo = 0` e hoje
+  **não aparecem no site** — o gerador só lê `perfil_completo = 1`. A barreira
+  está funcionando; ela precisa continuar sendo respeitada por qualquer página
+  nova.
+- **Domínio próprio.** O site está em `raulmdrs.github.io`. Trocar é uma linha
+  na constante `METODOLOGIA` mais o CNAME, mas invalida as URLs já gravadas em
+  `eixo.metodologia_url` — recalcular `posicoes` resolve.

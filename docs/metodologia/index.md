@@ -1,6 +1,6 @@
 # Metodologia dos eixos — Bússola Cívica
 
-**Versão `2026-08-12.1`** · vigente · apurada sobre a legislatura 57
+**Versão `2026-08-11.2`** · vigente · apurada sobre a legislatura 57
 (2023-02-01 → 2026-08-11), Câmara dos Deputados, bancada do Rio Grande do Sul.
 
 Este é o **documento vivo**: descreve sempre a metodologia em vigor. Cada número
@@ -219,7 +219,7 @@ número temático, leia o `n` antes.
 
 ## O Senado Federal
 
-Desde a versão `2026-08-12.1` a plataforma cobre também os 3 senadores do Rio
+Desde a versão `2026-08-11.2` a plataforma cobre também os 3 senadores do Rio
 Grande do Sul. **O Senado não é a Câmara com outra fonte**, e as diferenças não
 são de detalhe:
 
@@ -304,7 +304,7 @@ que se sabe qual documento explica qual número.
 
 | Versão | Situação | Mudança |
 |---|---|---|
-| `2026-08-12.1` | **vigente** | Acrescenta o Senado Federal: um eixo, escopo único, sem recorte por tema. Nada da Câmara mudou |
+| `2026-08-11.2` | **vigente** | Acrescenta o Senado Federal: um eixo, escopo único, sem recorte por tema. Nada da Câmara mudou |
 | [`2026-08-11.1`](./versoes/2026-08-11.1/) | superada | Acrescenta o recorte por tema (12 temas, só no mérito). Os dois eixos não mudaram — os valores gerais são idênticos aos da versão anterior |
 | [`2026-08-04.2`](./versoes/2026-08-04.2/) | superada | Primeira versão publicada. Introduz a separação entre os escopos `merito` e `procedimental` |
 

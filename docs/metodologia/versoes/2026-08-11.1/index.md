@@ -1,7 +1,7 @@
 # Metodologia dos eixos — Bússola Cívica
 
 > ⚠️ **Versão arquivada.** Esta é a `2026-08-11.1`, **superada** pela
-> [`2026-08-12.1`](../../). O que mudou depois: entrou o Senado Federal, com um
+> [`2026-08-11.2`](../../). O que mudou depois: entrou o Senado Federal, com um
 > eixo só e escopo próprio. Os eixos da Câmara descritos abaixo não mudaram.
 
 **Versão `2026-08-11.1`** · apurada sobre a legislatura 57
