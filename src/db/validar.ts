@@ -20,7 +20,7 @@ import { hoje } from "../lib/normalizar.ts";
 import { descobrirJanelas } from "../ingest/horizonte.ts";
 import { conferirIntegridade } from "./integridade.ts";
 import { abrirBanco, schema } from "./client.ts";
-import { METODOLOGIA_VERSAO, urlDaVersao } from "../calc/posicoes.ts";
+import { METODOLOGIA_VERSAO, calcularPosicoes, urlDaVersao } from "../calc/posicoes.ts";
 
 const db = new DatabaseSync(":memory:");
 
@@ -610,15 +610,89 @@ console.log("\nMetodologia — a versão resolve para o documento que a descreve
   checar("versão vigente aponta para o documento vivo", viva.endsWith("/metodologia/"), true);
   checar(
     "versão antiga aponta para o arquivo, com o nome da versão",
-    urlDaVersao("2026-08-04.1"),
-    "https://raulmdrs.github.io/bussola-civica/metodologia/versoes/2026-08-04.1/",
+    urlDaVersao("2026-08-04.2"),
+    "https://raulmdrs.github.io/bussola-civica/metodologia/versoes/2026-08-04.2/",
   );
   checar("a URL é absoluta", viva.startsWith("https://"), true);
   // Nome de versão é todo ponto: a URL não pode depender de resolução de extensão.
   checar("versão arquivada termina em barra, não em extensão", urlDaVersao("x").endsWith("/"), true);
 }
 
-const totalChecagens = 57;
+/**
+ * Recorte temático sobre matéria classificada em vários temas.
+ *
+ * `proposicao_tema` é N:N — 646 proposições, 906 vínculos. A votação de uma
+ * matéria com dois temas tem de contar **uma vez em cada recorte**, nunca duas
+ * no mesmo. Se contasse duas, o `n` seria um denominador inventado e a
+ * porcentagem continuaria parecendo plausível — o pior formato de erro.
+ *
+ * O teste roda o cálculo de verdade, contra o cliente real, em banco em memória.
+ */
+console.log("\nRecorte temático — matéria com dois temas não conta em dobro");
+{
+  const mem = abrirBanco(":memory:");
+  for (const arquivo of readdirSync(dir).filter((f) => f.endsWith(".sql")).sort()) {
+    for (const stmt of readFileSync(join(dir, arquivo), "utf8").split("--> statement-breakpoint")) {
+      const t = stmt.trim();
+      if (t) mem.sqlite.exec(t);
+    }
+  }
+
+  // Uma proposição, DOIS temas. Uma votação nominal de mérito. Um voto.
+  mem.sqlite.exec(`
+    INSERT INTO legislatura (numero, data_inicio, data_fim) VALUES (57,'2023-02-01','2027-01-31');
+    INSERT INTO orgao (id, casa, id_externo, sigla, nome) VALUES (1,'camara','180','PLEN','Plenário');
+    INSERT INTO tema (id, nome) VALUES (1,'Saúde'), (2,'Economia');
+    INSERT INTO proposicao (id, casa, id_externo, sigla_tipo, numero, ano, fonte_url)
+      VALUES (1,'camara','9001','PL',1,2024,'https://exemplo/p1');
+    INSERT INTO proposicao_tema (proposicao_id, tema_id) VALUES (1,1), (1,2);
+    INSERT INTO politico (id, nome_parlamentar, perfil_completo, fonte_url)
+      VALUES (1,'Deputado Teste',1,'https://exemplo/d1');
+    INSERT INTO mandato (id, politico_id, casa, legislatura_numero, uf, condicao_eleitoral, fonte_url)
+      VALUES (1,1,'camara',57,'RS','titular','https://exemplo/m1');
+    INSERT INTO exercicio (mandato_id, data_inicio, situacao, fonte_url)
+      VALUES (1,'2023-02-01','Exercício','https://exemplo/e1');
+    INSERT INTO votacao (id, casa, id_externo, orgao_id, data, descricao, nominal, secreta, natureza, proposicao_id, fonte_url)
+      VALUES (1,'camara','900-1',1,'2025-03-01','Aprovado o PL',1,0,'merito',1,'https://exemplo/v1');
+    INSERT INTO orientacao (votacao_id, sigla_bruta, tipo_lideranca, orientacao, liberado)
+      VALUES (1,'Governo','B','sim',0);
+    INSERT INTO voto (votacao_id, politico_id, voto, tipo_voto_original, computavel)
+      VALUES (1,1,'sim','Sim',1);
+  `);
+
+  await calcularPosicoes(
+    mem.db,
+    mem.consultar,
+    { legislatura: 57, inicio: "2023-02-01", fim: "2026-12-31" },
+    () => {},
+    1, // limiar de 1 votação: a fixture tem uma só, e o alvo aqui é o N:N
+  );
+
+  const linha = (temaId: number | null) =>
+    mem.sqlite
+      .prepare(
+        `SELECT p.n_observacoes n, p.valor v FROM posicao p
+         JOIN eixo e ON e.id = p.eixo_id AND e.chave='alinhamento_governo'
+         WHERE p.escopo='merito' AND p.tema_id IS ?`,
+      )
+      .get(temaId) as { n: number; v: number } | undefined;
+
+  // A votação é uma só. Com JOIN em vez de EXISTS, o geral daria n=2.
+  checar("posição geral conta a votação uma vez", linha(null)?.n, 1);
+  checar("no tema 1, também uma vez", linha(1)?.n, 1);
+  checar("no tema 2, também uma vez", linha(2)?.n, 1);
+  checar("o valor não é afetado pela duplicação", linha(1)?.v, 1);
+
+  // O recorte geral e os temáticos coexistem: o DELETE de um não varre o outro.
+  const total = mem.sqlite
+    .prepare("SELECT COUNT(*) n FROM posicao WHERE tema_id IS NOT NULL")
+    .get() as { n: number };
+  checar("posições temáticas sobrevivem ao cálculo do geral", total.n > 0, true);
+
+  mem.sqlite.close();
+}
+
+const totalChecagens = 62;
 console.log(
   falhas === 0
     ? `\n✓ modelo validado: ${totalChecagens} verificações, 0 falhas\n`

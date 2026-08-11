@@ -598,6 +598,19 @@ export const posicao = sqliteTable(
     escopo: text("escopo", { enum: ["merito", "procedimental"] })
       .notNull()
       .default("merito"),
+    /**
+     * Recorte temático. `NULL` = todas as matérias, que é a posição principal.
+     *
+     * O tema é dimensão do recorte, como `escopo` — não eixo novo. "Alinhamento
+     * com o governo" continua sendo o mesmo eixo, medido sobre um universo
+     * menor de votações. Modelar como eixo separado duplicaria rótulo e
+     * metodologia em 24 linhas, e rótulo duplicado é rótulo que diverge.
+     *
+     * **O que o tema NÃO é:** posição do parlamentar *sobre* o tema. A origem
+     * diz que a proposição trata de meio ambiente; não diz se aprová-la protege
+     * ou desprotege. Atribuir essa direção seria rotular por conta própria.
+     */
+    temaId: integer("tema_id").references(() => tema.id, { onDelete: "cascade" }),
     valor: real("valor").notNull(),
     nObservacoes: integer("n_observacoes").notNull(),
     nOportunidades: integer("n_oportunidades").notNull(),
@@ -605,15 +618,20 @@ export const posicao = sqliteTable(
     calculadoEm: text("calculado_em").notNull().default(agora),
   },
   (t) => [
-    uniqueIndex("posicao_uq").on(
-      t.politicoId,
-      t.eixoId,
-      t.escopo,
-      t.legislaturaNumero,
-      t.periodoInicio,
-      t.periodoFim,
-    ),
+    /**
+     * Dois índices parciais, não um só, porque no SQLite **`NULL` nunca é igual
+     * a `NULL` num índice único**: com `tema_id` na lista, as posições gerais
+     * (as principais, justamente) ficariam sem constrangimento nenhum, e o
+     * índice daria falsa sensação de segurança.
+     */
+    uniqueIndex("posicao_geral_uq")
+      .on(t.politicoId, t.eixoId, t.escopo, t.legislaturaNumero, t.periodoInicio, t.periodoFim)
+      .where(sql`tema_id IS NULL`),
+    uniqueIndex("posicao_tema_uq")
+      .on(t.politicoId, t.eixoId, t.escopo, t.legislaturaNumero, t.periodoInicio, t.periodoFim, t.temaId)
+      .where(sql`tema_id IS NOT NULL`),
     index("posicao_eixo_idx").on(t.eixoId, t.escopo, t.legislaturaNumero),
+    index("posicao_tema_idx").on(t.temaId, t.escopo),
   ],
 );
 

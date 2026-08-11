@@ -1,13 +1,13 @@
 # Metodologia dos eixos — Bússola Cívica
 
-**Versão `2026-08-11.1`** · vigente · apurada sobre a legislatura 57
-(2023-02-01 → 2026-08-11), Câmara dos Deputados, bancada do Rio Grande do Sul.
+> ⚠️ **Versão arquivada.** Esta é a `2026-08-04.2`, **superada** pela
+> [`2026-08-11.1`](../../). Está aqui, sem nenhuma edição, porque números
+> calculados sob ela só são explicados por ela. O que mudou depois:
+> acrescentou-se o recorte por tema. Os dois eixos descritos abaixo não
+> mudaram — seus valores são idênticos nas duas versões.
 
-Este é o **documento vivo**: descreve sempre a metodologia em vigor. Cada número
-exibido pela plataforma carrega a versão da regra que o produziu, e as versões
-anteriores ficam em [versoes/](./versoes/). Se um número foi calculado com a
-`2026-08-04.2`, é [aquele documento](./versoes/2026-08-04.2/) que o explica —
-não este.
+**Versão `2026-08-04.2`** · apurada sobre a legislatura 57
+(2023-02-01 → 2026-08-11), Câmara dos Deputados, bancada do Rio Grande do Sul.
 
 ---
 
@@ -172,51 +172,6 @@ Amplitude atual no mérito: de **51,0%** a **99,2%**, média **84,8%**.
 
 ---
 
-## Recorte por tema
-
-Desde a versão `2026-08-11.1`, os dois eixos também são apurados **dentro de um
-tema**: "alinhamento com o governo federal em Meio Ambiente", "coesão partidária
-em Saúde". A metodologia é exatamente a mesma; só o universo de votações muda.
-
-O que isso acrescenta é *onde*, não *quanto*. Um parlamentar com 77% de
-alinhamento geral pode ter 32% em Direito Penal — e essa diferença é a
-informação, não a média.
-
-### O que o recorte por tema não é
-
-**Não é posição do parlamentar *sobre* o tema.** A Câmara classifica cada
-proposição por assunto, e é dela que sai o tema. Mas a fonte diz apenas que a
-proposição **trata** de meio ambiente; **não diz se aprová-la protege ou
-desprotege**. Sem essa direção, "votou a favor do meio ambiente" é uma frase que
-nenhuma fonte oficial sustenta — e atribuí-la seria rotular por conta própria,
-que é o que este projeto não faz.
-
-Então o que se mede continua sendo alinhamento com o governo e coesão com o
-partido. Dentro do tema.
-
-### Quais temas
-
-Um tema vira recorte quando tem **pelo menos 30 votações nominais de mérito** no
-período. Hoje são **12**, dos 32 da classificação oficial. O limiar é do tema,
-não do parlamentar: define quais recortes existem, e é aplicado
-automaticamente — tema que cruze o limiar depois passa a ter eixo, sem decisão
-editorial.
-
-Só no **mérito**. O recorte responde "onde o parlamentar diverge", e "onde" só
-faz sentido sobre o conteúdo; disciplina de pauta por tema seria um número sobre
-pouquíssimas votações respondendo a pergunta nenhuma.
-
-### O `n` é parte do número
-
-Um tema ter 40 votações não significa que todo parlamentar votou nas 40. Suplente
-que assumiu tarde, licença, missão oficial — o `n` individual varia muito dentro
-do mesmo tema. Em Viação, Transporte e Mobilidade, há parlamentar com `n = 3`.
-
-**Nada é suprimido**, e por isso o `n` é exibido junto do valor, não como nota
-de rodapé. Uma porcentagem sobre 3 votações não é uma porcentagem sobre 3
-votações: é uma porcentagem que parece igual a todas as outras. Ao ler qualquer
-número temático, leia o `n` antes.
-
 ## Como conferir por conta própria
 
 Cada posição é decomposta em evidências — uma linha por votação, com o voto, a
@@ -264,8 +219,7 @@ que se sabe qual documento explica qual número.
 
 | Versão | Situação | Mudança |
 |---|---|---|
-| `2026-08-11.1` | **vigente** | Acrescenta o recorte por tema (12 temas, só no mérito). Os dois eixos não mudaram — os valores gerais são idênticos aos da versão anterior |
-| [`2026-08-04.2`](./versoes/2026-08-04.2/) | superada | Primeira versão publicada. Introduz a separação entre os escopos `merito` e `procedimental` |
+| `2026-08-04.2` | **vigente** | Primeira versão publicada. Introduz a separação entre os escopos `merito` e `procedimental` |
 
 Quando a metodologia mudar, esta página passa a descrever a versão nova e a
 anterior é arquivada, sem edição, em [versoes/](./versoes/). Números já

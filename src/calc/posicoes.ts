@@ -14,7 +14,7 @@ import { sql } from "drizzle-orm";
 import type { Banco, Consultar } from "../db/client.ts";
 import * as s from "../db/schema.ts";
 
-export const METODOLOGIA_VERSAO = "2026-08-04.2";
+export const METODOLOGIA_VERSAO = "2026-08-11.1";
 
 /**
  * Escopos de apuração.
@@ -59,7 +59,7 @@ const METODOLOGIA = {
 /**
  * Endereço do documento que explica um número já calculado.
  *
- * Versão arquivada mora num **diretório** (`versoes/2026-08-04.1/index.md`), não
+ * Versão arquivada mora num **diretório** (`versoes/2026-08-04.2/index.md`), não
  * num arquivo solto. A URL sai com barra final e não depende de como o Jekyll
  * resolve extensão em nome com ponto — e nome de versão é todo ponto.
  */
@@ -147,6 +147,32 @@ interface LinhaEvidencia {
 }
 
 /**
+ * Restringe o universo de votações a um tema. `null` = todas as matérias.
+ *
+ * `EXISTS` e não `JOIN`, mas **não** porque um `JOIN` duplicaria linha aqui:
+ * com `tema_id` fixado e `proposicao_tema_uq` sobre `(proposicao_id, tema_id)`,
+ * cada votação casa no máximo uma vez, e as duas formas dariam o mesmo `n`.
+ * (Foi o que a mutação mostrou quando este comentário afirmava o contrário.)
+ *
+ * O motivo é outro, e é de robustez: `proposicao_tema` é N:N — 646 proposições,
+ * 906 vínculos —, e a semântica pretendida é *filtrar*, não *combinar*. No dia
+ * em que o recorte aceitar um conjunto de temas, ou entrar outra tabela N:N no
+ * caminho, o `EXISTS` continua correto e o `JOIN` passa a multiplicar em
+ * silêncio. Expressar a intenção evita o defeito antes de ele existir.
+ *
+ * Devolve o fragmento e o parâmetro juntos porque a ordem posicional importa:
+ * o fragmento é inserido logo após o `BETWEEN` de datas em todas as consultas.
+ */
+function filtroTema(temaId: number | null): { sql: string; params: number[] } {
+  if (temaId === null) return { sql: "", params: [] };
+  return {
+    sql: `AND EXISTS (SELECT 1 FROM proposicao_tema pt
+                      WHERE pt.proposicao_id = v.proposicao_id AND pt.tema_id = ?)`,
+    params: [temaId],
+  };
+}
+
+/**
  * Eixo 1 — comparação com a orientação da liderança do Governo.
  *
  * `liberado = 0` é essencial: liberação de bancada não é orientação, e tratá-la
@@ -156,7 +182,9 @@ function calcularAlinhamentoGoverno(
   consultar: Consultar,
   p: Periodo,
   escopo: Escopo,
+  temaId: number | null = null,
 ) {
+  const t = filtroTema(temaId);
   const evidencias = consultar<LinhaEvidencia>(
     `SELECT vt.politico_id, vt.votacao_id, vt.id AS voto_id,
             'Orientação do Governo: ' || o.orientacao AS referencia,
@@ -166,6 +194,7 @@ function calcularAlinhamentoGoverno(
                        AND v.nominal = 1 AND v.secreta = 0
                        AND v.natureza = ?
                        AND v.data BETWEEN ? AND ?
+                       ${t.sql}
      JOIN orientacao o  ON o.votacao_id = v.id
                        AND o.sigla_bruta = 'Governo'
                        AND o.liberado = 0
@@ -174,6 +203,7 @@ function calcularAlinhamentoGoverno(
     escopo,
     p.inicio,
     p.fim,
+    ...t.params,
   );
   return agregar(evidencias);
 }
@@ -195,7 +225,9 @@ function calcularCoesaoPartidaria(
   consultar: Consultar,
   p: Periodo,
   escopo: Escopo,
+  temaId: number | null = null,
 ) {
+  const t = filtroTema(temaId);
   const evidencias = consultar<LinhaEvidencia>(
     `WITH elegiveis AS (
       SELECT vt.id, vt.votacao_id, vt.politico_id, vt.partido_id, vt.voto
@@ -204,6 +236,7 @@ function calcularCoesaoPartidaria(
                     AND v.nominal = 1 AND v.secreta = 0
                     AND v.natureza = ?
                     AND v.data BETWEEN ? AND ?
+                    ${t.sql}
       WHERE vt.computavel = 1 AND vt.partido_id IS NOT NULL
     ),
     cont AS (
@@ -232,6 +265,7 @@ function calcularCoesaoPartidaria(
     escopo,
     p.inicio,
     p.fim,
+    ...t.params,
   );
   return agregar(evidencias);
 }
@@ -260,7 +294,9 @@ function oportunidadesPorPolitico(
   consultar: Consultar,
   p: Periodo,
   escopo: Escopo,
+  temaId: number | null = null,
 ) {
+  const t = filtroTema(temaId);
   const linhas = consultar<{ politico_id: number; n: number }>(
     `SELECT m.politico_id, COUNT(DISTINCT v.id) AS n
      FROM mandato m
@@ -268,6 +304,7 @@ function oportunidadesPorPolitico(
      JOIN votacao v   ON v.nominal = 1 AND v.secreta = 0
                      AND v.natureza = ?
                      AND v.data BETWEEN ? AND ?
+                     ${t.sql}
                      AND v.data >= e.data_inicio
                      AND (e.data_fim IS NULL OR v.data <= e.data_fim)
      WHERE m.legislatura_numero = ?
@@ -275,6 +312,7 @@ function oportunidadesPorPolitico(
     escopo,
     p.inicio,
     p.fim,
+    ...t.params,
     p.legislatura,
   );
   return new Map(linhas.map((l) => [l.politico_id, l.n]));
@@ -285,6 +323,8 @@ export async function calcularPosicoes(
   consultar: Consultar,
   p: Periodo,
   log: (m: string) => void = console.log,
+  /** Injetável só para teste: fixture não tem como reunir 30 votações por tema. */
+  limiarTema: number = LIMIAR_TEMA,
 ) {
   const eixos = await garantirEixos(db);
 
@@ -300,12 +340,32 @@ export async function calcularPosicoes(
     { chave: "coesao_partidaria", fn: calcularCoesaoPartidaria },
   ] as const;
 
-  for (const escopo of ESCOPOS) {
-    const oportunidades = oportunidadesPorPolitico(consultar, p, escopo);
+  /**
+   * Recortes a apurar: as matérias todas, mais um por tema elegível.
+   *
+   * **Tema não é eixo novo** — é o mesmo eixo sobre um universo menor. E não é
+   * posição *sobre* o tema: a origem diz que a proposição trata de meio
+   * ambiente, não se aprová-la protege ou desprotege. Essa direção não existe
+   * em fonte oficial, e inventá-la seria rotular por conta própria.
+   *
+   * **Só no mérito.** O recorte temático responde *onde* o parlamentar diverge;
+   * "onde" só faz sentido sobre o conteúdo. Disciplina de pauta por tema seria
+   * um número sobre poucas votações respondendo a pergunta nenhuma.
+   */
+  const temas = temasElegiveis(consultar, p, limiarTema);
+  const recortes: { temaId: number | null; nome: string; escopos: readonly Escopo[] }[] = [
+    { temaId: null, nome: "todas as matérias", escopos: ESCOPOS },
+    ...temas.map((t) => ({ temaId: t.id, nome: t.nome, escopos: ["merito"] as const })),
+  ];
+  log(`  ${temas.length} temas elegíveis (>= ${limiarTema} votações de mérito)`);
+
+  for (const recorte of recortes) {
+  for (const escopo of recorte.escopos) {
+    const oportunidades = oportunidadesPorPolitico(consultar, p, escopo, recorte.temaId);
 
     for (const c of calculos) {
       const eixoId = eixos.get(c.chave)!;
-      const { porPolitico, evidencias } = c.fn(consultar, p, escopo);
+      const { porPolitico, evidencias } = c.fn(consultar, p, escopo, recorte.temaId);
 
       /**
        * Substitui a apuração anterior da **mesma série** — mesmo eixo, escopo,
@@ -326,12 +386,16 @@ export async function calcularPosicoes(
        * Recorte com outro `periodo_inicio` (um semestre, por exemplo) é outra
        * série e continua coexistindo — é o caso legítimo.
        */
+      // O recorte temático entra na condição: apagar por eixo+escopo sem
+      // distinguir o tema faria o cálculo de "todas as matérias" varrer as
+      // posições temáticas gravadas logo antes.
       await db.run(sql`
         DELETE FROM posicao
         WHERE eixo_id = ${eixoId}
           AND escopo = ${escopo}
           AND legislatura_numero = ${p.legislatura}
           AND periodo_inicio = ${p.inicio}
+          AND ${recorte.temaId === null ? sql`tema_id IS NULL` : sql`tema_id = ${recorte.temaId}`}
       `);
 
       let gravadas = 0;
@@ -343,6 +407,7 @@ export async function calcularPosicoes(
           politicoId,
           eixoId,
           escopo,
+          temaId: recorte.temaId,
           legislaturaNumero: p.legislatura,
           periodoInicio: p.inicio,
           periodoFim: p.fim,
@@ -355,13 +420,15 @@ export async function calcularPosicoes(
         const [posicao] = consultar<{ id: number }>(
           `SELECT id FROM posicao
            WHERE politico_id = ? AND eixo_id = ? AND escopo = ?
-             AND legislatura_numero = ? AND periodo_inicio = ? AND periodo_fim = ?`,
+             AND legislatura_numero = ? AND periodo_inicio = ? AND periodo_fim = ?
+             AND tema_id IS ?`,
           politicoId,
           eixoId,
           escopo,
           p.legislatura,
           p.inicio,
           p.fim,
+          recorte.temaId,
         );
 
         const minhas = evidencias.filter((e) => e.politico_id === politicoId);
@@ -380,10 +447,44 @@ export async function calcularPosicoes(
         evidenciasGravadas += minhas.length;
       }
       // as evidências calculadas cobrem os 513; só as do recorte são gravadas
+      const onde = recorte.temaId === null ? escopo : `${escopo} · ${recorte.nome}`;
       log(
-        `  ${c.chave} [${escopo}]: ${gravadas} posições, ${evidenciasGravadas} evidências ` +
+        `  ${c.chave} [${onde}]: ${gravadas} posições, ${evidenciasGravadas} evidências ` +
           `(de ${evidencias.length} calculadas para toda a Câmara)`,
       );
     }
   }
+  }
+}
+
+/**
+ * Temas com votações de mérito suficientes para sustentar um eixo.
+ *
+ * O limiar é do **tema**, não do parlamentar: define quais recortes existem.
+ * Quantas observações cada parlamentar tem dentro do tema é outra coisa, fica
+ * gravada em `n_observacoes` e é exibida ao lado do valor — porque um tema
+ * pode ter 40 votações e um suplente ter votado em 3 delas.
+ *
+ * Dinâmico de propósito: à medida que o acervo cresce, tema novo cruza o
+ * limiar e passa a ter eixo, sem edição de código. Contagem só sobe, então
+ * nenhum recorte desaparece depois de existir.
+ */
+const LIMIAR_TEMA = 30;
+
+function temasElegiveis(consultar: Consultar, p: Periodo, limiar: number) {
+  return consultar<{ id: number; nome: string; n: number }>(
+    `SELECT t.id, t.nome, COUNT(DISTINCT v.id) AS n
+     FROM tema t
+     JOIN proposicao_tema pt ON pt.tema_id = t.id
+     JOIN votacao v ON v.proposicao_id = pt.proposicao_id
+                    AND v.nominal = 1 AND v.secreta = 0
+                    AND v.natureza = 'merito'
+                    AND v.data BETWEEN ? AND ?
+     GROUP BY t.id
+     HAVING n >= ?
+     ORDER BY n DESC`,
+    p.inicio,
+    p.fim,
+    limiar,
+  );
 }

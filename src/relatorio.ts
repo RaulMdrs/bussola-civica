@@ -205,6 +205,102 @@ console.log("\n═══ MÉRITO vs PROCEDIMENTAL — quem muda de lugar ══�
   }
 }
 
+/**
+ * Eixos por tema.
+ *
+ * O `n` vem antes do valor, e não como nota de rodapé: a decisão foi exibir
+ * todo tema elegível sem suprimir por amostra pequena, e nesse desenho o
+ * denominador é parte do número, não um adorno. Viação tem parlamentar com
+ * n = 3 — uma porcentagem sozinha ali seria precisão falsa.
+ */
+console.log("\n═══ EIXOS POR TEMA — alinhamento com o governo, no mérito ═══\n");
+{
+  const linhas = all<{
+    tema: string;
+    deps: number;
+    media: number;
+    menor: number;
+    maior: number;
+    nmin: number;
+    nmax: number;
+    fracos: number;
+  }>(`
+    SELECT t.nome tema, COUNT(*) deps, AVG(po.valor) media,
+           MIN(po.valor) menor, MAX(po.valor) maior,
+           MIN(po.n_observacoes) nmin, MAX(po.n_observacoes) nmax,
+           SUM(CASE WHEN po.n_observacoes < 20 THEN 1 ELSE 0 END) fracos
+    FROM posicao po
+    JOIN eixo e ON e.id = po.eixo_id AND e.chave = 'alinhamento_governo'
+    JOIN tema t ON t.id = po.tema_id
+    WHERE po.escopo = 'merito'
+      AND po.periodo_inicio = '${periodo?.ini ?? ""}'
+      AND po.periodo_fim = '${periodo?.fim ?? ""}'
+    GROUP BY t.id ORDER BY nmax DESC`);
+
+  if (!linhas.length) {
+    console.log("  (nenhum eixo temático calculado)");
+  } else {
+    console.log("  n por parlamentar   média   amplitude          tema");
+    for (const l of linhas) {
+      const alerta = l.fracos ? ` ⚠ ${l.fracos} com n<20` : "";
+      console.log(
+        `  ${String(l.nmin).padStart(4)}–${String(l.nmax).padEnd(4)}       ` +
+          `${(l.media * 100).toFixed(1).padStart(5)}%  ` +
+          `${(l.menor * 100).toFixed(0).padStart(3)}–${(l.maior * 100).toFixed(0).padEnd(3)}%   ` +
+          `${l.tema}${alerta}`,
+      );
+    }
+    console.log(
+      `\n  ${linhas.length} temas · n = votações do tema em que o parlamentar votou.\n` +
+        `  Onde n é baixo a porcentagem é frágil — 100% sobre 3 votações não é 100%.`,
+    );
+  }
+}
+
+console.log("\n═══ ONDE O PARLAMENTAR FOGE DA PRÓPRIA MÉDIA ═══\n");
+{
+  // O que o recorte temático acrescenta: não "quanto", mas "onde".
+  const linhas = all<{
+    nome: string;
+    sigla: string;
+    tema: string;
+    geral: number;
+    no_tema: number;
+    n: number;
+  }>(`
+    SELECT pl.nome_parlamentar nome, COALESCE(pt.sigla,'?') sigla, t.nome tema,
+           g.valor geral, po.valor no_tema, po.n_observacoes n
+    FROM posicao po
+    JOIN eixo e  ON e.id = po.eixo_id AND e.chave = 'alinhamento_governo'
+    JOIN tema t  ON t.id = po.tema_id
+    JOIN posicao g ON g.politico_id = po.politico_id AND g.eixo_id = po.eixo_id
+                   AND g.escopo = po.escopo AND g.tema_id IS NULL
+                   AND g.periodo_inicio = po.periodo_inicio
+                   AND g.periodo_fim = po.periodo_fim
+    JOIN politico pl ON pl.id = po.politico_id
+    LEFT JOIN filiacao f ON f.politico_id = pl.id AND f.data_fim IS NULL
+    LEFT JOIN partido pt ON pt.id = f.partido_id
+    WHERE po.escopo = 'merito'
+      AND po.n_observacoes >= 20      -- aqui o corte É necessário: comparar
+      AND po.periodo_inicio = '${periodo?.ini ?? ""}'
+      AND po.periodo_fim = '${periodo?.fim ?? ""}'
+    ORDER BY ABS(po.valor - g.valor) DESC LIMIT 10`);
+
+  for (const l of linhas) {
+    const d = (l.no_tema - l.geral) * 100;
+    console.log(
+      `  ${l.nome.slice(0, 26).padEnd(26)} (${l.sigla.padEnd(12)}) ` +
+        `geral ${(l.geral * 100).toFixed(0).padStart(3)}%  ` +
+        `${l.tema.slice(0, 32).padEnd(32)} ${(l.no_tema * 100).toFixed(0).padStart(3)}%  ` +
+        `${d > 0 ? "+" : ""}${d.toFixed(0)} pp  n=${l.n}`,
+    );
+  }
+  console.log(
+    `\n  Só pares com n >= 20. Aqui o corte é necessário: a lista é de maiores\n` +
+      `  desvios, e sem piso ela seria dominada por amostras de 3 votações.`,
+  );
+}
+
 function mostrarEixo(chave: string, escopo: string) {
   const linhas = all<{
     nome: string;
@@ -222,6 +318,7 @@ function mostrarEixo(chave: string, escopo: string) {
     LEFT JOIN filiacao f ON f.politico_id = p.id AND f.data_fim IS NULL
     LEFT JOIN partido pt ON pt.id = f.partido_id
     WHERE po.escopo = '${escopo}'
+      AND po.tema_id IS NULL          -- só o recorte geral; temáticos têm seção própria
       AND po.periodo_inicio = '${periodo?.ini ?? ""}'
       AND po.periodo_fim = '${periodo?.fim ?? ""}'
     ORDER BY po.valor DESC`);
