@@ -7,8 +7,8 @@ description: "Por que o schema tem a forma que tem, e o que ele bloqueia."
 
 # MODELO-DADOS.md — Fase 0
 
-Schema: [`src/db/schema.ts`](../src/db/schema.ts) (Drizzle + SQLite)
-Migrations: [`drizzle/`](../drizzle/) — 20 tabelas, 4 migrations
+Schema: [`src/db/schema.ts`](https://github.com/RaulMdrs/bussola-civica/blob/main/src/db/schema.ts) (Drizzle + SQLite)
+Migrations: [`drizzle/`](https://github.com/RaulMdrs/bussola-civica/tree/main/drizzle) — 20 tabelas, 4 migrations
 Validação: `npm run db:validar` — 57 verificações contra os casos de borda
 
 Referências (§x.y) apontam para [FONTES](./FONTES).
@@ -211,7 +211,7 @@ pauta mais do que o conteúdo.
 
 `votacao.natureza` (`merito` / `procedimental` / `formal`) é derivada da
 descrição oficial e do vínculo com a proposição — regra em
-[`src/lib/natureza.ts`](../src/lib/natureza.ts), versionada e revisável sem
+[`src/lib/natureza.ts`](https://github.com/RaulMdrs/bussola-civica/blob/main/src/lib/natureza.ts), versionada e revisável sem
 recoleta. `formal` (redação final) fica fora dos dois escopos: consolida texto
 já aprovado, não expressa posição.
 

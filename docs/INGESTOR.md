@@ -111,7 +111,7 @@ há nada novo a coletar — são derivação pura, e mudança de regra de
 classificação ou de metodologia de eixo precisa poder ser aplicada sem que a
 Câmara tenha publicado uma sessão nova.
 
-A decisão mora em [`src/ingest/horizonte.ts`](../src/ingest/horizonte.ts),
+A decisão mora em [`src/ingest/horizonte.ts`](https://github.com/RaulMdrs/bussola-civica/blob/main/src/ingest/horizonte.ts),
 separada da CLI por um motivo só: `incremental.ts` é um script, executa ao ser
 importado. Em módulo à parte, a lógica é verificável em `npm run db:validar` —
 10 casos, contra banco em memória, sem rede. Os casos foram conferidos por
@@ -316,7 +316,7 @@ conteúdo informativo (como a bancada orientou) **já está estruturado na tabel
 
 Mas filtrar fala de político é julgamento editorial, e o projeto proíbe
 julgamento próprio não rastreável. Então a regra
-([`src/lib/classificar.ts`](../src/lib/classificar.ts)) se sujeita a três
+([`src/lib/classificar.ts`](https://github.com/RaulMdrs/bussola-civica/blob/main/src/lib/classificar.ts)) se sujeita a três
 restrições:
 
 1. **Só campos oficiais** — `tipoDiscurso` da Câmara + padrão do sumário
