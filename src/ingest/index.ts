@@ -11,6 +11,7 @@
 import { abrirBanco } from "../db/client.ts";
 import { migrar } from "../db/migrar.ts";
 import { calcularPosicoes } from "../calc/posicoes.ts";
+import { ingerirTse } from "./tse.ts";
 import {
   ingerirDeputados,
   ingerirDiscursos,
@@ -28,6 +29,7 @@ const ETAPAS = [
   "proposicoes",
   "discursos",
   "reclassificar",
+  "tse",
   "posicoes",
 ] as const;
 type Etapa = (typeof ETAPAS)[number];
@@ -88,6 +90,7 @@ async function main() {
     if (etapas.includes("proposicoes")) await ingerirProposicoes(ctx);
     if (etapas.includes("discursos")) await ingerirDiscursos(ctx, inicio, fim);
     if (etapas.includes("reclassificar")) await reclassificarDiscursos(ctx);
+    if (etapas.includes("tse")) await ingerirTse(ctx);
     if (etapas.includes("posicoes")) {
       console.log("posições");
       await calcularPosicoes(db, consultar, { legislatura, inicio, fim }, (m) => console.log(m));

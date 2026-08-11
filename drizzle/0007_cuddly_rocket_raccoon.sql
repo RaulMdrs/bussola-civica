@@ -1,0 +1,1 @@
+ALTER TABLE `politico` DROP COLUMN `cpf`;

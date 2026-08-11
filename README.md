@@ -27,7 +27,7 @@ Backend funcional (coleta, modelo e cálculo). Web e app ainda não iniciados.
 
 - **Câmara dos Deputados** — [dadosabertos.camara.leg.br](https://dadosabertos.camara.leg.br)
 - **Senado Federal** — [legis.senado.leg.br/dadosabertos](https://legis.senado.leg.br/dadosabertos) *(Fase 1)*
-- **TSE** — [dadosabertos.tse.jus.br](https://dadosabertos.tse.jus.br) e DivulgaCandContas *(pendente)*
+- **TSE** — [dadosabertos.tse.jus.br](https://dadosabertos.tse.jus.br), via CSV de candidaturas
 
 Todas públicas, gratuitas e sem autenticação.
 
@@ -68,7 +68,7 @@ eixos.
 npm run db:validar
 ```
 
-54 verificações do modelo contra casos de borda reais.
+74 verificações do modelo contra casos de borda reais.
 
 ### Etapas isoladas
 
@@ -76,8 +76,12 @@ npm run db:validar
 npm run ingerir -- --etapas votacoes --inicio 2025-07-01 --fim 2025-12-31
 ```
 
-Etapas: `referencias`, `deputados`, `votacoes`, `discursos`, `reclassificar`,
-`posicoes`. Todas idempotentes.
+Etapas: `referencias`, `deputados`, `votacoes`, `proposicoes`, `discursos`,
+`reclassificar`, `tse`, `posicoes`. Todas idempotentes.
+
+A etapa `tse` cruza a bancada com as candidaturas de 2022 por CPF (31/31) e
+baixa um CSV de 4 MB. Não entra no `ingerir:incremental`: eleição é anual, não
+semanal.
 
 ## Os dois eixos
 
@@ -98,10 +102,19 @@ oficial — "por que este político está aqui?" é sempre respondível.
 
 ## Dados
 
-O banco **não é versionado**. Contém CPF de parlamentares, coletado da API
-oficial apenas como chave interna de reconciliação com o TSE, e nunca deve ser
-exposto pela API pública nem pelo front. Todo o acervo é reconstruível com
-`npm run ingerir`.
+O banco **não guarda CPF**. Ele é a única chave confiável de reconciliação entre
+Câmara e TSE, mas é chave de junção, não dado a exibir — então o que entra é o
+`HMAC-SHA256` do CPF, com segredo em `.env` (veja `.env.example`). A junção
+funciona igual, aplicando o mesmo HMAC aos dois lados.
+
+Hash sem segredo não serviria: CPF tem 11 dígitos, e 10¹¹ combinações se
+percorrem em segundos. Perder o segredo não perde dado — `npm run ingerir --
+--etapas deputados` traz os CPFs da origem e re-deriva tudo.
+
+O banco **não é versionado** mesmo assim: é artefato de build, 80 MB, e
+integralmente reconstruível com `npm run ingerir`. Não sincronize a pasta
+`data/` por Dropbox, OneDrive ou similar — SQLite com WAL corrompe em pasta de
+sincronização.
 
 ## Licença
 

@@ -25,9 +25,9 @@ import {
 import { ErroHttp, janelas, type OpcoesFetch } from "../lib/http.ts";
 import { CLASSIFICACAO_VERSAO, classificarDiscurso } from "../lib/classificar.ts";
 import { NATUREZA_VERSAO, classificarNatureza } from "../lib/natureza.ts";
+import { hmacCpf, segredoCpf } from "../lib/identidade.ts";
 import {
   hoje as dataDeHoje,
-  normalizarCpf,
   normalizarData,
   normalizarOrientacao,
   normalizarSigla,
@@ -288,7 +288,7 @@ export async function ingerirDeputados(ctx: Contexto) {
 
     const politicoId = await upsertPolitico(ctx.db, {
       idExterno: String(dep.id),
-      cpf: normalizarCpf(detalhe.cpf),
+      cpfHmac: hmacCpf(detalhe.cpf, segredoCpf()),
       nomeCivil: detalhe.nomeCivil,
       nomeParlamentar: dep.nome,
       dataNascimento: detalhe.dataNascimento,
@@ -378,7 +378,7 @@ async function upsertPolitico(
   db: Banco,
   v: {
     idExterno: string;
-    cpf?: string | null;
+    cpfHmac?: string | null;
     nomeCivil?: string | null;
     nomeParlamentar: string;
     dataNascimento?: string | null;
@@ -410,7 +410,7 @@ async function upsertPolitico(
         nomeParlamentar: v.nomeParlamentar,
         ...(v.perfilCompleto
           ? {
-              cpf: v.cpf ?? null,
+              cpfHmac: v.cpfHmac ?? null,
               nomeCivil: v.nomeCivil ?? null,
               dataNascimento: v.dataNascimento ?? null,
               dataFalecimento: v.dataFalecimento ?? null,
@@ -428,7 +428,7 @@ async function upsertPolitico(
   }
 
   await db.insert(s.politico).values({
-    cpf: v.cpf ?? null,
+    cpfHmac: v.cpfHmac ?? null,
     nomeCivil: v.nomeCivil ?? null,
     nomeParlamentar: v.nomeParlamentar,
     dataNascimento: v.dataNascimento ?? null,

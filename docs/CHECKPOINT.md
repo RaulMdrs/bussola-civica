@@ -13,7 +13,7 @@ Documentos detalhados: [FONTES.md](./FONTES.md) · [MODELO-DADOS.md](./MODELO-DA
 | # | Etapa | Entregável |
 |---|---|---|
 | 1 | Reconhecimento das APIs | `docs/FONTES.md` — 26 endpoints testados, request/response verificados |
-| 2 | Modelo de dados | `src/db/schema.ts` — 20 tabelas, 5 migrations, 54 verificações |
+| 2 | Modelo de dados | `src/db/schema.ts` — 20 tabelas, 7 migrations, 74 verificações |
 | 3 | Ingestor | `src/ingest/` + `src/lib/` — coleta idempotente com retry e auditoria |
 | 4 | Cálculo de posições | `src/calc/posicoes.ts` — 2 eixos com evidência rastreável |
 | 5 | Classificação de discursos | `src/lib/classificar.ts` — filtro de ruído protocolar |
@@ -21,6 +21,8 @@ Documentos detalhados: [FONTES.md](./FONTES.md) · [MODELO-DADOS.md](./MODELO-DA
 | 7 | Separação mérito/procedimental | `src/lib/natureza.ts` — eixos apurados em dois escopos |
 | 8 | Ampliação para a legislatura | 6.291 votações, 452 mil votos, 31/31 parlamentares posicionados |
 | 9 | Ingestão incremental | `src/ingest/incremental.ts` — retomada automática, sem informar data |
+| 10 | Eixos por tema | `posicao.tema_id` — 12 temas, mesma metodologia sobre universo menor |
+| 11 | Integração TSE | etapa `tse` — 546 candidaturas, 31/31 cruzadas por HMAC do CPF |
 
 Banco atual: **80 MB**, **legislatura 57 inteira**, coletada de 2023-02-01 a
 2026-08-08: 6.291 votações, 1.117 nominais, 452.356 votos.
@@ -86,7 +88,7 @@ estruturalmente:
 `npm run db:validar` monta um banco em memória com fixture que reproduz cada
 armadilha encontrada — suplente com exercício parcial, deputado que trocou de
 legenda, votação simbólica, obstrução, Artigo 17, votação secreta — e verifica
-que as queries respondem certo. **54 verificações.**
+que as queries respondem certo. **74 verificações.**
 
 Os sete casos de classificação de discurso são regressões: cada um quebrou uma
 versão anterior da regra.
@@ -409,8 +411,8 @@ Honestamente: o que está no schema mas **não é populado**, e o que não foi f
 | Item | Estado | Impacto |
 |---|---|---|
 | ~~`proposicao` / `proposicao_tema`~~ | ✅ **resolvido e conferido contra a origem** (§7.2) — 646 proposições, 1.116/1.117 nominais vinculadas, 1.110 com tema, zero divergências | Eixos temáticos da Fase 2 destravados |
-| `partido_alias` | **vazia** — schema existe, pipeline não popula | Sem efeito hoje (só Câmara); vira problema ao integrar TSE ("PC do B" vs "PCdoB") |
-| Integração TSE | **não implementada** — `identidade_externa` só tem fonte `camara` | Sem vínculo com candidatura, bens declarados, `SQ_CANDIDATO`. O método está validado (31/31 por CPF), falta codificar |
+| ~~`partido_alias`~~ | ✅ **populada** pela etapa `tse` | O caso previsto apareceu: "PC do B" (TSE) → "PCdoB" (Câmara), 1 alias |
+| ~~Integração TSE~~ | ✅ **implementada** — etapa `tse`, 546 candidaturas de 2022, 31/31 cruzadas | `identidade_externa` tem `SQ_CANDIDATO` por eleição. O CPF passou a ser guardado como HMAC (§8) |
 | Senado | **não integrado** | Escopo da Fase 1 |
 | ~~Período coletado~~ | ✅ **resolvido** — legislatura 57 varrida até 2026-08-08 | Restam as sessões até 2027-01-31, via `npm run ingerir:incremental` |
 | ~~Votação parcialmente escrita~~ | ✅ **resolvido** — transação em `ingerirVotacoes` (§8) | O invariante "nominal sem voto gravado" detecta o estado, caso volte a ocorrer |
@@ -432,22 +434,25 @@ primeiro grupo a reconsiderar.
 ## 10. Estado do código
 
 ```
-src/                                    4.711 linhas TypeScript
-  db/schema.ts        840   20 tabelas, comentadas com o achado que as motivou
+src/                                    5.644 linhas TypeScript
+  db/schema.ts        862   20 tabelas, comentadas com o achado que as motivou
   db/client.ts         72   node:sqlite via sqlite-proxy + consultar() tipado
   db/migrar.ts         59   aplica migrations, controla em _migrations
-  db/validar.ts       604   54 verificações contra casos de borda reais
+  db/validar.ts       762   74 verificações contra casos de borda reais
   db/integridade.ts    91   invariantes do acervo (usadas por validar e relatorio)
   lib/http.ts         148   retry, backoff, janelas de data
   lib/normalizar.ts   151   voto, CPF, sigla, data, hoje() em Brasília
   lib/classificar.ts  111   classificação de discurso
   lib/natureza.ts      69   mérito vs. procedimental
   ingest/camara.ts    271   cliente tipado da API (dataFim exclusivo)
+  ingest/tse.ts       275   candidaturas 2022 via CSV, cruzadas por HMAC
+  lib/zip.ts           83   leitor mínimo de ZIP, sem dependência
+  lib/identidade.ts    64   HMAC do CPF — por que hash puro não serve
   ingest/pipeline.ts 1024   6 etapas de ingestão; votação+votos em transação
   ingest/index.ts     110   CLI
   ingest/incremental.ts 153 CLI da retomada automática
   ingest/horizonte.ts 105   de onde continuar — testável, sem rede
-  calc/posicoes.ts    356   dois eixos + evidências
+  calc/posicoes.ts    490   dois eixos + evidências, com recorte por tema
   relatorio.ts        273   verificação do acervo + invariantes
 drizzle/                    5 migrations
 ```
@@ -542,18 +547,24 @@ zero divergências, zero órfãs.
 nominais têm tema (1.110 de 1.117). É a Fase 2 inteira esperando só por decisão
 de recorte: quais dos 32 temas viram eixo, e com que denominador.
 
-**4. Integrar TSE via CSV.** Método validado (31/31 por CPF), falta codificar.
-Popula `identidade_externa` e `partido_alias` — esta última existe no schema e
-nunca foi preenchida, e é o que evita "PC do B" ≠ "PCdoB" no cruzamento.
+**4. ~~Integrar TSE via CSV~~** — ✅ etapa `tse`. 546 candidaturas de 2022 no RS,
+**31/31 da bancada cruzadas**, reproduzindo o resultado do reconhecimento 14
+meses depois. `partido_alias` populada, e o caso previsto apareceu sozinho:
+"PC do B" (TSE) → "PCdoB" (Câmara).
 
-> **Decida o CPF junto com este item.** Hoje o CPF é guardado em claro como
-> chave de reconciliação, e é por isso que `data/` não é versionado nem
-> sincronizável. Trocar por `HMAC(cpf, segredo)` mantém o cruzamento
-> funcionando (aplica-se o mesmo HMAC ao CSV do TSE) e tira o identificador
-> pessoal do banco. Hash puro não serve: 11 dígitos são força bruta em
-> segundos, então precisa ser HMAC com segredo em `.env`. Faz sentido fazer
-> junto porque as duas coisas mexem na mesma junção — e separado custaria uma
-> migration a mais.
+O CPF foi junto, como planejado: `politico.cpf` virou `politico.cpf_hmac`. A
+junção aplica o mesmo HMAC aos dois lados e funciona idêntica; o banco deixou de
+conter identificador pessoal. Segredo em `.env` (`.env.example` versionado),
+carregado por `--env-file-if-exists`. Sem ele, as etapas que tocam CPF falham
+com mensagem que diz como gerar — nunca um default, que tornaria o HMAC
+reversível por qualquer pessoa com acesso ao código, que é público.
+
+> **A decisão dos 515.** Optou-se por gravar **todos** os candidatos a deputado
+> federal, não só os 31 eleitos. Os 515 restantes entram com
+> `perfil_completo = 0` — sem voto, sem discurso, sem posição. A flag é o que
+> impede a interface de oferecer perfil de quem só tem nome; se a camada web
+> ignorá-la, são 515 perfis vazios. É o risco que essa escolha carrega, e ele
+> vive na UI, não no acervo.
 
 ### Depois
 

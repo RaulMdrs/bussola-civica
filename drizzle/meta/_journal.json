@@ -43,6 +43,20 @@
       "when": 1786451853484,
       "tag": "0005_flowery_magus",
       "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1786453413342,
+      "tag": "0006_lucky_gideon",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1786453422855,
+      "tag": "0007_cuddly_rocket_raccoon",
+      "breakpoints": true
     }
   ]
 }

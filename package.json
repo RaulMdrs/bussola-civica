@@ -12,10 +12,10 @@
     "db:migrate": "drizzle-kit migrate",
     "db:studio": "drizzle-kit studio",
     "db:migrar": "node --experimental-strip-types src/db/migrar.ts",
-    "db:validar": "node --experimental-strip-types src/db/validar.ts",
-    "ingerir": "node --experimental-strip-types src/ingest/index.ts",
-    "ingerir:incremental": "node --experimental-strip-types src/ingest/incremental.ts",
-    "relatorio": "node --experimental-strip-types src/relatorio.ts",
+    "db:validar": "node --env-file-if-exists=.env --experimental-strip-types src/db/validar.ts",
+    "ingerir": "node --env-file-if-exists=.env --experimental-strip-types src/ingest/index.ts",
+    "ingerir:incremental": "node --env-file-if-exists=.env --experimental-strip-types src/ingest/incremental.ts",
+    "relatorio": "node --env-file-if-exists=.env --experimental-strip-types src/relatorio.ts",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {

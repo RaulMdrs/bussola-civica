@@ -38,9 +38,15 @@ export const FONTES = ["camara", "senado", "tse"] as const;
 /**
  * Pessoa. Estável através de trocas de partido, de casa e de mandato.
  *
- * `cpf` é a única chave confiável de reconciliação entre Câmara e TSE — validada
- * em 31/31 deputados do RS (§3.4). Nome não serve (nome parlamentar vs. nome de
- * urna), partido menos ainda (6 dos 31 trocaram de legenda desde a eleição).
+ * `cpf_hmac` é a chave de reconciliação entre Câmara e TSE — validada em 31/31
+ * deputados do RS (§3.4). Nome não serve (nome parlamentar vs. nome de urna),
+ * partido menos ainda (6 dos 31 trocaram de legenda desde a eleição).
+ *
+ * **Guarda o HMAC, não o CPF.** O número é chave de junção, nunca dado a
+ * exibir; em claro, ele fazia do acervo uma base de dados pessoais — não
+ * versionável, não sincronizável, e um vazamento de arquivo virava vazamento de
+ * CPF. Com o HMAC dos dois lados a junção é idêntica e o identificador some.
+ * Ver `src/lib/identidade.ts`, inclusive por que hash sem segredo não serviria.
  *
  * É NULLABLE de propósito. O eixo de coesão partidária compara o deputado com a
  * maioria **nacional** do seu partido (§1.6.1), o que obriga a registrar os votos
@@ -48,15 +54,13 @@ export const FONTES = ["camara", "senado", "tse"] as const;
  * Exigir CPF de todos custaria 513 requisições para sustentar 31 perfis. Quem
  * está no recorte tem cadastro completo; os demais existem como contraparte de
  * voto. Em SQLite, UNIQUE admite múltiplos NULL, então o índice segue válido.
- *
- * ATENÇÃO: o CPF é uso interno. É público na origem, mas não deve ser exposto
- * pela API nem pelo front (§1.1). Manter fora de qualquer serializer público.
  */
 export const politico = sqliteTable(
   "politico",
   {
     id: integer("id").primaryKey({ autoIncrement: true }),
-    cpf: text("cpf"), // 11 dígitos, com zeros à esquerda (§3.4)
+    /** HMAC-SHA256 do CPF normalizado a 11 dígitos. Nunca o CPF. */
+    cpfHmac: text("cpf_hmac"),
     nomeCivil: text("nome_civil"),
     nomeParlamentar: text("nome_parlamentar").notNull(),
     dataNascimento: text("data_nascimento"),
@@ -79,7 +83,7 @@ export const politico = sqliteTable(
     coletadoEm: text("coletado_em").notNull().default(agora),
   },
   (t) => [
-    uniqueIndex("politico_cpf_uq").on(t.cpf),
+    uniqueIndex("politico_cpf_uq").on(t.cpfHmac),
     index("politico_nome_idx").on(t.nomeParlamentar),
   ],
 );

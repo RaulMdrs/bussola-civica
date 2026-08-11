@@ -21,6 +21,8 @@ import { descobrirJanelas } from "../ingest/horizonte.ts";
 import { conferirIntegridade } from "./integridade.ts";
 import { abrirBanco, schema } from "./client.ts";
 import { METODOLOGIA_VERSAO, calcularPosicoes, urlDaVersao } from "../calc/posicoes.ts";
+import { candidatosDeputadoFederal, lerCsv } from "../ingest/tse.ts";
+import { hmacCpf } from "../lib/identidade.ts";
 
 const db = new DatabaseSync(":memory:");
 
@@ -51,10 +53,10 @@ INSERT INTO partido (id, sigla, nome) VALUES
 INSERT INTO partido (id, sigla, nome) VALUES (4,'PCdoB','Partido Comunista do Brasil');
 INSERT INTO partido_alias (partido_id, alias, fonte) VALUES (4,'PC do B','tse');
 
-INSERT INTO politico (id, cpf, nome_parlamentar, fonte_url) VALUES
-  (1,'00000000001','Titular Integral','https://exemplo/1'),
-  (2,'00000000002','Suplente Tardio','https://exemplo/2'),
-  (3,'00000000003','Trocou de Partido','https://exemplo/3');
+INSERT INTO politico (id, cpf_hmac, nome_parlamentar, fonte_url) VALUES
+  (1,'hmac-1','Titular Integral','https://exemplo/1'),
+  (2,'hmac-2','Suplente Tardio','https://exemplo/2'),
+  (3,'hmac-3','Trocou de Partido','https://exemplo/3');
 
 INSERT INTO mandato (id, politico_id, casa, legislatura_numero, uf, condicao_eleitoral, fonte_url) VALUES
   (1,1,'camara',57,'RS','titular','https://exemplo/m1'),
@@ -692,7 +694,66 @@ console.log("\nRecorte temático — matéria com dois temas não conta em dobro
   mem.sqlite.close();
 }
 
-const totalChecagens = 62;
+/**
+ * CSV do TSE — separador dentro de aspas.
+ *
+ * São 50 colunas de texto livre, incluindo nome e ocupação. Um `split(";")`
+ * desloca a linha inteira no primeiro campo com ponto e vírgula, e o CPF passa
+ * a ser lido de outra coluna — sem erro, sem exceção, só cruzamento vazio.
+ */
+console.log("\nCSV do TSE — o separador dentro de aspas não quebra a linha");
+{
+  const csv =
+    `"A";"B";"C"\n` +
+    `"1";"SILVA JUNIOR; MARIA";"3"\n` +
+    `"4";"aspas ""dentro"" do campo";"6"\n`;
+  const linhas = lerCsv(csv);
+  checar("3 linhas lidas", linhas.length, 3);
+  checar("campo com ; permanece inteiro", linhas[1]?.[1], "SILVA JUNIOR; MARIA");
+  checar("a coluna seguinte não desloca", linhas[1]?.[2], "3");
+  checar("aspas escapadas viram uma só", linhas[2]?.[1], 'aspas "dentro" do campo');
+}
+
+/**
+ * Situação de eleito.
+ *
+ * Filtrar por `/ELEITO/` captura "NÃO ELEITO" — são 178 dos 546 candidatos do
+ * RS. O erro daria 209 eleitos onde há 31, e ainda assim produziria vínculos
+ * plausíveis para todos eles.
+ */
+console.log("\nTSE — 'NÃO ELEITO' não é eleito");
+{
+  const cab = "DS_CARGO;SQ_CANDIDATO;NR_CPF_CANDIDATO;NM_URNA_CANDIDATO;NM_CANDIDATO;SG_PARTIDO;DS_SIT_TOT_TURNO";
+  const linha = (sit: string, cargo = "DEPUTADO FEDERAL") =>
+    `"${cargo}";"9";"12345678901";"URNA";"CIVIL";"PT";"${sit}"`;
+  const cands = candidatosDeputadoFederal(
+    [cab, linha("ELEITO POR QP"), linha("ELEITO POR MÉDIA"), linha("NÃO ELEITO"),
+     linha("SUPLENTE"), linha("ELEITO POR QP", "SENADOR")].join("\n"),
+  );
+  checar("só candidatos a deputado federal entram", cands.length, 4);
+  checar("eleitos são 2, não 3", cands.filter((c) => c.eleito).length, 2);
+  checar("'NÃO ELEITO' não é eleito", cands.find((c) => c.situacao === "NÃO ELEITO")?.eleito, false);
+}
+
+/**
+ * HMAC do CPF.
+ *
+ * O cruzamento só funciona se os dois lados produzirem o mesmo valor a partir
+ * do mesmo CPF — e as duas fontes entregam sem zeros à esquerda (§3.4), então
+ * a normalização tem de vir antes do HMAC.
+ */
+console.log("\nHMAC do CPF — a junção Câmara ↔ TSE depende disto");
+{
+  const segredo = "segredo-de-teste-com-tamanho-suficiente";
+  const comZeros = hmacCpf("01234567890", segredo);
+  checar("CPF sem zeros à esquerda dá o mesmo HMAC", hmacCpf("1234567890", segredo), comZeros);
+  checar("pontuação não altera", hmacCpf("012.345.678-90", segredo), comZeros);
+  checar("segredo diferente dá HMAC diferente", hmacCpf("01234567890", segredo + "x") !== comZeros, true);
+  checar("não parece um CPF", /^\d{11}$/.test(comZeros ?? ""), false);
+  checar("nulo continua nulo", hmacCpf(null, segredo), null);
+}
+
+const totalChecagens = 74;
 console.log(
   falhas === 0
     ? `\n✓ modelo validado: ${totalChecagens} verificações, 0 falhas\n`
