@@ -52,15 +52,21 @@ interface Periodo {
  * Sem isso a rastreabilidade quebraria na primeira mudança de regra.
  */
 const METODOLOGIA = {
-  VIVA: "https://github.com/RaulMdrs/bussola-civica/blob/main/docs/metodologia/index.md",
-  ARQUIVO: "https://github.com/RaulMdrs/bussola-civica/blob/main/docs/metodologia/versoes",
+  VIVA: "https://raulmdrs.github.io/bussola-civica/metodologia/",
+  ARQUIVO: "https://raulmdrs.github.io/bussola-civica/metodologia/versoes",
 } as const;
 
-/** Endereço do documento que explica um número já calculado. */
+/**
+ * Endereço do documento que explica um número já calculado.
+ *
+ * Versão arquivada mora num **diretório** (`versoes/2026-08-04.1/index.md`), não
+ * num arquivo solto. A URL sai com barra final e não depende de como o Jekyll
+ * resolve extensão em nome com ponto — e nome de versão é todo ponto.
+ */
 export function urlDaVersao(versao: string): string {
   return versao === METODOLOGIA_VERSAO
     ? METODOLOGIA.VIVA
-    : `${METODOLOGIA.ARQUIVO}/${versao}.md`;
+    : `${METODOLOGIA.ARQUIVO}/${versao}/`;
 }
 
 /**

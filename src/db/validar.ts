@@ -607,13 +607,15 @@ console.log("\nAtomicidade — Drizzle e conexão crua na mesma transação");
 console.log("\nMetodologia — a versão resolve para o documento que a descreve");
 {
   const viva = urlDaVersao(METODOLOGIA_VERSAO);
-  checar("versão vigente aponta para o documento vivo", viva.endsWith("/metodologia/index.md"), true);
+  checar("versão vigente aponta para o documento vivo", viva.endsWith("/metodologia/"), true);
   checar(
     "versão antiga aponta para o arquivo, com o nome da versão",
     urlDaVersao("2026-08-04.1"),
-    "https://github.com/RaulMdrs/bussola-civica/blob/main/docs/metodologia/versoes/2026-08-04.1.md",
+    "https://raulmdrs.github.io/bussola-civica/metodologia/versoes/2026-08-04.1/",
   );
   checar("a URL é absoluta", viva.startsWith("https://"), true);
+  // Nome de versão é todo ponto: a URL não pode depender de resolução de extensão.
+  checar("versão arquivada termina em barra, não em extensão", urlDaVersao("x").endsWith("/"), true);
 }
 
 const totalChecagens = 57;

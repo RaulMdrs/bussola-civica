@@ -47,8 +47,8 @@ npm run ingerir -- --inicio 2025-01-01 --fim 2025-06-30
 
 Cria `data/bussola.db` e coleta o período. Um semestre leva ~9 min (~700
 requisições contra uma API instável, com retry); a legislatura inteira
-(`--inicio 2023-02-01`) leva **~91 min** e produz um banco de ~80 MB com 6.281
-votações e 450 mil votos. Re-execuções usam cache.
+(`--inicio 2023-02-01`) leva **~91 min** e produz um banco de ~80 MB com 6.291
+votações e 452 mil votos. Re-execuções usam cache.
 
 ```bash
 npm run ingerir:incremental
@@ -82,8 +82,8 @@ Etapas: `referencias`, `deputados`, `votacoes`, `discursos`, `reclassificar`,
 ## Os dois eixos
 
 Ambos derivam de votação nominal; nenhum usa rótulo atribuído.
-**Metodologia completa: [docs/metodologia/](docs/metodologia/)** — documento
-vivo, com as versões superadas arquivadas.
+**Metodologia completa: <https://raulmdrs.github.io/bussola-civica/metodologia/>**
+— documento vivo, com as versões superadas arquivadas.
 
 **Alinhamento com o governo federal** — proporção de votos conforme a orientação
 da liderança do Governo. Mede posição relativa ao Executivo do momento, **não
@@ -93,8 +93,7 @@ ideologia**: um partido muda de lado sem mudar de programa.
 deputados da legenda, excluído o próprio voto da apuração. Mede comportamento:
 dois parlamentares de partidos opostos com 100% ocupam o mesmo ponto.
 
-Metodologia em [MODELO-DADOS.md](docs/MODELO-DADOS.md#os-dois-eixos). Cada
-posição é decomposta votação por votação em `posicao_evidencia`, com link
+Cada posição é decomposta votação por votação em `posicao_evidencia`, com link
 oficial — "por que este político está aqui?" é sempre respondível.
 
 ## Dados

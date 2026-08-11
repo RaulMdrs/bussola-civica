@@ -391,7 +391,7 @@ Honestamente: o que está no schema mas **não é populado**, e o que não foi f
 | ~~`posicao` acumula períodos~~ | ✅ **resolvido** — o `DELETE` supersede a série (§8) | O invariante "mesma série em dois períodos" detecta. Recortes com `periodo_inicio` diferente continuam coexistindo, que é o caso legítimo |
 | Camada web / API HTTP | **não iniciada** | Nada é servido ainda |
 | App mobile | **não iniciado** | Fase 3 |
-| ~~Metodologia pública dos eixos~~ | ✅ **escrita** — [docs/metodologia/](./metodologia/), documento vivo com arquivo de versões; `eixo.metodologia_url` aponta para URL absoluta | Falta só decidir a hospedagem (GitHub Pages ou rota da camada web). Hoje resolve pelo GitHub, que é público |
+| ~~Metodologia pública dos eixos~~ | ✅ **publicada** em <https://raulmdrs.github.io/bussola-civica/metodologia/> — documento vivo, versões superadas arquivadas | `eixo.metodologia_url` grava a URL absoluta; `urlDaVersao()` resolve qualquer versão. Requisito para exibir posição: cumprido |
 | Download de arquivos DivulgaCand | padrão de URL não resolvido (404) | Sem impacto no MVP |
 
 ### Ressalva sobre o filtro de discursos
@@ -496,10 +496,13 @@ resolve o endereço de qualquer versão a partir do `metodologia_versao` gravado
 em cada posição — sem isso a rastreabilidade quebraria na primeira mudança de
 regra.
 
-Resta **decidir a hospedagem**: hoje a URL aponta para o GitHub, que é público
-e funciona. GitHub Pages daria endereço de publicação de verdade; uma rota
-`/metodologia` da camada web casaria melhor com o item 5. Trocar é uma linha —
-a constante `METODOLOGIA` em `src/calc/posicoes.ts`.
+Publicada em **<https://raulmdrs.github.io/bussola-civica/metodologia/>** (GitHub
+Pages servindo `docs/`). O `CHECKPOINT` fica de fora do site por `_config.yml`:
+é registro interno de estado, não conteúdo público.
+
+Versão arquivada mora em **diretório** (`versoes/<versao>/index.md`), não em
+arquivo solto — nome de versão é todo ponto, e diretório com `index.md` publica
+numa URL com barra final sem depender de resolução de extensão.
 
 **2. Fechar as 96 proposições não explicadas (§7.1).** A recoleta trouxe 646
 proposições contra 741 da coleta anterior, e 96 dessas não têm causa
