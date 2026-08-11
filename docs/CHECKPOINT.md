@@ -391,7 +391,7 @@ Honestamente: o que está no schema mas **não é populado**, e o que não foi f
 | ~~`posicao` acumula períodos~~ | ✅ **resolvido** — o `DELETE` supersede a série (§8) | O invariante "mesma série em dois períodos" detecta. Recortes com `periodo_inicio` diferente continuam coexistindo, que é o caso legítimo |
 | Camada web / API HTTP | **não iniciada** | Nada é servido ainda |
 | App mobile | **não iniciado** | Fase 3 |
-| Metodologia pública dos eixos | documentada em `MODELO-DADOS.md`, **não publicada** | Requisito antes de exibir posições |
+| ~~Metodologia pública dos eixos~~ | ✅ **escrita** — [docs/metodologia/](./metodologia/), documento vivo com arquivo de versões; `eixo.metodologia_url` aponta para URL absoluta | Falta só decidir a hospedagem (GitHub Pages ou rota da camada web). Hoje resolve pelo GitHub, que é público |
 | Download de arquivos DivulgaCand | padrão de URL não resolvido (404) | Sem impacto no MVP |
 
 ### Ressalva sobre o filtro de discursos
@@ -488,12 +488,18 @@ passa a só re-derivar, o que continua sendo o comportamento certo.
 
 ### Bloqueiam exibição pública
 
-**1. Publicar a metodologia dos eixos.** É requisito declarado (§9), não
-formalidade: a plataforma exibe um número que posiciona um parlamentar, e o
-princípio do projeto exige que qualquer pessoa consiga refazer a conta. O texto
-já existe em `MODELO-DADOS.md` — falta ter URL estável e `eixo.metodologia_url`
-apontando para ela. **É o item mais barato da lista e o único que bloqueia a
-camada web.**
+**1. ~~Publicar a metodologia dos eixos~~** — ✅ escrita em
+[docs/metodologia/](./metodologia/), como **documento vivo** com arquivo de
+versões superadas em [versoes/](./metodologia/versoes/). `eixo.metodologia_url`
+passou de caminho relativo de repositório para URL absoluta, e `urlDaVersao()`
+resolve o endereço de qualquer versão a partir do `metodologia_versao` gravado
+em cada posição — sem isso a rastreabilidade quebraria na primeira mudança de
+regra.
+
+Resta **decidir a hospedagem**: hoje a URL aponta para o GitHub, que é público
+e funciona. GitHub Pages daria endereço de publicação de verdade; uma rota
+`/metodologia` da camada web casaria melhor com o item 5. Trocar é uma linha —
+a constante `METODOLOGIA` em `src/calc/posicoes.ts`.
 
 **2. Fechar as 96 proposições não explicadas (§7.1).** A recoleta trouxe 646
 proposições contra 741 da coleta anterior, e 96 dessas não têm causa

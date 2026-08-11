@@ -2,7 +2,7 @@
 
 Schema: [`src/db/schema.ts`](../src/db/schema.ts) (Drizzle + SQLite)
 Migrations: [`drizzle/`](../drizzle/) — 20 tabelas, 4 migrations
-Validação: `npm run db:validar` — 24 verificações contra os casos de borda
+Validação: `npm run db:validar` — 57 verificações contra os casos de borda
 
 Referências (§x.y) apontam para [FONTES.md](./FONTES.md).
 
@@ -173,12 +173,18 @@ deputado não votou" na interface.
 
 ## Os dois eixos
 
+> **A versão pública e autoritativa é [docs/metodologia/](./metodologia/).** É
+> ela que `eixo.metodologia_url` referencia, é ela que a interface exibe como
+> "como calculamos", e é ela que carrega os números atualizados e a política de
+> versionamento. O que segue aqui é a justificativa **de modelagem** — por que o
+> schema tem a forma que tem. Havendo divergência, vale o documento público.
+
 Ambos derivam de votação; nenhum usa rótulo atribuído. Ambos são apurados em
 **dois escopos separados**.
 
 ### Por que separar mérito de procedimental
 
-**86 das 154 votações nominais (56%) são sobre requerimentos** — urgência,
+**536 das 1.117 votações nominais (48%) são sobre requerimentos** — urgência,
 retirada de pauta, adiamento, encerramento de discussão. Votar a urgência de um
 projeto não é votar o projeto: mede disciplina de pauta e estratégia regimental,
 não concordância com o conteúdo.
@@ -188,9 +194,9 @@ nenhuma. Separados, revelam comportamento oposto em alguns parlamentares:
 
 | Parlamentar | Mérito | Procedimental |
 |---|---|---|
-| Any Ortiz (PP) | 28,0% | 6,1% |
-| Marcel van Hattem (NOVO) | 22,5% | 2,8% |
-| Franciane Bayer (REPUBLICANOS) | 56,0% | **72,2%** |
+| Marcel van Hattem (NOVO) | 27,8% | 12,5% |
+| Marcelo Moraes (PL) | 31,1% | 16,7% |
+| Franciane Bayer (REPUBLICANOS) | 57,7% | **64,1%** |
 
 A oposição concorda com o governo em matérias consensuais, mas diverge
 sistematicamente na disputa de pauta. Franciane Bayer faz o inverso: apoia a
@@ -253,7 +259,7 @@ WHERE vt.computavel = 1
 GROUP BY vt.politico_id;
 ```
 
-Medido no 2º tri/2025: 29/31 deputados, amplitude 32,4%–100% (§1.6.1).
+Amplitude atual no mérito: 31/31 parlamentares, de 51,0% a 99,2% (média 84,8%).
 
 **Rótulo obrigatório:** "coesão com o próprio partido". É medida de
 comportamento, não de ideologia — dois deputados com 100% em partidos opostos

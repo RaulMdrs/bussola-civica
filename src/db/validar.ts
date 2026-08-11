@@ -20,6 +20,7 @@ import { hoje } from "../lib/normalizar.ts";
 import { descobrirJanelas } from "../ingest/horizonte.ts";
 import { conferirIntegridade } from "./integridade.ts";
 import { abrirBanco, schema } from "./client.ts";
+import { METODOLOGIA_VERSAO, urlDaVersao } from "../calc/posicoes.ts";
 
 const db = new DatabaseSync(":memory:");
 
@@ -595,7 +596,27 @@ console.log("\nAtomicidade — Drizzle e conexão crua na mesma transação");
   mem.sqlite.close();
 }
 
-const totalChecagens = 54;
+/**
+ * A URL da metodologia resolve para o documento certo?
+ *
+ * `posicao.metodologia_versao` só serve se der para chegar ao texto que
+ * descreve aquela versão. Número calculado sob uma regra antiga apontando para
+ * a página viva seria pior que não ter link: afirmaria que foi calculado por um
+ * critério que não é o dele.
+ */
+console.log("\nMetodologia — a versão resolve para o documento que a descreve");
+{
+  const viva = urlDaVersao(METODOLOGIA_VERSAO);
+  checar("versão vigente aponta para o documento vivo", viva.endsWith("/metodologia/index.md"), true);
+  checar(
+    "versão antiga aponta para o arquivo, com o nome da versão",
+    urlDaVersao("2026-08-04.1"),
+    "https://github.com/RaulMdrs/bussola-civica/blob/main/docs/metodologia/versoes/2026-08-04.1.md",
+  );
+  checar("a URL é absoluta", viva.startsWith("https://"), true);
+}
+
+const totalChecagens = 57;
 console.log(
   falhas === 0
     ? `\n✓ modelo validado: ${totalChecagens} verificações, 0 falhas\n`

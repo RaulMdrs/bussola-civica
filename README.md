@@ -82,6 +82,8 @@ Etapas: `referencias`, `deputados`, `votacoes`, `discursos`, `reclassificar`,
 ## Os dois eixos
 
 Ambos derivam de votação nominal; nenhum usa rótulo atribuído.
+**Metodologia completa: [docs/metodologia/](docs/metodologia/)** — documento
+vivo, com as versões superadas arquivadas.
 
 **Alinhamento com o governo federal** — proporção de votos conforme a orientação
 da liderança do Governo. Mede posição relativa ao Executivo do momento, **não

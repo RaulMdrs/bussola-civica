@@ -38,6 +38,32 @@ interface Periodo {
 }
 
 /**
+ * Onde a metodologia está publicada.
+ *
+ * Precisa ser **absoluta**: o valor vai para `eixo.metodologia_url`, que a
+ * interface exibe como "como calculamos". Um caminho relativo de repositório
+ * (`docs/MODELO-DADOS.md#...`, como era antes) só resolve para quem tem o
+ * checkout — e a metodologia pública é requisito para exibir posição, não
+ * nota de rodapé.
+ *
+ * `VIVA` sempre descreve a versão em vigor. Números antigos apontam para o
+ * documento congelado da versão que os produziu: cada linha de `posicao` grava
+ * `metodologia_versao`, e `urlDaVersao()` resolve o endereço a partir dela.
+ * Sem isso a rastreabilidade quebraria na primeira mudança de regra.
+ */
+const METODOLOGIA = {
+  VIVA: "https://github.com/RaulMdrs/bussola-civica/blob/main/docs/metodologia/index.md",
+  ARQUIVO: "https://github.com/RaulMdrs/bussola-civica/blob/main/docs/metodologia/versoes",
+} as const;
+
+/** Endereço do documento que explica um número já calculado. */
+export function urlDaVersao(versao: string): string {
+  return versao === METODOLOGIA_VERSAO
+    ? METODOLOGIA.VIVA
+    : `${METODOLOGIA.ARQUIVO}/${versao}.md`;
+}
+
+/**
  * Definição dos eixos.
  *
  * Os rótulos vivem no dado, não no componente de UI. O risco deste projeto não
@@ -84,7 +110,7 @@ export async function garantirEixos(db: Banco): Promise<Map<string, number>> {
         rotuloMin: e.rotuloMin,
         rotuloMax: e.rotuloMax,
         metodologiaVersao: METODOLOGIA_VERSAO,
-        metodologiaUrl: "docs/MODELO-DADOS.md#os-dois-eixos",
+        metodologiaUrl: METODOLOGIA.VIVA,
       })
       .onConflictDoUpdate({
         target: s.eixo.chave,
@@ -92,6 +118,7 @@ export async function garantirEixos(db: Banco): Promise<Map<string, number>> {
           nomeExibicao: e.nomeExibicao,
           descricao: e.descricao,
           metodologiaVersao: METODOLOGIA_VERSAO,
+          metodologiaUrl: METODOLOGIA.VIVA,
         },
       });
   }
