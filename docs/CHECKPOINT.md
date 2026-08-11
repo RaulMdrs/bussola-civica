@@ -1,6 +1,6 @@
 # CHECKPOINT — Bússola Cívica
 
-**Data:** 2026-08-08 · **Fase:** 0 (deputados federais do RS)
+**Data:** 2026-08-11 · **Fase:** 0 (deputados federais do RS)
 **Estado:** backend funcional — reconhecimento, modelo, ingestor e cálculo de
 posições prontos e validados contra dados reais. Web e app ainda não iniciados.
 
@@ -148,7 +148,7 @@ Base: `https://dadosabertos.camara.leg.br/api/v2` · sem autenticação
 | `GET /referencias/proposicoes/codTema` | ✅ **usado** | 32 temas — base dos eixos da Fase 2 |
 | `GET /votacoes/{id}` | ✅ **usado** | Detalhe; única fonte de `proposicoesAfetadas` |
 | `GET /proposicoes/{id}` | ✅ **usado** | Resolve o objeto formalmente votado |
-| `GET /proposicoes/{id}/temas` | ✅ **usado** | 153 de 154 votações nominais têm tema |
+| `GET /proposicoes/{id}/temas` | ✅ **usado** | 1.110 de 1.117 votações nominais têm tema (99,4%) |
 | `GET /blocos?idLegislatura=57` | ✅ testado | Nomes completos dos blocos |
 | `GET /blocos/{id}/partidos` | ⚠️ | Responde 200 mas **retorna array vazio** |
 | `camara.leg.br/noticias/rss` | ⚠️ | HTML; feeds reais são **por tema**, não por político |
@@ -382,11 +382,11 @@ Honestamente: o que está no schema mas **não é populado**, e o que não foi f
 
 | Item | Estado | Impacto |
 |---|---|---|
-| ~~`proposicao` / `proposicao_tema`~~ | ✅ **resolvido** — 166 proposições, 154/154 nominais vinculadas, 153 com tema | Eixos temáticos da Fase 2 destravados |
+| ~~`proposicao` / `proposicao_tema`~~ | ✅ **resolvido** — 646 proposições, 1.116/1.117 nominais vinculadas, 1.110 com tema | Eixos temáticos da Fase 2 destravados |
 | `partido_alias` | **vazia** — schema existe, pipeline não popula | Sem efeito hoje (só Câmara); vira problema ao integrar TSE ("PC do B" vs "PCdoB") |
 | Integração TSE | **não implementada** — `identidade_externa` só tem fonte `camara` | Sem vínculo com candidatura, bens declarados, `SQ_CANDIDATO`. O método está validado (31/31 por CPF), falta codificar |
 | Senado | **não integrado** | Escopo da Fase 1 |
-| ~~Período coletado~~ | ✅ **resolvido** — legislatura 57 varrida até 2026-08-07 | Restam as sessões até 2027-01-31, via `npm run ingerir:incremental` |
+| ~~Período coletado~~ | ✅ **resolvido** — legislatura 57 varrida até 2026-08-08 | Restam as sessões até 2027-01-31, via `npm run ingerir:incremental` |
 | ~~Votação parcialmente escrita~~ | ✅ **resolvido** — transação em `ingerirVotacoes` (§8) | O invariante "nominal sem voto gravado" detecta o estado, caso volte a ocorrer |
 | ~~`posicao` acumula períodos~~ | ✅ **resolvido** — o `DELETE` supersede a série (§8) | O invariante "mesma série em dois períodos" detecta. Recortes com `periodo_inicio` diferente continuam coexistindo, que é o caso legítimo |
 | Camada web / API HTTP | **não iniciada** | Nada é servido ainda |
@@ -476,13 +476,68 @@ Custo por semestre: ~3 + 62 + (2 janelas + ~450 `/votos` + ~154 `/orientacoes`)
 
 ## 11. Próximos passos sugeridos
 
-1. ~~**Manter o acervo atualizado**~~ — ✅ automatizado em
-   `npm run ingerir:incremental`. Rodar periodicamente; votações passadas são
-   imutáveis e ficam em cache. A legislatura vai até 2027-01-31.
-2. **Integrar TSE via CSV** — método validado, falta implementar. Popular
-   `identidade_externa` e `partido_alias`.
-3. **Publicar a metodologia dos eixos** antes de qualquer exibição pública.
-4. **Eixos temáticos (Fase 2)** — agora possíveis: `proposicao_tema` está
-   populada e 99,4% das votações nominais têm tema.
-5. **Camada web (Next.js)** — perfis indexáveis; a visualização orbital pode
-   consumir `posicao` + `posicao_evidencia` diretamente.
+Em ordem sugerida. O critério é o que destrava o resto e o que impede o projeto
+de afirmar algo que não sustenta.
+
+### Rotina, não projeto
+
+**0. Rodar `npm run ingerir:incremental`.** Semanalmente basta — o plenário não
+vota todo dia, e votação passada é imutável. ~49 s quando não há nada novo.
+A legislatura vai até **2027-01-31**; depois disso o comando para de coletar e
+passa a só re-derivar, o que continua sendo o comportamento certo.
+
+### Bloqueiam exibição pública
+
+**1. Publicar a metodologia dos eixos.** É requisito declarado (§9), não
+formalidade: a plataforma exibe um número que posiciona um parlamentar, e o
+princípio do projeto exige que qualquer pessoa consiga refazer a conta. O texto
+já existe em `MODELO-DADOS.md` — falta ter URL estável e `eixo.metodologia_url`
+apontando para ela. **É o item mais barato da lista e o único que bloqueia a
+camada web.**
+
+**2. Fechar as 96 proposições não explicadas (§7.1).** A recoleta trouxe 646
+proposições contra 741 da coleta anterior, e 96 dessas não têm causa
+identificada. Enquanto não tiver, o acervo carrega uma diferença que não sei
+justificar — e "não sei" documentado é melhor que número redondo, mas pior que
+resposta. Caminho: comparar o conjunto de `proposicao` das duas coletas contra
+`proposicoesAfetadas` da origem, votação por votação.
+
+### Destravam a Fase 2
+
+**3. Eixos temáticos.** `proposicao_tema` está populada e **99,4%** das
+nominais têm tema (1.110 de 1.117). É a Fase 2 inteira esperando só por decisão
+de recorte: quais dos 32 temas viram eixo, e com que denominador.
+
+**4. Integrar TSE via CSV.** Método validado (31/31 por CPF), falta codificar.
+Popula `identidade_externa` e `partido_alias` — esta última existe no schema e
+nunca foi preenchida, e é o que evita "PC do B" ≠ "PCdoB" no cruzamento.
+
+> **Decida o CPF junto com este item.** Hoje o CPF é guardado em claro como
+> chave de reconciliação, e é por isso que `data/` não é versionado nem
+> sincronizável. Trocar por `HMAC(cpf, segredo)` mantém o cruzamento
+> funcionando (aplica-se o mesmo HMAC ao CSV do TSE) e tira o identificador
+> pessoal do banco. Hash puro não serve: 11 dígitos são força bruta em
+> segundos, então precisa ser HMAC com segredo em `.env`. Faz sentido fazer
+> junto porque as duas coisas mexem na mesma junção — e separado custaria uma
+> migration a mais.
+
+### Depois
+
+**5. Camada web (Next.js).** Perfis indexáveis; a visualização orbital consome
+`posicao` + `posicao_evidencia` direto. Depende do item 1. Ao consultar
+`posicao`, **filtrar por período** — o invariante de integridade protege contra
+séries duplicadas, mas recortes legítimos com `periodo_inicio` diferente
+coexistem por desenho.
+
+**6. Senado (Fase 1).** 67% das votações são secretas e o endpoint por senador
+foi depreciado, então exige normalizador próprio e base amostral menor. O mapa
+de endpoints está em §4.2.
+
+### Manutenção de fundo
+
+- **Segunda máquina (Windows).** `git clone` + `npm install` + reconstrução do
+  acervo (~91 min). O banco é artefato de build, não arquivo do projeto: não
+  sincronizar. SQLite em pasta de sync corrompe, e o CPF agrava.
+- **`esbuild <= 0.24.2`** nas `devDependencies`, via `drizzle-kit`: 4 avisos
+  moderados, só alcançáveis por quem roda `npm run db:studio`. A correção exige
+  subir o `drizzle-kit` de major.
