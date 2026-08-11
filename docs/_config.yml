@@ -1,0 +1,12 @@
+# GitHub Pages serve este diretório. Sem tema, o Jekyll entrega o markdown
+# convertido sem folha de estilo nenhuma — legível, mas não publicável.
+theme: jekyll-theme-primer
+
+title: Bússola Cívica
+description: >-
+  Como os números são calculados. Todo dado exibido deriva de fonte oficial
+  rastreável.
+
+# O acervo e o código não são conteúdo de site.
+exclude:
+  - CHECKPOINT.md
