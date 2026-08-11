@@ -26,8 +26,10 @@ Quando a metodologia muda:
    versão é todo ponto, e diretório com `index.md` publica numa URL com barra
    final, sem depender de como o gerador resolve extensão;
 2. acrescenta-se no topo um **aviso de versão superada**, com link para a
-   vigente e uma linha sobre o que mudou. **É a única alteração permitida** — o
-   corpo do documento fica congelado;
+   vigente, uma linha sobre o que mudou, e a ressalva de que os links do corpo
+   apontam para os caminhos de quando aquela página era o documento vivo — com
+   link para o arquivo e para a vigente, que é a navegação que o leitor precisa.
+   **É a única alteração permitida** — o corpo do documento fica congelado;
 3. a página viva passa a descrever a versão nova;
 4. a tabela de versões da página viva ganha uma linha, com o que mudou.
 
@@ -40,6 +42,12 @@ armadilha.
 > sobreviveu ao primeiro arquivamento real: uma página arquivada sem aviso é
 > indistinguível da vigente para quem chega de fora. A regra foi corrigida aqui,
 > na página viva — que é onde regra se corrige.
+>
+> A ressalva sobre links entrou depois, por outro motivo prático: arquivar move
+> o documento de endereço, e todo link relativo do corpo passa a apontar para o
+> lugar errado. Corrigi-los seria editar o corpo. Não corrigi-los, sem avisar,
+> deixaria o leitor clicando em nada. O aviso resolve os dois: o corpo continua
+> byte a byte como estava, e a navegação de que o leitor precisa está no topo.
 
 O endereço é derivado da versão gravada em cada posição, por `urlDaVersao()`
 em [`src/calc/posicoes.ts`](https://github.com/RaulMdrs/bussola-civica/blob/main/src/calc/posicoes.ts)

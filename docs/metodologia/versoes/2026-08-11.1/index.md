@@ -10,6 +10,10 @@ description: "Versão superada da metodologia dos eixos."
 > ⚠️ **Versão arquivada.** Esta é a `2026-08-11.1`, **superada** pela
 > [`2026-08-11.2`](../../). O que mudou depois: entrou o Senado Federal, com um
 > eixo só e escopo próprio. Os eixos da Câmara descritos abaixo não mudaram.
+>
+> O corpo abaixo está congelado, e seus links apontam para os caminhos de
+> quando esta página era o documento vivo — alguns não resolvem mais. O
+> [arquivo de versões](../) e a [versão vigente](../../) estão nestes dois.
 {: .superada}
 
 **Versão `2026-08-11.1`** · apurada sobre a legislatura 57

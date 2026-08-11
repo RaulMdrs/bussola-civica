@@ -12,6 +12,10 @@ description: "Versão superada da metodologia dos eixos."
 > calculados sob ela só são explicados por ela. O que mudou depois:
 > acrescentou-se o recorte por tema. Os dois eixos descritos abaixo não
 > mudaram — seus valores são idênticos nas duas versões.
+>
+> O corpo abaixo está congelado, e seus links apontam para os caminhos de
+> quando esta página era o documento vivo — alguns não resolvem mais. O
+> [arquivo de versões](../) e a [versão vigente](../../) estão nestes dois.
 {: .superada}
 
 **Versão `2026-08-04.2`** · apurada sobre a legislatura 57
