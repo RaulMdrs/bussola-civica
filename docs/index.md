@@ -9,6 +9,15 @@ Fase 0: deputados federais do Rio Grande do Sul, legislatura 57.
 
 ---
 
+## [Bancada gaúcha na Câmara →](./parlamentares/)
+
+Os **31 deputados federais do Rio Grande do Sul** na legislatura 57, cada um com
+seus dois eixos, os recortes por tema e amostra da evidência que sustenta cada
+número — com link para a votação na fonte oficial.
+
+Também por [tema](./temas/): 12 assuntos com votação suficiente para sustentar
+um recorte.
+
 ## [Metodologia dos eixos →](./metodologia/)
 
 **É por isso que este site existe.** A plataforma exibe números que posicionam

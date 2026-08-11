@@ -23,6 +23,9 @@ Backend funcional (coleta, modelo e cálculo). Web e app ainda não iniciados.
 | [MODELO-DADOS.md](docs/MODELO-DADOS.md) | Schema e as decisões que o motivaram |
 | [INGESTOR.md](docs/INGESTOR.md) | Coleta, normalização e classificação |
 
+**Site publicado:** <https://raulmdrs.github.io/bussola-civica/> — perfis dos 31
+parlamentares, recortes por tema e a metodologia.
+
 ## Fontes
 
 - **Câmara dos Deputados** — [dadosabertos.camara.leg.br](https://dadosabertos.camara.leg.br)
@@ -63,6 +66,14 @@ npm run relatorio
 
 Confere o acervo contra os números medidos no reconhecimento e imprime os dois
 eixos.
+
+```bash
+npm run site
+```
+
+Gera o site estático em `docs/` a partir do banco: 31 perfis, 12 temas e 2
+índices. Rode após cada `ingerir:incremental` — o diff mostra o que mudou nos
+números.
 
 ```bash
 npm run db:validar
