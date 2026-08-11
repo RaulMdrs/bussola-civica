@@ -97,6 +97,15 @@ O ingestor não é considerado correto por rodar sem erro. `npm run relatorio`
 compara o acervo com os números medidos independentemente na fase de
 reconhecimento. Tudo bate exatamente (§7).
 
+Divergência sem causa identificada não é arredondada nem racionalizada: fica
+escrita como "não explicado" até alguém explicar. Foi assim que as 96
+proposições saíram de nota solta para causa confirmada — a resposta estava no
+histórico do git, e só apareceu porque a pergunta ficou aberta e visível (§7.1).
+
+Onde o número pode ser conferido **contra a origem, item a item**, é o que se
+faz — não por amostra. O vínculo de proposição foi verificado nas 1.117
+votações nominais (§7.2).
+
 ### 3.5 Coleta resiliente
 
 A API da Câmara devolveu **504 intermitente** durante todo o trabalho. Métodos:
@@ -338,14 +347,31 @@ A reconstrução reproduziu **exatamente** tudo que é estrutural: 6.281 votaç�
 |---|---|---|---|
 | `posicao` | 240 | **124** | O banco antigo acumulava **dois períodos**: a legislatura (124 = 31×2×2) e o 1º sem/2025 (116 = 29×2×2). O novo tem só um. Ver §9 |
 | `posicao_evidencia` | 51.766 | **47.011** | Mesma causa — 4.755 eram do período do semestre |
-| `proposicao_tema` | 1.071 | **905** | Mesma causa — 166 eram do run do semestre |
-| `proposicao` | 741 | **645** | Mesma causa, parcialmente: 96 proposições sem correspondência no run da legislatura. **Não totalmente explicado** |
+| `proposicao_tema` | 1.071 | **906** | Mesma causa da linha abaixo: as 96 proposições extras carregavam seus temas |
+| `proposicao` | 741 | **646** | **Explicado e verificado** — até `03af5bf` a etapa `proposicoes` não filtrava por `nominal`: vinculava **todas** as votações. O filtro entrou em `1651be2`. As proposições das 296 simbólicas do 1º sem/2025 entraram sob a regra antiga e ficaram. Refazendo aquele cálculo sobre as mesmas simbólicas: **96 proposições** a mais (646 + 96 = 742, contra 741) |
 | `discurso` | 5.868 | **5.851** | Deduplicação por hash de conteúdo: transcrição republicada pela Câmara gera segundo registro na re-ingestão (custo assumido, INGESTOR.md). Coleta limpa não tem os 17 |
 | `voto` | 450.209 | **450.630** | +421 — a votação 2576389-4, única do acervo em que a origem devolve `tipoVoto` nulo para todos os 421 votantes. **Confirmado**: foi onde a coleta anterior quebrou, e a re-execução a pulou como "já coletada" (§8) |
 
 Nenhuma dessas diferenças altera eixo, escopo ou posição de parlamentar. O
 acervo novo é o menos ambíguo dos dois: um período só, sem resíduo de execução
 anterior.
+
+### 7.2 Vínculo de proposição — conferido contra a origem
+
+Não por amostra: **as 1.117 votações nominais**, uma a uma.
+
+| Verificação | Resultado |
+|---|---|
+| Matéria gravada = `proposicoesAfetadas[0]` da origem | **1.116** |
+| Sem `proposicoesAfetadas` na origem **e** sem vínculo no acervo | 1 |
+| Divergentes | **0** |
+| Objeto votado = prefixo do id da votação (conferível sem rede) | **1.117/1.117** |
+| Matérias distintas segundo a origem | 421 — as mesmas 421 do acervo |
+| Proposições órfãs (no acervo, sem votação que as referencie) | **0** |
+
+As 646 proposições são exatamente a união de 421 matérias e 517 objetos votados.
+Não há resíduo nem lacuna: o número não é "o que sobrou", é o conjunto fechado
+que a regra atual produz.
 
 ---
 
@@ -382,7 +408,7 @@ Honestamente: o que está no schema mas **não é populado**, e o que não foi f
 
 | Item | Estado | Impacto |
 |---|---|---|
-| ~~`proposicao` / `proposicao_tema`~~ | ✅ **resolvido** — 646 proposições, 1.116/1.117 nominais vinculadas, 1.110 com tema | Eixos temáticos da Fase 2 destravados |
+| ~~`proposicao` / `proposicao_tema`~~ | ✅ **resolvido e conferido contra a origem** (§7.2) — 646 proposições, 1.116/1.117 nominais vinculadas, 1.110 com tema, zero divergências | Eixos temáticos da Fase 2 destravados |
 | `partido_alias` | **vazia** — schema existe, pipeline não popula | Sem efeito hoje (só Câmara); vira problema ao integrar TSE ("PC do B" vs "PCdoB") |
 | Integração TSE | **não implementada** — `identidade_externa` só tem fonte `camara` | Sem vínculo com candidatura, bens declarados, `SQ_CANDIDATO`. O método está validado (31/31 por CPF), falta codificar |
 | Senado | **não integrado** | Escopo da Fase 1 |
@@ -504,12 +530,11 @@ Versão arquivada mora em **diretório** (`versoes/<versao>/index.md`), não em
 arquivo solto — nome de versão é todo ponto, e diretório com `index.md` publica
 numa URL com barra final sem depender de resolução de extensão.
 
-**2. Fechar as 96 proposições não explicadas (§7.1).** A recoleta trouxe 646
-proposições contra 741 da coleta anterior, e 96 dessas não têm causa
-identificada. Enquanto não tiver, o acervo carrega uma diferença que não sei
-justificar — e "não sei" documentado é melhor que número redondo, mas pior que
-resposta. Caminho: comparar o conjunto de `proposicao` das duas coletas contra
-`proposicoesAfetadas` da origem, votação por votação.
+**2. ~~Fechar as 96 proposições não explicadas~~** — ✅ explicado e verificado
+(§7.1, §7.2). Vieram da regra antiga de vínculo, que não filtrava por `nominal`;
+refazendo aquele cálculo sobre as mesmas simbólicas dão exatamente 96. E o
+vínculo atual foi conferido contra a origem nas **1.117** nominais, uma a uma:
+zero divergências, zero órfãs.
 
 ### Destravam a Fase 2
 
