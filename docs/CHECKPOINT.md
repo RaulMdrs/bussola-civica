@@ -1,12 +1,15 @@
 # CHECKPOINT — Bússola Cívica
 
 **Data:** 2026-08-11 · **Fase:** 0 concluída · Fase 1 (Senado) integrada
-**Estado:** backend e site no ar. Coleta, modelo, cálculo, metodologia pública e
-camada web funcionando e validados contra dados reais. App mobile não iniciado.
+**Estado:** backend e site no ar, com design próprio. Coleta, modelo, cálculo,
+metodologia pública e camada web funcionando e validados contra dados reais.
+App mobile não iniciado.
 
 Site: <https://raulmdrs.github.io/bussola-civica/>
 
 Documentos detalhados: [FONTES.md](./FONTES.md) · [MODELO-DADOS.md](./MODELO-DADOS.md) · [INGESTOR.md](./INGESTOR.md)
+(links com extensão de propósito: este arquivo é excluído do site e lido no
+repositório, onde é `FONTES.md` que existe — nas páginas publicadas é `/FONTES`)
 
 ---
 
@@ -27,6 +30,8 @@ Documentos detalhados: [FONTES.md](./FONTES.md) · [MODELO-DADOS.md](./MODELO-DA
 | 11 | Integração TSE | etapa `tse` — 546 candidaturas, 31/31 cruzadas por HMAC do CPF |
 | 12 | Camada web | `npm run site` — 31 perfis, 12 temas, estático no GitHub Pages |
 | 13 | Senado (Fase 1) | etapa `senado` — 353 votações, 3 senadores, **um eixo só** |
+| 14 | Design próprio | `docs/_layouts/` + `docs/assets/bussola.css` — sem tema de terceiro, sem JS, sem dependência (§6.3) |
+| 15 | Site inteiramente gerado | 50 páginas, incluindo a home: nenhum número do acervo é digitado |
 
 Banco atual: **80 MB**. Câmara: 6.291 votações (1.117 nominais), 452.356 votos.
 Senado: 353 votações (114 abertas), 28.593 votos. 34 parlamentares com perfil
@@ -267,6 +272,42 @@ substantivo. Regra em `src/lib/classificar.ts`, versão `2026-08-04.4`.
 | `orientacao_voto` | 97 | não — já estruturado em `orientacao` |
 | `registro_presenca` | 6 | não |
 
+### 6.3 Design do site
+
+O design foi produzido a partir de um briefing ([BRIEFING-DESIGN.md](https://github.com/RaulMdrs/bussola-civica/blob/main/BRIEFING-DESIGN.md))
+e entregue como CSS e layout de produção. Ele vive em
+`docs/_layouts/default.html` e `docs/assets/bussola.css`: folha única escrita à
+mão, sem build, sem JavaScript, sem CDN, clara e escura. O
+`jekyll-theme-primer` saiu.
+
+**O gerador continua emitindo Markdown.** As células levam HTML inline
+(`.valor`, `.n`, `.aviso-n`) e cada tabela declara sua classe pelo IAL do
+kramdown (`{: .t-indice}`). Isso preserva a propriedade que importa: o diff de
+cada rebuild mostra o que mudou nos números, e o site segue sendo registro
+auditável em vez de artefato opaco.
+
+As restrições abaixo **não são preferências estéticas** — são o princípio do
+projeto traduzido para a tela, e qualquer página nova precisa respeitá-las:
+
+| Restrição | Por quê |
+|---|---|
+| O `n` é conteúdo, nunca tooltip, cinza-claro ou fonte abaixo de 15px | 100% sobre 3 votações e 83% sobre 24 não são comparáveis. O `n` tem de ser lido antes de qualquer conclusão |
+| `n < 20` recebe etiqueta âmbar com borda, hachura na linha e, no celular, a linha inteira | O padrão da indústria é opacidade reduzida, que apaga o aviso exatamente quando ele mais importa |
+| Nenhuma cor ordena pessoas ou valores | Alinhamento de 27,8% não é pior que 97,5% — é diferente. A cor identifica **eixo**, num filete, nunca no texto |
+| Sem cores oficiais de partido | Reintroduziria a leitura ideológica pela porta dos fundos |
+| Sem pódio, medalha ou destaque de topo/base | A ordenação por valor é navegação, não julgamento |
+| Link de fonte sempre rotulado, alvo de 44px, nunca só em hover | No celular não existe hover |
+| Ausência de eixo é bloco tracejado, não buraco | No Senado o eixo 1 não existe, e isso é informação |
+
+Três defeitos do CSS recebido foram corrigidos antes de entrar, todos
+confirmados por medição no navegador: `<caption>` encolhendo para 75px em
+tabela que virou bloco; `td:last-child { padding-right: 0 }` vazando para os
+cartões do celular; e `--eixo-gov` a 0,02 de luminosidade e 5° de matiz do
+`--link`, o que fazia nome de eixo parecer clicável.
+
+**Verificado:** `scrollWidth == clientWidth == 360` — nenhuma coluna escondida,
+nenhum scroll horizontal, em qualquer largura ≥ 320px.
+
 ---
 
 ## 7. Números medidos — ingestor × reconhecimento
@@ -439,33 +480,54 @@ primeiro grupo a reconsiderar.
 ## 10. Estado do código
 
 ```
-src/                                    6.704 linhas TypeScript
-  db/schema.ts        862   20 tabelas, comentadas com o achado que as motivou
+src/                                    6.545 linhas TypeScript
+  db/schema.ts        872   20 tabelas, comentadas com o achado que as motivou
   db/client.ts         72   node:sqlite via sqlite-proxy + consultar() tipado
   db/migrar.ts         59   aplica migrations, controla em _migrations
-  db/validar.ts       762   74 verificações contra casos de borda reais
+  db/validar.ts       856   79 verificações contra casos de borda reais
   db/integridade.ts    91   invariantes do acervo (usadas por validar e relatorio)
   lib/http.ts         148   retry, backoff, janelas de data
   lib/normalizar.ts   151   voto, CPF, sigla, data, hoje() em Brasília
   lib/classificar.ts  111   classificação de discurso
   lib/natureza.ts      69   mérito vs. procedimental
-  ingest/camara.ts    271   cliente tipado da API (dataFim exclusivo)
-  ingest/tse.ts       275   candidaturas 2022 via CSV, cruzadas por HMAC
   lib/zip.ts           83   leitor mínimo de ZIP, sem dependência
   lib/identidade.ts    64   HMAC do CPF — por que hash puro não serve
-  ingest/pipeline.ts 1024   6 etapas de ingestão; votação+votos em transação
-  ingest/index.ts     110   CLI
+  ingest/camara.ts    271   cliente tipado da API (dataFim exclusivo)
+  ingest/senado.ts    379   cliente + ingestão; natureza fica NULL, por escolha
+  ingest/tse.ts       275   candidaturas 2022 via CSV, cruzadas por HMAC
+  ingest/pipeline.ts 1024   7 etapas de ingestão; votação+votos em transação
+  ingest/index.ts     125   CLI
   ingest/incremental.ts 153 CLI da retomada automática
   ingest/horizonte.ts 105   de onde continuar — testável, sem rede
-  calc/posicoes.ts    490   dois eixos + evidências, com recorte por tema
-  relatorio.ts        273   verificação do acervo + invariantes
-drizzle/                    5 migrations
+  calc/posicoes.ts    563   dois eixos + evidências, recorte por tema, regime por casa
+  site/gerar.ts       672   gerador do site — 50 páginas, nenhum número digitado
+  relatorio.ts        402   verificação do acervo + invariantes
+drizzle/                    8 migrations
+
+docs/                                     644 linhas de camada web
+  _layouts/default.html 56  cabeçalho, conteúdo, rodapé lido de _data/meta.yml
+  assets/bussola.css   588  folha única, à mão, clara e escura (§6.3)
 ```
 
 **Stack:** TypeScript (type-stripping nativo, sem build), Drizzle ORM,
 SQLite via `node:sqlite`. Node **22.6+** (declarado em `engines`, com
 `engine-strict=true`): abaixo disso não existe `--experimental-strip-types` e
 todo `npm run` falha com erro de sintaxe.
+
+**Uma dependência de runtime** (`drizzle-orm`), e o site não acrescentou
+nenhuma: sem Tailwind, sem Sass, sem CDN, sem JavaScript. A camada web é CSS
+escrito à mão sobre a saída do kramdown.
+
+### `_data/meta.yml` é gerado, não editado
+
+O rodapé de toda página traz período apurado e versão da metodologia, e os dois
+vêm de `docs/_data/meta.yml`, que `npm run site` escreve a partir do banco na
+mesma execução que escreve as páginas.
+
+Isso não é conveniência. Metadado de rodapé mantido à mão desvia em silêncio, e
+no dia em que desviasse o site afirmaria que os números foram calculados sob uma
+metodologia que não os produziu — que é exatamente a rastreabilidade que
+sustenta o princípio. O arquivo diz na primeira linha para não ser editado.
 
 ### Comandos
 
@@ -512,10 +574,11 @@ Custo por semestre: ~3 + 62 + (2 janelas + ~450 `/votos` + ~154 `/orientacoes`)
 
 ## 11. Próximos passos sugeridos
 
-**Os seis itens da lista anterior foram fechados** — manutenção incremental,
-metodologia publicada, as 96 proposições explicadas, eixos temáticos, TSE com
-HMAC do CPF, camada web e Senado. O que segue é outra lista, não a continuação
-daquela.
+Da lista anterior fecharam o design e a geração completa do site. Os três itens
+de retorno continuam abertos, na mesma ordem — e o primeiro ficou **mais
+barato**, não mais urgente: o CSS já provisiona `blockquote.evidencia`, `.n` e o
+padrão de blocos-registro, então as páginas de discurso e de evidência nascem no
+design sem folha nova.
 
 ### Rotina
 
@@ -541,6 +604,10 @@ Cuidado ao fazer: são 9,9 MB de transcrição. Perfil com 124 discursos precisa
 de recorte — os mais recentes, com link para o resto — e o filtro
 `relevante = 0` continua sendo classificação, não exclusão: a interface deve dar
 acesso ao acervo inteiro.
+
+O gerador já traz o padrão a seguir: `blocoEvidencia()` monta um registro com
+data, texto da fonte sem edição, e link rotulado. Discurso tem a mesma forma —
+data, sumário, transcrição, link para o Diário.
 
 **2. Decompor a evidência por inteiro.** O site mostra **amostra** de
 divergência e diz que é amostra. As 86.315 evidências existem no banco e não são
@@ -571,10 +638,24 @@ Consome `posicao` + `posicao_evidencia` direto e roda no cliente, sem servidor.
 Exige resolver a armadilha do eixo 2: dois parlamentares opostos com 100% de
 coesão ocupam o mesmo ponto, e a visualização precisa deixar isso óbvio.
 
+É também **o primeiro item que quebra uma propriedade atual**: o site hoje não
+tem uma linha de JavaScript, e uma órbita interativa tem. Não é impedimento — é
+uma decisão a tomar de olhos abertos, com um export JSON novo e a regra de que
+a página precisa continuar legível e conferível sem script.
+
 **5. App mobile** (Fase 3) e **estadual/municipal** (Fase 4).
 
 ### Dívidas pequenas
 
+- **Não existe Jekyll local.** O Ruby do sistema é 2.6 e a cadeia não instala
+  sem trabalho. Hoje a verificação da camada web é feita em duas partes:
+  `kramdown` isolado (Ruby puro, mesmo conversor do GitHub Pages) para conferir
+  que o IAL e o HTML inline sobrevivem, e varredura de links contra o site
+  **já publicado**. Funciona, mas descobre erro depois do deploy — foi assim que
+  apareceram os cinco links `../src/*.ts` quebrados.
+- **Três links mortos** no corpo das metodologias arquivadas, por decisão: o
+  corpo é congelado e o aviso do topo diz que os links são da época, com a
+  navegação que o leitor precisa. Ver a regra em `metodologia/versoes/`.
 - **`esbuild <= 0.24.2`** nas `devDependencies`, via `drizzle-kit`: 4 avisos
   moderados, alcançáveis só por quem roda `npm run db:studio`. A correção sobe o
   `drizzle-kit` de major.
@@ -585,3 +666,12 @@ coesão ocupam o mesmo ponto, e a visualização precisa deixar isso óbvio.
 - **Domínio próprio.** O site está em `raulmdrs.github.io`. Trocar é uma linha
   na constante `METODOLOGIA` mais o CNAME, mas invalida as URLs já gravadas em
   `eixo.metodologia_url` — recalcular `posicoes` resolve.
+
+### Uma observação para quem for mexer no Senado
+
+Os três senadores têm `n` de **104, 102 e 77**, sobre **114 oportunidades** — e
+essas 114 são as votações abertas de um total de **353**. São os `n` mais
+frágeis do site, e os únicos cujo denominador vem de uma casa que esconde 68%
+do que faz. Os números estão corretos e a página avisa em dois blocos — mas
+qualquer visualização que coloque senador e deputado no mesmo plano vai estar
+comparando universos que não se comparam.
