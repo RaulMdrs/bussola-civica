@@ -11,9 +11,10 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 
 <p class="anos">Outros anos: <a href="../2026/">2026</a> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <b>2023</b></p>
 
-> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto
-> integral de cada discurso está no Diário, pelo link — este site não o
-> reproduz, e nada aqui é resumo nosso.
+> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui
+> é resumo nosso. O texto integral não é reproduzido neste site: o link de
+> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à
+> **API** quando a origem não publicou o discurso no Diário.
 
 ## Substantivos — 94
 
@@ -22,7 +23,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
 <p>A Deputada orientou a bancada na votação em globo do Veto Parcial nº 23, de 2023, dispositivo 2, e do Veto Parcial nº 27, de 2023, dispositivos 21 a 24; apostos, respectivamente, ao Projeto de Lei Complementar nº 93, de 2023, do Regime Fiscal Sustentável, e ao Projeto de Lei nº 2.384, de 2023, do Processo Administrativo Fiscal.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=21%2F12%2F2023&amp;txPagina=88&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204407/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -31,7 +32,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
 <p>A Deputada orientou a bancada na votação em globo do Veto Parcial nº 23, de 2023 (dispositivo 23.23.01), e do Veto Parcial nº 27, de 2023 (dispositivos 27.23.01 a 27.23.06 e 27.23.08 a 27.23.20 e 27.23.25); apostos, respectivamente, ao Projeto de Lei Complementar nº 93, de 2023, do Regime Fiscal Sustentável, e ao Projeto de Lei nº 2.384, de 2023, do Processo Administrativo Fiscal.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=21%2F12%2F2023&amp;txPagina=83&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204407/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -40,7 +41,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>A Deputada discutiu o Veto Parcial nº 30, de 2023, aposto ao Projeto de Lei nº 490, de 2007, que dispõe sobre o reconhecimento, a demarcação, o uso e a gestão de terras indígenas; e o Veto Parcial nº 23, de 2023, aposto ao Projeto de Lei Complementar nº 93, de 2023, que institui regime fiscal sustentável para garantir a estabilidade macroeconômica do País e cria as condições adequadas ao crescimento socioeconômico. Criticou a possível aliança entre a extrema direita e o Centrão para derrubar vetos do Governo Lula relacionados ao marco temporal. Enfatizou a importância da mobilização popular para garantir a governabilidade e criticou a falta de atenção a pautas caras aos movimentos sociais populares na Câmara dos Deputados.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=21%2F12%2F2023&amp;txPagina=48&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204407/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -625,7 +626,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
 <p>Questão de ordem sobre a retirada das notas taquigráficas do pronunciamento de cunho golpista proferido pelo Deputado Eduardo Bolsonaro.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=27%2F4%2F2023&amp;txPagina=39&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204407/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 

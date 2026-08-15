@@ -352,7 +352,18 @@ já traz: não é recorte editorial, e ninguém precisa decidir o que fica de fo
 | Página por ano | 981 discursos num arquivo só dá 700 KB; ano é divisão da própria fonte |
 | Protocolares em seção própria, não escondidos | Classificar é separar, não excluir — a página inteira ficaria mentindo sobre isso |
 | Sem sumário → dizer que não há | 53 discursos não têm sumário na origem. Cortar transcrição para preencher seria resumo nosso |
-| `url_texto`, com `fonte_url` de reserva | 302 não têm link do Diário. Rótulos diferentes porque os destinos são diferentes |
+| `url_texto`, com `fonte_url` de reserva | 403 não têm link do Diário utilizável. Rótulos diferentes porque os destinos são diferentes |
+
+**O `url_texto` da coleção `J` não abre.** Descoberto clicando no primeiro link
+da primeira página publicada: o Diário responde "Documento não encontrado no
+Banco de Dados". Medido em seguida — **20 de 20** links com
+`selCodColecaoCsv=J` mortos; **30 de 30** da amostra geral (98% coleção `D`)
+vivos. São 101 dos 5.549 discursos com `url_texto`.
+
+O defeito é da origem, e não cabe a nós consertar o link dela. Cabe **não
+repassar como "texto integral no Diário" um endereço que sabidamente entrega
+página de erro** — esses 101 caem no mesmo tratamento dos 302 sem `url_texto`, e
+o site tem hoje 5.448 links para o Diário e 403 para a API.
 
 Uma consequência de nomenclatura: `n` passou a valer só para **base de
 percentual**. Contagem de discursos por ano é contagem, não base de nada, e sai

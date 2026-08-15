@@ -11,9 +11,10 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 
 <p class="anos">Outros anos: <a href="../2026/">2026</a> · <b>2025</b> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
-> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto
-> integral de cada discurso está no Diário, pelo link — este site não o
-> reproduz, e nada aqui é resumo nosso.
+> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui
+> é resumo nosso. O texto integral não é reproduzido neste site: o link de
+> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à
+> **API** quando a origem não publicou o discurso no Diário.
 
 ## Substantivos — 226
 
@@ -22,7 +23,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=20%2F12%2F2025&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -31,7 +32,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=20%2F12%2F2025&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -40,7 +41,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 <div class="corpo">
 <p class="tipo">OUTROS</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=20%2F12%2F2025&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -49,7 +50,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=20%2F12%2F2025&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -58,7 +59,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 <div class="corpo">
 <p class="tipo">OUTROS</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=20%2F12%2F2025&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -67,7 +68,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=20%2F12%2F2025&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -76,7 +77,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=20%2F12%2F2025&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -85,7 +86,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=20%2F12%2F2025&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -463,7 +464,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>O Deputado afirmou conhecimento do acordo para votação do Projeto de Lei do Congresso Nacional (PLN) nº 12, de 2025 e reiterou a posição contrária do NOVO ao projeto, enfatizando a necessidade de respeito à Constituição quanto à votação de PLNs após a análise de vetos. Declarou incerteza sobre o procedimento de inscrição para a discussão e solicitou urgência na criação de uma Comissão destinada à atualização do Regimento Comum, a fim de assegurar previsibilidade e segurança aos trabalhos. Ademais, informou o interesse em integrar essa Comissão e reforçou que as lacunas regimentais geravam dificuldades práticas.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=6%2F11%2F2025&amp;txPagina=17&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -472,7 +473,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
 <p>O Deputado encaminhou a votação do item 2 do adendo de Plenário, que altera o art. 69 da LDO de 2025, incluído no art. 1º do substitutivo do Projeto de Lei do Congresso Nacional n° 1, de 2025, que altera a Lei nº 15.080, de 30 de dezembro de 2024, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2025.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=6%2F11%2F2025&amp;txPagina=16&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -481,7 +482,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>O Deputado discutiu o Projeto de Lei do Congresso Nacional n° 1, de 2025, que altera a Lei nº 15.080, de 30 de dezembro de 2024, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2025.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=6%2F11%2F2025&amp;txPagina=14&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -490,7 +491,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 <div class="corpo">
 <p class="tipo">OUTROS</p>
 <p>O Deputado criticou o Governo Federal após a operação policial no Rio de Janeiro (RJ) que resultou na morte de quatro agentes. Afirmou que o Executivo foi informado sobre a ação e não enviou apoio da Polícia Federal, apontando falta de compromisso com a segurança pública. Também citou declarações do Presidente da República sobre drogas e mencionou tensões institucionais envolvendo decisões do STF e do TSE relacionadas ao Governador fluminense. Ainda pediu transparência no Congresso, defendendo o fim do sigilo sobre imagens internas, e relatou episódio pessoal para reforçar sua argumentação. Concluiu acusando o Governo de negligência no combate ao crime e cobrando medidas de proteção ao orçamento destinado à segurança.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=6%2F11%2F2025&amp;txPagina=12&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -949,7 +950,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 <div class="corpo">
 <p class="tipo">HOMENAGEM</p>
 <p>O Deputado discursou na sessão solene do Congresso Nacional destinada a comemorar os 90 anos do programa histórico A Voz do Brasil. Afirmou que o radiojornal, criado em 1935, teve origens autoritárias e foi historicamente usado como instrumento de propaganda estatal, desde o regime de Getúlio Vargas até os dias atuais. Declarou que, enquanto o Congresso tem utilizado o espaço de forma plural, o Poder Executivo e o Poder Judiciário estariam promovendo uso político do programa. Além disso, mencionou documentos sobre os eventos de 8 de Janeiro, que revelariam manipulação e perseguição política, e defendeu o impeachment do Ministro Alexandre de Moraes, a criação de uma CPI do Abuso de Autoridade, além da anistia aos envolvidos. Ao finalizar, expressou oposição ao atual Governo Federal e ao Supremo Tribunal Federal.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=7%2F8%2F2025&amp;txPagina=25&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1156,7 +1157,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>O Deputado discutiu o Projeto de Resolução do Congresso Nacional nº 3, de 2025, que altera disposições da Resolução nº 1, de 2006-CN, para aprimorar o rito de apresentação e de indicação de emendas parlamentares às leis orçamentárias. Além disso, destacou atacou a interferência do Supremo Tribunal Federal sobre decisões legislativas, apontando uma violação à democracia e às prerrogativas do Congresso. Relembrou o pedido de abertura de CPI para investigar abusos de autoridade do Judiciário, com apoio de mais de 170 deputados, e cobrou a instalação de CPMI para apurar desvios no INSS.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=19%2F6%2F2025&amp;txPagina=66&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1912,7 +1913,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>O Deputado discutiu o Projeto de Lei do Congresso Nacional (PLN) nº 26, de 2024, que estima a receita e fixa a despesa da União para o exercício financeiro de 2025 (Projeto da Lei Orçamentária Anual). Ademais, destacou a visita de uma mãe de um perseguido político brasileiro, que passou sete meses preso injustamente e agora se encontra exilado. Além disso, criticou o discurso do Presidente da Câmara dos Deputados, Hugo Motta, sobre a inexistência de exilados políticos no Brasil, ressaltando a realidade de famílias em sofrimento. Adicionalmente, reprovou a forma que o Orçamento está sendo discutido pelo Congresso Nacional, alegando que o Poder Legislativo se submete ao Supremo Tribunal Federal (STF) ao priorizar as emendas parlamentares. Defendeu ainda o impeachment dos Ministros do STF, que cometem abusos e descumprem a Constituição. Ao final, apelou por clemência para os perseguidos políticos do dia 8 de janeiro de 2023, enfatizando a responsabilidade do Congresso Nacional em interromper o sofrimento desses cidadãos.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=27%2F3%2F2025&amp;txPagina=17&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1948,7 +1949,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>O Deputado discutiu o Projeto de Resolução do Congresso Nacional (PRN) nº 1, de 2025, que altera disposições da Resolução n° 1, de 2006-CN, para adequar o rito de apresentação e indicação de emendas parlamentares. Além disso, criticou a relação entre o Congresso Nacional e o Supremo Tribunal Federal (STF), acusando a Corte de exercer um “hiperpoder” sobre os demais Poderes e chamando a atuação do Ministro Flávio Dino de “líder informal do Governo Lula” no STF. Afirmou que o PRN seria fruto de uma imposição do Supremo para subjugar o Parlamento. Lamentou ainda a falta de reação do Senado diante de abusos judiciais e cobrou o andamento de pedidos de impeachment de ministros do STF.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=20%2F3%2F2025&amp;txPagina=16&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 

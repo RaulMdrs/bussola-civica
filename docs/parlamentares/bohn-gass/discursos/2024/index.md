@@ -11,9 +11,10 @@ description: "Os discursos de Bohn Gass em 2024, com o sumário publicado pela C
 
 <p class="anos">Outros anos: <a href="../2026/">2026</a> · <a href="../2025/">2025</a> · <b>2024</b> · <a href="../2023/">2023</a></p>
 
-> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto
-> integral de cada discurso está no Diário, pelo link — este site não o
-> reproduz, e nada aqui é resumo nosso.
+> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui
+> é resumo nosso. O texto integral não é reproduzido neste site: o link de
+> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à
+> **API** quando a origem não publicou o discurso no Diário.
 
 ## Substantivos — 154
 
@@ -67,7 +68,7 @@ description: "Os discursos de Bohn Gass em 2024, com o sumário publicado pela C
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>O Deputado discutiu em globo os seguintes Projetos de lei do Congresso Nacional (PLNs): PLN nº 3, de 2024, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária, Lei de Diretrizes Orçamentárias (LDO) de 2025, e dá outras providências; PLN nº 14, de 2024, que abre ao Orçamento de Investimento da União, em favor da empresa Petrobras Netherlands B.V. – PNBV, crédito especial para inclusão de programações na Lei Orçamentária vigente; PLN nº 15, de 2024, que abre ao Orçamento Fiscal da União, em favor do Ministério do Desenvolvimento Agrário e Agricultura Familiar, crédito suplementar para reforço de dotações constantes da Lei Orçamentária vigente; PLN nº 16, de 2024, que abre ao Orçamento de Investimento da União, em favor da empresa Petrobras International Braspetro B.V. – PIBBV, da empresa Petrobras Biocombustível S.A. – PBIO e da Empresa Brasileira de Correios e Telégrafos, crédito suplementar para reforço de dotações constantes da Lei Orçamentária vigente; PLN nº 17, de 2024, que abre ao Orçamento Fiscal da União, em favor do Tribunal de Contas da União e das Justiças Federal e Eleitoral, crédito suplementar para reforço de dotações constantes da Lei Orçamentária vigente; PLN nº 18, de 2024, que abre ao Orçamento Fiscal da União, em favor da Justiça Federal, crédito especial para o fim que especifica; PLN nº 19, de 2024, que altera a Lei nº 14.822, de 2024, que estima a receita e fixa a despesa da União para o exercício financeiro de 2024; PLN nº 20, de 2024, que abre ao Orçamento Fiscal da União, em favor do Tribunal de Contas da União, crédito especial para o fim que especifica; PLN nº 27, de 2024, que abre ao Orçamento de Investimento da União, em favor da Companhia Docas do Rio Grande do Norte, crédito suplementar para reforço de dotações constantes da Lei Orçamentária vigente; PLN nº 28, de 2024, que altera a Lei nº 14.802, de 2024, que institui o Plano Plurianual da União para o período de 2024 a 2027; PLN nº 30, de 2024, que abre ao Orçamento de Investimento da União, em favor das empresas Araucária Nitrogenados S.A., Petrobras Biocombustível S.A. e Petróleo Brasileiro S.A., crédito especial para os fins que especifica; PLN nº 32, de 2024, que abre ao Orçamento Fiscal da União, em favor das Justiças Federal e Eleitoral, crédito suplementar para reforço de dotações constantes da Lei Orçamentária vigente; PLN nº 33, de 2024, que abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério Público da União, crédito suplementar para reforço de dotações constantes da Lei Orçamentária vigente; PLN nº 34, de 2024, que abre ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral, e do Trabalho, e do Conselho Nacional de Justiça, crédito especial para os fins que especifica; PLN nº 36, de 2024, que abre ao Orçamento Fiscal da União, em favor do Ministério de Portos e Aeroportos, crédito especial para o fim que especifica; PLN nº 37, de 2024, que abre ao Orçamento de Investimento da União, em favor do Banco da Amazônia S.A., da Eletrobras Termonuclear S.A., da Petrobras Biocombustível S.A., da Companhia Docas do Ceará, e da Empresa Brasileira de Infraestrutura Aeroportuária, crédito suplementar para reforço de dotações constantes da Lei Orçamentária vigente; PLN nº 38, de 2024, que abre ao Orçamento Fiscal da União, em favor dos Ministérios da Justiça e Segurança Pública, dos Transportes, e de Portos e Aeroportos, e de Operações Oficiais de Crédito, crédito especial para os fins que especifica; e PLN nº 39, de 2024, que altera a Lei nº 14.791, de 2023, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2024, propondo alteração da LDO de 2024 com o objetivo de aprimorar a redação do dispositivo que trata do valor do Fundo Especial de Assistência Financeira aos Partidos Políticos - Fundo Partidário. Na oportunidade, criticou a oposição por apontar desequilíbrio fiscal no Governo Lula enquanto gestões anteriores cortaram recursos essenciais em saúde e educação. Defendeu que o atual Governo busca responsabilidade fiscal aliada à social, destacando crescimento econômico, redução do desemprego e estímulo à indústria. Criticou o Congresso por aprovar desonerações que reduziram receitas e destacou a importância da LDO e dos demais PLNs para manter o desenvolvimento e a inclusão social. Finalizou desejando um Natal próspero ao povo brasileiro.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=19%2F12%2F2024&amp;txPagina=13&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -661,7 +662,7 @@ description: "Os discursos de Bohn Gass em 2024, com o sumário publicado pela C
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
 <p>O Deputado criticou aqueles que defendem a anistia para pessoas envolvidas nos atos antidemocráticos de 8 de janeiro em Brasília (DF), afirmando que tais atos violaram a Constituição e a democracia. Defendeu a necessidade de regulamentação das redes sociais para combater fake news e proteger a verdade. Além disso, exaltou o atual Governo, destacando o crescimento econômico sob a liderança do Presidente Lula, a geração de empregos formais, a elevação do salário mínimo, o Programa Acredita no Primeiro Passo, o apoio aos agricultores da Região Sul e as medidas voltadas à transição energética, à Política Nacional de Turismo e à educação, como o Programa Pé de Meia. Celebrou também o papel internacional do Brasil, com Lula liderando o Grupo dos Vinte (G20).</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=5%2F9%2F2024&amp;txPagina=24&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -670,7 +671,7 @@ description: "Os discursos de Bohn Gass em 2024, com o sumário publicado pela C
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>O Deputado discutiu o Projeto de Lei do Congresso Nacional nº 25, de 2024, que propõe a inclusão dos §§ 16 e 17 no art. 130 da LDO 2024, para dispor que as agências financeiras oficiais de fomento fiquem dispensadas de observar impedimentos e restrições legais para acesso ao crédito de pessoas físicas e jurídicas com residência, domicílio, sede ou estabelecimento nos municípios atingidos pela calamidade, nas operações de contratação, renovação ou renegociação, realizadas diretamente ou por meio de agentes financeiros, observado o disposto no § 3º do art. 195 da Constituição Federal.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=5%2F9%2F2024&amp;txPagina=11&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1093,7 +1094,7 @@ description: "Os discursos de Bohn Gass em 2024, com o sumário publicado pela C
 <div class="corpo">
 <p class="tipo">OUTROS</p>
 <p>O Deputado elogiou o Presidente do Congresso Nacional, Rodrigo Pacheco, por sua presença na comitiva do Presidente Lula em visita ao Rio Grande do Sul, agradecendo o compromisso com o povo gaúcho diante da catástrofe climática que atingiu o Estado. Além disso, repudiou a divulgação de notícias falsas (fake news) contra o Governo Federal e a ação de criminosos oportunistas que promovem assaltos, entre outros crimes, em detrimento da população já prejudicada pelas enchentes. Ademais, enfatizou a importância da aprovação de Projeto de Lei do Congresso Nacional para garantir de forma célere a alocação de recursos públicos para o Rio Grande do Sul. Adicionalmente, celebrou as medidas adotadas pelo Presidente Lula para favorecer o povo gaúcho que destinarão cerca de R$ 50 bilhões para a reconstrução do Estado. Por outro lado, criticou a taxa de juros elevada mantida pelo Banco Central do Brasil. Por último, anunciou que o Presidente Lula já está em tratativas com o Governador Eduardo Leite sobre a renegociação da dívida pública do Estado com a União.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=16%2F5%2F2024&amp;txPagina=76&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 

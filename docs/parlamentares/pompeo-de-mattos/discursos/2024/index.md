@@ -11,9 +11,10 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 
 <p class="anos">Outros anos: <a href="../2026/">2026</a> · <a href="../2025/">2025</a> · <b>2024</b> · <a href="../2023/">2023</a></p>
 
-> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto
-> integral de cada discurso está no Diário, pelo link — este site não o
-> reproduz, e nada aqui é resumo nosso.
+> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui
+> é resumo nosso. O texto integral não é reproduzido neste site: o link de
+> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à
+> **API** quando a origem não publicou o discurso no Diário.
 
 ## Substantivos — 141
 
@@ -58,7 +59,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
 <p>O Deputado encaminhou a votação do Projeto de lei do Congresso Nacional nº 3, de 2024, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2025, a Lei de Diretrizes Orçamentárias (LDO). Destacou a aprovação da LDO, mas alertou sobre a distribuição desigual dos recursos públicos. Criticou o fato de um terço do orçamento ser destinado ao pagamento de juros e refinanciamento da dívida pública, enquanto setores essenciais e a população mais vulnerável recebem menos atenção. Defendeu o fortalecimento de políticas para trabalhadores, agricultores e empreendedores, em vez de favorecer especuladores e banqueiros. Citou a tramitação do Projeto de Lei nº 4.614, de 2024, que altera a Lei da Política Agrícola, a Lei Orgânica da Assistência Social, a Lei do Programa Bolsa Família, estabelece disposições para políticas públicas, e dá outras providências, reforçando a importância de proteger o Benefício de Prestação Continuada (BPC) e promover uma distribuição mais justa dos recursos públicos. Finalizou desejando um feliz Natal e um ano de 2025 com coragem e resiliência, exaltando a força do povo gaúcho frente às adversidades.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=19%2F12%2F2024&amp;txPagina=39&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73486/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 

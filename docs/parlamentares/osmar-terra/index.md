@@ -132,7 +132,7 @@ orientação de bancada e registro de presença, que a classificação separa
 do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
 
 O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
-está no Diário, no link de cada discurso — este site não o reproduz.
+não é reproduzido aqui — o link de cada discurso leva à fonte que o publicou.
 
 ### Os 5 mais recentes
 

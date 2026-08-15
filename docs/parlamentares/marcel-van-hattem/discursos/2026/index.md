@@ -11,9 +11,10 @@ description: "Os discursos de Marcel van Hattem em 2026, com o sumário publicad
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
-> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto
-> integral de cada discurso está no Diário, pelo link — este site não o
-> reproduz, e nada aqui é resumo nosso.
+> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui
+> é resumo nosso. O texto integral não é reproduzido neste site: o link de
+> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à
+> **API** quando a origem não publicou o discurso no Diário.
 
 ## Substantivos — 70
 

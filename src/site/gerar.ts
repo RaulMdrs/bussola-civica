@@ -291,13 +291,27 @@ const ultimosDiscursos = (politicoId: number, limite: number) =>
 const dataHora = (s: string) => s.replace("T", " · ");
 
 /**
- * Link do discurso. Preferência pelo Diário, que traz o texto integral; 302 dos
- * 5.851 não têm `url_texto`, e nesses o endpoint que os entregou é a fonte. Os
+ * O `url_texto` da coleção `J` não abre.
+ *
+ * Medido contra a origem: **20 de 20** links com `selCodColecaoCsv=J` devolvem
+ * "Documento não encontrado no Banco de Dados"; numa amostra de 30 do acervo
+ * geral (98% coleção `D`), nenhum falhou. São 101 dos 5.549 discursos que têm
+ * `url_texto`.
+ *
+ * O defeito é da origem, e não cabe a nós consertar o link dela — cabe não
+ * repassar como "texto integral no Diário" um endereço que sabidamente entrega
+ * página de erro. Esses caem no mesmo tratamento dos 302 sem `url_texto`.
+ */
+const diarioAusente = (url: string) => url.includes("selCodColecaoCsv=J");
+
+/**
+ * Link do discurso. Preferência pelo Diário, que traz o texto integral; onde
+ * ele não existe ou não abre, o endpoint que entregou o discurso é a fonte. Os
  * rótulos são diferentes porque os destinos são diferentes — mandar o leitor
  * para JSON dizendo "Diário" seria mentira pequena, mas mentira.
  */
 function fonteDoDiscurso(d: Discurso): string {
-  return d.urlTexto
+  return d.urlTexto && !diarioAusente(d.urlTexto)
     ? `<a class="fonte" href="${esc(d.urlTexto)}">Ver no Diário da Câmara</a>`
     : `<a class="fonte" href="${esc(d.fonte)}">Ver na API da Câmara</a>`;
 }
@@ -459,7 +473,7 @@ function secaoDiscursos(p: Parlamentar): string {
   md += `do perfil e **não descarta**: estão nas páginas por ano, na íntegra.\n\n`;
 
   md += `O que aparece abaixo é o sumário publicado pela Câmara. O texto integral\n`;
-  md += `está no Diário, no link de cada discurso — este site não o reproduz.\n\n`;
+  md += `não é reproduzido aqui — o link de cada discurso leva à fonte que o publicou.\n\n`;
 
   const ultimos = ultimosDiscursos(p.id, 5);
   if (ultimos.length) {
@@ -507,9 +521,10 @@ function gerarDiscursosAno(p: Parlamentar, ano: string): string {
     md += `</p>\n\n`;
   }
 
-  md += `> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto\n`;
-  md += `> integral de cada discurso está no Diário, pelo link — este site não o\n`;
-  md += `> reproduz, e nada aqui é resumo nosso.\n\n`;
+  md += `> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui\n`;
+  md += `> é resumo nosso. O texto integral não é reproduzido neste site: o link de\n`;
+  md += `> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à\n`;
+  md += `> **API** quando a origem não publicou o discurso no Diário.\n\n`;
 
   md += `## Substantivos — ${substantivos.length}\n\n`;
   if (substantivos.length) {

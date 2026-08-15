@@ -11,9 +11,10 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário public
 
 <p class="anos">Outros anos: <a href="../2026/">2026</a> · <b>2025</b> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
-> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto
-> integral de cada discurso está no Diário, pelo link — este site não o
-> reproduz, e nada aqui é resumo nosso.
+> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui
+> é resumo nosso. O texto integral não é reproduzido neste site: o link de
+> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à
+> **API** quando a origem não publicou o discurso no Diário.
 
 ## Substantivos — 74
 
@@ -94,7 +95,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário public
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
 <p>A Deputada encaminhou a votação dos itens do Veto Parcial nº 29, de 2025, aposto ao Projeto de Lei nº 2.159, de 2021, que dispõe sobre o licenciamento ambiental. Na oportunidade, classificou a votação como &quot;um escândalo&quot; e relembrou crises climáticas e desastres ambientais no Rio Grande do Sul, Rio de Janeiro e Minas Gerais. Por fim, alertou que os acordos e interesses econômicos deixam seus rastros na história.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=28%2F11%2F2025&amp;txPagina=54&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204407/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -103,7 +104,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário public
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>A Deputada levantou Questão de Ordem com base no art. 106-D para contestar a forma como foi iniciada a votação dos destaques aos vetos oferecidos ao Projeto de Lei nº 2.159, de 2021, que dispõe sobre o licenciamento ambiental. Argumentou que o comando da Mesa reuniu em bloco diferentes destaques — cada um ligado a dispositivos distintos e com impactos específicos — e pediu que cada veto destacado fosse discutido e votado separadamente. Na oportunidade, citou o Veto nº 29, de 2025 e itens correlatos, e defendeu a análise individualizada, devido à relevância e diversidade dos pontos envolvidos no chamado “PL da devastação”.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=28%2F11%2F2025&amp;txPagina=52&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204407/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -112,7 +113,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário public
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
 <p>A Deputada registrou a contestação sobre a inclusão dos vetos ligados ao Projeto de Lei nº 2.159, de 2021, que dispõe sobre o licenciamento ambiental, regulamenta o inciso IV do § 1º do art. 225 da Constituição Federal, e dá outras providências. Citou dispositivos constitucionais e regimentais para defender que a pauta deveria permanecer suspensa até a análise de vetos anteriores, apontando descumprimento das regras. Afirmou que o projeto representou o maior retrocesso ambiental desde 1988, reforçando que os vetos do Presidente Lula tinham relevância e deveriam ser mantidos. Mencionou mobilizações sociais, impactos climáticos recentes e a necessidade de preservar biomas nacionais, criticando a maioria que buscava reverter medidas ambientais. Associou a proposta a riscos de competição entre estados e à flexibilização de padrões de proteção.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=28%2F11%2F2025&amp;txPagina=29&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204407/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 

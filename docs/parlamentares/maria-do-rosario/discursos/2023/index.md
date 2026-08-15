@@ -11,9 +11,10 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 
 <p class="anos">Outros anos: <a href="../2026/">2026</a> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <b>2023</b></p>
 
-> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto
-> integral de cada discurso está no Diário, pelo link — este site não o
-> reproduz, e nada aqui é resumo nosso.
+> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui
+> é resumo nosso. O texto integral não é reproduzido neste site: o link de
+> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à
+> **API** quando a origem não publicou o discurso no Diário.
 
 ## Substantivos — 106
 
@@ -310,7 +311,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 <div class="corpo">
 <p class="tipo">HOMENAGEM</p>
 <p>Em sessão solene destinada a comemorar os 35 anos da Constituição Federal de 1988, a Deputada Maria do Rosário, enalteceu o papel da Carta Magna na construção da democracia brasileira. Destacou a importância de valorizar as instituições democráticas e a participação popular. Enfatizou a necessidade de manter a Constituição viva e reconhecida por todos os brasileiros, especialmente aqueles que lutam por igualdade e justiça. Encerrou reafirmando o compromisso de sustentar a vitória da Constituição.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=12%2F10%2F2023&amp;txPagina=17&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 

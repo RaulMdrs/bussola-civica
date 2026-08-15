@@ -11,9 +11,10 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário publicado pela C
 
 <p class="anos">Outros anos: <a href="../2026/">2026</a> · <b>2025</b> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
-> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto
-> integral de cada discurso está no Diário, pelo link — este site não o
-> reproduz, e nada aqui é resumo nosso.
+> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui
+> é resumo nosso. O texto integral não é reproduzido neste site: o link de
+> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à
+> **API** quando a origem não publicou o discurso no Diário.
 
 ## Substantivos — 177
 
@@ -22,7 +23,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário publicado pela C
 <div class="corpo">
 <p class="tipo">OUTROS</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=20%2F12%2F2025&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -31,7 +32,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário publicado pela C
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=20%2F12%2F2025&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -40,7 +41,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário publicado pela C
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=20%2F12%2F2025&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -49,7 +50,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário publicado pela C
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=20%2F12%2F2025&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -229,7 +230,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário publicado pela C
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>O Deputado afirmou que a realização da COP 30 no Brasil reforçava a necessidade de compromisso com metas climáticas e com a alocação de recursos pelos países mais responsáveis pela poluição histórica. Destacou que justiça ambiental e justiça social eram interdependentes e defendeu políticas que mantivessem florestas em pé, com manejo sustentável e geração de renda. Criticou a flexibilização do licenciamento ambiental aprovada pelo Congresso, apontando riscos na redução de Estudos de Impacto Ambiental. Ao justificar os vetos do Presidente Lula ao Projeto de Lei nº 2.159, de 2021, que dispõe sobre o licenciamento ambiental, regulamenta o inciso IV do § 1º do art. 225 da Constituição Federal, e dá outras providências. Mencionou a importância do Conama, da proteção de comunidades originárias e da atuação de órgãos como Funai, ICMBio, Ibama e Iphan. Também alertou para a preservação da Mata Atlântica e defendeu a manutenção dos vetos.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=28%2F11%2F2025&amp;txPagina=37&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -238,7 +239,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário publicado pela C
 <div class="corpo">
 <p class="tipo">OUTROS</p>
 <p>O Deputado afirmou que a sanção do Projeto de Lei nº 1.087, de 2025, que altera a legislação do imposto sobre a renda para instituir a redução do imposto devido nas bases de cálculo mensal e anual e a tributação mínima para as pessoas físicas que auferem altas rendas, representou um compromisso do governo com trabalhadores. Destacou que a medida corrigiu a falta de atualização da tabela durante sete anos, período em que mais de 10 milhões de brasileiros passaram a pagar o tributo. Informou que a mudança ampliou a justiça tributária, injetou recursos na economia e beneficiou cerca de 20 milhões de pessoas, com entrada em vigor prevista para janeiro de 2026. Defendeu a manutenção dos vetos do Projeto de Lei nº 2.159, de 2021, que dispõe sobre o licenciamento ambiental, regulamenta o inciso IV do § 1º do art. 225 da Constituição Federal, citando crises climáticas recentes e a necessidade de estudos de impacto, além da atuação de órgãos como Conama, ICMBio, Ifam e Funai.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=28%2F11%2F2025&amp;txPagina=16&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1129,7 +1130,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário publicado pela C
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>O Deputado discutiu Projeto de Lei do Congresso Nacional nº 3, de 2025, que abre ao Orçamento Fiscal da União, em favor de Operações Oficiais de Crédito, crédito suplementar no valor de R$816.647.541 para reforço de dotações constantes da Lei Orçamentária vigente.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=19%2F6%2F2025&amp;txPagina=93&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1138,7 +1139,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário publicado pela C
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado afirmou que o Governo Lula recolocou o Brasil como referência internacional ao alcançar crescimento econômico superior a 3%, reduzir o desemprego e retomar a política industrial. Além disso, destacou que a atual gestão quitou cerca de R$100 bilhões em precatórios e compensou Municípios e Estados pelo calote do ICMS herdado do Governo anterior. Também defendeu a reforma tributária para corrigir a desigualdade que faz pobres pagarem mais impostos que ricos. Citou renúncias fiscais de R$800 bilhões concentradas em 10% dos beneficiários e supersalários de 42,5 mil servidores que ultrapassaram o teto constitucional, custo estimado em R$11 bilhões. Por fim, pediu aprovação de projeto que isentaria rendas até R$5 mil e aumentaria a taxação dos mais altos salários.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=19%2F6%2F2025&amp;txPagina=41&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 

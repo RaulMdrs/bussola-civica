@@ -11,9 +11,10 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário public
 
 <p class="anos">Outros anos: <a href="../2026/">2026</a> · <a href="../2025/">2025</a> · <b>2024</b> · <a href="../2023/">2023</a></p>
 
-> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto
-> integral de cada discurso está no Diário, pelo link — este site não o
-> reproduz, e nada aqui é resumo nosso.
+> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui
+> é resumo nosso. O texto integral não é reproduzido neste site: o link de
+> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à
+> **API** quando a origem não publicou o discurso no Diário.
 
 ## Substantivos — 46
 
@@ -265,7 +266,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário public
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
 <p>A Deputada orientou a bancada na votação dos dispositivos do Veto Parcial nº 1, de 2024, aposto ao Projeto de Lei do Congresso Nacional nº 4, de 2023, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2024 e dá outras providências.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=30%2F5%2F2024&amp;txPagina=93&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204407/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 

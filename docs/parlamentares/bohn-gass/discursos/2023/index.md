@@ -11,9 +11,10 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário publicado pela C
 
 <p class="anos">Outros anos: <a href="../2026/">2026</a> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <b>2023</b></p>
 
-> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto
-> integral de cada discurso está no Diário, pelo link — este site não o
-> reproduz, e nada aqui é resumo nosso.
+> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui
+> é resumo nosso. O texto integral não é reproduzido neste site: o link de
+> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à
+> **API** quando a origem não publicou o discurso no Diário.
 
 ## Substantivos — 101
 
@@ -31,7 +32,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário publicado pela C
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
 <p>O Deputado orientou a bancada na votação da Emenda nº 30880002 ao Projeto de Lei do Congresso Nacional nº 4, de 2023, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2024.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=21%2F12%2F2023&amp;txPagina=161&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -40,7 +41,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário publicado pela C
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>O Deputado discutiu o Projeto de Lei do Congresso Nacional nº 4, de 2023, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2024 (LDO). Expressou expectativa de crescimento econômico superior a 3%, destacando as melhorias na economia e o papel do Congresso na aprovação de medidas como a PEC da transição e a taxação sobre fundos exclusivos. Criticou a abordagem fiscalista que limita os gastos com o povo em prol dos rentistas, defendendo investimentos em programas sociais que impulsionem o crescimento, a geração de empregos e a reindustrialização do país.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=21%2F12%2F2023&amp;txPagina=121&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -85,7 +86,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário publicado pela C
 <div class="corpo">
 <p class="tipo">COMO RELATOR</p>
 <p>O Deputado, Relator do Projeto de Lei do Congresso Nacional nº 28, de 2023, discutiu o Plano Plurianual (PPA) para o período de 2024-2027, destacando sua importância como uma ferramenta de desenvolvimento e democratização do país. Ele mencionou a participação da sociedade na elaboração do PPA, que incluiu audiências públicas em todo o país, indicadores para avaliar seu cumprimento, além de emendas parlamentares. O Parlamentar enfatizou a importância de tirar o Brasil do Mapa da Fome e garantir dignidade à população. Esclareceu uma errata relacionada à retomada da industrialização de chips e semicondutores. Por fim, proferiu parecer pela aprovação de um destaque relacionado à expansão do Sarah na área da saúde.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=21%2F12%2F2023&amp;txPagina=93&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -94,7 +95,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário publicado pela C
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
 <p>O Deputado orientou a bancada na votação do Veto Total nº 38, de 2023, aposto ao Projeto de Lei nº 334, de 2023, que prorroga, por mais quatro anos, a desoneração da folha salarial.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=21%2F12%2F2023&amp;txPagina=66&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -103,7 +104,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário publicado pela C
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
 <p>O Deputado orientou a bancada na votação do Veto Total nº 38, de 2023, aposto ao Projeto de Lei nº 334, de 2023, que prorroga, por mais quatro anos, a desoneração da folha salarial.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=21%2F12%2F2023&amp;txPagina=65&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -112,7 +113,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário publicado pela C
 <div class="corpo">
 <p class="tipo">OUTROS</p>
 <p>O Deputado ressaltou melhorias econômicas no Brasil sob a gestão do Presidente Lula, citando redução da taxa de juros, queda do desemprego e crescimento econômico. Ele destacou medidas aprovadas pelo Congresso, como a PEC da Transição e a taxação dos super-ricos. No entanto, expressou preocupação com o aumento de emendas impositivas, defendeu a não imposição de travas ao Governo, especialmente relacionadas ao teto de gastos, e apoiou o veto do Presidente Lula à desoneração da folha, argumentando que os recursos devem ser direcionados para políticas públicas.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=21%2F12%2F2023&amp;txPagina=29&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -346,7 +347,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário publicado pela C
 <div class="corpo">
 <p class="tipo">OUTROS</p>
 <p>O Deputado elogiou o crescimento econômico do Brasil, destacando políticas públicas como a reforma tributária e programas sociais. Ressaltou a importância de votar medidas que taxem os mais ricos, mantendo o SUS, expandindo a educação e gerando empregos. Também argumentou que obstruir a agenda é prejudicar o País e elogiou a liderança do Senador Randolfe Rodrigues no Congresso Nacional.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=5%2F10%2F2023&amp;txPagina=72&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -778,7 +779,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário publicado pela C
 <div class="corpo">
 <p class="tipo">OUTROS</p>
 <p>Regozijo com a aprovação do Projeto de Lei do Congresso Nacional nº 5, de 2023, sobre abertura ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, de crédito especial no valor de R$ 7.300.000.000,00, para assistência financeira complementar aos Estados, ao Distrito Federal e aos Municípios para o pagamento do piso salarial nacional dos profissionais da enfermagem e da parteira. Reconstrução de políticas públicas pelo governo petista. Viagem do Presidente Luiz Inácio Lula da Silva ao exterior, em busca da captação de novos investimentos.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=27%2F4%2F2023&amp;txPagina=74&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 

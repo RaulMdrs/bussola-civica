@@ -11,9 +11,10 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário publicad
 
 <p class="anos">Outros anos: <a href="../2026/">2026</a> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <b>2023</b></p>
 
-> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto
-> integral de cada discurso está no Diário, pelo link — este site não o
-> reproduz, e nada aqui é resumo nosso.
+> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui
+> é resumo nosso. O texto integral não é reproduzido neste site: o link de
+> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à
+> **API** quando a origem não publicou o discurso no Diário.
 
 ## Substantivos — 307
 
@@ -22,7 +23,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário publicad
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
 <p>O Deputado enfatizou a resistência do seu Partido e de outros Parlamentares contrários ao uso de dinheiro público para financiar campanhas eleitorais. Ele destacou a importância de ouvir o povo e criticou o aumento do Fundo Eleitoral, afirmando ser inaceitável usar o dinheiro do povo brasileiro para financiar campanhas políticas. Elogiou a tentativa do Senador Rodrigo Pacheco de construir um acordo para reduzir o valor do fundo, mas criticou a falta de sensibilidade e a hipocrisia de alguns Líderes que defendem o aumento. O Parlamentar defendeu a admissibilidade do destaque, argumentando que o financiamento de campanhas deve ser feito por meio de doações voluntárias.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=28%2F12%2F2023&amp;txPagina=41&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -31,7 +32,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário publicad
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
 <p>O Deputado encaminhou a votação do requerimento de votação em globo dos Projetos de Lei do Congresso Nacional nºs 27, 29, 30, 31, 32, 33, 35, 36, 37, 38, 39 e 41, de 2023, ressalvada a admissibilidade do destaque relativo ao Fundo eleitoral.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=28%2F12%2F2023&amp;txPagina=35&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -40,7 +41,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário publicad
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>O Deputado lamentou a utilização do sistema de votação Infoleg nas votações do Plenário do Congresso Nacional. Criticou a condução do Deputado Arthur Lira no exercício da Presidência da Câmara dos Deputados, considerando-a antidemocrática e antirregimental.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=28%2F12%2F2023&amp;txPagina=17&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -418,7 +419,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário publicad
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
 <p>O Deputado orientou a bancada na votação em globo do Veto Parcial nº 23, de 2023, dispositivo 2, e do Veto Parcial nº 27, de 2023, dispositivos 21 a 24; apostos, respectivamente, ao Projeto de Lei Complementar nº 93, de 2023, do Regime Fiscal Sustentável, e ao Projeto de Lei nº 2.384, de 2023, do Processo Administrativo Fiscal.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=21%2F12%2F2023&amp;txPagina=89&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -427,7 +428,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário publicad
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
 <p>O Deputado orientou a bancada na votação dos&amp;nbsp;dispositivos 1 a 20, 23 a 40, 44, 46 e 47 do Veto nº 30, de 2023, parcial, aposto ao Projeto de Lei nº 490, de 2007, da Câmara dos Deputados (Projeto de Lei nº 2.903, de 2023, do Senado Federal), que dispõe sobre o reconhecimento, a demarcação, o uso e a gestão de terras indígenas.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=21%2F12%2F2023&amp;txPagina=73&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -436,7 +437,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário publicad
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
 <p>O Deputado orientou a bancada na votação do Veto Total nº 38, de 2023, aposto ao Projeto de Lei nº 334, de 2023, que prorroga, por mais quatro anos, a desoneração da folha salarial.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=21%2F12%2F2023&amp;txPagina=66&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -445,7 +446,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário publicad
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>O Deputado criticou a aprovação de Flávio Dino como Ministro do Supremo Tribunal Federal (STF), descrevendo-o como ideologicamente enviesado e envolvido em crimes de responsabilidade. Expressou preocupação com o suposto favorecimento a Flávio Dino durante a votação no Senado Federal e destacou a compra de votos e emendas. Elogiou o Senador Rodrigo Pacheco por iniciativas como a proposta que limita os mandatos dos ministros do STF, mas pediu mais ações para lidar com os abusos da corte. Também instou Rodrigo Pacheco a aliar-se ao governador de Minas Gerais Romeu Zema e a desvincular-se do Presidente da República. Concluiu pedindo a Rodrigo Pacheco que atue com mais vigor pela estabilidade institucional e recuperação da democracia.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=21%2F12%2F2023&amp;txPagina=40&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1039,7 +1040,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário publicad
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
 <p>O Deputado encaminhou a votação do requerimento para votação em globo dos Projetos de Lei do Congresso Nacional nºs 13, 15, 18, 19, 22, 24, 25 e 26 de 2023.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=5%2F10%2F2023&amp;txPagina=107&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1048,7 +1049,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário publicad
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>O Deputado criticou o acordo que movimentou mais de 1 bilhão de reais, desviados de Ministérios para a Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba (CODEVASF). Destacou a obstrução do NOVO, evidenciando a força da Oposição liderada pelo Deputado Carlos Jordy na Câmara dos Deputados. Lamentou a falta de respeito à Constituição, ressaltando que o Congresso Nacional não deve se curvar a abusos do Poder Judiciário, especialmente do Supremo Tribunal Federal. Denunciou a falta de organização nas sessões do Congresso Nacional.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=5%2F10%2F2023&amp;txPagina=90&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1057,7 +1058,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário publicad
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
 <p>O Deputado baseou sua questão de ordem no artigo 412 do Regimento Interno do Senado Federal, destacando o inciso III que trata da impossibilidade de prevalecer sobre norma regimental um acordo de lideranças ou decisão do plenário, a menos que seja unânime. Argumentou que o acordo em questão não foi unânime e que o NOVO está em obstrução devido a discordâncias quanto à sequência das votações e à constitucionalidade do acordo.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=5%2F10%2F2023&amp;txPagina=83&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1066,7 +1067,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário publicad
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
 <p>O Deputado solicitou que mais oradores tenham a oportunidade de falar antes de iniciar a Ordem do Dia, citando o artigo 31 do Regimento Comum.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=5%2F10%2F2023&amp;txPagina=79&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1075,7 +1076,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário publicad
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
 <p>O Deputado questionou a interpretação do presidente Marcos Pereira sobre a leitura da ata da sessão anterior, mencionando o Art. 80 do Regimento Interno, com o argumento de que a ata está incluída no expediente.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=5%2F10%2F2023&amp;txPagina=73&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -2173,7 +2174,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário publicad
 <div class="corpo">
 <p class="tipo">OUTROS</p>
 <p>Saudação ao Deputado André Fernandes pela apresentação do requerimento de instalação da CPMI destinada à investigação dos atos de vandalismo ocorridos nas sedes do Poderes da República no dia 8 de janeiro de 2023. Indicação do orador, pelo partido NOVO, para participação como membro da chamada CPMI do dia 8 de janeiro. Expectativa quanto aos resultados da investigação parlamentar sobre o caso. Perplexidade com a situação de manifestantes presos injustamente. Necessidade de garantia do devido processo legal a todos. Apelo à Presidência do Senado Federal de liberação de todas as imagens da depredação ocorrida no Congresso Nacional para a CPMI do dia 8 de janeiro. Necessidade de entrega das imagens da depredação do Supremo Tribunal Federal ao colegiado, para auxílio na identificação dos vândalos.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=27%2F4%2F2023&amp;txPagina=43&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 

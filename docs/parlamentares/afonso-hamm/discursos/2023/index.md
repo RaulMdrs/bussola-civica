@@ -11,9 +11,10 @@ description: "Os discursos de Afonso Hamm em 2023, com o sumário publicado pela
 
 <p class="anos">Outros anos: <a href="../2026/">2026</a> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <b>2023</b></p>
 
-> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto
-> integral de cada discurso está no Diário, pelo link — este site não o
-> reproduz, e nada aqui é resumo nosso.
+> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui
+> é resumo nosso. O texto integral não é reproduzido neste site: o link de
+> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à
+> **API** quando a origem não publicou o discurso no Diário.
 
 ## Substantivos — 41
 
@@ -22,7 +23,7 @@ description: "Os discursos de Afonso Hamm em 2023, com o sumário publicado pela
 <div class="corpo">
 <p class="tipo">OUTROS</p>
 <p>O Deputado destacou a importância da votação dos vetos no Congresso Nacional, enfatizando a capacidade do Parlamento de revisar as decisões do Poder Executivo. Ele comemorou a derrubada do veto que tratava da desoneração da folha de pagamento para 17 setores, o que impactará positivamente milhões de empregos. O Parlamentar também ressaltou a derrubada do veto relacionado ao marco temporal nas terras indígenas, argumentando que o setor agrícola necessita de segurança jurídica.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=21%2F12%2F2023&amp;txPagina=90&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/136811/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 

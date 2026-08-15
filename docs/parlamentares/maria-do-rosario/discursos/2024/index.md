@@ -11,9 +11,10 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 
 <p class="anos">Outros anos: <a href="../2026/">2026</a> · <a href="../2025/">2025</a> · <b>2024</b> · <a href="../2023/">2023</a></p>
 
-> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto
-> integral de cada discurso está no Diário, pelo link — este site não o
-> reproduz, e nada aqui é resumo nosso.
+> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui
+> é resumo nosso. O texto integral não é reproduzido neste site: o link de
+> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à
+> **API** quando a origem não publicou o discurso no Diário.
 
 ## Substantivos — 33
 
@@ -58,7 +59,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>A Deputada discutiu em globo os Projetos de Lei do Congresso Nacional (PLNs) nºs 3, 14 a 20, 27, 28, 30, 32 a 34 e 36 a 39, de 2024, relacionados ao orçamento e finanças públicas e à Lei de Diretrizes Orçamentárias (LDO) de 2025, abordando alterações no Orçamento Fiscal e de Investimento da União, com créditos suplementares e especiais para diferentes órgãos e empresas estatais, como Petróleo Brasileiro (Petrobras), Empresa Brasileira de Correios e Telégrafos (ECT) e Companhia Docas; reforços orçamentários para ministérios, tribunais e Justiça Federal; ajustes no Plano Plurianual (PPA) e no Fundo Partidário; e medidas para o fortalecimento de setores como desenvolvimento agrário, portos, aeroportos e segurança pública.&amp;nbsp;Na oportunidade, defendeu a manutenção das regras do Benefício de Prestação Continuada (BPC) e do salário mínimo, criticando ajustes fiscais que prejudicam os mais vulneráveis. Destacou o crescimento econômico atual e condenou setores do mercado e o Banco Central por medidas que desestabilizam a economia, como a alta de juros e especulações cambiais. Por fim, elogiou a prisão do ex-Ministro da Defesa Braga Netto como um avanço no combate a tentativas de golpe político, reafirmando a importância de proteger a democracia e promover o desenvolvimento nacional.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=19%2F12%2F2024&amp;txPagina=18&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 

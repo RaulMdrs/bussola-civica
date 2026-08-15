@@ -11,9 +11,10 @@ description: "Os discursos de Afonso Hamm em 2024, com o sumário publicado pela
 
 <p class="anos">Outros anos: <a href="../2026/">2026</a> · <a href="../2025/">2025</a> · <b>2024</b> · <a href="../2023/">2023</a></p>
 
-> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto
-> integral de cada discurso está no Diário, pelo link — este site não o
-> reproduz, e nada aqui é resumo nosso.
+> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui
+> é resumo nosso. O texto integral não é reproduzido neste site: o link de
+> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à
+> **API** quando a origem não publicou o discurso no Diário.
 
 ## Substantivos — 31
 
@@ -31,7 +32,7 @@ description: "Os discursos de Afonso Hamm em 2024, com o sumário publicado pela
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado ressaltou a importância da votação do Projeto de lei do Congresso Nacional nº 3, de 2024, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2025, a Lei de Diretrizes Orçamentárias (LDO) como instrumento para limitar gastos e promover uma gestão fiscal responsável. Além disso, criticou a alta inflação e o dólar elevado, cobrou eficiência do Governo na administração dos recursos e enfatizou que a aprovação da LDO é fundamental para orientar a Lei Orçamentária Anual (LOA) e garantir áreas essenciais como saúde e educação.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=19%2F12%2F2024&amp;txPagina=50&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/136811/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 

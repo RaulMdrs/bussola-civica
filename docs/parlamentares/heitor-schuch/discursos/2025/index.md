@@ -11,9 +11,10 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário publicado pe
 
 <p class="anos">Outros anos: <a href="../2026/">2026</a> · <b>2025</b> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
-> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto
-> integral de cada discurso está no Diário, pelo link — este site não o
-> reproduz, e nada aqui é resumo nosso.
+> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui
+> é resumo nosso. O texto integral não é reproduzido neste site: o link de
+> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à
+> **API** quando a origem não publicou o discurso no Diário.
 
 ## Substantivos — 25
 
@@ -112,7 +113,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário publicado pe
 <div class="corpo">
 <p class="tipo">HOMENAGEM</p>
 <p>O Deputado discursou na sessão solene do Congresso Nacional destinada a comemorar os 90 anos do programa histórico A Voz do Brasil. Destacou a longevidade e relevância do programa como canal de informação oficial sobre os Poderes da República. Ressaltou a credibilidade, a clareza e a abrangência de A Voz do Brasil, que alcança os lares brasileiros em todos os territórios. Compartilhou ainda um relato pessoal de 1990, no qual uma senhora rural confiou em uma informação ouvida no programa para reivindicar sua aposentadoria, evidenciando a confiança popular na comunicação pública. Encerrou com agradecimentos e reconhecimento aos profissionais que constroem diariamente o programa.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=7%2F8%2F2025&amp;txPagina=21&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178964/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 

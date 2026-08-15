@@ -11,9 +11,10 @@ description: "Os discursos de Pompeo de Mattos em 2023, com o sumário publicado
 
 <p class="anos">Outros anos: <a href="../2026/">2026</a> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <b>2023</b></p>
 
-> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto
-> integral de cada discurso está no Diário, pelo link — este site não o
-> reproduz, e nada aqui é resumo nosso.
+> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui
+> é resumo nosso. O texto integral não é reproduzido neste site: o link de
+> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à
+> **API** quando a origem não publicou o discurso no Diário.
 
 ## Substantivos — 248
 
@@ -40,7 +41,7 @@ description: "Os discursos de Pompeo de Mattos em 2023, com o sumário publicado
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado expressou seu apoio ao Projeto de Lei do Congresso Nacional nº 4, de 2023, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2024 (LDO), destacando a inclusão de ações efetivas na área da saúde infantil, o enfoque em energias renováveis para promover protagonismos inovadores, o combate à pobreza e o fortalecimento do empreendedorismo feminino.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=21%2F12%2F2023&amp;txPagina=143&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73486/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -58,7 +59,7 @@ description: "Os discursos de Pompeo de Mattos em 2023, com o sumário publicado
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>O Deputado discutiu os seguintes vetos: Veto Total nº 12, de 2023, aposto ao Projeto de Lei nº 8.254, de 2014, que concede pensão especial aos ex-integrantes do Batalhão Suez; Veto Parcial nº 19, de 2023, aposto ao Projeto de Lei nº 2.617, de 2023, que institui o Programa Escola em Tempo Integral; Veto Parcial nº 21, de 2023, aposto ao Projeto de Lei nº 6.494, de 2019, que dispõe sobre a acumulação do Benefício de Prestação Continuada (BPC) com a remuneração da aprendizagem, das bolsas de iniciação científica, monitoria e demais atividades de extensão e pesquisa e da Bolsa Atleta; Veto Total nº 22, de 2023, aposto ao Projeto de Lei nº 325, de 2015, que dispõe sobre o fornecimento de uniforme escolar na educação básica; e Veto Total nº 38, de 2023, aposto ao Projeto de Lei nº 334, de 2023, que prorroga, por mais quatro anos, a desoneração da folha salarial.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=21%2F12%2F2023&amp;txPagina=50&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73486/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -517,7 +518,7 @@ description: "Os discursos de Pompeo de Mattos em 2023, com o sumário publicado
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
 <p>O Deputado destacou a alocação de recursos em diferentes ministérios e a importância desses investimentos para setores cruciais, como saúde, educação e desenvolvimento regional de acordo com o Projeto de Lei do Congresso Nacional (PLN) nº 22, de 2023, &amp;nbsp;</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=5%2F10%2F2023&amp;txPagina=108&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73486/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1732,7 +1733,7 @@ description: "Os discursos de Pompeo de Mattos em 2023, com o sumário publicado
 <div class="corpo">
 <p class="tipo">OUTROS</p>
 <p>Acerto da rejeição do Veto Total nº 59, de 2022, aposto ao Projeto de Lei nº 5.307, de 2020, sobre a alteração da Lei nº 12.715, de 2012, para prorrogação da faculdade de dedução, do Imposto de Renda, dos valores correspondentes a doações e patrocínios em prol de ações e serviços do Programa Nacional de Apoio à Atenção Oncológica&amp;nbsp;- PRONON e do Programa Nacional de Apoio à Atenção da Saúde da Pessoa com Deficiência - PRONAS/PCD. Registro de voto do orador pela rejeição do Veto Parcial nº 43, de 2022, aposto ao Projeto de Lei nº 2.564, de 2020, sobre a alteração da Lei nº 7.498, de 1986, para instituição do piso salarial nacional dos profissionais da enfermagem e da parteira. Defesa da aprovação do Projeto de Lei do Congresso Nacional nº 5, de 2023, sobre abertura ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, de crédito especial no valor de R$ 7.300.000.000,00, para assistência financeira complementar aos Estados, ao Distrito Federal e aos Municípios para o pagamento do piso salarial nacional dos profissionais da enfermagem e da parteira.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=27%2F4%2F2023&amp;txPagina=49&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73486/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1741,7 +1742,7 @@ description: "Os discursos de Pompeo de Mattos em 2023, com o sumário publicado
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
 <p>Orientação de bancada na votação do Veto Parcial nº 61, de 2022, aposto ao Projeto de Lei de Conversão nº 28, de 2022, da Medida Provisória nº 1.132, de 2022, sobre o percentual máximo aplicado para a contratação de operações de crédito com desconto automático em folha de pagamento; a alteração da Lei nº 14.431, de&amp;nbsp;2022, e a revogação de dispositivos da Lei nº 8.112, de 1990.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=27%2F4%2F2023&amp;txPagina=46&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73486/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 

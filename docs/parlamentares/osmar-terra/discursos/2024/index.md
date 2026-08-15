@@ -11,9 +11,10 @@ description: "Os discursos de Osmar Terra em 2024, com o sumário publicado pela
 
 <p class="anos">Outros anos: <a href="../2026/">2026</a> · <a href="../2025/">2025</a> · <b>2024</b> · <a href="../2023/">2023</a></p>
 
-> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto
-> integral de cada discurso está no Diário, pelo link — este site não o
-> reproduz, e nada aqui é resumo nosso.
+> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui
+> é resumo nosso. O texto integral não é reproduzido neste site: o link de
+> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à
+> **API** quando a origem não publicou o discurso no Diário.
 
 ## Substantivos — 20
 
@@ -112,7 +113,7 @@ description: "Os discursos de Osmar Terra em 2024, com o sumário publicado pela
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado expressou sua oposição à lei que taxa as importações vindas da Ásia. Argumentou que a medida criaria uma disparidade entre a indústria nacional e a estrangeira, já que empresas locais enfrentam alta carga tributária enquanto concorrentes internacionais não pagam nada. Advertiu que, sem igualdade nas condições tributárias, a indústria brasileira enfrentará desemprego em massa no curto e médio prazo. Destacou a situação crítica das indústrias no Rio Grande do Sul e enfatizou a gravidade da decisão para o futuro da indústria e do comércio no Brasil.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=30%2F5%2F2024&amp;txPagina=86&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73692/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -121,7 +122,7 @@ description: "Os discursos de Osmar Terra em 2024, com o sumário publicado pela
 <div class="corpo">
 <p class="tipo">OUTROS</p>
 <p>O Deputado questionou se os votos já realizados seriam anulados devido ao adiamento da votação. Em seguida, fez um apelo aos Líderes Partidários para que considerassem a derrubada do Veto Parcial nº 1, de 2024,&amp;nbsp;ao Projeto de Lei do Congresso Nacional n° 4, de 2023, que afetaria o aeroporto de Santa Rosa (RS). Ressaltou a importância desse aeroporto para a infraestrutura do Estado, especialmente em um momento de catástrofe como o que estão enfrentando. Pediu aos Líderes, tanto da Câmara quanto do Senado, que considerassem a derrubada desse veto como uma forma de ajudar o Rio Grande do Sul a se recuperar e se prevenir de futuras catástrofes.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=16%2F5%2F2024&amp;txPagina=83&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73692/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 

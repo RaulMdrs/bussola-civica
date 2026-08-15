@@ -11,9 +11,10 @@ description: "Os discursos de Bibo Nunes em 2024, com o sumário publicado pela 
 
 <p class="anos">Outros anos: <a href="../2026/">2026</a> · <a href="../2025/">2025</a> · <b>2024</b> · <a href="../2023/">2023</a></p>
 
-> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto
-> integral de cada discurso está no Diário, pelo link — este site não o
-> reproduz, e nada aqui é resumo nosso.
+> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui
+> é resumo nosso. O texto integral não é reproduzido neste site: o link de
+> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à
+> **API** quando a origem não publicou o discurso no Diário.
 
 ## Substantivos — 202
 
@@ -103,7 +104,7 @@ description: "Os discursos de Bibo Nunes em 2024, com o sumário publicado pela 
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
 <p>O Deputado solicitou ao Presidente do Senado, Rodrigo Pacheco, apreciação da Proposta de Emenda à Constituição nº 44, de 2023, que altera o art. 166 da Constituição Federal e acrescenta o art. 138 no Ato das Disposições Constitucionais Transitórias, para destinar parte dos recursos das emendas individuais e de bancadas estaduais e do orçamento da União a ações de prevenção, mitigação, preparação, resposta e recuperação de desastres. Lembrou que a proposição foi aprovada por unanimidade na Câmara, destinando R$ 9 bilhões para tragédias, calamidades e prevenção. Destacou a importância da medida para ajudar em desastres futuros. Concluiu desejando um feliz Natal e próspero Ano Novo, enfatizando a importância de espalhar bondade.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=19%2F12%2F2024&amp;txPagina=37&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204388/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1039,7 +1040,7 @@ description: "Os discursos de Bibo Nunes em 2024, com o sumário publicado pela 
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
 <p>O Deputado orientou a bancada na votação do Veto Parcial nº 8, de 2024, aposto ao Projeto de Lei nº 2.253, de 2022, que dispõe sobre a monitoração eletrônica do preso, prevê a realização de exame criminológico para progressão de regime e extingue o benefício da saída temporária.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=30%2F5%2F2024&amp;txPagina=106&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204388/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1048,7 +1049,7 @@ description: "Os discursos de Bibo Nunes em 2024, com o sumário publicado pela 
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
 <p>O Deputado orientou a bancada na votação do Veto Parcial nº 1, de 2024, aposto ao Projeto de Lei do Congresso Nacional nº 4 de 2023, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2024.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=30%2F5%2F2024&amp;txPagina=88&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204388/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1057,7 +1058,7 @@ description: "Os discursos de Bibo Nunes em 2024, com o sumário publicado pela 
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
 <p>O Deputado orientou a bancada na votação do Veto Parcial nº 48, de 2023, aposto ao Projeto de Lei Complementar nº 116, de 2023, que altera a Lei Complementar nº 87, de 13 de setembro de 1996 (Lei Kandir), para vedar a incidência do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) nos casos de transferência de mercadoria entre estabelecimentos do mesmo contribuinte.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=30%2F5%2F2024&amp;txPagina=84&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204388/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1066,7 +1067,7 @@ description: "Os discursos de Bibo Nunes em 2024, com o sumário publicado pela 
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
 <p>O Deputado encaminhou a votação do Veto Parcial nº 48, de 2023, aposto ao Projeto de Lei Complementar nº 116, de 2023, que altera a Lei Complementar nº 87, de 13 de setembro de 1996 (Lei Kandir), para vedar a incidência do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) nos casos de transferência de mercadoria entre estabelecimentos do mesmo contribuinte. Destacou a gravidade da votação que beneficiaria indústrias estrangeiras em detrimento das nacionais. Criticou, ainda, a isenção de impostos para empresas chinesas, enquanto as brasileiras enfrentam dificuldades financeiras, afirmando que a medida impacta negativamente trabalhadores locais, majoritariamente mulheres, e fortalece a concorrência desleal. Por fim, enfatizou a falta de consciência empreendedora dos Parlamentares e defendeu a taxação justa para promover a justiça tributária e econômica no País.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=30%2F5%2F2024&amp;txPagina=81&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204388/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 

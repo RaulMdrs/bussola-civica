@@ -11,9 +11,10 @@ description: "Os discursos de Marcon em 2024, com o sumário publicado pela Câm
 
 <p class="anos">Outros anos: <a href="../2026/">2026</a> · <a href="../2025/">2025</a> · <b>2024</b> · <a href="../2023/">2023</a></p>
 
-> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto
-> integral de cada discurso está no Diário, pelo link — este site não o
-> reproduz, e nada aqui é resumo nosso.
+> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui
+> é resumo nosso. O texto integral não é reproduzido neste site: o link de
+> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à
+> **API** quando a origem não publicou o discurso no Diário.
 
 ## Substantivos — 95
 
@@ -490,7 +491,7 @@ description: "Os discursos de Marcon em 2024, com o sumário publicado pela Câm
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
 <p>O Deputado orientou a bancada na votação do Veto Parcial nº 8, de 2024, aposto ao Projeto de Lei nº 2.253, de 2022, que dispõe sobre a monitoração eletrônica do preso, prevê a realização de exame criminológico para progressão de regime e extingue o benefício da saída temporária.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=30%2F5%2F2024&amp;txPagina=108&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160535/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 

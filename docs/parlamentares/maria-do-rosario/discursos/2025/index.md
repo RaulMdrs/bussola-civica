@@ -11,9 +11,10 @@ description: "Os discursos de Maria do Rosário em 2025, com o sumário publicad
 
 <p class="anos">Outros anos: <a href="../2026/">2026</a> · <b>2025</b> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
-> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto
-> integral de cada discurso está no Diário, pelo link — este site não o
-> reproduz, e nada aqui é resumo nosso.
+> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui
+> é resumo nosso. O texto integral não é reproduzido neste site: o link de
+> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à
+> **API** quando a origem não publicou o discurso no Diário.
 
 ## Substantivos — 119
 
@@ -598,7 +599,7 @@ description: "Os discursos de Maria do Rosário em 2025, com o sumário publicad
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>A Deputada discutiu o Veto Total nº 2, de 2025, aposto ao Projeto de Lei nº 6.064, de 2023, que dispõe sobre o direito a indenização por dano moral e a concessão de pensão especial à pessoa com deficiência permanente decorrente de síndrome congênita associada à infecção pelo vírus Zika ou de Síndrome de Guillain-Barré causada pelo vírus Zika; e altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e as Leis nºs 8.742, de 7 de dezembro de 1993, e 8.213, de 24 de julho de 1991. Ademais, ressaltou que a decisão representou um ato de justiça às famílias atingidas e reafirmou que o cuidado com a infância é dever do Estado, da sociedade e das famílias. Destacou ainda a importância de políticas preventivas diante de epidemias. Adicionalmente, celebrou a derrubada do Veto Total nº 38, de 2024, aposto ao Projeto de Lei nº 8.949, de 2017, que altera o §4º do art. 43 e o art. 101 da Lei nº 8.213, de 24 de julho de 1991, para dispensar o segurado de avaliação periódica das condições que ensejaram o afastamento ou a aposentadoria, concedida judicial ou administrativamente, e o art. 21 da Lei nº 8.742, de 7 de dezembro de 1993, para dispensar o beneficiário do Benefício de Prestação Continuada - BPC da revisão da avaliação médico-pericial das condições que lhe deram origem. Criticou as isenções fiscais que beneficiam grandes fortunas e empresas, apontando a necessidade de justiça tributária para garantir os direitos sociais. Condenou tentativas de cortes em políticas como o Fundeb, o Bolsa Família e o Benefício de Prestação Continuada (BPC). Ao final, elogiou os avanços do Governo Lula na geração de empregos e no controle da inflação.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=19%2F6%2F2025&amp;txPagina=80&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -607,7 +608,7 @@ description: "Os discursos de Maria do Rosário em 2025, com o sumário publicad
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>A Deputada expressou pesar pela morte da Vereadora Elisane Rodrigues (PT), da cidade de Formigueiro (RS), encontrada morta em circunstâncias ainda não esclarecidas. Prestou solidariedade à família da Parlamentar, à população de Formigueiro e à Câmara Municipal, destacando a brutalidade do ocorrido e a necessidade de investigação rigorosa. Ao final, reforçou o papel da Comissão Externa contra o Feminicídio da Câmara dos Deputados na luta por medidas concretas para enfrentar essa realidade.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=19%2F6%2F2025&amp;txPagina=74&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 

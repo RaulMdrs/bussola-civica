@@ -11,9 +11,10 @@ description: "Os discursos de Marcel van Hattem em 2024, com o sumário publicad
 
 <p class="anos">Outros anos: <a href="../2026/">2026</a> · <a href="../2025/">2025</a> · <b>2024</b> · <a href="../2023/">2023</a></p>
 
-> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto
-> integral de cada discurso está no Diário, pelo link — este site não o
-> reproduz, e nada aqui é resumo nosso.
+> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui
+> é resumo nosso. O texto integral não é reproduzido neste site: o link de
+> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à
+> **API** quando a origem não publicou o discurso no Diário.
 
 ## Substantivos — 180
 
@@ -58,7 +59,7 @@ description: "Os discursos de Marcel van Hattem em 2024, com o sumário publicad
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
 <p>O Deputado criticou a gestão econômica do Governo Lula, destacando a alta do dólar e a irresponsabilidade fiscal. Acusou o Governo de repetir erros do passado, comparando a situação atual à recessão durante o Governo Dilma. Além disso, apontou a inconsistência de políticos da esquerda, e o prejuízo das estatais, como a Empresa Brasileira de Correios e Telégrafos (ECT).</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=19%2F12%2F2024&amp;txPagina=38&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -643,7 +644,7 @@ description: "Os discursos de Marcel van Hattem em 2024, com o sumário publicad
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado solicitou ao Presidente da Sessão, Senador Paulo Paim, que pautasse dois requerimentos enviados à Comissão de Direitos Humanos do Senado, um de junho de 2024 e outro de novembro de 2023, relacionados a violações ao devido processo legal e à situação dos presos do 8 de janeiro, data dos atos antidemocráticos em Brasília (DF). Ressaltou a urgência desses temas e pediu apoio para discutir essas questões.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=5%2F9%2F2024&amp;txPagina=23&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -652,7 +653,7 @@ description: "Os discursos de Marcel van Hattem em 2024, com o sumário publicad
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
 <p>O Deputado criticou as ações do Ministro Alexandre de Moraes, que ameaçou fechar o Twitter no Brasil e bloqueou recursos da Starlink, outra empresa de Elon Musk. Denunciou abusos de autoridade do Supremo Tribunal Federal (STF) e acusou o Presidente do Senado, Rodrigo Pacheco, de omissão ao não tratar dos pedidos de impeachment de Ministros do STF. Também defendeu anistia para perseguidos políticos no Brasil e pediu ação do Senador Paulo Paim, Presidente da Comissão de Direitos Humanos, em relação a esses casos.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=5%2F9%2F2024&amp;txPagina=20&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -661,7 +662,7 @@ description: "Os discursos de Marcel van Hattem em 2024, com o sumário publicad
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>O Deputado discutiu o Projeto de Lei do Congresso Nacional nº 25, de 2024, que propõe a inclusão dos §§ 16 e 17 no art. 130 da LDO 2024, para dispor que as agências financeiras oficiais de fomento fiquem dispensadas de observar impedimentos e restrições legais para acesso ao crédito de pessoas físicas e jurídicas com residência, domicílio, sede ou estabelecimento nos municípios atingidos pela calamidade, nas operações de contratação, renovação ou renegociação, realizadas diretamente ou por meio de agentes financeiros, observado o disposto no § 3º do art. 195 da Constituição Federal.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=5%2F9%2F2024&amp;txPagina=10&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -976,7 +977,7 @@ description: "Os discursos de Marcel van Hattem em 2024, com o sumário publicad
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
 <p>O Deputado orientou a bancada na votação&amp;nbsp;da Emenda nº 2 do Projeto de Lei do Congresso Nacional nº 13, de 2024, que abre crédito suplementar em favor dos Ministérios da Saúde, e da Integração e do Desenvolvimento Regional. Informou que a Emenda destina quase 3 bilhões de reais ao Rio Grande do Sul, enfatizando a necessidade desses recursos devido à calamidade que afeta o Estado. Pediu apoio dos colegas parlamentares para aprovar a medida, destacando que, embora significativa, a quantia ainda é insuficiente para enfrentar os desafios. Por fim, mencionou que suas emendas individuais, totalizando mais de 30 milhões de reais, serão direcionadas aos 78 Municípios em situação de calamidade.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=30%2F5%2F2024&amp;txPagina=155&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -985,7 +986,7 @@ description: "Os discursos de Marcel van Hattem em 2024, com o sumário publicad
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
 <p>O Deputado encaminhou a votação&amp;nbsp;da Emenda nº 2 do Projeto de Lei do Congresso Nacional nº 13, de 2024, que abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Saúde, e da Integração e do Desenvolvimento Regional, crédito suplementar no valor de R$ 2.854.421.588,00, para reforço de dotações constantes da Lei Orçamentária vigente.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=30%2F5%2F2024&amp;txPagina=154&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -994,7 +995,7 @@ description: "Os discursos de Marcel van Hattem em 2024, com o sumário publicad
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
 <p>O Deputado encaminhou a votação do Projeto de Lei do Congresso Nacional (PLN) nº 13, de 2024, que abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Saúde, e da Integração e do Desenvolvimento Regional, crédito suplementar no valor de R$ 2.854.421.588,00, para reforço de dotações constantes da Lei Orçamentária vigente. Ademais, criticou os cancelamentos dos recursos orçamentários das diversas Comissões da Câmara dos Deputados e do Senado Federal para atender aos interesses eleitorais dos Parlamentares. Além disso, condenou a política ambiental e indigenista do Presidente Lula, lamentando as mortes dos ianomâmis. Adicionalmente, alertou a Deputada Soraya para o cancelamento dos recursos públicos destinados pela Comissão de Defesa dos Direitos da Mulher e para sua recomposição. Questionou ainda o Senador Davi Alcolumbre sobre a destinação da dotação orçamentária da Comissão de Constituição, Justiça e Cidadania do Senado. Por último, recriminou a falta de transparência das emendas parlamentares e o prejuízo ao Rio Grande do Sul.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=30%2F5%2F2024&amp;txPagina=141&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1003,7 +1004,7 @@ description: "Os discursos de Marcel van Hattem em 2024, com o sumário publicad
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>O Deputado discutiu o Projeto de Lei do Congresso Nacional nº 13, de 2024, que abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Saúde, e da Integração e do Desenvolvimento Regional, crédito suplementar no valor de R$ 2.854.421.588,00, para reforço de dotações constantes da Lei Orçamentária vigente. Ademais, criticou a suspensão, de forma antirregimental, da sessão conjunta do Congresso Nacional e a sua reabertura, de um dia para o outro, praticamente sem Parlamentares para deliberarem sobre diversos Projetos de Lei do Congresso Nacional (PLN's). Além disso, condenou o prejuízo ao Estado do Rio Grande do Sul, devastado pelas enchentes, decorrente do desvio ilegítimo de recursos orçamentários destinados originariamente pelas Comissões a finalidades diversas como educação, saúde, combate à violência contra a mulher, entre outras. Ademais, denunciou que o desvio de recursos proporcionado pelo PLN nº 13, de 2024, teve por objetivo beneficiar emendas parlamentares destinadas a Prefeitos e Vereadores que apoiam politica e eleitoralmente Deputados Federais e Senadores. Por último, defendeu seu destaque apresentado ao PLN nº 13, de 2024, de modo a recuperar os recursos públicos para o Rio Grande do Sul, desviados pelo orçamento secreto.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=30%2F5%2F2024&amp;txPagina=133&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1039,7 +1040,7 @@ description: "Os discursos de Marcel van Hattem em 2024, com o sumário publicad
 <div class="corpo">
 <p class="tipo">OUTROS</p>
 <p>O Parlamentar reafirmou sua admiração pelo Deputado Altineu Côrtes (PL-RJ) e reconheceu seu papel de mediador eficaz entre diversos líderes partidários. No entanto, expressou sua preocupação com o processo de votação do Projeto de Lei do Congresso Nacional (PLN) de remanejamento de quase 3 bilhões de reais. Ele enfatizou que não acusou Côrtes ou a Câmara de desconsiderar a crise no Rio Grande do Sul, mas sim destacou a importância de seguir os procedimentos regimentais e o respeito ao trâmite adequado pelo Congresso e pela Comissão Mista de Orçamento (CMO).Ressaltou que a falta de tempo para a análise completa do projeto poderia comprometer sua integridade e a confiança de seus eleitores, e pediu que a votação fosse adiada até que se cumprissem os devidos procedimentos.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=30%2F5%2F2024&amp;txPagina=123&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1048,7 +1049,7 @@ description: "Os discursos de Marcel van Hattem em 2024, com o sumário publicad
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
 <p>O Deputado apresentou uma questão de ordem sobre a inclusão do Projeto de Lei do Congresso Nacional nº 13, de 2024, na Ordem do Dia. Criticou a falta de transparência e debate adequado sobre a proposição que trata de um remanejamento orçamentário de quase 3 bilhões de reais. Além disso, destacou a necessidade urgente de apoio financeiro para o Rio Grande do Sul, afetado por enchentes, e acusou a proposta de ser votada &quot;na calada da noite&quot; sem o conhecimento detalhado dos Parlamentares. Por fim, solicitou o encerramento da sessão e que a matéria passasse pela Comissão Mista de Orçamento antes de ser apreciada no Plenário.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=30%2F5%2F2024&amp;txPagina=119&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1057,7 +1058,7 @@ description: "Os discursos de Marcel van Hattem em 2024, com o sumário publicad
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
 <p>O Deputado criticou a inclusão na pauta de Projeto de Lei do Congresso Nacional (PLN) que prevê quase 3 bilhões de reais em despesas, sem um debate prévio ou leitura detalhada do texto pelos Parlamentares. Expressou indignação, especialmente porque seu Estado, o Rio Grande do Sul, está sofrendo severamente com inundações e os recursos federais necessários para ajudar os empreendedores locais ainda não foram liberados. Por fim, condenou a falta de transparência e a falta de prioridade em atender emergências reais e urgentes.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=30%2F5%2F2024&amp;txPagina=118&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1066,7 +1067,7 @@ description: "Os discursos de Marcel van Hattem em 2024, com o sumário publicad
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
 <p>O Deputado orientou a bancada na votação do Veto Parcial nº 8, de 2024, aposto ao Projeto de Lei nº 2.253, de 2022, que dispõe sobre a monitoração eletrônica do preso, prevê a realização de exame criminológico para progressão de regime e extingue o benefício da saída temporária.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=30%2F5%2F2024&amp;txPagina=107&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1075,7 +1076,7 @@ description: "Os discursos de Marcel van Hattem em 2024, com o sumário publicad
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Parlamentar expressou sua gratidão aos Deputados Federais por derrubarem o Veto Parcial nº 1, de 2024, aposto ao Projeto de Lei do Congresso Nacional nº 4, de 2023, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2024. Argumentou que o veto de Lula indica que o Governo deseja usar dinheiro público para financiar invasões de propriedades rurais privadas e influenciar opções sexuais de crianças e adolescentes nas escolas. Criticou a alocação de recursos para essas áreas, alegando que isso desrespeita as necessidades básicas de educação, como português, matemática e ciências. Acusou Lula de querer financiar abortos não previstos em lei, apesar de ter afirmado o contrário durante a campanha eleitoral. Pediu aos senadores que votassem contra o veto para impedir o uso indevido do dinheiro público e defender os direitos previstos na Constituição.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=30%2F5%2F2024&amp;txPagina=99&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1084,7 +1085,7 @@ description: "Os discursos de Marcel van Hattem em 2024, com o sumário publicad
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
 <p>O Deputado orientou a bancada na votação do Veto Parcial nº 46, de 2021, aposto ao Projeto de Lei nº 2462, de 1991, que acrescenta o Título XII na Parte Especial do Código Penal, relativo aos crimes contra o Estado Democrático de Direito, revoga a Lei de Segurança Nacional, e dispositivo da Lei das Contravenções Penais.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=30%2F5%2F2024&amp;txPagina=71&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -1093,7 +1094,7 @@ description: "Os discursos de Marcel van Hattem em 2024, com o sumário publicad
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>O Deputado criticou o veto de Lula ao fim das saídas temporárias de presos, proposto pelo Projeto de Lei nº 2.253, de 2022, acusando o Governo de favorecer criminosos. Defendeu que o Congresso deve manter sua soberania e derrubar o veto, garantindo segurança à população. Além disso, ressaltou a importância de manter o Veto Parcial nº 46, de 2021, ao Projeto de Lei nº 2.462, de 1991, relativo aos crimes contra o Estado Democrático de Direito, para evitar a criminalização de supostas fake news. Conclamou o Congresso a se impor contra ações do Executivo.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=30%2F5%2F2024&amp;txPagina=60&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 

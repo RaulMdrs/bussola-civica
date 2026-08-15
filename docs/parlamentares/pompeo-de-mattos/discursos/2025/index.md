@@ -11,9 +11,10 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 
 <p class="anos">Outros anos: <a href="../2026/">2026</a> · <b>2025</b> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
-> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto
-> integral de cada discurso está no Diário, pelo link — este site não o
-> reproduz, e nada aqui é resumo nosso.
+> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui
+> é resumo nosso. O texto integral não é reproduzido neste site: o link de
+> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à
+> **API** quando a origem não publicou o discurso no Diário.
 
 ## Substantivos — 188
 
@@ -904,7 +905,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>O Deputado discutiu o Projeto de Lei do Congresso Nacional nº 3, de 2025, da Presidência da República, que abre ao Orçamento Fiscal da União, em favor de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 816.647.541,00, para reforço de dotações constantes da Lei Orçamentária vigente. Além disso, criticou a ausência de um fundo permanente para o Sul, lembrando que o Rio Grande do Sul enfrenta prejuízos graves com sucessivas secas e enchentes. Nesse sentido, reivindicou a criação da Superintendência do Desenvolvimento da Região Sul – SUDESUL, objeto de projeto de lei complementar de sua autoria, e destacou que os agricultores gaúchos precisam de crédito viável para continuar produzindo. Afirmou que, embora reconheça a ajuda emergencial recebida, o Estado necessita de apoio estrutural e contínuo, assim como as demais regiões do País.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=19%2F6%2F2025&amp;txPagina=99&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73486/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
@@ -913,7 +914,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>O Deputado discutiu o Projeto de Resolução do Congresso Nacional nº 3, de 2025, que altera disposições da Resolução nº 1, de 2006-CN, para aprimorar o rito de apresentação e de indicação de emendas parlamentares às leis orçamentárias. Além disso, elogiou o acordo que levou à derrubada do Veto nº 38, relativo às perícias médicas do BPC, afirmando que obrigar pacientes com doenças graves e irreversíveis a repetirem o procedimento era desumano, ineficiente e oneroso. Por outro lado, criticou o adiamento da análise do Veto nº 4, que trata do apoio a pessoas com diabetes tipo 1, especialmente crianças e jovens em situação grave.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=J&amp;Datain=19%2F6%2F2025&amp;txPagina=70&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73486/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
