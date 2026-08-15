@@ -53,8 +53,18 @@ const esc = (s: string) =>
 
 const pct = (v: number) => (v * 100).toFixed(1).replace(".", ",");
 
-/** O `n` é conteúdo, não metadado: sai rotulado e em corpo legível. */
+/**
+ * O `n` é conteúdo, não metadado: sai rotulado e em corpo legível.
+ *
+ * Reservado para **a base de um percentual** — em quantas observações aquele
+ * número foi apurado. Contagem que não sustenta percentual nenhum sai como
+ * número simples, por `contagem()`: rotular tudo de `n` gastaria o símbolo
+ * justamente onde ele precisa parar o leitor.
+ */
 const enne = (n: number) => `<span class="n">n&nbsp;=&nbsp;<b>${n}</b></span>`;
+
+/** Contagem sem percentual atrás. Mesmo corpo e mesma fonte, sem o rótulo. */
+const contagem = (n: number) => `<span class="n"><b>${n}</b></span>`;
 
 /**
  * Etiqueta de amostra pequena. Substitui o `⚠️` solto, que o CSS não alcança:
@@ -218,6 +228,95 @@ const evidenciasDe = (
     limite,
   );
 
+// ---------------------------------------------------------------------------
+// Discursos
+//
+// Entraram no MVP como substituto do plano de governo, que não existe para
+// deputado federal — a interseção medida foi zero. São a única coisa no acervo
+// em que o parlamentar fala por si, em vez de ser medido contra uma régua.
+//
+// **A transcrição não vem para o site.** São 11 MB, que entrariam no git e
+// seriam reescritos a cada rebuild semanal, para reproduzir um texto que já
+// está publicado no Diário — e o `url_texto` leva exatamente até lá. O que o
+// site exibe é o sumário oficial, que é o que permite varrer 981 discursos e
+// achar o que interessa.
+//
+// **Uma página por ano**, e não uma por parlamentar: o mais falante tem 981
+// discursos e 451 KB só de sumário. Ano é divisão que a fonte já traz — não é
+// recorte editorial, e ninguém precisa decidir o que fica de fora.
+
+interface Discurso {
+  data: string;
+  tipo: string | null;
+  sumario: string | null;
+  urlTexto: string | null;
+  fonte: string;
+  relevante: number;
+  categoria: string;
+}
+
+const COLUNAS_DISCURSO = `d.data_hora_inicio data, d.tipo_discurso tipo,
+  d.sumario, d.url_texto urlTexto, d.fonte_url fonte, d.relevante, d.categoria`;
+
+/** Anos em que o parlamentar discursou, do mais recente para o mais antigo. */
+const anosDeDiscurso = (politicoId: number) =>
+  todos<{ ano: string; n: number; substantivos: number }>(
+    `SELECT substr(data_hora_inicio, 1, 4) ano, COUNT(*) n, SUM(relevante) substantivos
+     FROM discurso WHERE politico_id = ?
+     GROUP BY ano ORDER BY ano DESC`,
+    politicoId,
+  );
+
+const discursosDoAno = (politicoId: number, ano: string, relevante: 0 | 1) =>
+  todos<Discurso>(
+    `SELECT ${COLUNAS_DISCURSO} FROM discurso d
+     WHERE d.politico_id = ? AND substr(d.data_hora_inicio, 1, 4) = ?
+       AND d.relevante = ?
+     ORDER BY d.data_hora_inicio DESC`,
+    politicoId,
+    ano,
+    relevante,
+  );
+
+const ultimosDiscursos = (politicoId: number, limite: number) =>
+  todos<Discurso>(
+    `SELECT ${COLUNAS_DISCURSO} FROM discurso d
+     WHERE d.politico_id = ? AND d.relevante = 1
+     ORDER BY d.data_hora_inicio DESC LIMIT ?`,
+    politicoId,
+    limite,
+  );
+
+/** `2023-02-28T15:12` → `2023-02-28 · 15:12`. Sem reformatar a data. */
+const dataHora = (s: string) => s.replace("T", " · ");
+
+/**
+ * Link do discurso. Preferência pelo Diário, que traz o texto integral; 302 dos
+ * 5.851 não têm `url_texto`, e nesses o endpoint que os entregou é a fonte. Os
+ * rótulos são diferentes porque os destinos são diferentes — mandar o leitor
+ * para JSON dizendo "Diário" seria mentira pequena, mas mentira.
+ */
+function fonteDoDiscurso(d: Discurso): string {
+  return d.urlTexto
+    ? `<a class="fonte" href="${esc(d.urlTexto)}">Ver no Diário da Câmara</a>`
+    : `<a class="fonte" href="${esc(d.fonte)}">Ver na API da Câmara</a>`;
+}
+
+function blocoDiscurso(d: Discurso): string {
+  return (
+    `<blockquote class="evidencia discurso">\n` +
+    `<span class="data">${esc(dataHora(d.data))}</span>\n` +
+    `<div class="corpo">\n` +
+    (d.tipo ? `<p class="tipo">${esc(d.tipo)}</p>\n` : "") +
+    (d.sumario
+      ? `<p>${esc(d.sumario)}</p>\n`
+      : `<p class="sem-sumario">A fonte não publicou sumário para este discurso. ` +
+        `O texto está no link abaixo.</p>\n`) +
+    fonteDoDiscurso(d) +
+    `\n</div>\n</blockquote>\n\n`
+  );
+}
+
 /**
  * A descrição da fonte costuma terminar no placar ("... Sim: 182; Não: 182;").
  * Separar os dois deixa o texto escaneável sem alterar uma vírgula do que a
@@ -325,7 +424,112 @@ function gerarPerfil(p: Parlamentar): string {
     for (const e of divergiu) md += blocoEvidencia(e);
   }
   md += `Esta é uma amostra. A decomposição completa existe no acervo, votação por\n`;
-  md += `votação, e é reconstruível a partir das fontes oficiais.\n`;
+  md += `votação, e é reconstruível a partir das fontes oficiais.\n\n`;
+
+  md += secaoDiscursos(p);
+
+  return md;
+}
+
+/**
+ * Seção de discursos do perfil.
+ *
+ * Os eixos medem o parlamentar contra uma régua externa — a orientação do
+ * Governo, a maioria do partido. O discurso é a única coisa aqui em que ele
+ * fala por si. Por isso a seção existe, e por isso ela não interpreta nada:
+ * lista o que a fonte publicou, em ordem, com link.
+ */
+function secaoDiscursos(p: Parlamentar): string {
+  const anos = anosDeDiscurso(p.id);
+  let md = `## O que disse em plenário\n\n`;
+
+  if (!anos.length) {
+    md += `> **Nenhum discurso deste parlamentar consta no acervo** para o período.\n`;
+    md += `> A ausência é do que a origem devolveu para o identificador dele, não\n`;
+    md += `> uma escolha desta página.\n\n`;
+    return md;
+  }
+
+  const total = anos.reduce((s, a) => s + a.n, 0);
+  const substantivos = anos.reduce((s, a) => s + a.substantivos, 0);
+
+  md += `São **${total} discursos** coletados no período, dos quais\n`;
+  md += `**${substantivos} substantivos** — os outros ${total - substantivos} são\n`;
+  md += `orientação de bancada e registro de presença, que a classificação separa\n`;
+  md += `do perfil e **não descarta**: estão nas páginas por ano, na íntegra.\n\n`;
+
+  md += `O que aparece abaixo é o sumário publicado pela Câmara. O texto integral\n`;
+  md += `está no Diário, no link de cada discurso — este site não o reproduz.\n\n`;
+
+  const ultimos = ultimosDiscursos(p.id, 5);
+  if (ultimos.length) {
+    md += `### Os ${ultimos.length} mais recentes\n\n`;
+    for (const d of ultimos) md += blocoDiscurso(d);
+  }
+
+  md += `### Todos, por ano\n\n`;
+  md += `| Ano | Discursos | Substantivos |\n|---|---:|---:|\n`;
+  for (const a of anos) {
+    md += `| [${a.ano}](discursos/${a.ano}/) | ${contagem(a.n)} `;
+    md += `| ${a.substantivos} |\n`;
+  }
+  md += `{: .t-anos}\n\n`;
+
+  return md;
+}
+
+/** Uma página por parlamentar e ano. O porquê está no bloco no topo do arquivo. */
+function gerarDiscursosAno(p: Parlamentar, ano: string): string {
+  const substantivos = discursosDoAno(p.id, ano, 1);
+  const protocolares = discursosDoAno(p.id, ano, 0);
+  const anos = anosDeDiscurso(p.id);
+
+  let md = frontMatter(
+    `${p.nome} — discursos de ${ano}`,
+    `Os discursos de ${p.nome} em ${ano}, com o sumário publicado pela Câmara e link para o Diário.`,
+    "discursos",
+  );
+
+  md += `# Discursos de ${ano}\n\n`;
+  md += `<p class="subtitulo"><b><a href="../../">${esc(p.nome)}</a></b>`;
+  md += p.sigla ? ` · ${esc(p.sigla)}` : "";
+  md += ` · ${substantivos.length + protocolares.length} discursos em ${ano}</p>\n\n`;
+
+  if (anos.length > 1) {
+    md += `<p class="anos">Outros anos: `;
+    md += anos
+      .map((a) =>
+        a.ano === ano
+          ? `<b>${a.ano}</b>`
+          : `<a href="../${a.ano}/">${a.ano}</a>`,
+      )
+      .join(" · ");
+    md += `</p>\n\n`;
+  }
+
+  md += `> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto\n`;
+  md += `> integral de cada discurso está no Diário, pelo link — este site não o\n`;
+  md += `> reproduz, e nada aqui é resumo nosso.\n\n`;
+
+  md += `## Substantivos — ${substantivos.length}\n\n`;
+  if (substantivos.length) {
+    for (const d of substantivos) md += blocoDiscurso(d);
+  } else {
+    md += `Nenhum discurso deste ano foi classificado como substantivo.\n\n`;
+  }
+
+  if (protocolares.length) {
+    md += `## Classificados como protocolares — ${protocolares.length}\n\n`;
+    md += `<div class="ausencia">\n`;
+    md += `<h4>Fora do perfil, dentro do acervo</h4>\n`;
+    md += `<p>Estes discursos não entram na seção do perfil porque são ato de\n`;
+    md += `procedimento, não posição: <b>orientação de bancada</b> (que já está\n`;
+    md += `estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e\n`;
+    md += `<b>registro de presença</b>. A classificação separa; ela não exclui — por\n`;
+    md += `isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>\n`;
+    md += `</div>\n\n`;
+    for (const d of protocolares) md += blocoDiscurso(d);
+  }
 
   return md;
 }
@@ -605,7 +809,7 @@ function gerarIndiceTemas(temas: { id: number; nome: string }[]): string {
       periodo.ini,
       periodo.fim,
     );
-    md += `| [${t.nome}](${slug(t.nome)}/) | ${enne(r.v)} `;
+    md += `| [${t.nome}](${slug(t.nome)}/) | ${contagem(r.v)} `;
     md += `| <span class="valor">${pct(r.media)}%</span> |\n`;
   }
   md += `{: .t-lista-temas}\n`;
@@ -657,7 +861,14 @@ escreverMeta();
 
 escrever("", gerarHome(temas));
 escrever("parlamentares", gerarIndiceParlamentares());
-for (const p of parlamentares) escrever(`parlamentares/${slug(p.nome)}`, gerarPerfil(p));
+let paginasDeDiscurso = 0;
+for (const p of parlamentares) {
+  escrever(`parlamentares/${slug(p.nome)}`, gerarPerfil(p));
+  for (const { ano } of anosDeDiscurso(p.id)) {
+    escrever(`parlamentares/${slug(p.nome)}/discursos/${ano}`, gerarDiscursosAno(p, ano));
+    paginasDeDiscurso++;
+  }
+}
 
 escrever("senadores", gerarIndiceSenadores(senadores));
 for (const p of senadores) escrever(`senadores/${slug(p.nome)}`, gerarPerfilSenador(p));
@@ -667,6 +878,7 @@ for (const t of temas) escrever(`temas/${slug(t.nome)}`, gerarTema(t.nome, t.id)
 
 console.log(`site gerado em ${SAIDA}/`);
 console.log(`  ${parlamentares.length} deputados · ${senadores.length} senadores · ${temas.length} temas · 3 índices`);
+console.log(`  ${paginasDeDiscurso} páginas de discurso (uma por parlamentar e ano)`);
 console.log(`  período ${periodo.ini} → ${periodo.fim} · metodologia ${metodologia.versao}`);
 
 db.close();

@@ -122,3 +122,42 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+São **2 discursos** coletados no período, dos quais
+**2 substantivos** — os outros 0 são
+orientação de bancada e registro de presença, que a classificação separa
+do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+
+O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
+está no Diário, no link de cada discurso — este site não o reproduz.
+
+### Os 2 mais recentes
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-26 · 14:24</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado convidou os Parlamentares para participarem de audiência pública da Comissão do Esporte destinada a debater a importância da prática esportiva no desenvolvimento de pessoas com Síndrome de Down e Transtorno do Espectro Autista (TEA). O encontro, previsto para o dia 10 de julho, às 14 horas, terá como foco os impactos positivos do esporte na inclusão, no desenvolvimento social e na qualidade de vida de crianças e jovens com TEA e outras condições. Também destacou a crescente relevância do tema e defendeu a ampliação do debate sobre políticas públicas voltadas à inclusão por meio do esporte.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=27%2F5%2F2026&amp;txPagina=48&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2025-04-08 · 19:48</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado agradeceu ao Deputado Dr. Ismael Alexandrino pela relatoria do Projeto de lei nº 3.526, de 2019, voltado a crianças que necessitam de cirurgia específica, condição que atinge uma em cada 500 no País. Destacou a relevância da proposta e afirmou que sua aprovação representou um marco com potencial de transformar a vida de milhares de famílias brasileiras.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=9%2F4%2F2025&amp;txPagina=170&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2026](discursos/2026/) | <span class="n"><b>1</b></span> | 1 |
+| [2025](discursos/2025/) | <span class="n"><b>1</b></span> | 1 |
+{: .t-anos}
+

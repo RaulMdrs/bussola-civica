@@ -122,3 +122,71 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+São **95 discursos** coletados no período, dos quais
+**54 substantivos** — os outros 41 são
+orientação de bancada e registro de presença, que a classificação separa
+do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+
+O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
+está no Diário, no link de cada discurso — este site não o reproduz.
+
+### Os 5 mais recentes
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-02-10 · 21:24</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado agradeceu ao Presidente da Câmara dos Deputados pelo apoio ao Projeto de Lei Complementar nº 14, de 2026, que dispõe sobre a redução das alíquotas da Contribuição para o PIS/Pasep e da Cofins incidentes sobre a indústria química e petroquímica e altera a Lei nº 11.196, de 2005, e a Lei nº 10.865, de 2004. Ademais, destacou que a aprovação da matéria contribuirá para o desenvolvimento da indústria nacional, especialmente dos polos petroquímicos, e para o progresso do País.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=11%2F2%2F2026&amp;txPagina=103&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-02-10 · 20:36</span>
+<div class="corpo">
+<p class="tipo">PARECER</p>
+<p>O Deputado proferiu parecer ao Projeto de Lei Complementar nº 14, de 2026, que dispõe sobre a redução de alíquotas da Contribuição para o PIS/Pasep e da Cofins incidentes sobre a indústria química e petroquímica, e altera a Lei nº 11.196, de 21 de novembro de 2005, e a Lei nº 10.865, de 30 de abril de 2004.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178835/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2025-11-25 · 18:20</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado orientou a bancada na votação do Projeto de Lei nº 1.496, de 2021, que altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), e a Lei nº 12.037, de 1º de outubro de 2009, para dispor sobre a obtenção do perfil genético na identificação criminal. Ademais, destacou a autoria da proposição da Senadora Leila Barros, do Partido Democrático Trabalhista (PDT).</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=26%2F11%2F2025&amp;txPagina=93&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2025-11-04 · 13:00</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado destacou a presença de uma delegação do Município de Caiçara (RS), liderada pela Vereadora Josanete, que levou a Brasília demandas locais. Reafirmou seu compromisso com o Município e com a melhoria da qualidade de vida da população.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=5%2F11%2F2025&amp;txPagina=109&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2025-10-29 · 12:56</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado agradeceu aos Deputados Carlos Zarattini e Julio Lopes pelas contribuições ao Projeto de Lei nº 892, de 2025, que trata da prorrogação e fortalecimento do Regime Especial da Indústria Química. Ressaltou que a proposta tem impacto direto na industrialização, na geração de empregos e no crescimento do PIB nacional, sendo essencial para o desenvolvimento da economia brasileira. Ademais, destacou a importância da união dos partidos, inclusive da Oposição, em torno de uma agenda de fortalecimento da indústria nacional e reafirmou que a medida representa um avanço estratégico para o setor químico do País.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=30%2F10%2F2025&amp;txPagina=148&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2026](discursos/2026/) | <span class="n"><b>5</b></span> | 2 |
+| [2025](discursos/2025/) | <span class="n"><b>38</b></span> | 17 |
+| [2024](discursos/2024/) | <span class="n"><b>30</b></span> | 16 |
+| [2023](discursos/2023/) | <span class="n"><b>22</b></span> | 19 |
+{: .t-anos}
+

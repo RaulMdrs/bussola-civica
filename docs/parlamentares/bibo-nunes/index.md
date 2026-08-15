@@ -122,3 +122,71 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+São **833 discursos** coletados no período, dos quais
+**656 substantivos** — os outros 177 são
+orientação de bancada e registro de presença, que a classificação separa
+do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+
+O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
+está no Diário, no link de cada discurso — este site não o reproduz.
+
+### Os 5 mais recentes
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-27 · 19:44</span>
+<div class="corpo">
+<p class="tipo">DISCUSSÃO</p>
+<p>O Deputado discutiu a Proposta de Emenda à Constituição (PEC) nº 221, de 2019, que reduz a jornada de trabalho e extingue a escala 6 por 1. Ademais, recriminou a exploração política da PEC em ano eleitoral e criticou o Presidente Lula, o Partido dos Trabalhadores (PT) e a Esquerda por políticas assistencialistas.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=28%2F7%2F2026&amp;txPagina=202&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-27 · 18:36</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado orientou a bancada na votação do substitutivo ao Projeto de Lei nº 2.951, de 2024, que altera a Lei nº 8.171, de 17 de janeiro de 1991, a Lei nº 10.823, de 19 de dezembro de 2003, e a Lei Complementar nº 137, de 26 de agosto de 2010, para aperfeiçoar os marcos legais do seguro rural. Também criticou a Proposta de Emenda à Constituição nº 221., de 2019, que altera o art. 7º da Constituição Federal para reduzir a duração máxima semanal do trabalho. Ademais, condenou a Esquerda por, segundo o orador, iludir trabalhadores com promessas de menor jornada sem redução salarial, e manifestou expectativa de que a proposta seja rejeitada pelo Senado.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204388/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-27 · 18:20</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado orientou a bancada na votação do substitutivo ao Projeto de Lei nº 699, de 2023, que institui o Programa de Desenvolvimento da Indústria de Fertilizantes (Profert), altera as Leis nº 10.925, de 23 de julho de 2004, nº 9.430, de 27 de dezembro de 1996, e nº 12.431, de 24 de junho de 2011, e dá outras providências. Além disso, registrou protesto contra a PEC que propõe o fim da escala 6 por 1, classificando-a como &quot;tóxica e demagógica&quot;, e questionou a viabilidade econômica da proposta, argumentando que a redução da jornada sem redução salarial não encontra respaldo na realidade, uma vez que trabalhadores com menor renda não teriam condições de usufruir do tempo livre com tranquilidade.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=28%2F7%2F2026&amp;txPagina=173&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-27 · 18:12</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado questionou o conteúdo da Proposta de Emenda à Constituição nº 221, de 2019, em votação, argumentando que a proposta representa um equívoco para a classe trabalhadora, pois resultaria na redução de salários.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=28%2F7%2F2026&amp;txPagina=167&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-27 · 17:20</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado criticou a Proposta de Emenda à Constituição nº 221, de 2019, que altera o art. 7º da Constituição Federal para reduzir a duração máxima semanal do trabalho, classificando-a como enganosa para o trabalhador brasileiro. Também questionou a eficácia das políticas sociais do Governo Lula, como o Bolsa Família e o Valegas, argumentando que tais medidas não reduzem a pobreza. Por fim, declarou defender os trabalhadores contra o que chamou de engodo.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=28%2F7%2F2026&amp;txPagina=137&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2026](discursos/2026/) | <span class="n"><b>41</b></span> | 40 |
+| [2025](discursos/2025/) | <span class="n"><b>244</b></span> | 210 |
+| [2024](discursos/2024/) | <span class="n"><b>296</b></span> | 202 |
+| [2023](discursos/2023/) | <span class="n"><b>252</b></span> | 204 |
+{: .t-anos}
+

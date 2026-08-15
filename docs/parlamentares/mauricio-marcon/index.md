@@ -122,3 +122,71 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+São **268 discursos** coletados no período, dos quais
+**243 substantivos** — os outros 25 são
+orientação de bancada e registro de presença, que a classificação separa
+do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+
+O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
+está no Diário, no link de cada discurso — este site não o reproduz.
+
+### Os 5 mais recentes
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-07-01 · 17:40</span>
+<div class="corpo">
+<p class="tipo">COMO LÍDER</p>
+<p>O Deputado criticou o Projeto de Lei nº 896, de 2023, que altera a Lei nº 7.716, de 5 de janeiro de 1989, e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dispor sobre crimes praticados em razão de misoginia, o qual poderia criminalizar padres e pastores por citações bíblicas, além de punir falas sobre mulheres com pena elevada. Também afirmou que a pauta desviou a Câmara de temas como a renegociação das dívidas dos agricultores do Rio Grande do Sul e o aumento de pena para crimes sexuais. Ademais, acusou a Esquerda de atacar religião e família, contestou votos do PSOL e do PT em matéria penal e rejeitou apoio à proposta.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220550/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-06-30 · 16:20</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado contestou declarações do Presidente da República sobre inflação, preços dos combustíveis, desemprego, crescimento econômico e situação fiscal, ao afirmar que os indicadores econômicos e a percepção da população seriam incompatíveis com esse diagnóstico. Além disso, argumentou que o aumento da dívida pública, do déficit fiscal, da taxa Selic e das recuperações judiciais refletiria dificuldades na economia brasileira e criticou a condução do Governo Federal.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220550/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-06-16 · 18:44</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado criticou decisões e atuações de integrantes do Supremo Tribunal Federal (STF), mencionando processos relacionados ao Deputado Eduardo Bolsonaro e investigações envolvendo o Banco Master. Além disso, afirmou que houve divergências entre Ministros da Corte quanto a medidas judiciais ligadas ao caso de Daniel Vorcaro e citou informações divulgadas por veículos de comunicação sobre supostas pressões e contatos entre autoridades públicas e investigados. Na continuidade, sustentou que as apurações poderiam alcançar agentes políticos e integrantes de instituições de Estado. Por fim, elogiou a atuação de Ministros indicados pelo ex-Presidente Jair Bolsonaro e defendeu a continuidade das investigações para apuração de eventuais responsabilidades.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220550/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-06-10 · 17:52</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado criticou o Governo do PT e Lula, afirmando que houve cortina de fumaça para ocultar a deterioração da economia. Além disso, apontou aumento do endividamento das famílias, inflação dos alimentos, juros no maior nível em 17 anos e risco fiscal com déficit projetado de R$ 130 bilhões. Por fim, alertou a população para uma crise econômica grave.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220550/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-27 · 20:32</span>
+<div class="corpo">
+<p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
+<p>O Deputado criticou o Presidente da Câmara dos Deputados Hugo Motta por ter &quot;engavetado&quot; a Proposta de Emenda à Constituição (PEC) nº 40, de 2025, que altera o art. 7º da Constituição Federal para prever a possibilidade de opção pelos empregados quanto à jornada de trabalho, podendo escolher entre o regime comum previsto pela Consolidação das Leis do Trabalho (CLT) ou um regime flexível baseado em horas trabalhadas. Ademais, recriminou o Presidente Hugo Motta por descumprir compromissos assumidos com a Direita, impedir o debate sobre a referida PEC e atuar para inviabilizar a aprovação da escala 4 por 3. Por fim, associou a mudança de postura do Presidente Hugo Motta a denúncias envolvendo funcionária fantasma e emendas irregulares, bem como à intenção de lançar o pai como candidato ao Senado.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=28%2F7%2F2026&amp;txPagina=215&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2026](discursos/2026/) | <span class="n"><b>19</b></span> | 18 |
+| [2025](discursos/2025/) | <span class="n"><b>71</b></span> | 66 |
+| [2024](discursos/2024/) | <span class="n"><b>69</b></span> | 62 |
+| [2023](discursos/2023/) | <span class="n"><b>109</b></span> | 97 |
+{: .t-anos}
+

@@ -31,7 +31,8 @@ repositório, onde é `FONTES.md` que existe — nas páginas publicadas é `/FO
 | 12 | Camada web | `npm run site` — 31 perfis, 12 temas, estático no GitHub Pages |
 | 13 | Senado (Fase 1) | etapa `senado` — 353 votações, 3 senadores, **um eixo só** |
 | 14 | Design próprio | `docs/_layouts/` + `docs/assets/bussola.css` — sem tema de terceiro, sem JS, sem dependência (§6.3) |
-| 15 | Site inteiramente gerado | 50 páginas, incluindo a home: nenhum número do acervo é digitado |
+| 15 | Site inteiramente gerado | home incluída: nenhum número do acervo é digitado |
+| 16 | Discursos no site | 5.851 discursos visíveis, 111 páginas por parlamentar e ano (§6.4) |
 
 Banco atual: **80 MB**. Câmara: 6.291 votações (1.117 nominais), 452.356 votos.
 Senado: 353 votações (114 abertas), 28.593 votos. 34 parlamentares com perfil
@@ -266,11 +267,16 @@ Versão da metodologia gravada em cada linha: `2026-08-04.2`.
 Três restrições: só campos oficiais; classifica e **nunca exclui**; na dúvida é
 substantivo. Regra em `src/lib/classificar.ts`, versão `2026-08-04.4`.
 
-| Categoria | Qtd | No perfil |
-|---|---|---|
-| `substantivo` | 736 (87,7%) | sim |
-| `orientacao_voto` | 97 | não — já estruturado em `orientacao` |
-| `registro_presenca` | 6 | não |
+| Categoria | Qtd | No perfil | No site |
+|---|---:|---|---|
+| `substantivo` | 4.947 (84,5%) | sim | seção do perfil + páginas por ano |
+| `orientacao_voto` | 866 | não — já estruturado em `orientacao` | páginas por ano, em seção própria |
+| `registro_presenca` | 38 | não | páginas por ano, em seção própria |
+
+Total **5.851**. A coluna "no site" é o que torna a terceira restrição
+verificável: classificar sem excluir só significa alguma coisa se o classificado
+continuar alcançável, e desde 2026-08-15 ele está — inteiro, com o mesmo link
+para a fonte (§6.4).
 
 ### 6.3 Design do site
 
@@ -307,6 +313,52 @@ cartões do celular; e `--eixo-gov` a 0,02 de luminosidade e 5° de matiz do
 
 **Verificado:** `scrollWidth == clientWidth == 360` — nenhuma coluna escondida,
 nenhum scroll horizontal, em qualquer largura ≥ 320px.
+
+#### Uma família de defeitos que reincide
+
+Quatro bugs deste CSS foram o **mesmo** erro: uma regra com seletor mais curto
+perdendo para outra mais longa, silenciosamente.
+
+| Regra | Perdia para | Efeito |
+|---|---|---|
+| `.superada` | `.conteudo blockquote` | faixa de versão arquivada saía cinza |
+| `.evidencia { max-width: none }` | `.conteudo blockquote` | evidência presa em 34rem, corpo em 310px |
+| `.evidencia` (móvel) | `.conteudo .evidencia` | grade em duas colunas no celular: 483px em tela de 360 |
+| `td:last-child` (móvel) | `td:last-child` (desktop) | valor encostando na borda do cartão |
+
+O terceiro foi **criado pela correção do segundo** — subir a especificidade da
+regra base sem subir a do override. Ao mexer neste arquivo, a checagem é
+mecânica: mudou o seletor de uma regra, procure quem a sobrescreve.
+
+### 6.4 Discursos — o que o site exibe, e o que não
+
+Os discursos entraram no MVP como substituto do plano de governo, que não existe
+para deputado federal (§5). São a única coisa no acervo em que o parlamentar
+fala por si, em vez de ser medido contra uma régua externa.
+
+**A transcrição não vai para o site.** São **11 MB** — entrariam no git e seriam
+reescritos a cada rebuild semanal, para reproduzir um texto que já está
+publicado no Diário. O site exibe o **sumário oficial**, que é o que permite
+varrer 981 discursos e achar o que interessa, e cada item leva ao Diário.
+
+**Uma página por parlamentar e ano**, não uma por parlamentar. O mais falante
+tem 981 discursos e 451 KB só de sumário; por ano, o pior caso cai para 294 KB
+de Markdown — **42 KB pelo fio**, com o gzip do Pages. Ano é divisão que a fonte
+já traz: não é recorte editorial, e ninguém precisa decidir o que fica de fora.
+
+| Decisão | Por quê |
+|---|---|
+| Sumário sim, transcrição não | 11 MB no git para duplicar o Diário, que já publica e para onde o link aponta |
+| Página por ano | 981 discursos num arquivo só dá 700 KB; ano é divisão da própria fonte |
+| Protocolares em seção própria, não escondidos | Classificar é separar, não excluir — a página inteira ficaria mentindo sobre isso |
+| Sem sumário → dizer que não há | 53 discursos não têm sumário na origem. Cortar transcrição para preencher seria resumo nosso |
+| `url_texto`, com `fonte_url` de reserva | 302 não têm link do Diário. Rótulos diferentes porque os destinos são diferentes |
+
+Uma consequência de nomenclatura: `n` passou a valer só para **base de
+percentual**. Contagem de discursos por ano é contagem, não base de nada, e sai
+como número simples — rotular tudo de `n` gastaria o símbolo justamente onde ele
+precisa parar o leitor. O mesmo valeu para "votações nominais" no índice de
+temas.
 
 ---
 
@@ -470,17 +522,21 @@ Honestamente: o que está no schema mas **não é populado**, e o que não foi f
 
 ### Ressalva sobre o filtro de discursos
 
-Os 97 classificados como `orientacao_voto` às vezes passam de 1.400 caracteres —
-o parlamentar justifica o voto ao orientar, e **esse conteúdo não está na tabela
-`orientacao`**, que guarda só a posição. Se o perfil parecer vazio demais, é o
-primeiro grupo a reconsiderar.
+Os 866 classificados como `orientacao_voto` às vezes passam de 1.400 caracteres
+— o parlamentar justifica o voto ao orientar, e **esse conteúdo não está na
+tabela `orientacao`**, que guarda só a posição.
+
+A lacuna encolheu quando o site passou a exibi-los: eles estão nas páginas por
+ano, em seção própria, com o texto no Diário pelo link. O que continua aberto é
+se algum deles deveria contar como substantivo — a regra hoje decide pelo tipo
+declarado pela fonte, e há justificativa de voto ali dentro que é posição.
 
 ---
 
 ## 10. Estado do código
 
 ```
-src/                                    6.545 linhas TypeScript
+src/                                    6.757 linhas TypeScript
   db/schema.ts        872   20 tabelas, comentadas com o achado que as motivou
   db/client.ts         72   node:sqlite via sqlite-proxy + consultar() tipado
   db/migrar.ts         59   aplica migrations, controla em _migrations
@@ -500,13 +556,13 @@ src/                                    6.545 linhas TypeScript
   ingest/incremental.ts 153 CLI da retomada automática
   ingest/horizonte.ts 105   de onde continuar — testável, sem rede
   calc/posicoes.ts    563   dois eixos + evidências, recorte por tema, regime por casa
-  site/gerar.ts       672   gerador do site — 50 páginas, nenhum número digitado
+  site/gerar.ts       884   gerador do site — 161 páginas, nenhum número digitado
   relatorio.ts        402   verificação do acervo + invariantes
 drizzle/                    8 migrations
 
-docs/                                     644 linhas de camada web
+docs/                                     674 linhas de camada web
   _layouts/default.html 56  cabeçalho, conteúdo, rodapé lido de _data/meta.yml
-  assets/bussola.css   588  folha única, à mão, clara e escura (§6.3)
+  assets/bussola.css   618  folha única, à mão, clara e escura (§6.3)
 ```
 
 **Stack:** TypeScript (type-stripping nativo, sem build), Drizzle ORM,
@@ -574,11 +630,10 @@ Custo por semestre: ~3 + 62 + (2 janelas + ~450 `/votos` + ~154 `/orientacoes`)
 
 ## 11. Próximos passos sugeridos
 
-Da lista anterior fecharam o design e a geração completa do site. Os três itens
-de retorno continuam abertos, na mesma ordem — e o primeiro ficou **mais
-barato**, não mais urgente: o CSS já provisiona `blockquote.evidencia`, `.n` e o
-padrão de blocos-registro, então as páginas de discurso e de evidência nascem no
-design sem folha nova.
+**Os discursos saíram da lista** — estão no site desde 2026-08-15, os 5.851, em
+111 páginas por parlamentar e ano (§6.4). A previsão de que o CSS já
+provisionava a forma se confirmou: `blockquote.evidencia` recebeu o discurso sem
+folha nova, só um tipo oficial no lugar do placar.
 
 ### Rotina
 
@@ -593,31 +648,33 @@ diff do commit mostra o que mudou nos números — é registro, não ruído.
 
 ### O que dá mais retorno agora
 
-**1. Exibir os discursos.** São **4.947 discursos substantivos** coletados,
-classificados e com link para o Diário da Câmara — e **invisíveis no site**. É o
-maior desperdício do acervo hoje, e não é acaso: os discursos entraram no MVP
-justamente como substituto do plano de governo, que não existe para deputado
-(§5, achado 3). Coletá-los e não mostrá-los devolve o projeto ao problema que
-eles resolviam.
+**1. Decompor a evidência por inteiro.** É o que sobrou de maior. O site mostra
+**amostra** de divergência e diz que é amostra; as 86.315 evidências existem no
+banco e não são alcançáveis por quem não roda SQL. Uma página por eixo, paginada
+**por ano como a de discursos**, fecharia a promessa de "por que este político
+está aqui?" sem inchar o perfil.
 
-Cuidado ao fazer: são 9,9 MB de transcrição. Perfil com 124 discursos precisa
-de recorte — os mais recentes, com link para o resto — e o filtro
-`relevante = 0` continua sendo classificação, não exclusão: a interface deve dar
-acesso ao acervo inteiro.
+O caminho está aberto: `blocoEvidencia()` já monta o registro, e a decisão de
+paginar por ano já foi tomada e medida uma vez. A diferença é o volume — 86 mil
+evidências contra 5.851 discursos, com ~2.800 por parlamentar. Medir antes de
+escolher a forma, como foi feito aqui.
 
-O gerador já traz o padrão a seguir: `blocoEvidencia()` monta um registro com
-data, texto da fonte sem edição, e link rotulado. Discurso tem a mesma forma —
-data, sumário, transcrição, link para o Diário.
-
-**2. Decompor a evidência por inteiro.** O site mostra **amostra** de
-divergência e diz que é amostra. As 86.315 evidências existem no banco e não são
-alcançáveis por quem não roda SQL. Uma página por eixo, paginada, fecharia a
-promessa de "por que este político está aqui?" sem inchar o perfil.
+**2. Buscar dentro dos discursos.** Agora que os 5.851 sumários estão no site,
+falta o que os torna úteis para quem chega com uma pergunta: achar quem falou de
+quê. Sem servidor e sem JavaScript, a saída é o que o Jekyll já dá — uma página
+por tema de discurso, ou um índice invertido gerado estaticamente. Não é
+pequeno, e o valor é alto: hoje o leitor precisa saber de antemão em qual
+parlamentar e em qual ano procurar.
 
 **3. Automatizar a atualização.** Hoje o ciclo depende de você rodar dois
 comandos numa máquina que tem o banco. Uma GitHub Action semanal faria tudo —
 mas exige reconstruir o acervo no CI ou cacheá-lo, e o segredo do HMAC vira
 segredo do repositório. Decisão real de superfície, não tarefa mecânica.
+
+Ficou mais urgente com os discursos: `docs/` passou de 616 KB para **6,2 MB**, e
+o commit semanal agora carrega esse peso. Ainda é barato — só sumário muda, e o
+git delta-comprime bem —, mas é a primeira vez que o tamanho do site entra na
+conta.
 
 ### Bloqueado pela fonte, não por nós
 
@@ -627,6 +684,7 @@ Registrado para quando houver fonte — nenhum destes é "fazer depois":
 |---|---|
 | Eixo 1 no Senado | Não há orientação de bancada em dados abertos. Nove endpoints testados, todos 404; busca por nome de campo em 2,5 MB não achou nada (§8) |
 | Senador × TSE | Não há CPF na API do Senado. Nome de urna não é chave, e partido menos ainda |
+| Discurso de senador | A etapa `discursos` é da Câmara. O Senado tem endpoint próprio, ainda não reconhecido — a página de senador hoje não tem seção de discurso, e não é escolha de design |
 | Recorte por escopo no Senado | A regra mérito × procedimental foi calibrada contra texto da Câmara. Validá-la para o Senado exige casos de borda que ainda não temos |
 | Plano de governo | Não existe para deputado federal — interseção medida: zero (§5) |
 | Notícias por político | Sem fonte oficial (§5) |

@@ -122,3 +122,71 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+São **297 discursos** coletados no período, dos quais
+**247 substantivos** — os outros 50 são
+orientação de bancada e registro de presença, que a classificação separa
+do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+
+O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
+está no Diário, no link de cada discurso — este site não o reproduz.
+
+### Os 5 mais recentes
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-07-14 · 18:20</span>
+<div class="corpo">
+<p class="tipo">COMO LÍDER</p>
+<p>A Deputada cobrou a votação do Projeto de Lei nº 896, de 2023, que criminaliza a misoginia como crime de ódio, afirmando que a Câmara precisava responder ao movimento de mulheres diante da epidemia de feminicídios. Além disso, criticou o Senado por adiar a análise da Proposta de Emenda à Constituição nº 221, de 2019, que trata do fim da escala 6 por 1 e apontou resistência de setores da extrema direita a avanços em direitos das mulheres. Também reprovou a Comissão de Segurança por aprovar emenda que enfraquecia a Lei de Racismo e por homenagear Gabriel Monteiro, e anunciou representação na Procuradoria-Geral da República.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204407/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-06-30 · 18:16</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>A Deputada manifestou inconformidade com a obstrução da Extrema Direita ao Projeto de Lei nº 896, de 2023, que altera a Lei nº 7.716, de 5 de janeiro de 1989, para incluir os crimes praticados em razão de misoginia, afirmando que o reconhecimento legal era passo importante no enfrentamento ao discurso de ódio e à incitação à violência contra as mulheres. Além disso, associou a resistência ao PL do Bolsonaro e ao Novo a uma agenda machista e antifeminista, criticou conteúdos misóginos em redes sociais.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204407/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-27 · 20:40</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada orientou a bancada na votação do requerimento de encerramento da discussão da Proposta de Emenda à Constituição (PEC) nº 221, de 2019, que reduz a jornada de trabalho e extingue a escala 6 por 1. Ademais, criticou o Partido Liberal (PL) por obstruir a tramitação da matéria na Comissão de Constituição e Justiça e de Cidadania (CCJC), na Comissão Especial e no Plenário. Além disso, recriminou a legenda por apoiar emenda que previa transição de 10 anos e jornada de até 52 horas semanais, além de defender reformas previdenciária e trabalhista contrárias aos interesses da classe trabalhadora.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=28%2F7%2F2026&amp;txPagina=218&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-20 · 19:28</span>
+<div class="corpo">
+<p class="tipo">DISCUSSÃO</p>
+<p>A Deputada discutiu o Projeto de Lei nº 2.564, de 2025, que altera a Lei nº 9.605, de 12 de fevereiro de 1998 (Lei dos Crimes Ambientais), para regular a aplicação de medidas administrativas cautelares e para dispor sobre a garantia à ampla defesa e ao contraditório.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=21%2F5%2F2026&amp;txPagina=211&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-20 · 18:16</span>
+<div class="corpo">
+<p class="tipo">DISCUSSÃO</p>
+<p>A Deputada discutiu o Projeto de Lei nº 2.486, de 2026, que altera os limites da Floresta Nacional do Jamanxim e cria a Área de Proteção Ambiental do Jamanxim, localizadas no Município de Novo Progresso, Estado do Pará.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=21%2F5%2F2026&amp;txPagina=174&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2026](discursos/2026/) | <span class="n"><b>41</b></span> | 33 |
+| [2025](discursos/2025/) | <span class="n"><b>83</b></span> | 74 |
+| [2024](discursos/2024/) | <span class="n"><b>60</b></span> | 46 |
+| [2023](discursos/2023/) | <span class="n"><b>113</b></span> | 94 |
+{: .t-anos}
+

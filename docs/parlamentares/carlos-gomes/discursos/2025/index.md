@@ -1,0 +1,28 @@
+---
+layout: default
+kind: discursos
+title: "Carlos Gomes — discursos de 2025"
+description: "Os discursos de Carlos Gomes em 2025, com o sumário publicado pela Câmara e link para o Diário."
+---
+
+# Discursos de 2025
+
+<p class="subtitulo"><b><a href="../../">Carlos Gomes</a></b> · REPUBLICANOS · 1 discursos em 2025</p>
+
+<p class="anos">Outros anos: <a href="../2026/">2026</a> · <b>2025</b> · <a href="../2023/">2023</a></p>
+
+> O que segue é o **sumário publicado pela Câmara**, sem edição. O texto
+> integral de cada discurso está no Diário, pelo link — este site não o
+> reproduz, e nada aqui é resumo nosso.
+
+## Substantivos — 1
+
+<blockquote class="evidencia discurso">
+<span class="data">2025-05-27 · 11:56</span>
+<div class="corpo">
+<p class="tipo">HOMENAGEM</p>
+<p>O Deputado discursou na Sessão Solene em homenagem aos 65 anos da Confederação Nacional de Dirigentes Lojistas (CNDL) e ao Dia Livre de Impostos. Destacou a liderança do Presidente da CNDL, José César da Costa, elogiando sua postura discreta e eficaz na condução da entidade. Ressaltou o papel da CNDL na articulação nacional do setor varejista e celebrou a presença de representantes dos 27 Estados, considerando sinal de uma liderança que une e mobiliza. Destacou que a homenagem valorizou também o compromisso da base estadual e a importância da força coletiva para superar os desafios do Brasil. Encerrou prestando reconhecimento à resiliência e à dedicação dos lojistas.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=28%2F5%2F2025&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+

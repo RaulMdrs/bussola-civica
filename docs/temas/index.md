@@ -11,16 +11,16 @@ description: "Alinhamento com o governo federal recortado pelos 12 temas com vot
 
 | Tema | Votações nominais | Média da bancada |
 |---|---:|---:|
-| [Administração Pública](administracao-publica/) | <span class="n">n&nbsp;=&nbsp;<b>165</b></span> | <span class="valor">57,6%</span> |
-| [Defesa e Segurança](defesa-e-seguranca/) | <span class="n">n&nbsp;=&nbsp;<b>41</b></span> | <span class="valor">57,3%</span> |
-| [Direito Penal e Processual Penal](direito-penal-e-processual-penal/) | <span class="n">n&nbsp;=&nbsp;<b>45</b></span> | <span class="valor">47,8%</span> |
-| [Direitos Humanos e Minorias](direitos-humanos-e-minorias/) | <span class="n">n&nbsp;=&nbsp;<b>71</b></span> | <span class="valor">59,2%</span> |
-| [Economia](economia/) | <span class="n">n&nbsp;=&nbsp;<b>80</b></span> | <span class="valor">66,4%</span> |
-| [Energia, Recursos Hídricos e Minerais](energia-recursos-hidricos-e-minerais/) | <span class="n">n&nbsp;=&nbsp;<b>33</b></span> | <span class="valor">72,3%</span> |
-| [Finanças Públicas e Orçamento](financas-publicas-e-orcamento/) | <span class="n">n&nbsp;=&nbsp;<b>247</b></span> | <span class="valor">64,8%</span> |
-| [Indústria, Comércio e Serviços](industria-comercio-e-servicos/) | <span class="n">n&nbsp;=&nbsp;<b>33</b></span> | <span class="valor">72,7%</span> |
-| [Meio Ambiente e Desenvolvimento Sustentável](meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="n">n&nbsp;=&nbsp;<b>64</b></span> | <span class="valor">59,5%</span> |
-| [Saúde](saude/) | <span class="n">n&nbsp;=&nbsp;<b>37</b></span> | <span class="valor">70,1%</span> |
-| [Trabalho e Emprego](trabalho-e-emprego/) | <span class="n">n&nbsp;=&nbsp;<b>30</b></span> | <span class="valor">66,4%</span> |
-| [Viação, Transporte e Mobilidade](viacao-transporte-e-mobilidade/) | <span class="n">n&nbsp;=&nbsp;<b>32</b></span> | <span class="valor">66,0%</span> |
+| [Administração Pública](administracao-publica/) | <span class="n"><b>165</b></span> | <span class="valor">57,6%</span> |
+| [Defesa e Segurança](defesa-e-seguranca/) | <span class="n"><b>41</b></span> | <span class="valor">57,3%</span> |
+| [Direito Penal e Processual Penal](direito-penal-e-processual-penal/) | <span class="n"><b>45</b></span> | <span class="valor">47,8%</span> |
+| [Direitos Humanos e Minorias](direitos-humanos-e-minorias/) | <span class="n"><b>71</b></span> | <span class="valor">59,2%</span> |
+| [Economia](economia/) | <span class="n"><b>80</b></span> | <span class="valor">66,4%</span> |
+| [Energia, Recursos Hídricos e Minerais](energia-recursos-hidricos-e-minerais/) | <span class="n"><b>33</b></span> | <span class="valor">72,3%</span> |
+| [Finanças Públicas e Orçamento](financas-publicas-e-orcamento/) | <span class="n"><b>247</b></span> | <span class="valor">64,8%</span> |
+| [Indústria, Comércio e Serviços](industria-comercio-e-servicos/) | <span class="n"><b>33</b></span> | <span class="valor">72,7%</span> |
+| [Meio Ambiente e Desenvolvimento Sustentável](meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="n"><b>64</b></span> | <span class="valor">59,5%</span> |
+| [Saúde](saude/) | <span class="n"><b>37</b></span> | <span class="valor">70,1%</span> |
+| [Trabalho e Emprego](trabalho-e-emprego/) | <span class="n"><b>30</b></span> | <span class="valor">66,4%</span> |
+| [Viação, Transporte e Mobilidade](viacao-transporte-e-mobilidade/) | <span class="n"><b>32</b></span> | <span class="valor">66,0%</span> |
 {: .t-lista-temas}

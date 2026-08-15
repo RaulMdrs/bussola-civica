@@ -122,3 +122,71 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+São **423 discursos** coletados no período, dos quais
+**396 substantivos** — os outros 27 são
+orientação de bancada e registro de presença, que a classificação separa
+do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+
+O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
+está no Diário, no link de cada discurso — este site não o reproduz.
+
+### Os 5 mais recentes
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-07-01 · 17:40</span>
+<div class="corpo">
+<p class="tipo">COMO LÍDER</p>
+<p>O Deputado criticou o Projeto de Lei nº 896, de 2023, que altera a Lei nº 7.716, de 5 de janeiro de 1989, e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dispor sobre crimes praticados em razão de misoginia, o qual poderia criminalizar padres e pastores por citações bíblicas, além de punir falas sobre mulheres com pena elevada. Também afirmou que a pauta desviou a Câmara de temas como a renegociação das dívidas dos agricultores do Rio Grande do Sul e o aumento de pena para crimes sexuais. Ademais, acusou a Esquerda de atacar religião e família, contestou votos do PSOL e do PT em matéria penal e rejeitou apoio à proposta.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160535/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-06-30 · 16:20</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado contestou declarações do Presidente da República sobre inflação, preços dos combustíveis, desemprego, crescimento econômico e situação fiscal, ao afirmar que os indicadores econômicos e a percepção da população seriam incompatíveis com esse diagnóstico. Além disso, argumentou que o aumento da dívida pública, do déficit fiscal, da taxa Selic e das recuperações judiciais refletiria dificuldades na economia brasileira e criticou a condução do Governo Federal.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160535/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-06-16 · 18:44</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado criticou decisões e atuações de integrantes do Supremo Tribunal Federal (STF), mencionando processos relacionados ao Deputado Eduardo Bolsonaro e investigações envolvendo o Banco Master. Além disso, afirmou que houve divergências entre Ministros da Corte quanto a medidas judiciais ligadas ao caso de Daniel Vorcaro e citou informações divulgadas por veículos de comunicação sobre supostas pressões e contatos entre autoridades públicas e investigados. Na continuidade, sustentou que as apurações poderiam alcançar agentes políticos e integrantes de instituições de Estado. Por fim, elogiou a atuação de Ministros indicados pelo ex-Presidente Jair Bolsonaro e defendeu a continuidade das investigações para apuração de eventuais responsabilidades.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160535/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-06-16 · 15:52</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado saudou a presença, na Câmara dos Deputados, do Vereador Ricardo Denti, de Sarandi (RS). Destacou sua atuação em parceria com a bancada do Partido dos Trabalhadores (PT) na articulação de recursos para o Município, especialmente para obras de infraestrutura, habitação e atendimento pelo Serviço de Atendimento Móvel de Urgência (SAMU). Por fim, parabenizou o Vereador pelo trabalho na Câmara Municipal.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160535/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-06-16 · 15:44</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado criticou a família Bolsonaro e defendeu a responsabilização do ex-Deputado Federal Eduardo Bolsonaro por coação no processo relacionado à tentativa de golpe de 2022. Ademais, elogiou as ações do Governo Federal para a reconstrução do Rio Grande do Sul, especialmente a entrega de moradias em Viamão (RS) e a assinatura de ordens para a construção de mais de 2 mil casas em diversos Municípios. Por fim, celebrou o compromisso do Presidente Lula e do Ministério das Cidades com as famílias atingidas e com a política habitacional no Estado.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160535/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2026](discursos/2026/) | <span class="n"><b>36</b></span> | 35 |
+| [2025](discursos/2025/) | <span class="n"><b>113</b></span> | 108 |
+| [2024](discursos/2024/) | <span class="n"><b>103</b></span> | 95 |
+| [2023](discursos/2023/) | <span class="n"><b>171</b></span> | 158 |
+{: .t-anos}
+

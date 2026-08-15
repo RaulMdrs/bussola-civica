@@ -122,3 +122,71 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+São **643 discursos** coletados no período, dos quais
+**512 substantivos** — os outros 131 são
+orientação de bancada e registro de presença, que a classificação separa
+do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+
+O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
+está no Diário, no link de cada discurso — este site não o reproduz.
+
+### Os 5 mais recentes
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-07-01 · 18:12</span>
+<div class="corpo">
+<p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
+<p>O Deputado encaminhou a votação do requerimento de urgência para apreciação do Projeto de Lei nº 849, de 2025, que reduz a Área de Proteção Ambiental da Baleia Franca, no Estado de Santa Catarina.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-07-01 · 16:52</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado afirmou que a autorização das bets no País ocorreu no Governo Temer, após o impeachment da Presidenta Dilma, e que o Governo Bolsonaro não adotou medidas para conter a atividade. Além disso, disse que o Presidente Lula buscou regulamentar o setor e elevar a taxação de 12% para 18%, mas que a extrema Direita teria barrado a proposta por interesse em manter o jogo sem imposto.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-07-01 · 16:40</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado informou que a Polícia Federal abriu inquérito para apurar o uso de dinheiro público em filme de propaganda do ex-Presidente Jair Bolsonaro, inclusive a possível destinação de emendas parlamentares à produção. Além disso, afirmou que emendas não poderiam servir à promoção pessoal e associou alguns suspeitos da investigação a Parlamentares já cassados, condenados ou envolvidos na tentativa de golpe, classificando o caso como grave.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-07-01 · 15:28</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado criticou Flávio Bolsonaro por ter colocado a soberania nacional em risco ao prometer a Trump uma equipe de transição ao Governo dos Estados Unidos, o que classificou como deslealdade à Pátria. Além disso, defendeu o fim da escala seis por um e a redução da jornada de 44 para 40 horas sem corte salarial, argumentando que a medida ampliaria o descanso, a convivência familiar e a produtividade. Por fim, cobrou que o Senado vote a proposta antes das eleições e destacou ações do Governo Lula em favor dos trabalhadores.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-06-30 · 15:36</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado afirmou que participou do anúncio do Plano Safra Empresarial e antecipou o lançamento do Plano Safra da Agricultura Familiar, ao destacar a ampliação dos recursos para crédito, armazenamento, assistência técnica e pesquisa. Além disso, ressaltou a retomada das fábricas de fertilizantes como medida para reduzir custos de produção e ampliar a competitividade do setor, e elogiou o Governo Federal pela apresentação de um plano robusto para a agricultura brasileira.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2026](discursos/2026/) | <span class="n"><b>102</b></span> | 80 |
+| [2025](discursos/2025/) | <span class="n"><b>215</b></span> | 177 |
+| [2024](discursos/2024/) | <span class="n"><b>211</b></span> | 154 |
+| [2023](discursos/2023/) | <span class="n"><b>115</b></span> | 101 |
+{: .t-anos}
+

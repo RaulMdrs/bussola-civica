@@ -122,3 +122,71 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+São **137 discursos** coletados no período, dos quais
+**124 substantivos** — os outros 13 são
+orientação de bancada e registro de presença, que a classificação separa
+do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+
+O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
+está no Diário, no link de cada discurso — este site não o reproduz.
+
+### Os 5 mais recentes
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-06-30 · 15:12</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado registrou a presença de lideranças do agro do Rio Grande do Sul em Brasília e defendeu a inclusão do Projeto de Lei nº 5.122, de 2023, na pauta do Colégio de Líderes, em reunião com o Presidente Hugo Motta. Além disso, saudou o Município de São Lourenço do Sul (RS) e os agricultores do Rio Grande do Sul e do País, ao sustentar que a proposta permitiria alongar a dívida rural, ampliar o prazo para pagamento e assegurar juros módicos, com uso de recursos de fundos e sem ônus ao Tesouro.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/136811/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-06-16 · 20:52</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado informou que, em articulação com a Presidência da Casa e com a liderança do Progressistas, recebeu a designação para relatar o Projeto de Lei nº 5.122, de 2023, que alongava a dívida dos agricultores e buscava mitigar os efeitos climáticos sobre a produção. Além disso, afirmou que o texto havia sido aprovado no Senado na semana anterior e defendeu a inclusão da matéria na pauta de votação com urgência, em apoio ao agro brasileiro.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/136811/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-27 · 18:44</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado defendeu o Projeto de Lei nº 2.951, de 2024, que altera a Lei nº 8.171, de 17 de janeiro de 1991, a Lei nº 10.823, de 19 de dezembro de 2003, e a Lei Complementar nº 137, de 26 de agosto de 2010, para aperfeiçoar os marcos legais do seguro rural, destacando as perdas de safras causadas por eventos climáticos extremos, como estiagens e enchentes no Rio Grande do Sul. Ressaltou que a proposta, iniciada pela Senadora Tereza Cristina e aprovada no Senado, amplia a cobertura do seguro rural para a pecuária, a pesca, a aquicultura e a agricultura. Por fim, conclamou o apoio dos colegas para a aprovação da matéria na Câmara.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=28%2F7%2F2026&amp;txPagina=183&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-19 · 16:12</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado afirmou que houve equívoco do Parlamentar que o antecedeu ao tratar de temas relacionados ao agronegócio. Citou o movimento SOS Agro no Rio Grande do Sul e mencionou a situação de agricultores afetados por crises climáticas, incluindo registros de suicídios no setor. Destacou a securitização financiada pelo fundo social para mitigação de impactos climáticos e afirmou que não haveria anistia ou descontos, com pagamento pelos produtores. Também mencionou ações na área da saúde no Município de Estância Velha (RS), com destinação de recursos a hospital local e índice de 41% de participação no financiamento.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=20%2F5%2F2026&amp;txPagina=96&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-12 · 16:20</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado registrou a presença do Prefeito de Gramado (RS), Nestor Tissot, do Vice-Prefeito Luia, de Secretários Municipais e do Vereador Nery, Presidente do Legislativo local, e ressaltou a qualidade da gestão municipal. Além disso, destacou a relevância turística e econômica de Gramado (RS), Município com 40 mil habitantes que recebeu 9 milhões de turistas ao longo de 365 dias. Por fim, defendeu o Projeto de Lei nº 5.122, de 2023, que dispõe sobre a liquidação, anistia, renegociação e rebate de dívidas originárias de crédito rural para agricultores, pecuaristas, piscicultores, pescadores e carcinicultores, em geral, e dá outras providências, bem como altera a Lei no 14.554, de 20 de abril de 2023, que altera as Leis nos 13.999, de 18 de maio de 2020, 14.166, de 10 de junho de 2021, 11.540, de 12 de novembro de 2007, e 14.042, de 19 de agosto de 2020, para tratar do refinanciamento de dívidas e altera a Lei no 7.827, de 27 de setembro de 1989, a fim de sanar omissão legislativa.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=13%2F5%2F2026&amp;txPagina=78&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2026](discursos/2026/) | <span class="n"><b>12</b></span> | 12 |
+| [2025](discursos/2025/) | <span class="n"><b>47</b></span> | 40 |
+| [2024](discursos/2024/) | <span class="n"><b>36</b></span> | 31 |
+| [2023](discursos/2023/) | <span class="n"><b>42</b></span> | 41 |
+{: .t-anos}
+

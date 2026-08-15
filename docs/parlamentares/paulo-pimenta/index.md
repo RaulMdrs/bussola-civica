@@ -122,3 +122,69 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+São **17 discursos** coletados no período, dos quais
+**14 substantivos** — os outros 3 são
+orientação de bancada e registro de presença, que a classificação separa
+do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+
+O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
+está no Diário, no link de cada discurso — este site não o reproduz.
+
+### Os 5 mais recentes
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-27 · 22:20</span>
+<div class="corpo">
+<p class="tipo">QUESTÃO DE ORDEM</p>
+<p>O Deputado celebrou a aprovação da Proposta de Emenda à Constituição nº 221, de 2019, que altera o art. 7º da Constituição Federal para reduzir a duração máxima semanal do trabalho.&amp;nbsp;Além disso, associou a votação à atuação do Governo Federal e à liderança do Presidente Lula na defesa de direitos sociais e trabalhistas. Também criticou adversários políticos ao relacioná-los a denúncias envolvendo o Banco Master, o banqueiro Daniel Vorcaro e fraudes do Instituto Nacional do Seguro Social (INSS). Ademais, afirmou que a nova jornada garantiria mais dignidade aos trabalhadores sem redução salarial e destacou a conquista da jornada de 40 horas semanais. Por fim, reafirmou apoio às pautas trabalhistas e comemorou o resultado da votação como um marco para os trabalhadores brasileiros.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=28%2F7%2F2026&amp;txPagina=253&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-27 · 20:20</span>
+<div class="corpo">
+<p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
+<p>O Deputado defendeu a aprovação da Proposta de Emenda à Constituição (PEC) nº 221, de 2019, que reduz a jornada de trabalho e extingue a escala 6 por 1. Ademais, associou a proposta à ampliação da qualidade de vida, do convívio familiar e da dignidade dos trabalhadores, especialmente das mulheres submetidas a jornadas mais extensas e salários mais baixos. Além disso, relembrou a atuação da Deputada Benedita da Silva na aprovação da PEC nº 478, de 2010, que ampliou os direitos das trabalhadoras domésticas e criticou o ex-Presidente Bolsonaro por ter sido o único Parlamentar a votar contra a medida. Ao final, celebrou a aprovação da PEC nº 221, de 2019, como conquista histórica da classe trabalhadora e do Governo do Presidente Lula.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=28%2F7%2F2026&amp;txPagina=213&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-19 · 18:28</span>
+<div class="corpo">
+<p class="tipo">COMO LÍDER</p>
+<p>O Deputado criticou o Senador Flávio Bolsonaro ao afirmar que houve contradições em declarações relacionadas ao empresário Daniel Vorcaro e a supostos repasses financeiros vinculados ao Banco Master e a um projeto cinematográfico. Além disso, mencionou investigação envolvendo recursos de consignados do Instituto Nacional do Seguro Social (INSS) e apontou que Flávio Bolsonaro teria visitado Vorcaro após a prisão do empresário. Ademais, ironizou a coletiva de imprensa realizada pelo Senador e manifestou constrangimento com a participação de Parlamentares no ato. Por fim, afirmou que os aliados políticos deveriam se afastar do Senador diante das denúncias e da repercussão do caso.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=20%2F5%2F2026&amp;txPagina=165&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-13 · 18:20</span>
+<div class="corpo">
+<p class="tipo">COMO LÍDER</p>
+<p>O Deputado fez acusações à família Bolsonaro, referindo-se ao banqueiro Daniel Vorcaro como o &quot;filho 05&quot; do ex-Presidente, em alusão ao financiamento de R$ 134 milhões para um filme sobre Bolsonaro. Citou documentos que comprovariam a relação entre Vorcaro e o clã Bolsonaro, incluindo: portaria ampliando percentual de consignado para o Banco Master; depósitos na campanha de Bolsonaro feitos pelo cunhado de Vorcaro; e depósitos na campanha do Governador de São Paulo, Tarcísio de Freitas. Além disso, mencionou revelações do portal The Intercept sobre depósito de mais de R$ 60 bilhões em conta no Texas vinculada a pessoas próximas a Eduardo Bolsonaro, informando que os dados já estariam com o Ministro André Mendonça, o Banco Central e o Conselho de Controle de Atividades Financeiras (COAF). Por fim, anunciou três medidas que seriam formalizadas junto ao Ministério Público Federal (MPF), à Polícia Federal (PF) e ao Ministro do Supremo Tribunal Federal (STF), André Mendonça: o bloqueio imediato de R$ 65 milhões para ressarcimento ao Fundo Garantidor de Crédito (FGC);o bloqueio da mansão do Senador Flávio Bolsonaro em Brasília (DF), financiada pelo Banco de Brasília (BRB), como garantia adicional de ressarcimento; e o uso imediato de tornozeleira eletrônica pelo Senador Flávio Bolsonaro, alegando risco real de fuga.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=14%2F5%2F2026&amp;txPagina=130&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-12 · 17:44</span>
+<div class="corpo">
+<p class="tipo">COMO LÍDER</p>
+<p>O Deputado apresentou um conjunto de documentos para vincular o escândalo do &quot;Bolsomaster&quot; ao ex-Presidente Jair Bolsonaro e à sua família, argumentando que o esquema só foi possível pela cumplicidade do Governo Bolsonaro. Nesse contexto, reconstituiu a trajetória do Banco Master, desde a autorização de funcionamento pelo Banco Central, em 2019, sob a presidência de Roberto Campos Neto, até os sucessivos acordos com o Instituto Nacional do Seguro Social (INSS) e a ampliação das margens do crédito consignado. Além disso, apontou que Fabiano Zettel, cunhado de Daniel Vorcaro, realizou as duas maiores doações de campanha nas eleições de 2024, sendo R$ 3 milhões para Bolsonaro e R$ 2 milhões para Tarcísio, e que o fundo Phoenix, ligado a Vorcaro, foi beneficiado pelas privatizações da Empresa Metropolitana de Águas e Energia (Emae) e da Companhia de Saneamento Básico do Estado de São Paulo (Sabesp) no Governo de São Paulo. Por fim, cobrou a abertura do sigilo bancário de Flávio Bolsonaro e a instalação da Comissão Parlamentar de Inquérito (CPI) do Banco Master para apurar o que classificou como esquema criminoso com ramificações na família Bolsonaro.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=13%2F5%2F2026&amp;txPagina=118&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2026](discursos/2026/) | <span class="n"><b>10</b></span> | 9 |
+| [2025](discursos/2025/) | <span class="n"><b>7</b></span> | 5 |
+{: .t-anos}
+

@@ -122,3 +122,71 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+São **130 discursos** coletados no período, dos quais
+**116 substantivos** — os outros 14 são
+orientação de bancada e registro de presença, que a classificação separa
+do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+
+O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
+está no Diário, no link de cada discurso — este site não o reproduz.
+
+### Os 5 mais recentes
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-06-09 · 15:28</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado defendeu a aprovação do projeto de securitização das dívidas rurais, com alongamento do prazo, juros menores e ampliação do crédito para produtores endividados. Ainda sobre o assunto, criticou a falta de apoio da Esquerda e a ausência do Governo Estadual em Brasília para articulação em favor da proposta. Além disso, afirmou que muitos produtores enfrentavam dificuldades até para despesas básicas e ressaltou que o agro não tinha bandeira partidária. Por fim, mencionou que 43 produtores gaúchos tiraram a própria vida em razão do endividamento.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220552/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-04-30 · 14:48</span>
+<div class="corpo">
+<p class="tipo">ORIENTAÇÃO DE BANCADA</p>
+<p>O Deputado orientou a bancada na votação do Veto Total nº 3, de 2026, aposto ao Projeto de Lei nº 2.162, de 2023, que trata da dosimetria da pena.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220552/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-04-07 · 19:24</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado informou a realização de evento político no Rio Grande do Sul, previsto para o dia 11, no Parque Harmonia, com a presença de lideranças da Direita. Destacou a participação do Senador Flávio Bolsonaro como pré-candidato à Presidência da República e anunciou o lançamento de pré-candidaturas ao Governo estadual e ao Senado, incluindo nomes para a Câmara e outras funções. Informou que o encontro teve como objetivo mobilizar apoiadores e apresentar propostas para o estado. Também fez convite à população gaúcha para participação no evento.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=8%2F4%2F2026&amp;txPagina=170&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2025-12-10 · 01:00</span>
+<div class="corpo">
+<p class="tipo">DISCUSSÃO</p>
+<p>O Deputado discutiu o Projeto de Lei nº&amp;nbsp;2.162, de 2023, que dispõe sobre a dosimetria das penas.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=10%2F12%2F2025&amp;txPagina=306&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2025-11-18 · 21:08</span>
+<div class="corpo">
+<p class="tipo">COMO LÍDER</p>
+<p>O Deputado afirmou que o Projeto de Lei nº 5.582, de 2025, que altera a Lei nº 12.850, de 2013, o Código Penal, o Código de Processo Penal, a Lei nº 8.072, de 1990, a Lei nº 7.960, de 1989, e a Lei nº 7.210, de 1984, para dispor sobre o combate às organizações criminosas no País, representa “a primeira grande ofensiva do Parlamento contra o crime organizado”. Disse que a proposta estabelece penas mais duras para integrantes e líderes de organizações criminosas, incluindo reclusão que pode ultrapassar 60 anos em casos de comando territorial, uso de explosivos ou ataques a agentes públicos. Em seguida, criticou a esquerda política, alegando que se opõe à votação e ao endurecimento penal. Argumentou que o texto relatado por Guilherme Derrite fortalece polícias militares e civis e devolve ao Estado o controle sobre áreas dominadas por grupos criminosos; e lembrou que facções atuam exercendo cobranças irregulares, impondo restrições de circulação e controlando serviços essenciais. Por fim, ao destacar o papel do Presidente da Câmara, Hugo Motta, na decisão de pautar o tema, disse que a aprovação da matéria enviaria um recado de que “o Estado, e não as facções, define as regras”.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=19%2F11%2F2025&amp;txPagina=202&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2026](discursos/2026/) | <span class="n"><b>3</b></span> | 3 |
+| [2025](discursos/2025/) | <span class="n"><b>57</b></span> | 50 |
+| [2024](discursos/2024/) | <span class="n"><b>28</b></span> | 23 |
+| [2023](discursos/2023/) | <span class="n"><b>42</b></span> | 40 |
+{: .t-anos}
+

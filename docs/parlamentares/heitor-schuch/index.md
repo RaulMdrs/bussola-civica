@@ -122,3 +122,71 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+São **123 discursos** coletados no período, dos quais
+**96 substantivos** — os outros 27 são
+orientação de bancada e registro de presença, que a classificação separa
+do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+
+O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
+está no Diário, no link de cada discurso — este site não o reproduz.
+
+### Os 5 mais recentes
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-07-01 · 15:24</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado comemorou o acordo entre as lideranças partidárias da Câmara para votar o Projeto de Lei nº 5.122, de 2023, que trata da renegociação das dívidas de agricultores afetados por estiagens e calamidades, especialmente na Região Sul. Destacou que a medida é aguardada pelo setor agropecuário e defendeu que sua aprovação fortalecerá o Plano Safra, proporcionando melhores condições para que os produtores rurais mantenham suas atividades e continuem abastecendo o mercado interno e as exportações. Ao final, reafirmou o apoio de sua bancada à proposta e conclamou os demais Deputados a votarem favoravelmente ao projeto.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178964/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-06-17 · 17:24</span>
+<div class="corpo">
+<p class="tipo">PARECER</p>
+<p>O Deputado proferiu parecer ao Projeto de Lei nº 1.106, de 2023, que reconhece a Robótica como esporte de competição e de relevância educacional, na forma que especifica.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178964/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-06-16 · 15:08</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado registrou a presença do Vereador Beto Lemos e de Bruno Passos, de Taquara, no Rio Grande do Sul, e elogiou o projeto Conexão Mulher, realizado em Santa Cruz do Sul. Além disso, destacou a formatura de 48 agricultoras familiares em temas como liderança feminina, cooperativismo, educação financeira, comunicação e políticas públicas, ressaltando o fortalecimento pessoal, comunitário e associativo promovido pela iniciativa. Por fim, parabenizou as entidades envolvidas e homenageou as mulheres formandas.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178964/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-06-09 · 14:00</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado manifestou expectativa com a decisão do Senado de pautar a votação da securitização das dívidas do setor agrícola, diante dos impactos das secas, enchentes e demais calamidades sobre os produtores. Recordou que a Câmara dos Deputados aprovou a proposta há quase um ano e questionou a demora na análise pelo Senado. Também afirmou que a votação da matéria não poderia ser adiada e defendeu mobilização junto aos Senadores para garantir a apreciação do projeto ainda naquela semana.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178964/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-26 · 14:04</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado saudou o Presidente da Federação dos Trabalhadores na Agricultura no Rio Grande do Sul (Fetag-RS), Eugênio Zanetti, presente em Brasília pela quinta semana consecutiva para acompanhar as negociações sobre a securitização das dívidas de agricultores gaúchos afetados por catástrofes climáticas. Parabenizou, ainda, a mobilização de trabalhadores da cadeia produtiva do tabaco realizada em Santa Cruz do Sul (RS). Por fim, manifestou preocupação com a queda do preço do leite ao produtor em plena entressafra, período em que deveria haver recuperação de preços, e alertou que a repetição do cenário vivido no ano anterior — com 11 meses consecutivos de baixa — compromete a permanência dos agricultores na atividade, a sucessão rural e o pagamento de financiamentos.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=27%2F5%2F2026&amp;txPagina=42&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2026](discursos/2026/) | <span class="n"><b>14</b></span> | 12 |
+| [2025](discursos/2025/) | <span class="n"><b>27</b></span> | 25 |
+| [2024](discursos/2024/) | <span class="n"><b>49</b></span> | 28 |
+| [2023](discursos/2023/) | <span class="n"><b>33</b></span> | 31 |
+{: .t-anos}
+

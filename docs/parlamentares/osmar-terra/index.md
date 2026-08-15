@@ -123,3 +123,71 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+São **116 discursos** coletados no período, dos quais
+**109 substantivos** — os outros 7 são
+orientação de bancada e registro de presença, que a classificação separa
+do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+
+O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
+está no Diário, no link de cada discurso — este site não o reproduz.
+
+### Os 5 mais recentes
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-07-07 · 16:32</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado alertou para o crescimento da dependência química de jogos, em especial das bets, apontando que mais de um terço dos pacientes de uma clínica de reabilitação que visitou no Rio Grande do Sul eram vítimas desse tipo de vício. Manifestou preocupação com o que classificou como liberação do plantio de maconha no País, sob a justificativa de uso medicinal, associando a substância ao desenvolvimento de esquizofrenia, psicose canábica, acidentes de trânsito e interdição de jovens. Também criticou decisões do STJ, do STF e da Anvisa que, na avaliação do Deputado, autorizaram o plantio e o consumo da droga à revelia do Congresso Nacional, extrapolando as competências dessas instituições. Por fim, cobrou que a Câmara dos Deputados reverta tais autorizações e reafirme o papel do Parlamento como único legitimado para legislar sobre a matéria.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73692/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-06-17 · 17:20</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado cumprimentou lideranças do movimento dos caminhoneiros presentes na sessão, mencionando representantes ligados ao setor de transporte e ao Porto de Santos. Além disso, recordou a participação nas negociações decorrentes da paralisação dos caminhoneiros de 2018 e na relatoria da proposta que instituiu o frete mínimo. Por fim, informou que estava em discussão uma legislação específica para a categoria e agradeceu a presença dos representantes do movimento e de um Vereador de Três Coroas (RS).</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73692/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-06-02 · 17:32</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado abordou o avanço do crime organizado no Brasil como problema de saúde pública, argumentando que governos do PT foram lenientes com o tema ao longo de 12 anos. Destacou que organizações narcotraficantes controlam 25% do território nacional, oprimindo cerca de 50 milhões de brasileiros, e defendeu a classificação dessas organizações como terroristas. Também criticou o Governo Federal por resistir ao enfrentamento do crime organizado e por não apurar os crimes do INSS. Em relação ao Banco Master, afirmou que o Presidente Lula teria atuado como conselheiro informal do banco, orientando negociações, e rejeitou as tentativas de atribuir responsabilidade ao Senador Flávio Bolsonaro. Por fim, defendeu a instalação de uma CPI do Banco Master e questionou por que Parlamentares do PT não assinam o requerimento para sua criação.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73692/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-19 · 19:24</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado agradeceu ao Presidente Hugo Mota pela criação de Comissão Externa para apurar a violência sexual contra crianças nos Estados brasileiros. Destacou que o Projeto de Lei (PL) nº 3.066, de 2025, aprovado por unanimidade na Câmara, aumenta penas, amplia a vigilância e permite o rastreamento sigiloso de criminosos na internet. Também mencionou a Operação Caminhos Seguros de 2026, que mobilizou 20 mil policiais, resultando em 323 prisões e 1.143 vítimas atendidas. Por fim, homenageou parlamentares, assessores e autoridades que contribuíram para a aprovação do PL.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=20%2F5%2F2026&amp;txPagina=182&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-03-24 · 18:56</span>
+<div class="corpo">
+<p class="tipo">OUTROS</p>
+<p>O Deputado defendeu a concessão de prisão domiciliar ao ex-Presidente Jair Bolsonaro por motivos de saúde. Argumentou que o ex-Presidente apresenta um quadro clínico grave e crônico, com problemas digestivos recorrentes, complicações decorrentes de cirurgias anteriores e outras condições que exigiriam acompanhamento médico contínuo. Além disso, criticou a decisão do Ministro Alexandre de Moraes de estabelecer um prazo determinado para a medida, argumentando que doenças crônicas não podem ser tratadas com prazos fixos e que a domiciliar deveria ser mantida de forma contínua enquanto durar a pena. Por fim, classificou a condenação como injusta e reforçou que a medida é necessária para preservar a saúde e a qualidade de vida do ex-Presidente.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=25%2F3%2F2026&amp;txPagina=145&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2026](discursos/2026/) | <span class="n"><b>15</b></span> | 10 |
+| [2025](discursos/2025/) | <span class="n"><b>21</b></span> | 20 |
+| [2024](discursos/2024/) | <span class="n"><b>21</b></span> | 20 |
+| [2023](discursos/2023/) | <span class="n"><b>59</b></span> | 59 |
+{: .t-anos}
+

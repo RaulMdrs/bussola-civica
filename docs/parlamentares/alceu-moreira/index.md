@@ -122,3 +122,71 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+São **27 discursos** coletados no período, dos quais
+**22 substantivos** — os outros 5 são
+orientação de bancada e registro de presença, que a classificação separa
+do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+
+O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
+está no Diário, no link de cada discurso — este site não o reproduz.
+
+### Os 5 mais recentes
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-19 · 18:00</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado defendeu a aprovação do Projeto de Lei nº 364 de 2019, que dispõe sobre a utilização e proteção da vegetação nativa dos Campos de Altitude associados ou abrangidos pelo bioma Mata Atlântica. Argumentou que a proposta estabelece um corte de 1.500 metros de altitude, abaixo do qual os campos são considerados antropizados desde 1740, com histórico consolidado de uso agropecuário. Por fim, criticou a aplicação da legislação da Mata Atlântica sobre essas áreas em detrimento do Código Florestal.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=20%2F5%2F2026&amp;txPagina=152&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-04-08 · 21:08</span>
+<div class="corpo">
+<p class="tipo">COMO RELATOR</p>
+<p>O Deputado agradeceu a aprovação do Projeto de Lei nº 399, de 2025, que altera a Lei nº 9.847, de 26 de outubro de 1999, para dispor sobre penalidades relativas à comercialização de combustíveis e biocombustíveis.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=9%2F4%2F2026&amp;txPagina=249&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-04-08 · 20:56</span>
+<div class="corpo">
+<p class="tipo">PARECER</p>
+<p>O Deputado proferiu parecer às Emendas de Plenário apresentadas ao Projeto de lei nº 399, de 2025, que altera a Lei nº 9.847, de 26 de outubro de 1999, para dispor sobre penalidades relativas à comercialização de combustíveis e biocombustíveis.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=9%2F4%2F2026&amp;txPagina=244&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-04-08 · 20:36</span>
+<div class="corpo">
+<p class="tipo">PARECER</p>
+<p>O Deputado proferiu parecer ao Projeto de lei nº 399, de 2025, que altera a Lei nº 9.847, de 26 de outubro de 1999, para dispor sobre penalidades relativas à comercialização de combustíveis e biocombustíveis.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=9%2F4%2F2026&amp;txPagina=238&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2025-10-08 · 13:56</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado criticou a postura do Governo em relação à arrecadação de impostos sobre produtos de alto consumo e risco, como bebidas alcoólicas, cigarro eletrônico e vapes. Destacou que enquanto fontes lícitas poderiam gerar cerca de R$ 50 bilhões, o Governo busca apenas R$ 20 bilhões, sem controlar efetivamente produtos que circulam pelo narcotráfico ou pelo mercado informal. Apontou que a falta de fiscalização sobre esses itens favorece a ilegalidade e agrava riscos à saúde pública, citando mortes por bebidas adulteradas. Questionou a lógica de não tributar produtos amplamente consumidos e facilmente controláveis, defendendo que a legalização e a tributação poderiam gerar receita e reduzir danos sociais.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=9%2F10%2F2025&amp;txPagina=39&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2026](discursos/2026/) | <span class="n"><b>4</b></span> | 4 |
+| [2025](discursos/2025/) | <span class="n"><b>10</b></span> | 7 |
+| [2024](discursos/2024/) | <span class="n"><b>8</b></span> | 6 |
+| [2023](discursos/2023/) | <span class="n"><b>5</b></span> | 5 |
+{: .t-anos}
+

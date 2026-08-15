@@ -122,3 +122,71 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+São **56 discursos** coletados no período, dos quais
+**54 substantivos** — os outros 2 são
+orientação de bancada e registro de presença, que a classificação separa
+do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+
+O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
+está no Diário, no link de cada discurso — este site não o reproduz.
+
+### Os 5 mais recentes
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-07-08 · 15:44</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado defendeu o investimento de R$ 27 bilhões da Companhia Manufatureira de Papéis e Cartões — CMPC na construção de uma fábrica em Barra do Ribeiro (RS), destacando seu potencial para gerar 12 mil empregos diretos e impulsionar o desenvolvimento econômico da metade sul do Estado. Além disso, criticou a atuação de Procurador por criar entraves ao empreendimento e sustentou que o curso técnico do processo e a legislação sejam observados. Por fim, enfatizou que a viabilização do projeto é essencial para atrair investimentos privados, ampliar a oferta de empregos e evitar a saída de trabalhadores do Rio Grande do Sul.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204409/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-07-07 · 14:40</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado celebrou a reinauguração do Theatro Sete de Abril, em Pelotas (RS), destacando tratar-se do teatro mais antigo do Rio Grande do Sul e do quarto mais antigo do País. Além disso, comemorou os 214 anos da fundação do Município e ressaltou a importância histórica e cultural do referido teatro para a população. Por fim, criticou a demora de 16 anos para a conclusão das obras de restauração e defendeu maiores investimentos em cultura.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204409/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-06-09 · 14:08</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado manifestou indignação com a situação dos produtores rurais do Rio Grande do Sul e do Brasil, que aguardam há mais de dois anos uma solução efetiva para a renegociação de dívidas decorrentes das enchentes de 2024. Ressaltou que os agricultores não buscam perdão ou anistia, mas respostas concretas do Governo Federal, que, a seu ver, não sinalizou encaminhamentos resolutivos. Também cobrou a aprovação do Projeto de lei nº 5.122, de 2023, no Senado Federal e a posterior sanção presidencial. Por fim, destacou a relevância do agronegócio para a economia gaúcha, responsável por 40% do PIB do Estado, e defendeu que o lugar do produtor rural é no campo, e não em mobilizações na Capital Federal.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204409/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-20 · 14:52</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado informou que se reuniu com o Diretor-Geral da ANTT para discutir a situação das concessões nas BRs 116 e 392, corredores ligados ao desenvolvimento econômico da metade sul do Rio Grande do Sul. Afirmou que o contrato anterior permaneceu por 28 anos e encerrou-se em março de 2026. Ressaltou que a região precisava de uma pausa sem cobrança de pedágio para estimular investimentos, geração de empregos e retomada econômica. Declarou que atuou contra a prorrogação do contrato e contra o período tampão. Também relatou que a ANTT garantiu a suspensão da cobrança de pedágio durante este ano.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=21%2F5%2F2026&amp;txPagina=73&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-20 · 14:28</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado homenageou a Vereadora Juliana Spolidoro, Presidente da Câmara Municipal de Cachoeira do Sul (RS), destacando sua atuação em pautas relacionadas à saúde e aos direitos da mulher. Além disso, registrou a visita da Vereadora a Brasília, acompanhada do Prefeito Balardin, em busca de soluções para o Município. Por fim, parabenizou-a pelo trabalho e mencionou sua condição de pré-candidata a Deputada Federal pelo PSDB.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=21%2F5%2F2026&amp;txPagina=63&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2026](discursos/2026/) | <span class="n"><b>13</b></span> | 13 |
+| [2025](discursos/2025/) | <span class="n"><b>29</b></span> | 27 |
+| [2024](discursos/2024/) | <span class="n"><b>8</b></span> | 8 |
+| [2023](discursos/2023/) | <span class="n"><b>6</b></span> | 6 |
+{: .t-anos}
+

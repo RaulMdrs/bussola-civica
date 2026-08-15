@@ -122,3 +122,71 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+São **981 discursos** coletados no período, dos quais
+**783 substantivos** — os outros 198 são
+orientação de bancada e registro de presença, que a classificação separa
+do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+
+O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
+está no Diário, no link de cada discurso — este site não o reproduz.
+
+### Os 5 mais recentes
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-07-15 · 15:24</span>
+<div class="corpo">
+<p class="tipo">COMO LÍDER</p>
+<p>O Deputado relatou ter articulado a inclusão de R$ 100 milhões no Orçamento Geral da União para intervenções na BR-116, no trecho entre Novo Hamburgo e Nova Petrópolis, no Vale dos Sinos, no Rio Grande do Sul, com o objetivo de reduzir acidentes, melhorar o tráfego e fortalecer o turismo na Serra Gaúcha. Afirmou ainda que o Presidente do Congresso, Senador Davi Alcolumbre, confirmou a destinação dos recursos aos Prefeitos da região, mas o Ministério dos Transportes enviou ofício informando que não haveria verba de emenda individual para a obra. Esclareceu também que se trata de recurso RP2, aprovado no Orçamento da União, e criticou lideranças locais do PT por colocarem dúvidas sobre a verba e tentarem sabotar sua aplicação. Por fim, defendeu a liberação imediata dos recursos e a união de todos, independentemente de partido, em favor de uma obra que considera essencial para salvar vidas, melhorar a mobilidade e impulsionar o turismo regional.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-07-14 · 17:08</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado manifestou solidariedade à Deputada Julia Zanatta e afirmou que a Parlamentar teria sido alvo de manifestações desrespeitosas durante a sessão. Além disso, criticou o Projeto de Lei nº 896, de 2023, que dispõe sobre crimes praticados em razão de misoginia, por considerar que a proposta deixaria de enfrentar crimes mais graves contra mulheres e crianças. Ademais, comentou o indiciamento de ex-integrantes do Instituto Nacional do Seguro Social (INSS) e de outras pessoas em investigação conduzida pela Polícia Federal (PF), atribuindo responsabilidade política ao Partido dos Trabalhadores (PT). Por fim, criticou decisões atribuídas ao Ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, mencionou atuação do escritório de advocacia da esposa do magistrado em parecer relacionado ao Banco Master e comparou o tratamento dado ao Presidente Luiz Inácio Lula da Silva durante o período em que esteve preso com o de outros investigados.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-07-14 · 16:24</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado criticou a Esquerda por priorizar o Projeto de Lei nº 896, de 2023, que tipifica o crime de misoginia, alegando que o objetivo real seria desviar o foco dos gastos da Primeira-dama Rosângela Silva. Além disso, ressaltou a postura dos partidos esquerdistas contra medidas de endurecimento penal. Citou como exemplos o voto contrário ao aumento do tempo mínimo para progressão de regime em crimes hediondos, à castração química de pedófilos e à ampliação do tempo de internação de adolescentes autores de estupro.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-07-08 · 18:48</span>
+<div class="corpo">
+<p class="tipo">COMO LÍDER</p>
+<p>O Deputado afirmou que o INSS teria sido usado para fazer campanha ao Presidente Lula por meio de grupo de WhatsApp administrado por servidora da autarquia, e informou que levaria representação ao Tribunal de Contas da União contra o aparelhamento do Estado pelo PT. Além disso, criticou documento do Ministro Mauro Vieira sobre PCC e Comando Vermelho, defendeu a classificação dessas facções como terroristas na lei nacional e apontou contradições da Polícia Federal e do Governo Lula no enfrentamento ao crime organizado.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-07-08 · 18:28</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado lamentou o veto do Governador Eduardo Leite à proposta aprovada por unanimidade pela Assembleia Legislativa do Rio Grande do Sul que extinguia a taxa de licenciamento veicular, criada para custear impressão e envio de documento que, desde 2019, passou a ser digital. Além disso, contestou o argumento de perda de receita para a segurança pública, defendeu a derrubada do veto e afirmou que, sem serviço prestado, não haveria justificativa para manter a cobrança ao cidadão gaúcho.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2026](discursos/2026/) | <span class="n"><b>94</b></span> | 70 |
+| [2025](discursos/2025/) | <span class="n"><b>272</b></span> | 226 |
+| [2024](discursos/2024/) | <span class="n"><b>248</b></span> | 180 |
+| [2023](discursos/2023/) | <span class="n"><b>367</b></span> | 307 |
+{: .t-anos}
+

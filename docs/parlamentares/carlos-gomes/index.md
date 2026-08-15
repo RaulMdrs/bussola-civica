@@ -122,3 +122,70 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+São **9 discursos** coletados no período, dos quais
+**9 substantivos** — os outros 0 são
+orientação de bancada e registro de presença, que a classificação separa
+do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+
+O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
+está no Diário, no link de cada discurso — este site não o reproduz.
+
+### Os 5 mais recentes
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-07-08 · 18:32</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado agradeceu ao Presidente Hugo Motta e aos Parlamentares pela aprovação da alteração da Lei de Incentivo à Reciclagem, afirmou ter superado a própria infância na coleta de materiais e disse que a decisão fez justiça à categoria. Além disso, ressaltou que mais de um milhão de pessoas dependiam da reciclagem e pediu apoio do Senado para acelerar a tramitação, a fim de fortalecer a economia circular e a reciclagem no País.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178962/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-07-08 · 18:08</span>
+<div class="corpo">
+<p class="tipo">DISCUSSÃO</p>
+<p>O Deputado discutiu o Projeto de Lei nº 1.361, de 2025, que altera a Lei nº 14.260, de 2021, para tornar permanentes os incentivos à indústria da reciclagem.&amp;nbsp;Na oportunidade, afirmou que a proposta aperfeiçoou a Lei de Incentivo à Reciclagem e fortaleceu seus impactos sociais, ambientais e econômicos; e que que a matéria elevou de 1% para 4% o limite de dedução do Imposto de Renda para pessoas jurídicas, tornou permanente a vigência da lei e ampliou a participação dos Municípios na comissão responsável pelo acompanhamento da política. Por fim, sustentou que a iniciativa promoveria a economia circular e beneficiaria os trabalhadores da reciclagem, especialmente os catadores.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178962/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-07-08 · 16:16</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado agradeceu ao Presidente da Câmara dos Deputados, Hugo Motta, pela inclusão em pauta do Projeto de Lei (PL) nº 1.361, de 2025, que altera a Lei nº 14.260, de 2021, para tornar permanentes os incentivos à indústria da reciclagem. Além disso, destacou os resultados alcançados pela legislação, com a aprovação de centenas de projetos voltados ao fortalecimento da cadeia produtiva da reciclagem e da economia circular. Por fim, defendeu a aprovação do parecer do Relator Deputado Arnaldo Jardim, sustentando que a proposta amplia os limites de dedução do Imposto de Renda para investimentos em projetos de reciclagem, equiparando os incentivos fiscais aos concedidos às áreas da cultura e do esporte.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178962/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-03-17 · 15:52</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado informou retorno ao mandato após atuação à frente da Secretaria de Habitação e Regularização Fundiária do Rio Grande do Sul, destacando ações durante enchentes, como aquisição de moradias modulares, construção de unidades habitacionais e programas de acesso à casa própria. Além disso, relatou iniciativas de regularização fundiária, saneamento e abastecimento de água, além de parcerias institucionais para atender famílias afetadas. Em seguida, alertou para impactos da reforma tributária na cadeia da reciclagem, defendendo ajustes para evitar prejuízos às indústrias e aos trabalhadores do setor. Também mencionou a Lei de Incentivo à Reciclagem e solicitou apoio para ampliar investimentos e fortalecer a atividade no País.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178962/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2025-05-27 · 11:56</span>
+<div class="corpo">
+<p class="tipo">HOMENAGEM</p>
+<p>O Deputado discursou na Sessão Solene em homenagem aos 65 anos da Confederação Nacional de Dirigentes Lojistas (CNDL) e ao Dia Livre de Impostos. Destacou a liderança do Presidente da CNDL, José César da Costa, elogiando sua postura discreta e eficaz na condução da entidade. Ressaltou o papel da CNDL na articulação nacional do setor varejista e celebrou a presença de representantes dos 27 Estados, considerando sinal de uma liderança que une e mobiliza. Destacou que a homenagem valorizou também o compromisso da base estadual e a importância da força coletiva para superar os desafios do Brasil. Encerrou prestando reconhecimento à resiliência e à dedicação dos lojistas.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=28%2F5%2F2025&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2026](discursos/2026/) | <span class="n"><b>4</b></span> | 4 |
+| [2025](discursos/2025/) | <span class="n"><b>1</b></span> | 1 |
+| [2023](discursos/2023/) | <span class="n"><b>4</b></span> | 4 |
+{: .t-anos}
+

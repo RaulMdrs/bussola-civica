@@ -122,3 +122,71 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+São **92 discursos** coletados no período, dos quais
+**76 substantivos** — os outros 16 são
+orientação de bancada e registro de presença, que a classificação separa
+do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+
+O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
+está no Diário, no link de cada discurso — este site não o reproduz.
+
+### Os 5 mais recentes
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-27 · 22:48</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada celebrou o avanço da proposta de redução da jornada de trabalho e do fim da escala 6 por 1, destacando o momento como histórico para a classe trabalhadora. Ressaltou a importância da luta sindical, da atuação de Parlamentares e movimentos sociais na defesa dos trabalhadores, especialmente das mulheres e mulheres negras submetidas a jornadas exaustivas. Ademais, afirmou que a Câmara demonstrou compromisso com pautas que impactam diretamente a vida da população e agradeceu ao Presidente Luiz Inácio Lula da Silva pelo apoio histórico às causas trabalhistas e às políticas sociais. Também reforçou seu compromisso político com os trabalhadores e afirmou que o Brasil dá um passo importante em direção a melhores condições de vida e trabalho.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=28%2F7%2F2026&amp;txPagina=261&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-26 · 16:52</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada defendeu a própria conduta no processo de tramitação do Projeto de Lei nº 68, de 2025, que Altera a Lei nº 14.192, de 2021, que dispõe sobre a violência política de gênero, e a Lei nº 4.737, de 1965 (Código Eleitoral), para incluir medidas específicas de proteção e apoio a mulheres em espaços de poder que sofram violência política de gênero, esclarecendo que, ao surgir qualquer ruído em torno da matéria, retirou o projeto para tratativas adequadas e só deu sequência após a conclusão desse processo. Ressaltou o compromisso ético assumido com cerca de 90 mil eleitores gaúchos e afirmou que, em todos os momentos em que empenhou sua palavra, cumpriu o acordado.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=27%2F5%2F2026&amp;txPagina=112&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-20 · 14:36</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>A Deputada defendeu a Proposta de Emenda à Constituição que propõe o fim da escala 6x1, com jornada de 40 horas semanais, duas folgas e sem redução salarial, e criticou tentativas de condicionar essa conquista a contrapartidas como a redução do recolhimento do FGTS de 8% para 4% e a isenção temporária da Previdência Patronal para novas contratações. Além disso, apontou contradição dos grupos que não questionaram a reforma trabalhista, aprovada em 120 dias, mas agora resistem à ampliação de direitos. Por fim, reafirmou seu compromisso com os trabalhadores e declarou que dignidade não se negocia.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=21%2F5%2F2026&amp;txPagina=67&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-05 · 16:24</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada relatou visita realizada à Associação dos Trabalhadores da Unidade de Triagem do Hospital Psiquiátrico São Pedro, em Porto Alegre (RS). Ressaltou a organização do espaço, que encaminha trabalhadores pela rede de saúde mental e promove reinserção social com dignidade, geração de emprego e renda. Além disso, nomeou os responsáveis pela gestão do local, a coordenadora Luciana e o psicólogo Alexandre, elogiando o trabalho de ambos. Encerrou defendendo a luta por saúde mental, qualidade de vida e um Sistema Único de Saúde (SUS) robusto, capaz de atender às necessidades da população, classificando o centro como um exemplo de que a saúde pública pode oferecer caminhos concretos de ressocialização com qualidade.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220555/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-04-08 · 20:16</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada destacou a importância da votação da &amp;nbsp;Proposta de Emenda à Constituição nº 383, de 2017, em discussão, e afirmou que a proposta representou avanço na consolidação do Sistema Único de Assistência Social como política pública estruturada. Ressaltou sua experiência como educadora social e reconheceu o trabalho de profissionais da rede de assistência, incluindo assistentes sociais e educadores. Também defendeu a necessidade de investimentos contínuos no setor e avaliou que a aprovação da matéria simboliza o reconhecimento institucional ao trabalho desenvolvido na área.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=9%2F4%2F2026&amp;txPagina=231&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2026](discursos/2026/) | <span class="n"><b>13</b></span> | 11 |
+| [2025](discursos/2025/) | <span class="n"><b>22</b></span> | 21 |
+| [2024](discursos/2024/) | <span class="n"><b>35</b></span> | 23 |
+| [2023](discursos/2023/) | <span class="n"><b>22</b></span> | 21 |
+{: .t-anos}
+

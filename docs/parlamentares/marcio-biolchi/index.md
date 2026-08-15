@@ -122,3 +122,10 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+> **Nenhum discurso deste parlamentar consta no acervo** para o período.
+> A ausência é do que a origem devolveu para o identificador dele, não
+> uma escolha desta página.
+

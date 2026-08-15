@@ -122,3 +122,71 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+São **20 discursos** coletados no período, dos quais
+**17 substantivos** — os outros 3 são
+orientação de bancada e registro de presença, que a classificação separa
+do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+
+O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
+está no Diário, no link de cada discurso — este site não o reproduz.
+
+### Os 5 mais recentes
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-02-24 · 15:44</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado destacou a visita da Prefeita de Estrela (RS), Carine Schwingel, ao plenário da Câmara. Afirmou que a Prefeita é parceira do União Brasil e aproveitou a oportunidade para apresentá-la à Casa. Fez homenagem à gestora, elogiando sua atuação à frente do Município e ressaltando sua importância como liderança feminina no Rio Grande do Sul.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=25%2F2%2F2026&amp;txPagina=85&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2025-10-28 · 21:44</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado afirmou que a função da Defensoria Pública é justamente atender as comunidades mais distantes e do interior, defendendo, por isso, a rejeição do destaque em discussão.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=29%2F10%2F2025&amp;txPagina=375&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2025-10-28 · 21:12</span>
+<div class="corpo">
+<p class="tipo">PARECER</p>
+<p>O Deputado proferiu parecer ao Projeto de Lei nº 1.881, de 2025, que cria&amp;nbsp;e estrutura o Fundo de Fortalecimento do Acesso à Justiça, Promoção dos Direitos Fundamentais e Estruturação da Defensoria Pública da União (FDPU). Além disso, ressaltou a importância da DPU na prestação de assistência jurídica gratuita à população vulnerável e relatou vínculo pessoal com a Defensoria por meio de seu pai, que foi defensor público estadual. Ainda, destacou que o fundo será composto por parte das custas judiciais, doações e emendas parlamentares, sem gerar aumento de despesa pública, e será aplicado na ampliação da estrutura, modernização tecnológica e expansão do atendimento, com prestação de contas em portal de transparência. Por fim, ressaltou que a medida contribui para a democratização do acesso à Justiça e está alinhada com esforços nacionais de modernização do Judiciário.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=29%2F10%2F2025&amp;txPagina=363&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2025-05-28 · 15:24</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado alertou para o impacto das redes sociais na vida de crianças e adolescentes e defendeu o Projeto de Lei nº 2.387, de 2025, de sua autoria, que proíbe o acesso de menores de 16 anos a redes sociais e plataformas digitais como TikTok, Facebook, entre outras. Comparou o ambiente virtual à exposição de menores a espaços públicos sem supervisão, apontando os riscos da interação com desconhecidos nessas redes. Por fim, ressaltou que a proposição estabelece a obrigação das plataformas de verificar com eficácia a idade dos usuários como forma de proteção aos menores.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=29%2F5%2F2025&amp;txPagina=78&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2025-05-06 · 14:24</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado defendeu a proibição da publicidade das chamadas &quot;bets&quot;, plataformas de apostas esportivas, por todos os meios de comunicação, incluindo redes sociais e plataformas digitais. Apresentou o Projeto de Lei nº 2.092, de 2025, com esse objetivo, argumentando que essas propagandas transformam o vício em entretenimento e atingem especialmente crianças e adolescentes, promovendo uma ilusão de dinheiro fácil que pode levar ao endividamento e sofrimento de famílias. Comparou a medida à proibição de propagandas de cigarro e bebidas alcoólicas, destacando a importância de proteger a saúde mental da juventude e colocar o interesse coletivo acima do lucro.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=7%2F5%2F2025&amp;txPagina=50&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2026](discursos/2026/) | <span class="n"><b>1</b></span> | 1 |
+| [2025](discursos/2025/) | <span class="n"><b>9</b></span> | 7 |
+| [2024](discursos/2024/) | <span class="n"><b>3</b></span> | 2 |
+| [2023](discursos/2023/) | <span class="n"><b>7</b></span> | 7 |
+{: .t-anos}
+

@@ -122,3 +122,71 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+São **326 discursos** coletados no período, dos quais
+**292 substantivos** — os outros 34 são
+orientação de bancada e registro de presença, que a classificação separa
+do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+
+O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
+está no Diário, no link de cada discurso — este site não o reproduz.
+
+### Os 5 mais recentes
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-07-14 · 17:00</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>A Deputada homenageou a Deputada Benedita da Silva pela atuação em defesa das mulheres e afirmou que o País deveria promover a paz e o respeito entre as religiões. Além disso, criticou o uso de argumentos religiosos para, segundo declarou, desvirtuar a proposição sobre misoginia e relativizar a violência contra as mulheres. Por fim, relacionou manifestações de ódio ao feminicídio, citou casos de violência e defendeu a votação do Projeto de Lei nº 896, de 2023, que dispõe sobre crimes praticados em razão de misoginia, como medida de proteção à vida e à dignidade das mulheres brasileiras.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-06-16 · 20:08</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada cumprimentou o relator do Projeto de Lei Complementar nº 337, de 2017, Lafayette Andrade, elogiando sua dedicação ao direito e sua atuação na solução de temas complexos, além de recordar a parceria com Bonifácio Andrade. Também saudou o Presidente, a Mesa Diretora e a Secretaria-Geral, reconhecendo a organização da pauta como alinhada aos anseios da sociedade brasileira e ao trabalho da Câmara em favor do País.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-06-16 · 18:36</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada registrou a presença da Vereadora Mônica Facio, de Taquara (RS), e ressaltou a atuação da parlamentar em favor do desenvolvimento regional, da moradia digna, da educação e da defesa das mulheres no Vale do Paranhana e no Rio Grande do Sul. Além disso, destacou as agendas realizadas em Brasília (DF) junto a órgãos federais como forma de atender demandas da população gaúcha. Enfatizou a parceria com Vereadoras do Estado no enfrentamento ao feminicídio e na promoção dos direitos das mulheres. Por fim, manifestou apoio à urgência e à votação do Projeto de Lei nº 896, de 2023, que altera a Lei nº 7.716, de 1989, e o Código Penal, para dispor sobre crimes praticados em razão de misoginia, argumentando que o combate à violência contra a mulher deve começar pelo enfrentamento de práticas de ódio e discriminação em diferentes espaços da sociedade.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-06-16 · 14:00</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>A Deputada registrou a mobilização de trabalhadores da saúde de Porto Alegre (RS) pela equiparação dos valores do vale-alimentação entre o Grupo Hospitalar Conceição e o Hospital de Clínicas de Porto Alegre, além da manutenção do benefício para afastados pelo INSS e da ampliação do auxílio. Também destacou o lançamento da Rede Nacional de Proteção e Defesa dos Direitos Humanos das Pessoas Idosas pelo Governo Federal, com foco na prevenção da violência, na promoção da dignidade e na articulação de políticas públicas. Defendeu o fortalecimento da Política Nacional de Cuidados, o auxílio para cuidadores de beneficiários do BPC e a ratificação da Convenção Internacional sobre Envelhecimento Humano, pendente de deliberação no Congresso.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-20 · 17:16</span>
+<div class="corpo">
+<p class="tipo">DISCUSSÃO</p>
+<p>A Deputada discutiu a Medida Provisória nº 1.334, de 2026, que altera a Lei nº 11.738, de 16 de julho de 2008, para dispor sobre o piso salarial profissional nacional para os profissionais do magistério público da educação básica.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2026](discursos/2026/) | <span class="n"><b>37</b></span> | 34 |
+| [2025](discursos/2025/) | <span class="n"><b>144</b></span> | 119 |
+| [2024](discursos/2024/) | <span class="n"><b>33</b></span> | 33 |
+| [2023](discursos/2023/) | <span class="n"><b>112</b></span> | 106 |
+{: .t-anos}
+

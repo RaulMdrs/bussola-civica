@@ -122,3 +122,71 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+São **39 discursos** coletados no período, dos quais
+**37 substantivos** — os outros 2 são
+orientação de bancada e registro de presença, que a classificação separa
+do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+
+O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
+está no Diário, no link de cada discurso — este site não o reproduz.
+
+### Os 5 mais recentes
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-07-08 · 16:40</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada defendeu a aprovação de Projeto de Lei nº 3.481, de 2026, que revoga a obrigatoriedade de as redes de ensino realizarem as férias escolares de meio de ano de 2027 no período da Copa do Mundo Feminina (24 de junho a 27 de julho), prevista em lei sancionada pelo Presidente Lula. Também argumentou que a regra afetaria escolas públicas e privadas em todo o País, gerando impactos para estudantes, profissionais da educação e famílias. Ao final, pediu que o mérito da proposta fosse votado pelo Plenário antes do recesso parlamentar.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220549/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-06-09 · 19:44</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>A Deputada parabenizou produtores rurais gaúchos que se deslocaram até Brasília para reivindicar condições de renegociação de dívidas, contextualizando o endividamento do setor com a ocorrência de cinco safras frustradas nos últimos anos, quatro secas seguidas de uma enchente. Destacou que a mobilização foi protagonizada especialmente por pequenos produtores e assentados, e criticou a ausência de Parlamentares do PT na coletiva realizada. Também cobrou a aprovação do PL nº 5.122, de 2024, no Senado e sua sanção pelo Presidente da República, ressaltando que a Câmara já havia cumprido sua parte.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220549/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-19 · 20:24</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada registrou voto contrário ao Projeto de Lei nº 4.822, de 2025, e lamentou que a matéria tivesse sido aprovada de forma simbólica, sem votação nominal. Defendeu que cada um dos 513 Parlamentares deve deixar registrado seu posicionamento, sobretudo em temas relacionados a benefícios e privilégios, para que o País inteiro tenha acesso a essa informação.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=20%2F5%2F2026&amp;txPagina=204&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-12 · 18:08</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada defendeu a aprovação da Subemenda Substitutiva&amp;nbsp;ao Projeto de Lei nº 488, de 2019, que determina a obrigatoriedade de imposição de penas restritivas de direitos aos condenados por crimes de pedofilia. Na oportunidade, parabenizou o Deputado Kim Kataguiri por sua relatoria.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=13%2F5%2F2026&amp;txPagina=128&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-05 · 16:08</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>A Deputada defendeu a redução da maioridade penal após caso de estupro coletivo de duas crianças praticado por um adulto e quatro adolescentes. Citou pesquisa que apontou 90% dos brasileiros favoráveis à medida e questionou a omissão da Casa diante do tema. Argumentou que medidas socioeducativas são insuficientes para crimes hediondos praticados com extrema violência, comparando o sistema atual a uma porta giratória. Além disso, mencionou que países como Estados Unidos, Alemanha, Inglaterra e Japão já responsabilizam criminosos dessa natureza como adultos. Por fim, cobrou do Parlamento o enfrentamento da questão e a revisão da legislação vigente.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=6%2F5%2F2026&amp;txPagina=81&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2026](discursos/2026/) | <span class="n"><b>11</b></span> | 10 |
+| [2025](discursos/2025/) | <span class="n"><b>8</b></span> | 8 |
+| [2024](discursos/2024/) | <span class="n"><b>9</b></span> | 8 |
+| [2023](discursos/2023/) | <span class="n"><b>11</b></span> | 11 |
+{: .t-anos}
+

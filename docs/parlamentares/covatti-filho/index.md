@@ -122,3 +122,32 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+São **1 discursos** coletados no período, dos quais
+**1 substantivos** — os outros 0 são
+orientação de bancada e registro de presença, que a classificação separa
+do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+
+O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
+está no Diário, no link de cada discurso — este site não o reproduz.
+
+### Os 1 mais recentes
+
+<blockquote class="evidencia discurso">
+<span class="data">2024-05-07 · 18:00</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado agradeceu o apoio às vítimas da catástrofe climática ocorrida no Estado do Rio Grande do Sul prestado pela bancada do Partido Progressista na Câmara dos Deputados, mediante destinação de recursos de emendas parlamentares, ressaltando também a ajuda proveniente de Deputados de outros Estados.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=8%2F5%2F2024&amp;txPagina=109&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2024](discursos/2024/) | <span class="n"><b>1</b></span> | 1 |
+{: .t-anos}
+

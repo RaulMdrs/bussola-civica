@@ -122,3 +122,70 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+São **126 discursos** coletados no período, dos quais
+**114 substantivos** — os outros 12 são
+orientação de bancada e registro de presença, que a classificação separa
+do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+
+O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
+está no Diário, no link de cada discurso — este site não o reproduz.
+
+### Os 5 mais recentes
+
+<blockquote class="evidencia discurso">
+<span class="data">2025-10-14 · 16:00</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado acusou o Governo Lula de adotar práticas autoritárias semelhantes às da Venezuela, China e Nicarágua, chamando-o de “Governo da mentira”. Criticou a influência da Primeira-Dama Janja, comparando-a à esposa do ditador nicaraguense Ortega, e atacou Lula por indicar amigos ao Supremo Tribunal Federal (STF) e impor sigilos de até 100 anos, contradizendo o discurso de transparência. Por fim, disse que o país vive sob um “Governo da gastança e do segredo”.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=15%2F10%2F2025&amp;txPagina=84&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2025-10-07 · 15:20</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado criticou o Supremo Tribunal Federal (STF) e o Governo Federal, afirmando que o Brasil vive uma “ditadura disfarçada” e que o tribunal extrapolou suas funções ao limitar ações do ex-Presidente Jair Bolsonaro. Mencionou que o Ministro do Supremo Tribunal Federal, Luís Roberto Barroso, supostamente reconheceu possíveis excessos do Supremo e a força política de Bolsonaro. Também acusou o Partido dos Trabalhadores (PT) de “comprar tudo, até o Fundação Instituto Brasileiro de Geografia e Estatística (IBGE)”, e afirmou que o partido substituiu a fome pela miséria, culpando o Governo pela crise social e pela violência do crime organizado.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=8%2F10%2F2025&amp;txPagina=70&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2025-10-01 · 16:16</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado criticou a política fiscal do Governo ao afirmar que novos impostos estavam sendo criados para sustentar o aumento de gastos públicos. Mencionou os recursos destinados ao Bolsa Família, no valor de 94 milhões de reais, e ao Vale Gás, de 10 milhões, apontando que a conta seria paga pela população que gera empregos e já enfrenta elevada carga tributária. Destacou que trabalhadores e empresários arcam com 27,5% de Imposto de Renda, mais de 40% sobre empresas e agora mais 10% sobre lucros e dividendos. Também mencionou os altos valores de bens utilizados pelo Presidente Lula e pela Primeira-dama, em contraste com o discurso de proximidade com a população de baixa renda.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=2%2F10%2F2025&amp;txPagina=102&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2025-10-01 · 14:32</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado comentou a prisão na Itália de Tagliaferro, acusado de envolvimento na chamada &quot;vaza-toga&quot;. Afirmou que, em vez de apurar os fatos, o regime petista tenta silenciar vozes críticas, forçando adversários a deixarem o Brasil. Também defendeu que Tagliaferro seja chamado a depor no País para esclarecer os acontecimentos.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=2%2F10%2F2025&amp;txPagina=66&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2025-09-30 · 17:24</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado criticou o Ministro Edson Fachin, do Supremo Tribunal Federal (STF), afirmando que sua decisão de anular condenações e “descondenar” o Presidente Lula em 2021 teria aprofundado a divisão no País e agravado a criminalidade. Ademais, disse que o Brasil afundou economicamente, citando os 94 milhões de beneficiários do Bolsa Família como exemplo do aumento da miséria. Também questionou quem arcaria com as chamadas benesses aprovadas no Congresso, alegando que empresários estariam fechando empresas diante da alta carga tributária. Por fim, acusou o STF de desrespeitar a Constituição desde 2019 e defendeu a necessidade de restabelecer sua observância, citando a aplicação da Lei Magnitsky pelo governo dos Estados Unidos.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=1%2F10%2F2025&amp;txPagina=109&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2025](discursos/2025/) | <span class="n"><b>28</b></span> | 27 |
+| [2024](discursos/2024/) | <span class="n"><b>23</b></span> | 23 |
+| [2023](discursos/2023/) | <span class="n"><b>75</b></span> | 64 |
+{: .t-anos}
+

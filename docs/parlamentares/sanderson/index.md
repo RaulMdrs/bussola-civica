@@ -122,3 +122,71 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+São **133 discursos** coletados no período, dos quais
+**117 substantivos** — os outros 16 são
+orientação de bancada e registro de presença, que a classificação separa
+do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+
+O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
+está no Diário, no link de cada discurso — este site não o reproduz.
+
+### Os 5 mais recentes
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-07-15 · 16:40</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado defendeu a aprovação da Proposta de Emenda à Constituição — PEC nº 231, de 2019, que cria fundo constitucional para as Regiões Sul e Sudeste e amplia os repasses ao Fundo de Participação dos Municípios — FPM e à segurança pública. Além disso, sustentou que a proposta fortalecerá o enfrentamento da criminalidade e das demandas extraordinárias das Regiões Sul e Sudeste por meio do aumento de recursos orçamentários. Ademais, reforçou que o combate ao crime organizado depende de investimentos, integração e inteligência, com reforço das forças de segurança e do controle das fronteiras. Por fim, apelou ao Presidente da Câmara dos Deputados, Hugo Motta, para que inclua a PEC na pauta de votações do Plenário.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204416/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-07-08 · 18:44</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado defendeu a votação da Proposta de Emenda à Constituição nº 32, de 2015, que reduz a maioridade penal, após citar o caso de um jovem de 17 anos que teria cometido duplo homicídio e permanecido preso por apenas três meses. Além disso, afirmou que a população rejeitava a leniência com criminosos, sustentou que adolescentes com 17 anos já podiam votar e, por conseguinte, também deveriam responder criminalmente, e pediu a aprovação célere da proposta, parada há 11 anos, para proteger a sociedade.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204416/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-06-09 · 15:20</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado registrou o papel fiscalizador da Câmara e informou ter encaminhado ao Tribunal de Contas da União (TCU) representação para apurar gastos de servidores públicos brasileiros em fórum jurídico realizado em Lisboa, com passagens, hospedagem e alimentação pagos com recursos do contribuinte. Além disso, afirmou que a apuração já havia sido instaurada e defendeu a responsabilização e a devolução dos valores, para que a população fosse respeitada.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204416/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-19 · 15:56</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado cumprimentou Vereadores e Prefeitos presentes na Marcha dos Prefeitos em Brasília (DF), organizada pela Confederação Nacional dos Municípios (CNM), presidida por Paulo Ziulkoski. Citou representantes de diferentes Municípios do Rio Grande do Sul e de outros Estados, incluindo o Presidente da Câmara de Vereadores de Canoas (RS), Abmael de Oliveira, o Vereador Jorge Bellé, de Campo Bom (RS), o assessor Júnior Kowalski e o Secretário e Vereador Gelson, de Crissiumal (RS), além dos suplentes Flávio Moreno e Susanna do Val. Afirmou que o Parlamento recebeu lideranças municipais para aproximação com a realidade e as demandas dos Municípios no Congresso Nacional.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=20%2F5%2F2026&amp;txPagina=90&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-05-05 · 17:52</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado registrou a celebração dos 400 anos da chegada dos jesuítas e da formação dos Sete Povos das Missões, destacando a relevância histórica da região para o Rio Grande do Sul. Além disso, abordou o elevado endividamento das famílias brasileiras, associando o cenário a fatores econômicos como inflação e juros altos. Ademais, criticou a insuficiência de programas existentes para enfrentamento do problema. Nesse contexto, apresentou o Projeto de Lei nº 2.013, de 2026, que institui o Programa Nacional de Renegociação de Dívidas das Famílias, voltado à reestruturação de débitos, prevenção do superendividamento e ampliação do acesso ao crédito. Por fim, defendeu medidas para fortalecer a economia e evitar novas crises.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=6%2F5%2F2026&amp;txPagina=112&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2026](discursos/2026/) | <span class="n"><b>12</b></span> | 11 |
+| [2025](discursos/2025/) | <span class="n"><b>89</b></span> | 77 |
+| [2024](discursos/2024/) | <span class="n"><b>27</b></span> | 24 |
+| [2023](discursos/2023/) | <span class="n"><b>5</b></span> | 5 |
+{: .t-anos}
+

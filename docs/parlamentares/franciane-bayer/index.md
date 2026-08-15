@@ -122,3 +122,71 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 Esta é uma amostra. A decomposição completa existe no acervo, votação por
 votação, e é reconstruível a partir das fontes oficiais.
+
+## O que disse em plenário
+
+São **29 discursos** coletados no período, dos quais
+**23 substantivos** — os outros 6 são
+orientação de bancada e registro de presença, que a classificação separa
+do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+
+O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
+está no Diário, no link de cada discurso — este site não o reproduz.
+
+### Os 5 mais recentes
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-03-10 · 20:20</span>
+<div class="corpo">
+<p class="tipo">PARECER</p>
+<p>A Deputada proferiu parecer ao Projeto de Lei nº 3.662, de 2025, que altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para criar tipo penal específico para a lesão corporal praticada contra a mulher em razão do gênero e agravar a pena.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=11%2F3%2F2026&amp;txPagina=186&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2026-02-25 · 15:12</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>A Deputada registrou os 70 anos do Hospital Beneficente Nossa Senhora de Fátima, em Flores da Cunha (RS), destacando sua trajetória como referência regional em atendimento e cuidado humanizado. Ressaltou o papel da instituição no acolhimento de pacientes e no fortalecimento do Sistema Único de Saúde (SUS), especialmente no interior. Também mencionou o lançamento da campanha para ampliação e modernização do centro cirúrgico, com previsão de conclusão até 2027, baseada na participação comunitária. Por fim, reconheceu a atuação de profissionais, gestores e voluntários, além de defender o apoio às instituições filantrópicas que complementam a atuação do poder público na área da saúde.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=26%2F2%2F2026&amp;txPagina=62&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2025-11-11 · 17:32</span>
+<div class="corpo">
+<p class="tipo">PARECER</p>
+<p>A Deputada proferiu parecer ao Projeto de Lei nº 4.028, de 2025, que altera a Lei nº 14.811, de 12 de janeiro de 2024,&amp;nbsp;para dispor sobre a atenção especial à prevenção e combate à violência contra crianças e adolescentes com deficiência na implementação de medidas de proteção à criança e ao adolescente contra a violência nos estabelecimentos educacionais ou similares.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=12%2F11%2F2025&amp;txPagina=130&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2025-11-11 · 14:36</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada registrou a presença da Vereadora Veridiana Pacheco, Presidente da Câmara de Sapucaia do Sul (RS), que está em Brasília (DF) em busca de recursos para o Hospital de Sapucaia do Sul. Destacou que a unidade — referência para o Município e cidades vizinhas — enfrenta grave crise financeira, já teve estado de calamidade decretado e está com o atendimento de pediatria fechado. Ressaltou que Veridiana participa de reuniões no Ministério da Saúde e articula apoio da bancada gaúcha. Por fim, convocou os demais Deputados do Rio Grande do Sul a se unirem para garantir que o hospital permaneça aberto e funcionando.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=12%2F11%2F2025&amp;txPagina=54&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso">
+<span class="data">2025-11-05 · 19:44</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada orientou a bancada na votação do Projeto de Decreto Legislativo nº 3, de 2025, que susta os efeitos da Resolução nº 258, de 23 de dezembro de 2024, do Conselho Nacional dos Direitos da Criança e do Adolescente (CONANDA). Além disso, afirmou que o discurso feito em nome da Bancada Feminina sobre o Projeto de Decreto Legislativo nº 3, de 2025, em discussão, não a representou, assim como não representou, segundo ela, grande parte das mulheres Parlamentares presentes.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=6%2F11%2F2025&amp;txPagina=291&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2026](discursos/2026/) | <span class="n"><b>2</b></span> | 2 |
+| [2025](discursos/2025/) | <span class="n"><b>16</b></span> | 11 |
+| [2024](discursos/2024/) | <span class="n"><b>5</b></span> | 5 |
+| [2023](discursos/2023/) | <span class="n"><b>6</b></span> | 5 |
+{: .t-anos}
+
