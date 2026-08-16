@@ -1,9 +1,9 @@
 # CHECKPOINT — Bússola Cívica
 
-**Data:** 2026-08-11 · **Fase:** 0 concluída · Fase 1 (Senado) integrada
-**Estado:** backend e site no ar, com design próprio. Coleta, modelo, cálculo,
-metodologia pública e camada web funcionando e validados contra dados reais.
-App mobile não iniciado.
+**Data:** 2026-08-16 · **Fase:** 0 concluída · Fase 1 (Senado) integrada
+**Estado:** backend e site no ar, com design próprio, os 5.851 discursos
+visíveis e busca sobre eles. Coleta, modelo, cálculo, metodologia pública e
+camada web funcionando e validados contra dados reais. App mobile não iniciado.
 
 Site: <https://raulmdrs.github.io/bussola-civica/>
 
@@ -30,9 +30,10 @@ repositório, onde é `FONTES.md` que existe — nas páginas publicadas é `/FO
 | 11 | Integração TSE | etapa `tse` — 546 candidaturas, 31/31 cruzadas por HMAC do CPF |
 | 12 | Camada web | `npm run site` — 31 perfis, 12 temas, estático no GitHub Pages |
 | 13 | Senado (Fase 1) | etapa `senado` — 353 votações, 3 senadores, **um eixo só** |
-| 14 | Design próprio | `docs/_layouts/` + `docs/assets/bussola.css` — sem tema de terceiro, sem JS, sem dependência (§6.3) |
+| 14 | Design próprio | `docs/_layouts/` + `docs/assets/bussola.css` — sem tema de terceiro, sem dependência (§6.3) |
 | 15 | Site inteiramente gerado | home incluída: nenhum número do acervo é digitado |
 | 16 | Discursos no site | 5.851 discursos visíveis, 111 páginas por parlamentar e ano (§6.4) |
+| 17 | Busca nos discursos | `docs/assets/busca.js` — 236 linhas à mão, sob demanda, degrada sem script (§6.5) |
 
 Banco atual: **80 MB**. Câmara: 6.291 votações (1.117 nominais), 452.356 votos.
 Senado: 353 votações (114 abertas), 28.593 votos. 34 parlamentares com perfil
@@ -283,8 +284,12 @@ para a fonte (§6.4).
 O design foi produzido a partir de um briefing ([BRIEFING-DESIGN.md](https://github.com/RaulMdrs/bussola-civica/blob/main/BRIEFING-DESIGN.md))
 e entregue como CSS e layout de produção. Ele vive em
 `docs/_layouts/default.html` e `docs/assets/bussola.css`: folha única escrita à
-mão, sem build, sem JavaScript, sem CDN, clara e escura. O
-`jekyll-theme-primer` saiu.
+mão, sem build, sem CDN, clara e escura. O `jekyll-theme-primer` saiu.
+
+Até 2026-08-15 esta seção dizia também **"sem JavaScript"**. Deixou de ser
+verdade com a busca (§6.5), e a afirmação foi corrigida aqui em vez de
+sobreviver por inércia: CHECKPOINT que descreve um estado que o repositório não
+tem mais é pior que CHECKPOINT nenhum.
 
 **O gerador continua emitindo Markdown.** As células levam HTML inline
 (`.valor`, `.n`, `.aviso-n`) e cada tabela declara sua classe pelo IAL do
@@ -370,6 +375,63 @@ percentual**. Contagem de discursos por ano é contagem, não base de nada, e sa
 como número simples — rotular tudo de `n` gastaria o símbolo justamente onde ele
 precisa parar o leitor. O mesmo valeu para "votações nominais" no índice de
 temas.
+
+### 6.5 Busca nos discursos — onde o JavaScript entrou
+
+Exibir os 5.851 sumários resolveu metade do problema: o leitor passou a ver o
+que cada parlamentar disse, mas só se já soubesse **em qual parlamentar e em
+qual ano** procurar. A busca fecha isso.
+
+**Não havia caminho sem script.** Procurar uma palavra em 5.851 sumários exige o
+texto do lado do leitor, e não há servidor. As alternativas foram medidas e
+descartadas: uma página por termo daria dezenas de milhares de páginas
+repetindo o mesmo texto (16.562 termos no vocabulário, 6.073 deles ocorrendo uma
+única vez); uma página única com tudo daria 2,8 MB.
+
+Foi a primeira vez que o site ganhou JavaScript, e a decisão veio com três
+condições, todas cumpridas:
+
+| Condição | Como ficou |
+|---|---|
+| Escrito à mão, sem dependência | 236 linhas em `docs/assets/busca.js`. Uma biblioteca de busca traria mais bytes que o acervo que procuraria |
+| Nada essencial depende dele | Sem script, a página lista os 31 parlamentares e seus anos — a navegação que já existia. O `<noscript>` diz isso, não pede para ligar o JavaScript |
+| O custo é declarado | **725 KB** comprimidos, medidos com `gzipSync` no gerador e escritos na página. Não estimados |
+
+**A busca não classifica nada.** Casa a palavra que o parlamentar disse contra o
+sumário que a Câmara publicou, e ordena por data — sem tema inferido, sem
+relevância inventada, sem agrupamento nosso. É o oposto de rotular: devolve o
+texto da fonte para quem perguntou.
+
+Decisões de formato, todas medidas:
+
+- **Quatro fragmentos, um por ano**, buscados sob demanda: 172 · 186 · 273 ·
+  93 KB. Ano é a mesma divisão das páginas de discurso.
+- **Colunar, não lista de objetos** — as chaves não se repetem 1.900 vezes.
+  Rende 46 KB.
+- **A coluna dobrada não é enviada.** Enviar o sumário já sem acento e em
+  minúsculas dobrava o arquivo (5,7 MB contra 3,0 MB); dobrar no cliente, uma
+  vez ao carregar, custa milissegundos. A função `dobrar()` existe nos dois
+  lados e **precisa continuar idêntica** — se divergirem, a busca mente.
+- **O destaque monta nós de texto, nunca `innerHTML`.** O sumário é texto de
+  terceiro; montá-lo como marcação deixaria a página à mercê do que a origem
+  publicar. Mesmo motivo do escape no gerador.
+- Cada discurso ganhou âncora (`id="d-<id>"`), e o resultado leva ao discurso
+  exato na página do parlamentar, com `:target`.
+
+Verificado no navegador, não por leitura de código:
+
+| Teste | Resultado |
+|---|---|
+| `seguranca` × `segurança` | 290 dos dois lados — acento não importa |
+| `arroz` → `arroz produtores` | 27 → 9: os termos são combinados por **E** |
+| filtro de protocolares | 331 → 1.197 |
+| link do resultado | cai no `#d-177` certo, com o contorno de `:target` |
+| 360px | `scrollWidth == clientWidth == 360`, alvo de toque de 44px |
+
+**Custo no repositório:** `docs/` passou de 6,2 MB para **9,3 MB**, dos quais
+3,0 MB são os fragmentos — reescritos por inteiro a cada `npm run site`. É a
+primeira vez que o peso do site pesa na rotina semanal, e entra na conta da
+automação (§11).
 
 ---
 
@@ -547,7 +609,7 @@ declarado pela fonte, e há justificativa de voto ali dentro que é posição.
 ## 10. Estado do código
 
 ```
-src/                                    6.757 linhas TypeScript
+src/                                    6.935 linhas TypeScript
   db/schema.ts        872   20 tabelas, comentadas com o achado que as motivou
   db/client.ts         72   node:sqlite via sqlite-proxy + consultar() tipado
   db/migrar.ts         59   aplica migrations, controla em _migrations
@@ -567,14 +629,19 @@ src/                                    6.757 linhas TypeScript
   ingest/incremental.ts 153 CLI da retomada automática
   ingest/horizonte.ts 105   de onde continuar — testável, sem rede
   calc/posicoes.ts    563   dois eixos + evidências, recorte por tema, regime por casa
-  site/gerar.ts       884   gerador do site — 161 páginas, nenhum número digitado
+  site/gerar.ts      1062   gerador do site — 166 páginas + os fragmentos de busca
   relatorio.ts        402   verificação do acervo + invariantes
 drizzle/                    8 migrations
 
-docs/                                     674 linhas de camada web
-  _layouts/default.html 56  cabeçalho, conteúdo, rodapé lido de _data/meta.yml
-  assets/bussola.css   618  folha única, à mão, clara e escura (§6.3)
+docs/                                     983 linhas de camada web
+  _layouts/default.html 57  cabeçalho, conteúdo, rodapé lido de _data/meta.yml
+  assets/bussola.css   690  folha única, à mão, clara e escura (§6.3)
+  assets/busca.js      236  único script do site, à mão, sem dependência (§6.5)
 ```
+
+**166 páginas geradas** e 4 fragmentos de busca. `docs/` ocupa **9,3 MB** — 5,8
+MB de páginas de discurso e 3,0 MB de fragmentos, estes reescritos por inteiro
+a cada `npm run site`.
 
 **Stack:** TypeScript (type-stripping nativo, sem build), Drizzle ORM,
 SQLite via `node:sqlite`. Node **22.6+** (declarado em `engines`, com
@@ -582,8 +649,8 @@ SQLite via `node:sqlite`. Node **22.6+** (declarado em `engines`, com
 todo `npm run` falha com erro de sintaxe.
 
 **Uma dependência de runtime** (`drizzle-orm`), e o site não acrescentou
-nenhuma: sem Tailwind, sem Sass, sem CDN, sem JavaScript. A camada web é CSS
-escrito à mão sobre a saída do kramdown.
+nenhuma: sem Tailwind, sem Sass, sem CDN, sem biblioteca de busca. A camada web
+é CSS e um script, os dois escritos à mão sobre a saída do kramdown.
 
 ### `_data/meta.yml` é gerado, não editado
 
@@ -641,10 +708,11 @@ Custo por semestre: ~3 + 62 + (2 janelas + ~450 `/votos` + ~154 `/orientacoes`)
 
 ## 11. Próximos passos sugeridos
 
-**Os discursos saíram da lista** — estão no site desde 2026-08-15, os 5.851, em
-111 páginas por parlamentar e ano (§6.4). A previsão de que o CSS já
-provisionava a forma se confirmou: `blockquote.evidencia` recebeu o discurso sem
-folha nova, só um tipo oficial no lugar do placar.
+**Os discursos e a busca saíram da lista.** Os 5.851 estão no site desde
+2026-08-15, em 111 páginas por parlamentar e ano (§6.4), e a busca sobre eles
+entrou em 2026-08-16 (§6.5). A previsão de que o CSS já provisionava a forma se
+confirmou: `blockquote.evidencia` recebeu o discurso sem folha nova, só um tipo
+oficial no lugar do placar, e depois recebeu o resultado de busca do mesmo jeito.
 
 ### Rotina
 
@@ -670,22 +738,24 @@ paginar por ano já foi tomada e medida uma vez. A diferença é o volume — 86
 evidências contra 5.851 discursos, com ~2.800 por parlamentar. Medir antes de
 escolher a forma, como foi feito aqui.
 
-**2. Buscar dentro dos discursos.** Agora que os 5.851 sumários estão no site,
-falta o que os torna úteis para quem chega com uma pergunta: achar quem falou de
-quê. Sem servidor e sem JavaScript, a saída é o que o Jekyll já dá — uma página
-por tema de discurso, ou um índice invertido gerado estaticamente. Não é
-pequeno, e o valor é alto: hoje o leitor precisa saber de antemão em qual
-parlamentar e em qual ano procurar.
+**2. Discursos do Senado — zero coletados.** A busca tornou a lacuna visível: a
+seção "O que disse em plenário" existe para 30 deputados e para **nenhum** dos 3
+senadores, e a busca varre um corpus que é só da Câmara. Antes de prometer,
+precisa do mesmo reconhecimento que as outras fontes tiveram (§3.1) — se a API
+do Senado entrega discurso, com qual sumário e com que cobertura. Pode acabar em
+"bloqueado pela fonte"; hoje é só desconhecido, que é pior.
 
 **3. Automatizar a atualização.** Hoje o ciclo depende de você rodar dois
 comandos numa máquina que tem o banco. Uma GitHub Action semanal faria tudo —
 mas exige reconstruir o acervo no CI ou cacheá-lo, e o segredo do HMAC vira
 segredo do repositório. Decisão real de superfície, não tarefa mecânica.
 
-Ficou mais urgente com os discursos: `docs/` passou de 616 KB para **6,2 MB**, e
-o commit semanal agora carrega esse peso. Ainda é barato — só sumário muda, e o
-git delta-comprime bem —, mas é a primeira vez que o tamanho do site entra na
-conta.
+Ficou mais pesada com discursos e busca: `docs/` passou de 616 KB para **9,3
+MB**, e **3,0 MB são fragmentos de busca reescritos por inteiro** a cada
+geração — diferente das páginas, onde só o que mudou muda. Vale medir o
+crescimento do `.git` por duas ou três semanas antes de decidir a forma da
+automação. Se o custo incomodar, a saída é gerar os fragmentos no CI em vez de
+versioná-los.
 
 ### Bloqueado pela fonte, não por nós
 
@@ -707,10 +777,11 @@ Consome `posicao` + `posicao_evidencia` direto e roda no cliente, sem servidor.
 Exige resolver a armadilha do eixo 2: dois parlamentares opostos com 100% de
 coesão ocupam o mesmo ponto, e a visualização precisa deixar isso óbvio.
 
-É também **o primeiro item que quebra uma propriedade atual**: o site hoje não
-tem uma linha de JavaScript, e uma órbita interativa tem. Não é impedimento — é
-uma decisão a tomar de olhos abertos, com um export JSON novo e a regra de que
-a página precisa continuar legível e conferível sem script.
+**O argumento do "primeiro JavaScript" caiu** com a busca (§6.5). O que resta é
+o problema de verdade, e é maior: dois parlamentares opostos com 100% de coesão
+ocupam o mesmo ponto, e a órbita precisa deixar isso **óbvio** em vez de
+esconder atrás de uma imagem bonita. Vale herdar as três condições da busca —
+à mão, degrada sem script, custo declarado — que já foram testadas uma vez.
 
 **5. App mobile** (Fase 3) e **estadual/municipal** (Fase 4).
 
@@ -721,7 +792,16 @@ a página precisa continuar legível e conferível sem script.
   `kramdown` isolado (Ruby puro, mesmo conversor do GitHub Pages) para conferir
   que o IAL e o HTML inline sobrevivem, e varredura de links contra o site
   **já publicado**. Funciona, mas descobre erro depois do deploy — foi assim que
-  apareceram os cinco links `../src/*.ts` quebrados.
+  apareceram os cinco links `../src/*.ts` quebrados. A busca agravou: ela
+  depende de `fetch` relativo (`../busca/<ano>.json`), que só é testável servindo
+  a estrutura real de diretórios — foi preciso montá-la à mão no scratchpad para
+  verificar.
+- **`dobrar()` existe em dois lugares** — `src/site/gerar.ts` e
+  `docs/assets/busca.js` — e precisa continuar idêntica nos dois. Não há como
+  compartilhá-la: um é TypeScript sob type-stripping, o outro é script servido
+  ao navegador. Se divergirem, a busca deixa de achar o que existe e ninguém
+  recebe erro. Está comentado nos dois arquivos; é a dívida mais silenciosa
+  desta lista.
 - **Três links mortos** no corpo das metodologias arquivadas, por decisão: o
   corpo é congelado e o aviso do topo diz que os links são da época, com a
   navegação que o leitor precisa. Ver a regra em `metodologia/versoes/`.
