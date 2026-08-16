@@ -18,7 +18,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 
 ## Substantivos — 36
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4553">
 <span class="data">2023-10-26 · 10:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4552">
 <span class="data">2023-10-24 · 19:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4551">
 <span class="data">2023-10-24 · 16:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4550">
 <span class="data">2023-10-24 · 16:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4549">
 <span class="data">2023-09-26 · 20:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4547">
 <span class="data">2023-09-14 · 09:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4546">
 <span class="data">2023-09-04 · 20:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4545">
 <span class="data">2023-08-17 · 11:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4544">
 <span class="data">2023-08-10 · 13:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4543">
 <span class="data">2023-08-08 · 20:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4542">
 <span class="data">2023-07-03 · 19:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4541">
 <span class="data">2023-06-14 · 16:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4540">
 <span class="data">2023-05-18 · 10:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4539">
 <span class="data">2023-05-18 · 10:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4538">
 <span class="data">2023-05-16 · 21:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4537">
 <span class="data">2023-05-04 · 10:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4536">
 <span class="data">2023-04-27 · 09:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4535">
 <span class="data">2023-04-12 · 21:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4534">
 <span class="data">2023-04-11 · 20:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4533">
 <span class="data">2023-03-30 · 13:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4532">
 <span class="data">2023-03-29 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4531">
 <span class="data">2023-03-27 · 21:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4530">
 <span class="data">2023-03-22 · 20:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4529">
 <span class="data">2023-03-21 · 16:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4528">
 <span class="data">2023-03-16 · 10:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4527">
 <span class="data">2023-03-15 · 16:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4526">
 <span class="data">2023-03-14 · 16:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4525">
 <span class="data">2023-03-02 · 10:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4524">
 <span class="data">2023-03-01 · 17:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4523">
 <span class="data">2023-02-15 · 10:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4522">
 <span class="data">2023-02-14 · 16:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4521">
 <span class="data">2023-02-14 · 15:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4520">
 <span class="data">2023-02-07 · 19:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4519">
 <span class="data">2023-02-07 · 19:04</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4518">
 <span class="data">2023-02-07 · 18:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2023, com o sumário publ
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4517">
 <span class="data">2023-02-07 · 17:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -353,7 +353,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4548">
 <span class="data">2023-09-20 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

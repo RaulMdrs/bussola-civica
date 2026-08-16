@@ -18,7 +18,7 @@ description: "Os discursos de Luiz Carlos Busato em 2023, com o sumário publica
 
 ## Substantivos — 7
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-186">
 <span class="data">2023-10-17 · 16:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Luiz Carlos Busato em 2023, com o sumário publica
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-185">
 <span class="data">2023-09-26 · 17:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Luiz Carlos Busato em 2023, com o sumário publica
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-184">
 <span class="data">2023-09-05 · 16:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Luiz Carlos Busato em 2023, com o sumário publica
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-183">
 <span class="data">2023-07-05 · 14:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Luiz Carlos Busato em 2023, com o sumário publica
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-182">
 <span class="data">2023-06-14 · 15:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Luiz Carlos Busato em 2023, com o sumário publica
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-181">
 <span class="data">2023-05-16 · 17:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Luiz Carlos Busato em 2023, com o sumário publica
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-180">
 <span class="data">2023-02-15 · 15:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

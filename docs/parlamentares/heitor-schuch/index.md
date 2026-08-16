@@ -135,7 +135,7 @@ não é reproduzido aqui — o link de cada discurso leva à fonte que o publico
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-2629">
 <span class="data">2026-07-01 · 15:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -144,7 +144,7 @@ não é reproduzido aqui — o link de cada discurso leva à fonte que o publico
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-2627">
 <span class="data">2026-06-17 · 17:24</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -153,7 +153,7 @@ não é reproduzido aqui — o link de cada discurso leva à fonte que o publico
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-2626">
 <span class="data">2026-06-16 · 15:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -162,7 +162,7 @@ não é reproduzido aqui — o link de cada discurso leva à fonte que o publico
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-2625">
 <span class="data">2026-06-09 · 14:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -171,7 +171,7 @@ não é reproduzido aqui — o link de cada discurso leva à fonte que o publico
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-2624">
 <span class="data">2026-05-26 · 14:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

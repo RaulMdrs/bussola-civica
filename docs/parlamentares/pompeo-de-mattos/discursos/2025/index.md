@@ -18,7 +18,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 
 ## Substantivos — 188
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5314">
 <span class="data">2025-12-16 · 16:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5313">
 <span class="data">2025-12-16 · 16:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5312">
 <span class="data">2025-12-16 · 15:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5311">
 <span class="data">2025-12-16 · 14:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5310">
 <span class="data">2025-12-10 · 22:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5309">
 <span class="data">2025-12-10 · 21:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5304">
 <span class="data">2025-12-09 · 21:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5302">
 <span class="data">2025-12-03 · 19:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5301">
 <span class="data">2025-12-03 · 18:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5297">
 <span class="data">2025-11-25 · 20:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5296">
 <span class="data">2025-11-25 · 20:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5295">
 <span class="data">2025-11-25 · 19:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5294">
 <span class="data">2025-11-05 · 15:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5293">
 <span class="data">2025-11-05 · 14:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5292">
 <span class="data">2025-11-05 · 14:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5291">
 <span class="data">2025-11-05 · 13:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5289">
 <span class="data">2025-11-05 · 11:12</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5288">
 <span class="data">2025-11-04 · 21:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5287">
 <span class="data">2025-11-04 · 16:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5285">
 <span class="data">2025-10-29 · 19:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5283">
 <span class="data">2025-10-29 · 19:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5282">
 <span class="data">2025-10-29 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5281">
 <span class="data">2025-10-29 · 17:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5280">
 <span class="data">2025-10-29 · 17:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5279">
 <span class="data">2025-10-29 · 15:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5278">
 <span class="data">2025-10-29 · 11:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5277">
 <span class="data">2025-10-28 · 21:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5276">
 <span class="data">2025-10-28 · 17:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5275">
 <span class="data">2025-10-15 · 19:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5274">
 <span class="data">2025-10-14 · 19:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5273">
 <span class="data">2025-10-14 · 17:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5271">
 <span class="data">2025-10-09 · 12:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5270">
 <span class="data">2025-10-08 · 19:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5269">
 <span class="data">2025-10-08 · 17:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5268">
 <span class="data">2025-10-07 · 19:44</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5267">
 <span class="data">2025-10-07 · 18:16</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5266">
 <span class="data">2025-10-07 · 17:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -351,7 +351,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5265">
 <span class="data">2025-10-01 · 19:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -360,7 +360,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5264">
 <span class="data">2025-10-01 · 13:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -369,7 +369,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5263">
 <span class="data">2025-09-30 · 19:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -378,7 +378,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5262">
 <span class="data">2025-09-30 · 19:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -387,7 +387,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5261">
 <span class="data">2025-09-24 · 19:36</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -396,7 +396,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5260">
 <span class="data">2025-09-24 · 18:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -405,7 +405,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5259">
 <span class="data">2025-09-24 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -414,7 +414,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5258">
 <span class="data">2025-09-24 · 17:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -423,7 +423,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5257">
 <span class="data">2025-09-23 · 20:44</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -432,7 +432,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5256">
 <span class="data">2025-09-23 · 18:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -441,7 +441,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5255">
 <span class="data">2025-09-23 · 17:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -450,7 +450,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5254">
 <span class="data">2025-09-17 · 18:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -459,7 +459,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5253">
 <span class="data">2025-09-17 · 17:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -468,7 +468,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5252">
 <span class="data">2025-09-17 · 17:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -477,7 +477,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5251">
 <span class="data">2025-09-17 · 17:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -486,7 +486,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5250">
 <span class="data">2025-09-17 · 16:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -495,7 +495,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5249">
 <span class="data">2025-09-17 · 15:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -504,7 +504,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5248">
 <span class="data">2025-09-17 · 15:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -513,7 +513,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5247">
 <span class="data">2025-09-16 · 16:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -522,7 +522,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5245">
 <span class="data">2025-09-03 · 18:44</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -531,7 +531,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5242">
 <span class="data">2025-09-03 · 18:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -540,7 +540,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5240">
 <span class="data">2025-09-03 · 17:24</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -549,7 +549,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5239">
 <span class="data">2025-09-03 · 17:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -558,7 +558,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5238">
 <span class="data">2025-09-02 · 19:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -567,7 +567,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5237">
 <span class="data">2025-09-02 · 19:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -576,7 +576,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5236">
 <span class="data">2025-09-02 · 17:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -585,7 +585,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5235">
 <span class="data">2025-09-02 · 15:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -594,7 +594,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5234">
 <span class="data">2025-08-20 · 22:36</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -603,7 +603,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5233">
 <span class="data">2025-08-20 · 16:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -612,7 +612,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5232">
 <span class="data">2025-08-20 · 16:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -621,7 +621,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5231">
 <span class="data">2025-08-20 · 15:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -630,7 +630,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5230">
 <span class="data">2025-08-19 · 22:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -639,7 +639,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5229">
 <span class="data">2025-08-19 · 21:28</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -648,7 +648,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5227">
 <span class="data">2025-08-19 · 17:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -657,7 +657,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5226">
 <span class="data">2025-08-19 · 16:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -666,7 +666,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5225">
 <span class="data">2025-08-19 · 16:40</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -675,7 +675,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5224">
 <span class="data">2025-08-19 · 16:24</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -684,7 +684,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5223">
 <span class="data">2025-08-19 · 16:24</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -693,7 +693,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5222">
 <span class="data">2025-08-19 · 15:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -702,7 +702,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5221">
 <span class="data">2025-08-13 · 21:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -711,7 +711,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5220">
 <span class="data">2025-08-13 · 20:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -720,7 +720,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5218">
 <span class="data">2025-08-12 · 23:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -729,7 +729,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5216">
 <span class="data">2025-08-12 · 22:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -738,7 +738,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5215">
 <span class="data">2025-08-12 · 19:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -747,7 +747,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5214">
 <span class="data">2025-07-16 · 16:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -756,7 +756,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5213">
 <span class="data">2025-07-16 · 12:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -765,7 +765,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5212">
 <span class="data">2025-07-16 · 12:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -774,7 +774,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5209">
 <span class="data">2025-07-15 · 17:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -783,7 +783,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5208">
 <span class="data">2025-07-15 · 17:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -792,7 +792,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5207">
 <span class="data">2025-07-14 · 22:40</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -801,7 +801,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5206">
 <span class="data">2025-07-14 · 20:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -810,7 +810,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5205">
 <span class="data">2025-07-14 · 20:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -819,7 +819,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5204">
 <span class="data">2025-07-09 · 19:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -828,7 +828,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5203">
 <span class="data">2025-07-09 · 18:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -837,7 +837,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5202">
 <span class="data">2025-07-09 · 17:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -846,7 +846,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5200">
 <span class="data">2025-07-08 · 19:20</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -855,7 +855,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5199">
 <span class="data">2025-07-02 · 18:40</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -864,7 +864,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5198">
 <span class="data">2025-07-01 · 19:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -873,7 +873,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5196">
 <span class="data">2025-07-01 · 14:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -882,7 +882,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5195">
 <span class="data">2025-06-17 · 19:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -891,7 +891,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5194">
 <span class="data">2025-06-17 · 19:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -900,7 +900,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5193">
 <span class="data">2025-06-17 · 17:52</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -909,7 +909,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5192">
 <span class="data">2025-06-17 · 15:42</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -918,7 +918,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5191">
 <span class="data">2025-06-16 · 22:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -927,7 +927,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5190">
 <span class="data">2025-06-16 · 21:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -936,7 +936,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5188">
 <span class="data">2025-06-10 · 20:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -945,7 +945,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5186">
 <span class="data">2025-06-10 · 16:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -954,7 +954,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5185">
 <span class="data">2025-05-28 · 15:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -963,7 +963,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5184">
 <span class="data">2025-05-28 · 14:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -972,7 +972,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5183">
 <span class="data">2025-05-27 · 22:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -981,7 +981,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5182">
 <span class="data">2025-05-27 · 22:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -990,7 +990,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5181">
 <span class="data">2025-05-27 · 14:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -999,7 +999,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5180">
 <span class="data">2025-05-27 · 14:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1008,7 +1008,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5178">
 <span class="data">2025-05-26 · 22:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1017,7 +1017,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5177">
 <span class="data">2025-05-26 · 22:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1026,7 +1026,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5175">
 <span class="data">2025-05-26 · 21:00</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -1035,7 +1035,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5174">
 <span class="data">2025-05-26 · 20:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1044,7 +1044,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5173">
 <span class="data">2025-05-26 · 20:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1053,7 +1053,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5172">
 <span class="data">2025-05-26 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1062,7 +1062,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5171">
 <span class="data">2025-05-21 · 19:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1071,7 +1071,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5170">
 <span class="data">2025-05-21 · 17:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1080,7 +1080,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5169">
 <span class="data">2025-05-20 · 20:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1089,7 +1089,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5168">
 <span class="data">2025-05-20 · 20:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1098,7 +1098,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5167">
 <span class="data">2025-05-20 · 20:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1107,7 +1107,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5166">
 <span class="data">2025-05-07 · 18:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1116,7 +1116,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5165">
 <span class="data">2025-05-07 · 18:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1125,7 +1125,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5164">
 <span class="data">2025-05-06 · 15:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1134,7 +1134,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5163">
 <span class="data">2025-05-06 · 14:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1143,7 +1143,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5162">
 <span class="data">2025-04-29 · 15:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1152,7 +1152,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5161">
 <span class="data">2025-04-28 · 22:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1161,7 +1161,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5159">
 <span class="data">2025-04-23 · 20:12</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1170,7 +1170,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5158">
 <span class="data">2025-04-23 · 18:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1179,7 +1179,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5157">
 <span class="data">2025-04-22 · 20:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1188,7 +1188,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5156">
 <span class="data">2025-04-22 · 20:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1197,7 +1197,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5155">
 <span class="data">2025-04-22 · 19:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1206,7 +1206,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5154">
 <span class="data">2025-04-22 · 17:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1215,7 +1215,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5153">
 <span class="data">2025-04-22 · 16:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1224,7 +1224,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5152">
 <span class="data">2025-04-09 · 19:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1233,7 +1233,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5151">
 <span class="data">2025-04-09 · 15:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1242,7 +1242,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5150">
 <span class="data">2025-04-09 · 15:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1251,7 +1251,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5149">
 <span class="data">2025-04-09 · 14:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1260,7 +1260,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5148">
 <span class="data">2025-04-08 · 20:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1269,7 +1269,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5147">
 <span class="data">2025-04-08 · 17:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1278,7 +1278,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5146">
 <span class="data">2025-04-02 · 19:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1287,7 +1287,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5145">
 <span class="data">2025-04-02 · 14:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1296,7 +1296,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5144">
 <span class="data">2025-04-02 · 14:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1305,7 +1305,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5143">
 <span class="data">2025-04-01 · 17:56</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1314,7 +1314,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5142">
 <span class="data">2025-04-01 · 16:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1323,7 +1323,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5141">
 <span class="data">2025-04-01 · 16:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1332,7 +1332,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5140">
 <span class="data">2025-03-26 · 19:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1341,7 +1341,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5139">
 <span class="data">2025-03-26 · 18:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1350,7 +1350,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5138">
 <span class="data">2025-03-25 · 16:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1359,7 +1359,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5137">
 <span class="data">2025-03-25 · 16:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1368,7 +1368,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5136">
 <span class="data">2025-03-25 · 14:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1377,7 +1377,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5135">
 <span class="data">2025-03-19 · 19:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1386,7 +1386,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5134">
 <span class="data">2025-03-19 · 18:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1395,7 +1395,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5133">
 <span class="data">2025-03-18 · 21:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1404,7 +1404,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5132">
 <span class="data">2025-03-18 · 20:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1413,7 +1413,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5131">
 <span class="data">2025-03-18 · 16:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1422,7 +1422,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5130">
 <span class="data">2025-03-18 · 15:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1431,7 +1431,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5129">
 <span class="data">2025-03-12 · 19:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1440,7 +1440,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5128">
 <span class="data">2025-03-12 · 19:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1449,7 +1449,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5127">
 <span class="data">2025-03-12 · 14:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1458,7 +1458,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5126">
 <span class="data">2025-03-12 · 14:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1467,7 +1467,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5125">
 <span class="data">2025-03-12 · 14:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1476,7 +1476,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5124">
 <span class="data">2025-03-11 · 21:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1485,7 +1485,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5123">
 <span class="data">2025-03-11 · 21:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1494,7 +1494,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5122">
 <span class="data">2025-02-26 · 17:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1503,7 +1503,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5121">
 <span class="data">2025-02-26 · 17:04</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1512,7 +1512,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5120">
 <span class="data">2025-02-26 · 14:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1521,7 +1521,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5119">
 <span class="data">2025-02-26 · 14:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1530,7 +1530,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5118">
 <span class="data">2025-02-25 · 20:36</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -1539,7 +1539,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5117">
 <span class="data">2025-02-25 · 20:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1548,7 +1548,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5116">
 <span class="data">2025-02-25 · 19:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1557,7 +1557,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5115">
 <span class="data">2025-02-25 · 17:24</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1566,7 +1566,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5114">
 <span class="data">2025-02-25 · 16:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1575,7 +1575,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5113">
 <span class="data">2025-02-19 · 19:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1584,7 +1584,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5112">
 <span class="data">2025-02-19 · 17:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1593,7 +1593,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5109">
 <span class="data">2025-02-18 · 18:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1602,7 +1602,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5107">
 <span class="data">2025-02-18 · 17:20</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1611,7 +1611,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5106">
 <span class="data">2025-02-12 · 16:40</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -1620,7 +1620,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5105">
 <span class="data">2025-02-12 · 16:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1629,7 +1629,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5102">
 <span class="data">2025-02-11 · 21:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1638,7 +1638,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5101">
 <span class="data">2025-02-11 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1647,7 +1647,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5100">
 <span class="data">2025-02-11 · 14:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1656,7 +1656,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5099">
 <span class="data">2025-02-05 · 19:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1665,7 +1665,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5097">
 <span class="data">2025-02-05 · 17:32</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1674,7 +1674,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5096">
 <span class="data">2025-02-04 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1683,7 +1683,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5095">
 <span class="data">2025-02-04 · 18:40</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1692,7 +1692,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5094">
 <span class="data">2025-02-04 · 17:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1701,7 +1701,7 @@ description: "Os discursos de Pompeo de Mattos em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5093">
 <span class="data">2025-02-04 · 15:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1721,7 +1721,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5308">
 <span class="data">2025-12-10 · 20:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1730,7 +1730,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5307">
 <span class="data">2025-12-10 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1739,7 +1739,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5306">
 <span class="data">2025-12-09 · 23:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1748,7 +1748,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5305">
 <span class="data">2025-12-09 · 21:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1757,7 +1757,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5303">
 <span class="data">2025-12-09 · 20:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1766,7 +1766,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5300">
 <span class="data">2025-12-02 · 20:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1775,7 +1775,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5299">
 <span class="data">2025-12-02 · 19:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1784,7 +1784,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5298">
 <span class="data">2025-12-02 · 19:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1793,7 +1793,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5290">
 <span class="data">2025-11-05 · 12:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1802,7 +1802,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5286">
 <span class="data">2025-10-29 · 19:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1811,7 +1811,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5284">
 <span class="data">2025-10-29 · 19:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1820,7 +1820,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5272">
 <span class="data">2025-10-14 · 17:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1829,7 +1829,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5246">
 <span class="data">2025-09-03 · 19:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1838,7 +1838,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5244">
 <span class="data">2025-09-03 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1847,7 +1847,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5243">
 <span class="data">2025-09-03 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1856,7 +1856,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5241">
 <span class="data">2025-09-03 · 17:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1865,7 +1865,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5228">
 <span class="data">2025-08-19 · 20:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1874,7 +1874,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5219">
 <span class="data">2025-08-13 · 20:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1883,7 +1883,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5217">
 <span class="data">2025-08-12 · 22:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1892,7 +1892,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5211">
 <span class="data">2025-07-15 · 22:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1901,7 +1901,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5210">
 <span class="data">2025-07-15 · 20:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1910,7 +1910,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5201">
 <span class="data">2025-07-08 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1919,7 +1919,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5197">
 <span class="data">2025-07-01 · 16:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1928,7 +1928,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5189">
 <span class="data">2025-06-11 · 20:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1937,7 +1937,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5187">
 <span class="data">2025-06-10 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1946,7 +1946,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5179">
 <span class="data">2025-05-26 · 22:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1955,7 +1955,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5176">
 <span class="data">2025-05-26 · 22:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1964,7 +1964,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5160">
 <span class="data">2025-04-28 · 21:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1973,7 +1973,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5111">
 <span class="data">2025-02-18 · 20:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1982,7 +1982,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5110">
 <span class="data">2025-02-18 · 19:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1991,7 +1991,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5108">
 <span class="data">2025-02-18 · 17:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2000,7 +2000,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5104">
 <span class="data">2025-02-12 · 16:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2009,7 +2009,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5103">
 <span class="data">2025-02-12 · 16:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -2018,7 +2018,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5098">
 <span class="data">2025-02-05 · 17:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

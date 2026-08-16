@@ -18,7 +18,7 @@ description: "Os discursos de Sanderson em 2023, com o sumário publicado pela C
 
 ## Substantivos — 5
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3889">
 <span class="data">2023-12-06 · 23:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Sanderson em 2023, com o sumário publicado pela C
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3888">
 <span class="data">2023-11-01 · 11:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Sanderson em 2023, com o sumário publicado pela C
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3887">
 <span class="data">2023-08-15 · 14:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Sanderson em 2023, com o sumário publicado pela C
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3886">
 <span class="data">2023-05-18 · 09:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Sanderson em 2023, com o sumário publicado pela C
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3885">
 <span class="data">2023-02-03 · 12:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

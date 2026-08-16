@@ -18,7 +18,7 @@ description: "Os discursos de Any Ortiz em 2023, com o sumário publicado pela C
 
 ## Substantivos — 11
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4028">
 <span class="data">2023-12-19 · 18:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Any Ortiz em 2023, com o sumário publicado pela C
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4027">
 <span class="data">2023-11-22 · 17:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Any Ortiz em 2023, com o sumário publicado pela C
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4026">
 <span class="data">2023-11-08 · 17:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Any Ortiz em 2023, com o sumário publicado pela C
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4025">
 <span class="data">2023-09-19 · 17:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Any Ortiz em 2023, com o sumário publicado pela C
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4024">
 <span class="data">2023-08-30 · 18:36</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Any Ortiz em 2023, com o sumário publicado pela C
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4023">
 <span class="data">2023-06-14 · 16:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Any Ortiz em 2023, com o sumário publicado pela C
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4022">
 <span class="data">2023-05-31 · 11:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Any Ortiz em 2023, com o sumário publicado pela C
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4021">
 <span class="data">2023-05-03 · 20:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Any Ortiz em 2023, com o sumário publicado pela C
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4020">
 <span class="data">2023-05-03 · 20:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Any Ortiz em 2023, com o sumário publicado pela C
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4019">
 <span class="data">2023-04-12 · 16:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Any Ortiz em 2023, com o sumário publicado pela C
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4018">
 <span class="data">2023-04-12 · 15:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

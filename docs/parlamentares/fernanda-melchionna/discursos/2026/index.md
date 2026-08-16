@@ -18,7 +18,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 
 ## Substantivos — 33
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3828">
 <span class="data">2026-07-14 · 18:20</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3827">
 <span class="data">2026-06-30 · 18:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3826">
 <span class="data">2026-05-27 · 20:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3825">
 <span class="data">2026-05-20 · 19:28</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3824">
 <span class="data">2026-05-20 · 18:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3823">
 <span class="data">2026-05-20 · 17:04</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3822">
 <span class="data">2026-05-19 · 19:48</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3821">
 <span class="data">2026-05-13 · 17:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3820">
 <span class="data">2026-04-30 · 15:08</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3819">
 <span class="data">2026-04-30 · 12:04</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3818">
 <span class="data">2026-04-30 · 11:04</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3817">
 <span class="data">2026-04-28 · 23:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3816">
 <span class="data">2026-04-28 · 23:04</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3815">
 <span class="data">2026-04-28 · 23:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3814">
 <span class="data">2026-04-28 · 22:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3812">
 <span class="data">2026-04-28 · 20:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3811">
 <span class="data">2026-04-28 · 20:00</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3809">
 <span class="data">2026-04-08 · 11:28</span>
 <div class="corpo">
 <p class="tipo">COMISSÃO GERAL</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3808">
 <span class="data">2026-04-07 · 17:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3807">
 <span class="data">2026-03-18 · 20:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3804">
 <span class="data">2026-03-17 · 18:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3803">
 <span class="data">2026-03-17 · 18:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3802">
 <span class="data">2026-03-10 · 20:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3801">
 <span class="data">2026-03-10 · 19:40</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3800">
 <span class="data">2026-03-10 · 18:16</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3797">
 <span class="data">2026-03-10 · 17:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3796">
 <span class="data">2026-03-04 · 21:12</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3795">
 <span class="data">2026-03-04 · 19:12</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3794">
 <span class="data">2026-02-25 · 19:36</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3792">
 <span class="data">2026-02-25 · 17:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3791">
 <span class="data">2026-02-25 · 00:16</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3790">
 <span class="data">2026-02-24 · 23:40</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3788">
 <span class="data">2026-02-24 · 19:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -326,7 +326,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3813">
 <span class="data">2026-04-28 · 21:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -335,7 +335,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3810">
 <span class="data">2026-04-08 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -344,7 +344,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3806">
 <span class="data">2026-03-18 · 19:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -353,7 +353,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3805">
 <span class="data">2026-03-18 · 19:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -362,7 +362,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3799">
 <span class="data">2026-03-10 · 17:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -371,7 +371,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3798">
 <span class="data">2026-03-10 · 17:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -380,7 +380,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3793">
 <span class="data">2026-02-25 · 18:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -389,7 +389,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3789">
 <span class="data">2026-02-24 · 22:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

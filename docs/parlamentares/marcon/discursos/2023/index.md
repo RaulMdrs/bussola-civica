@@ -18,7 +18,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 
 ## Substantivos — 158
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1351">
 <span class="data">2023-12-20 · 20:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1350">
 <span class="data">2023-12-13 · 19:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1349">
 <span class="data">2023-12-13 · 17:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1348">
 <span class="data">2023-12-12 · 17:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1347">
 <span class="data">2023-12-12 · 17:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1346">
 <span class="data">2023-12-12 · 15:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1345">
 <span class="data">2023-12-07 · 12:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1344">
 <span class="data">2023-12-06 · 16:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1343">
 <span class="data">2023-12-06 · 15:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1342">
 <span class="data">2023-11-29 · 14:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1341">
 <span class="data">2023-11-28 · 17:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1340">
 <span class="data">2023-11-28 · 16:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1339">
 <span class="data">2023-11-22 · 21:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1338">
 <span class="data">2023-11-22 · 20:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1336">
 <span class="data">2023-11-22 · 18:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1335">
 <span class="data">2023-11-22 · 17:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1334">
 <span class="data">2023-11-21 · 16:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1333">
 <span class="data">2023-11-21 · 15:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1331">
 <span class="data">2023-11-08 · 19:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1330">
 <span class="data">2023-11-08 · 18:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1329">
 <span class="data">2023-11-08 · 15:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1328">
 <span class="data">2023-11-07 · 17:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1327">
 <span class="data">2023-11-07 · 16:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1326">
 <span class="data">2023-11-07 · 15:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1325">
 <span class="data">2023-11-06 · 21:08</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1322">
 <span class="data">2023-10-31 · 22:56</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1316">
 <span class="data">2023-10-31 · 14:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1314">
 <span class="data">2023-10-26 · 10:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1313">
 <span class="data">2023-10-25 · 16:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1312">
 <span class="data">2023-10-24 · 16:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1311">
 <span class="data">2023-10-24 · 16:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1310">
 <span class="data">2023-10-18 · 14:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1309">
 <span class="data">2023-10-18 · 14:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1308">
 <span class="data">2023-10-17 · 17:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1307">
 <span class="data">2023-10-17 · 15:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1306">
 <span class="data">2023-10-10 · 14:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1305">
 <span class="data">2023-10-09 · 18:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -351,7 +351,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1304">
 <span class="data">2023-10-04 · 22:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -360,7 +360,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1301">
 <span class="data">2023-10-03 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -369,7 +369,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1300">
 <span class="data">2023-10-03 · 17:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -378,7 +378,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1299">
 <span class="data">2023-09-26 · 16:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -387,7 +387,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1298">
 <span class="data">2023-09-20 · 14:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -396,7 +396,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1297">
 <span class="data">2023-09-20 · 14:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -405,7 +405,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1296">
 <span class="data">2023-09-14 · 12:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -414,7 +414,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1295">
 <span class="data">2023-09-14 · 10:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -423,7 +423,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1294">
 <span class="data">2023-09-13 · 16:04</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -432,7 +432,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1292">
 <span class="data">2023-09-12 · 19:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -441,7 +441,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1291">
 <span class="data">2023-09-12 · 15:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -450,7 +450,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1290">
 <span class="data">2023-09-12 · 15:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -459,7 +459,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1289">
 <span class="data">2023-08-30 · 16:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -468,7 +468,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1288">
 <span class="data">2023-08-29 · 18:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -477,7 +477,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1287">
 <span class="data">2023-08-29 · 14:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -486,7 +486,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1286">
 <span class="data">2023-08-24 · 11:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -495,7 +495,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1285">
 <span class="data">2023-08-22 · 14:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -504,7 +504,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1284">
 <span class="data">2023-08-17 · 12:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -513,7 +513,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1283">
 <span class="data">2023-08-16 · 17:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -522,7 +522,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1282">
 <span class="data">2023-08-16 · 17:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -531,7 +531,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1281">
 <span class="data">2023-08-15 · 15:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -540,7 +540,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1280">
 <span class="data">2023-08-10 · 09:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -549,7 +549,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1279">
 <span class="data">2023-08-09 · 16:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -558,7 +558,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1278">
 <span class="data">2023-08-09 · 15:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -567,7 +567,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1277">
 <span class="data">2023-08-03 · 10:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -576,7 +576,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1276">
 <span class="data">2023-08-02 · 20:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -585,7 +585,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1275">
 <span class="data">2023-08-02 · 15:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -594,7 +594,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1274">
 <span class="data">2023-07-06 · 19:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -603,7 +603,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1273">
 <span class="data">2023-07-05 · 18:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -612,7 +612,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1272">
 <span class="data">2023-07-05 · 15:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -621,7 +621,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1271">
 <span class="data">2023-07-04 · 17:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -630,7 +630,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1270">
 <span class="data">2023-07-04 · 16:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -639,7 +639,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1269">
 <span class="data">2023-07-03 · 18:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -648,7 +648,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1268">
 <span class="data">2023-06-20 · 19:40</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -657,7 +657,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1267">
 <span class="data">2023-06-20 · 17:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -666,7 +666,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1266">
 <span class="data">2023-06-20 · 16:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -675,7 +675,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1265">
 <span class="data">2023-06-14 · 14:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -684,7 +684,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1264">
 <span class="data">2023-06-13 · 19:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -693,7 +693,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1263">
 <span class="data">2023-06-07 · 11:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -702,7 +702,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1262">
 <span class="data">2023-06-07 · 10:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -711,7 +711,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1261">
 <span class="data">2023-06-01 · 11:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -720,7 +720,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1260">
 <span class="data">2023-05-31 · 20:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -729,7 +729,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1259">
 <span class="data">2023-05-31 · 17:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -738,7 +738,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1258">
 <span class="data">2023-05-31 · 13:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -747,7 +747,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1257">
 <span class="data">2023-05-31 · 10:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -756,7 +756,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1256">
 <span class="data">2023-05-30 · 23:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -765,7 +765,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1255">
 <span class="data">2023-05-30 · 20:56</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -774,7 +774,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1254">
 <span class="data">2023-05-24 · 16:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -783,7 +783,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1253">
 <span class="data">2023-05-24 · 15:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -792,7 +792,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1252">
 <span class="data">2023-05-23 · 23:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -801,7 +801,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1251">
 <span class="data">2023-05-23 · 15:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -810,7 +810,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1250">
 <span class="data">2023-05-23 · 14:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -819,7 +819,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1249">
 <span class="data">2023-05-17 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -828,7 +828,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1248">
 <span class="data">2023-05-17 · 18:40</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -837,7 +837,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1247">
 <span class="data">2023-05-17 · 17:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -846,7 +846,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1246">
 <span class="data">2023-05-17 · 15:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -855,7 +855,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1245">
 <span class="data">2023-05-17 · 15:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -864,7 +864,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1244">
 <span class="data">2023-05-16 · 16:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -873,7 +873,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1243">
 <span class="data">2023-05-16 · 15:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -882,7 +882,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1242">
 <span class="data">2023-05-11 · 10:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -891,7 +891,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1241">
 <span class="data">2023-05-11 · 10:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -900,7 +900,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1240">
 <span class="data">2023-05-10 · 18:00</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -909,7 +909,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1239">
 <span class="data">2023-05-10 · 14:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -918,7 +918,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1238">
 <span class="data">2023-05-09 · 16:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -927,7 +927,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1237">
 <span class="data">2023-05-09 · 16:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -936,7 +936,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1236">
 <span class="data">2023-05-09 · 14:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -945,7 +945,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1235">
 <span class="data">2023-05-04 · 09:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -954,7 +954,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1234">
 <span class="data">2023-05-03 · 19:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -963,7 +963,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1233">
 <span class="data">2023-05-03 · 19:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -972,7 +972,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1232">
 <span class="data">2023-05-03 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -981,7 +981,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1231">
 <span class="data">2023-05-03 · 14:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -990,7 +990,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1230">
 <span class="data">2023-04-27 · 11:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -999,7 +999,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1229">
 <span class="data">2023-04-27 · 11:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1008,7 +1008,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1228">
 <span class="data">2023-04-27 · 09:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1017,7 +1017,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1227">
 <span class="data">2023-04-25 · 15:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1026,7 +1026,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1226">
 <span class="data">2023-04-25 · 14:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1035,7 +1035,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1225">
 <span class="data">2023-04-19 · 14:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1044,7 +1044,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1224">
 <span class="data">2023-04-19 · 14:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1053,7 +1053,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1223">
 <span class="data">2023-04-13 · 11:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1062,7 +1062,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1222">
 <span class="data">2023-04-12 · 15:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1071,7 +1071,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1221">
 <span class="data">2023-04-12 · 15:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1080,7 +1080,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1220">
 <span class="data">2023-04-12 · 15:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1089,7 +1089,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1219">
 <span class="data">2023-04-12 · 14:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1098,7 +1098,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1218">
 <span class="data">2023-04-12 · 14:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1107,7 +1107,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1217">
 <span class="data">2023-04-11 · 14:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1116,7 +1116,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1216">
 <span class="data">2023-03-30 · 10:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1125,7 +1125,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1215">
 <span class="data">2023-03-29 · 14:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1134,7 +1134,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1214">
 <span class="data">2023-03-28 · 15:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1143,7 +1143,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1213">
 <span class="data">2023-03-28 · 14:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1152,7 +1152,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1212">
 <span class="data">2023-03-27 · 18:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1161,7 +1161,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1211">
 <span class="data">2023-03-27 · 17:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1170,7 +1170,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1210">
 <span class="data">2023-03-23 · 10:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1179,7 +1179,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1209">
 <span class="data">2023-03-23 · 10:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1188,7 +1188,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1208">
 <span class="data">2023-03-23 · 10:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1197,7 +1197,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1207">
 <span class="data">2023-03-22 · 21:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1206,7 +1206,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1206">
 <span class="data">2023-03-22 · 14:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1215,7 +1215,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1205">
 <span class="data">2023-03-21 · 15:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1224,7 +1224,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1204">
 <span class="data">2023-03-21 · 14:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1233,7 +1233,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1203">
 <span class="data">2023-03-15 · 15:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1242,7 +1242,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1202">
 <span class="data">2023-03-15 · 15:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1251,7 +1251,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1201">
 <span class="data">2023-03-14 · 16:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1260,7 +1260,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1200">
 <span class="data">2023-03-14 · 15:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1269,7 +1269,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1199">
 <span class="data">2023-03-09 · 11:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1278,7 +1278,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1198">
 <span class="data">2023-03-09 · 11:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1287,7 +1287,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1197">
 <span class="data">2023-03-08 · 15:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1296,7 +1296,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1196">
 <span class="data">2023-03-07 · 16:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1305,7 +1305,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1195">
 <span class="data">2023-03-02 · 10:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1314,7 +1314,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1194">
 <span class="data">2023-03-02 · 10:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1323,7 +1323,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1193">
 <span class="data">2023-03-01 · 16:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1332,7 +1332,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1192">
 <span class="data">2023-03-01 · 15:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1341,7 +1341,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1191">
 <span class="data">2023-02-28 · 19:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1350,7 +1350,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1190">
 <span class="data">2023-02-28 · 17:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1359,7 +1359,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1189">
 <span class="data">2023-02-15 · 14:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1368,7 +1368,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1188">
 <span class="data">2023-02-15 · 14:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1377,7 +1377,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1187">
 <span class="data">2023-02-14 · 20:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1386,7 +1386,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1186">
 <span class="data">2023-02-14 · 16:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1395,7 +1395,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1185">
 <span class="data">2023-02-09 · 13:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1404,7 +1404,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1184">
 <span class="data">2023-02-08 · 15:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1413,7 +1413,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1183">
 <span class="data">2023-02-07 · 17:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1422,7 +1422,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1182">
 <span class="data">2023-02-07 · 16:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1431,7 +1431,7 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1181">
 <span class="data">2023-02-03 · 11:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1451,7 +1451,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1337">
 <span class="data">2023-11-22 · 19:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1460,7 +1460,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1332">
 <span class="data">2023-11-08 · 19:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1469,7 +1469,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1324">
 <span class="data">2023-10-31 · 23:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1478,7 +1478,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1323">
 <span class="data">2023-10-31 · 23:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1487,7 +1487,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1321">
 <span class="data">2023-10-31 · 22:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1496,7 +1496,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1320">
 <span class="data">2023-10-31 · 21:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1505,7 +1505,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1319">
 <span class="data">2023-10-31 · 21:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1514,7 +1514,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1318">
 <span class="data">2023-10-31 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1523,7 +1523,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1317">
 <span class="data">2023-10-31 · 19:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1532,7 +1532,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1315">
 <span class="data">2023-10-31 · 14:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1541,7 +1541,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1303">
 <span class="data">2023-10-04 · 22:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1550,7 +1550,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1302">
 <span class="data">2023-10-04 · 21:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1559,7 +1559,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1293">
 <span class="data">2023-09-13 · 14:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

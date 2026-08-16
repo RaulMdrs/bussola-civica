@@ -18,7 +18,7 @@ description: "Os discursos de Pedro Westphalen em 2025, com o sumário publicado
 
 ## Substantivos — 6
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3526">
 <span class="data">2025-12-03 · 19:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Pedro Westphalen em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3523">
 <span class="data">2025-07-16 · 21:48</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Pedro Westphalen em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3522">
 <span class="data">2025-07-16 · 21:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Pedro Westphalen em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3521">
 <span class="data">2025-07-16 · 14:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Pedro Westphalen em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3520">
 <span class="data">2025-03-19 · 18:36</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Pedro Westphalen em 2025, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3519">
 <span class="data">2025-02-12 · 15:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -83,7 +83,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3525">
 <span class="data">2025-09-17 · 21:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -92,7 +92,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3524">
 <span class="data">2025-07-16 · 22:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

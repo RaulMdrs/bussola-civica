@@ -18,7 +18,7 @@ description: "Os discursos de Pedro Westphalen em 2026, com o sumário publicado
 
 ## Substantivos — 5
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3531">
 <span class="data">2026-06-10 · 17:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Pedro Westphalen em 2026, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3530">
 <span class="data">2026-06-09 · 17:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Pedro Westphalen em 2026, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3529">
 <span class="data">2026-05-12 · 17:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Pedro Westphalen em 2026, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3528">
 <span class="data">2026-04-28 · 15:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Pedro Westphalen em 2026, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3527">
 <span class="data">2026-04-07 · 16:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

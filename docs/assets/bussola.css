@@ -226,6 +226,75 @@ img { max-width: 100%; height: auto; }
 }
 .discurso .sem-sumario { color: var(--tinta-2); font-style: italic; }
 
+/* ---------- Busca nos discursos ------------------------------ */
+/* Único lugar do site com JavaScript. O formulário é estilizado como
+   parte do documento, não como widget: mesma tinta, mesmos fios. */
+.busca { margin: 0 0 var(--e5); max-width: var(--medida); }
+.busca label {
+  display: block;
+  font: 600 var(--t-peq)/1.3 var(--f-ui);
+  text-transform: uppercase; letter-spacing: .06em;
+  color: var(--tinta-2);
+  margin-bottom: var(--e2);
+}
+.busca input[type="search"] {
+  width: 100%;
+  font: var(--t-base)/1.4 var(--f-ui);
+  color: var(--tinta);
+  background: var(--papel);
+  border: 1.5px solid var(--fio-forte);
+  border-radius: 2px;
+  padding: var(--e3);
+  min-height: 44px;
+}
+.busca input[type="search"]:focus-visible {
+  outline: 2px solid var(--foco); outline-offset: 1px;
+}
+.busca-filtros { margin-top: var(--e3); }
+.busca-filtros label {
+  display: flex; align-items: center; gap: var(--e2);
+  text-transform: none; letter-spacing: 0; font-weight: 400;
+  color: var(--tinta); min-height: 44px;
+}
+.busca-estado {
+  font: var(--t-peq)/1.5 var(--f-ui);
+  color: var(--tinta-2);
+  margin: var(--e3) 0 0;
+}
+.busca-estado b { color: var(--tinta); }
+
+/* Quem falou, no resultado. */
+.discurso .quem {
+  font: var(--t-peq)/1.4 var(--f-ui);
+  color: var(--tinta-2);
+  margin: 0 0 var(--e2);
+}
+.discurso .quem b { color: var(--tinta); font-weight: 600; }
+.protocolar {
+  display: inline-block;
+  font: 600 0.8125rem/1 var(--f-ui);
+  text-transform: uppercase; letter-spacing: .05em;
+  color: var(--tinta-2);
+  border: 1px solid var(--fio-forte);
+  border-radius: 2px;
+  padding: .25em .4em;
+}
+/* Destaque do termo: sublinhado grosso, não fundo colorido — cor de fundo
+   aqui competiria com o âmbar, que neste site significa dado frágil. */
+mark {
+  background: transparent;
+  color: inherit;
+  font-weight: 650;
+  box-shadow: inset 0 -0.35em 0 var(--aviso-fundo);
+}
+
+/* O discurso alcançado por âncora vinda da busca. */
+.discurso:target {
+  outline: 2px solid var(--foco);
+  outline-offset: 4px;
+  scroll-margin-top: var(--e5);
+}
+
 /* Navegação entre anos, no topo da página de discursos. */
 .anos {
   font: var(--t-peq)/1.6 var(--f-ui);
@@ -417,6 +486,9 @@ td .fonte, .evidencia .fonte { margin-top: var(--e2); }
 
   .t-anos td:nth-child(2)::before { content: "Discursos"; }
   .t-anos td:nth-child(3)::before { content: "Substantivos"; }
+
+  .t-busca td:nth-child(2)::before { content: "Discursos"; }
+  .t-busca td:nth-child(3)::before { content: "Anos"; }
 
   /* Tabela de documentos: a segunda célula é descrição em prosa, não dado
      rotulado — vira parágrafo do cartão, alinhado à esquerda e sem rótulo. */

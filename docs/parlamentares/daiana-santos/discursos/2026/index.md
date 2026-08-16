@@ -18,7 +18,7 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário publicado pe
 
 ## Substantivos — 11
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4675">
 <span class="data">2026-05-27 · 22:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4673">
 <span class="data">2026-05-26 · 16:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4672">
 <span class="data">2026-05-20 · 14:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4671">
 <span class="data">2026-05-05 · 16:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4669">
 <span class="data">2026-04-08 · 20:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4668">
 <span class="data">2026-04-08 · 15:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4667">
 <span class="data">2026-04-08 · 15:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4666">
 <span class="data">2026-03-17 · 16:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4665">
 <span class="data">2026-03-11 · 21:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4664">
 <span class="data">2026-03-11 · 20:48</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4663">
 <span class="data">2026-03-11 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -128,7 +128,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4674">
 <span class="data">2026-05-27 · 21:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -137,7 +137,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4670">
 <span class="data">2026-04-28 · 21:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

@@ -18,7 +18,7 @@ description: "Os discursos de Marcelo Moraes em 2024, com o sumário publicado p
 
 ## Substantivos — 3
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-21">
 <span class="data">2024-11-12 · 16:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Marcelo Moraes em 2024, com o sumário publicado p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-20">
 <span class="data">2024-10-30 · 14:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Marcelo Moraes em 2024, com o sumário publicado p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-19">
 <span class="data">2024-04-24 · 14:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

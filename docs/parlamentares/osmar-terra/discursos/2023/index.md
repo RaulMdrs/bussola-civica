@@ -18,7 +18,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 
 ## Substantivos — 59
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5451">
 <span class="data">2023-12-20 · 20:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5450">
 <span class="data">2023-12-19 · 19:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5449">
 <span class="data">2023-12-07 · 12:12</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5448">
 <span class="data">2023-12-07 · 10:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5447">
 <span class="data">2023-12-06 · 16:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5446">
 <span class="data">2023-12-05 · 19:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5445">
 <span class="data">2023-11-22 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5444">
 <span class="data">2023-11-22 · 17:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5443">
 <span class="data">2023-11-09 · 10:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5442">
 <span class="data">2023-11-07 · 19:28</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5441">
 <span class="data">2023-10-26 · 12:24</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5440">
 <span class="data">2023-10-26 · 11:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5439">
 <span class="data">2023-10-26 · 11:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5438">
 <span class="data">2023-10-24 · 20:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5437">
 <span class="data">2023-10-24 · 19:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5436">
 <span class="data">2023-10-09 · 18:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5435">
 <span class="data">2023-10-03 · 20:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5434">
 <span class="data">2023-09-20 · 19:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5433">
 <span class="data">2023-09-20 · 19:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5432">
 <span class="data">2023-09-19 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5431">
 <span class="data">2023-09-12 · 19:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5430">
 <span class="data">2023-09-04 · 20:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5429">
 <span class="data">2023-08-31 · 11:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5428">
 <span class="data">2023-08-29 · 16:20</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5427">
 <span class="data">2023-08-23 · 14:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5426">
 <span class="data">2023-08-22 · 17:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5425">
 <span class="data">2023-08-22 · 16:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5424">
 <span class="data">2023-08-15 · 18:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5423">
 <span class="data">2023-08-15 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5422">
 <span class="data">2023-08-15 · 18:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5421">
 <span class="data">2023-08-08 · 18:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5420">
 <span class="data">2023-08-03 · 12:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5419">
 <span class="data">2023-08-02 · 18:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5418">
 <span class="data">2023-08-02 · 17:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5417">
 <span class="data">2023-07-06 · 18:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5416">
 <span class="data">2023-07-06 · 15:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5415">
 <span class="data">2023-07-04 · 19:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -351,7 +351,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5414">
 <span class="data">2023-07-04 · 19:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -360,7 +360,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5413">
 <span class="data">2023-06-20 · 21:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -369,7 +369,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5412">
 <span class="data">2023-06-06 · 20:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -378,7 +378,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5411">
 <span class="data">2023-06-01 · 12:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -387,7 +387,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5410">
 <span class="data">2023-06-01 · 12:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -396,7 +396,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5409">
 <span class="data">2023-05-31 · 19:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -405,7 +405,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5408">
 <span class="data">2023-05-23 · 15:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -414,7 +414,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5407">
 <span class="data">2023-05-18 · 09:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -423,7 +423,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5406">
 <span class="data">2023-05-03 · 16:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -432,7 +432,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5405">
 <span class="data">2023-04-27 · 11:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -441,7 +441,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5404">
 <span class="data">2023-04-11 · 15:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -450,7 +450,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5403">
 <span class="data">2023-03-14 · 19:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -459,7 +459,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5402">
 <span class="data">2023-03-14 · 17:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -468,7 +468,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5401">
 <span class="data">2023-03-09 · 10:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -477,7 +477,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5400">
 <span class="data">2023-03-09 · 10:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -486,7 +486,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5399">
 <span class="data">2023-03-08 · 18:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -495,7 +495,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5398">
 <span class="data">2023-03-01 · 19:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -504,7 +504,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5397">
 <span class="data">2023-02-28 · 20:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -513,7 +513,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5396">
 <span class="data">2023-02-15 · 15:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -522,7 +522,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5395">
 <span class="data">2023-02-15 · 15:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -531,7 +531,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5394">
 <span class="data">2023-02-09 · 12:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -540,7 +540,7 @@ description: "Os discursos de Osmar Terra em 2023, com o sumário publicado pela
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5393">
 <span class="data">2023-02-03 · 11:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

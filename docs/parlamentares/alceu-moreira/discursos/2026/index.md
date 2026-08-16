@@ -18,7 +18,7 @@ description: "Os discursos de Alceu Moreira em 2026, com o sumário publicado pe
 
 ## Substantivos — 4
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-2275">
 <span class="data">2026-05-19 · 18:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Alceu Moreira em 2026, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-2274">
 <span class="data">2026-04-08 · 21:08</span>
 <div class="corpo">
 <p class="tipo">COMO RELATOR</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Alceu Moreira em 2026, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-2273">
 <span class="data">2026-04-08 · 20:56</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Alceu Moreira em 2026, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-2272">
 <span class="data">2026-04-08 · 20:36</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>

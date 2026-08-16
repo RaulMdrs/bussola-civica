@@ -18,7 +18,7 @@ description: "Os discursos de Marcelo Moraes em 2026, com o sumário publicado p
 
 ## Substantivos — 3
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-42">
 <span class="data">2026-07-08 · 16:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Marcelo Moraes em 2026, com o sumário publicado p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-41">
 <span class="data">2026-06-30 · 17:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Marcelo Moraes em 2026, com o sumário publicado p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-40">
 <span class="data">2026-04-28 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -56,7 +56,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-39">
 <span class="data">2026-03-18 · 15:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

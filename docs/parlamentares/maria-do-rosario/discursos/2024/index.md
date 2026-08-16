@@ -18,7 +18,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 
 ## Substantivos — 33
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5653">
 <span class="data">2024-12-20 · 12:28</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5652">
 <span class="data">2024-12-19 · 21:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5651">
 <span class="data">2024-12-19 · 10:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5650">
 <span class="data">2024-12-18 · 15:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5649">
 <span class="data">2024-12-18 · 11:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5648">
 <span class="data">2024-12-16 · 20:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5647">
 <span class="data">2024-12-10 · 14:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5646">
 <span class="data">2024-11-27 · 22:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5645">
 <span class="data">2024-11-27 · 20:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5644">
 <span class="data">2024-11-26 · 18:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5643">
 <span class="data">2024-11-26 · 16:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5642">
 <span class="data">2024-11-13 · 15:56</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5641">
 <span class="data">2024-11-12 · 15:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5640">
 <span class="data">2024-11-06 · 16:12</span>
 <div class="corpo">
 <p class="tipo">HOMENAGEM</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5639">
 <span class="data">2024-11-05 · 18:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5638">
 <span class="data">2024-11-05 · 17:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5637">
 <span class="data">2024-10-29 · 16:36</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5636">
 <span class="data">2024-08-27 · 20:00</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5635">
 <span class="data">2024-08-27 · 16:56</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5634">
 <span class="data">2024-08-27 · 16:48</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5633">
 <span class="data">2024-07-10 · 19:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5632">
 <span class="data">2024-07-09 · 16:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5631">
 <span class="data">2024-06-12 · 16:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5630">
 <span class="data">2024-06-05 · 19:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5629">
 <span class="data">2024-06-05 · 19:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5628">
 <span class="data">2024-04-17 · 18:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5627">
 <span class="data">2024-04-17 · 18:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5626">
 <span class="data">2024-04-09 · 21:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5625">
 <span class="data">2024-03-26 · 11:20</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5624">
 <span class="data">2024-03-19 · 16:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5623">
 <span class="data">2024-03-06 · 18:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5622">
 <span class="data">2024-02-27 · 20:38</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Maria do Rosário em 2024, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5621">
 <span class="data">2024-02-27 · 18:42</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>

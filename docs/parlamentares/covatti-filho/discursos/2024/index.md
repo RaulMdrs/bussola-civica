@@ -16,7 +16,7 @@ description: "Os discursos de Covatti Filho em 2024, com o sumário publicado pe
 
 ## Substantivos — 1
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-2506">
 <span class="data">2024-05-07 · 18:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

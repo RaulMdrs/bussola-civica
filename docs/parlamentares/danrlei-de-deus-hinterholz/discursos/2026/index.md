@@ -18,7 +18,7 @@ description: "Os discursos de Danrlei de Deus Hinterholz em 2026, com o sumário
 
 ## Substantivos — 1
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-2248">
 <span class="data">2026-05-26 · 14:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

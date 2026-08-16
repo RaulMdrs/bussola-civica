@@ -18,7 +18,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 
 ## Substantivos — 50
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4479">
 <span class="data">2025-12-10 · 01:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4477">
 <span class="data">2025-11-18 · 21:08</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4476">
 <span class="data">2025-11-05 · 13:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4475">
 <span class="data">2025-11-05 · 12:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4474">
 <span class="data">2025-11-04 · 21:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4473">
 <span class="data">2025-10-29 · 14:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4472">
 <span class="data">2025-10-29 · 12:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4471">
 <span class="data">2025-10-01 · 20:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4470">
 <span class="data">2025-09-17 · 21:28</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4469">
 <span class="data">2025-09-16 · 23:12</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4468">
 <span class="data">2025-08-20 · 16:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4467">
 <span class="data">2025-08-13 · 17:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4466">
 <span class="data">2025-07-16 · 22:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4465">
 <span class="data">2025-07-16 · 21:56</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4464">
 <span class="data">2025-07-16 · 21:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4463">
 <span class="data">2025-07-16 · 19:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4462">
 <span class="data">2025-07-16 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4461">
 <span class="data">2025-07-16 · 15:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4460">
 <span class="data">2025-07-08 · 15:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4459">
 <span class="data">2025-06-25 · 19:08</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4458">
 <span class="data">2025-06-16 · 21:04</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4457">
 <span class="data">2025-06-11 · 16:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4455">
 <span class="data">2025-05-21 · 17:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4454">
 <span class="data">2025-05-20 · 14:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4452">
 <span class="data">2025-05-07 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4449">
 <span class="data">2025-05-05 · 19:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4448">
 <span class="data">2025-04-29 · 20:44</span>
 <div class="corpo">
 <p class="tipo">RECLAMAÇÃO</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4447">
 <span class="data">2025-04-29 · 20:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4445">
 <span class="data">2025-04-29 · 18:48</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4444">
 <span class="data">2025-04-29 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4443">
 <span class="data">2025-04-28 · 22:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4442">
 <span class="data">2025-04-28 · 21:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4441">
 <span class="data">2025-04-09 · 15:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4440">
 <span class="data">2025-04-01 · 18:28</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4439">
 <span class="data">2025-03-18 · 19:00</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4438">
 <span class="data">2025-03-12 · 18:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4437">
 <span class="data">2025-03-12 · 17:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -351,7 +351,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4436">
 <span class="data">2025-03-12 · 16:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -360,7 +360,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4435">
 <span class="data">2025-03-11 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -369,7 +369,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4434">
 <span class="data">2025-02-25 · 19:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -378,7 +378,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4433">
 <span class="data">2025-02-25 · 16:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -387,7 +387,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4432">
 <span class="data">2025-02-19 · 17:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -396,7 +396,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4431">
 <span class="data">2025-02-18 · 20:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -405,7 +405,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4430">
 <span class="data">2025-02-18 · 20:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -414,7 +414,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4429">
 <span class="data">2025-02-18 · 19:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -423,7 +423,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4428">
 <span class="data">2025-02-18 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -432,7 +432,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4427">
 <span class="data">2025-02-18 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -441,7 +441,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4426">
 <span class="data">2025-02-12 · 18:12</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -450,7 +450,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4425">
 <span class="data">2025-02-04 · 17:32</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -459,7 +459,7 @@ description: "Os discursos de Zucco em 2025, com o sumário publicado pela Câma
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4424">
 <span class="data">2025-02-04 · 17:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -479,7 +479,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4480">
 <span class="data">2025-12-10 · 03:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -488,7 +488,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4478">
 <span class="data">2025-11-18 · 22:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -497,7 +497,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4456">
 <span class="data">2025-06-10 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -506,7 +506,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4453">
 <span class="data">2025-05-07 · 20:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -515,7 +515,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4451">
 <span class="data">2025-05-06 · 22:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -524,7 +524,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4450">
 <span class="data">2025-05-06 · 19:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -533,7 +533,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4446">
 <span class="data">2025-04-29 · 19:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

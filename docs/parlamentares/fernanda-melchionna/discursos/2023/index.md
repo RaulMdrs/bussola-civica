@@ -18,7 +18,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 
 ## Substantivos — 94
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3644">
 <span class="data">2023-12-14 · 16:40</span>
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3643">
 <span class="data">2023-12-14 · 16:24</span>
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3642">
 <span class="data">2023-12-14 · 13:48</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3641">
 <span class="data">2023-12-13 · 22:04</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3640">
 <span class="data">2023-12-13 · 21:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3639">
 <span class="data">2023-12-13 · 20:24</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3638">
 <span class="data">2023-12-13 · 19:48</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3637">
 <span class="data">2023-12-06 · 23:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3636">
 <span class="data">2023-12-06 · 21:40</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3635">
 <span class="data">2023-12-06 · 20:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3634">
 <span class="data">2023-12-06 · 20:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3630">
 <span class="data">2023-11-29 · 19:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3629">
 <span class="data">2023-11-28 · 19:24</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3627">
 <span class="data">2023-11-21 · 21:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3626">
 <span class="data">2023-11-08 · 19:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3624">
 <span class="data">2023-10-25 · 19:24</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3623">
 <span class="data">2023-10-18 · 18:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3621">
 <span class="data">2023-09-27 · 18:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3618">
 <span class="data">2023-09-19 · 17:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3617">
 <span class="data">2023-09-14 · 18:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3614">
 <span class="data">2023-09-14 · 17:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3610">
 <span class="data">2023-09-14 · 15:44</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3607">
 <span class="data">2023-09-14 · 14:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3605">
 <span class="data">2023-09-13 · 20:36</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3604">
 <span class="data">2023-09-13 · 18:52</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3603">
 <span class="data">2023-09-05 · 20:52</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3602">
 <span class="data">2023-09-05 · 19:48</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3601">
 <span class="data">2023-09-04 · 22:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3600">
 <span class="data">2023-09-04 · 22:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3599">
 <span class="data">2023-09-04 · 21:36</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3598">
 <span class="data">2023-09-04 · 21:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3597">
 <span class="data">2023-08-29 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3593">
 <span class="data">2023-08-22 · 18:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3592">
 <span class="data">2023-08-09 · 17:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3591">
 <span class="data">2023-07-07 · 16:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3590">
 <span class="data">2023-07-06 · 11:20</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3589">
 <span class="data">2023-06-14 · 21:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -351,7 +351,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3588">
 <span class="data">2023-06-14 · 21:00</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -360,7 +360,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3587">
 <span class="data">2023-06-14 · 20:24</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -369,7 +369,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3586">
 <span class="data">2023-06-14 · 19:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -378,7 +378,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3585">
 <span class="data">2023-06-14 · 18:40</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -387,7 +387,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3584">
 <span class="data">2023-05-31 · 22:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -396,7 +396,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3583">
 <span class="data">2023-05-31 · 19:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -405,7 +405,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3582">
 <span class="data">2023-05-30 · 22:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -414,7 +414,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3581">
 <span class="data">2023-05-30 · 22:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -423,7 +423,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3580">
 <span class="data">2023-05-30 · 20:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -432,7 +432,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3579">
 <span class="data">2023-05-30 · 18:40</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -441,7 +441,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3578">
 <span class="data">2023-05-24 · 20:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -450,7 +450,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3577">
 <span class="data">2023-05-24 · 20:24</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -459,7 +459,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3576">
 <span class="data">2023-05-24 · 20:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -468,7 +468,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3575">
 <span class="data">2023-05-24 · 19:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -477,7 +477,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3574">
 <span class="data">2023-05-24 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -486,7 +486,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3573">
 <span class="data">2023-05-23 · 23:40</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -495,7 +495,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3572">
 <span class="data">2023-05-23 · 21:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -504,7 +504,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3571">
 <span class="data">2023-05-09 · 17:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -513,7 +513,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3570">
 <span class="data">2023-05-04 · 12:44</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -522,7 +522,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3569">
 <span class="data">2023-05-04 · 11:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -531,7 +531,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3568">
 <span class="data">2023-05-04 · 11:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -540,7 +540,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3567">
 <span class="data">2023-05-04 · 11:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -549,7 +549,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3566">
 <span class="data">2023-05-03 · 20:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -558,7 +558,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3565">
 <span class="data">2023-05-03 · 18:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -567,7 +567,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3564">
 <span class="data">2023-05-03 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -576,7 +576,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3563">
 <span class="data">2023-05-02 · 22:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -585,7 +585,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3562">
 <span class="data">2023-05-02 · 19:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -594,7 +594,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3561">
 <span class="data">2023-04-27 · 12:28</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -603,7 +603,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3560">
 <span class="data">2023-04-27 · 11:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -612,7 +612,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3559">
 <span class="data">2023-04-26 · 20:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -621,7 +621,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3558">
 <span class="data">2023-04-26 · 14:44</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -630,7 +630,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3557">
 <span class="data">2023-04-25 · 21:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -639,7 +639,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3556">
 <span class="data">2023-04-25 · 21:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -648,7 +648,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3555">
 <span class="data">2023-04-25 · 20:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -657,7 +657,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3554">
 <span class="data">2023-04-25 · 19:48</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -666,7 +666,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3553">
 <span class="data">2023-03-30 · 17:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -675,7 +675,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3552">
 <span class="data">2023-03-30 · 17:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -684,7 +684,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3551">
 <span class="data">2023-03-30 · 16:48</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -693,7 +693,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3550">
 <span class="data">2023-03-30 · 16:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -702,7 +702,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3549">
 <span class="data">2023-03-30 · 16:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -711,7 +711,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3548">
 <span class="data">2023-03-30 · 16:12</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -720,7 +720,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3547">
 <span class="data">2023-03-30 · 15:52</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -729,7 +729,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3546">
 <span class="data">2023-03-30 · 15:36</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -738,7 +738,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3545">
 <span class="data">2023-03-30 · 15:12</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -747,7 +747,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3544">
 <span class="data">2023-03-29 · 19:12</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -756,7 +756,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3543">
 <span class="data">2023-03-29 · 19:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -765,7 +765,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3542">
 <span class="data">2023-03-29 · 19:00</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -774,7 +774,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3541">
 <span class="data">2023-03-29 · 18:20</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -783,7 +783,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3540">
 <span class="data">2023-03-14 · 18:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -792,7 +792,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3539">
 <span class="data">2023-03-07 · 18:48</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -801,7 +801,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3538">
 <span class="data">2023-03-02 · 12:00</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -810,7 +810,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3537">
 <span class="data">2023-03-02 · 11:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -819,7 +819,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3536">
 <span class="data">2023-03-02 · 11:40</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -828,7 +828,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3535">
 <span class="data">2023-03-01 · 18:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -837,7 +837,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3534">
 <span class="data">2023-02-28 · 18:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -846,7 +846,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3533">
 <span class="data">2023-02-08 · 19:16</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -855,7 +855,7 @@ description: "Os discursos de Fernanda Melchionna em 2023, com o sumário public
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3532">
 <span class="data">2023-02-07 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -875,7 +875,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3633">
 <span class="data">2023-11-29 · 20:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -884,7 +884,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3632">
 <span class="data">2023-11-29 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -893,7 +893,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3631">
 <span class="data">2023-11-29 · 20:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -902,7 +902,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3628">
 <span class="data">2023-11-21 · 22:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -911,7 +911,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3625">
 <span class="data">2023-10-31 · 21:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -920,7 +920,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3622">
 <span class="data">2023-10-18 · 18:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -929,7 +929,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3620">
 <span class="data">2023-09-20 · 19:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -938,7 +938,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3619">
 <span class="data">2023-09-20 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -947,7 +947,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3616">
 <span class="data">2023-09-14 · 17:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -956,7 +956,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3615">
 <span class="data">2023-09-14 · 17:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -965,7 +965,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3613">
 <span class="data">2023-09-14 · 17:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -974,7 +974,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3612">
 <span class="data">2023-09-14 · 16:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -983,7 +983,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3611">
 <span class="data">2023-09-14 · 16:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -992,7 +992,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3609">
 <span class="data">2023-09-14 · 15:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1001,7 +1001,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3608">
 <span class="data">2023-09-14 · 15:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1010,7 +1010,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3606">
 <span class="data">2023-09-13 · 21:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1019,7 +1019,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3596">
 <span class="data">2023-08-29 · 19:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1028,7 +1028,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3595">
 <span class="data">2023-08-29 · 18:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1037,7 +1037,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3594">
 <span class="data">2023-08-22 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

@@ -18,7 +18,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 
 ## Substantivos — 210
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3421">
 <span class="data">2025-12-10 · 21:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3420">
 <span class="data">2025-12-10 · 19:12</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3419">
 <span class="data">2025-12-10 · 18:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3418">
 <span class="data">2025-12-09 · 20:24</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3417">
 <span class="data">2025-12-09 · 20:00</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3416">
 <span class="data">2025-12-03 · 16:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3415">
 <span class="data">2025-12-03 · 15:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3414">
 <span class="data">2025-11-26 · 15:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3413">
 <span class="data">2025-11-26 · 15:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3412">
 <span class="data">2025-11-25 · 17:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3411">
 <span class="data">2025-11-25 · 16:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3410">
 <span class="data">2025-11-25 · 15:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3409">
 <span class="data">2025-11-04 · 19:56</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3408">
 <span class="data">2025-11-04 · 19:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3407">
 <span class="data">2025-10-29 · 16:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3406">
 <span class="data">2025-10-29 · 15:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3405">
 <span class="data">2025-10-29 · 15:28</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3404">
 <span class="data">2025-10-29 · 14:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3402">
 <span class="data">2025-10-22 · 17:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3401">
 <span class="data">2025-10-22 · 17:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3400">
 <span class="data">2025-10-22 · 14:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3399">
 <span class="data">2025-10-21 · 18:52</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3398">
 <span class="data">2025-10-21 · 15:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3397">
 <span class="data">2025-10-21 · 14:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3396">
 <span class="data">2025-10-15 · 18:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3395">
 <span class="data">2025-10-15 · 15:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3394">
 <span class="data">2025-10-01 · 19:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3393">
 <span class="data">2025-10-01 · 17:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3392">
 <span class="data">2025-10-01 · 16:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3391">
 <span class="data">2025-10-01 · 16:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3390">
 <span class="data">2025-10-01 · 15:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3389">
 <span class="data">2025-09-30 · 16:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3388">
 <span class="data">2025-09-25 · 11:24</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3386">
 <span class="data">2025-09-25 · 10:48</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3384">
 <span class="data">2025-09-24 · 17:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3383">
 <span class="data">2025-09-24 · 17:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3381">
 <span class="data">2025-09-24 · 16:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -351,7 +351,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3380">
 <span class="data">2025-09-24 · 16:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -360,7 +360,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3379">
 <span class="data">2025-09-24 · 14:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -369,7 +369,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3378">
 <span class="data">2025-09-23 · 14:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -378,7 +378,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3377">
 <span class="data">2025-09-18 · 11:36</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -387,7 +387,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3376">
 <span class="data">2025-09-18 · 11:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -396,7 +396,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3375">
 <span class="data">2025-09-18 · 11:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -405,7 +405,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3374">
 <span class="data">2025-09-18 · 11:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -414,7 +414,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3372">
 <span class="data">2025-09-17 · 17:32</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -423,7 +423,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3367">
 <span class="data">2025-09-16 · 17:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -432,7 +432,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3366">
 <span class="data">2025-09-16 · 16:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -441,7 +441,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3365">
 <span class="data">2025-09-02 · 19:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -450,7 +450,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3364">
 <span class="data">2025-09-02 · 19:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -459,7 +459,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3363">
 <span class="data">2025-09-02 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -468,7 +468,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3362">
 <span class="data">2025-09-02 · 17:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -477,7 +477,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3361">
 <span class="data">2025-09-02 · 16:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -486,7 +486,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3360">
 <span class="data">2025-09-02 · 14:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -495,7 +495,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3359">
 <span class="data">2025-08-28 · 12:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -504,7 +504,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3358">
 <span class="data">2025-08-28 · 11:20</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -513,7 +513,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3357">
 <span class="data">2025-08-28 · 11:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -522,7 +522,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3356">
 <span class="data">2025-08-28 · 11:04</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -531,7 +531,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3355">
 <span class="data">2025-08-27 · 17:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -540,7 +540,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3354">
 <span class="data">2025-08-27 · 17:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -549,7 +549,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3353">
 <span class="data">2025-08-27 · 14:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -558,7 +558,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3352">
 <span class="data">2025-08-20 · 21:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -567,7 +567,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3351">
 <span class="data">2025-08-20 · 18:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -576,7 +576,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3350">
 <span class="data">2025-08-20 · 18:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -585,7 +585,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3349">
 <span class="data">2025-08-20 · 17:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -594,7 +594,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3348">
 <span class="data">2025-08-20 · 16:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -603,7 +603,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3347">
 <span class="data">2025-08-20 · 16:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -612,7 +612,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3346">
 <span class="data">2025-08-19 · 18:40</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -621,7 +621,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3345">
 <span class="data">2025-08-14 · 10:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -630,7 +630,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3344">
 <span class="data">2025-08-14 · 09:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -639,7 +639,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3343">
 <span class="data">2025-08-14 · 09:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -648,7 +648,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3342">
 <span class="data">2025-08-13 · 19:04</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -657,7 +657,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3341">
 <span class="data">2025-08-13 · 18:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -666,7 +666,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3340">
 <span class="data">2025-08-13 · 17:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -675,7 +675,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3339">
 <span class="data">2025-08-13 · 17:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -684,7 +684,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3338">
 <span class="data">2025-08-13 · 16:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -693,7 +693,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3337">
 <span class="data">2025-08-13 · 14:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -702,7 +702,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3336">
 <span class="data">2025-08-12 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -711,7 +711,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3335">
 <span class="data">2025-08-12 · 17:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -720,7 +720,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3334">
 <span class="data">2025-08-12 · 16:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -729,7 +729,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3333">
 <span class="data">2025-08-12 · 14:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -738,7 +738,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3332">
 <span class="data">2025-07-10 · 09:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -747,7 +747,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3331">
 <span class="data">2025-07-10 · 09:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -756,7 +756,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3330">
 <span class="data">2025-07-09 · 19:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -765,7 +765,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3329">
 <span class="data">2025-07-09 · 18:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -774,7 +774,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3328">
 <span class="data">2025-07-09 · 16:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -783,7 +783,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3327">
 <span class="data">2025-07-09 · 15:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -792,7 +792,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3324">
 <span class="data">2025-07-08 · 18:24</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -801,7 +801,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3323">
 <span class="data">2025-07-08 · 14:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -810,7 +810,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3322">
 <span class="data">2025-07-02 · 17:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -819,7 +819,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3321">
 <span class="data">2025-07-02 · 16:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -828,7 +828,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3320">
 <span class="data">2025-07-02 · 15:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -837,7 +837,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3319">
 <span class="data">2025-07-02 · 15:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -846,7 +846,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3318">
 <span class="data">2025-07-01 · 17:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -855,7 +855,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3315">
 <span class="data">2025-07-01 · 16:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -864,7 +864,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3314">
 <span class="data">2025-06-18 · 12:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -873,7 +873,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3313">
 <span class="data">2025-06-18 · 12:40</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -882,7 +882,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3312">
 <span class="data">2025-06-18 · 12:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -891,7 +891,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3311">
 <span class="data">2025-06-18 · 12:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -900,7 +900,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3310">
 <span class="data">2025-06-18 · 10:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -909,7 +909,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3309">
 <span class="data">2025-06-18 · 10:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -918,7 +918,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3308">
 <span class="data">2025-06-18 · 09:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -927,7 +927,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3307">
 <span class="data">2025-06-17 · 19:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -936,7 +936,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3306">
 <span class="data">2025-06-17 · 18:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -945,7 +945,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3305">
 <span class="data">2025-06-16 · 22:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -954,7 +954,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3304">
 <span class="data">2025-06-16 · 22:12</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -963,7 +963,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3303">
 <span class="data">2025-06-16 · 21:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -972,7 +972,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3302">
 <span class="data">2025-06-16 · 21:20</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -981,7 +981,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3301">
 <span class="data">2025-06-16 · 20:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -990,7 +990,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3300">
 <span class="data">2025-06-16 · 18:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -999,7 +999,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3299">
 <span class="data">2025-06-11 · 19:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1008,7 +1008,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3298">
 <span class="data">2025-06-11 · 18:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1017,7 +1017,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3296">
 <span class="data">2025-06-11 · 14:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1026,7 +1026,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3294">
 <span class="data">2025-05-28 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1035,7 +1035,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3293">
 <span class="data">2025-05-28 · 17:48</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1044,7 +1044,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3292">
 <span class="data">2025-05-28 · 16:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1053,7 +1053,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3291">
 <span class="data">2025-05-28 · 14:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1062,7 +1062,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3288">
 <span class="data">2025-05-27 · 19:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1071,7 +1071,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3287">
 <span class="data">2025-05-27 · 18:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1080,7 +1080,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3286">
 <span class="data">2025-05-27 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1089,7 +1089,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3285">
 <span class="data">2025-05-27 · 18:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1098,7 +1098,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3284">
 <span class="data">2025-05-27 · 18:04</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1107,7 +1107,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3283">
 <span class="data">2025-05-27 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1116,7 +1116,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3279">
 <span class="data">2025-05-21 · 18:04</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1125,7 +1125,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3278">
 <span class="data">2025-05-21 · 17:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1134,7 +1134,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3275">
 <span class="data">2025-05-21 · 16:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1143,7 +1143,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3274">
 <span class="data">2025-05-21 · 16:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1152,7 +1152,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3273">
 <span class="data">2025-05-21 · 15:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1161,7 +1161,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3272">
 <span class="data">2025-05-20 · 19:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1170,7 +1170,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3271">
 <span class="data">2025-05-20 · 18:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1179,7 +1179,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3270">
 <span class="data">2025-05-07 · 18:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1188,7 +1188,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3269">
 <span class="data">2025-05-07 · 18:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1197,7 +1197,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3267">
 <span class="data">2025-05-06 · 21:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1206,7 +1206,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3266">
 <span class="data">2025-05-06 · 20:56</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -1215,7 +1215,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3263">
 <span class="data">2025-05-06 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1224,7 +1224,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3262">
 <span class="data">2025-05-06 · 18:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1233,7 +1233,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3261">
 <span class="data">2025-05-06 · 17:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1242,7 +1242,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3260">
 <span class="data">2025-05-05 · 23:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1251,7 +1251,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3259">
 <span class="data">2025-05-05 · 23:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1260,7 +1260,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3258">
 <span class="data">2025-05-05 · 22:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1269,7 +1269,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3257">
 <span class="data">2025-05-05 · 21:56</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1278,7 +1278,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3256">
 <span class="data">2025-05-05 · 21:40</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -1287,7 +1287,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3253">
 <span class="data">2025-04-29 · 20:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1296,7 +1296,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3252">
 <span class="data">2025-04-29 · 19:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1305,7 +1305,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3251">
 <span class="data">2025-04-29 · 18:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1314,7 +1314,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3250">
 <span class="data">2025-04-29 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1323,7 +1323,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3249">
 <span class="data">2025-04-29 · 18:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1332,7 +1332,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3246">
 <span class="data">2025-04-28 · 21:20</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1341,7 +1341,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3245">
 <span class="data">2025-04-28 · 20:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1350,7 +1350,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3244">
 <span class="data">2025-04-28 · 20:32</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -1359,7 +1359,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3243">
 <span class="data">2025-04-28 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1368,7 +1368,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3241">
 <span class="data">2025-04-28 · 19:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1377,7 +1377,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3240">
 <span class="data">2025-04-28 · 19:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1386,7 +1386,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3239">
 <span class="data">2025-04-23 · 19:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1395,7 +1395,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3238">
 <span class="data">2025-04-23 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1404,7 +1404,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3237">
 <span class="data">2025-04-23 · 16:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1413,7 +1413,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3236">
 <span class="data">2025-04-23 · 16:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1422,7 +1422,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3235">
 <span class="data">2025-04-22 · 15:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1431,7 +1431,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3234">
 <span class="data">2025-04-09 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1440,7 +1440,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3233">
 <span class="data">2025-04-09 · 18:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1449,7 +1449,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3232">
 <span class="data">2025-04-09 · 18:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1458,7 +1458,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3231">
 <span class="data">2025-04-09 · 17:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1467,7 +1467,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3230">
 <span class="data">2025-04-09 · 17:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1476,7 +1476,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3229">
 <span class="data">2025-04-09 · 16:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1485,7 +1485,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3228">
 <span class="data">2025-04-09 · 15:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1494,7 +1494,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3227">
 <span class="data">2025-04-09 · 14:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1503,7 +1503,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3226">
 <span class="data">2025-04-08 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1512,7 +1512,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3224">
 <span class="data">2025-04-02 · 18:04</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -1521,7 +1521,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3223">
 <span class="data">2025-04-02 · 14:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1530,7 +1530,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3222">
 <span class="data">2025-04-01 · 19:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1539,7 +1539,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3220">
 <span class="data">2025-04-01 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1548,7 +1548,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3219">
 <span class="data">2025-04-01 · 18:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1557,7 +1557,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3218">
 <span class="data">2025-04-01 · 14:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1566,7 +1566,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3217">
 <span class="data">2025-03-26 · 18:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1575,7 +1575,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3216">
 <span class="data">2025-03-26 · 16:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1584,7 +1584,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3215">
 <span class="data">2025-03-25 · 16:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1593,7 +1593,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3213">
 <span class="data">2025-03-19 · 19:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1602,7 +1602,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3212">
 <span class="data">2025-03-18 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1611,7 +1611,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3211">
 <span class="data">2025-03-18 · 18:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1620,7 +1620,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3210">
 <span class="data">2025-03-18 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1629,7 +1629,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3209">
 <span class="data">2025-03-18 · 18:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1638,7 +1638,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3208">
 <span class="data">2025-03-18 · 17:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1647,7 +1647,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3207">
 <span class="data">2025-03-18 · 16:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1656,7 +1656,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3206">
 <span class="data">2025-03-12 · 19:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1665,7 +1665,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3205">
 <span class="data">2025-03-12 · 18:28</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1674,7 +1674,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3204">
 <span class="data">2025-03-12 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1683,7 +1683,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3203">
 <span class="data">2025-03-12 · 17:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1692,7 +1692,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3202">
 <span class="data">2025-03-12 · 14:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1701,7 +1701,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3201">
 <span class="data">2025-03-11 · 16:52</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1710,7 +1710,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3200">
 <span class="data">2025-03-11 · 15:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1719,7 +1719,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3199">
 <span class="data">2025-03-11 · 14:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1728,7 +1728,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3198">
 <span class="data">2025-02-26 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1737,7 +1737,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3197">
 <span class="data">2025-02-26 · 18:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1746,7 +1746,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3196">
 <span class="data">2025-02-26 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1755,7 +1755,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3195">
 <span class="data">2025-02-26 · 17:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1764,7 +1764,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3194">
 <span class="data">2025-02-26 · 14:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1773,7 +1773,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3193">
 <span class="data">2025-02-25 · 19:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1782,7 +1782,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3192">
 <span class="data">2025-02-25 · 18:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1791,7 +1791,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3191">
 <span class="data">2025-02-25 · 17:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1800,7 +1800,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3190">
 <span class="data">2025-02-25 · 17:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1809,7 +1809,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3189">
 <span class="data">2025-02-19 · 17:52</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1818,7 +1818,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3188">
 <span class="data">2025-02-19 · 16:48</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1827,7 +1827,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3187">
 <span class="data">2025-02-19 · 15:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1836,7 +1836,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3186">
 <span class="data">2025-02-12 · 19:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1845,7 +1845,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3185">
 <span class="data">2025-02-12 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1854,7 +1854,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3184">
 <span class="data">2025-02-12 · 17:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1863,7 +1863,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3183">
 <span class="data">2025-02-11 · 14:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1872,7 +1872,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3182">
 <span class="data">2025-02-05 · 16:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1881,7 +1881,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3181">
 <span class="data">2025-02-04 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1890,7 +1890,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3179">
 <span class="data">2025-02-04 · 18:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1899,7 +1899,7 @@ description: "Os discursos de Bibo Nunes em 2025, com o sumário publicado pela 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3178">
 <span class="data">2025-02-04 · 17:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1919,7 +1919,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3403">
 <span class="data">2025-10-22 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1928,7 +1928,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3387">
 <span class="data">2025-09-25 · 11:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1937,7 +1937,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3385">
 <span class="data">2025-09-25 · 10:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1946,7 +1946,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3382">
 <span class="data">2025-09-24 · 17:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1955,7 +1955,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3373">
 <span class="data">2025-09-17 · 17:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1964,7 +1964,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3371">
 <span class="data">2025-09-17 · 17:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1973,7 +1973,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3370">
 <span class="data">2025-09-16 · 20:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1982,7 +1982,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3369">
 <span class="data">2025-09-16 · 20:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1991,7 +1991,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3368">
 <span class="data">2025-09-16 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2000,7 +2000,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3326">
 <span class="data">2025-07-08 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2009,7 +2009,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3325">
 <span class="data">2025-07-08 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2018,7 +2018,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3317">
 <span class="data">2025-07-01 · 16:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2027,7 +2027,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3316">
 <span class="data">2025-07-01 · 16:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2036,7 +2036,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3297">
 <span class="data">2025-06-11 · 16:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2045,7 +2045,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3295">
 <span class="data">2025-06-10 · 20:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2054,7 +2054,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3290">
 <span class="data">2025-05-27 · 20:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2063,7 +2063,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3289">
 <span class="data">2025-05-27 · 20:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2072,7 +2072,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3282">
 <span class="data">2025-05-27 · 17:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2081,7 +2081,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3281">
 <span class="data">2025-05-27 · 17:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2090,7 +2090,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3280">
 <span class="data">2025-05-27 · 17:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2099,7 +2099,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3277">
 <span class="data">2025-05-21 · 17:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2108,7 +2108,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3276">
 <span class="data">2025-05-21 · 17:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2117,7 +2117,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3268">
 <span class="data">2025-05-06 · 22:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2126,7 +2126,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3265">
 <span class="data">2025-05-06 · 20:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2135,7 +2135,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3264">
 <span class="data">2025-05-06 · 19:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2144,7 +2144,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3255">
 <span class="data">2025-05-05 · 21:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2153,7 +2153,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3254">
 <span class="data">2025-05-05 · 21:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2162,7 +2162,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3248">
 <span class="data">2025-04-28 · 22:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2171,7 +2171,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3247">
 <span class="data">2025-04-28 · 21:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2180,7 +2180,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3242">
 <span class="data">2025-04-28 · 20:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2189,7 +2189,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3225">
 <span class="data">2025-04-02 · 19:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2198,7 +2198,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3221">
 <span class="data">2025-04-01 · 18:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2207,7 +2207,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3214">
 <span class="data">2025-03-25 · 16:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2216,7 +2216,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-3180">
 <span class="data">2025-02-04 · 18:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

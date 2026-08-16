@@ -25,6 +25,7 @@
 import { mkdirSync, writeFileSync, rmSync } from "node:fs";
 import { join } from "node:path";
 import { DatabaseSync } from "node:sqlite";
+import { gzipSync } from "node:zlib";
 import { CAMINHO_DB } from "../db/client.ts";
 
 const SAIDA = "docs";
@@ -246,6 +247,7 @@ const evidenciasDe = (
 // recorte editorial, e ninguém precisa decidir o que fica de fora.
 
 interface Discurso {
+  id: number;
   data: string;
   tipo: string | null;
   sumario: string | null;
@@ -255,7 +257,7 @@ interface Discurso {
   categoria: string;
 }
 
-const COLUNAS_DISCURSO = `d.data_hora_inicio data, d.tipo_discurso tipo,
+const COLUNAS_DISCURSO = `d.id, d.data_hora_inicio data, d.tipo_discurso tipo,
   d.sumario, d.url_texto urlTexto, d.fonte_url fonte, d.relevante, d.categoria`;
 
 /** Anos em que o parlamentar discursou, do mais recente para o mais antigo. */
@@ -318,7 +320,7 @@ function fonteDoDiscurso(d: Discurso): string {
 
 function blocoDiscurso(d: Discurso): string {
   return (
-    `<blockquote class="evidencia discurso">\n` +
+    `<blockquote class="evidencia discurso" id="d-${d.id}">\n` +
     `<span class="data">${esc(dataHora(d.data))}</span>\n` +
     `<div class="corpo">\n` +
     (d.tipo ? `<p class="tipo">${esc(d.tipo)}</p>\n` : "") +
@@ -488,6 +490,162 @@ function secaoDiscursos(p: Parlamentar): string {
     md += `| ${a.substantivos} |\n`;
   }
   md += `{: .t-anos}\n\n`;
+
+  return md;
+}
+
+// ---------------------------------------------------------------------------
+// Busca nos discursos
+//
+// **Aqui o site passa a ter JavaScript pela primeira vez.** Não havia caminho
+// sem: procurar uma palavra em 5.851 sumários exige o texto do lado do leitor,
+// e não há servidor. Uma página por termo daria dezenas de milhares de páginas
+// com o mesmo texto repetido; uma página única com tudo daria 2,8 MB.
+//
+// Três condições foram impostas à decisão:
+//
+//  1. **script escrito à mão, sem dependência** — a folha de estilo já é assim,
+//     e uma biblioteca de busca traria mais bytes que o próprio acervo;
+//  2. **nada essencial depende dele** — sem JavaScript a página continua
+//     listando todos os parlamentares e seus anos, que é a navegação que
+//     existia antes desta busca. Ela acrescenta, não substitui;
+//  3. **o custo é declarado na página**, porque ~700 KB não é grátis no celular
+//     e o leitor merece saber antes de pagar.
+//
+// A busca **não classifica nada**: casa a palavra que o parlamentar disse,
+// contra o sumário que a Câmara publicou. É o oposto de rotular — é devolver o
+// texto da fonte para quem perguntou.
+
+interface LinhaBusca {
+  id: number;
+  politicoId: number;
+  data: string;
+  tipo: string | null;
+  sumario: string;
+  relevante: number;
+}
+
+/**
+ * Um arquivo por ano, buscado sob demanda.
+ *
+ * Medido, comprimido: 2023 · 167 KB · 2024 · 181 KB · 2025 · 267 KB ·
+ * 2026 · 91 KB. Num arquivo só seriam 701 KB de uma vez. Fatiado, o resultado
+ * do primeiro ano aparece enquanto os outros ainda chegam, e ano é a mesma
+ * divisão que as páginas de discurso já usam.
+ *
+ * Formato colunar, não lista de objetos: as chaves não se repetem 1.900 vezes.
+ * Rende 46 KB sobre o JSON de objetos, medido — pouco, mas de graça.
+ */
+function escreverFragmentosDeBusca(): {
+  anos: string[];
+  bytes: number;
+  comprimido: number;
+} {
+  const anos = todos<{ ano: string }>(
+    `SELECT DISTINCT substr(data_hora_inicio, 1, 4) ano FROM discurso ORDER BY ano`,
+  ).map((r) => r.ano);
+
+  mkdirSync(join(SAIDA, "busca"), { recursive: true });
+  let bytes = 0;
+  // O custo que a página declara é o que o leitor realmente paga: o GitHub
+  // Pages serve estes arquivos com gzip. Medir é uma linha; estimar erraria.
+  let comprimido = 0;
+
+  for (const ano of anos) {
+    const linhas = todos<LinhaBusca>(
+      `SELECT d.id, d.politico_id politicoId, d.data_hora_inicio data,
+              d.tipo_discurso tipo, d.sumario, d.relevante
+       FROM discurso d
+       WHERE substr(d.data_hora_inicio, 1, 4) = ?
+         AND d.sumario IS NOT NULL AND d.sumario <> ''
+       ORDER BY d.data_hora_inicio DESC`,
+      ano,
+    );
+    // O sumário dobrado (sem acento, minúsculo) **não** é enviado: dobrar no
+    // cliente uma vez, ao carregar, custa milissegundos; enviá-lo pronto
+    // dobrava o payload — 5,7 MB contra 2,9 MB, medido.
+    const corpo = JSON.stringify({
+      id: linhas.map((l) => l.id),
+      p: linhas.map((l) => l.politicoId),
+      d: linhas.map((l) => l.data.slice(0, 10)),
+      t: linhas.map((l) => l.tipo ?? ""),
+      r: linhas.map((l) => l.relevante),
+      s: linhas.map((l) => l.sumario),
+    });
+    writeFileSync(join(SAIDA, "busca", `${ano}.json`), corpo);
+    bytes += Buffer.byteLength(corpo);
+    comprimido += gzipSync(corpo).length;
+  }
+  return { anos, bytes, comprimido };
+}
+
+function gerarBusca(busca: { anos: string[]; bytes: number; comprimido: number }): string {
+  const anos = busca.anos;
+  const totalDiscursos = um<{ n: number }>(`SELECT COUNT(*) n FROM discurso`).n;
+  const kb = Math.round(busca.comprimido / 1024);
+  let md = frontMatter(
+    "Buscar nos discursos",
+    "Procure uma palavra nos discursos dos deputados federais gaúchos, pelo sumário publicado pela Câmara.",
+    "busca",
+  );
+
+  md += `# Buscar nos discursos\n\n`;
+  md += `<p class="subtitulo">Procura a palavra no <b>sumário publicado pela\n`;
+  md += `Câmara</b> — o texto da fonte, não uma classificação nossa. São\n`;
+  md += `<b>${milhar(totalDiscursos)} discursos</b> de ${parlamentares.length} `;
+  md += `deputados.</p>\n\n`;
+
+  // Metadados pequenos vão inline: 31 nomes e slugs. Evita uma requisição a
+  // mais antes da primeira tecla.
+  const meta = {
+    base: "../parlamentares/",
+    p: Object.fromEntries(parlamentares.map((p) => [p.id, [p.nome, slug(p.nome), p.sigla ?? ""]])),
+    anos,
+    kb, // o script declara o custo ao leitor; medido, não estimado
+  };
+  md += `<form class="busca" id="busca" role="search">\n`;
+  md += `<label for="q">Palavra ou expressão</label>\n`;
+  md += `<input type="search" id="q" name="q" autocomplete="off" `;
+  md += `placeholder="enchente, arroz, segurança pública…">\n`;
+  md += `<div class="busca-filtros">\n`;
+  md += `<label><input type="checkbox" id="protocolares"> incluir os classificados como protocolares</label>\n`;
+  md += `</div>\n`;
+  md += `<p class="busca-estado" id="estado" aria-live="polite">O índice pesa\n`;
+  md += `<b>${kb} KB</b> comprimido e só é baixado quando você busca a primeira\n`;
+  md += `vez.</p>\n`;
+  md += `</form>\n\n`;
+  md += `<div id="resultados"></div>\n\n`;
+
+  md += `<noscript>\n`;
+  md += `<div class="interrompe">\n`;
+  md += `<h4>A busca precisa de JavaScript — o resto do site não</h4>\n`;
+  md += `<p>Procurar uma palavra em ${milhar(totalDiscursos)} sumários exige o\n`;
+  md += `texto do lado do\n`;
+  md += `leitor, e este site não tem servidor. Sem JavaScript, a navegação\n`;
+  md += `abaixo continua inteira: cada parlamentar, cada ano, todos os\n`;
+  md += `discursos, com link para a fonte.</p>\n`;
+  md += `</div>\n`;
+  md += `</noscript>\n\n`;
+
+  md += `## Todos os parlamentares, por ano\n\n`;
+  md += `Esta lista não depende de script, e é a mesma navegação que existia\n`;
+  md += `antes da busca.\n\n`;
+  md += `| Parlamentar | Discursos | Anos |\n|---|---:|---|\n`;
+  for (const p of parlamentares) {
+    const anosDele = anosDeDiscurso(p.id);
+    const total = anosDele.reduce((s, a) => s + a.n, 0);
+    md += `| [${p.nome}](../parlamentares/${slug(p.nome)}/) | ${contagem(total)} | `;
+    md += anosDele.length
+      ? anosDele
+          .map((a) => `[${a.ano}](../parlamentares/${slug(p.nome)}/discursos/${a.ano}/)`)
+          .join(" · ")
+      : "—";
+    md += ` |\n`;
+  }
+  md += `{: .t-busca}\n\n`;
+
+  md += `<script id="busca-meta" type="application/json">${JSON.stringify(meta)}</script>\n`;
+  md += `<script src="../assets/busca.js" defer></script>\n`;
 
   return md;
 }
@@ -875,6 +1033,10 @@ const temas = todos<{ id: number; nome: string }>(
 escreverMeta();
 
 escrever("", gerarHome(temas));
+
+const busca = escreverFragmentosDeBusca();
+escrever("discursos", gerarBusca(busca));
+
 escrever("parlamentares", gerarIndiceParlamentares());
 let paginasDeDiscurso = 0;
 for (const p of parlamentares) {
@@ -894,6 +1056,7 @@ for (const t of temas) escrever(`temas/${slug(t.nome)}`, gerarTema(t.nome, t.id)
 console.log(`site gerado em ${SAIDA}/`);
 console.log(`  ${parlamentares.length} deputados · ${senadores.length} senadores · ${temas.length} temas · 3 índices`);
 console.log(`  ${paginasDeDiscurso} páginas de discurso (uma por parlamentar e ano)`);
+console.log(`  busca: ${busca.anos.length} fragmentos, ${(busca.bytes / 1024 / 1024).toFixed(1)} MB antes do gzip`);
 console.log(`  período ${periodo.ini} → ${periodo.fim} · metodologia ${metodologia.versao}`);
 
 db.close();

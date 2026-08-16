@@ -18,7 +18,7 @@ description: "Os discursos de Luiz Carlos Busato em 2024, com o sumário publica
 
 ## Substantivos — 2
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-189">
 <span class="data">2024-03-06 · 15:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Luiz Carlos Busato em 2024, com o sumário publica
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-188">
 <span class="data">2024-03-05 · 18:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -47,7 +47,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-187">
 <span class="data">2024-02-28 · 17:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

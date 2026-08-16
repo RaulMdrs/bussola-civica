@@ -18,7 +18,7 @@ description: "Os discursos de Paulo Pimenta em 2025, com o sumário publicado pe
 
 ## Substantivos — 5
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5841">
 <span class="data">2025-07-09 · 17:40</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Paulo Pimenta em 2025, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5840">
 <span class="data">2025-05-20 · 14:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Paulo Pimenta em 2025, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5838">
 <span class="data">2025-04-09 · 16:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Paulo Pimenta em 2025, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5837">
 <span class="data">2025-02-26 · 16:00</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Paulo Pimenta em 2025, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5836">
 <span class="data">2025-02-20 · 10:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -74,7 +74,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5839">
 <span class="data">2025-04-29 · 20:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -83,7 +83,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5835">
 <span class="data">2025-02-04 · 17:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

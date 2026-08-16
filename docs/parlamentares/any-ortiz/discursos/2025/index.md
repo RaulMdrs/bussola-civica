@@ -18,7 +18,7 @@ description: "Os discursos de Any Ortiz em 2025, com o sumário publicado pela C
 
 ## Substantivos — 8
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4045">
 <span class="data">2025-11-04 · 17:20</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Any Ortiz em 2025, com o sumário publicado pela C
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4044">
 <span class="data">2025-09-23 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Any Ortiz em 2025, com o sumário publicado pela C
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4043">
 <span class="data">2025-08-13 · 18:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Any Ortiz em 2025, com o sumário publicado pela C
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4042">
 <span class="data">2025-08-12 · 17:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Any Ortiz em 2025, com o sumário publicado pela C
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4041">
 <span class="data">2025-07-16 · 19:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Any Ortiz em 2025, com o sumário publicado pela C
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4040">
 <span class="data">2025-07-02 · 16:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Any Ortiz em 2025, com o sumário publicado pela C
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4039">
 <span class="data">2025-07-01 · 19:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Any Ortiz em 2025, com o sumário publicado pela C
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4038">
 <span class="data">2025-03-25 · 16:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

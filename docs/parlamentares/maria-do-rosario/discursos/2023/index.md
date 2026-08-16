@@ -18,7 +18,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 
 ## Substantivos — 106
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5620">
 <span class="data">2023-12-21 · 18:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5618">
 <span class="data">2023-12-19 · 17:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5617">
 <span class="data">2023-12-13 · 21:52</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5616">
 <span class="data">2023-12-13 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5615">
 <span class="data">2023-12-13 · 17:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5614">
 <span class="data">2023-12-13 · 16:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5613">
 <span class="data">2023-12-13 · 10:56</span>
 <div class="corpo">
 <p class="tipo">COMISSÃO GERAL</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5612">
 <span class="data">2023-12-12 · 18:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5611">
 <span class="data">2023-12-06 · 20:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5610">
 <span class="data">2023-12-06 · 14:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5609">
 <span class="data">2023-11-29 · 21:44</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5608">
 <span class="data">2023-11-29 · 21:44</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5607">
 <span class="data">2023-11-29 · 21:36</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5606">
 <span class="data">2023-11-29 · 21:32</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5605">
 <span class="data">2023-11-29 · 19:12</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5604">
 <span class="data">2023-11-28 · 17:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5603">
 <span class="data">2023-11-21 · 16:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5602">
 <span class="data">2023-11-21 · 14:04</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5601">
 <span class="data">2023-11-08 · 21:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5599">
 <span class="data">2023-11-08 · 20:36</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5598">
 <span class="data">2023-11-08 · 20:04</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5596">
 <span class="data">2023-11-07 · 21:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5595">
 <span class="data">2023-11-07 · 16:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5593">
 <span class="data">2023-10-31 · 19:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5592">
 <span class="data">2023-10-26 · 11:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5591">
 <span class="data">2023-10-26 · 11:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5590">
 <span class="data">2023-10-24 · 16:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5589">
 <span class="data">2023-10-18 · 19:32</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5588">
 <span class="data">2023-10-18 · 17:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5587">
 <span class="data">2023-10-18 · 17:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5586">
 <span class="data">2023-10-18 · 16:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5585">
 <span class="data">2023-10-17 · 17:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5584">
 <span class="data">2023-10-05 · 11:16</span>
 <div class="corpo">
 <p class="tipo">HOMENAGEM</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5583">
 <span class="data">2023-09-27 · 19:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5582">
 <span class="data">2023-09-27 · 18:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5580">
 <span class="data">2023-09-20 · 18:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5579">
 <span class="data">2023-09-19 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -351,7 +351,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5578">
 <span class="data">2023-09-05 · 19:28</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -360,7 +360,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5576">
 <span class="data">2023-09-04 · 21:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -369,7 +369,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5575">
 <span class="data">2023-09-04 · 21:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -378,7 +378,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5574">
 <span class="data">2023-08-30 · 16:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -387,7 +387,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5573">
 <span class="data">2023-08-29 · 17:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -396,7 +396,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5572">
 <span class="data">2023-08-23 · 18:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -405,7 +405,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5571">
 <span class="data">2023-08-22 · 21:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -414,7 +414,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5570">
 <span class="data">2023-08-22 · 17:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -423,7 +423,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5569">
 <span class="data">2023-08-22 · 14:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -432,7 +432,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5568">
 <span class="data">2023-08-22 · 14:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -441,7 +441,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5567">
 <span class="data">2023-08-16 · 14:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -450,7 +450,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5566">
 <span class="data">2023-08-09 · 23:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -459,7 +459,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5565">
 <span class="data">2023-08-09 · 23:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -468,7 +468,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5564">
 <span class="data">2023-08-09 · 22:56</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -477,7 +477,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5563">
 <span class="data">2023-08-09 · 21:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -486,7 +486,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5562">
 <span class="data">2023-08-09 · 20:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -495,7 +495,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5561">
 <span class="data">2023-08-08 · 19:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -504,7 +504,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5560">
 <span class="data">2023-08-08 · 18:08</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -513,7 +513,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5559">
 <span class="data">2023-08-08 · 17:48</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -522,7 +522,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5558">
 <span class="data">2023-08-08 · 16:20</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -531,7 +531,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5557">
 <span class="data">2023-08-02 · 14:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -540,7 +540,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5556">
 <span class="data">2023-08-01 · 21:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -549,7 +549,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5555">
 <span class="data">2023-08-01 · 21:12</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -558,7 +558,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5554">
 <span class="data">2023-08-01 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -567,7 +567,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5553">
 <span class="data">2023-07-06 · 15:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -576,7 +576,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5552">
 <span class="data">2023-07-05 · 21:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -585,7 +585,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5551">
 <span class="data">2023-07-05 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -594,7 +594,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5550">
 <span class="data">2023-07-05 · 15:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -603,7 +603,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5549">
 <span class="data">2023-07-04 · 18:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -612,7 +612,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5548">
 <span class="data">2023-07-03 · 20:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -621,7 +621,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5547">
 <span class="data">2023-06-01 · 00:00</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -630,7 +630,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5546">
 <span class="data">2023-06-01 · 00:00</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -639,7 +639,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5545">
 <span class="data">2023-05-31 · 23:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -648,7 +648,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5544">
 <span class="data">2023-05-31 · 14:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -657,7 +657,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5543">
 <span class="data">2023-05-30 · 23:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -666,7 +666,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5542">
 <span class="data">2023-05-30 · 22:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -675,7 +675,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5541">
 <span class="data">2023-05-30 · 14:28</span>
 <div class="corpo">
 <p class="tipo">COMISSÃO GERAL</p>
@@ -684,7 +684,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5540">
 <span class="data">2023-05-23 · 21:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -693,7 +693,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5539">
 <span class="data">2023-05-23 · 16:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -702,7 +702,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5538">
 <span class="data">2023-05-18 · 09:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -711,7 +711,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5537">
 <span class="data">2023-05-17 · 19:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -720,7 +720,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5536">
 <span class="data">2023-05-17 · 18:56</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -729,7 +729,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5535">
 <span class="data">2023-05-17 · 15:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -738,7 +738,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5534">
 <span class="data">2023-05-16 · 19:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -747,7 +747,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5533">
 <span class="data">2023-05-16 · 14:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -756,7 +756,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5532">
 <span class="data">2023-05-16 · 14:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -765,7 +765,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5531">
 <span class="data">2023-05-10 · 14:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -774,7 +774,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5530">
 <span class="data">2023-05-09 · 19:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -783,7 +783,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5529">
 <span class="data">2023-05-03 · 19:52</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -792,7 +792,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5528">
 <span class="data">2023-05-03 · 18:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -801,7 +801,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5527">
 <span class="data">2023-05-02 · 20:04</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -810,7 +810,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5526">
 <span class="data">2023-04-19 · 18:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -819,7 +819,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5525">
 <span class="data">2023-03-28 · 15:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -828,7 +828,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5524">
 <span class="data">2023-03-23 · 12:20</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -837,7 +837,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5523">
 <span class="data">2023-03-22 · 21:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -846,7 +846,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5522">
 <span class="data">2023-03-22 · 17:08</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -855,7 +855,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5521">
 <span class="data">2023-03-22 · 16:52</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -864,7 +864,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5520">
 <span class="data">2023-03-21 · 19:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -873,7 +873,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5519">
 <span class="data">2023-03-21 · 16:52</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -882,7 +882,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5518">
 <span class="data">2023-03-09 · 12:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -891,7 +891,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5517">
 <span class="data">2023-03-09 · 11:52</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -900,7 +900,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5516">
 <span class="data">2023-03-08 · 13:56</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -909,7 +909,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5515">
 <span class="data">2023-03-07 · 19:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -918,7 +918,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5514">
 <span class="data">2023-03-07 · 17:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -927,7 +927,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5513">
 <span class="data">2023-02-28 · 13:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -936,7 +936,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5512">
 <span class="data">2023-02-14 · 16:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -945,7 +945,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5511">
 <span class="data">2023-02-08 · 19:24</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -954,7 +954,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5510">
 <span class="data">2023-02-08 · 18:56</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -963,7 +963,7 @@ description: "Os discursos de Maria do Rosário em 2023, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5509">
 <span class="data">2023-02-07 · 17:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -983,7 +983,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5619">
 <span class="data">2023-12-20 · 20:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -992,7 +992,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5600">
 <span class="data">2023-11-08 · 20:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1001,7 +1001,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5597">
 <span class="data">2023-11-08 · 19:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1010,7 +1010,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5594">
 <span class="data">2023-11-07 · 15:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1019,7 +1019,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5581">
 <span class="data">2023-09-20 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1028,7 +1028,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5577">
 <span class="data">2023-09-04 · 22:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

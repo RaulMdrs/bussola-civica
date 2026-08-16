@@ -18,7 +18,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 
 ## Substantivos — 141
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5092">
 <span class="data">2024-12-18 · 21:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5091">
 <span class="data">2024-12-18 · 20:36</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5090">
 <span class="data">2024-12-18 · 15:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5089">
 <span class="data">2024-12-18 · 14:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5088">
 <span class="data">2024-12-18 · 12:28</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5087">
 <span class="data">2024-12-17 · 21:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5086">
 <span class="data">2024-12-17 · 20:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5085">
 <span class="data">2024-12-17 · 16:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5084">
 <span class="data">2024-12-17 · 15:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5083">
 <span class="data">2024-12-11 · 21:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5081">
 <span class="data">2024-12-11 · 17:48</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5080">
 <span class="data">2024-12-11 · 16:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5079">
 <span class="data">2024-12-11 · 16:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5078">
 <span class="data">2024-12-10 · 22:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5076">
 <span class="data">2024-12-10 · 20:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5075">
 <span class="data">2024-12-10 · 19:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5074">
 <span class="data">2024-12-10 · 18:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5073">
 <span class="data">2024-12-10 · 15:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5072">
 <span class="data">2024-12-04 · 22:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5071">
 <span class="data">2024-12-04 · 20:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5070">
 <span class="data">2024-12-04 · 18:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5069">
 <span class="data">2024-12-04 · 17:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5068">
 <span class="data">2024-12-03 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5067">
 <span class="data">2024-12-03 · 16:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5066">
 <span class="data">2024-12-03 · 13:55</span>
 <div class="corpo">
 <p class="tipo">DISCURSO ENCAMINHADO</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5064">
 <span class="data">2024-11-27 · 15:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5063">
 <span class="data">2024-11-26 · 20:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5062">
 <span class="data">2024-11-26 · 19:52</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5060">
 <span class="data">2024-11-13 · 18:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5059">
 <span class="data">2024-11-13 · 17:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5058">
 <span class="data">2024-11-13 · 15:40</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5057">
 <span class="data">2024-11-13 · 15:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5056">
 <span class="data">2024-11-12 · 21:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5055">
 <span class="data">2024-11-12 · 17:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5054">
 <span class="data">2024-11-05 · 18:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5053">
 <span class="data">2024-11-04 · 21:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5052">
 <span class="data">2024-11-04 · 21:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -351,7 +351,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5051">
 <span class="data">2024-10-30 · 15:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -360,7 +360,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5050">
 <span class="data">2024-10-29 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -369,7 +369,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5048">
 <span class="data">2024-10-29 · 15:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -378,7 +378,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5047">
 <span class="data">2024-10-08 · 20:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -387,7 +387,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5046">
 <span class="data">2024-08-27 · 19:12</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -396,7 +396,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5045">
 <span class="data">2024-08-27 · 17:04</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -405,7 +405,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5044">
 <span class="data">2024-08-27 · 16:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -414,7 +414,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5043">
 <span class="data">2024-08-27 · 16:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -423,7 +423,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5042">
 <span class="data">2024-08-27 · 15:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -432,7 +432,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5041">
 <span class="data">2024-08-15 · 12:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -441,7 +441,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5040">
 <span class="data">2024-08-15 · 10:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -450,7 +450,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5039">
 <span class="data">2024-08-14 · 16:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -459,7 +459,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5038">
 <span class="data">2024-08-13 · 14:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -468,7 +468,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5037">
 <span class="data">2024-07-10 · 21:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -477,7 +477,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5036">
 <span class="data">2024-07-10 · 15:28</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -486,7 +486,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5035">
 <span class="data">2024-07-09 · 17:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -495,7 +495,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5034">
 <span class="data">2024-07-09 · 16:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -504,7 +504,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5033">
 <span class="data">2024-07-09 · 16:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -513,7 +513,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5032">
 <span class="data">2024-07-02 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -522,7 +522,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5031">
 <span class="data">2024-06-19 · 22:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -531,7 +531,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5030">
 <span class="data">2024-06-19 · 21:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -540,7 +540,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5029">
 <span class="data">2024-06-19 · 19:52</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -549,7 +549,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5028">
 <span class="data">2024-06-19 · 19:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -558,7 +558,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5027">
 <span class="data">2024-06-19 · 14:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -567,7 +567,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5026">
 <span class="data">2024-06-19 · 14:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -576,7 +576,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5025">
 <span class="data">2024-06-18 · 20:52</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -585,7 +585,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5024">
 <span class="data">2024-06-18 · 20:28</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -594,7 +594,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5023">
 <span class="data">2024-06-18 · 19:52</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -603,7 +603,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5022">
 <span class="data">2024-06-18 · 19:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -612,7 +612,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5021">
 <span class="data">2024-06-12 · 20:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -621,7 +621,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5020">
 <span class="data">2024-06-12 · 17:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -630,7 +630,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5019">
 <span class="data">2024-06-12 · 16:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -639,7 +639,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5018">
 <span class="data">2024-06-11 · 19:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -648,7 +648,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5017">
 <span class="data">2024-06-05 · 19:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -657,7 +657,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5016">
 <span class="data">2024-06-05 · 18:28</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -666,7 +666,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5015">
 <span class="data">2024-06-05 · 18:16</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -675,7 +675,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5014">
 <span class="data">2024-06-05 · 18:12</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -684,7 +684,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5013">
 <span class="data">2024-06-05 · 17:48</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -693,7 +693,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5012">
 <span class="data">2024-06-05 · 17:08</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -702,7 +702,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5011">
 <span class="data">2024-06-05 · 16:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -711,7 +711,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5010">
 <span class="data">2024-06-05 · 16:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -720,7 +720,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5007">
 <span class="data">2024-06-04 · 18:20</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -729,7 +729,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5006">
 <span class="data">2024-06-04 · 17:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -738,7 +738,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5005">
 <span class="data">2024-06-04 · 17:36</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -747,7 +747,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5004">
 <span class="data">2024-06-04 · 16:40</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -756,7 +756,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5003">
 <span class="data">2024-06-04 · 16:32</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -765,7 +765,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5002">
 <span class="data">2024-06-04 · 16:20</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -774,7 +774,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5001">
 <span class="data">2024-06-04 · 16:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -783,7 +783,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5000">
 <span class="data">2024-05-23 · 13:00</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -792,7 +792,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4999">
 <span class="data">2024-05-23 · 12:44</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -801,7 +801,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4998">
 <span class="data">2024-05-23 · 12:12</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -810,7 +810,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4997">
 <span class="data">2024-05-23 · 12:04</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -819,7 +819,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4996">
 <span class="data">2024-05-23 · 11:44</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -828,7 +828,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4995">
 <span class="data">2024-05-23 · 10:44</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -837,7 +837,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4994">
 <span class="data">2024-05-23 · 10:36</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -846,7 +846,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4993">
 <span class="data">2024-05-23 · 10:20</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -855,7 +855,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4992">
 <span class="data">2024-05-23 · 10:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -864,7 +864,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4991">
 <span class="data">2024-05-23 · 10:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -873,7 +873,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4990">
 <span class="data">2024-05-23 · 09:48</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -882,7 +882,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4989">
 <span class="data">2024-05-22 · 21:04</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -891,7 +891,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4988">
 <span class="data">2024-05-22 · 19:56</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -900,7 +900,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4986">
 <span class="data">2024-05-21 · 16:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -909,7 +909,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4985">
 <span class="data">2024-05-15 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -918,7 +918,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4984">
 <span class="data">2024-05-15 · 16:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -927,7 +927,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4983">
 <span class="data">2024-05-14 · 22:20</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -936,7 +936,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4982">
 <span class="data">2024-05-14 · 18:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -945,7 +945,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4981">
 <span class="data">2024-05-08 · 17:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -954,7 +954,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4980">
 <span class="data">2024-04-24 · 20:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -963,7 +963,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4979">
 <span class="data">2024-04-24 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -972,7 +972,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4978">
 <span class="data">2024-04-24 · 16:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -981,7 +981,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4977">
 <span class="data">2024-04-23 · 20:44</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -990,7 +990,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4976">
 <span class="data">2024-04-23 · 20:44</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -999,7 +999,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4975">
 <span class="data">2024-04-23 · 19:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1008,7 +1008,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4974">
 <span class="data">2024-04-23 · 16:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1017,7 +1017,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4973">
 <span class="data">2024-04-23 · 16:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1026,7 +1026,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4972">
 <span class="data">2024-04-17 · 19:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1035,7 +1035,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4971">
 <span class="data">2024-04-17 · 17:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1044,7 +1044,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4970">
 <span class="data">2024-04-17 · 12:36</span>
 <div class="corpo">
 <p class="tipo">COMISSÃO GERAL</p>
@@ -1053,7 +1053,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4969">
 <span class="data">2024-04-16 · 17:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1062,7 +1062,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4968">
 <span class="data">2024-04-16 · 16:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1071,7 +1071,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4967">
 <span class="data">2024-04-16 · 15:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1080,7 +1080,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4966">
 <span class="data">2024-04-10 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1089,7 +1089,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4965">
 <span class="data">2024-04-10 · 17:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1098,7 +1098,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4964">
 <span class="data">2024-04-10 · 16:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1107,7 +1107,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4963">
 <span class="data">2024-04-09 · 19:48</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1116,7 +1116,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4962">
 <span class="data">2024-04-09 · 18:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1125,7 +1125,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4961">
 <span class="data">2024-04-09 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1134,7 +1134,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4960">
 <span class="data">2024-04-09 · 16:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1143,7 +1143,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4959">
 <span class="data">2024-04-09 · 15:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1152,7 +1152,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4958">
 <span class="data">2024-03-21 · 10:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1161,7 +1161,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4957">
 <span class="data">2024-03-20 · 15:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1170,7 +1170,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4956">
 <span class="data">2024-03-19 · 16:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1179,7 +1179,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4955">
 <span class="data">2024-03-13 · 17:00</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -1188,7 +1188,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4954">
 <span class="data">2024-03-13 · 15:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1197,7 +1197,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4952">
 <span class="data">2024-03-12 · 17:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1206,7 +1206,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4951">
 <span class="data">2024-03-12 · 16:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1215,7 +1215,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4950">
 <span class="data">2024-03-06 · 19:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1224,7 +1224,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4949">
 <span class="data">2024-03-06 · 15:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1233,7 +1233,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4948">
 <span class="data">2024-03-05 · 17:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1242,7 +1242,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4947">
 <span class="data">2024-02-27 · 20:34</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1251,7 +1251,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4946">
 <span class="data">2024-02-21 · 17:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1260,7 +1260,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4945">
 <span class="data">2024-02-21 · 15:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1269,7 +1269,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4944">
 <span class="data">2024-02-20 · 21:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1278,7 +1278,7 @@ description: "Os discursos de Pompeo de Mattos em 2024, com o sumário publicado
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4943">
 <span class="data">2024-02-06 · 19:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1298,7 +1298,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5082">
 <span class="data">2024-12-11 · 18:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1307,7 +1307,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5077">
 <span class="data">2024-12-10 · 21:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1316,7 +1316,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5065">
 <span class="data">2024-11-27 · 19:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1325,7 +1325,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5061">
 <span class="data">2024-11-26 · 19:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1334,7 +1334,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5049">
 <span class="data">2024-10-29 · 19:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1343,7 +1343,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5009">
 <span class="data">2024-06-04 · 20:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1352,7 +1352,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5008">
 <span class="data">2024-06-04 · 20:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1361,7 +1361,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4987">
 <span class="data">2024-05-21 · 16:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1370,7 +1370,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-4953">
 <span class="data">2024-03-12 · 19:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

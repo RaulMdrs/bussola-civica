@@ -18,7 +18,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 
 ## Substantivos — 226
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1086">
 <span class="data">2025-12-19 · 16:26</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1085">
 <span class="data">2025-12-19 · 16:04</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1084">
 <span class="data">2025-12-19 · 15:52</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1083">
 <span class="data">2025-12-19 · 15:48</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1082">
 <span class="data">2025-12-19 · 15:40</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1081">
 <span class="data">2025-12-19 · 15:38</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1080">
 <span class="data">2025-12-19 · 15:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1079">
 <span class="data">2025-12-19 · 14:57</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1078">
 <span class="data">2025-12-16 · 18:36</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1077">
 <span class="data">2025-12-10 · 23:52</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1076">
 <span class="data">2025-12-10 · 23:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1074">
 <span class="data">2025-12-10 · 21:28</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1071">
 <span class="data">2025-12-10 · 03:24</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1070">
 <span class="data">2025-12-10 · 02:56</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1069">
 <span class="data">2025-12-10 · 02:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1068">
 <span class="data">2025-12-10 · 02:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1067">
 <span class="data">2025-12-10 · 02:12</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1066">
 <span class="data">2025-12-10 · 01:04</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1065">
 <span class="data">2025-12-09 · 23:36</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1064">
 <span class="data">2025-12-09 · 22:48</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1063">
 <span class="data">2025-12-03 · 17:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1062">
 <span class="data">2025-12-03 · 17:24</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1060">
 <span class="data">2025-11-26 · 20:40</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1059">
 <span class="data">2025-11-26 · 20:20</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1058">
 <span class="data">2025-11-26 · 20:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1057">
 <span class="data">2025-11-26 · 19:24</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1056">
 <span class="data">2025-11-26 · 19:08</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1055">
 <span class="data">2025-11-26 · 19:00</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1054">
 <span class="data">2025-11-26 · 18:56</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1053">
 <span class="data">2025-11-26 · 18:44</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1052">
 <span class="data">2025-11-26 · 17:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1051">
 <span class="data">2025-11-26 · 17:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1050">
 <span class="data">2025-11-26 · 17:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1049">
 <span class="data">2025-11-26 · 16:52</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1048">
 <span class="data">2025-11-26 · 16:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1047">
 <span class="data">2025-11-26 · 14:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1046">
 <span class="data">2025-11-25 · 18:08</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -351,7 +351,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1045">
 <span class="data">2025-11-18 · 22:16</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -360,7 +360,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1042">
 <span class="data">2025-11-18 · 19:20</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -369,7 +369,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1039">
 <span class="data">2025-11-11 · 20:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -378,7 +378,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1036">
 <span class="data">2025-11-05 · 18:04</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -387,7 +387,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1033">
 <span class="data">2025-11-05 · 13:56</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -396,7 +396,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1032">
 <span class="data">2025-11-05 · 13:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -405,7 +405,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1031">
 <span class="data">2025-11-05 · 13:28</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -414,7 +414,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1030">
 <span class="data">2025-11-04 · 21:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -423,7 +423,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1028">
 <span class="data">2025-11-04 · 20:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -432,7 +432,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1027">
 <span class="data">2025-11-04 · 16:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -441,7 +441,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1026">
 <span class="data">2025-11-04 · 14:56</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -450,7 +450,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1025">
 <span class="data">2025-11-04 · 14:48</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -459,7 +459,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1024">
 <span class="data">2025-10-30 · 11:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -468,7 +468,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1023">
 <span class="data">2025-10-30 · 11:28</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -477,7 +477,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1022">
 <span class="data">2025-10-30 · 11:20</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -486,7 +486,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1021">
 <span class="data">2025-10-30 · 11:08</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -495,7 +495,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1020">
 <span class="data">2025-10-29 · 15:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -504,7 +504,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1018">
 <span class="data">2025-10-23 · 10:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -513,7 +513,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1017">
 <span class="data">2025-10-22 · 18:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -522,7 +522,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1014">
 <span class="data">2025-10-22 · 17:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -531,7 +531,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1013">
 <span class="data">2025-10-21 · 13:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -540,7 +540,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1012">
 <span class="data">2025-10-15 · 21:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -549,7 +549,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1010">
 <span class="data">2025-10-15 · 19:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -558,7 +558,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1009">
 <span class="data">2025-10-15 · 14:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -567,7 +567,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1008">
 <span class="data">2025-10-14 · 21:32</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -576,7 +576,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1007">
 <span class="data">2025-10-14 · 21:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -585,7 +585,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1006">
 <span class="data">2025-10-14 · 21:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -594,7 +594,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1005">
 <span class="data">2025-10-14 · 20:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -603,7 +603,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1004">
 <span class="data">2025-10-14 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -612,7 +612,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1003">
 <span class="data">2025-10-14 · 20:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -621,7 +621,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1002">
 <span class="data">2025-10-14 · 20:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -630,7 +630,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1000">
 <span class="data">2025-10-09 · 11:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -639,7 +639,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-999">
 <span class="data">2025-10-09 · 11:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -648,7 +648,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-997">
 <span class="data">2025-10-08 · 18:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -657,7 +657,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-996">
 <span class="data">2025-10-07 · 21:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -666,7 +666,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-993">
 <span class="data">2025-10-01 · 21:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -675,7 +675,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-992">
 <span class="data">2025-10-01 · 21:20</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -684,7 +684,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-991">
 <span class="data">2025-10-01 · 21:12</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -693,7 +693,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-990">
 <span class="data">2025-09-30 · 17:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -702,7 +702,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-989">
 <span class="data">2025-09-23 · 15:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -711,7 +711,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-988">
 <span class="data">2025-09-23 · 15:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -720,7 +720,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-987">
 <span class="data">2025-09-18 · 12:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -729,7 +729,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-985">
 <span class="data">2025-09-17 · 22:08</span>
 <div class="corpo">
 <p class="tipo">REPRESENTANTE DO PARTIDO</p>
@@ -738,7 +738,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-984">
 <span class="data">2025-09-17 · 20:44</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -747,7 +747,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-983">
 <span class="data">2025-09-17 · 14:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -756,7 +756,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-982">
 <span class="data">2025-09-10 · 20:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -765,7 +765,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-981">
 <span class="data">2025-09-10 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -774,7 +774,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-980">
 <span class="data">2025-09-04 · 11:20</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -783,7 +783,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-979">
 <span class="data">2025-09-04 · 00:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -792,7 +792,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-977">
 <span class="data">2025-09-03 · 23:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -801,7 +801,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-975">
 <span class="data">2025-09-03 · 23:12</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -810,7 +810,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-974">
 <span class="data">2025-09-03 · 23:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -819,7 +819,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-973">
 <span class="data">2025-09-03 · 22:20</span>
 <div class="corpo">
 <p class="tipo">REPRESENTANTE DO PARTIDO</p>
@@ -828,7 +828,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-972">
 <span class="data">2025-09-03 · 21:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -837,7 +837,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-971">
 <span class="data">2025-08-26 · 20:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -846,7 +846,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-969">
 <span class="data">2025-08-21 · 11:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -855,7 +855,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-968">
 <span class="data">2025-08-21 · 11:36</span>
 <div class="corpo">
 <p class="tipo">REPRESENTANTE DO PARTIDO</p>
@@ -864,7 +864,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-967">
 <span class="data">2025-08-21 · 11:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -873,7 +873,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-966">
 <span class="data">2025-08-20 · 22:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -882,7 +882,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-965">
 <span class="data">2025-08-20 · 21:52</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -891,7 +891,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-964">
 <span class="data">2025-08-20 · 17:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -900,7 +900,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-963">
 <span class="data">2025-08-19 · 19:44</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -909,7 +909,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-962">
 <span class="data">2025-08-19 · 18:48</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -918,7 +918,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-961">
 <span class="data">2025-08-19 · 18:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -927,7 +927,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-959">
 <span class="data">2025-08-14 · 11:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -936,7 +936,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-958">
 <span class="data">2025-08-07 · 13:36</span>
 <div class="corpo">
 <p class="tipo">REPRESENTANTE DO PARTIDO</p>
@@ -945,7 +945,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-957">
 <span class="data">2025-08-05 · 12:48</span>
 <div class="corpo">
 <p class="tipo">HOMENAGEM</p>
@@ -954,7 +954,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-951">
 <span class="data">2025-07-16 · 22:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -963,7 +963,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-950">
 <span class="data">2025-07-16 · 19:56</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -972,7 +972,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-949">
 <span class="data">2025-07-16 · 18:36</span>
 <div class="corpo">
 <p class="tipo">REPRESENTANTE DO PARTIDO</p>
@@ -981,7 +981,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-948">
 <span class="data">2025-07-16 · 18:00</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -990,7 +990,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-947">
 <span class="data">2025-07-15 · 21:16</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -999,7 +999,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-946">
 <span class="data">2025-07-15 · 19:16</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -1008,7 +1008,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-945">
 <span class="data">2025-07-15 · 17:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1017,7 +1017,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-944">
 <span class="data">2025-07-10 · 11:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1026,7 +1026,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-943">
 <span class="data">2025-07-10 · 09:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1035,7 +1035,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-942">
 <span class="data">2025-07-09 · 19:12</span>
 <div class="corpo">
 <p class="tipo">REPRESENTANTE DO PARTIDO</p>
@@ -1044,7 +1044,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-940">
 <span class="data">2025-07-08 · 23:40</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1053,7 +1053,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-939">
 <span class="data">2025-07-08 · 23:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1062,7 +1062,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-938">
 <span class="data">2025-07-08 · 22:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1071,7 +1071,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-937">
 <span class="data">2025-07-08 · 22:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1080,7 +1080,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-935">
 <span class="data">2025-07-08 · 21:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1089,7 +1089,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-934">
 <span class="data">2025-07-08 · 20:00</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1098,7 +1098,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-933">
 <span class="data">2025-07-08 · 19:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1107,7 +1107,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-932">
 <span class="data">2025-07-08 · 19:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1116,7 +1116,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-931">
 <span class="data">2025-07-01 · 18:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1125,7 +1125,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-930">
 <span class="data">2025-07-01 · 18:40</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1134,7 +1134,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-929">
 <span class="data">2025-07-01 · 18:36</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1143,7 +1143,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-928">
 <span class="data">2025-07-01 · 17:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1152,7 +1152,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-926">
 <span class="data">2025-06-17 · 15:18</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1161,7 +1161,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-925">
 <span class="data">2025-06-16 · 21:56</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1170,7 +1170,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-924">
 <span class="data">2025-06-16 · 21:44</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1179,7 +1179,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-923">
 <span class="data">2025-06-16 · 21:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1188,7 +1188,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-922">
 <span class="data">2025-06-16 · 20:28</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1197,7 +1197,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-921">
 <span class="data">2025-06-12 · 12:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1206,7 +1206,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-920">
 <span class="data">2025-06-12 · 12:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1215,7 +1215,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-919">
 <span class="data">2025-06-12 · 12:12</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1224,7 +1224,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-918">
 <span class="data">2025-06-10 · 11:42</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -1233,7 +1233,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-917">
 <span class="data">2025-06-10 · 11:10</span>
 <div class="corpo">
 <p class="tipo">HOMENAGEM</p>
@@ -1242,7 +1242,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-916">
 <span class="data">2025-06-02 · 15:24</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1251,7 +1251,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-915">
 <span class="data">2025-06-02 · 15:20</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1260,7 +1260,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-912">
 <span class="data">2025-05-29 · 13:48</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1269,7 +1269,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-911">
 <span class="data">2025-05-29 · 13:40</span>
 <div class="corpo">
 <p class="tipo">REPRESENTANTE DO PARTIDO</p>
@@ -1278,7 +1278,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-910">
 <span class="data">2025-05-29 · 13:16</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1287,7 +1287,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-908">
 <span class="data">2025-05-22 · 13:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1296,7 +1296,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-907">
 <span class="data">2025-05-22 · 13:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1305,7 +1305,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-906">
 <span class="data">2025-05-22 · 13:20</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1314,7 +1314,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-904">
 <span class="data">2025-05-22 · 13:04</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1323,7 +1323,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-903">
 <span class="data">2025-05-22 · 12:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1332,7 +1332,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-902">
 <span class="data">2025-05-22 · 12:24</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1341,7 +1341,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-901">
 <span class="data">2025-05-22 · 12:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1350,7 +1350,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-900">
 <span class="data">2025-05-22 · 12:04</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1359,7 +1359,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-899">
 <span class="data">2025-05-22 · 11:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1368,7 +1368,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-897">
 <span class="data">2025-05-20 · 19:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1377,7 +1377,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-896">
 <span class="data">2025-05-20 · 19:32</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -1386,7 +1386,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-895">
 <span class="data">2025-05-07 · 21:08</span>
 <div class="corpo">
 <p class="tipo">REPRESENTANTE DO PARTIDO</p>
@@ -1395,7 +1395,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-893">
 <span class="data">2025-05-07 · 18:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1404,7 +1404,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-892">
 <span class="data">2025-05-06 · 18:40</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -1413,7 +1413,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-891">
 <span class="data">2025-05-06 · 17:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1422,7 +1422,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-889">
 <span class="data">2025-04-28 · 18:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1431,7 +1431,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-888">
 <span class="data">2025-04-23 · 20:04</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1440,7 +1440,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-887">
 <span class="data">2025-04-23 · 19:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1449,7 +1449,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-886">
 <span class="data">2025-04-23 · 17:04</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1458,7 +1458,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-885">
 <span class="data">2025-04-23 · 16:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1467,7 +1467,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-884">
 <span class="data">2025-04-22 · 20:24</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1476,7 +1476,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-883">
 <span class="data">2025-04-22 · 20:12</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1485,7 +1485,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-882">
 <span class="data">2025-04-22 · 19:52</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1494,7 +1494,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-881">
 <span class="data">2025-04-22 · 19:32</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1503,7 +1503,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-880">
 <span class="data">2025-04-22 · 19:24</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1512,7 +1512,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-879">
 <span class="data">2025-04-22 · 19:12</span>
 <div class="corpo">
 <p class="tipo">RECLAMAÇÃO</p>
@@ -1521,7 +1521,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-878">
 <span class="data">2025-04-22 · 19:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1530,7 +1530,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-877">
 <span class="data">2025-04-22 · 15:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1539,7 +1539,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-876">
 <span class="data">2025-04-16 · 11:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1548,7 +1548,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-875">
 <span class="data">2025-04-16 · 10:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1557,7 +1557,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-874">
 <span class="data">2025-04-16 · 10:36</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1566,7 +1566,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-873">
 <span class="data">2025-04-16 · 10:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1575,7 +1575,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-872">
 <span class="data">2025-04-16 · 10:28</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1584,7 +1584,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-871">
 <span class="data">2025-04-16 · 10:24</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1593,7 +1593,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-870">
 <span class="data">2025-04-16 · 10:12</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -1602,7 +1602,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-869">
 <span class="data">2025-04-15 · 17:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1611,7 +1611,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-868">
 <span class="data">2025-04-15 · 16:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1620,7 +1620,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-867">
 <span class="data">2025-04-10 · 12:00</span>
 <div class="corpo">
 <p class="tipo">REPRESENTANTE DO PARTIDO</p>
@@ -1629,7 +1629,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-865">
 <span class="data">2025-04-10 · 11:48</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1638,7 +1638,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-864">
 <span class="data">2025-04-10 · 11:44</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1647,7 +1647,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-863">
 <span class="data">2025-04-10 · 11:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1656,7 +1656,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-862">
 <span class="data">2025-04-10 · 11:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1665,7 +1665,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-861">
 <span class="data">2025-04-10 · 11:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1674,7 +1674,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-860">
 <span class="data">2025-04-10 · 11:28</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1683,7 +1683,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-859">
 <span class="data">2025-04-08 · 18:04</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1692,7 +1692,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-858">
 <span class="data">2025-04-08 · 17:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1701,7 +1701,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-856">
 <span class="data">2025-04-01 · 18:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1710,7 +1710,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-855">
 <span class="data">2025-04-01 · 18:36</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -1719,7 +1719,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-854">
 <span class="data">2025-04-01 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1728,7 +1728,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-853">
 <span class="data">2025-04-01 · 18:16</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -1737,7 +1737,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-852">
 <span class="data">2025-04-01 · 18:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1746,7 +1746,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-851">
 <span class="data">2025-03-27 · 17:28</span>
 <div class="corpo">
 <p class="tipo">COMISSÃO GERAL</p>
@@ -1755,7 +1755,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-850">
 <span class="data">2025-03-27 · 12:44</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1764,7 +1764,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-849">
 <span class="data">2025-03-27 · 12:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1773,7 +1773,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-848">
 <span class="data">2025-03-27 · 12:28</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1782,7 +1782,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-847">
 <span class="data">2025-03-27 · 12:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1791,7 +1791,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-846">
 <span class="data">2025-03-27 · 12:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1800,7 +1800,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-845">
 <span class="data">2025-03-27 · 12:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1809,7 +1809,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-844">
 <span class="data">2025-03-27 · 12:00</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1818,7 +1818,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-843">
 <span class="data">2025-03-27 · 11:56</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1827,7 +1827,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-842">
 <span class="data">2025-03-27 · 11:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1836,7 +1836,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-841">
 <span class="data">2025-03-27 · 11:36</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1845,7 +1845,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-840">
 <span class="data">2025-03-27 · 11:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1854,7 +1854,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-839">
 <span class="data">2025-03-27 · 11:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1863,7 +1863,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-838">
 <span class="data">2025-03-25 · 18:24</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -1872,7 +1872,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-837">
 <span class="data">2025-03-25 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1881,7 +1881,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-836">
 <span class="data">2025-03-25 · 18:16</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -1890,7 +1890,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-835">
 <span class="data">2025-03-25 · 18:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1899,7 +1899,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-834">
 <span class="data">2025-03-25 · 17:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1908,7 +1908,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-833">
 <span class="data">2025-03-20 · 16:12</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1917,7 +1917,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-832">
 <span class="data">2025-03-20 · 10:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1926,7 +1926,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-831">
 <span class="data">2025-03-18 · 21:16</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -1935,7 +1935,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-829">
 <span class="data">2025-03-18 · 20:20</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1944,7 +1944,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-828">
 <span class="data">2025-03-13 · 12:34</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1953,7 +1953,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-827">
 <span class="data">2025-03-12 · 19:32</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1962,7 +1962,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-826">
 <span class="data">2025-03-12 · 19:16</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1971,7 +1971,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-825">
 <span class="data">2025-03-12 · 17:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1980,7 +1980,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-823">
 <span class="data">2025-03-12 · 17:04</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1989,7 +1989,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-822">
 <span class="data">2025-03-12 · 16:48</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1998,7 +1998,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-821">
 <span class="data">2025-02-12 · 17:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -2007,7 +2007,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-820">
 <span class="data">2025-02-05 · 16:24</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -2016,7 +2016,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-818">
 <span class="data">2025-02-04 · 18:44</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -2025,7 +2025,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-817">
 <span class="data">2025-02-04 · 16:24</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -2034,7 +2034,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-816">
 <span class="data">2025-02-01 · 17:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2043,7 +2043,7 @@ description: "Os discursos de Marcel van Hattem em 2025, com o sumário publicad
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-815">
 <span class="data">2025-02-01 · 16:24</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -2063,7 +2063,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1075">
 <span class="data">2025-12-10 · 22:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2072,7 +2072,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1073">
 <span class="data">2025-12-10 · 03:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2081,7 +2081,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1072">
 <span class="data">2025-12-10 · 03:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2090,7 +2090,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1061">
 <span class="data">2025-11-26 · 20:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2099,7 +2099,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1044">
 <span class="data">2025-11-18 · 20:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2108,7 +2108,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1043">
 <span class="data">2025-11-18 · 19:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2117,7 +2117,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1041">
 <span class="data">2025-11-18 · 18:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2126,7 +2126,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1040">
 <span class="data">2025-11-12 · 20:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2135,7 +2135,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1038">
 <span class="data">2025-11-11 · 16:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2144,7 +2144,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1037">
 <span class="data">2025-11-05 · 19:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2153,7 +2153,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1035">
 <span class="data">2025-11-05 · 17:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2162,7 +2162,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1034">
 <span class="data">2025-11-05 · 14:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2171,7 +2171,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1029">
 <span class="data">2025-11-04 · 21:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2180,7 +2180,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1019">
 <span class="data">2025-10-28 · 19:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2189,7 +2189,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1016">
 <span class="data">2025-10-22 · 18:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2198,7 +2198,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1015">
 <span class="data">2025-10-22 · 18:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2207,7 +2207,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1011">
 <span class="data">2025-10-15 · 20:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2216,7 +2216,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-1001">
 <span class="data">2025-10-14 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2225,7 +2225,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-998">
 <span class="data">2025-10-09 · 11:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2234,7 +2234,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-995">
 <span class="data">2025-10-07 · 21:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2243,7 +2243,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-994">
 <span class="data">2025-10-07 · 21:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2252,7 +2252,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-986">
 <span class="data">2025-09-18 · 12:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2261,7 +2261,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-978">
 <span class="data">2025-09-03 · 23:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2270,7 +2270,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-976">
 <span class="data">2025-09-03 · 23:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2279,7 +2279,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-970">
 <span class="data">2025-08-21 · 12:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2288,7 +2288,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-960">
 <span class="data">2025-08-19 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2297,7 +2297,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-956">
 <span class="data">2025-07-17 · 03:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2306,7 +2306,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-955">
 <span class="data">2025-07-17 · 02:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2315,7 +2315,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-954">
 <span class="data">2025-07-17 · 01:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2324,7 +2324,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-953">
 <span class="data">2025-07-17 · 00:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2333,7 +2333,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-952">
 <span class="data">2025-07-17 · 00:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2342,7 +2342,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-941">
 <span class="data">2025-07-08 · 23:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2351,7 +2351,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-936">
 <span class="data">2025-07-08 · 22:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2360,7 +2360,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-927">
 <span class="data">2025-07-01 · 16:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2369,7 +2369,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-914">
 <span class="data">2025-06-02 · 15:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2378,7 +2378,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-913">
 <span class="data">2025-05-29 · 14:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2387,7 +2387,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-909">
 <span class="data">2025-05-28 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2396,7 +2396,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-905">
 <span class="data">2025-05-22 · 13:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2405,7 +2405,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-898">
 <span class="data">2025-05-21 · 19:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2414,7 +2414,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-894">
 <span class="data">2025-05-07 · 20:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2423,7 +2423,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-890">
 <span class="data">2025-04-29 · 20:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2432,7 +2432,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-866">
 <span class="data">2025-04-10 · 11:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2441,7 +2441,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-857">
 <span class="data">2025-04-08 · 17:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2450,7 +2450,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-830">
 <span class="data">2025-03-18 · 20:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2459,7 +2459,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-824">
 <span class="data">2025-03-12 · 17:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2468,7 +2468,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-819">
 <span class="data">2025-02-04 · 18:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

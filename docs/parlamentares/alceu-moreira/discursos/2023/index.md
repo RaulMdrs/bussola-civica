@@ -18,7 +18,7 @@ description: "Os discursos de Alceu Moreira em 2023, com o sumário publicado pe
 
 ## Substantivos — 5
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-2253">
 <span class="data">2023-12-13 · 18:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Alceu Moreira em 2023, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-2252">
 <span class="data">2023-10-24 · 17:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Alceu Moreira em 2023, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-2251">
 <span class="data">2023-10-17 · 14:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Alceu Moreira em 2023, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-2250">
 <span class="data">2023-08-15 · 17:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Alceu Moreira em 2023, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-2249">
 <span class="data">2023-08-02 · 19:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

@@ -18,7 +18,7 @@ description: "Os discursos de Danrlei de Deus Hinterholz em 2025, com o sumário
 
 ## Substantivos — 1
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-2247">
 <span class="data">2025-04-08 · 19:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

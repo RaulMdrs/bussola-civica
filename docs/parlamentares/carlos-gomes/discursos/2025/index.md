@@ -18,7 +18,7 @@ description: "Os discursos de Carlos Gomes em 2025, com o sumário publicado pel
 
 ## Substantivos — 1
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-2501">
 <span class="data">2025-05-27 · 11:56</span>
 <div class="corpo">
 <p class="tipo">HOMENAGEM</p>

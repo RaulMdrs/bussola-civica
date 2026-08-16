@@ -18,7 +18,7 @@ description: "Os discursos de Afonso Motta em 2026, com o sumário publicado pel
 
 ## Substantivos — 2
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-2496">
 <span class="data">2026-02-10 · 21:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Afonso Motta em 2026, com o sumário publicado pel
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-2494">
 <span class="data">2026-02-10 · 20:36</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -47,7 +47,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-2495">
 <span class="data">2026-02-10 · 21:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -56,7 +56,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-2493">
 <span class="data">2026-02-10 · 19:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -65,7 +65,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-2492">
 <span class="data">2026-02-09 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

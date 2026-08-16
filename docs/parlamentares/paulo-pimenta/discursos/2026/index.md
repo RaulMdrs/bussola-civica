@@ -18,7 +18,7 @@ description: "Os discursos de Paulo Pimenta em 2026, com o sumário publicado pe
 
 ## Substantivos — 9
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5850">
 <span class="data">2026-05-27 · 22:20</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Paulo Pimenta em 2026, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5849">
 <span class="data">2026-05-27 · 20:20</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Paulo Pimenta em 2026, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5848">
 <span class="data">2026-05-19 · 18:28</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Paulo Pimenta em 2026, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5847">
 <span class="data">2026-05-13 · 18:20</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Paulo Pimenta em 2026, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5846">
 <span class="data">2026-05-12 · 17:44</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Paulo Pimenta em 2026, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5845">
 <span class="data">2026-04-29 · 16:40</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Paulo Pimenta em 2026, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5844">
 <span class="data">2026-04-15 · 20:36</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Paulo Pimenta em 2026, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5843">
 <span class="data">2026-04-14 · 20:56</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Paulo Pimenta em 2026, com o sumário publicado pe
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5842">
 <span class="data">2026-03-04 · 16:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -110,7 +110,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-5851">
 <span class="data">2026-05-27 · 23:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

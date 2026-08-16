@@ -18,7 +18,7 @@ description: "Os discursos de Luiz Carlos Busato em 2025, com o sumário publica
 
 ## Substantivos — 7
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-198">
 <span class="data">2025-10-28 · 21:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Luiz Carlos Busato em 2025, com o sumário publica
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-197">
 <span class="data">2025-10-28 · 21:12</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Luiz Carlos Busato em 2025, com o sumário publica
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-196">
 <span class="data">2025-05-28 · 15:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Luiz Carlos Busato em 2025, com o sumário publica
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-195">
 <span class="data">2025-05-06 · 14:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Luiz Carlos Busato em 2025, com o sumário publica
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-194">
 <span class="data">2025-04-29 · 15:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Luiz Carlos Busato em 2025, com o sumário publica
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-192">
 <span class="data">2025-03-18 · 17:40</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Luiz Carlos Busato em 2025, com o sumário publica
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-190">
 <span class="data">2025-02-04 · 17:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -92,7 +92,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-193">
 <span class="data">2025-04-22 · 19:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -101,7 +101,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso">
+<blockquote class="evidencia discurso" id="d-191">
 <span class="data">2025-02-04 · 18:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
