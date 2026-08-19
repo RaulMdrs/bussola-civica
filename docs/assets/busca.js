@@ -160,8 +160,8 @@
     if (bruto.length < 3) {
       estado.textContent = bruto
         ? "Digite ao menos 3 letras."
-        : "O índice pesa " + meta.kb + " KB comprimido e só é baixado quando " +
-          "você busca a primeira vez.";
+        : "O índice pesa cerca de " + meta.kb + " KB comprimido e só é " +
+          "baixado quando você busca a primeira vez.";
       return;
     }
 

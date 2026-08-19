@@ -395,7 +395,7 @@ condições, todas cumpridas:
 |---|---|
 | Escrito à mão, sem dependência | 236 linhas em `docs/assets/busca.js`. Uma biblioteca de busca traria mais bytes que o acervo que procuraria |
 | Nada essencial depende dele | Sem script, a página lista os 31 parlamentares e seus anos — a navegação que já existia. O `<noscript>` diz isso, não pede para ligar o JavaScript |
-| O custo é declarado | **725 KB** comprimidos, medidos com `gzipSync` no gerador e escritos na página. Não estimados |
+| O custo é declarado | Medido com `gzipSync` no gerador e escrito na página, nunca digitado. Ver a ressalva sobre o nível de compressão abaixo |
 
 **A busca não classifica nada.** Casa a palavra que o parlamentar disse contra o
 sumário que a Câmara publicou, e ordena por data — sem tema inferido, sem
@@ -427,6 +427,23 @@ Verificado no navegador, não por leitura de código:
 | filtro de protocolares | 331 → 1.197 |
 | link do resultado | cai no `#d-177` certo, com o contorno de `:target` |
 | 360px | `scrollWidth == clientWidth == 360`, alvo de toque de 44px |
+
+**O que o leitor paga não é o que medimos.** A página dizia "720 KB", que é o
+que o `gzipSync` do Node produz. Medido contra o site publicado, o GitHub Pages
+serve **747 KB** — comprime com outro nível, 3,7% a mais:
+
+| Fragmento | Local | Servido | Δ |
+|---|---:|---:|---:|
+| 2023 | 172 KB | 178 KB | +5,4 KB |
+| 2024 | 186 KB | 192 KB | +5,6 KB |
+| 2025 | 273 KB | 281 KB | +8,3 KB |
+| 2026 | 93 KB | 96 KB | +2,9 KB |
+
+O nível do CDN não é nosso para controlar e pode mudar. A saída não foi fixar
+747: foi manter a medição e **arredondar para cima** — margem de 5%, dezena
+cheia, e a página diz "cerca de", porque precisão que não temos não se finge.
+Hoje declara 760 KB contra 747 reais. **Subestimar o que o leitor vai baixar é
+o lado errado de errar.**
 
 **Custo no repositório:** `docs/` passou de 6,2 MB para **9,3 MB**, dos quais
 3,0 MB são os fragmentos — reescritos por inteiro a cada `npm run site`. É a

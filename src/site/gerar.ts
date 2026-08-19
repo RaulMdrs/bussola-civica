@@ -582,7 +582,18 @@ function escreverFragmentosDeBusca(): {
 function gerarBusca(busca: { anos: string[]; bytes: number; comprimido: number }): string {
   const anos = busca.anos;
   const totalDiscursos = um<{ n: number }>(`SELECT COUNT(*) n FROM discurso`).n;
-  const kb = Math.round(busca.comprimido / 1024);
+
+  // O custo declarado ao leitor, arredondado **para cima**.
+  //
+  // `gzipSync` aqui usa o nível padrão do zlib; o GitHub Pages comprime com
+  // outro, e serve 3,7% a mais — medido contra o site publicado: 747 KB
+  // servidos contra 720 KB medidos aqui. O nível do CDN não é nosso para
+  // controlar e pode mudar.
+  //
+  // Então: margem de 5% e arredondamento para cima, na dezena. Subestimar o
+  // que o leitor vai baixar é o lado errado de errar, e "cerca de" é o que a
+  // página diz — precisão que não temos não se finge.
+  const kb = Math.ceil((busca.comprimido * 1.05) / 1024 / 10) * 10;
   let md = frontMatter(
     "Buscar nos discursos",
     "Procure uma palavra nos discursos dos deputados federais gaúchos, pelo sumário publicado pela Câmara.",
@@ -611,8 +622,8 @@ function gerarBusca(busca: { anos: string[]; bytes: number; comprimido: number }
   md += `<label><input type="checkbox" id="protocolares"> incluir os classificados como protocolares</label>\n`;
   md += `</div>\n`;
   md += `<p class="busca-estado" id="estado" aria-live="polite">O índice pesa\n`;
-  md += `<b>${kb} KB</b> comprimido e só é baixado quando você busca a primeira\n`;
-  md += `vez.</p>\n`;
+  md += `cerca de <b>${kb} KB</b> comprimido e só é baixado quando você busca a\n`;
+  md += `primeira vez.</p>\n`;
   md += `</form>\n\n`;
   md += `<div id="resultados"></div>\n\n`;
 
