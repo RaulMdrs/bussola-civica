@@ -295,6 +295,30 @@ mark {
   scroll-margin-top: var(--e5);
 }
 
+/* Decomposição da evidência — 545 linhas por página no pior caso.
+   Coincidiu e divergiu **não são acerto e erro**: são o que a conta mede.
+   Por isso nenhum verde, nenhum vermelho, nenhum ícone de aprovação — só
+   peso tipográfico, e o mesmo para os dois. */
+.coincidiu, .divergiu {
+  font: 600 0.8125rem/1 var(--f-ui);
+  text-transform: uppercase; letter-spacing: .05em;
+  white-space: nowrap;
+}
+.coincidiu { color: var(--tinta-2); }
+.divergiu {
+  color: var(--tinta);
+  box-shadow: inset 0 -0.3em 0 var(--papel-2);
+}
+.t-evid { font-size: var(--t-peq); }
+.t-evid td:first-child {
+  font-family: var(--f-mono);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;   /* a data estava quebrando em "2026-07-" / "14" */
+}
+.t-evid td:nth-child(2) { min-width: 20rem; }
+.t-evid td:nth-child(4) { white-space: nowrap; }
+.t-evid td:last-child { font-family: var(--f-mono); white-space: nowrap; }
+
 /* Navegação entre anos, no topo da página de discursos. */
 .anos {
   font: var(--t-peq)/1.6 var(--f-ui);
@@ -489,6 +513,21 @@ td .fonte, .evidencia .fonte { margin-top: var(--e2); }
 
   .t-busca td:nth-child(2)::before { content: "Discursos"; }
   .t-busca td:nth-child(3)::before { content: "Anos"; }
+
+  /* Decomposição: a primeira célula é a data, não um título de registro —
+     a votação é que identifica a linha. Some o tratamento de cabeçalho. */
+  .t-evid td:first-child {
+    background: transparent; font-size: var(--t-peq);
+    font-family: var(--f-mono); font-weight: 600;
+    padding-bottom: 0;
+  }
+  .t-evid td:nth-child(2)::before { content: "Votação"; }
+  .t-evid td:nth-child(3)::before { content: "Referência"; }
+  .t-evid td:nth-child(4)::before { content: "Voto registrado"; }
+  .t-evid td:nth-child(5)::before { content: "Contou como"; }
+  .t-evid td:nth-child(6)::before { content: "Fonte"; }
+  .t-evid td:nth-child(2) { display: block; text-align: left; }
+  .t-evid td:nth-child(2)::before { display: none; }
 
   /* Tabela de documentos: a segunda célula é descrição em prosa, não dado
      rotulado — vira parágrafo do cartão, alinhado à esquerda e sem rótulo. */

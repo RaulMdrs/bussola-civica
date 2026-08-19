@@ -55,6 +55,18 @@ const esc = (s: string) =>
 const pct = (v: number) => (v * 100).toFixed(1).replace(".", ",");
 
 /**
+ * Colapsa espaço em branco. Obrigatório para texto de fonte dentro de célula
+ * de tabela: **17 descrições de votação trazem quebra de linha da origem**, e
+ * em Markdown a quebra encerra a linha da tabela — a célula seguinte virava
+ * uma linha órfã, sem referência, sem voto e sem fonte. Eram 425 evidências
+ * assim antes de isto existir.
+ *
+ * Trocar quebra por espaço é o mínimo para o texto caber numa célula, e não
+ * altera uma palavra do que a origem publicou.
+ */
+const umaLinha = (t: string) => t.replace(/\s+/g, " ").trim();
+
+/**
  * O `n` é conteúdo, não metadado: sai rotulado e em corpo legível.
  *
  * Reservado para **a base de um percentual** — em quantas observações aquele
@@ -395,11 +407,15 @@ function gerarPerfil(p: Parlamentar): string {
     const classe = x.eixo === "alinhamento_governo" ? "eixo-gov" : "eixo-par";
     md += `| <span class="${classe}">${esc(x.rotulo)}</span> `;
     md += `| <span class="escopo">${ESCOPO_ROTULO[x.escopo] ?? x.escopo}</span> `;
-    md += `| <span class="valor">${pct(x.valor)}%</span> `;
+    md += `| [<span class="valor">${pct(x.valor)}%</span>](evidencia/${slugEvidencia(x.eixo, x.escopo)}/) `;
     md += `| <span class="n-detalhe">${x.n} <span>votações computáveis</span></span>`;
     md += `<span class="n-detalhe">${x.opo} <span>votações no exercício</span></span> |\n`;
   }
   md += `{: .t-eixos}\n\n`;
+
+  md += `**Cada percentual acima é um link** para a sua decomposição completa —\n`;
+  md += `todas as votações que entraram na conta, uma por linha, com o voto\n`;
+  md += `registrado e o link para a fonte. Nenhum número deste site fica sem isso.\n\n`;
 
   md += `> **Coesão alta não é virtude, coesão baixa não é defeito.** Dois\n`;
   md += `> parlamentares de partidos opostos, votando em direções contrárias, podem\n`;
@@ -439,8 +455,16 @@ function gerarPerfil(p: Parlamentar): string {
     md += `### <span class="${classe}">${titulo}</span>\n\n`;
     for (const e of divergiu) md += blocoEvidencia(e);
   }
-  md += `Esta é uma amostra. A decomposição completa existe no acervo, votação por\n`;
-  md += `votação, e é reconstruível a partir das fontes oficiais.\n\n`;
+  md += `### A conta inteira\n\n`;
+  md += `Acima é amostra, e diz que é. A decomposição completa — **todas** as\n`;
+  md += `votações que entraram em cada número, coincidências inclusive — está em\n`;
+  md += `uma página por eixo e escopo:\n\n`;
+  for (const x of geral) {
+    md += `- [${ROTULO_EIXO[x.eixo] ?? x.rotulo}, `;
+    md += `${(ESCOPO_ROTULO[x.escopo] ?? x.escopo).toLowerCase()}`;
+    md += `](evidencia/${slugEvidencia(x.eixo, x.escopo)}/) — ${x.n} votações\n`;
+  }
+  md += `\n`;
 
   md += secaoDiscursos(p);
 
@@ -661,6 +685,127 @@ function gerarBusca(busca: { anos: string[]; bytes: number; comprimido: number }
   return md;
 }
 
+// ---------------------------------------------------------------------------
+// Decomposição completa da evidência
+//
+// A promessa do projeto é "por que este político está aqui?" — respondível até
+// a votação que compõe o número. Até agora o perfil mostrava **3 votações de
+// amostra** e dizia que era amostra; as outras existiam só no banco, para quem
+// roda SQL. Estas páginas fecham isso.
+//
+// **São as 47.441 evidências gerais, não as 86.315.** A diferença são 38.874
+// evidências de posições por tema, que são as *mesmas votações* recontadas uma
+// vez por tema — uma matéria pertence a vários. Publicá-las repetiria o mesmo
+// fato três vezes e faria o site parecer maior do que o acervo é.
+//
+// **Uma página por (parlamentar, eixo, escopo)** — 127 no total, mediana de 388
+// linhas, máximo 545. É a mesma granularidade da tabela "Os dois eixos" do
+// perfil: cada número exibido lá ganha um link para a sua própria decomposição,
+// e nenhum fica sem.
+//
+// Tabela, não bloco de citação: o CSS já converte tabela em cartões no celular,
+// e é a forma mais densa que sobrevive a 545 linhas. O texto da votação é o da
+// fonte, sem edição.
+
+interface EvidenciaCompleta {
+  data: string;
+  descricao: string;
+  referencia: string;
+  voto: string;
+  concordou: number;
+  idExterno: string;
+  fonte: string;
+}
+
+const evidenciaCompleta = (politicoId: number, eixo: string, escopo: string) =>
+  todos<EvidenciaCompleta>(
+    `SELECT v.data, v.descricao, pe.referencia, vo.voto, pe.concordou,
+            v.id_externo idExterno, v.fonte_url fonte
+     FROM posicao_evidencia pe
+     JOIN posicao po ON po.id = pe.posicao_id AND po.tema_id IS NULL
+                    AND po.escopo = ? AND po.politico_id = ?
+                    AND po.periodo_inicio = ? AND po.periodo_fim = ?
+     JOIN eixo e ON e.id = po.eixo_id AND e.chave = ?
+     JOIN votacao v ON v.id = pe.votacao_id
+     JOIN voto vo ON vo.id = pe.voto_id
+     ORDER BY v.data DESC, v.id_externo`,
+    escopo,
+    politicoId,
+    periodo.ini,
+    periodo.fim,
+    eixo,
+  );
+
+/** `alinhamento_governo` + `merito` → `alinhamento-governo-merito`. */
+const slugEvidencia = (eixo: string, escopo: string) =>
+  `${eixo.replace(/_/g, "-")}-${escopo}`;
+
+const ROTULO_EIXO: Record<string, string> = {
+  alinhamento_governo: "Alinhamento com o governo federal",
+  coesao_partidaria: "Coesão com o próprio partido",
+};
+
+function gerarEvidencia(p: Parlamentar, x: Posicao): string {
+  const linhas = evidenciaCompleta(p.id, x.eixo, x.escopo);
+  const coincidiu = linhas.filter((l) => l.concordou).length;
+  const divergiu = linhas.length - coincidiu;
+  const casa = senadores.some((s) => s.id === p.id) ? "senador" : "deputado federal";
+
+  // Guarda: a página tem de **reproduzir** o número que diz decompor. Se um dia
+  // a consulta daqui e a de `posicoes.ts` divergirem — filtro diferente, período
+  // diferente, evidência perdida —, o site publicaria uma decomposição que não
+  // fecha com o percentual exibido ao lado dela, em silêncio. Melhor não gerar.
+  if (linhas.length !== x.n || pct(coincidiu / linhas.length) !== pct(x.valor)) {
+    throw new Error(
+      `decomposição não fecha para ${p.nome} · ${x.eixo} · ${x.escopo}: ` +
+        `${linhas.length} evidências e ${pct(coincidiu / (linhas.length || 1))}% ` +
+        `contra n=${x.n} e ${pct(x.valor)}% gravados em posicao`,
+    );
+  }
+
+  let md = frontMatter(
+    `${p.nome} — ${ROTULO_EIXO[x.eixo]}, ${ESCOPO_ROTULO[x.escopo] ?? x.escopo}`,
+    `A decomposição completa: todas as ${linhas.length} votações que compõem o número de ${p.nome}, uma por linha, com link para a fonte.`,
+    "evidencia",
+  );
+
+  md += `# ${ROTULO_EIXO[x.eixo]}\n\n`;
+  md += `<p class="subtitulo"><b><a href="../../">${esc(p.nome)}</a></b>`;
+  md += p.sigla ? ` · ${esc(p.sigla)}` : "";
+  md += ` · ${casa} · escopo <b>${ESCOPO_ROTULO[x.escopo] ?? x.escopo}</b></p>\n\n`;
+
+  md += `<div class="interrompe">\n`;
+  md += `<h4>A conta inteira, votação por votação</h4>\n`;
+  md += `<p><b>${pct(x.valor)}%</b> é <b>${coincidiu}</b> coincidências em\n`;
+  md += `<b>${linhas.length}</b> votações computáveis — as outras ${divergiu} estão\n`;
+  md += `aqui também. Esta página não é amostra: é a decomposição completa do\n`;
+  md += `número, e some ou cresce junto com ele.</p>\n`;
+  md += `</div>\n\n`;
+
+  md += `> **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:\n`;
+  md += `> se o voto foi igual ou diferente da referência daquele eixo. A referência\n`;
+  md += `> está em cada linha, e o texto da votação é o da fonte, sem edição.\n\n`;
+
+  md += `| Data | Votação | Referência | Voto | | Fonte |\n|---|---|---|---|---|---|\n`;
+  for (const l of linhas) {
+    const marca = l.concordou
+      ? `<span class="coincidiu">coincidiu</span>`
+      : `<span class="divergiu">divergiu</span>`;
+    md += `| ${esc(l.data)} | ${esc(umaLinha(l.descricao))} `;
+    md += `| ${esc(umaLinha(l.referencia))} `;
+    md += `| <b>${esc(l.voto)}</b> | ${marca} `;
+    md += `| [${esc(l.idExterno)}](${esc(l.fonte)}) |\n`;
+  }
+  md += `{: .t-evid}\n\n`;
+
+  md += `O identificador da última coluna é o da votação na fonte oficial, e o\n`;
+  md += `link abre o registro dela na API da Câmara. Nada nesta página é\n`;
+  md += `interpretação: são votos registrados e a referência contra a qual cada um\n`;
+  md += `foi comparado.\n`;
+
+  return md;
+}
+
 /** Uma página por parlamentar e ano. O porquê está no bloco no topo do arquivo. */
 function gerarDiscursosAno(p: Parlamentar, ano: string): string {
   const substantivos = discursosDoAno(p.id, ano, 1);
@@ -765,7 +910,7 @@ function gerarPerfilSenador(p: Parlamentar): string {
   for (const x of pos) {
     md += `| <span class="eixo-par">${esc(x.rotulo)}</span> `;
     md += `| <span class="escopo">${ESCOPO_ROTULO[x.escopo] ?? x.escopo}</span> `;
-    md += `| <span class="valor">${pct(x.valor)}%</span> `;
+    md += `| [<span class="valor">${pct(x.valor)}%</span>](evidencia/${slugEvidencia(x.eixo, x.escopo)}/) `;
     md += `| <span class="n-detalhe">${x.n} <span>votações computáveis</span></span>`;
     md += `<span class="n-detalhe">${x.opo} <span>votações no exercício</span></span> |\n`;
   }
@@ -781,6 +926,15 @@ function gerarPerfilSenador(p: Parlamentar): string {
     md += `As descrições são o texto original da fonte oficial.\n\n`;
     for (const e of divergiu) md += blocoEvidencia(e);
   }
+
+  md += `### A conta inteira\n\n`;
+  for (const x of pos) {
+    md += `- [${ROTULO_EIXO[x.eixo] ?? x.rotulo}, `;
+    md += `${(ESCOPO_ROTULO[x.escopo] ?? x.escopo).toLowerCase()}`;
+    md += `](evidencia/${slugEvidencia(x.eixo, x.escopo)}/) — ${x.n} votações,\n`;
+    md += `  coincidências inclusive\n`;
+  }
+  md += `\n`;
   return md;
 }
 
@@ -1050,16 +1204,33 @@ escrever("discursos", gerarBusca(busca));
 
 escrever("parlamentares", gerarIndiceParlamentares());
 let paginasDeDiscurso = 0;
+let paginasDeEvidencia = 0;
 for (const p of parlamentares) {
   escrever(`parlamentares/${slug(p.nome)}`, gerarPerfil(p));
   for (const { ano } of anosDeDiscurso(p.id)) {
     escrever(`parlamentares/${slug(p.nome)}/discursos/${ano}`, gerarDiscursosAno(p, ano));
     paginasDeDiscurso++;
   }
+  for (const x of posicoesDe(p.id).filter((y) => !y.tema)) {
+    escrever(
+      `parlamentares/${slug(p.nome)}/evidencia/${slugEvidencia(x.eixo, x.escopo)}`,
+      gerarEvidencia(p, x),
+    );
+    paginasDeEvidencia++;
+  }
 }
 
 escrever("senadores", gerarIndiceSenadores(senadores));
-for (const p of senadores) escrever(`senadores/${slug(p.nome)}`, gerarPerfilSenador(p));
+for (const p of senadores) {
+  escrever(`senadores/${slug(p.nome)}`, gerarPerfilSenador(p));
+  for (const x of posicoesDe(p.id).filter((y) => !y.tema)) {
+    escrever(
+      `senadores/${slug(p.nome)}/evidencia/${slugEvidencia(x.eixo, x.escopo)}`,
+      gerarEvidencia(p, x),
+    );
+    paginasDeEvidencia++;
+  }
+}
 
 escrever("temas", gerarIndiceTemas(temas));
 for (const t of temas) escrever(`temas/${slug(t.nome)}`, gerarTema(t.nome, t.id));
@@ -1067,6 +1238,7 @@ for (const t of temas) escrever(`temas/${slug(t.nome)}`, gerarTema(t.nome, t.id)
 console.log(`site gerado em ${SAIDA}/`);
 console.log(`  ${parlamentares.length} deputados · ${senadores.length} senadores · ${temas.length} temas · 3 índices`);
 console.log(`  ${paginasDeDiscurso} páginas de discurso (uma por parlamentar e ano)`);
+console.log(`  ${paginasDeEvidencia} páginas de evidência (uma por parlamentar, eixo e escopo)`);
 console.log(`  busca: ${busca.anos.length} fragmentos, ${(busca.bytes / 1024 / 1024).toFixed(1)} MB antes do gzip`);
 console.log(`  período ${periodo.ini} → ${periodo.fim} · metodologia ${metodologia.versao}`);
 

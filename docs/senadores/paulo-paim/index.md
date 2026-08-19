@@ -28,7 +28,7 @@ por conta própria, que é o que este projeto não faz. Aqui existe um eixo só.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Todas as votações abertas</span> | <span class="valor">93,3%</span> | <span class="n-detalhe">104 <span>votações computáveis</span></span><span class="n-detalhe">114 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Todas as votações abertas</span> | [<span class="valor">93,3%</span>](evidencia/coesao-partidaria-unico/) | <span class="n-detalhe">104 <span>votações computáveis</span></span><span class="n-detalhe">114 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
 Não há recorte entre mérito e procedimental aqui: a regra que separa os
@@ -66,4 +66,9 @@ As descrições são o texto original da fonte oficial.
 <a class="fonte" href="https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=6953">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
+
+### A conta inteira
+
+- [Coesão com o próprio partido, todas as votações abertas](evidencia/coesao-partidaria-unico/) — 104 votações,
+  coincidências inclusive
 
