@@ -2,8 +2,9 @@
 
 **Data:** 2026-08-16 · **Fase:** 0 concluída · Fase 1 (Senado) integrada
 **Estado:** backend e site no ar, com design próprio, os 5.851 discursos
-visíveis e busca sobre eles. Coleta, modelo, cálculo, metodologia pública e
-camada web funcionando e validados contra dados reais. App mobile não iniciado.
+visíveis com busca, e **todo número decomposto até a votação que o compõe**.
+Coleta, modelo, cálculo, metodologia pública e camada web funcionando e
+validados contra dados reais. App mobile não iniciado.
 
 Site: <https://raulmdrs.github.io/bussola-civica/>
 
@@ -34,6 +35,7 @@ repositório, onde é `FONTES.md` que existe — nas páginas publicadas é `/FO
 | 15 | Site inteiramente gerado | home incluída: nenhum número do acervo é digitado |
 | 16 | Discursos no site | 5.851 discursos visíveis, 111 páginas por parlamentar e ano (§6.4) |
 | 17 | Busca nos discursos | `docs/assets/busca.js` — 236 linhas à mão, sob demanda, degrada sem script (§6.5) |
+| 18 | Decomposição completa | 47.441 votações em 127 páginas — cada percentual do site vira link para a sua conta (§6.6) |
 
 Banco atual: **80 MB**. Câmara: 6.291 votações (1.117 nominais), 452.356 votos.
 Senado: 353 votações (114 abertas), 28.593 votos. 34 parlamentares com perfil
@@ -450,6 +452,63 @@ o lado errado de errar.**
 primeira vez que o peso do site pesa na rotina semanal, e entra na conta da
 automação (§11).
 
+### 6.6 Decomposição completa — a promessa fechada
+
+O princípio do projeto (§2) diz que "por que este político está aqui?" tem de
+ser respondível até a votação que compõe o número. Até 2026-08-16 o perfil
+mostrava **3 votações de amostra** e dizia que era amostra; o resto existia só
+no banco, para quem roda SQL. Era a promessa aberta mais antiga.
+
+Agora **cada percentual da tabela "Os dois eixos" é um link** para a sua própria
+decomposição: todas as votações que entraram na conta, coincidências inclusive,
+com o voto registrado e o link para a fonte. Nenhum número do site fica sem.
+
+**São 47.441 evidências, não as 86.315 do banco.** A diferença são 38.874 de
+posições por tema, que são as *mesmas votações recontadas uma vez por tema* —
+uma matéria pertence a várias. O espelho está nos números: o recorte temático
+tem 17.623 evidências de alinhamento contra 10.984 do geral. Não é mais
+informação; é a mesma repetida, e publicá-la faria o site parecer maior que o
+acervo.
+
+| Decisão | Por quê |
+|---|---|
+| Página por (parlamentar, eixo, escopo) | 127 páginas, mediana de 388 linhas, máximo 545. É a granularidade da tabela do perfil: cada número exibido ganha o link da sua conta, e nenhum sobra |
+| Tabela, não bloco de citação | O CSS já converte tabela em cartões no celular, e é a forma mais densa que sobrevive a 545 linhas |
+| Coincidências **e** divergências | Amostra de divergência prova que a decomposição existe; a conta inteira é a decomposição. Omitir as coincidências deixaria o denominador sem lastro |
+| Identificador oficial como texto do link | Rotula o link (regra do §6.3) e entrega a chave da votação na origem no mesmo gesto |
+| Recorte por tema sem página própria | Seria o mesmo fato três vezes. O tema tem página própria, com as votações dele |
+
+**Coincidiu e divergiu não são acerto e erro**, e o CSS não os pinta como tal:
+sem verde, sem vermelho, sem ícone de aprovação — só peso tipográfico, o mesmo
+para os dois. A página diz isso em prosa antes da tabela. É a mesma regra que
+proíbe cor avaliativa nos eixos (§6.3), aplicada onde ela seria mais tentadora.
+
+#### A guarda: a página tem de reproduzir o número que decompõe
+
+Uma decomposição que não fecha com o número que explica é pior que amostra
+nenhuma — parece prova e não é. Verificado nas 127 páginas: linhas =
+`n_observacoes`, marcadores = linhas, e coincidências ÷ n reproduz o `valor`
+gravado em `posicao`, com uma casa decimal. **127/127.**
+
+Isso virou guarda dentro de `gerarEvidencia()`: se a consulta do gerador e a de
+`calc/posicoes.ts` divergirem algum dia — filtro diferente, período diferente,
+evidência perdida —, a geração **falha** em vez de publicar uma tabela que não
+fecha com o percentual ao lado dela. A guarda foi testada corrompendo o filtro
+de propósito:
+
+```
+decomposição não fecha para Afonso Hamm · alinhamento_governo · merito:
+348 evidências e 49,1% contra n=349 e 49,0% gravados em posicao
+```
+
+É o mesmo método do §3.2 aplicado ao site: em vez de confiar que os dois lados
+continuam de acordo, tornar o desacordo impossível de publicar.
+
+**Custo:** `docs/` passou de 9,3 MB para **23 MB**, dos quais 13,4 MB são estas
+páginas. É o maior salto do projeto. Por página o peso é baixo — a maior tem 171
+KB de Markdown e **23 KB pelo fio** —, mas o repositório inteiro é reconstruído
+a cada `npm run site`, e isso muda a conta da automação (§11).
+
 ---
 
 ## 7. Números medidos — ingestor × reconhecimento
@@ -587,6 +646,8 @@ Todos apareceram ao rodar contra dados reais, não em revisão de código.
 | `dataFim` da origem é **exclusivo**, e `janelas()` fatia em blocos consecutivos | O último dia de cada janela não era pedido a ninguém. **10 votações de 2023-10-31** faltavam no acervo; as outras 13 bordas caíram em recesso ou fim de semana e não perderam nada | A URL de `/votacoes` pede o dia seguinte; o intervalo segue inclusivo no resto do código, inclusive no recurso gravado em `coleta` |
 | `DELETE` do recálculo de posições casava o `periodo_fim` exato | `ingerir:incremental` rodado em dois dias seguidos gravava dois conjuntos completos, um por `fim` — 124 posições viraram 248 na virada de 2026-08-07 para 08-08 | O `DELETE` passa a casar a **série** (eixo, escopo, legislatura, `periodo_inicio`); apuração nova supersede a anterior |
 
+| Descrição de votação com **quebra de linha** posta em célula de tabela Markdown | A quebra encerra a linha da tabela: a célula seguinte virava linha órfã, sem referência, sem voto e sem fonte. **425 evidências** assim, em 17 votações da origem. Apareceu ao contar marcadores — 349 numa tabela de 356 linhas | `umaLinha()` colapsa espaço em branco antes de emitir. Trocar quebra por espaço é o mínimo para o texto caber na célula, e não altera uma palavra da origem |
+
 **Ajustes de ambiente:** `better-sqlite3` não compila no Node 26 → `node:sqlite`
 nativo via `sqlite-proxy`; type-stripping proíbe *parameter properties* e enums.
 
@@ -626,7 +687,7 @@ declarado pela fonte, e há justificativa de voto ali dentro que é posição.
 ## 10. Estado do código
 
 ```
-src/                                    6.935 linhas TypeScript
+src/                                    7.118 linhas TypeScript
   db/schema.ts        872   20 tabelas, comentadas com o achado que as motivou
   db/client.ts         72   node:sqlite via sqlite-proxy + consultar() tipado
   db/migrar.ts         59   aplica migrations, controla em _migrations
@@ -646,19 +707,20 @@ src/                                    6.935 linhas TypeScript
   ingest/incremental.ts 153 CLI da retomada automática
   ingest/horizonte.ts 105   de onde continuar — testável, sem rede
   calc/posicoes.ts    563   dois eixos + evidências, recorte por tema, regime por casa
-  site/gerar.ts      1062   gerador do site — 166 páginas + os fragmentos de busca
+  site/gerar.ts      1245   gerador do site — 293 páginas, fragmentos de busca, guarda da decomposição
   relatorio.ts        402   verificação do acervo + invariantes
 drizzle/                    8 migrations
 
-docs/                                     983 linhas de camada web
+docs/                                    1022 linhas de camada web
   _layouts/default.html 57  cabeçalho, conteúdo, rodapé lido de _data/meta.yml
-  assets/bussola.css   690  folha única, à mão, clara e escura (§6.3)
+  assets/bussola.css   729  folha única, à mão, clara e escura (§6.3)
   assets/busca.js      236  único script do site, à mão, sem dependência (§6.5)
 ```
 
-**166 páginas geradas** e 4 fragmentos de busca. `docs/` ocupa **9,3 MB** — 5,8
-MB de páginas de discurso e 3,0 MB de fragmentos, estes reescritos por inteiro
-a cada `npm run site`.
+**293 páginas geradas** e 4 fragmentos de busca. `docs/` ocupa **23 MB** — 13,4
+MB de decomposição da evidência, 5,8 MB de páginas de discurso e 3,0 MB de
+fragmentos de busca. Tudo é reescrito a cada `npm run site`; por página o peso
+é baixo (23 KB pelo fio no pior caso), o volume está no número de páginas.
 
 **Stack:** TypeScript (type-stripping nativo, sem build), Drizzle ORM,
 SQLite via `node:sqlite`. Node **22.6+** (declarado em `engines`, com
@@ -725,11 +787,19 @@ Custo por semestre: ~3 + 62 + (2 janelas + ~450 `/votos` + ~154 `/orientacoes`)
 
 ## 11. Próximos passos sugeridos
 
-**Os discursos e a busca saíram da lista.** Os 5.851 estão no site desde
-2026-08-15, em 111 páginas por parlamentar e ano (§6.4), e a busca sobre eles
-entrou em 2026-08-16 (§6.5). A previsão de que o CSS já provisionava a forma se
-confirmou: `blockquote.evidencia` recebeu o discurso sem folha nova, só um tipo
-oficial no lugar do placar, e depois recebeu o resultado de busca do mesmo jeito.
+**Os três itens de retorno saíram da lista, e com eles a promessa mais antiga
+do projeto.** Discursos em 2026-08-15 (§6.4), busca em 2026-08-16 (§6.5),
+decomposição completa da evidência no mesmo dia (§6.6). Todo número exibido no
+site é agora rastreável até a votação que o compõe, sem SQL e sem pedir
+confiança.
+
+A previsão de que o CSS já provisionava a forma se confirmou três vezes:
+`blockquote.evidencia` recebeu o discurso sem folha nova, depois o resultado de
+busca, e a tabela recebeu 545 linhas de decomposição virando cartões no celular
+com quatro rótulos novos.
+
+**O que sobra é de outra natureza.** Nenhum item abaixo é uma promessa aberta
+ao leitor: são cobertura (Senado), operação (automação) e forma (órbita).
 
 ### Rotina
 
@@ -744,35 +814,34 @@ diff do commit mostra o que mudou nos números — é registro, não ruído.
 
 ### O que dá mais retorno agora
 
-**1. Decompor a evidência por inteiro.** É o que sobrou de maior. O site mostra
-**amostra** de divergência e diz que é amostra; as 86.315 evidências existem no
-banco e não são alcançáveis por quem não roda SQL. Uma página por eixo, paginada
-**por ano como a de discursos**, fecharia a promessa de "por que este político
-está aqui?" sem inchar o perfil.
-
-O caminho está aberto: `blocoEvidencia()` já monta o registro, e a decisão de
-paginar por ano já foi tomada e medida uma vez. A diferença é o volume — 86 mil
-evidências contra 5.851 discursos, com ~2.800 por parlamentar. Medir antes de
-escolher a forma, como foi feito aqui.
-
-**2. Discursos do Senado — zero coletados.** A busca tornou a lacuna visível: a
+**1. Discursos do Senado — zero coletados.** A busca tornou a lacuna visível: a
 seção "O que disse em plenário" existe para 30 deputados e para **nenhum** dos 3
 senadores, e a busca varre um corpus que é só da Câmara. Antes de prometer,
 precisa do mesmo reconhecimento que as outras fontes tiveram (§3.1) — se a API
 do Senado entrega discurso, com qual sumário e com que cobertura. Pode acabar em
 "bloqueado pela fonte"; hoje é só desconhecido, que é pior.
 
-**3. Automatizar a atualização.** Hoje o ciclo depende de você rodar dois
+**2. Automatizar a atualização.** Hoje o ciclo depende de você rodar dois
 comandos numa máquina que tem o banco. Uma GitHub Action semanal faria tudo —
 mas exige reconstruir o acervo no CI ou cacheá-lo, e o segredo do HMAC vira
 segredo do repositório. Decisão real de superfície, não tarefa mecânica.
 
-Ficou mais pesada com discursos e busca: `docs/` passou de 616 KB para **9,3
-MB**, e **3,0 MB são fragmentos de busca reescritos por inteiro** a cada
-geração — diferente das páginas, onde só o que mudou muda. Vale medir o
-crescimento do `.git` por duas ou três semanas antes de decidir a forma da
-automação. Se o custo incomodar, a saída é gerar os fragmentos no CI em vez de
-versioná-los.
+**Este item mudou de tamanho três vezes em dois dias.** `docs/` era 616 KB
+antes dos discursos; hoje é **23 MB** — 13,4 de decomposição, 5,8 de discursos,
+3,0 de fragmentos de busca. Não trava nada: o Pages reconstrói e cada página
+pesa pouco pelo fio. O que mudou é a conta do CI, que passaria a versionar e
+transferir 23 MB por execução.
+
+Antes de decidir a forma, **medir o crescimento do `.git` por duas ou três
+semanas**. A pergunta é se o delta semanal é pequeno — deveria ser: votação nova
+entra no topo de cada tabela e o resto não muda —, e a resposta é observável,
+não estimável.
+
+Se o custo incomodar, a saída não é publicar menos: é **gerar no CI em vez de
+versionar**. O acervo é a fonte da verdade e o site é derivado dele; nada se
+perde ao deixar de guardar o derivado. O que se perde é o diff legível de cada
+rebuild, que hoje é parte do registro auditável — e essa troca precisa ser
+decidida, não sofrida.
 
 ### Bloqueado pela fonte, não por nós
 
@@ -789,18 +858,19 @@ Registrado para quando houver fonte — nenhum destes é "fazer depois":
 
 ### Fases seguintes
 
-**4. Visualização orbital.** Estava no plano original; o site hoje é tabela.
-Consome `posicao` + `posicao_evidencia` direto e roda no cliente, sem servidor.
-Exige resolver a armadilha do eixo 2: dois parlamentares opostos com 100% de
-coesão ocupam o mesmo ponto, e a visualização precisa deixar isso óbvio.
+**3. Visualização orbital.** Estava no plano original; o site hoje é tabela.
+Consome `posicao` + `posicao_evidencia` direto e roda no cliente, sem servidor,
+e as três condições da busca (§6.5) valem inteiras aqui — à mão, degrada sem
+script, custo declarado.
 
-**O argumento do "primeiro JavaScript" caiu** com a busca (§6.5). O que resta é
-o problema de verdade, e é maior: dois parlamentares opostos com 100% de coesão
-ocupam o mesmo ponto, e a órbita precisa deixar isso **óbvio** em vez de
-esconder atrás de uma imagem bonita. Vale herdar as três condições da busca —
-à mão, degrada sem script, custo declarado — que já foram testadas uma vez.
+**O argumento do "primeiro JavaScript" caiu** com a busca. O que resta é o
+problema de verdade, e é maior: dois parlamentares de partidos opostos com 100%
+de coesão ocupam **o mesmo ponto** e votam em direções contrárias. A órbita
+precisa deixar isso óbvio em vez de esconder atrás de uma imagem bonita — é a
+única forma de exibição em que o eixo 2 pode mentir por si mesmo, sem que
+ninguém tenha escrito uma frase falsa.
 
-**5. App mobile** (Fase 3) e **estadual/municipal** (Fase 4).
+**4. App mobile** (Fase 3) e **estadual/municipal** (Fase 4).
 
 ### Dívidas pequenas
 
