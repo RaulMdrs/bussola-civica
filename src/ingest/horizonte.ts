@@ -29,6 +29,16 @@ export type Consulta = (
 const JANELA = "????-??-??..????-??-??";
 export const GLOB_VOTACOES = `votacoes ${JANELA}`;
 export const GLOB_DISCURSOS = `deputados/*/discursos ${JANELA}`;
+/**
+ * O Senado grava um recurso-resumo por execução, além das linhas por ano.
+ *
+ * As linhas por ano (`votacao ano=2026`, `senador/825/discursos 2026-01-01..`)
+ * dizem o que foi pedido, não **até que dia se olhou** — e é a segunda pergunta
+ * que a retomada precisa responder. Sem esta linha, a etapa contava como sem
+ * cobertura nenhuma e arrastava a janela inteira de volta ao início da
+ * legislatura, o que faria a Câmara recoletar 91 minutos toda vez.
+ */
+export const GLOB_SENADO = `senado ${JANELA}`;
 
 /** De onde saiu a data — para que "sem registro" nunca pareça "coletado até". */
 export type Origem = "coleta" | "votacao" | "nenhuma";
@@ -41,6 +51,7 @@ export interface Horizonte {
 export interface Janelas {
   votacoes: Horizonte;
   discursos: Horizonte;
+  senado: Horizonte;
   /** Início da janela de coleta: o menor horizonte. */
   inicio: string;
   /** Fim da janela: hoje, limitado pelo fim da legislatura. */
@@ -68,6 +79,7 @@ export function descobrirJanelas(
 ): Janelas {
   const daColetaVotacoes = horizonteDe(consulta, GLOB_VOTACOES);
   const daColetaDiscursos = horizonteDe(consulta, GLOB_DISCURSOS);
+  const daColetaSenado = horizonteDe(consulta, GLOB_SENADO);
 
   // Fallback só para votação, e só para banco anterior a esta auditoria:
   // `MAX(votacao.data)` diz onde houve sessão, não até onde se olhou. Impreciso
@@ -92,12 +104,27 @@ export function descobrirJanelas(
     ? { ate: daColetaDiscursos, origem: "coleta" }
     : { ate: leg.ini, origem: "nenhuma" };
 
+  /**
+   * Senado sem fallback, pelo mesmo motivo do discurso: `MAX(votacao.data)` de
+   * lá diria onde houve sessão aberta, e o Senado passa semanas sem uma. Sem
+   * registro, nenhuma cobertura.
+   *
+   * Até 2026-08-19 esta etapa **não existia aqui**, e o `ingerir:incremental`
+   * não a rodava: a rotina semanal congelava o Senado em silêncio enquanto o
+   * log dizia "concluído". A coleta do Senado é barata — 4 requisições de
+   * votação e 12 de discurso por legislatura —, então revarrer tudo quando não
+   * há registro é aceitável; o que não era aceitável é não revarrer nunca.
+   */
+  const senado: Horizonte = daColetaSenado
+    ? { ate: daColetaSenado, origem: "coleta" }
+    : { ate: leg.ini, origem: "nenhuma" };
+
   // O menor: adiantar qualquer etapa deixaria a atrasada para trás, para sempre.
-  const inicio = menor(votacoes.ate, discursos.ate);
+  const inicio = menor(menor(votacoes.ate, discursos.ate), senado.ate);
   // A legislatura tem fim; pedir além dele traria votação de outra.
   const fim = menor(hoje, leg.fim);
 
-  return { votacoes, discursos, inicio, fim, coletar: inicio <= fim };
+  return { votacoes, discursos, senado, inicio, fim, coletar: inicio <= fim };
 }
 
 function menor(a: string, b: string) {

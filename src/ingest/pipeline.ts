@@ -307,7 +307,25 @@ export async function ingerirDeputados(ctx: Contexto) {
     );
     const histUrl = `${fonteUrl}/historico`;
 
-    // filiações
+    /**
+     * Filiações: **substituir, não acumular**.
+     *
+     * `derivarFiliacoes` traduz o histórico inteiro que a origem devolve — é
+     * uma afirmação completa sobre a pessoa, não um acréscimo. Tratá-la como
+     * acréscimo quebrou em 2026-08-19: a Câmara reescreveu o próprio passado
+     * (o histórico de Afonso Hamm passou de `PPB → PP** → PP` para só `PP`),
+     * a chave de conflito `(político, partido, data_inicio)` não casou com
+     * nenhuma linha antiga, e sobrou uma filiação aberta a mais. O site conta
+     * a legenda por filiação aberta, então o índice passou a listar 35
+     * deputados para 31 cadeiras.
+     *
+     * O `DELETE` é escopado por `fonte_url`: filiação de senador vem de outro
+     * endpoint e não pode ser levada junto.
+     */
+    ctx.sqlite
+      .prepare(`DELETE FROM filiacao WHERE politico_id = ? AND fonte_url = ?`)
+      .run(politicoId, histUrl);
+
     for (const f of derivarFiliacoes(hist)) {
       const partidoId = await idPartidoObrigatorio(ctx.db, f.sigla);
       await ctx.db

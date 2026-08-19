@@ -18,9 +18,9 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">88,3%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">274 <span>votações computáveis</span></span><span class="n-detalhe">571 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">88,1%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">277 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
 | <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">92,4%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">238 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">92,6%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">326 <span>votações computáveis</span></span><span class="n-detalhe">571 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">92,7%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">330 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
 | <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">94,7%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">302 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
@@ -48,11 +48,11 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Saúde](../../temas/saude/) | <span class="valor">95,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>20</b></span> |
 | [Indústria, Comércio e Serviços](../../temas/industria-comercio-e-servicos/) | <span class="valor">94,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>17</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">93,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>16</b></span> <span class="aviso-n">amostra pequena</span> |
-| [Economia](../../temas/economia/) | <span class="valor">90,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>40</b></span> |
+| [Economia](../../temas/economia/) | <span class="valor">90,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>42</b></span> |
 | [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | <span class="valor">86,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>15</b></span> <span class="aviso-n">amostra pequena</span> |
-| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">85,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>142</b></span> |
+| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">85,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>145</b></span> |
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">84,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>13</b></span> <span class="aviso-n">amostra pequena</span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">83,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>93</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">83,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>94</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">82,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>29</b></span> |
 {: .t-temas}
 
@@ -69,6 +69,15 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
+<span class="data">2026-08-12</span>
+<div class="corpo">
+<p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
+<p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2580259-24">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia">
 <span class="data">2025-11-12</span>
 <div class="corpo">
 <p>Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 18, de 2021, adotada pelo relator da Comissão de Saúde, ressalvado o destaque. <span class="placar">Sim: 348; Não: 100; Abstenção: 1; Total: 449.</span></p>
@@ -83,15 +92,6 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 <p>Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.357, de 2023, adotada pelo relator da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, ressalvados os destaques. <span class="placar">Sim: 287; Não: 113; Total: 400.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2386051-93">Ver votação na fonte oficial</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia">
-<span class="data">2025-11-04</span>
-<div class="corpo">
-<p>Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 8.889, de 2017, adotada pelo relator da Comissão Especial, ressalvados os destaques. <span class="placar">Sim: 330; Não: 118; Abstenção: 3; Total: 451.</span></p>
-<p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2157806-137">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
@@ -130,14 +130,14 @@ Acima é amostra, e diz que é. A decomposição completa — **todas** as
 votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
-- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 274 votações
+- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 277 votações
 - [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 238 votações
-- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 326 votações
+- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 330 votações
 - [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 302 votações
 
 ## O que disse em plenário
 
-São **123 discursos** coletados no período, dos quais **96 substantivos** — os outros 27 são
+São **126 discursos** coletados no período, dos quais **99 substantivos** — os outros 27 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,33 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-13144">
+<span class="data">2026-08-12 · 19:00</span>
+<div class="corpo">
+<p class="tipo">PARECER</p>
+<p>O Deputado apresentou parecer pela rejeição da Emenda de Plenário nº 1 ao Projeto de Lei Complementar nº 80, de 2026, que prorroga a isenção do AFRMM para garantir a manutenção da Marinha Mercante e dar segurança à indústria salineira do Rio Grande do Norte, por falta de pertinência temática com o objeto da proposição, nos termos da Lei Complementar nº 95, de 1998. Além disso, registrou, nas Comissões de Integração Nacional e Desenvolvimento Regional e de Viação e Transportes, a rejeição da emenda; na Comissão de Finanças e Tributação, a adequação financeira e orçamentária, mas a rejeição no mérito; e, na Comissão de Constituição e Justiça e de Cidadania, a constitucionalidade, a injuridicidade e a má técnica legislativa da proposta.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178964/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-13143">
+<span class="data">2026-08-12 · 18:40</span>
+<div class="corpo">
+<p class="tipo">PARECER</p>
+<p>O Deputado apresentou parecer favorável ao Projeto de Lei Complementar nº 80, de 2026, que altera a Lei nº 14.301, de 7 de janeiro de 2022, para prorrogar o prazo de vigência da não incidência do Adicional ao Frete para Renovação da Marinha Mercante (AFRMM) prevista no art. 17 da Lei nº 9.432, de 8 de janeiro de 1997, nas navegações de cabotagem, interior fluvial e lacustre, desde que a origem ou o destino seja porto localizado na Região Norte ou Nordeste do País. Defendeu a medida como instrumento de desenvolvimento regional, redução de custos logísticos e preservação da competitividade econômica.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178964/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-13142">
+<span class="data">2026-08-11 · 16:44</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado alertou que os agricultores estão enfrentando dificuldades para atender aos critérios da Medida Provisória (MPV) nº 1.376, de 2026, destinada à renegociação de dívidas rurais, o que pode restringir o acesso ao crédito e resultar em sobra de recursos do Plano Safra. Além disso, solicitou ao Ministro da Fazenda a revisão e a ampliação do alcance da MPV, a fim de permitir o enquadramento de maior número de produtores. Por fim, requereu a publicação, nos Anais da Câmara dos Deputados, de documento elaborado pela Federação dos Trabalhadores na Agricultura no Rio Grande do Sul — Fetag-RS com propostas para ampliar o acesso dos agricultores ao crédito e viabilizar a próxima safra.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178964/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-2629">
 <span class="data">2026-07-01 · 15:24</span>
@@ -165,38 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2626">
-<span class="data">2026-06-16 · 15:08</span>
-<div class="corpo">
-<p class="tipo">BREVES COMUNICAÇÕES</p>
-<p>O Deputado registrou a presença do Vereador Beto Lemos e de Bruno Passos, de Taquara, no Rio Grande do Sul, e elogiou o projeto Conexão Mulher, realizado em Santa Cruz do Sul. Além disso, destacou a formatura de 48 agricultoras familiares em temas como liderança feminina, cooperativismo, educação financeira, comunicação e políticas públicas, ressaltando o fortalecimento pessoal, comunitário e associativo promovido pela iniciativa. Por fim, parabenizou as entidades envolvidas e homenageou as mulheres formandas.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178964/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-2625">
-<span class="data">2026-06-09 · 14:00</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado manifestou expectativa com a decisão do Senado de pautar a votação da securitização das dívidas do setor agrícola, diante dos impactos das secas, enchentes e demais calamidades sobre os produtores. Recordou que a Câmara dos Deputados aprovou a proposta há quase um ano e questionou a demora na análise pelo Senado. Também afirmou que a votação da matéria não poderia ser adiada e defendeu mobilização junto aos Senadores para garantir a apreciação do projeto ainda naquela semana.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178964/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-2624">
-<span class="data">2026-05-26 · 14:04</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado saudou o Presidente da Federação dos Trabalhadores na Agricultura no Rio Grande do Sul (Fetag-RS), Eugênio Zanetti, presente em Brasília pela quinta semana consecutiva para acompanhar as negociações sobre a securitização das dívidas de agricultores gaúchos afetados por catástrofes climáticas. Parabenizou, ainda, a mobilização de trabalhadores da cadeia produtiva do tabaco realizada em Santa Cruz do Sul (RS). Por fim, manifestou preocupação com a queda do preço do leite ao produtor em plena entressafra, período em que deveria haver recuperação de preços, e alertou que a repetição do cenário vivido no ano anterior — com 11 meses consecutivos de baixa — compromete a permanência dos agricultores na atividade, a sucessão rural e o pagamento de financiamentos.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=27%2F5%2F2026&amp;txPagina=42&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>14</b></span> | 12 |
+| [2026](discursos/2026/) | <span class="n"><b>17</b></span> | 15 |
 | [2025](discursos/2025/) | <span class="n"><b>27</b></span> | 25 |
 | [2024](discursos/2024/) | <span class="n"><b>49</b></span> | 28 |
 | [2023](discursos/2023/) | <span class="n"><b>33</b></span> | 31 |

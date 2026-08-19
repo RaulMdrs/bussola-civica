@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Pompeo de Mattos — Alinhamento com o governo federal, Mérito"
-description: "A decomposição completa: todas as 371 votações que compõem o número de Pompeo de Mattos, uma por linha, com link para a fonte."
+description: "A decomposição completa: todas as 374 votações que compõem o número de Pompeo de Mattos, uma por linha, com link para a fonte."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa: todas as 371 votações que compõem o 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>84,6%</b> é <b>314</b> coincidências em
-<b>371</b> votações computáveis — as outras 57 estão
+<p><b>84,5%</b> é <b>316</b> coincidências em
+<b>374</b> votações computáveis — as outras 58 estão
 aqui também. Esta página não é amostra: é a decomposição completa do
 número, e some ou cresce junto com ele.</p>
 </div>
@@ -23,6 +23,9 @@ número, e some ou cresce junto com ele.</p>
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 2026-08-12 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. Sim: 333; Não: 91; Total: 424. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2580259-24](https://dadosabertos.camara.leg.br/api/v2/votacoes/2580259-24) |
+| 2026-08-12 | Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. Sim: 318; Não: 113; Abstenção: 1; Total: 432. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2618177-71](https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-71) |
+| 2026-08-12 | Rejeitada a Emenda de Plenário nº 1. Sim: 105; Não: 233; Total: 338. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2618177-82](https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-82) |
 | 2026-07-14 | Rejeitada a Emenda de Plenário nº 2. Sim: 134; Não: 285; Abstenção: 2; Total: 421. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2638483-34](https://dadosabertos.camara.leg.br/api/v2/votacoes/2638483-34) |
 | 2026-07-07 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 41, de 2026, adotado pela relatora da Comissão de Defesa dos Direitos da Mulher. Sim: 470; Não: 1; Total: 471. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2606313-36](https://dadosabertos.camara.leg.br/api/v2/votacoes/2606313-36) |
 | 2026-06-17 | Rejeitada a Emenda n° 102. Sim: 22; Não: 378; Abstenção: 1; Total: 401. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2610975-23](https://dadosabertos.camara.leg.br/api/v2/votacoes/2610975-23) |

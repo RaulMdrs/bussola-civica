@@ -7,7 +7,7 @@ description: "Os discursos de Paulo Pimenta em 2026, com o sumário oficial e li
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Paulo Pimenta</a></b> · PT · 10 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Paulo Pimenta</a></b> · PT · 11 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a></p>
 
@@ -16,7 +16,16 @@ description: "Os discursos de Paulo Pimenta em 2026, com o sumário oficial e li
 > neste site: o link de cada discurso leva ao **Diário da Câmara**
 > , onde ele está publicado, ou à **API** quando a origem não o publicou no Diário.
 
-## Substantivos — 9
+## Substantivos — 10
+
+<blockquote class="evidencia discurso" id="d-13152">
+<span class="data">2026-08-12 · 17:12</span>
+<div class="corpo">
+<p class="tipo">COMO LÍDER</p>
+<p>O Deputado informou que tem acompanhado, junto ao Ministério da Fazenda e a representantes do setor agropecuário, a implementação da Medida Provisória (MPV) nº 1.376, de 2026, que autoriza a criação de linhas de crédito para composição de dívidas para liquidação ou amortização de operações de crédito rural e de Cédulas de Produto Rural e autoriza a participação da União em fundo garantidor destinado à cobertura de operações de crédito rural contratadas por produtores rurais afetados por eventos climáticos adversos. Além disso, comunicou sua indicação como Relator da matéria na Comissão Mista e criticou as dificuldades impostas pelos bancos à renegociação das dívidas pelos produtores rurais. Ademais, defendeu a redução da taxa de juros e alertou para a situação dos agricultores do Rio Grande do Sul, atingidos por sucessivas estiagens e enchentes. Por fim, destacou que acompanhará a aplicação da MPV para assegurar a renegociação das dívidas, com carência, alongamento dos prazos, juros mais baixos e flexibilização das garantias.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74400/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-5850">
 <span class="data">2026-05-27 · 22:20</span>

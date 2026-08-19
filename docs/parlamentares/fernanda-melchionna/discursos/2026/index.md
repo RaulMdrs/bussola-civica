@@ -7,7 +7,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário oficia
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Fernanda Melchionna</a></b> · PSOL · 41 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Fernanda Melchionna</a></b> · PSOL · 44 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
@@ -16,7 +16,34 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário oficia
 > neste site: o link de cada discurso leva ao **Diário da Câmara**
 > , onde ele está publicado, ou à **API** quando a origem não o publicou no Diário.
 
-## Substantivos — 33
+## Substantivos — 36
+
+<blockquote class="evidencia discurso" id="d-13148">
+<span class="data">2026-08-12 · 16:48</span>
+<div class="corpo">
+<p class="tipo">DISCUSSÃO</p>
+<p>A Deputada discutiu o Projeto de Lei Complementar nº 114, de 2026, que dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio. Além disso, afirmou que o projeto sobre combustíveis surgiu em meio à alta dos preços e à manutenção da privatização do refino e da distribuição. Contudo, criticou a inclusão de “jabutis” de ajuste fiscal, apontou restrições ao investimento público e sustentou que a retirada da receita do petróleo da receita corrente líquida atacou os pisos da saúde e da educação, afetando Universidades, Institutos Federais e o SUS.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204407/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-13147">
+<span class="data">2026-08-12 · 16:12</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada registrou voto pela retirada de trechos incluídos de última hora no Projeto de Lei Complementar nº 114, de 2026, que dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio. Além disso, defendeu a revogação da Lei da Alienação Parental, citando o caso do menino Gustavo como exemplo de violência contra crianças e revitimização de mulheres, e pediu diálogo com a Presidência para enfrentar recurso regimental e proteger crianças e mulheres brasileiras.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204407/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-13146">
+<span class="data">2026-08-11 · 18:28</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>A Deputada criticou o uso da Lei da Alienação Parental em casos envolvendo mulheres vítimas de violência e crianças. Ao comentar o assassinato de Gustavo, de 3 anos, afirmou que a legislação poderia contribuir para a revitimização de mulheres e crianças e defendeu a aprovação de projeto que propôs sua revogação. Também criticou recurso apresentado contra a proposta aprovada na Comissão de Constituição e Justiça e defendeu sua tramitação. Ao final, pediu a inclusão, na pauta, do projeto que criminalizava a misoginia.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204407/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-3828">
 <span class="data">2026-07-14 · 18:20</span>

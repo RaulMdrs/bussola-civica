@@ -18,9 +18,9 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">83,4%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">355 <span>votações computáveis</span></span><span class="n-detalhe">571 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">83,3%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">359 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
 | <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">87,7%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">300 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">98,0%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">452 <span>votações computáveis</span></span><span class="n-detalhe">571 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">98,0%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">457 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
 | <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">98,0%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">402 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
@@ -48,12 +48,12 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">90,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>22</b></span> |
 | [Saúde](../../temas/saude/) | <span class="valor">88,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>26</b></span> |
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">88,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>17</b></span> <span class="aviso-n">amostra pequena</span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">85,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>109</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">85,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>110</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">82,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>45</b></span> |
-| [Economia](../../temas/economia/) | <span class="valor">81,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>49</b></span> |
+| [Economia](../../temas/economia/) | <span class="valor">80,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>52</b></span> |
 | [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | <span class="valor">80,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>26</b></span> |
 | [Indústria, Comércio e Serviços](../../temas/industria-comercio-e-servicos/) | <span class="valor">78,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>19</b></span> <span class="aviso-n">amostra pequena</span> |
-| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">76,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>153</b></span> |
+| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">76,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>157</b></span> |
 {: .t-temas}
 
 <span class="aviso-n">amostra pequena</span> marca temas com menos de
@@ -67,6 +67,15 @@ referência de cada eixo. As descrições são o texto original da fonte
 oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
+
+<blockquote class="evidencia">
+<span class="data">2026-08-12</span>
+<div class="corpo">
+<p>Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. <span class="placar">Sim: 318; Não: 113; Abstenção: 1; Total: 432.</span></p>
+<p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-71">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia">
 <span class="data">2026-07-14</span>
@@ -83,15 +92,6 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 <p>Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à Constituição nº 18, de 2025, adotado pelo relator da Comissão Especial. <span class="placar">Sim: 487; Não: 15; Abstenção: 1; Total: 503.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2500080-320">Ver votação na fonte oficial</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia">
-<span class="data">2026-03-04</span>
-<div class="corpo">
-<p>Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 18, de 2025. <span class="placar">Sim: 461; Não: 14; Total: 475.</span></p>
-<p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2500080-330">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
@@ -130,14 +130,14 @@ Acima é amostra, e diz que é. A decomposição completa — **todas** as
 votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
-- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 355 votações
+- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 359 votações
 - [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 300 votações
-- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 452 votações
+- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 457 votações
 - [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 402 votações
 
 ## O que disse em plenário
 
-São **297 discursos** coletados no período, dos quais **247 substantivos** — os outros 50 são
+São **300 discursos** coletados no período, dos quais **250 substantivos** — os outros 50 são
 orientação de bancada, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,33 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-13148">
+<span class="data">2026-08-12 · 16:48</span>
+<div class="corpo">
+<p class="tipo">DISCUSSÃO</p>
+<p>A Deputada discutiu o Projeto de Lei Complementar nº 114, de 2026, que dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio. Além disso, afirmou que o projeto sobre combustíveis surgiu em meio à alta dos preços e à manutenção da privatização do refino e da distribuição. Contudo, criticou a inclusão de “jabutis” de ajuste fiscal, apontou restrições ao investimento público e sustentou que a retirada da receita do petróleo da receita corrente líquida atacou os pisos da saúde e da educação, afetando Universidades, Institutos Federais e o SUS.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204407/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-13147">
+<span class="data">2026-08-12 · 16:12</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada registrou voto pela retirada de trechos incluídos de última hora no Projeto de Lei Complementar nº 114, de 2026, que dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio. Além disso, defendeu a revogação da Lei da Alienação Parental, citando o caso do menino Gustavo como exemplo de violência contra crianças e revitimização de mulheres, e pediu diálogo com a Presidência para enfrentar recurso regimental e proteger crianças e mulheres brasileiras.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204407/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-13146">
+<span class="data">2026-08-11 · 18:28</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>A Deputada criticou o uso da Lei da Alienação Parental em casos envolvendo mulheres vítimas de violência e crianças. Ao comentar o assassinato de Gustavo, de 3 anos, afirmou que a legislação poderia contribuir para a revitimização de mulheres e crianças e defendeu a aprovação de projeto que propôs sua revogação. Também criticou recurso apresentado contra a proposta aprovada na Comissão de Constituição e Justiça e defendeu sua tramitação. Ao final, pediu a inclusão, na pauta, do projeto que criminalizava a misoginia.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204407/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-3828">
 <span class="data">2026-07-14 · 18:20</span>
@@ -165,38 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3826">
-<span class="data">2026-05-27 · 20:40</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>A Deputada orientou a bancada na votação do requerimento de encerramento da discussão da Proposta de Emenda à Constituição (PEC) nº 221, de 2019, que reduz a jornada de trabalho e extingue a escala 6 por 1. Ademais, criticou o Partido Liberal (PL) por obstruir a tramitação da matéria na Comissão de Constituição e Justiça e de Cidadania (CCJC), na Comissão Especial e no Plenário. Além disso, recriminou a legenda por apoiar emenda que previa transição de 10 anos e jornada de até 52 horas semanais, além de defender reformas previdenciária e trabalhista contrárias aos interesses da classe trabalhadora.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=28%2F7%2F2026&amp;txPagina=218&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-3825">
-<span class="data">2026-05-20 · 19:28</span>
-<div class="corpo">
-<p class="tipo">DISCUSSÃO</p>
-<p>A Deputada discutiu o Projeto de Lei nº 2.564, de 2025, que altera a Lei nº 9.605, de 12 de fevereiro de 1998 (Lei dos Crimes Ambientais), para regular a aplicação de medidas administrativas cautelares e para dispor sobre a garantia à ampla defesa e ao contraditório.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=21%2F5%2F2026&amp;txPagina=211&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-3824">
-<span class="data">2026-05-20 · 18:16</span>
-<div class="corpo">
-<p class="tipo">DISCUSSÃO</p>
-<p>A Deputada discutiu o Projeto de Lei nº 2.486, de 2026, que altera os limites da Floresta Nacional do Jamanxim e cria a Área de Proteção Ambiental do Jamanxim, localizadas no Município de Novo Progresso, Estado do Pará.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=21%2F5%2F2026&amp;txPagina=174&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>41</b></span> | 33 |
+| [2026](discursos/2026/) | <span class="n"><b>44</b></span> | 36 |
 | [2025](discursos/2025/) | <span class="n"><b>83</b></span> | 74 |
 | [2024](discursos/2024/) | <span class="n"><b>60</b></span> | 46 |
 | [2023](discursos/2023/) | <span class="n"><b>113</b></span> | 94 |

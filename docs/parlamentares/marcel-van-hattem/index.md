@@ -18,9 +18,9 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">27,8%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">399 <span>votações computáveis</span></span><span class="n-detalhe">571 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">27,8%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">403 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
 | <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">12,5%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">344 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">99,2%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">507 <span>votações computáveis</span></span><span class="n-detalhe">571 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">99,2%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">512 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
 | <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">99,8%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">461 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
@@ -45,12 +45,12 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | <span class="valor">39,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>28</b></span> |
 | [Saúde](../../temas/saude/) | <span class="valor">34,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>26</b></span> |
 | [Indústria, Comércio e Serviços](../../temas/industria-comercio-e-servicos/) | <span class="valor">34,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>26</b></span> |
-| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">32,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>190</b></span> |
-| [Economia](../../temas/economia/) | <span class="valor">31,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>61</b></span> |
+| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">32,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>194</b></span> |
+| [Economia](../../temas/economia/) | <span class="valor">29,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>64</b></span> |
 | [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">28,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>32</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">26,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>46</b></span> |
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">25,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>16</b></span> <span class="aviso-n">amostra pequena</span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">22,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>123</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">23,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>124</b></span> |
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">20,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>20</b></span> |
 | [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">14,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>43</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">12,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>25</b></span> |
@@ -69,29 +69,29 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-06-17</span>
+<span class="data">2026-08-12</span>
 <div class="corpo">
-<p>Mantido o texto. <span class="placar">Sim: 285; Não: 106; Abstenção: 1; Total: 392.</span></p>
+<p>Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. <span class="placar">Sim: 318; Não: 113; Abstenção: 1; Total: 432.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/947810-85">Ver votação na fonte oficial</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-71">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-06-17</span>
+<span class="data">2026-08-12</span>
 <div class="corpo">
-<p>Rejeitada a Emenda n° 102. <span class="placar">Sim: 22; Não: 378; Abstenção: 1; Total: 401.</span></p>
+<p>Rejeitadas as Emendas de Plenário. <span class="placar">Sim: 108; Não: 275; Abstenção: 1; Total: 384.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2610975-23">Ver votação na fonte oficial</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-73">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-06-16</span>
+<span class="data">2026-08-12</span>
 <div class="corpo">
-<p>Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 337, de 2017, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania. <span class="placar">Sim: 417; Não: 19; Total: 436.</span></p>
-<p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2122125-115">Ver votação na fonte oficial</a>
+<p>Rejeitada a Emenda de Plenário nº 1. <span class="placar">Sim: 105; Não: 233; Total: 338.</span></p>
+<p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-82">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
@@ -130,14 +130,14 @@ Acima é amostra, e diz que é. A decomposição completa — **todas** as
 votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
-- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 399 votações
+- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 403 votações
 - [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 344 votações
-- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 507 votações
+- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 512 votações
 - [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 461 votações
 
 ## O que disse em plenário
 
-São **981 discursos** coletados no período, dos quais **783 substantivos** — os outros 198 são
+São **984 discursos** coletados no período, dos quais **786 substantivos** — os outros 198 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,33 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-13140">
+<span class="data">2026-08-11 · 19:52</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado relatou que Carlos Lupi, ex-Ministro da Previdência, apresentou uma queixa-crime contra o Parlamentar no Supremo Tribunal Federal (STF) em razão de declarações sobre o esquema de descontos indevidos em benefícios do Instituto Nacional do Seguro Social (INSS). Afirmou que, durante a Comissão Parlamentar de Inquérito (CPI) do INSS, responsabilizou Lupi pelo crescimento das irregularidades durante a gestão no Ministério e reiterou críticas à atuação do ex-Ministro diante do caso. Por fim, contestou a iniciativa judicial e defendeu a prerrogativa parlamentar de apontar possíveis irregularidades investigadas pelo Congresso.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-13139">
+<span class="data">2026-08-11 · 19:36</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado criticou decisão do Supremo Tribunal Federal (STF) que restringiu a aplicação da lei que extinguiu as saídas temporárias aos crimes cometidos após a mudança legislativa. Nesse contexto, citou o caso de Leonardo Ferreira de Almeida, condenado por estupros e homicídios, que teria cometido novos crimes durante uma saída temporária. Além disso, lembrou que o Congresso derrubou o veto presidencial à medida e responsabilizou o STF pelas consequências da decisão. Por fim, defendeu o cumprimento da determinação aprovada pelo Congresso Nacional para o fim das saídas temporárias.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-13138">
+<span class="data">2026-08-11 · 19:24</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado defendeu a importância da eleição para o Senado e a abertura de processos de impeachment contra Ministros do Supremo Tribunal Federal (STF), ao apontar supostos abusos de autoridade e ilegalidades. Nesse contexto, criticou decisão do Ministro Alexandre de Moraes que determinou busca e apreensão contra a fonte e o advogado de um jornalista do Maranhão. Além disso, questionou a atuação da imprensa e da Ordem dos Advogados do Brasil (OAB) diante desses episódios e manifestou solidariedade aos jornalistas. Por fim, afirmou que caberia ao Senado exercer as prerrogativas constitucionais para conter o que classificou como abusos cometidos por integrantes do STF.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-1180">
 <span class="data">2026-07-15 · 15:24</span>
@@ -165,38 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1178">
-<span class="data">2026-07-14 · 16:24</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado criticou a Esquerda por priorizar o Projeto de Lei nº 896, de 2023, que tipifica o crime de misoginia, alegando que o objetivo real seria desviar o foco dos gastos da Primeira-dama Rosângela Silva. Além disso, ressaltou a postura dos partidos esquerdistas contra medidas de endurecimento penal. Citou como exemplos o voto contrário ao aumento do tempo mínimo para progressão de regime em crimes hediondos, à castração química de pedófilos e à ampliação do tempo de internação de adolescentes autores de estupro.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-1177">
-<span class="data">2026-07-08 · 18:48</span>
-<div class="corpo">
-<p class="tipo">COMO LÍDER</p>
-<p>O Deputado afirmou que o INSS teria sido usado para fazer campanha ao Presidente Lula por meio de grupo de WhatsApp administrado por servidora da autarquia, e informou que levaria representação ao Tribunal de Contas da União contra o aparelhamento do Estado pelo PT. Além disso, criticou documento do Ministro Mauro Vieira sobre PCC e Comando Vermelho, defendeu a classificação dessas facções como terroristas na lei nacional e apontou contradições da Polícia Federal e do Governo Lula no enfrentamento ao crime organizado.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-1176">
-<span class="data">2026-07-08 · 18:28</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado lamentou o veto do Governador Eduardo Leite à proposta aprovada por unanimidade pela Assembleia Legislativa do Rio Grande do Sul que extinguia a taxa de licenciamento veicular, criada para custear impressão e envio de documento que, desde 2019, passou a ser digital. Além disso, contestou o argumento de perda de receita para a segurança pública, defendeu a derrubada do veto e afirmou que, sem serviço prestado, não haveria justificativa para manter a cobrança ao cidadão gaúcho.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>94</b></span> | 70 |
+| [2026](discursos/2026/) | <span class="n"><b>97</b></span> | 73 |
 | [2025](discursos/2025/) | <span class="n"><b>272</b></span> | 226 |
 | [2024](discursos/2024/) | <span class="n"><b>248</b></span> | 180 |
 | [2023](discursos/2023/) | <span class="n"><b>367</b></span> | 307 |

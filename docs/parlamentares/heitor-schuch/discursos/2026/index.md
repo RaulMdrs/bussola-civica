@@ -7,7 +7,7 @@ description: "Os discursos de Heitor Schuch em 2026, com o sumário oficial e li
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Heitor Schuch</a></b> · PSD · 14 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Heitor Schuch</a></b> · PSD · 17 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
@@ -16,7 +16,34 @@ description: "Os discursos de Heitor Schuch em 2026, com o sumário oficial e li
 > neste site: o link de cada discurso leva ao **Diário da Câmara**
 > , onde ele está publicado, ou à **API** quando a origem não o publicou no Diário.
 
-## Substantivos — 12
+## Substantivos — 15
+
+<blockquote class="evidencia discurso" id="d-13144">
+<span class="data">2026-08-12 · 19:00</span>
+<div class="corpo">
+<p class="tipo">PARECER</p>
+<p>O Deputado apresentou parecer pela rejeição da Emenda de Plenário nº 1 ao Projeto de Lei Complementar nº 80, de 2026, que prorroga a isenção do AFRMM para garantir a manutenção da Marinha Mercante e dar segurança à indústria salineira do Rio Grande do Norte, por falta de pertinência temática com o objeto da proposição, nos termos da Lei Complementar nº 95, de 1998. Além disso, registrou, nas Comissões de Integração Nacional e Desenvolvimento Regional e de Viação e Transportes, a rejeição da emenda; na Comissão de Finanças e Tributação, a adequação financeira e orçamentária, mas a rejeição no mérito; e, na Comissão de Constituição e Justiça e de Cidadania, a constitucionalidade, a injuridicidade e a má técnica legislativa da proposta.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178964/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-13143">
+<span class="data">2026-08-12 · 18:40</span>
+<div class="corpo">
+<p class="tipo">PARECER</p>
+<p>O Deputado apresentou parecer favorável ao Projeto de Lei Complementar nº 80, de 2026, que altera a Lei nº 14.301, de 7 de janeiro de 2022, para prorrogar o prazo de vigência da não incidência do Adicional ao Frete para Renovação da Marinha Mercante (AFRMM) prevista no art. 17 da Lei nº 9.432, de 8 de janeiro de 1997, nas navegações de cabotagem, interior fluvial e lacustre, desde que a origem ou o destino seja porto localizado na Região Norte ou Nordeste do País. Defendeu a medida como instrumento de desenvolvimento regional, redução de custos logísticos e preservação da competitividade econômica.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178964/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-13142">
+<span class="data">2026-08-11 · 16:44</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado alertou que os agricultores estão enfrentando dificuldades para atender aos critérios da Medida Provisória (MPV) nº 1.376, de 2026, destinada à renegociação de dívidas rurais, o que pode restringir o acesso ao crédito e resultar em sobra de recursos do Plano Safra. Além disso, solicitou ao Ministro da Fazenda a revisão e a ampliação do alcance da MPV, a fim de permitir o enquadramento de maior número de produtores. Por fim, requereu a publicação, nos Anais da Câmara dos Deputados, de documento elaborado pela Federação dos Trabalhadores na Agricultura no Rio Grande do Sul — Fetag-RS com propostas para ampliar o acesso dos agricultores ao crédito e viabilizar a próxima safra.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178964/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-2629">
 <span class="data">2026-07-01 · 15:24</span>

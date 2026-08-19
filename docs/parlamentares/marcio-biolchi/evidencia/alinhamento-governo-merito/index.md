@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Márcio Biolchi — Alinhamento com o governo federal, Mérito"
-description: "A decomposição completa: todas as 312 votações que compõem o número de Márcio Biolchi, uma por linha, com link para a fonte."
+description: "A decomposição completa: todas as 315 votações que compõem o número de Márcio Biolchi, uma por linha, com link para a fonte."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa: todas as 312 votações que compõem o 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>83,0%</b> é <b>259</b> coincidências em
-<b>312</b> votações computáveis — as outras 53 estão
+<p><b>83,2%</b> é <b>262</b> coincidências em
+<b>315</b> votações computáveis — as outras 53 estão
 aqui também. Esta página não é amostra: é a decomposição completa do
 número, e some ou cresce junto com ele.</p>
 </div>
@@ -23,6 +23,9 @@ número, e some ou cresce junto com ele.</p>
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 2026-08-12 | Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. Sim: 318; Não: 113; Abstenção: 1; Total: 432. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2618177-71](https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-71) |
+| 2026-08-12 | Rejeitadas as Emendas de Plenário. Sim: 108; Não: 275; Abstenção: 1; Total: 384. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2618177-73](https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-73) |
+| 2026-08-12 | Rejeitada a Emenda de Plenário nº 1. Sim: 105; Não: 233; Total: 338. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2618177-82](https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-82) |
 | 2026-07-07 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 41, de 2026, adotado pela relatora da Comissão de Defesa dos Direitos da Mulher. Sim: 470; Não: 1; Total: 471. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2606313-36](https://dadosabertos.camara.leg.br/api/v2/votacoes/2606313-36) |
 | 2026-06-17 | Mantido o texto. Sim: 285; Não: 106; Abstenção: 1; Total: 392. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [947810-85](https://dadosabertos.camara.leg.br/api/v2/votacoes/947810-85) |
 | 2026-06-16 | Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 337, de 2017, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 417; Não: 19; Total: 436. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2122125-115](https://dadosabertos.camara.leg.br/api/v2/votacoes/2122125-115) |

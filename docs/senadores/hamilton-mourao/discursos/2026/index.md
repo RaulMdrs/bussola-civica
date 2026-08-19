@@ -16,7 +16,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 > neste site: o link de cada discurso leva à página oficial do
 > **pronunciamento**, onde ele está publicado.
 
-## Substantivos — 14
+## Substantivos — 16
 
 <blockquote class="evidencia discurso" id="d-11898">
 <span class="data">2026-07-07</span>
@@ -135,32 +135,21 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11912">
-<span class="data">2026-03-10</span>
-<div class="corpo">
-<p class="tipo">Discurso</p>
-<p>Alerta para a deterioração da ordem internacional e para a necessidade de fortalecer a soberania e a capacidade militar do Brasil, em especial por meio da valorização das Forças Armadas.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/520493">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-## Classificados como protocolares — 2
-
-<div class="ausencia">
-<h4>Fora do perfil, dentro do acervo</h4>
-<p>Estes discursos não entram na seção do perfil porque são ato de
-procedimento, não posição: <b>orientação de bancada</b> (que já está
-estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
-<b>registro de presença</b>. A classificação separa; ela não exclui — por
-isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
-</div>
-
 <blockquote class="evidencia discurso" id="d-11911">
 <span class="data">2026-03-25</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
 <p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 6, de 2024, que &quot;Dispõe sobre normas gerais aplicáveis ao desmembramento de Municípios, nos termos do § 4º do art. 18 da Constituição Federal.&quot;</p>
 <a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/520974">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11912">
+<span class="data">2026-03-10</span>
+<div class="corpo">
+<p class="tipo">Discurso</p>
+<p>Alerta para a deterioração da ordem internacional e para a necessidade de fortalecer a soberania e a capacidade militar do Brasil, em especial por meio da valorização das Forças Armadas.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/520493">Ver o pronunciamento no Senado</a>
 </div>
 </blockquote>
 

@@ -16,7 +16,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 > neste site: o link de cada discurso leva à página oficial do
 > **pronunciamento**, onde ele está publicado.
 
-## Substantivos — 135
+## Substantivos — 138
 
 <blockquote class="evidencia discurso" id="d-12082">
 <span class="data">2024-12-18</span>
@@ -159,6 +159,15 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 <p class="tipo">Discurso</p>
 <p>Preocupação com denúncias feitas por entidades sindicais de que a Eletrobras, após a privatização, tem demitido trabalhadores sem justa causa. Comentários sobre a aprovação, na CAS, do Projeto de Lei nº 1791/2019, que dispõe sobre o aproveitamento de empregados das empresas públicas do setor elétrico federal desestatizadas pelo Programa Nacional de Desestatização.</p>
 <a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/510395">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-12099">
+<span class="data">2024-11-27</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido PT, sobre o Projeto de Lei Complementar (PLP) n° 153, de 2024, que &quot;Dispõe sobre a transposição e a transferência de saldos financeiros de exercícios passados resultantes de repasses do Fundo Nacional de Desenvolvimento da Educação (FNDE) para os Estados, o Distrito Federal e os Municípios.&quot;</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/510418">Ver o pronunciamento no Senado</a>
 </div>
 </blockquote>
 
@@ -559,6 +568,15 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
+<blockquote class="evidencia discurso" id="d-12140">
+<span class="data">2024-08-13</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido PT, sobre o destaque para votação em separado constante do Requerimento nº 560, de 2024, (Requer, pela Liderança do PSD, destaque para votação em separado do §5º do art. 29 do Substitutivo da Câmara dos Deputados n° 6, de 2016, ao Projeto de Lei do Senado nº 135, de 2010 (SCD 6/2016).) ao Substitutivo da Câmara dos Deputados (SCD) n° 6, de 2016, ao Projeto de Lei do Senado nº 135, de 2010, que &quot;Institui o Estatuto da Segurança Privada e da Segurança das Instituições Financeiras; altera as Leis nºs 10.826, de 22 de dezembro de 2003, 10.446, de 8 de maio de 2002, 10.637, de 30 de dezembro de 2002, 10.833, de 29 de dezembro de 2003, e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal; revoga as Leis nºs 7.102, de 20 de junho de 1983, e 8.863, de 28 de março de 1994, e dispositivos das Leis nºs 11.718, de 20 de junho de 2008, e 9.017, de 30 de março de 1995, e da Medida Provisória nº 2.184-23, de 24 de agosto de 2001; e dá outras providências&quot;.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/508308">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
 <blockquote class="evidencia discurso" id="d-12145">
 <span class="data">2024-08-12</span>
 <div class="corpo">
@@ -862,6 +880,15 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 <p class="tipo">Discussão</p>
 <p>Discussão sobre o Projeto de Lei (PL) n° 1958, de 2021, que &quot;Reserva aos negros 20% (vinte por cento) das vagas oferecidas nos concursos públicos para provimento de cargos efetivos e empregos públicos no âmbito da administração pública federal, das autarquias, das fundações públicas, das empresas públicas e das sociedades de economia mista controladas pela União&quot;.</p>
 <a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/506199">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-12177">
+<span class="data">2024-05-22</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido PT, sobre a preferência constante do Requerimento nº 369, de 2024, (Requer preferência para a votação da Emenda Substitutiva n° 23 em relação ao Substitutivo da CCJ.) ao Projeto de Lei (PL) n° 1958, de 2021, que &quot;Reserva aos negros 20% (vinte por cento) das vagas oferecidas nos concursos públicos para provimento de cargos efetivos e empregos públicos no âmbito da administração pública federal, das autarquias, das fundações públicas, das empresas públicas e das sociedades de economia mista controladas pela União.&quot;</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/506204">Ver o pronunciamento no Senado</a>
 </div>
 </blockquote>
 
@@ -1231,44 +1258,6 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 <p class="tipo">Discurso</p>
 <p>Aplausos à trajetória política do Senador e futuro Ministro do STF, Flávio Dino.</p>
 <a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/503747">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-## Classificados como protocolares — 3
-
-<div class="ausencia">
-<h4>Fora do perfil, dentro do acervo</h4>
-<p>Estes discursos não entram na seção do perfil porque são ato de
-procedimento, não posição: <b>orientação de bancada</b> (que já está
-estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
-<b>registro de presença</b>. A classificação separa; ela não exclui — por
-isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
-</div>
-
-<blockquote class="evidencia discurso" id="d-12099">
-<span class="data">2024-11-27</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido PT, sobre o Projeto de Lei Complementar (PLP) n° 153, de 2024, que &quot;Dispõe sobre a transposição e a transferência de saldos financeiros de exercícios passados resultantes de repasses do Fundo Nacional de Desenvolvimento da Educação (FNDE) para os Estados, o Distrito Federal e os Municípios.&quot;</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/510418">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-12140">
-<span class="data">2024-08-13</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido PT, sobre o destaque para votação em separado constante do Requerimento nº 560, de 2024, (Requer, pela Liderança do PSD, destaque para votação em separado do §5º do art. 29 do Substitutivo da Câmara dos Deputados n° 6, de 2016, ao Projeto de Lei do Senado nº 135, de 2010 (SCD 6/2016).) ao Substitutivo da Câmara dos Deputados (SCD) n° 6, de 2016, ao Projeto de Lei do Senado nº 135, de 2010, que &quot;Institui o Estatuto da Segurança Privada e da Segurança das Instituições Financeiras; altera as Leis nºs 10.826, de 22 de dezembro de 2003, 10.446, de 8 de maio de 2002, 10.637, de 30 de dezembro de 2002, 10.833, de 29 de dezembro de 2003, e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal; revoga as Leis nºs 7.102, de 20 de junho de 1983, e 8.863, de 28 de março de 1994, e dispositivos das Leis nºs 11.718, de 20 de junho de 2008, e 9.017, de 30 de março de 1995, e da Medida Provisória nº 2.184-23, de 24 de agosto de 2001; e dá outras providências&quot;.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/508308">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-12177">
-<span class="data">2024-05-22</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido PT, sobre a preferência constante do Requerimento nº 369, de 2024, (Requer preferência para a votação da Emenda Substitutiva n° 23 em relação ao Substitutivo da CCJ.) ao Projeto de Lei (PL) n° 1958, de 2021, que &quot;Reserva aos negros 20% (vinte por cento) das vagas oferecidas nos concursos públicos para provimento de cargos efetivos e empregos públicos no âmbito da administração pública federal, das autarquias, das fundações públicas, das empresas públicas e das sociedades de economia mista controladas pela União.&quot;</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/506204">Ver o pronunciamento no Senado</a>
 </div>
 </blockquote>
 

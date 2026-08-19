@@ -7,7 +7,7 @@ description: "Os discursos de Afonso Hamm em 2026, com o sumário oficial e link
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Afonso Hamm</a></b> · PP · 12 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Afonso Hamm</a></b> · PP · 13 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
@@ -16,7 +16,16 @@ description: "Os discursos de Afonso Hamm em 2026, com o sumário oficial e link
 > neste site: o link de cada discurso leva ao **Diário da Câmara**
 > , onde ele está publicado, ou à **API** quando a origem não o publicou no Diário.
 
-## Substantivos — 12
+## Substantivos — 13
+
+<blockquote class="evidencia discurso" id="d-13137">
+<span class="data">2026-08-11 · 16:24</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado criticou a Medida Provisória nº 1.376, de 2026, destinada à renegociação de dívidas de produtores rurais afetados por eventos climáticos, por considerar que a regulamentação deixa a concessão do refinanciamento a critério das instituições financeiras, sem garantir o acesso dos agricultores que preencham os requisitos. Além disso, destacou a aprovação, pela Câmara dos Deputados e pelo Senado Federal, do Projeto de Lei nº 5.122, de 2023, do qual foi Relator, que prevê medidas para o alongamento das dívidas rurais, e informou ter apresentado nove emendas à medida provisória para aproximá-la do texto aprovado pelo Congresso Nacional. Ademais, ressaltou as perdas provocadas por sucessivas estiagens e pelas enchentes no Rio Grande do Sul e defendeu a renegociação como necessária à continuidade da produção agropecuária. Por fim, solicitou a instalação da Comissão Mista destinada a analisar a medida provisória e manifestou interesse em assumir sua relatoria.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/136811/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-179">
 <span class="data">2026-06-30 · 15:12</span>

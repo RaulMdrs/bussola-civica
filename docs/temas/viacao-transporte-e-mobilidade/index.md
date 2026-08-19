@@ -7,7 +7,7 @@ description: "Como a bancada gaúcha vota em Viação, Transporte e Mobilidade, 
 
 # Viação, Transporte e Mobilidade
 
-<p class="subtitulo"><b>32 votações nominais de mérito</b> sobre este tema no período.</p>
+<p class="subtitulo"><b>33 votações nominais de mérito</b> sobre este tema no período.</p>
 
 > O que a tabela mede é **alinhamento com a orientação do Governo dentro
 > deste tema** — não posição a favor ou contra o assunto. Essa direção não

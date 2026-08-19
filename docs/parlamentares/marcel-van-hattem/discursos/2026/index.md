@@ -7,7 +7,7 @@ description: "Os discursos de Marcel van Hattem em 2026, com o sumário oficial 
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Marcel van Hattem</a></b> · NOVO · 94 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Marcel van Hattem</a></b> · NOVO · 97 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
@@ -16,7 +16,34 @@ description: "Os discursos de Marcel van Hattem em 2026, com o sumário oficial 
 > neste site: o link de cada discurso leva ao **Diário da Câmara**
 > , onde ele está publicado, ou à **API** quando a origem não o publicou no Diário.
 
-## Substantivos — 70
+## Substantivos — 73
+
+<blockquote class="evidencia discurso" id="d-13140">
+<span class="data">2026-08-11 · 19:52</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado relatou que Carlos Lupi, ex-Ministro da Previdência, apresentou uma queixa-crime contra o Parlamentar no Supremo Tribunal Federal (STF) em razão de declarações sobre o esquema de descontos indevidos em benefícios do Instituto Nacional do Seguro Social (INSS). Afirmou que, durante a Comissão Parlamentar de Inquérito (CPI) do INSS, responsabilizou Lupi pelo crescimento das irregularidades durante a gestão no Ministério e reiterou críticas à atuação do ex-Ministro diante do caso. Por fim, contestou a iniciativa judicial e defendeu a prerrogativa parlamentar de apontar possíveis irregularidades investigadas pelo Congresso.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-13139">
+<span class="data">2026-08-11 · 19:36</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado criticou decisão do Supremo Tribunal Federal (STF) que restringiu a aplicação da lei que extinguiu as saídas temporárias aos crimes cometidos após a mudança legislativa. Nesse contexto, citou o caso de Leonardo Ferreira de Almeida, condenado por estupros e homicídios, que teria cometido novos crimes durante uma saída temporária. Além disso, lembrou que o Congresso derrubou o veto presidencial à medida e responsabilizou o STF pelas consequências da decisão. Por fim, defendeu o cumprimento da determinação aprovada pelo Congresso Nacional para o fim das saídas temporárias.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-13138">
+<span class="data">2026-08-11 · 19:24</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado defendeu a importância da eleição para o Senado e a abertura de processos de impeachment contra Ministros do Supremo Tribunal Federal (STF), ao apontar supostos abusos de autoridade e ilegalidades. Nesse contexto, criticou decisão do Ministro Alexandre de Moraes que determinou busca e apreensão contra a fonte e o advogado de um jornalista do Maranhão. Além disso, questionou a atuação da imprensa e da Ordem dos Advogados do Brasil (OAB) diante desses episódios e manifestou solidariedade aos jornalistas. Por fim, afirmou que caberia ao Senado exercer as prerrogativas constitucionais para conter o que classificou como abusos cometidos por integrantes do STF.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-1180">
 <span class="data">2026-07-15 · 15:24</span>

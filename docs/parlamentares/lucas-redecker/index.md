@@ -18,9 +18,9 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">42,2%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">422 <span>votações computáveis</span></span><span class="n-detalhe">571 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">42,3%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">426 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
 | <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">42,0%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">388 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">64,0%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">534 <span>votações computáveis</span></span><span class="n-detalhe">571 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">64,2%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">539 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
 | <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">57,4%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">505 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
@@ -45,13 +45,13 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | <span class="valor">62,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>29</b></span> |
 | [Saúde](../../temas/saude/) | <span class="valor">57,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>28</b></span> |
 | [Indústria, Comércio e Serviços](../../temas/industria-comercio-e-servicos/) | <span class="valor">53,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>26</b></span> |
-| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">45,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>204</b></span> |
-| [Economia](../../temas/economia/) | <span class="valor">44,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>70</b></span> |
+| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">45,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>208</b></span> |
+| [Economia](../../temas/economia/) | <span class="valor">45,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>73</b></span> |
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">42,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>19</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">39,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>48</b></span> |
 | [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">39,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>43</b></span> |
 | [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">37,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>32</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">31,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>130</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">31,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>131</b></span> |
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">30,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>23</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">25,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>28</b></span> |
 {: .t-temas}
@@ -69,6 +69,24 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
+<span class="data">2026-08-12</span>
+<div class="corpo">
+<p>Rejeitada a Emenda de Plenário nº 1. <span class="placar">Sim: 105; Não: 233; Total: 338.</span></p>
+<p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-82">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia">
+<span class="data">2026-08-12</span>
+<div class="corpo">
+<p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
+<p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2580259-24">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia">
 <span class="data">2026-07-14</span>
 <div class="corpo">
 <p>Rejeitada a Emenda de Plenário nº 2. <span class="placar">Sim: 134; Não: 285; Abstenção: 2; Total: 421.</span></p>
@@ -77,25 +95,16 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </div>
 </blockquote>
 
-<blockquote class="evidencia">
-<span class="data">2026-06-17</span>
-<div class="corpo">
-<p>Mantido o texto. <span class="placar">Sim: 285; Não: 106; Abstenção: 1; Total: 392.</span></p>
-<p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/947810-85">Ver votação na fonte oficial</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia">
-<span class="data">2026-05-27</span>
-<div class="corpo">
-<p>Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 221, de 2019. <span class="placar">Sim: 472; Não: 22; Total: 494.</span></p>
-<p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424">Ver votação na fonte oficial</a>
-</div>
-</blockquote>
-
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
+
+<blockquote class="evidencia">
+<span class="data">2026-08-12</span>
+<div class="corpo">
+<p>Rejeitada a Emenda de Plenário nº 1. <span class="placar">Sim: 105; Não: 233; Total: 338.</span></p>
+<p class="referencia">Maioria do partido: nao (4 sim / 24 não entre os pares) — voto registrado: <b>sim</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-82">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia">
 <span class="data">2026-07-14</span>
@@ -115,35 +124,35 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </div>
 </blockquote>
 
-<blockquote class="evidencia">
-<span class="data">2026-05-27</span>
-<div class="corpo">
-<p>Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 221, de 2019. <span class="placar">Sim: 472; Não: 22; Total: 494.</span></p>
-<p class="referencia">Maioria do partido: sim (47 sim / 0 não entre os pares) — voto registrado: <b>nao</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424">Ver votação na fonte oficial</a>
-</div>
-</blockquote>
-
 ### A conta inteira
 
 Acima é amostra, e diz que é. A decomposição completa — **todas** as
 votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
-- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 422 votações
+- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 426 votações
 - [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 388 votações
-- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 534 votações
+- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 539 votações
 - [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 505 votações
 
 ## O que disse em plenário
 
-São **42 discursos** coletados no período, todos substantivos.
+São **43 discursos** coletados no período, todos substantivos.
 
 O que aparece abaixo é o sumário publicado pela Câmara.
 O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-13145">
+<span class="data">2026-08-12 · 15:16</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado afirmou que recentes decisões do Supremo Tribunal Federal (STF) de autorizar investigações relacionadas a Lulinha confirmariam denúncias debatidas na CPI do INSS sobre um suposto esquema de triangulação de recursos envolvendo escritórios de advocacia, assessorias e pessoas ligadas ao Governo Federal. Criticou a não aprovação do relatório da comissão, atribuindo o resultado à atuação do Governo e ao sigilo de provas. Também cobrou esclarecimentos de Ministros do STF sobre alegações de possíveis conflitos de interesse envolvendo o Banco Master e outras denúncias divulgadas, defendendo maior transparência por parte da Corte. Ao final, afirmou que continuará acompanhando as investigações sobre fraudes no INSS e defendeu a responsabilização dos envolvidos e a recuperação dos recursos desviados em benefício dos aposentados.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204404/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-3504">
 <span class="data">2026-06-09 · 13:56</span>
@@ -181,20 +190,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3500">
-<span class="data">2026-03-04 · 16:04</span>
-<div class="corpo">
-<p class="tipo">BREVES COMUNICAÇÕES</p>
-<p>O Deputado manifestou preocupação com denúncias relacionadas ao Banco Master e ao empresário Daniel Vorcaro, citando declarações divulgadas publicamente que indicariam comportamentos violentos e um ambiente de intimidação envolvendo críticas feitas à instituição. Afirmou que o caso ultrapassa um escândalo financeiro e pode envolver relações com diversos setores da política e de outros Poderes da República. Diante das suspeitas, defendeu a criação de uma Comissão Parlamentar de Inquérito (CPI) no Congresso Nacional para investigar o caso de forma ampla, com o objetivo de esclarecer eventuais irregularidades e responsabilizar os envolvidos. Por fim, ressaltou que a investigação seria necessária para evitar sensação de impunidade e garantir transparência diante das denúncias que vêm sendo debatidas publicamente.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=5%2F3%2F2026&amp;txPagina=55&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>5</b></span> | 5 |
+| [2026](discursos/2026/) | <span class="n"><b>6</b></span> | 6 |
 | [2025](discursos/2025/) | <span class="n"><b>11</b></span> | 11 |
 | [2024](discursos/2024/) | <span class="n"><b>9</b></span> | 9 |
 | [2023](discursos/2023/) | <span class="n"><b>17</b></span> | 17 |

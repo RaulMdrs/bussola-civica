@@ -18,9 +18,9 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">97,5%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">200 <span>votações computáveis</span></span><span class="n-detalhe">272 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">97,1%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">204 <span>votações computáveis</span></span><span class="n-detalhe">277 <span>votações no exercício</span></span> |
 | <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">97,5%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">161 <span>votações computáveis</span></span><span class="n-detalhe">264 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">98,4%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">245 <span>votações computáveis</span></span><span class="n-detalhe">272 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">98,0%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">250 <span>votações computáveis</span></span><span class="n-detalhe">277 <span>votações no exercício</span></span> |
 | <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">98,7%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">233 <span>votações computáveis</span></span><span class="n-detalhe">264 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
@@ -46,14 +46,14 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>23</b></span> |
 | [Saúde](../../temas/saude/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>14</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Indústria, Comércio e Serviços](../../temas/industria-comercio-e-servicos/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>10</b></span> <span class="aviso-n">amostra pequena</span> |
-| [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>11</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>9</b></span> <span class="aviso-n">amostra pequena</span> |
+| [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>11</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>17</b></span> <span class="aviso-n">amostra pequena</span> |
-| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">98,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>71</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">96,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>65</b></span> |
+| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">97,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>75</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">95,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>66</b></span> |
+| [Economia](../../temas/economia/) | <span class="valor">94,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>19</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">94,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>19</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">94,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>17</b></span> <span class="aviso-n">amostra pequena</span> |
-| [Economia](../../temas/economia/) | <span class="valor">93,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>16</b></span> <span class="aviso-n">amostra pequena</span> |
 {: .t-temas}
 
 <span class="aviso-n">amostra pequena</span> marca temas com menos de
@@ -67,6 +67,15 @@ referência de cada eixo. As descrições são o texto original da fonte
 oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
+
+<blockquote class="evidencia">
+<span class="data">2026-08-12</span>
+<div class="corpo">
+<p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
+<p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2580259-24">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia">
 <span class="data">2026-07-14</span>
@@ -86,16 +95,16 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </div>
 </blockquote>
 
+### <span class="eixo-par">Divergências da maioria do próprio partido</span>
+
 <blockquote class="evidencia">
-<span class="data">2025-11-18</span>
+<span class="data">2026-08-12</span>
 <div class="corpo">
-<p>Aprovada a Emenda de Plenário nº 25. <span class="placar">Sim: 349; Não: 40; Abstenção: 1; Total: 390.</span></p>
-<p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2579832-105">Ver votação na fonte oficial</a>
+<p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
+<p class="referencia">Maioria do partido: nao (11 sim / 41 não entre os pares) — voto registrado: <b>sim</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2580259-24">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
-
-### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
 <span class="data">2025-12-16</span>
@@ -115,29 +124,20 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </div>
 </blockquote>
 
-<blockquote class="evidencia">
-<span class="data">2025-06-25</span>
-<div class="corpo">
-<p>Aprovadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 177, de 2023. <span class="placar">Sim: 361; Não: 36; Abstenção: 30; Total: 427.</span></p>
-<p class="referencia">Maioria do partido: sim (42 sim / 2 não entre os pares) — voto registrado: <b>nao</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2383019-91">Ver votação na fonte oficial</a>
-</div>
-</blockquote>
-
 ### A conta inteira
 
 Acima é amostra, e diz que é. A decomposição completa — **todas** as
 votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
-- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 200 votações
+- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 204 votações
 - [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 161 votações
-- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 245 votações
+- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 250 votações
 - [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 233 votações
 
 ## O que disse em plenário
 
-São **17 discursos** coletados no período, dos quais **14 substantivos** — os outros 3 são
+São **18 discursos** coletados no período, dos quais **15 substantivos** — os outros 3 são
 orientação de bancada, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,15 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-13152">
+<span class="data">2026-08-12 · 17:12</span>
+<div class="corpo">
+<p class="tipo">COMO LÍDER</p>
+<p>O Deputado informou que tem acompanhado, junto ao Ministério da Fazenda e a representantes do setor agropecuário, a implementação da Medida Provisória (MPV) nº 1.376, de 2026, que autoriza a criação de linhas de crédito para composição de dívidas para liquidação ou amortização de operações de crédito rural e de Cédulas de Produto Rural e autoriza a participação da União em fundo garantidor destinado à cobertura de operações de crédito rural contratadas por produtores rurais afetados por eventos climáticos adversos. Além disso, comunicou sua indicação como Relator da matéria na Comissão Mista e criticou as dificuldades impostas pelos bancos à renegociação das dívidas pelos produtores rurais. Ademais, defendeu a redução da taxa de juros e alertou para a situação dos agricultores do Rio Grande do Sul, atingidos por sucessivas estiagens e enchentes. Por fim, destacou que acompanhará a aplicação da MPV para assegurar a renegociação das dívidas, com carência, alongamento dos prazos, juros mais baixos e flexibilização das garantias.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74400/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-5850">
 <span class="data">2026-05-27 · 22:20</span>
@@ -183,20 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5846">
-<span class="data">2026-05-12 · 17:44</span>
-<div class="corpo">
-<p class="tipo">COMO LÍDER</p>
-<p>O Deputado apresentou um conjunto de documentos para vincular o escândalo do &quot;Bolsomaster&quot; ao ex-Presidente Jair Bolsonaro e à sua família, argumentando que o esquema só foi possível pela cumplicidade do Governo Bolsonaro. Nesse contexto, reconstituiu a trajetória do Banco Master, desde a autorização de funcionamento pelo Banco Central, em 2019, sob a presidência de Roberto Campos Neto, até os sucessivos acordos com o Instituto Nacional do Seguro Social (INSS) e a ampliação das margens do crédito consignado. Além disso, apontou que Fabiano Zettel, cunhado de Daniel Vorcaro, realizou as duas maiores doações de campanha nas eleições de 2024, sendo R$ 3 milhões para Bolsonaro e R$ 2 milhões para Tarcísio, e que o fundo Phoenix, ligado a Vorcaro, foi beneficiado pelas privatizações da Empresa Metropolitana de Águas e Energia (Emae) e da Companhia de Saneamento Básico do Estado de São Paulo (Sabesp) no Governo de São Paulo. Por fim, cobrou a abertura do sigilo bancário de Flávio Bolsonaro e a instalação da Comissão Parlamentar de Inquérito (CPI) do Banco Master para apurar o que classificou como esquema criminoso com ramificações na família Bolsonaro.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=13%2F5%2F2026&amp;txPagina=118&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>10</b></span> | 9 |
+| [2026](discursos/2026/) | <span class="n"><b>11</b></span> | 10 |
 | [2025](discursos/2025/) | <span class="n"><b>7</b></span> | 5 |
 {: .t-anos}
 

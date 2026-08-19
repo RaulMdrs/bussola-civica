@@ -18,9 +18,9 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">49,0%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">349 <span>votações computáveis</span></span><span class="n-detalhe">571 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">49,4%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">352 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
 | <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">50,2%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">307 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">70,3%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">445 <span>votações computáveis</span></span><span class="n-detalhe">571 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">70,2%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">449 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
 | <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">67,5%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">388 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
@@ -47,11 +47,11 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Saúde](../../temas/saude/) | <span class="valor">63,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>22</b></span> |
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">61,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>18</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">57,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>45</b></span> |
-| [Economia](../../temas/economia/) | <span class="valor">55,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>58</b></span> |
+| [Economia](../../temas/economia/) | <span class="valor">56,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>60</b></span> |
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">53,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>13</b></span> <span class="aviso-n">amostra pequena</span> |
-| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">50,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>179</b></span> |
+| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">51,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>182</b></span> |
 | [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">44,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>38</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">43,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>114</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">43,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>115</b></span> |
 | [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">39,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>23</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">20,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>20</b></span> |
 {: .t-temas}
@@ -98,29 +98,29 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
+<span class="data">2026-08-12</span>
+<div class="corpo">
+<p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 80, de 2026, adotado pelo relator da Comissão de Finanças e Tributação. <span class="placar">Sim: 327; Não: 26; Total: 353.</span></p>
+<p class="referencia">Maioria do partido: sim (29 sim / 2 não entre os pares) — voto registrado: <b>nao</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2611992-24">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia">
+<span class="data">2026-08-12</span>
+<div class="corpo">
+<p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
+<p class="referencia">Maioria do partido: sim (34 sim / 2 não entre os pares) — voto registrado: <b>nao</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2580259-24">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia">
 <span class="data">2026-05-20</span>
 <div class="corpo">
 <p>Rejeitada a Emenda de Plenário nº 2. <span class="placar">Sim: 196; Não: 200; Abstenção: 1; Total: 397.</span></p>
 <p class="referencia">Maioria do partido: nao (13 sim / 14 não entre os pares) — voto registrado: <b>sim</b>.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2613731-47">Ver votação na fonte oficial</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia">
-<span class="data">2026-05-20</span>
-<div class="corpo">
-<p>Resultado. <span class="placar">Sim: 182; Não: 182; Abstenção: 2; Total: 366.</span></p>
-<p class="referencia">Maioria do partido: nao (11 sim / 17 não entre os pares) — voto registrado: <b>sim</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2613731-65">Ver votação na fonte oficial</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia">
-<span class="data">2026-05-06</span>
-<div class="corpo">
-<p>Mantido o texto. <span class="placar">Sim: 343; Não: 97; Abstenção: 1; Total: 441.</span></p>
-<p class="referencia">Maioria do partido: sim (29 sim / 8 não entre os pares) — voto registrado: <b>nao</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2447259-99">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
@@ -130,14 +130,14 @@ Acima é amostra, e diz que é. A decomposição completa — **todas** as
 votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
-- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 349 votações
+- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 352 votações
 - [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 307 votações
-- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 445 votações
+- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 449 votações
 - [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 388 votações
 
 ## O que disse em plenário
 
-São **137 discursos** coletados no período, dos quais **124 substantivos** — os outros 13 são
+São **138 discursos** coletados no período, dos quais **125 substantivos** — os outros 13 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,15 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-13137">
+<span class="data">2026-08-11 · 16:24</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado criticou a Medida Provisória nº 1.376, de 2026, destinada à renegociação de dívidas de produtores rurais afetados por eventos climáticos, por considerar que a regulamentação deixa a concessão do refinanciamento a critério das instituições financeiras, sem garantir o acesso dos agricultores que preencham os requisitos. Além disso, destacou a aprovação, pela Câmara dos Deputados e pelo Senado Federal, do Projeto de Lei nº 5.122, de 2023, do qual foi Relator, que prevê medidas para o alongamento das dívidas rurais, e informou ter apresentado nove emendas à medida provisória para aproximá-la do texto aprovado pelo Congresso Nacional. Ademais, ressaltou as perdas provocadas por sucessivas estiagens e pelas enchentes no Rio Grande do Sul e defendeu a renegociação como necessária à continuidade da produção agropecuária. Por fim, solicitou a instalação da Comissão Mista destinada a analisar a medida provisória e manifestou interesse em assumir sua relatoria.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/136811/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-179">
 <span class="data">2026-06-30 · 15:12</span>
@@ -183,20 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-175">
-<span class="data">2026-05-12 · 16:20</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado registrou a presença do Prefeito de Gramado (RS), Nestor Tissot, do Vice-Prefeito Luia, de Secretários Municipais e do Vereador Nery, Presidente do Legislativo local, e ressaltou a qualidade da gestão municipal. Além disso, destacou a relevância turística e econômica de Gramado (RS), Município com 40 mil habitantes que recebeu 9 milhões de turistas ao longo de 365 dias. Por fim, defendeu o Projeto de Lei nº 5.122, de 2023, que dispõe sobre a liquidação, anistia, renegociação e rebate de dívidas originárias de crédito rural para agricultores, pecuaristas, piscicultores, pescadores e carcinicultores, em geral, e dá outras providências, bem como altera a Lei no 14.554, de 20 de abril de 2023, que altera as Leis nos 13.999, de 18 de maio de 2020, 14.166, de 10 de junho de 2021, 11.540, de 12 de novembro de 2007, e 14.042, de 19 de agosto de 2020, para tratar do refinanciamento de dívidas e altera a Lei no 7.827, de 27 de setembro de 1989, a fim de sanar omissão legislativa.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=13%2F5%2F2026&amp;txPagina=78&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>12</b></span> | 12 |
+| [2026](discursos/2026/) | <span class="n"><b>13</b></span> | 13 |
 | [2025](discursos/2025/) | <span class="n"><b>47</b></span> | 40 |
 | [2024](discursos/2024/) | <span class="n"><b>36</b></span> | 31 |
 | [2023](discursos/2023/) | <span class="n"><b>42</b></span> | 41 |

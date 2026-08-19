@@ -7,7 +7,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Maria do Rosário</a></b> · PT · 37 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Maria do Rosário</a></b> · PT · 40 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
@@ -16,7 +16,34 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 > neste site: o link de cada discurso leva ao **Diário da Câmara**
 > , onde ele está publicado, ou à **API** quando a origem não o publicou no Diário.
 
-## Substantivos — 34
+## Substantivos — 37
+
+<blockquote class="evidencia discurso" id="d-13151">
+<span class="data">2026-08-12 · 15:28</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>A Deputada destacou o aumento de casos de violência contra crianças e adolescentes em ambientes digitais e mencionou a decisão da Agência Nacional de Proteção de Dados de suspender as transmissões ao vivo do Discord no Brasil como medida emergencial de proteção. Relatou o caso de uma adolescente de 13 anos que teria sido submetida a violência durante uma transmissão e defendeu a responsabilização das plataformas pelo cumprimento integral do Estatuto Digital da Criança e do Adolescente. Alertou também para comunidades virtuais que estimulam violência, automutilação e abusos e defendeu ações de prevenção, formação de educadores e apoio às famílias para proteger crianças e adolescentes dos riscos no ambiente digital. Ao final, afirmou que a proteção integral é responsabilidade do Estado, do poder público, das famílias e de toda a sociedade.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-13150">
+<span class="data">2026-08-11 · 17:28</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada registrou a presença, na Casa, de médicas legistas de vários Estados e valorizou a medicina legal como função essencial e indelegável do Estado brasileiro. Além disso, defendeu melhores condições de trabalho e de atendimento às vítimas, especialmente mulheres e crianças, e agradeceu a atuação desses profissionais em todo o País.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-13149">
+<span class="data">2026-08-11 · 16:44</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada defendeu a instituição do piso salarial nacional e a valorização da carreira dos trabalhadores da educação não docentes e destacou reunião realizada no Palácio do Planalto sobre o tema. Além disso, apoiou o movimento Somos Todas Professoras e reivindicou o cumprimento da legislação que assegura às professoras da educação infantil o Piso Salarial Profissional Nacional e a inclusão na carreira do magistério. Ademais, manifestou-se pelo fim da contribuição previdenciária incidente sobre os proventos de servidores públicos aposentados. Por fim, prestou solidariedade às vítimas de feminicídio, ressaltou sua atuação como Relatora de Comissão Externa sobre o tema e solicitou a votação do Projeto de Lei nº 896, de 2023, que dispõe sobre crimes praticados em razão de misoginia.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-5834">
 <span class="data">2026-07-14 · 17:00</span>

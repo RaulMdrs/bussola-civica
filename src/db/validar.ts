@@ -110,7 +110,18 @@ INSERT INTO voto (votacao_id, politico_id, partido_id, voto, tipo_voto_original,
 // ---------------------------------------------------------------------------
 
 let falhas = 0;
+/**
+ * Contado, não digitado.
+ *
+ * Até 2026-08-19 o total era a constante `totalChecagens = 79`, atualizada à
+ * mão — e já estava errada em 4 quando alguém foi conferir. O arquivo cuja
+ * razão de existir é impedir desvio silencioso estava desviando no próprio
+ * resumo, que é o pior lugar possível: quem lê "79 verificações" acredita que
+ * 79 rodaram.
+ */
+let checagens = 0;
 const checar = (nome: string, obtido: unknown, esperado: unknown) => {
+  checagens++;
   const ok = JSON.stringify(obtido) === JSON.stringify(esperado);
   if (!ok) falhas++;
   console.log(`  ${ok ? "✓" : "✗"} ${nome}`);
@@ -403,22 +414,23 @@ console.log("\nRetomada incremental — horizonte por etapa");
     `deputados/204536/discursos 2023-02-01..${ate}`,
     "ok",
   ];
+  const S = (ate: string): [string, string] => [`senado 2023-02-01..${ate}`, "ok"];
 
-  comColeta(V("2026-07-01"), D("2026-07-01"));
+  comColeta(V("2026-07-01"), D("2026-07-01"), S("2026-07-01"));
   checar(
     "etapas em dia: retoma da data coberta",
     descobrirJanelas(consulta, LEG, "2026-08-07").inicio,
     "2026-07-01",
   );
 
-  comColeta(V("2026-08-07"), D("2026-03-01"));
+  comColeta(V("2026-08-07"), D("2026-03-01"), S("2026-08-07"));
   checar(
     "discurso atrasado puxa a retomada para trás",
     descobrirJanelas(consulta, LEG, "2026-08-07").inicio,
     "2026-03-01",
   );
 
-  comColeta(V("2026-03-01"), D("2026-08-07"));
+  comColeta(V("2026-03-01"), D("2026-08-07"), S("2026-08-07"));
   checar(
     "votação atrasada puxa a retomada para trás",
     descobrirJanelas(consulta, LEG, "2026-08-07").inicio,
@@ -435,6 +447,29 @@ console.log("\nRetomada incremental — horizonte por etapa");
     });
     checar("e a retomada volta ao início da legislatura", j.inicio, LEG.ini);
   }
+
+  /**
+   * Regressão do defeito de 2026-08-19: o Senado não estava em `ETAPAS_COLETA`
+   * nem em `descobrirJanelas`, então `ingerir:incremental` o congelava em
+   * silêncio — a rotina semanal rodava, o log dizia "concluído", e a casa
+   * inteira parava no tempo. Estes dois casos falham se alguém tirá-lo de novo.
+   */
+  comColeta(V("2026-08-07"), D("2026-08-07"));
+  {
+    const j = descobrirJanelas(consulta, LEG, "2026-08-07");
+    checar("senado sem registro conta como sem cobertura", j.senado, {
+      ate: LEG.ini,
+      origem: "nenhuma",
+    });
+    checar("e arrasta a retomada com ele", j.inicio, LEG.ini);
+  }
+
+  comColeta(V("2026-08-07"), D("2026-08-07"), S("2026-05-01"));
+  checar(
+    "senado atrasado puxa a retomada para trás",
+    descobrirJanelas(consulta, LEG, "2026-08-07").inicio,
+    "2026-05-01",
+  );
 
   // Recurso no formato anterior a esta versão: sem janela no nome.
   comColeta(V("2026-08-07"), ["deputados/204536/discursos", "ok"]);
@@ -459,7 +494,7 @@ console.log("\nRetomada incremental — horizonte por etapa");
     origem: "votacao",
   });
 
-  comColeta(V("2027-06-30"), D("2027-06-30"));
+  comColeta(V("2027-06-30"), D("2027-06-30"), S("2027-06-30"));
   checar(
     "cobertura além da janela não coleta (mas o chamador ainda deriva)",
     descobrirJanelas(consulta, LEG, "2026-08-07").coletar,
@@ -847,10 +882,9 @@ console.log("\nSenado — um eixo, escopo próprio, e sem contaminar a Câmara")
   mem.sqlite.close();
 }
 
-const totalChecagens = 79;
 console.log(
   falhas === 0
-    ? `\n✓ modelo validado: ${totalChecagens} verificações, 0 falhas\n`
+    ? `\n✓ modelo validado: ${checagens} verificações, 0 falhas\n`
     : `\n✗ ${falhas} falha(s)\n`,
 );
 process.exit(falhas === 0 ? 0 : 1);

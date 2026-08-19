@@ -16,7 +16,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 > neste site: o link de cada discurso leva à página oficial do
 > **pronunciamento**, onde ele está publicado.
 
-## Substantivos — 33
+## Substantivos — 58
 
 <blockquote class="evidencia discurso" id="d-11815">
 <span class="data">2024-12-20</span>
@@ -24,6 +24,15 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 <p class="tipo">Pela ordem</p>
 <p>Apoio ao pronunciamento da Senadora Tereza Cristina relativamente à atuação do ex-Presidente do Banco Central do Brasil, Roberto Campos Neto.</p>
 <a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/511720">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11823">
+<span class="data">2024-12-19</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 210, de 2024, que &quot;Altera a Lei Complementar nº 200, de 30 de agosto de 2023, que institui regime fiscal sustentável para garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; revoga a Lei Complementar nº 207, de 16 de maio de 2024; e dá outras providências.&quot;</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/511440">Ver o pronunciamento no Senado</a>
 </div>
 </blockquote>
 
@@ -36,12 +45,75 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
+<blockquote class="evidencia discurso" id="d-11821">
+<span class="data">2024-12-19</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o destaque para votação em separado constante do Requerimento nº 968, de 2024, (Requer, pela Liderança do PL, destaque para votação em separado da Emenda nº 14 ao Projeto de Lei Complementar nº 210/2024.) ao Projeto de Lei Complementar (PLP) n° 210, de 2024, que &quot;Altera a Lei Complementar nº 200, de 30 de agosto de 2023, que institui regime fiscal sustentável para garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; revoga a Lei Complementar nº 207, de 16 de maio de 2024; e dá outras providências&quot;.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/511505">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11820">
+<span class="data">2024-12-19</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 210, de 2024, que &quot;Altera a Lei Complementar nº 200, de 30 de agosto de 2023, que institui regime fiscal sustentável para garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; revoga a Lei Complementar nº 207, de 16 de maio de 2024; e dá outras providências”.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/511529">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
 <blockquote class="evidencia discurso" id="d-11819">
 <span class="data">2024-12-19</span>
 <div class="corpo">
 <p class="tipo">Encaminhamento</p>
 <p>Encaminhamento sobre o Projeto de Lei Complementar (PLP) n° 210, de 2024, que &quot;Altera a Lei Complementar nº 200, de 30 de agosto de 2023, que institui regime fiscal sustentável para garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; revoga a Lei Complementar nº 207, de 16 de maio de 2024; e dá outras providências”.</p>
 <a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/511539">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11818">
+<span class="data">2024-12-19</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 210, de 2024, que &quot;Altera a Lei Complementar nº 200, de 30 de agosto de 2023, que institui regime fiscal sustentável para garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; revoga a Lei Complementar nº 207, de 16 de maio de 2024; e dá outras providências”.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/511550">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11817">
+<span class="data">2024-12-19</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre a Proposta de Emenda à Constituição (PEC) n° 54, de 2024, que &quot;Altera os arts. 37, 163, 165, 212, 212-A e 239 da Constituição Federal e o Ato das Disposições Constitucionais Transitórias (ADCT)”.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/511622">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11816">
+<span class="data">2024-12-19</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o destaque para votação em separado constante do Requerimento nº 981, de 2024, (Requer, pela Liderança do PL, destaque para votação em separado do §11 do art. 37 da Emenda 1 à Proposta de Emenda à Constituição nº 54/2024.) à Proposta de Emenda à Constituição (PEC) n° 54, de 2024, que &quot;Altera os arts. 37, 163, 165, 212, 212-A e 239 da Constituição Federal e o Ato das Disposições Constitucionais Transitórias (ADCT).&quot;</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/511641">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11825">
+<span class="data">2024-12-18</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 124, de 2022, que &quot;Dispõe sobre normas gerais de prevenção de litígio, consensualidade e processo administrativo, em matéria tributária&quot;.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/510652">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11824">
+<span class="data">2024-12-18</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 92, de 2024, que &quot;Altera o art. 3º da Lei Complementar nº 116, de 31 de julho de 2003, para explicitar que o Imposto Sobre Serviços de Qualquer Natureza – ISS incidente sobre os serviços de guincho intramunicipal, guindaste e içamento é devido no local da execução da obra&quot;.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/510691">Ver o pronunciamento no Senado</a>
 </div>
 </blockquote>
 
@@ -54,12 +126,57 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
+<blockquote class="evidencia discurso" id="d-11827">
+<span class="data">2024-12-17</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre a Proposta de Emenda à Constituição (PEC) n° 3, de 2020, que &quot;Altera o inciso XXVIII do art. 22 e acrescenta dispositivos aos arts. 23 e 24 da Constituição Federal, para dispor sobre o regime de competência para legislar sobre defesa e segurança cibernética e fixar a competência comum dos entes federados para zelar pela segurança cibernética dos serviços públicos&quot;.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/511122">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
 <blockquote class="evidencia discurso" id="d-11826">
 <span class="data">2024-12-17</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
 <p>Apelo para que se coloque em pauta para votação o Projeto de Decreto Legislativo (PDL) n° 267, de 2024, que &quot;Aprova o texto do Acordo-Quadro entre o Governo da República Federativa do Brasil e o Governo do Canadá sobre Cooperação em Matéria de Defesa, assinado em Brasília, em 27 de junho de 2023&quot;.</p>
 <a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/511145">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11831">
+<span class="data">2024-12-12</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o destaque para votação em separado constante do Requerimento nº 909, de 2024, (Requer, em nome da liderança do PT, destaque para votação em separado da Emenda 2203 ao PLP 68/2024.) ao Projeto de Lei Complementar (PLP) n° 68, de 2024, que &quot;Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); e dá outras providências&quot;.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/511317">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11830">
+<span class="data">2024-12-12</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o destaque para votação em separado constante do Requerimento nº 910, de 2024, (Requer, em nome da liderança do PL, destaque para votação em separado da Emenda 2201 ao PLP 68/2024.) ao Projeto de Lei Complementar (PLP) n° 68, de 2024, que &quot;Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); e dá outras providências&quot;.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/511352">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11829">
+<span class="data">2024-12-12</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o destaque para votação em separado constante do Requerimento nº 915, de 2024, (Requer, em nome da liderança do PSD, destaque para votação em separado da Emenda 2223 ao PLP 68/2024.) ao Projeto de Lei Complementar (PLP) n° 68, de 2024, que &quot;Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); e dá outras providências&quot;.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/511375">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11833">
+<span class="data">2024-11-27</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 153, de 2024, que &quot;Dispõe sobre a transposição e a transferência de saldos financeiros de exercícios passados resultantes de repasses do Fundo Nacional de Desenvolvimento da Educação (FNDE) para os Estados, o Distrito Federal e os Municípios.&quot;</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/510420">Ver o pronunciamento no Senado</a>
 </div>
 </blockquote>
 
@@ -90,6 +207,24 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
+<blockquote class="evidencia discurso" id="d-11837">
+<span class="data">2024-11-18</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 175, de 2024, que &quot;Dispõe sobre a proposição e a execução de emendas parlamentares na lei orçamentária anual; e dá outras providências”.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/510180">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11836">
+<span class="data">2024-11-18</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o destaque para votação em separado constante do Requerimento nº 788, de 2024, (Requer, pela Liderança do União, destaque para votação em separado do art. nº 4º do Projeto de Lei Complementar nº 175/2024.) ao Projeto de Lei Complementar (PLP) n° 175, de 2024, que &quot;Dispõe sobre a proposição e a execução de emendas parlamentares na lei orçamentária anual; e dá outras providências.&quot;</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/510197">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
 <blockquote class="evidencia discurso" id="d-11838">
 <span class="data">2024-09-25</span>
 <div class="corpo">
@@ -105,6 +240,15 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 <p class="tipo">Discussão</p>
 <p>Discussão sobre o Projeto de Lei (PL) n° 3117, de 2024, que &quot;Dispõe sobre medidas excepcionais para a aquisição de bens e a contratação de obras e de serviços, inclusive de engenharia, destinados ao enfrentamento de impactos decorrentes de estado de calamidade pública; autoriza o Poder Executivo federal a conceder subvenção econômica a mutuários afetados com perdas materiais nas áreas atingidas pelos eventos climáticos extremos ocorridos nos meses de abril e maio de 2024, nos termos do Decreto Legislativo nº 36, de 7 de maio de 2024; altera as Lei nºs 13.999, de 18 de maio de 2020, e 14.042, de 19 de agosto de 2020; autoriza o Poder Executivo federal a conceder subvenção econômica para constituição de escritórios de projetos; estabelece normas para facilitação de acesso a crédito, em virtude dos efeitos negativos decorrentes de desastres naturais; revoga as Medidas Provisórias nºs 1.216, de 9 de maio de 2024, e 1.221, de 17 de maio de 2024; e dá outras providências&quot;.</p>
 <a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/509065">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11840">
+<span class="data">2024-09-04</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o destaque para votação em separado constante do Requerimento nº 623, de 2024, (Requer, pela Liderança do PSD, destaque para votação em separado da Emenda nº 45 ao Projeto de Lei nº 528/2020.) ao Projeto de Lei (PL) n° 528, de 2020, que &quot;Dispõe sobre a promoção da mobilidade sustentável de baixo carbono e a captura e a estocagem geológica de dióxido de carbono; institui o Programa Nacional de Combustível Sustentável de Aviação (ProBioQAV), o Programa Nacional de Diesel Verde (PNDV) e o Programa Nacional de Descarbonização do Produtor e Importador de Gás Natural e de Incentivo ao Biometano; e altera as Leis nºs 9.478, de 6 de agosto de 1997, 9.847, de 26 de outubro de 1999, 8.723, de 28 de outubro de 1993, e 13.033, de 24 de setembro de 2014&quot;.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/509129">Ver o pronunciamento no Senado</a>
 </div>
 </blockquote>
 
@@ -198,12 +342,30 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
+<blockquote class="evidencia discurso" id="d-11851">
+<span class="data">2024-07-03</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o destaque para votação em separado constante do Requerimento nº 466, de 2024, (Requer, pela Liderança do MDB, destaque para votação em separado da Emenda nº 26 ao Projeto de Lei nº 2308/2023.) ao Projeto de Lei (PL) n° 2308, de 2023, que &quot;Institui o marco legal do hidrogênio de baixa emissão de carbono; dispõe sobre a Política Nacional do Hidrogênio de Baixa Emissão de Carbono; institui incentivos para a indústria do hidrogênio de baixa emissão de carbono; institui o Regime Especial de Incentivos para a Produção de Hidrogênio de Baixa Emissão de Carbono (Rehidro); cria o Programa de Desenvolvimento do Hidrogênio de Baixa Emissão de Carbono (PHBC); e altera as Leis nºs 9.427, de 26 de dezembro de 1996, e 9.478, de 6 de agosto de 1997&quot;.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/507574">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
 <blockquote class="evidencia discurso" id="d-11852">
 <span class="data">2024-06-26</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
 <p>Discussão sobre o Projeto de Lei (PL) n° 6235, de 2023, que &quot;Institui a Letra de Crédito do Desenvolvimento (LCD); altera as Leis nºs 13.483, de 21 de setembro de 2017, e 11.076, de 30 de dezembro de 2004; e revoga dispositivos das Leis nºs 14.366, de 8 de junho de 2022, e 14.440, de 2 de setembro de 2022&quot;.</p>
 <a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/507042">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11853">
+<span class="data">2024-06-18</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei da Câmara (PLC) n° 29, de 2017, que &quot;Dispõe sobre normas de seguro privado; revoga dispositivos da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil); e dá outras providências.&quot;</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/506920">Ver o pronunciamento no Senado</a>
 </div>
 </blockquote>
 
@@ -243,12 +405,48 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
+<blockquote class="evidencia discurso" id="d-11859">
+<span class="data">2024-05-15</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 85, de 2024, que &quot;Autoriza a União a postergar o pagamento da dívida de entes federativos afetados por calamidade pública reconhecida pelo Congresso Nacional, mediante proposta do Poder Executivo federal, e a reduzir a taxa de juros dos contratos de dívida dos referidos entes com a União; e altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), e a Lei Complementar nº 159, de 19 de maio de 2017&quot;.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/505766">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11858">
+<span class="data">2024-05-15</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o destaque para votação em separado constante do Requerimento nº 348, de 2024, ao Projeto de Lei Complementar (PLP) n° 85, de 2024, que &quot;Autoriza a União a postergar o pagamento da dívida de entes federativos afetados por calamidade pública reconhecida pelo Congresso Nacional, mediante proposta do Poder Executivo federal, e a reduzir a taxa de juros dos contratos de dívida dos referidos entes com a União; e altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), e a Lei Complementar nº 159, de 19 de maio de 2017&quot;.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/505793">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
 <blockquote class="evidencia discurso" id="d-11860">
 <span class="data">2024-04-18</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
 <p>Breve histórico da atuação do Exército Brasileiro em comemoração aos 376 anos da instituição.</p>
 <a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/505390">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11861">
+<span class="data">2024-04-17</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 175, de 2023, que &quot;Altera a Lei Complementar nº 172, de 15 de abril de 2020, a fim de conceder prazo aos Estados, ao Distrito Federal e aos Municípios para executar atos de transposição e de transferência.&quot;</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/505273">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11862">
+<span class="data">2024-04-10</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 252, de 2023, que &quot;Altera a Lei Complementar n° 182, de 1° de junho de 2021, para dispor sobre o contrato de investimento conversível em capital social (CICC)&quot;.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/505021">Ver o pronunciamento no Senado</a>
 </div>
 </blockquote>
 
@@ -276,6 +474,33 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 <p class="tipo">Discurso</p>
 <p>Comentários sobre o histórico político do Governo da Venezuela. Crítica ao posicionamento ideológico do Presidente Lula em relação ao referido País.</p>
 <a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/504401">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11866">
+<span class="data">2024-03-05</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 137, de 2019, que &quot;Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, que institui o Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte, para dispor sobre a cédula de crédito microempresarial.&quot;</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/504354">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11868">
+<span class="data">2024-02-20</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei (PL) n° 2253, de 2022, que &quot;Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para dispor sobre a monitoração eletrônica do preso, prever a realização de exame criminológico para progressão de regime e extinguir o benefício da saída temporária&quot;.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/503972">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11867">
+<span class="data">2024-02-20</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada sobre o Projeto de Lei (PL) n° 2253, de 2022, que &quot;Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para dispor sobre a monitoração eletrônica do preso, prever a realização de exame criminológico para progressão de regime e extinguir o benefício da saída temporária&quot;.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/504002">Ver o pronunciamento no Senado</a>
 </div>
 </blockquote>
 
@@ -312,242 +537,6 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 <p class="tipo">Discussão</p>
 <p>Discussão sobre a Proposta de Emenda à Constituição (PEC) n° 42, de 2023, que &quot;Altera as condições de elegibilidade por militares da ativa das Forças Armadas&quot;.</p>
 <a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/503776">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-## Classificados como protocolares — 25
-
-<div class="ausencia">
-<h4>Fora do perfil, dentro do acervo</h4>
-<p>Estes discursos não entram na seção do perfil porque são ato de
-procedimento, não posição: <b>orientação de bancada</b> (que já está
-estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
-<b>registro de presença</b>. A classificação separa; ela não exclui — por
-isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
-</div>
-
-<blockquote class="evidencia discurso" id="d-11823">
-<span class="data">2024-12-19</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 210, de 2024, que &quot;Altera a Lei Complementar nº 200, de 30 de agosto de 2023, que institui regime fiscal sustentável para garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; revoga a Lei Complementar nº 207, de 16 de maio de 2024; e dá outras providências.&quot;</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/511440">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11821">
-<span class="data">2024-12-19</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o destaque para votação em separado constante do Requerimento nº 968, de 2024, (Requer, pela Liderança do PL, destaque para votação em separado da Emenda nº 14 ao Projeto de Lei Complementar nº 210/2024.) ao Projeto de Lei Complementar (PLP) n° 210, de 2024, que &quot;Altera a Lei Complementar nº 200, de 30 de agosto de 2023, que institui regime fiscal sustentável para garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; revoga a Lei Complementar nº 207, de 16 de maio de 2024; e dá outras providências&quot;.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/511505">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11820">
-<span class="data">2024-12-19</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 210, de 2024, que &quot;Altera a Lei Complementar nº 200, de 30 de agosto de 2023, que institui regime fiscal sustentável para garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; revoga a Lei Complementar nº 207, de 16 de maio de 2024; e dá outras providências”.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/511529">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11818">
-<span class="data">2024-12-19</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 210, de 2024, que &quot;Altera a Lei Complementar nº 200, de 30 de agosto de 2023, que institui regime fiscal sustentável para garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; revoga a Lei Complementar nº 207, de 16 de maio de 2024; e dá outras providências”.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/511550">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11817">
-<span class="data">2024-12-19</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre a Proposta de Emenda à Constituição (PEC) n° 54, de 2024, que &quot;Altera os arts. 37, 163, 165, 212, 212-A e 239 da Constituição Federal e o Ato das Disposições Constitucionais Transitórias (ADCT)”.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/511622">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11816">
-<span class="data">2024-12-19</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o destaque para votação em separado constante do Requerimento nº 981, de 2024, (Requer, pela Liderança do PL, destaque para votação em separado do §11 do art. 37 da Emenda 1 à Proposta de Emenda à Constituição nº 54/2024.) à Proposta de Emenda à Constituição (PEC) n° 54, de 2024, que &quot;Altera os arts. 37, 163, 165, 212, 212-A e 239 da Constituição Federal e o Ato das Disposições Constitucionais Transitórias (ADCT).&quot;</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/511641">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11825">
-<span class="data">2024-12-18</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 124, de 2022, que &quot;Dispõe sobre normas gerais de prevenção de litígio, consensualidade e processo administrativo, em matéria tributária&quot;.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/510652">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11824">
-<span class="data">2024-12-18</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 92, de 2024, que &quot;Altera o art. 3º da Lei Complementar nº 116, de 31 de julho de 2003, para explicitar que o Imposto Sobre Serviços de Qualquer Natureza – ISS incidente sobre os serviços de guincho intramunicipal, guindaste e içamento é devido no local da execução da obra&quot;.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/510691">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11827">
-<span class="data">2024-12-17</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre a Proposta de Emenda à Constituição (PEC) n° 3, de 2020, que &quot;Altera o inciso XXVIII do art. 22 e acrescenta dispositivos aos arts. 23 e 24 da Constituição Federal, para dispor sobre o regime de competência para legislar sobre defesa e segurança cibernética e fixar a competência comum dos entes federados para zelar pela segurança cibernética dos serviços públicos&quot;.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/511122">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11831">
-<span class="data">2024-12-12</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o destaque para votação em separado constante do Requerimento nº 909, de 2024, (Requer, em nome da liderança do PT, destaque para votação em separado da Emenda 2203 ao PLP 68/2024.) ao Projeto de Lei Complementar (PLP) n° 68, de 2024, que &quot;Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); e dá outras providências&quot;.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/511317">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11830">
-<span class="data">2024-12-12</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o destaque para votação em separado constante do Requerimento nº 910, de 2024, (Requer, em nome da liderança do PL, destaque para votação em separado da Emenda 2201 ao PLP 68/2024.) ao Projeto de Lei Complementar (PLP) n° 68, de 2024, que &quot;Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); e dá outras providências&quot;.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/511352">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11829">
-<span class="data">2024-12-12</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o destaque para votação em separado constante do Requerimento nº 915, de 2024, (Requer, em nome da liderança do PSD, destaque para votação em separado da Emenda 2223 ao PLP 68/2024.) ao Projeto de Lei Complementar (PLP) n° 68, de 2024, que &quot;Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); e dá outras providências&quot;.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/511375">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11833">
-<span class="data">2024-11-27</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 153, de 2024, que &quot;Dispõe sobre a transposição e a transferência de saldos financeiros de exercícios passados resultantes de repasses do Fundo Nacional de Desenvolvimento da Educação (FNDE) para os Estados, o Distrito Federal e os Municípios.&quot;</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/510420">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11837">
-<span class="data">2024-11-18</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 175, de 2024, que &quot;Dispõe sobre a proposição e a execução de emendas parlamentares na lei orçamentária anual; e dá outras providências”.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/510180">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11836">
-<span class="data">2024-11-18</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o destaque para votação em separado constante do Requerimento nº 788, de 2024, (Requer, pela Liderança do União, destaque para votação em separado do art. nº 4º do Projeto de Lei Complementar nº 175/2024.) ao Projeto de Lei Complementar (PLP) n° 175, de 2024, que &quot;Dispõe sobre a proposição e a execução de emendas parlamentares na lei orçamentária anual; e dá outras providências.&quot;</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/510197">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11840">
-<span class="data">2024-09-04</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o destaque para votação em separado constante do Requerimento nº 623, de 2024, (Requer, pela Liderança do PSD, destaque para votação em separado da Emenda nº 45 ao Projeto de Lei nº 528/2020.) ao Projeto de Lei (PL) n° 528, de 2020, que &quot;Dispõe sobre a promoção da mobilidade sustentável de baixo carbono e a captura e a estocagem geológica de dióxido de carbono; institui o Programa Nacional de Combustível Sustentável de Aviação (ProBioQAV), o Programa Nacional de Diesel Verde (PNDV) e o Programa Nacional de Descarbonização do Produtor e Importador de Gás Natural e de Incentivo ao Biometano; e altera as Leis nºs 9.478, de 6 de agosto de 1997, 9.847, de 26 de outubro de 1999, 8.723, de 28 de outubro de 1993, e 13.033, de 24 de setembro de 2014&quot;.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/509129">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11851">
-<span class="data">2024-07-03</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o destaque para votação em separado constante do Requerimento nº 466, de 2024, (Requer, pela Liderança do MDB, destaque para votação em separado da Emenda nº 26 ao Projeto de Lei nº 2308/2023.) ao Projeto de Lei (PL) n° 2308, de 2023, que &quot;Institui o marco legal do hidrogênio de baixa emissão de carbono; dispõe sobre a Política Nacional do Hidrogênio de Baixa Emissão de Carbono; institui incentivos para a indústria do hidrogênio de baixa emissão de carbono; institui o Regime Especial de Incentivos para a Produção de Hidrogênio de Baixa Emissão de Carbono (Rehidro); cria o Programa de Desenvolvimento do Hidrogênio de Baixa Emissão de Carbono (PHBC); e altera as Leis nºs 9.427, de 26 de dezembro de 1996, e 9.478, de 6 de agosto de 1997&quot;.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/507574">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11853">
-<span class="data">2024-06-18</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei da Câmara (PLC) n° 29, de 2017, que &quot;Dispõe sobre normas de seguro privado; revoga dispositivos da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil); e dá outras providências.&quot;</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/506920">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11859">
-<span class="data">2024-05-15</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 85, de 2024, que &quot;Autoriza a União a postergar o pagamento da dívida de entes federativos afetados por calamidade pública reconhecida pelo Congresso Nacional, mediante proposta do Poder Executivo federal, e a reduzir a taxa de juros dos contratos de dívida dos referidos entes com a União; e altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), e a Lei Complementar nº 159, de 19 de maio de 2017&quot;.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/505766">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11858">
-<span class="data">2024-05-15</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o destaque para votação em separado constante do Requerimento nº 348, de 2024, ao Projeto de Lei Complementar (PLP) n° 85, de 2024, que &quot;Autoriza a União a postergar o pagamento da dívida de entes federativos afetados por calamidade pública reconhecida pelo Congresso Nacional, mediante proposta do Poder Executivo federal, e a reduzir a taxa de juros dos contratos de dívida dos referidos entes com a União; e altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), e a Lei Complementar nº 159, de 19 de maio de 2017&quot;.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/505793">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11861">
-<span class="data">2024-04-17</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 175, de 2023, que &quot;Altera a Lei Complementar nº 172, de 15 de abril de 2020, a fim de conceder prazo aos Estados, ao Distrito Federal e aos Municípios para executar atos de transposição e de transferência.&quot;</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/505273">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11862">
-<span class="data">2024-04-10</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 252, de 2023, que &quot;Altera a Lei Complementar n° 182, de 1° de junho de 2021, para dispor sobre o contrato de investimento conversível em capital social (CICC)&quot;.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/505021">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11866">
-<span class="data">2024-03-05</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 137, de 2019, que &quot;Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, que institui o Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte, para dispor sobre a cédula de crédito microempresarial.&quot;</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/504354">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11868">
-<span class="data">2024-02-20</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei (PL) n° 2253, de 2022, que &quot;Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para dispor sobre a monitoração eletrônica do preso, prever a realização de exame criminológico para progressão de regime e extinguir o benefício da saída temporária&quot;.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/503972">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11867">
-<span class="data">2024-02-20</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada sobre o Projeto de Lei (PL) n° 2253, de 2022, que &quot;Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para dispor sobre a monitoração eletrônica do preso, prever a realização de exame criminológico para progressão de regime e extinguir o benefício da saída temporária&quot;.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/504002">Ver o pronunciamento no Senado</a>
 </div>
 </blockquote>
 

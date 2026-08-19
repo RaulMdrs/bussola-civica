@@ -18,9 +18,9 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">97,3%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">405 <span>votações computáveis</span></span><span class="n-detalhe">571 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">97,3%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">409 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
 | <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">98,7%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">383 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">97,9%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">518 <span>votações computáveis</span></span><span class="n-detalhe">571 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">97,9%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">523 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
 | <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">99,4%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">494 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
@@ -42,15 +42,15 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 
 | Tema | Alinhamento | Votações (n) |
 |---|---:|---:|
-| [Economia](../../temas/economia/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>69</b></span> |
+| [Economia](../../temas/economia/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>72</b></span> |
 | [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>45</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>24</b></span> |
 | [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>30</b></span> |
 | [Saúde](../../temas/saude/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>27</b></span> |
 | [Indústria, Comércio e Serviços](../../temas/industria-comercio-e-servicos/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>25</b></span> |
-| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">98,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>199</b></span> |
+| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">98,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>203</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">97,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>45</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">97,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>123</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">97,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>124</b></span> |
 | [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | <span class="valor">96,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>29</b></span> |
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">95,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>20</b></span> |
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">93,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>15</b></span> <span class="aviso-n">amostra pequena</span> |
@@ -130,14 +130,14 @@ Acima é amostra, e diz que é. A decomposição completa — **todas** as
 votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
-- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 405 votações
+- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 409 votações
 - [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 383 votações
-- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 518 votações
+- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 523 votações
 - [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 494 votações
 
 ## O que disse em plenário
 
-São **643 discursos** coletados no período, dos quais **512 substantivos** — os outros 131 são
+São **644 discursos** coletados no período, dos quais **513 substantivos** — os outros 131 são
 orientação de bancada, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,15 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-13141">
+<span class="data">2026-08-11 · 16:04</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado afirmou que misoginia não é opinião, mas ódio contra as mulheres, e defendeu a aprovação imediata do Projeto de Lei nº 896, de 2023, que dispõe sobre crimes praticados em razão de misoginia. Além disso, pediu a inclusão da matéria na Ordem do Dia, citou a aprovação unânime no Senado e sustentou que a proposta não configura censura, mas responsabilização por condutas que ferem a dignidade feminina.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-2245">
 <span class="data">2026-07-01 · 18:12</span>
@@ -183,20 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2241">
-<span class="data">2026-06-30 · 15:36</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado afirmou que participou do anúncio do Plano Safra Empresarial e antecipou o lançamento do Plano Safra da Agricultura Familiar, ao destacar a ampliação dos recursos para crédito, armazenamento, assistência técnica e pesquisa. Além disso, ressaltou a retomada das fábricas de fertilizantes como medida para reduzir custos de produção e ampliar a competitividade do setor, e elogiou o Governo Federal pela apresentação de um plano robusto para a agricultura brasileira.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>102</b></span> | 80 |
+| [2026](discursos/2026/) | <span class="n"><b>103</b></span> | 81 |
 | [2025](discursos/2025/) | <span class="n"><b>215</b></span> | 177 |
 | [2024](discursos/2024/) | <span class="n"><b>211</b></span> | 154 |
 | [2023](discursos/2023/) | <span class="n"><b>115</b></span> | 101 |

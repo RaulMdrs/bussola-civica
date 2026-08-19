@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Franciane Bayer — Alinhamento com o governo federal, Mérito"
-description: "A decomposição completa: todas as 392 votações que compõem o número de Franciane Bayer, uma por linha, com link para a fonte."
+description: "A decomposição completa: todas as 395 votações que compõem o número de Franciane Bayer, uma por linha, com link para a fonte."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa: todas as 392 votações que compõem o 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>57,7%</b> é <b>226</b> coincidências em
-<b>392</b> votações computáveis — as outras 166 estão
+<p><b>57,7%</b> é <b>228</b> coincidências em
+<b>395</b> votações computáveis — as outras 167 estão
 aqui também. Esta página não é amostra: é a decomposição completa do
 número, e some ou cresce junto com ele.</p>
 </div>
@@ -23,6 +23,9 @@ número, e some ou cresce junto com ele.</p>
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 2026-08-12 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. Sim: 333; Não: 91; Total: 424. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2580259-24](https://dadosabertos.camara.leg.br/api/v2/votacoes/2580259-24) |
+| 2026-08-12 | Rejeitadas as Emendas de Plenário. Sim: 108; Não: 275; Abstenção: 1; Total: 384. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2618177-73](https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-73) |
+| 2026-08-12 | Rejeitada a Emenda de Plenário nº 1. Sim: 105; Não: 233; Total: 338. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2618177-82](https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-82) |
 | 2026-07-14 | Rejeitada a Emenda de Plenário nº 2. Sim: 134; Não: 285; Abstenção: 2; Total: 421. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2638483-34](https://dadosabertos.camara.leg.br/api/v2/votacoes/2638483-34) |
 | 2026-07-07 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 41, de 2026, adotado pela relatora da Comissão de Defesa dos Direitos da Mulher. Sim: 470; Não: 1; Total: 471. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2606313-36](https://dadosabertos.camara.leg.br/api/v2/votacoes/2606313-36) |
 | 2026-06-17 | Rejeitada a Emenda n° 102. Sim: 22; Não: 378; Abstenção: 1; Total: 401. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2610975-23](https://dadosabertos.camara.leg.br/api/v2/votacoes/2610975-23) |

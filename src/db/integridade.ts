@@ -23,6 +23,26 @@ export interface Invariante {
 
 export const INVARIANTES: Invariante[] = [
   {
+    nome: "político com mais de uma filiação aberta",
+    porque:
+      "Ninguém é filiado a dois partidos ao mesmo tempo, e o site resolve a " +
+      "legenda por `LEFT JOIN filiacao ... WHERE data_fim IS NULL` — duas " +
+      "abertas duplicam a pessoa na listagem. Aconteceu em 2026-08-19: a " +
+      "origem **reescreveu o próprio histórico** (o de Afonso Hamm passou de " +
+      "três filiações para uma), a etapa `deputados` inseriu a nova sem " +
+      "fechar a antiga, e o índice passou a contar 35 deputados para 31 " +
+      "cadeiras.",
+    sql: `
+      SELECT p.nome_parlamentar, COUNT(*) AS abertas,
+             GROUP_CONCAT(pt.sigla) AS siglas
+      FROM politico p
+      JOIN filiacao f ON f.politico_id = p.id AND f.data_fim IS NULL
+      JOIN partido pt ON pt.id = f.partido_id
+      GROUP BY p.id
+      HAVING COUNT(*) > 1
+      ORDER BY p.nome_parlamentar`,
+  },
+  {
     nome: "votação nominal sem nenhum voto gravado",
     porque:
       "`nominal` é derivado de `votos.length > 0` — se a votação foi marcada " +

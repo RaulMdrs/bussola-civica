@@ -132,6 +132,7 @@ const fonteVotacao = (cod: number) =>
 
 export async function ingerirSenado(ctx: Contexto, inicio: string, fim: string) {
   ctx.log(`Senado — ${inicio} → ${fim}`);
+  const iniciadoTudo = new Date().toISOString();
 
   await ingerirSenadores(ctx);
 
@@ -175,6 +176,27 @@ export async function ingerirSenado(ctx: Contexto, inicio: string, fim: string) 
   }
 
   await ingerirDiscursosSenado(ctx, inicio, fim);
+
+  /**
+   * Recurso-resumo: declara **até que dia se olhou**, que é o que a retomada
+   * incremental precisa saber (`GLOB_SENADO` em horizonte.ts). As linhas por
+   * ano acima dizem o que foi pedido a cada requisição; nenhuma delas responde
+   * à pergunta do horizonte, porque `ano=2026` não é uma data.
+   *
+   * Gravado por último e só quando tudo passou: linha de cobertura escrita
+   * antes do fim afirmaria varredura que não aconteceu.
+   */
+  await ctx.db.insert(s.coleta).values({
+    fonte: "senado",
+    recurso: `senado ${inicio}..${fim}`,
+    url: `${BASE}/votacao`,
+    iniciadoEm: iniciadoTudo,
+    concluidoEm: new Date().toISOString(),
+    status: "ok",
+    httpStatus: 200,
+    tentativas: 0,
+    registros: total,
+  });
 }
 
 /**

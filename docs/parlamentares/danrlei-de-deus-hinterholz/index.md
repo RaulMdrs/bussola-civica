@@ -18,9 +18,9 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">54,1%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">181 <span>votações computáveis</span></span><span class="n-detalhe">337 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">53,0%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">185 <span>votações computáveis</span></span><span class="n-detalhe">342 <span>votações no exercício</span></span> |
 | <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">40,4%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">146 <span>votações computáveis</span></span><span class="n-detalhe">327 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">71,2%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">236 <span>votações computáveis</span></span><span class="n-detalhe">337 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">70,4%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">240 <span>votações computáveis</span></span><span class="n-detalhe">342 <span>votações no exercício</span></span> |
 | <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">61,7%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">206 <span>votações computáveis</span></span><span class="n-detalhe">327 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
@@ -44,11 +44,11 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 |---|---:|---:|
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>7</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>11</b></span> <span class="aviso-n">amostra pequena</span> |
-| [Economia](../../temas/economia/) | <span class="valor">80,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>10</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Indústria, Comércio e Serviços](../../temas/industria-comercio-e-servicos/) | <span class="valor">71,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>7</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | <span class="valor">63,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>11</b></span> <span class="aviso-n">amostra pequena</span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">58,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>63</b></span> |
-| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">56,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>75</b></span> |
+| [Economia](../../temas/economia/) | <span class="valor">61,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>13</b></span> <span class="aviso-n">amostra pequena</span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">57,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>64</b></span> |
+| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">53,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>79</b></span> |
 | [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">50,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>12</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">47,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>23</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">44,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>9</b></span> <span class="aviso-n">amostra pequena</span> |
@@ -69,58 +69,58 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-03-25</span>
+<span class="data">2026-08-12</span>
 <div class="corpo">
-<p>Aprovado o Projeto de Lei Complementar nº 77, de 2026, ressalvado o destaque. <span class="placar">Sim: 391; Não: 33; Abstenção: 2; Total: 426.</span></p>
+<p>Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. <span class="placar">Sim: 318; Não: 113; Abstenção: 1; Total: 432.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2611717-33">Ver votação na fonte oficial</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-71">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-02-09</span>
+<span class="data">2026-08-12</span>
 <div class="corpo">
-<p>Aprovada a Medida Provisória nº 1.317, de 2025, na forma do Projeto de Lei de Conversão. <span class="placar">Sim: 271; Não: 127; Total: 398.</span></p>
-<p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2562173-30">Ver votação na fonte oficial</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia">
-<span class="data">2025-12-16</span>
-<div class="corpo">
-<p>Suprimido o texto. <span class="placar">Sim: 221; Não: 242; Abstenção: 2; Total: 465.</span></p>
+<p>Rejeitadas as Emendas de Plenário. <span class="placar">Sim: 108; Não: 275; Abstenção: 1; Total: 384.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2438459-146">Ver votação na fonte oficial</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-73">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia">
+<span class="data">2026-08-12</span>
+<div class="corpo">
+<p>Rejeitada a Emenda de Plenário nº 1. <span class="placar">Sim: 105; Não: 233; Total: 338.</span></p>
+<p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-82">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-06-17</span>
+<span class="data">2026-08-12</span>
 <div class="corpo">
-<p>Aprovado o Substitutivo ao Projeto de Lei nº 4.133, de 2023, adotado pelo relator da Comissão de Ciência, Tecnologia e Inovação. <span class="placar">Sim: 308; Não: 129; Abstenção: 1; Total: 438.</span></p>
-<p class="referencia">Maioria do partido: sim (32 sim / 4 não entre os pares) — voto registrado: <b>nao</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2382675-97">Ver votação na fonte oficial</a>
+<p>Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. <span class="placar">Sim: 318; Não: 113; Abstenção: 1; Total: 432.</span></p>
+<p class="referencia">Maioria do partido: sim (38 sim / 1 não entre os pares) — voto registrado: <b>nao</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-71">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-05-20</span>
+<span class="data">2026-08-12</span>
 <div class="corpo">
-<p>Rejeitada a Emenda de Plenário nº 2. <span class="placar">Sim: 196; Não: 200; Abstenção: 1; Total: 397.</span></p>
-<p class="referencia">Maioria do partido: nao (8 sim / 26 não entre os pares) — voto registrado: <b>sim</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2613731-47">Ver votação na fonte oficial</a>
+<p>Rejeitadas as Emendas de Plenário. <span class="placar">Sim: 108; Não: 275; Abstenção: 1; Total: 384.</span></p>
+<p class="referencia">Maioria do partido: nao (0 sim / 33 não entre os pares) — voto registrado: <b>sim</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-73">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-03-25</span>
+<span class="data">2026-08-12</span>
 <div class="corpo">
-<p>Aprovado o Projeto de Lei Complementar nº 77, de 2026, ressalvado o destaque. <span class="placar">Sim: 391; Não: 33; Abstenção: 2; Total: 426.</span></p>
-<p class="referencia">Maioria do partido: sim (28 sim / 3 não entre os pares) — voto registrado: <b>nao</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2611717-33">Ver votação na fonte oficial</a>
+<p>Rejeitada a Emenda de Plenário nº 1. <span class="placar">Sim: 105; Não: 233; Total: 338.</span></p>
+<p class="referencia">Maioria do partido: nao (4 sim / 24 não entre os pares) — voto registrado: <b>sim</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-82">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
@@ -130,9 +130,9 @@ Acima é amostra, e diz que é. A decomposição completa — **todas** as
 votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
-- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 181 votações
+- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 185 votações
 - [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 146 votações
-- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 236 votações
+- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 240 votações
 - [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 206 votações
 
 ## O que disse em plenário

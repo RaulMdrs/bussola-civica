@@ -32,7 +32,7 @@ import { descobrirJanelas, type Origem } from "./horizonte.ts";
 const CLI = fileURLToPath(new URL("./index.ts", import.meta.url));
 
 /** Dependem da janela: coletam de uma fonte externa recortada por data. */
-const ETAPAS_COLETA = "referencias,deputados,votacoes,proposicoes,discursos";
+const ETAPAS_COLETA = "referencias,deputados,votacoes,proposicoes,discursos,senado";
 
 /**
  * Não dependem da janela de coleta: re-derivam do que já está no banco. Rodam
@@ -116,6 +116,7 @@ console.log(`Bússola Cívica — ingestão incremental`);
 console.log(`banco           ${caminho}`);
 console.log(`horizontes      votações  ${j.votacoes.ate}${nota(j.votacoes.origem)}`);
 console.log(`                discursos ${j.discursos.ate}${nota(j.discursos.origem)}`);
+console.log(`                senado    ${j.senado.ate}${nota(j.senado.origem)}`);
 console.log(`coleta          ${j.inicio} → ${j.fim}`);
 console.log(`derivação       ${leg.ini} → ${j.fim}  (legislatura inteira)\n`);
 

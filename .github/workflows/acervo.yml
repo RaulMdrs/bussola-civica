@@ -1,0 +1,139 @@
+# Atualização semanal do acervo e do site.
+#
+# Substitui a rotina manual descrita no CHECKPOINT §11:
+#
+#   npm run ingerir:incremental && npm run site && git commit -am "..."
+#
+# Não há modelo de linguagem envolvido — são scripts determinísticos. Para
+# repositório público, runners padrão do GitHub não têm limite de minutos, e as
+# APIs da Câmara e do Senado não cobram nem autenticam. O custo é zero.
+#
+# ## Por que duas vezes por semana, e não uma
+#
+# O acervo tem 78 MB e vive no cache do Actions, que **descarta entradas não
+# acessadas há mais de 7 dias**. Um cron semanal fica exatamente na borda: uma
+# execução atrasada por indisponibilidade do runner apagaria o banco. Segunda e
+# quinta mantêm a distância máxima em 4 dias, com folga.
+#
+# ## Por que falhar em vez de reconstruir
+#
+# Sem banco, `ingerir:incremental` falha dizendo como reconstruir — e é o
+# comportamento certo aqui também. Reconstruir do zero são 91 minutos e ~9.700
+# requisições contra APIs públicas; disparar isso sozinho, sem ninguém olhando,
+# por causa de um cache despejado, é o tipo de automação que castiga a fonte.
+# Se o cache sumir, a Action para e avisa.
+#
+# ## Por que validar antes de publicar
+#
+# Em 2026-08-19 a Câmara reescreveu o histórico de filiação de quatro deputados.
+# O ingestor acumulou em vez de substituir, o índice passou a listar 35
+# deputados para 31 cadeiras, e nada disso deu erro. O invariante que pega esse
+# estado roda **antes** do commit: acervo incoerente não vira site.
+
+name: Acervo
+
+on:
+  schedule:
+    # 09:10 UTC = 06:10 em Brasília, segundas e quintas.
+    - cron: "10 9 * * 1,4"
+  workflow_dispatch:
+    inputs:
+      reconstruir:
+        description: "Reconstruir o acervo do zero (~91 min). Use só para semear o cache."
+        type: boolean
+        default: false
+
+concurrency:
+  group: acervo
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    # A reconstrução leva ~91 min; a rotina normal, minutos. O teto acompanha.
+    timeout-minutes: ${{ inputs.reconstruir && 180 || 30 }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+
+      # `engine-strict=true` no .npmrc faz isto falhar se o runner trouxer Node
+      # abaixo de 22.6 — antes de qualquer coleta, não no meio dela.
+      - run: npm ci
+
+      # O cache é imutável por chave: a chave leva o run_id para que o banco
+      # atualizado seja salvo ao fim, e `restore-keys` recupera o mais recente.
+      - name: Restaurar o acervo
+        uses: actions/cache@v4
+        with:
+          path: data/bussola.db
+          key: acervo-${{ github.run_id }}
+          restore-keys: acervo-
+
+      # Checar o arquivo, não a saída da action: cobre cache ausente e cache
+      # restaurado vazio ou truncado com a mesma condição, e não depende do
+      # nome de um output que pode mudar entre versões da action.
+      # Ovo e galinha: o cache só é escrito ao fim de uma execução bem-sucedida,
+      # e a execução exige o cache. Este passo é a única saída, e é manual de
+      # propósito — alguém decide reconstruir, ninguém tropeça nisso.
+      - name: Reconstruir do zero (manual)
+        if: ${{ inputs.reconstruir }}
+        env:
+          BUSSOLA_CPF_SEGREDO: ${{ secrets.BUSSOLA_CPF_SEGREDO }}
+        run: |
+          rm -f data/bussola.db
+          npm run db:migrar
+          npm run ingerir -- --inicio 2023-02-01 --fim "$(TZ=America/Sao_Paulo date +%F)"
+
+      - name: Exigir o acervo
+        run: |
+          if [ ! -s data/bussola.db ]; then
+            echo "::error::O acervo não veio do cache (data/bussola.db ausente ou vazio)."
+            echo ""
+            echo "Reconstruir do zero são ~91 min e ~9.700 requisições contra as"
+            echo "APIs públicas. Esta Action não faz isso sozinha, de propósito."
+            echo ""
+            echo "Para restabelecer: dispare esta Action à mão com a opção"
+            echo "'reconstruir' marcada. É o único caminho que reconstrói, e"
+            echo "exige alguém decidindo."
+            exit 1
+          fi
+          echo "acervo: $(du -h data/bussola.db | cut -f1)"
+
+      - name: Coletar o que há de novo
+        env:
+          BUSSOLA_CPF_SEGREDO: ${{ secrets.BUSSOLA_CPF_SEGREDO }}
+        run: npm run ingerir:incremental
+
+      # Duas perguntas diferentes: o schema responde certo aos casos de borda,
+      # e o acervo real está internamente coerente. As duas antes de publicar.
+      - name: Validar o modelo
+        run: npm run db:validar
+
+      - name: Conferir o acervo
+        run: npm run relatorio
+
+      - name: Gerar o site
+        run: npm run site
+
+      - name: Publicar se algo mudou
+        run: |
+          if git diff --quiet -- docs/; then
+            echo "Nada mudou no site — nenhum commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git commit -m "Atualiza o acervo — $(date -u +%F)
+
+          Gerado por .github/workflows/acervo.yml.
+          O diff mostra o que mudou nos números desde a última execução."
+          git push

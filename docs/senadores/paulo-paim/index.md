@@ -12,7 +12,7 @@ description: "Como Paulo Paim vota no Senado: coesão com o próprio partido, a 
 <div class="interrompe">
 <h4>Não compare estes números com os dos deputados</h4>
 <p>O Senado tem outro universo: <b>116 votações abertas</b> no
-período, contra 1.117 nominais da Câmara, porque
+período, contra 1.122 nominais da Câmara, porque
 <b>67% das votações do Senado são secretas</b> — nelas a origem
 confirma que o senador votou, não como.</p>
 </div>
@@ -74,15 +74,7 @@ As descrições são o texto original da fonte oficial.
 
 ## O que disse em plenário
 
-São **506 discursos** coletados no período, dos quais **503 substantivos** — os outros 3 são
-orientação de bancada, que a classificação separa do perfil e
-**não descarta**: estão nas páginas por ano, na íntegra.
-
-> No Senado, quem separa é a **própria fonte**: cada pronunciamento vem
-> com o tipo de uso da palavra publicado pela Casa, e é dele que sai a
-> classificação — não de uma regra nossa. A regra da Câmara foi calibrada
-> contra texto da Câmara, e aplicá-la aqui repetiria o erro que este
-> projeto recusou no recorte entre mérito e procedimental.
+São **506 discursos** coletados no período, todos substantivos.
 
 O que aparece abaixo é o sumário publicado pelo Senado.
 O texto integral não é reproduzido aqui — o link de cada discurso leva à
@@ -141,7 +133,7 @@ fonte que o publicou.
 |---|---:|---:|
 | [2026](discursos/2026/) | <span class="n"><b>65</b></span> | 65 |
 | [2025](discursos/2025/) | <span class="n"><b>135</b></span> | 135 |
-| [2024](discursos/2024/) | <span class="n"><b>138</b></span> | 135 |
+| [2024](discursos/2024/) | <span class="n"><b>138</b></span> | 138 |
 | [2023](discursos/2023/) | <span class="n"><b>168</b></span> | 168 |
 {: .t-anos}
 

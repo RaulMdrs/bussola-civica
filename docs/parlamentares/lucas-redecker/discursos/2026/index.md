@@ -7,7 +7,7 @@ description: "Os discursos de Lucas Redecker em 2026, com o sumário oficial e l
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Lucas Redecker</a></b> · PSD · 5 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Lucas Redecker</a></b> · PSD · 6 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
@@ -16,7 +16,16 @@ description: "Os discursos de Lucas Redecker em 2026, com o sumário oficial e l
 > neste site: o link de cada discurso leva ao **Diário da Câmara**
 > , onde ele está publicado, ou à **API** quando a origem não o publicou no Diário.
 
-## Substantivos — 5
+## Substantivos — 6
+
+<blockquote class="evidencia discurso" id="d-13145">
+<span class="data">2026-08-12 · 15:16</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado afirmou que recentes decisões do Supremo Tribunal Federal (STF) de autorizar investigações relacionadas a Lulinha confirmariam denúncias debatidas na CPI do INSS sobre um suposto esquema de triangulação de recursos envolvendo escritórios de advocacia, assessorias e pessoas ligadas ao Governo Federal. Criticou a não aprovação do relatório da comissão, atribuindo o resultado à atuação do Governo e ao sigilo de provas. Também cobrou esclarecimentos de Ministros do STF sobre alegações de possíveis conflitos de interesse envolvendo o Banco Master e outras denúncias divulgadas, defendendo maior transparência por parte da Corte. Ao final, afirmou que continuará acompanhando as investigações sobre fraudes no INSS e defendeu a responsabilização dos envolvidos e a recuperação dos recursos desviados em benefício dos aposentados.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204404/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-3504">
 <span class="data">2026-06-09 · 13:56</span>

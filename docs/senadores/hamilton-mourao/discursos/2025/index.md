@@ -16,7 +16,16 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 > neste site: o link de cada discurso leva à página oficial do
 > **pronunciamento**, onde ele está publicado.
 
-## Substantivos — 14
+## Substantivos — 25
+
+<blockquote class="evidencia discurso" id="d-11873">
+<span class="data">2025-12-09</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, constante do Requerimento nº 911, de 2025, (Requer calendário especial para a Proposta de Emenda à Constituição nº 48/2023.) à Proposta de Emenda à Constituição (PEC) n° 48, de 2023, que &quot;Altera o §1º do art. 231 da Constituição Federal para definir marco temporal de demarcação das terras tradicionalmente ocupadas pelos povos indígenas”.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/519103">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-11874">
 <span class="data">2025-12-02</span>
@@ -54,12 +63,39 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
+<blockquote class="evidencia discurso" id="d-11876">
+<span class="data">2025-10-22</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 204, de 2025, que &quot;Estabelece programação orçamentária não sujeita às metas fiscais, desvincula recursos, e veda limitação de empenho em projetos estratégicos para a Defesa Nacional&quot;.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/517831">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
 <blockquote class="evidencia discurso" id="d-11879">
 <span class="data">2025-10-08</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
 <p>Alerta a respeito do aumento das tensões, da instabilidade e dos conflitos armados no cenário internacional, destacando a necessidade de se valorizar as Forças Armadas do país para a garantia dos interesses estratégicos e da soberania nacional.</p>
 <a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/517127">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11881">
+<span class="data">2025-09-24</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 168, de 2025, que &quot;Dispõe sobre procedimentos excepcionais para despesas e renúncias fiscais associadas à mitigação dos impactos sociais e econômicos causados pela imposição de tarifas adicionais sobre exportações brasileiras aos Estados Unidos da América”.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/516922">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11880">
+<span class="data">2025-09-24</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada sobre o Projeto de Lei Complementar (PLP) n° 168, de 2025, que &quot;Dispõe sobre procedimentos excepcionais para despesas e renúncias fiscais associadas à mitigação dos impactos sociais e econômicos causados pela imposição de tarifas adicionais sobre exportações brasileiras aos Estados Unidos da América”.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/516923">Ver o pronunciamento no Senado</a>
 </div>
 </blockquote>
 
@@ -90,12 +126,48 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
+<blockquote class="evidencia discurso" id="d-11886">
+<span class="data">2025-07-16</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 234, de 2024, que &quot;Dispõe sobre condições e limites para a concessão, a ampliação ou a prorrogação de incentivos fiscais ao desporto pela União, pelos Estados, pelo Distrito Federal e pelos Municípios; altera a Lei nº 14.260, de 8 de dezembro de 2021; e revoga a Lei nº 11.438, de 29 de dezembro de 2006&quot;.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/515329">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11885">
+<span class="data">2025-07-16</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Bloco Parlamentar Aliança, sobre a Proposta de Emenda à Constituição (PEC) n° 66, de 2023, que &quot;Abre novo prazo de parcelamento especial de débitos dos municípios com seus Regimes Próprios de Previdência Social dos Servidores Públicos e com o Regime Geral de Previdência Social&quot;.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/515382">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
 <blockquote class="evidencia discurso" id="d-11887">
 <span class="data">2025-07-08</span>
 <div class="corpo">
 <p class="tipo">Como Relator - Para proferir parecer</p>
 <p>Como Relator, para proferir parecer sobre o Projeto de Lei (PL) n° 2352, de 2023, que &quot;Altera as Leis nºs 4.117, de 27 de agosto de 1962 (Código Brasileiro de Telecomunicações), 9.612, de 19 de fevereiro de 1998, 13.424, de 28 de março de 2017, 5.785, de 23 de junho de 1972, e 5.768, de 20 de dezembro de 1971, para estabelecer diretrizes relacionadas à autorização de modificações de características técnicas, à apresentação de documentos, aos procedimentos de renovação de outorgas e à promoção de recursos de acessibilidade, com o intuito de promover a modernização da legislação sobre serviços de radiodifusão; e revoga a Lei nº 6.606, de 7 de dezembro de 1978&quot;.</p>
 <a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/515177">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11888">
+<span class="data">2025-07-02</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada sobre o Projeto de Lei Complementar (PLP) n° 167, de 2024, que &quot;Institui o Programa Acredita Exportação; e altera a Lei Complementar nº 123, de 14 de dezembro de 2006, e as Leis nºs 13.043, de 13 de novembro de 2014, 11.945, de 4 de junho de 2009, e 10.833, de 29 de dezembro de 2003, a fim de ampliar benefícios para determinados serviços nos regimes aduaneiros especiais de drawback e do Regime Aduaneiro Especial de Entreposto Industrial sob Controle Informatizado (Recof) e incentivar as exportações brasileiras, especialmente as dos pequenos negócios”.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/514819">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11889">
+<span class="data">2025-05-27</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre a Proposta de Emenda à Constituição (PEC) n° 37, de 2022, que &quot;Modifica o art. 144 da Constituição Federal, a fim de incluir as guardas municipais e os agentes de trânsito entre os órgãos que compõem a segurança pública&quot;.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/514174">Ver o pronunciamento no Senado</a>
 </div>
 </blockquote>
 
@@ -141,89 +213,6 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 <p class="tipo">Discurso</p>
 <p>Reflexão sobre os impactos geopolíticos e comerciais decorrentes da nova postura do Governo dos Estados Unidos da América e sobre a política externa que o Brasil deveria adotar diante do atual cenário internacional</p>
 <a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/512926">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-## Classificados como protocolares — 11
-
-<div class="ausencia">
-<h4>Fora do perfil, dentro do acervo</h4>
-<p>Estes discursos não entram na seção do perfil porque são ato de
-procedimento, não posição: <b>orientação de bancada</b> (que já está
-estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
-<b>registro de presença</b>. A classificação separa; ela não exclui — por
-isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
-</div>
-
-<blockquote class="evidencia discurso" id="d-11873">
-<span class="data">2025-12-09</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, constante do Requerimento nº 911, de 2025, (Requer calendário especial para a Proposta de Emenda à Constituição nº 48/2023.) à Proposta de Emenda à Constituição (PEC) n° 48, de 2023, que &quot;Altera o §1º do art. 231 da Constituição Federal para definir marco temporal de demarcação das terras tradicionalmente ocupadas pelos povos indígenas”.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/519103">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11876">
-<span class="data">2025-10-22</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 204, de 2025, que &quot;Estabelece programação orçamentária não sujeita às metas fiscais, desvincula recursos, e veda limitação de empenho em projetos estratégicos para a Defesa Nacional&quot;.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/517831">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11881">
-<span class="data">2025-09-24</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 168, de 2025, que &quot;Dispõe sobre procedimentos excepcionais para despesas e renúncias fiscais associadas à mitigação dos impactos sociais e econômicos causados pela imposição de tarifas adicionais sobre exportações brasileiras aos Estados Unidos da América”.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/516922">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11880">
-<span class="data">2025-09-24</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada sobre o Projeto de Lei Complementar (PLP) n° 168, de 2025, que &quot;Dispõe sobre procedimentos excepcionais para despesas e renúncias fiscais associadas à mitigação dos impactos sociais e econômicos causados pela imposição de tarifas adicionais sobre exportações brasileiras aos Estados Unidos da América”.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/516923">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11886">
-<span class="data">2025-07-16</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 234, de 2024, que &quot;Dispõe sobre condições e limites para a concessão, a ampliação ou a prorrogação de incentivos fiscais ao desporto pela União, pelos Estados, pelo Distrito Federal e pelos Municípios; altera a Lei nº 14.260, de 8 de dezembro de 2021; e revoga a Lei nº 11.438, de 29 de dezembro de 2006&quot;.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/515329">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11885">
-<span class="data">2025-07-16</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Bloco Parlamentar Aliança, sobre a Proposta de Emenda à Constituição (PEC) n° 66, de 2023, que &quot;Abre novo prazo de parcelamento especial de débitos dos municípios com seus Regimes Próprios de Previdência Social dos Servidores Públicos e com o Regime Geral de Previdência Social&quot;.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/515382">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11888">
-<span class="data">2025-07-02</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada sobre o Projeto de Lei Complementar (PLP) n° 167, de 2024, que &quot;Institui o Programa Acredita Exportação; e altera a Lei Complementar nº 123, de 14 de dezembro de 2006, e as Leis nºs 13.043, de 13 de novembro de 2014, 11.945, de 4 de junho de 2009, e 10.833, de 29 de dezembro de 2003, a fim de ampliar benefícios para determinados serviços nos regimes aduaneiros especiais de drawback e do Regime Aduaneiro Especial de Entreposto Industrial sob Controle Informatizado (Recof) e incentivar as exportações brasileiras, especialmente as dos pequenos negócios”.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/514819">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11889">
-<span class="data">2025-05-27</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre a Proposta de Emenda à Constituição (PEC) n° 37, de 2022, que &quot;Modifica o art. 144 da Constituição Federal, a fim de incluir as guardas municipais e os agentes de trânsito entre os órgãos que compõem a segurança pública&quot;.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/514174">Ver o pronunciamento no Senado</a>
 </div>
 </blockquote>
 

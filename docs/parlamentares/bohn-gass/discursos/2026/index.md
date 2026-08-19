@@ -7,7 +7,7 @@ description: "Os discursos de Bohn Gass em 2026, com o sumário oficial e link p
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Bohn Gass</a></b> · PT · 102 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Bohn Gass</a></b> · PT · 103 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
@@ -16,7 +16,16 @@ description: "Os discursos de Bohn Gass em 2026, com o sumário oficial e link p
 > neste site: o link de cada discurso leva ao **Diário da Câmara**
 > , onde ele está publicado, ou à **API** quando a origem não o publicou no Diário.
 
-## Substantivos — 80
+## Substantivos — 81
+
+<blockquote class="evidencia discurso" id="d-13141">
+<span class="data">2026-08-11 · 16:04</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado afirmou que misoginia não é opinião, mas ódio contra as mulheres, e defendeu a aprovação imediata do Projeto de Lei nº 896, de 2023, que dispõe sobre crimes praticados em razão de misoginia. Além disso, pediu a inclusão da matéria na Ordem do Dia, citou a aprovação unânime no Senado e sustentou que a proposta não configura censura, mas responsabilização por condutas que ferem a dignidade feminina.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-2245">
 <span class="data">2026-07-01 · 18:12</span>
