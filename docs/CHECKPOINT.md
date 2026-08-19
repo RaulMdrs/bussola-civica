@@ -1,9 +1,9 @@
 # CHECKPOINT — Bússola Cívica
 
-**Data:** 2026-08-16 · **Fase:** 0 concluída · Fase 1 (Senado) integrada
-**Estado:** backend e site no ar, com design próprio, os 5.851 discursos
-visíveis com busca, e **todo número decomposto até a votação que o compõe**.
-Coleta, modelo, cálculo, metodologia pública e camada web funcionando e
+**Data:** 2026-08-19 · **Fase:** 0 concluída · Fase 1 (Senado) integrada
+**Estado:** backend e site no ar, com design próprio, **6.568 discursos das duas
+casas** visíveis e buscáveis, e todo número decomposto até a votação que o
+compõe. Coleta, modelo, cálculo, metodologia pública e camada web funcionando e
 validados contra dados reais. App mobile não iniciado.
 
 Site: <https://raulmdrs.github.io/bussola-civica/>
@@ -36,10 +36,12 @@ repositório, onde é `FONTES.md` que existe — nas páginas publicadas é `/FO
 | 16 | Discursos no site | 5.851 discursos visíveis, 111 páginas por parlamentar e ano (§6.4) |
 | 17 | Busca nos discursos | `docs/assets/busca.js` — 236 linhas à mão, sob demanda, degrada sem script (§6.5) |
 | 18 | Decomposição completa | 47.441 votações em 127 páginas — cada percentual do site vira link para a sua conta (§6.6) |
+| 19 | Discursos do Senado | etapa `senado` — 717 pronunciamentos, classificados **pela própria fonte** (§6.7) |
 
-Banco atual: **80 MB**. Câmara: 6.291 votações (1.117 nominais), 452.356 votos.
-Senado: 353 votações (114 abertas), 28.593 votos. 34 parlamentares com perfil
-completo — 31 deputados e 3 senadores —, 871 posições e 86.315 evidências.
+Banco atual: **78 MB**. Câmara: 6.291 votações (1.117 nominais), 452.356 votos.
+Senado: 355 votações (116 abertas), 28.755 votos. 34 parlamentares com perfil
+completo — 31 deputados e 3 senadores —, 871 posições e 86.321 evidências.
+**6.568 discursos**: 5.851 da Câmara e 717 do Senado.
 
 O acervo foi **reconstruído do zero** em 2026-08-07 (91 min, ~9.700 operações) e
 reproduziu exatamente os totais estruturais da coleta anterior — 1.112 nominais,
@@ -186,6 +188,9 @@ Base: `https://legis.senado.leg.br/dadosabertos`
 |---|---|---|
 | `GET /senador/lista/atual.json` | ✅ testado | 3 senadores do RS |
 | `GET /senador/{cod}/votacoes.json` | ⚠️ **depreciado** | Desativação marcada para **2026-02-01** — data já passada |
+| `GET /senador/{cod}/discursos.json` | ✅ **usado** | **Janela grampeada em 12 meses, sem aviso** — coletar ano a ano (FONTES §2.5) |
+| `GET /senador/{cod}/apartes.json` | ✅ testado | Aparte é fala no discurso de outro; fora do escopo |
+| `GET /senador/{cod}/pronunciamentos.json` | ❌ 404 | O caminho é `discursos` |
 | `GET /votacao` | ✅ testado | Substituto; votos embutidos; `pagina`/`itens` ignorados |
 | `GET /votacao?ano=2025` | ✅ testado | 93 votações |
 | `GET /votacao?dataInicio=2025-04-01&dataFim=...` | ✅ testado | Exige `YYYY-MM-DD` (`YYYYMMDD` → 400) |
@@ -509,6 +514,82 @@ páginas. É o maior salto do projeto. Por página o peso é baixo — a maior t
 KB de Markdown e **23 KB pelo fio** —, mas o repositório inteiro é reconstruído
 a cada `npm run site`, e isso muda a conta da automação (§11).
 
+### 6.7 Discursos do Senado — a armadilha da janela
+
+A lacuna estava registrada como "desconhecida, que é pior que bloqueada": não
+havia reconhecimento nenhum sobre se a fonte entrega discurso de senador. Entrega
+— e bem. Mas o caminho até lá tem um alçapão.
+
+#### A janela é grampeada em 12 meses, em silêncio
+
+`GET /senador/{cod}/discursos.json` **ignora `dataInicio` além de 12 meses antes
+de `dataFim`**, e não avisa. Medido para Paulo Paim em 2026-08-18:
+
+| Janela pedida | Devolvidos | Período realmente coberto |
+|---|---:|---|
+| `20230201..20260818` (3,5 anos) | 134 | 2025-08-18 .. 2026-07-14 |
+| `20250801..20260818` (12 meses) | 134 | 2025-08-18 .. 2026-07-14 |
+| `20240818..20260818` (24 meses) | 134 | 2025-08-18 .. 2026-07-14 |
+| ano a ano, 2023 + 2024 + 2025 + 2026 | **506** | 2023-02 .. 2026-07 |
+
+Não há erro, não há aviso, não há paginação. A resposta é 200 e parece completa.
+Uma coleta ingênua registraria **26% do acervo como se fosse tudo**, e a
+auditoria em `coleta` diria "ok" — porque ela audita a requisição, não a
+verdade da resposta.
+
+**Como apareceu:** 2023 e 2024 vieram vazios para um senador que fala muito.
+Implausível o bastante para investigar em vez de aceitar. É o passo 5 do §3.1
+— medir cobertura antes de prometer — fazendo exatamente o que existe para
+fazer, e é o argumento mais forte a favor do método que este documento registra.
+
+A janela agora é sempre um ano-calendário (`LIMITE_JANELA_MESES` em
+`src/ingest/senado.ts`), e o recurso gravado em `coleta` declara qual ano.
+
+#### Classificação vem da fonte, não da nossa regra
+
+`src/lib/classificar.ts` foi calibrado contra sumário e tipo da **Câmara**.
+Rodá-lo aqui repetiria o erro que o projeto recusou no recorte mérito ×
+procedimental (§6.1): aplicar a senador uma regra medida em deputado.
+
+Não é preciso. O Senado publica `TipoUsoPalavra` — classificação **oficial** do
+ato, com 14 valores observados —, e nela `Orientação à bancada` vem nomeada pela
+própria origem. É o mesmo critério da Câmara chegando por um caminho melhor:
+declarado, não inferido. O banco grava
+`classificacao_versao = 'oficial:TipoUsoPalavra'`, então cada linha diz qual
+regra a produziu.
+
+Os 61 registros que a origem marca `Não classificado` continuam substantivos:
+dizer que não classificou não é dizer que é protocolar, e decidir por ela seria
+rotular por conta própria.
+
+#### A fonte é melhor que a da Câmara
+
+| | Câmara | Senado |
+|---|---|---|
+| Campos ausentes | 53 sem sumário, 403 sem link de Diário utilizável | **zero**, em 718 registros |
+| Identificador | não existe — exigiu hash de conteúdo (§8) | `CodigoPronunciamento`, 718 distintos em 718 |
+| Classificação do ato | inferida por regex sobre o sumário | publicada pela origem |
+
+Sem transcrição, pela mesma razão do Diário (§6.4): o link leva ao texto
+integral que a origem já publica, e guardar cópia custaria 718 requisições para
+duplicá-lo.
+
+Entraram **717** e não 718: o pronunciamento de 2023-01-10 é da 56ª legislatura,
+e o filtro de período o exclui corretamente.
+
+#### No site
+
+12 páginas por ano novas, seção de discursos nos 3 perfis, e a busca deixou de
+ser só da Câmara — o metadado passou a carregar a **seção** de cada pessoa,
+porque supor `parlamentares/` mandaria todo senador para um 404.
+
+Duas correções de texto que não são cosméticas: o rótulo do link passou a sair
+do **destino** (o Senado publica em página própria, não em Diário — chamá-la de
+"Diário da Câmara" seria a mesma mentira pequena que a regra já proibia com
+outro nome), e a prosa passou a nomear só as categorias que o parlamentar de
+fato tem, porque o Senado não produz registro de presença e dizer que produz
+seria descrever outra fonte.
+
 ---
 
 ## 7. Números medidos — ingestor × reconhecimento
@@ -534,18 +615,25 @@ Validação original, no 1º semestre de 2025 (recorte do reconhecimento):
 
 | | |
 |---|---|
-| **Cobertura** (até onde se olhou) | 2023-02-01 → 2026-08-08 |
-| **Votações** (primeira → última sessão) | 2023-02-07 → 2026-07-15 |
-| Votações | 6.291 (1.117 nominais, 5.174 simbólicas) |
-| Taxa de nominais | **17,8%** |
-| Votos individuais | 452.356, de 643 parlamentares (444.539 computáveis) |
-| Natureza das nominais | mérito 571, procedimental 536, formal 10 |
+| **Cobertura** (até onde se olhou) | 2023-02-01 → 2026-08-18 |
+| **Votações** (primeira → última sessão) | Câmara 2023-02-07 → 2026-07-15 · Senado → 2026-08-12 |
+| Votações — Câmara | 6.291 (1.117 nominais, 5.174 simbólicas) |
+| Votações — Senado | 355 (116 abertas, 239 secretas) |
+| Taxa de nominais (Câmara) | **17,8%** |
+| Taxa de sigilo (Senado) | **67,3%** — só as abertas são apuráveis |
+| Votos individuais | 481.111, de 746 parlamentares (452.126 computáveis) |
+| Natureza das nominais (Câmara) | mérito 571, procedimental 536, formal 10 |
 | Proposições / vínculos de tema | 646 / 906 |
 | Nominais vinculadas à matéria | 1.116/1.117 (99,9%); com tema 1.110 (99,4%) |
-| Discursos | 5.851 (4.947 substantivos) |
-| Posições | 124 = 31/31 parlamentares × 2 eixos × 2 escopos |
-| Evidências | 47.158 |
-| Coleta | 10.397 operações (acumulado), 83 falhas |
+| Discursos | **6.568** (5.601 substantivos) — 5.851 Câmara, 717 Senado |
+| Posições | 871 · destas 127 gerais (34 parlamentares × eixos × escopos) e 744 por tema |
+| Evidências | 86.321 |
+| Coleta | 10.582 operações (acumulado), 166 falhas |
+
+> Estes números são de 2026-08-19 e mudam a cada `ingerir:incremental`. O que
+> não muda é a forma de conferi-los: `npm run relatorio` os recalcula do acervo
+> e os compara com o reconhecimento. Número aqui é registro do que foi medido,
+> não fonte da verdade — a fonte é o banco.
 
 > **Cobertura e votação não são a mesma data.** O acervo foi varrido até
 > 2026-08-07, mas a última sessão com votação em plenário é de 2026-07-15 —
@@ -648,6 +736,9 @@ Todos apareceram ao rodar contra dados reais, não em revisão de código.
 
 | Descrição de votação com **quebra de linha** posta em célula de tabela Markdown | A quebra encerra a linha da tabela: a célula seguinte virava linha órfã, sem referência, sem voto e sem fonte. **425 evidências** assim, em 17 votações da origem. Apareceu ao contar marcadores — 349 numa tabela de 356 linhas | `umaLinha()` colapsa espaço em branco antes de emitir. Trocar quebra por espaço é o mínimo para o texto caber na célula, e não altera uma palavra da origem |
 
+| `relatorio` agrupava natureza **sem filtrar por casa** | `natureza` é conceito da Câmara e fica NULL no Senado por escolha. As 355 votações do Senado entravam com `null` e o relatório quebrava em `null.padEnd()`: a ferramenta de conferência do acervo parava por causa de um dado corretamente nulo. Confirmado contra backup — anterior ao trabalho de discursos do Senado | Query escopada em `casa = 'camara'`, título da seção idem, e `null` passou a ter tratamento explícito que diz "investigar, não deveria existir na Câmara" |
+| Etapa `senado` avança o acervo, mas não recalcula posições | A coleta de discursos trouxe junto 2 votações novas (acervo até 2026-08-12) com as posições apuradas até 2026-08-11. O site derivava "116 abertas" do banco e "de 114" da posição — dois números certos, uma página inconsistente | Recalcular `posicoes` faz parte de avançar o acervo, não é passo opcional. Uma série só, 871 posições, 4 invariantes limpos |
+
 **Ajustes de ambiente:** `better-sqlite3` não compila no Node 26 → `node:sqlite`
 nativo via `sqlite-proxy`; type-stripping proíbe *parameter properties* e enums.
 
@@ -662,11 +753,12 @@ Honestamente: o que está no schema mas **não é populado**, e o que não foi f
 | ~~`proposicao` / `proposicao_tema`~~ | ✅ **resolvido e conferido contra a origem** (§7.2) — 646 proposições, 1.116/1.117 nominais vinculadas, 1.110 com tema, zero divergências | Eixos temáticos da Fase 2 destravados |
 | ~~`partido_alias`~~ | ✅ **populada** pela etapa `tse` | O caso previsto apareceu: "PC do B" (TSE) → "PCdoB" (Câmara), 1 alias |
 | ~~Integração TSE~~ | ✅ **implementada** — etapa `tse`, 546 candidaturas de 2022, 31/31 cruzadas | `identidade_externa` tem `SQ_CANDIDATO` por eleição. O CPF passou a ser guardado como HMAC (§8) |
-| ~~Senado~~ | ✅ **integrado** — 353 votações, 114 abertas, 3 senadores | Só coesão partidária: não há orientação de bancada em dados abertos, então o eixo 1 não é calculável lá (§8). Sem CPF na origem, senador não cruza com o TSE |
+| ~~Senado~~ | ✅ **integrado** — 355 votações, 116 abertas, 3 senadores, 717 discursos | Só coesão partidária: não há orientação de bancada em dados abertos, então o eixo 1 não é calculável lá (§8). Sem CPF na origem, senador não cruza com o TSE |
+| ~~Discursos do Senado~~ | ✅ **coletados e exibidos** — 717, classificados pela própria fonte (§6.7) | Era a última lacuna "desconhecida". A janela de 12 meses da origem está mapeada e contornada |
 | ~~Período coletado~~ | ✅ **resolvido** — legislatura 57 varrida até 2026-08-08 | Restam as sessões até 2027-01-31, via `npm run ingerir:incremental` |
 | ~~Votação parcialmente escrita~~ | ✅ **resolvido** — transação em `ingerirVotacoes` (§8) | O invariante "nominal sem voto gravado" detecta o estado, caso volte a ocorrer |
 | ~~`posicao` acumula períodos~~ | ✅ **resolvido** — o `DELETE` supersede a série (§8) | O invariante "mesma série em dois períodos" detecta. Recortes com `periodo_inicio` diferente continuam coexistindo, que é o caso legítimo |
-| Camada web / API HTTP | **não iniciada** | Nada é servido ainda |
+| ~~Camada web~~ | ✅ **no ar** — 305 páginas estáticas no GitHub Pages, design próprio (§6.3) | Sem API HTTP e sem servidor, por escolha: o acervo é reconstruível e o site é derivado dele |
 | App mobile | **não iniciado** | Fase 3 |
 | ~~Metodologia pública dos eixos~~ | ✅ **publicada** em <https://raulmdrs.github.io/bussola-civica/metodologia/> — documento vivo, versões superadas arquivadas | `eixo.metodologia_url` grava a URL absoluta; `urlDaVersao()` resolve qualquer versão. Requisito para exibir posição: cumprido |
 | Download de arquivos DivulgaCand | padrão de URL não resolvido (404) | Sem impacto no MVP |
@@ -687,7 +779,7 @@ declarado pela fonte, e há justificativa de voto ali dentro que é posição.
 ## 10. Estado do código
 
 ```
-src/                                    7.118 linhas TypeScript
+src/                                    7.375 linhas TypeScript
   db/schema.ts        872   20 tabelas, comentadas com o achado que as motivou
   db/client.ts         72   node:sqlite via sqlite-proxy + consultar() tipado
   db/migrar.ts         59   aplica migrations, controla em _migrations
@@ -700,15 +792,15 @@ src/                                    7.118 linhas TypeScript
   lib/zip.ts           83   leitor mínimo de ZIP, sem dependência
   lib/identidade.ts    64   HMAC do CPF — por que hash puro não serve
   ingest/camara.ts    271   cliente tipado da API (dataFim exclusivo)
-  ingest/senado.ts    379   cliente + ingestão; natureza fica NULL, por escolha
+  ingest/senado.ts    538   cliente + ingestão; votação e discurso; janela de 1 ano
   ingest/tse.ts       275   candidaturas 2022 via CSV, cruzadas por HMAC
   ingest/pipeline.ts 1024   7 etapas de ingestão; votação+votos em transação
   ingest/index.ts     125   CLI
   ingest/incremental.ts 153 CLI da retomada automática
   ingest/horizonte.ts 105   de onde continuar — testável, sem rede
   calc/posicoes.ts    563   dois eixos + evidências, recorte por tema, regime por casa
-  site/gerar.ts      1245   gerador do site — 293 páginas, fragmentos de busca, guarda da decomposição
-  relatorio.ts        402   verificação do acervo + invariantes
+  site/gerar.ts      1331   gerador do site — 305 páginas, fragmentos de busca, guarda da decomposição
+  relatorio.ts        414   verificação do acervo + invariantes
 drizzle/                    8 migrations
 
 docs/                                    1022 linhas de camada web
@@ -717,8 +809,8 @@ docs/                                    1022 linhas de camada web
   assets/busca.js      236  único script do site, à mão, sem dependência (§6.5)
 ```
 
-**293 páginas geradas** e 4 fragmentos de busca. `docs/` ocupa **23 MB** — 13,4
-MB de decomposição da evidência, 5,8 MB de páginas de discurso e 3,0 MB de
+**305 páginas geradas** e 4 fragmentos de busca. `docs/` ocupa **24 MB** — 13,4
+MB de decomposição da evidência, 6,1 MB de páginas de discurso e 3,2 MB de
 fragmentos de busca. Tudo é reescrito a cada `npm run site`; por página o peso
 é baixo (23 KB pelo fio no pior caso), o volume está no número de páginas.
 
@@ -798,8 +890,13 @@ A previsão de que o CSS já provisionava a forma se confirmou três vezes:
 busca, e a tabela recebeu 545 linhas de decomposição virando cartões no celular
 com quatro rótulos novos.
 
-**O que sobra é de outra natureza.** Nenhum item abaixo é uma promessa aberta
-ao leitor: são cobertura (Senado), operação (automação) e forma (órbita).
+**A cobertura fechou também.** Os discursos do Senado eram o último item
+"desconhecido" — nem feito, nem descartado, nem investigado. Foram medidos,
+coletados e exibidos em 2026-08-19 (§6.7), e com eles o site passou a mostrar
+as duas casas por inteiro: como votam, o que dizem, e a conta de cada número.
+
+**Sobram dois itens, e nenhum é promessa aberta ao leitor:** um é operação
+(automação) e o outro é forma (órbita).
 
 ### Rotina
 
@@ -814,23 +911,22 @@ diff do commit mostra o que mudou nos números — é registro, não ruído.
 
 ### O que dá mais retorno agora
 
-**1. Discursos do Senado — zero coletados.** A busca tornou a lacuna visível: a
-seção "O que disse em plenário" existe para 30 deputados e para **nenhum** dos 3
-senadores, e a busca varre um corpus que é só da Câmara. Antes de prometer,
-precisa do mesmo reconhecimento que as outras fontes tiveram (§3.1) — se a API
-do Senado entrega discurso, com qual sumário e com que cobertura. Pode acabar em
-"bloqueado pela fonte"; hoje é só desconhecido, que é pior.
-
-**2. Automatizar a atualização.** Hoje o ciclo depende de você rodar dois
+**1. Automatizar a atualização.** Hoje o ciclo depende de você rodar dois
 comandos numa máquina que tem o banco. Uma GitHub Action semanal faria tudo —
 mas exige reconstruir o acervo no CI ou cacheá-lo, e o segredo do HMAC vira
 segredo do repositório. Decisão real de superfície, não tarefa mecânica.
 
-**Este item mudou de tamanho três vezes em dois dias.** `docs/` era 616 KB
-antes dos discursos; hoje é **23 MB** — 13,4 de decomposição, 5,8 de discursos,
-3,0 de fragmentos de busca. Não trava nada: o Pages reconstrói e cada página
+**Este item mudou de tamanho quatro vezes em quatro dias.** `docs/` era 616 KB
+antes dos discursos; hoje é **24 MB** — 13,4 de decomposição, 6,1 de discursos,
+3,2 de fragmentos de busca. Não trava nada: o Pages reconstrói e cada página
 pesa pouco pelo fio. O que mudou é a conta do CI, que passaria a versionar e
-transferir 23 MB por execução.
+transferir 24 MB por execução.
+
+Há uma segunda razão para automatizar, que a coleta do Senado deixou clara:
+**avançar o acervo e recalcular as posições são um passo só**, e fazer o
+primeiro sem o segundo deixa o site com dois números certos e uma página
+inconsistente (§8). Numa Action isso vira sequência fixa; à mão, depende de
+lembrar.
 
 Antes de decidir a forma, **medir o crescimento do `.git` por duas ou três
 semanas**. A pergunta é se o delta semanal é pequeno — deveria ser: votação nova
@@ -858,7 +954,7 @@ Registrado para quando houver fonte — nenhum destes é "fazer depois":
 
 ### Fases seguintes
 
-**3. Visualização orbital.** Estava no plano original; o site hoje é tabela.
+**2. Visualização orbital.** Estava no plano original; o site hoje é tabela.
 Consome `posicao` + `posicao_evidencia` direto e roda no cliente, sem servidor,
 e as três condições da busca (§6.5) valem inteiras aqui — à mão, degrada sem
 script, custo declarado.
@@ -870,7 +966,7 @@ precisa deixar isso óbvio em vez de esconder atrás de uma imagem bonita — é
 única forma de exibição em que o eixo 2 pode mentir por si mesmo, sem que
 ninguém tenha escrito uma frase falsa.
 
-**4. App mobile** (Fase 3) e **estadual/municipal** (Fase 4).
+**3. App mobile** (Fase 3) e **estadual/municipal** (Fase 4).
 
 ### Dívidas pequenas
 
