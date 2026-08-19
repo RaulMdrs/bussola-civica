@@ -11,9 +11,9 @@ description: "Como Hamilton Mourão vota no Senado: coesão com o próprio parti
 
 <div class="interrompe">
 <h4>Não compare estes números com os dos deputados</h4>
-<p>O Senado tem outro universo: <b>114 votações abertas</b> no
+<p>O Senado tem outro universo: <b>116 votações abertas</b> no
 período, contra 1.117 nominais da Câmara, porque
-<b>68% das votações do Senado são secretas</b> — nelas a origem
+<b>67% das votações do Senado são secretas</b> — nelas a origem
 confirma que o senador votou, não como.</p>
 </div>
 
@@ -28,7 +28,7 @@ por conta própria, que é o que este projeto não faz. Aqui existe um eixo só.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Todas as votações abertas</span> | [<span class="valor">86,3%</span>](evidencia/coesao-partidaria-unico/) | <span class="n-detalhe">102 <span>votações computáveis</span></span><span class="n-detalhe">114 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Todas as votações abertas</span> | [<span class="valor">85,6%</span>](evidencia/coesao-partidaria-unico/) | <span class="n-detalhe">104 <span>votações computáveis</span></span><span class="n-detalhe">116 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
 Não há recorte entre mérito e procedimental aqui: a regra que separa os
@@ -39,6 +39,15 @@ validada para o texto do Senado. Sem recorte medido, não se inventa recorte.
 
 Amostra das votações em que o voto divergiu da maioria do próprio partido.
 As descrições são o texto original da fonte oficial.
+
+<blockquote class="evidencia">
+<span class="data">2026-08-12</span>
+<div class="corpo">
+<p>Votação nominal do Art. 13 do Projeto de Lei Complementar nº 114, de 2026, destacado.</p>
+<p class="referencia">Maioria do partido: nao (0 sim / 3 não entre os pares) — voto registrado: <b>sim</b>.</p>
+<a class="fonte" href="https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=7103">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia">
 <span class="data">2025-12-17</span>
@@ -58,17 +67,81 @@ As descrições são o texto original da fonte oficial.
 </div>
 </blockquote>
 
-<blockquote class="evidencia">
-<span class="data">2025-09-17</span>
+### A conta inteira
+
+- [Coesão com o próprio partido, todas as votações abertas](evidencia/coesao-partidaria-unico/) — 104 votações,
+  coincidências inclusive
+
+## O que disse em plenário
+
+São **141 discursos** coletados no período, dos quais **81 substantivos** — os outros 60 são
+orientação de bancada, que a classificação separa do perfil e
+**não descarta**: estão nas páginas por ano, na íntegra.
+
+> No Senado, quem separa é a **própria fonte**: cada pronunciamento vem
+> com o tipo de uso da palavra publicado pela Casa, e é dele que sai a
+> classificação — não de uma regra nossa. A regra da Câmara foi calibrada
+> contra texto da Câmara, e aplicá-la aqui repetiria o erro que este
+> projeto recusou no recorte entre mérito e procedimental.
+
+O que aparece abaixo é o sumário publicado pelo Senado.
+O texto integral não é reproduzido aqui — o link de cada discurso leva à
+fonte que o publicou.
+
+### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-11898">
+<span class="data">2026-07-07</span>
 <div class="corpo">
-<p>Votação nominal do PLV nº 4, de 2025 e dos pressupostos constitucionais da MPV nº 1.300, de 2025, nos termos do parecer, ressalvados os destaques.</p>
-<p class="referencia">Maioria do partido: sim (3 sim / 0 não entre os pares) — voto registrado: <b>nao</b>.</p>
-<a class="fonte" href="https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=7011">Ver votação na fonte oficial</a>
+<p class="tipo">Discurso</p>
+<p>Defesa da Lei nº 15402/2026, conhecida por Lei da Dosimetria, que permite a redução de penas relacionadas aos atos antidemocráticos de 8 de janeiro de 2023. Crítica à atuação do STF, pela suspensão da norma e por alegada demora na solução definitiva da controvérsia.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523392">Ver o pronunciamento no Senado</a>
 </div>
 </blockquote>
 
-### A conta inteira
+<blockquote class="evidencia discurso" id="d-11899">
+<span class="data">2026-06-30</span>
+<div class="corpo">
+<p class="tipo">Pela ordem</p>
+<p>Pela ordem sobre o Projeto de Lei (PL) n° 2239, de 2022, que &quot;Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para estabelecer critérios para a concessão de gratuidade da justiça.&quot;</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523152">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
 
-- [Coesão com o próprio partido, todas as votações abertas](evidencia/coesao-partidaria-unico/) — 102 votações,
-  coincidências inclusive
+<blockquote class="evidencia discurso" id="d-11901">
+<span class="data">2026-06-17</span>
+<div class="corpo">
+<p class="tipo">Discussão</p>
+<p>Discussão sobre o Projeto de Lei (PL) n° 4088, de 2023, que &quot;Altera o art. 26 da Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para incluir educação política e direitos da cidadania como componente curricular obrigatório da educação básica.&quot; Crítica à corrente ideológica que predomina nas instituições de Ensino Superior.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/522988">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11900">
+<span class="data">2026-06-17</span>
+<div class="corpo">
+<p class="tipo">Pela ordem</p>
+<p>Pela ordem sobre a Proposta de Emenda à Constituição (PEC) n° 65, de 2023, que &quot;Dispõe sobre o regime jurídico aplicável ao Banco Central.&quot; Defesa da instrumentalização do Banco Central do Brasil com a finalidade de cumprir sua missão institucional.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523026">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-11903">
+<span class="data">2026-06-16</span>
+<div class="corpo">
+<p class="tipo">Pela ordem</p>
+<p>Solidariedade ao Presidente do Senado, Davi Alcolumbre, em razão de reportagem que atribuiu ao parlamentar o recebimento de valores em conta no exterior, destacando os impactos institucionais e pessoais de acusações dessa natureza. Afirmação de que, caso as alegações tenham origem em procedimento oficial ou acordo de colaboração premiada, caberá ao Presidente exercer seu direito de defesa pelos meios jurídicos adequados. Acréscimo de que, se as informações divulgadas não constarem de documentos oficiais, será necessária apuração específica sobre sua origem, por considerar que eventual divulgação de fatos inexistentes comprometeria não apenas a imagem do Presidente do Senado, mas também a credibilidade das instituições públicas e do sistema de justiça.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/522918">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+### Todos, por ano
+
+| Ano | Discursos | Substantivos |
+|---|---:|---:|
+| [2026](discursos/2026/) | <span class="n"><b>16</b></span> | 14 |
+| [2025](discursos/2025/) | <span class="n"><b>25</b></span> | 14 |
+| [2024](discursos/2024/) | <span class="n"><b>58</b></span> | 33 |
+| [2023](discursos/2023/) | <span class="n"><b>42</b></span> | 20 |
+{: .t-anos}
 

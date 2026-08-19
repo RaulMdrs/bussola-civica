@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Paulo Paim — Coesão com o próprio partido, Todas as votações abertas"
-description: "A decomposição completa: todas as 104 votações que compõem o número de Paulo Paim, uma por linha, com link para a fonte."
+description: "A decomposição completa: todas as 106 votações que compõem o número de Paulo Paim, uma por linha, com link para a fonte."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa: todas as 104 votações que compõem o 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>93,3%</b> é <b>97</b> coincidências em
-<b>104</b> votações computáveis — as outras 7 estão
+<p><b>93,4%</b> é <b>99</b> coincidências em
+<b>106</b> votações computáveis — as outras 7 estão
 aqui também. Esta página não é amostra: é a decomposição completa do
 número, e some ou cresce junto com ele.</p>
 </div>
@@ -23,6 +23,8 @@ número, e some ou cresce junto com ele.</p>
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 2026-08-12 | Votação nominal do Projeto de Lei Complementar nº 114, de 2026, nos termos do parecer, ressalvado o destaque. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7102](https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=7102) |
+| 2026-08-12 | Votação nominal do Art. 13 do Projeto de Lei Complementar nº 114, de 2026, destacado. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7103](https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=7103) |
 | 2026-06-09 | Votação nominal do Projeto de Lei Complementar nº 55, de 2026, nos termos do parecer. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7092](https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=7092) |
 | 2026-05-27 | Votação nominal do Projeto de Lei Complementar nº 11, de 2026. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7091](https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=7091) |
 | 2026-03-25 | Votação nominal do Projeto de Lei Complementar n° 6, de 2024. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7052](https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=7052) |

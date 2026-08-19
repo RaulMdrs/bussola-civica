@@ -292,6 +292,32 @@ const discursosDoAno = (politicoId: number, ano: string, relevante: 0 | 1) =>
     relevante,
   );
 
+/** O parlamentar é do Senado? Decide rótulo e prosa, nunca conteúdo. */
+const daCasaSenado = (p: Parlamentar) => senadores.some((x) => x.id === p.id);
+
+const NOME_CATEGORIA: Record<string, string> = {
+  orientacao_voto: "orientação de bancada",
+  registro_presenca: "registro de presença",
+};
+
+/** As categorias não substantivas que este parlamentar de fato tem, por extenso. */
+function listaDeCategorias(politicoId: number): string {
+  const cats = todos<{ c: string }>(
+    `SELECT DISTINCT categoria c FROM discurso
+     WHERE politico_id = ? AND relevante = 0 ORDER BY categoria`,
+    politicoId,
+  ).map((r) => NOME_CATEGORIA[r.c] ?? r.c);
+  if (cats.length <= 1) return cats[0] ?? "de outra natureza";
+  return cats.slice(0, -1).join(", ") + " e " + cats[cats.length - 1];
+}
+
+/** Qual regra classificou os discursos deste parlamentar. Gravada por discurso. */
+const classificacaoDe = (politicoId: number) =>
+  um<{ v: string | null }>(
+    `SELECT classificacao_versao v FROM discurso WHERE politico_id = ? LIMIT 1`,
+    politicoId,
+  )?.v ?? null;
+
 const ultimosDiscursos = (politicoId: number, limite: number) =>
   todos<Discurso>(
     `SELECT ${COLUNAS_DISCURSO} FROM discurso d
@@ -325,9 +351,22 @@ const diarioAusente = (url: string) => url.includes("selCodColecaoCsv=J");
  * para JSON dizendo "Diário" seria mentira pequena, mas mentira.
  */
 function fonteDoDiscurso(d: Discurso): string {
-  return d.urlTexto && !diarioAusente(d.urlTexto)
-    ? `<a class="fonte" href="${esc(d.urlTexto)}">Ver no Diário da Câmara</a>`
-    : `<a class="fonte" href="${esc(d.fonte)}">Ver na API da Câmara</a>`;
+  const url = d.urlTexto && !diarioAusente(d.urlTexto) ? d.urlTexto : d.fonte;
+  return `<a class="fonte" href="${esc(url)}">${rotuloDaFonte(url)}</a>`;
+}
+
+/**
+ * O rótulo sai do **destino**, não de uma suposição sobre a casa do
+ * parlamentar. É a mesma regra de antes — não dizer "Diário" mandando para
+ * JSON — estendida a uma segunda origem: o Senado publica o pronunciamento em
+ * página própria, não em Diário, e chamá-la de Diário da Câmara seria a mesma
+ * mentira pequena com outro nome.
+ */
+function rotuloDaFonte(url: string): string {
+  const doSenado = url.includes("senado.leg.br") || url.includes("senado.gov.br");
+  const daApi = url.includes("dadosabertos");
+  if (doSenado) return daApi ? "Ver na API do Senado" : "Ver o pronunciamento no Senado";
+  return daApi ? "Ver na API da Câmara" : "Ver no Diário da Câmara";
 }
 
 function blocoDiscurso(d: Discurso): string {
@@ -493,13 +532,37 @@ function secaoDiscursos(p: Parlamentar): string {
   const total = anos.reduce((s, a) => s + a.n, 0);
   const substantivos = anos.reduce((s, a) => s + a.substantivos, 0);
 
-  md += `São **${total} discursos** coletados no período, dos quais\n`;
-  md += `**${substantivos} substantivos** — os outros ${total - substantivos} são\n`;
-  md += `orientação de bancada e registro de presença, que a classificação separa\n`;
-  md += `do perfil e **não descarta**: estão nas páginas por ano, na íntegra.\n\n`;
+  const um = total === 1;
+  md += `${um ? "É" : "São"} **${total} ${um ? "discurso" : "discursos"}** `;
+  md += `coletado${um ? "" : "s"} no período, `;
+  if (total === substantivos) {
+    // Repetir o número quando todos são substantivos não informa nada.
+    md += `${um ? "e ele é substantivo" : "todos substantivos"}`;
+  } else {
+    md += `dos quais **${substantivos} `;
+    md += `${substantivos === 1 ? "substantivo" : "substantivos"}**`;
+  }
+  if (total > substantivos) {
+    // Nomear só as categorias que este parlamentar realmente tem. A Câmara
+    // produz registro de presença; o Senado, não — dizer "e registro de
+    // presença" num perfil sem nenhum seria descrever outra fonte.
+    md += ` — os outros ${total - substantivos} são\n`;
+    md += `${listaDeCategorias(p.id)}, que a classificação separa do perfil e\n`;
+    md += `**não descarta**: estão nas páginas por ano, na íntegra`;
+  }
+  md += `.\n\n`;
 
-  md += `O que aparece abaixo é o sumário publicado pela Câmara. O texto integral\n`;
-  md += `não é reproduzido aqui — o link de cada discurso leva à fonte que o publicou.\n\n`;
+  if (classificacaoDe(p.id) === "oficial:TipoUsoPalavra") {
+    md += `> No Senado, quem separa é a **própria fonte**: cada pronunciamento vem\n`;
+    md += `> com o tipo de uso da palavra publicado pela Casa, e é dele que sai a\n`;
+    md += `> classificação — não de uma regra nossa. A regra da Câmara foi calibrada\n`;
+    md += `> contra texto da Câmara, e aplicá-la aqui repetiria o erro que este\n`;
+    md += `> projeto recusou no recorte entre mérito e procedimental.\n\n`;
+  }
+
+  md += `O que aparece abaixo é o sumário publicado pel${daCasaSenado(p) ? "o Senado" : "a Câmara"}.\n`;
+  md += `O texto integral não é reproduzido aqui — o link de cada discurso leva à\n`;
+  md += `fonte que o publicou.\n\n`;
 
   const ultimos = ultimosDiscursos(p.id, 5);
   if (ultimos.length) {
@@ -620,21 +683,31 @@ function gerarBusca(busca: { anos: string[]; bytes: number; comprimido: number }
   const kb = Math.ceil((busca.comprimido * 1.05) / 1024 / 10) * 10;
   let md = frontMatter(
     "Buscar nos discursos",
-    "Procure uma palavra nos discursos dos deputados federais gaúchos, pelo sumário publicado pela Câmara.",
+    "Procure uma palavra nos discursos dos deputados federais e senadores gaúchos, pelo sumário publicado pela casa.",
     "busca",
+  );
+
+  const comDiscurso = [...parlamentares, ...senadores].filter(
+    (x) => anosDeDiscurso(x.id).length > 0,
   );
 
   md += `# Buscar nos discursos\n\n`;
   md += `<p class="subtitulo">Procura a palavra no <b>sumário publicado pela\n`;
-  md += `Câmara</b> — o texto da fonte, não uma classificação nossa. São\n`;
+  md += `casa</b> — o texto da fonte, não uma classificação nossa. São\n`;
   md += `<b>${milhar(totalDiscursos)} discursos</b> de ${parlamentares.length} `;
-  md += `deputados.</p>\n\n`;
+  md += `deputados e ${senadores.length} senadores.</p>\n\n`;
 
-  // Metadados pequenos vão inline: 31 nomes e slugs. Evita uma requisição a
-  // mais antes da primeira tecla.
+  // Metadados pequenos vão inline: 34 nomes e slugs. Evita uma requisição a
+  // mais antes da primeira tecla. A quarta posição é a seção — deputado e
+  // senador moram em diretórios diferentes, e o resultado precisa saber qual.
   const meta = {
-    base: "../parlamentares/",
-    p: Object.fromEntries(parlamentares.map((p) => [p.id, [p.nome, slug(p.nome), p.sigla ?? ""]])),
+    p: Object.fromEntries(
+      [...parlamentares.map((x) => [x, "parlamentares"] as const),
+       ...senadores.map((x) => [x, "senadores"] as const)].map(([x, secao]) => [
+        x.id,
+        [x.nome, slug(x.nome), x.sigla ?? "", secao],
+      ]),
+    ),
     anos,
     kb, // o script declara o custo ao leitor; medido, não estimado
   };
@@ -657,7 +730,8 @@ function gerarBusca(busca: { anos: string[]; bytes: number; comprimido: number }
   md += `<p>Procurar uma palavra em ${milhar(totalDiscursos)} sumários exige o\n`;
   md += `texto do lado do\n`;
   md += `leitor, e este site não tem servidor. Sem JavaScript, a navegação\n`;
-  md += `abaixo continua inteira: cada parlamentar, cada ano, todos os\n`;
+  md += `abaixo continua inteira: cada parlamentar das duas casas, cada ano,\n`;
+  md += `todos os\n`;
   md += `discursos, com link para a fonte.</p>\n`;
   md += `</div>\n`;
   md += `</noscript>\n\n`;
@@ -665,14 +739,18 @@ function gerarBusca(busca: { anos: string[]; bytes: number; comprimido: number }
   md += `## Todos os parlamentares, por ano\n\n`;
   md += `Esta lista não depende de script, e é a mesma navegação que existia\n`;
   md += `antes da busca.\n\n`;
-  md += `| Parlamentar | Discursos | Anos |\n|---|---:|---|\n`;
-  for (const p of parlamentares) {
-    const anosDele = anosDeDiscurso(p.id);
-    const total = anosDele.reduce((s, a) => s + a.n, 0);
-    md += `| [${p.nome}](../parlamentares/${slug(p.nome)}/) | ${contagem(total)} | `;
+  md += `| Parlamentar | Casa | Discursos | Anos |\n|---|---|---:|---|\n`;
+  for (const [pessoa, secao, casa] of [
+    ...parlamentares.map((x) => [x, "parlamentares", "Câmara"] as const),
+    ...senadores.map((x) => [x, "senadores", "Senado"] as const),
+  ]) {
+    const anosDele = anosDeDiscurso(pessoa.id);
+    const total = anosDele.reduce((n, a) => n + a.n, 0);
+    md += `| [${pessoa.nome}](../${secao}/${slug(pessoa.nome)}/) `;
+    md += `| <span class="escopo">${casa}</span> | ${contagem(total)} | `;
     md += anosDele.length
       ? anosDele
-          .map((a) => `[${a.ano}](../parlamentares/${slug(p.nome)}/discursos/${a.ano}/)`)
+          .map((a) => `[${a.ano}](../${secao}/${slug(pessoa.nome)}/discursos/${a.ano}/)`)
           .join(" · ")
       : "—";
     md += ` |\n`;
@@ -814,7 +892,7 @@ function gerarDiscursosAno(p: Parlamentar, ano: string): string {
 
   let md = frontMatter(
     `${p.nome} — discursos de ${ano}`,
-    `Os discursos de ${p.nome} em ${ano}, com o sumário publicado pela Câmara e link para o Diário.`,
+    `Os discursos de ${p.nome} em ${ano}, com o sumário oficial e link para a fonte que o publicou.`,
     "discursos",
   );
 
@@ -835,10 +913,11 @@ function gerarDiscursosAno(p: Parlamentar, ano: string): string {
     md += `</p>\n\n`;
   }
 
-  md += `> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui\n`;
-  md += `> é resumo nosso. O texto integral não é reproduzido neste site: o link de\n`;
-  md += `> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à\n`;
-  md += `> **API** quando a origem não publicou o discurso no Diário.\n\n`;
+  const senado = daCasaSenado(p);
+  md += `> O que segue é o **sumário publicado pel${senado ? "o Senado" : "a Câmara"}**,\n`;
+  md += `> sem edição — nada aqui é resumo nosso. O texto integral não é reproduzido\n`;
+  md += `> neste site: o link de cada discurso leva ${senado ? "à página oficial do" : "ao **Diário da Câmara**"}\n`;
+  md += `> ${senado ? "**pronunciamento**" : ""}, onde ele está publicado${senado ? "" : ", ou à **API** quando a origem não o publicou no Diário"}.\n\n`;
 
   md += `## Substantivos — ${substantivos.length}\n\n`;
   if (substantivos.length) {
@@ -935,6 +1014,9 @@ function gerarPerfilSenador(p: Parlamentar): string {
     md += `  coincidências inclusive\n`;
   }
   md += `\n`;
+
+  md += secaoDiscursos(p);
+
   return md;
 }
 
@@ -1229,6 +1311,10 @@ for (const p of senadores) {
       gerarEvidencia(p, x),
     );
     paginasDeEvidencia++;
+  }
+  for (const { ano } of anosDeDiscurso(p.id)) {
+    escrever(`senadores/${slug(p.nome)}/discursos/${ano}`, gerarDiscursosAno(p, ano));
+    paginasDeDiscurso++;
   }
 }
 

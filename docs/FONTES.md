@@ -431,6 +431,57 @@ fonte".
 
 ---
 
+### 2.5 Discursos por senador — funciona, com uma armadilha
+
+```
+GET /senador/{codigo}/discursos.json?dataInicio=AAAAMMDD&dataFim=AAAAMMDD
+```
+
+Aceita `AAAAMMDD` e `AAAA-MM-DD`. Sem período, os metadados declaram que devolve
+"os discursos dos últimos 30 dias".
+
+**A janela é grampeada em 12 meses a partir de `dataFim`, em silêncio.**
+Medido em 2026-08-18 para Paulo Paim:
+
+| Janela pedida | Devolvidos | Período realmente coberto |
+|---|---:|---|
+| `20230201..20260818` (3,5 anos) | 134 | 2025-08-18 .. 2026-07-14 |
+| `20250801..20260818` (12 meses) | 134 | 2025-08-18 .. 2026-07-14 |
+| `20240818..20260818` (24 meses) | 134 | 2025-08-18 .. 2026-07-14 |
+| ano a ano, 2023 + 2024 + 2025 + 2026 | **506** | 2023-02 .. 2026-07 |
+
+Toda janela de 12 meses ou mais devolve exatamente o mesmo recorte final.
+**Não há erro, não há aviso, não há paginação** — a resposta é 200 e parece
+completa. Uma coleta ingênua registraria 26% do acervo como se fosse tudo, e a
+auditoria diria "ok". **Coletar sempre em janelas de no máximo um ano.**
+
+Cobertura medida na legislatura 57, os 3 senadores do RS:
+
+| Senador | 2023 | 2024 | 2025 | 2026 | Total |
+|---|---:|---:|---:|---:|---:|
+| Paulo Paim | 168 | 138 | 135 | 65 | 506 |
+| Hamilton Mourão | 42 | 58 | 25 | 16 | 141 |
+| Luis Carlos Heinze | 30 | 13 | 21 | 7 | 71 |
+
+Qualidade dos campos, em 718 registros: **zero ausências** em
+`CodigoPronunciamento`, `DataPronunciamento`, `TipoUsoPalavra`, `TextoResumo`,
+`Indexacao`, `UrlTexto` e `UrlTextoBinario`. Melhor que a Câmara, onde 53
+discursos não têm sumário e 403 não têm link de Diário utilizável.
+
+`CodigoPronunciamento` é identificador oficial e estável — 718 distintos em 718
+registros. Dispensa o hash de conteúdo que a Câmara exigiu (§1.4).
+
+**`TipoUsoPalavra` é classificação oficial do ato**, com 14 valores observados.
+Entre eles, `Orientação à bancada` (63 registros) — o mesmo caso que na Câmara
+precisa ser inferido por regex a partir do sumário. Aqui vem declarado pela
+origem.
+
+Também existe `GET /senador/{cod}/apartes.json` (2,3 MB para Paim). Aparte é
+intervenção no discurso de outro parlamentar, não pronunciamento próprio — fora
+do escopo, como o equivalente da Câmara.
+
+---
+
 ## 3. TSE
 
 ### 3.1 DivulgaCandContas (API REST)
@@ -678,6 +729,9 @@ corrente precisa ser reprocessado.
 | `GET /referencias/proposicoes/codTema` | ✅ | 32 temas |
 | `GET /senador/lista/atual.json` | ✅ | 3 senadores RS |
 | `GET /senador/{cod}/votacoes.json` | ⚠️ | **depreciado; desativação 2026-02-01** |
+| `GET /senador/{cod}/discursos.json` | ✅ **usado** | **janela grampeada em 12 meses, sem aviso** — coletar ano a ano (§2.5) |
+| `GET /senador/{cod}/apartes.json` | ✅ | aparte é fala no discurso de outro; fora do escopo |
+| `GET /senador/{cod}/pronunciamentos.json` | ❌ 404 | o caminho é `discursos` |
 | `GET /votacao` (Senado) | ✅ | substituto; votos embutidos |
 | `GET /votacao?dataInicio=20250401` | ❌ 400 | exige `YYYY-MM-DD` |
 | DivulgaCand `/candidatura/listar/...` | ✅ | 546 cands.; CPF nulo na listagem |

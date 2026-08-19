@@ -137,13 +137,11 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **2 discursos** coletados no período, dos quais
-**2 substantivos** — os outros 0 são
-orientação de bancada e registro de presença, que a classificação separa
-do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+São **2 discursos** coletados no período, todos substantivos.
 
-O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
-não é reproduzido aqui — o link de cada discurso leva à fonte que o publicou.
+O que aparece abaixo é o sumário publicado pela Câmara.
+O texto integral não é reproduzido aqui — o link de cada discurso leva à
+fonte que o publicou.
 
 ### Os 2 mais recentes
 

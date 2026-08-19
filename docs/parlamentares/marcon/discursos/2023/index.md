@@ -2,7 +2,7 @@
 layout: default
 kind: discursos
 title: "Marcon — discursos de 2023"
-description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câmara e link para o Diário."
+description: "Os discursos de Marcon em 2023, com o sumário oficial e link para a fonte que o publicou."
 ---
 
 # Discursos de 2023
@@ -11,10 +11,10 @@ description: "Os discursos de Marcon em 2023, com o sumário publicado pela Câm
 
 <p class="anos">Outros anos: <a href="../2026/">2026</a> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <b>2023</b></p>
 
-> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui
-> é resumo nosso. O texto integral não é reproduzido neste site: o link de
-> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à
-> **API** quando a origem não publicou o discurso no Diário.
+> O que segue é o **sumário publicado pela Câmara**,
+> sem edição — nada aqui é resumo nosso. O texto integral não é reproduzido
+> neste site: o link de cada discurso leva ao **Diário da Câmara**
+> , onde ele está publicado, ou à **API** quando a origem não o publicou no Diário.
 
 ## Substantivos — 158
 

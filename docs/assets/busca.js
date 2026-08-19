@@ -114,8 +114,10 @@
   function bloco(f, i, termos) {
     var pessoa = meta.p[f.p[i]];
     var nome = pessoa ? pessoa[0] : "parlamentar não identificado";
+    // A seção vem no metadado: deputado e senador moram em diretórios
+    // diferentes, e supor "parlamentares" mandaria todo senador para um 404.
     var caminho = pessoa
-      ? meta.base + pessoa[1] + "/discursos/" + f.ano + "/#d-" + f.id[i]
+      ? "../" + pessoa[3] + "/" + pessoa[1] + "/discursos/" + f.ano + "/#d-" + f.id[i]
       : null;
 
     var bq = elemento("blockquote", "evidencia discurso");

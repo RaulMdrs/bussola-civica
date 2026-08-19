@@ -137,13 +137,13 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **297 discursos** coletados no período, dos quais
-**247 substantivos** — os outros 50 são
-orientação de bancada e registro de presença, que a classificação separa
-do perfil e **não descarta**: estão nas páginas por ano, na íntegra.
+São **297 discursos** coletados no período, dos quais **247 substantivos** — os outros 50 são
+orientação de bancada, que a classificação separa do perfil e
+**não descarta**: estão nas páginas por ano, na íntegra.
 
-O que aparece abaixo é o sumário publicado pela Câmara. O texto integral
-não é reproduzido aqui — o link de cada discurso leva à fonte que o publicou.
+O que aparece abaixo é o sumário publicado pela Câmara.
+O texto integral não é reproduzido aqui — o link de cada discurso leva à
+fonte que o publicou.
 
 ### Os 5 mais recentes
 

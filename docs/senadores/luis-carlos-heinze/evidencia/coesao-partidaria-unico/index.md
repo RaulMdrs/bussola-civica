@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Luis Carlos Heinze — Coesão com o próprio partido, Todas as votações abertas"
-description: "A decomposição completa: todas as 77 votações que compõem o número de Luis Carlos Heinze, uma por linha, com link para a fonte."
+description: "A decomposição completa: todas as 79 votações que compõem o número de Luis Carlos Heinze, uma por linha, com link para a fonte."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa: todas as 77 votações que compõem o n
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>88,3%</b> é <b>68</b> coincidências em
-<b>77</b> votações computáveis — as outras 9 estão
+<p><b>87,3%</b> é <b>69</b> coincidências em
+<b>79</b> votações computáveis — as outras 10 estão
 aqui também. Esta página não é amostra: é a decomposição completa do
 número, e some ou cresce junto com ele.</p>
 </div>
@@ -23,6 +23,8 @@ número, e some ou cresce junto com ele.</p>
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 2026-08-12 | Votação nominal do Projeto de Lei Complementar nº 114, de 2026, nos termos do parecer, ressalvado o destaque. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7102](https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=7102) |
+| 2026-08-12 | Votação nominal do Art. 13 do Projeto de Lei Complementar nº 114, de 2026, destacado. | Maioria do partido: sim (3 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [7103](https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=7103) |
 | 2026-06-16 | Votação nominal do Projeto de Lei Complementar nº 73, de 2025, nos termos dos pareceres. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7095](https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=7095) |
 | 2026-05-27 | Votação nominal do Projeto de Lei Complementar nº 11, de 2026. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7091](https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=7091) |
 | 2026-03-24 | Votação nominal da Emenda nº 8 (Substitutivo) ao Projeto de Lei nº 896, de 2023, nos termos do parecer, ressalvado o destaque. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7050](https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=7050) |

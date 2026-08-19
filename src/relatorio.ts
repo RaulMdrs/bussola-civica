@@ -184,15 +184,27 @@ if (!achados.length) {
   );
 }
 
-console.log("\n═══ NATUREZA DAS VOTAÇÕES NOMINAIS ═══\n");
-for (const r of all<{ natureza: string; n: number }>(
-  `SELECT natureza, COUNT(*) n FROM votacao WHERE nominal=1 GROUP BY natureza ORDER BY n DESC`,
+/**
+ * Natureza é conceito **da Câmara**. No Senado ela fica NULL por escolha: a
+ * regra mérito × procedimental foi calibrada contra a descrição de votação da
+ * Câmara e não foi validada para o texto do Senado.
+ *
+ * Sem o filtro por casa, as 355 votações do Senado entravam aqui com
+ * `natureza = null` e o relatório **quebrava** em `null.padEnd()` — a
+ * ferramenta de conferência do acervo parava de rodar por causa de um dado
+ * corretamente nulo.
+ */
+console.log("\n═══ NATUREZA DAS VOTAÇÕES NOMINAIS (CÂMARA) ═══\n");
+for (const r of all<{ natureza: string | null; n: number }>(
+  `SELECT natureza, COUNT(*) n FROM votacao
+   WHERE nominal = 1 AND casa = 'camara' GROUP BY natureza ORDER BY n DESC`,
 )) {
   const nota =
     r.natureza === "merito" ? "mérito da matéria"
     : r.natureza === "procedimental" ? "requerimentos (urgência, pauta, adiamento)"
+    : r.natureza === null ? "SEM NATUREZA — investigar, não deveria existir na Câmara"
     : "ato formal — fora dos dois escopos";
-  console.log(`  ${String(r.n).padStart(4)}  ${r.natureza.padEnd(14)} ${nota}`);
+  console.log(`  ${String(r.n).padStart(4)}  ${(r.natureza ?? "null").padEnd(14)} ${nota}`);
 }
 
 if (periodo) {

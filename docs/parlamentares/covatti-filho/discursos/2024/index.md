@@ -2,17 +2,17 @@
 layout: default
 kind: discursos
 title: "Covatti Filho — discursos de 2024"
-description: "Os discursos de Covatti Filho em 2024, com o sumário publicado pela Câmara e link para o Diário."
+description: "Os discursos de Covatti Filho em 2024, com o sumário oficial e link para a fonte que o publicou."
 ---
 
 # Discursos de 2024
 
 <p class="subtitulo"><b><a href="../../">Covatti Filho</a></b> · PP · 1 discursos em 2024</p>
 
-> O que segue é o **sumário publicado pela Câmara**, sem edição — nada aqui
-> é resumo nosso. O texto integral não é reproduzido neste site: o link de
-> cada discurso leva ao **Diário da Câmara**, onde ele está publicado, ou à
-> **API** quando a origem não publicou o discurso no Diário.
+> O que segue é o **sumário publicado pela Câmara**,
+> sem edição — nada aqui é resumo nosso. O texto integral não é reproduzido
+> neste site: o link de cada discurso leva ao **Diário da Câmara**
+> , onde ele está publicado, ou à **API** quando a origem não o publicou no Diário.
 
 ## Substantivos — 1
 

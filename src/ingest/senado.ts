@@ -69,6 +69,63 @@ interface SenadorApi {
   };
 }
 
+interface DiscursoSenado {
+  CodigoPronunciamento: string;
+  TipoUsoPalavra?: { Descricao?: string | null } | null;
+  DataPronunciamento: string;
+  TextoResumo?: string | null;
+  Indexacao?: string | null;
+  UrlTexto?: string | null;
+  NomeCasaPronunciamento?: string | null;
+}
+
+/**
+ * A API **grampeia a janela nos últimos 12 meses** a partir de `dataFim`, e
+ * ignora `dataInicio` além disso — sem erro, sem aviso, sem paginação.
+ *
+ * Medido contra a origem em 2026-08-18, para Paulo Paim: pedir
+ * `20230201..20260818` devolve **134** discursos, todos entre 2025-08-18 e
+ * 2026-07-14 — exatamente 12 meses. Ano a ano, o mesmo período devolve **506**.
+ * Toda janela de 12 meses ou mais devolve o mesmo recorte final.
+ *
+ * É a armadilha mais perigosa desta fonte: uma coleta ingênua registraria 26%
+ * do acervo **como se fosse tudo**, e a auditoria em `coleta` diria "ok". Por
+ * isso a janela é sempre um ano-calendário, e o recurso gravado declara o ano.
+ */
+const LIMITE_JANELA_MESES = 12; // medido; ver docs/FONTES.md §2.5
+
+/** `2023-02-01` → `20230201`. A origem aceita os dois formatos; este é o curto. */
+const compacta = (d: string) => d.replace(/-/g, "");
+
+const fonteDiscursos = (cod: string, ini: string, fim: string) =>
+  `${BASE}/senador/${cod}/discursos.json?dataInicio=${compacta(ini)}&dataFim=${compacta(fim)}`;
+
+/**
+ * Categoria do discurso do Senado — **da fonte, não da nossa regra**.
+ *
+ * `src/lib/classificar.ts` foi calibrado contra sumário e tipo da Câmara. Rodá-lo
+ * aqui repetiria o erro que o projeto recusou no recorte mérito × procedimental:
+ * aplicar a senador uma regra medida em deputado.
+ *
+ * Não é preciso. O Senado publica `TipoUsoPalavra` — classificação oficial do
+ * ato —, e nela "Orientação à bancada" vem nomeada pela própria origem. É o
+ * mesmo critério da Câmara (orientação já está estruturada em `orientacao`, e é
+ * de onde sairia o eixo 1) chegando por um caminho melhor: declarado, não
+ * inferido.
+ *
+ * Os 61 registros que a origem marca como "Não classificado" continuam
+ * substantivos: dizer que não classificou não é dizer que é protocolar, e
+ * decidir por ela seria rotular por conta própria.
+ */
+const CLASSIFICACAO_SENADO = "oficial:TipoUsoPalavra";
+
+function categoriaSenado(tipo: string | null | undefined) {
+  const t = (tipo ?? "").trim().toLowerCase();
+  return t === "orientação à bancada"
+    ? { categoria: "orientacao_voto" as const, relevante: false }
+    : { categoria: "substantivo" as const, relevante: true };
+}
+
 /** URL pública da votação — é o link que o leitor vê, não o endpoint da API. */
 const fonteVotacao = (cod: number) =>
   `${BASE}/votacao?codigoSessaoVotacao=${cod}`;
@@ -116,6 +173,108 @@ export async function ingerirSenado(ctx: Contexto, inicio: string, fim: string) 
   if (abertas === 0 && total > 0) {
     ctx.avisos.push("Senado: nenhuma votação aberta no período — nada apurável");
   }
+
+  await ingerirDiscursosSenado(ctx, inicio, fim);
+}
+
+/**
+ * Discursos dos senadores do recorte.
+ *
+ * Uma requisição por senador e ano — nunca a legislatura inteira, pelo motivo
+ * em `LIMITE_JANELA_MESES`. Sem transcrição: `UrlTexto` leva à página oficial
+ * com o texto integral, e guardar uma cópia custaria 718 requisições para
+ * duplicar o que a origem já publica e para onde o link aponta. Mesma decisão
+ * tomada para o Diário da Câmara (§6.4 do CHECKPOINT).
+ */
+async function ingerirDiscursosSenado(ctx: Contexto, inicio: string, fim: string) {
+  const doRecorte = await ctx.db
+    .select({ politicoId: s.identidadeExterna.politicoId, codigo: s.identidadeExterna.idExterno })
+    .from(s.identidadeExterna)
+    .innerJoin(s.politico, eq(s.politico.id, s.identidadeExterna.politicoId))
+    .innerJoin(s.mandato, eq(s.mandato.politicoId, s.politico.id))
+    .where(
+      and(
+        eq(s.identidadeExterna.fonte, "senado"),
+        eq(s.mandato.casa, "senado"),
+        eq(s.politico.perfilCompleto, true),
+      ),
+    );
+
+  const anos: number[] = [];
+  for (let a = Number(inicio.slice(0, 4)); a <= Number(fim.slice(0, 4)); a++) anos.push(a);
+
+  let gravados = 0;
+  let protocolares = 0;
+  const tiposVistos = new Set<string>();
+
+  for (const { politicoId, codigo } of doRecorte) {
+    for (const ano of anos) {
+      // A janela nunca ultrapassa o ano-calendário, e é recortada pelo período
+      // pedido nas pontas — 12 meses é o teto da origem.
+      const ini = `${ano}-01-01` < inicio ? inicio : `${ano}-01-01`;
+      const f = `${ano}-12-31` > fim ? fim : `${ano}-12-31`;
+      if (ini > f) continue;
+
+      const url = fonteDiscursos(codigo, ini, f);
+      const iniciadoEm = new Date().toISOString();
+      const r = await buscarJson<{
+        DiscursosParlamentar?: {
+          Parlamentar?: { Pronunciamentos?: { Pronunciamento?: DiscursoSenado[] | DiscursoSenado } | null };
+        };
+      }>(url);
+
+      const bruto = r.dados.DiscursosParlamentar?.Parlamentar?.Pronunciamentos?.Pronunciamento;
+      const lista = bruto ? (Array.isArray(bruto) ? bruto : [bruto]) : [];
+
+      await ctx.db.insert(s.coleta).values({
+        fonte: "senado",
+        recurso: `senador/${codigo}/discursos ${ini}..${f}`,
+        url,
+        iniciadoEm,
+        concluidoEm: new Date().toISOString(),
+        status: "ok",
+        httpStatus: 200,
+        tentativas: r.tentativas,
+        registros: lista.length,
+      });
+
+      for (const d of lista) {
+        const tipo = d.TipoUsoPalavra?.Descricao?.trim() || null;
+        if (tipo) tiposVistos.add(tipo);
+        const { categoria, relevante } = categoriaSenado(tipo);
+        if (!relevante) protocolares++;
+
+        await ctx.db
+          .insert(s.discurso)
+          .values({
+            politicoId,
+            dataHoraInicio: d.DataPronunciamento,
+            tipoDiscurso: tipo,
+            sumario: d.TextoResumo?.trim() || null,
+            // Sem transcrição, por decisão: o link leva ao texto integral.
+            transcricao: null,
+            urlTexto: d.UrlTexto?.trim() || null,
+            // `CodigoPronunciamento` é identificador oficial e estável. A Câmara
+            // não tem equivalente e precisou de hash de conteúdo; aqui, não.
+            chaveConteudo: `senado:${d.CodigoPronunciamento}`,
+            categoria,
+            relevante,
+            classificacaoVersao: CLASSIFICACAO_SENADO,
+            fonteUrl: url,
+          })
+          .onConflictDoNothing();
+        gravados++;
+      }
+    }
+  }
+
+  ctx.log(`  ${gravados} discursos de ${doRecorte.length} senadores · ${protocolares} orientação de bancada`);
+  if (gravados === 0) {
+    ctx.avisos.push("Senado: nenhum discurso coletado no período");
+  }
+  // A origem pode acrescentar tipos. Novo tipo cai em 'substantivo' por padrão,
+  // que é o lado seguro — mas o aviso existe para a decisão ser revista.
+  ctx.log(`  tipos de uso da palavra vistos: ${[...tiposVistos].sort().join(", ")}`);
 }
 
 /**

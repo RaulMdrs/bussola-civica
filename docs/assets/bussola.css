@@ -511,8 +511,9 @@ td .fonte, .evidencia .fonte { margin-top: var(--e2); }
   .t-anos td:nth-child(2)::before { content: "Discursos"; }
   .t-anos td:nth-child(3)::before { content: "Substantivos"; }
 
-  .t-busca td:nth-child(2)::before { content: "Discursos"; }
-  .t-busca td:nth-child(3)::before { content: "Anos"; }
+  .t-busca td:nth-child(2)::before { content: "Casa"; }
+  .t-busca td:nth-child(3)::before { content: "Discursos"; }
+  .t-busca td:nth-child(4)::before { content: "Anos"; }
 
   /* Decomposição: a primeira célula é a data, não um título de registro —
      a votação é que identifica a linha. Some o tratamento de cabeçalho. */
