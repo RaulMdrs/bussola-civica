@@ -1,10 +1,9 @@
 # CHECKPOINT — Bússola Cívica
 
 **Data:** 2026-08-19 · **Fase:** 0 concluída · Fase 1 (Senado) integrada
-**Estado:** backend e site no ar, com design próprio, **6.568 discursos das duas
-casas** visíveis e buscáveis, e todo número decomposto até a votação que o
-compõe. Coleta, modelo, cálculo, metodologia pública e camada web funcionando e
-validados contra dados reais. App mobile não iniciado.
+**Estado:** backend e site no ar, com design próprio, 6.584 discursos das duas
+casas visíveis e buscáveis, todo número decomposto até a votação que o compõe, e
+**a atualização automatizada duas vezes por semana**. App mobile não iniciado.
 
 Site: <https://raulmdrs.github.io/bussola-civica/>
 
@@ -19,7 +18,7 @@ repositório, onde é `FONTES.md` que existe — nas páginas publicadas é `/FO
 | # | Etapa | Entregável |
 |---|---|---|
 | 1 | Reconhecimento das APIs | `docs/FONTES.md` — 26 endpoints testados, request/response verificados |
-| 2 | Modelo de dados | `src/db/schema.ts` — 20 tabelas, 7 migrations, 79 verificações |
+| 2 | Modelo de dados | `src/db/schema.ts` — 20 tabelas, 7 migrations, 83 verificações |
 | 3 | Ingestor | `src/ingest/` + `src/lib/` — coleta idempotente com retry e auditoria |
 | 4 | Cálculo de posições | `src/calc/posicoes.ts` — 2 eixos com evidência rastreável |
 | 5 | Classificação de discursos | `src/lib/classificar.ts` — filtro de ruído protocolar |
@@ -37,6 +36,7 @@ repositório, onde é `FONTES.md` que existe — nas páginas publicadas é `/FO
 | 17 | Busca nos discursos | `docs/assets/busca.js` — 236 linhas à mão, sob demanda, degrada sem script (§6.5) |
 | 18 | Decomposição completa | 47.441 votações em 127 páginas — cada percentual do site vira link para a sua conta (§6.6) |
 | 19 | Discursos do Senado | etapa `senado` — 717 pronunciamentos, classificados **pela própria fonte** (§6.7) |
+| 20 | Atualização automatizada | `.github/workflows/acervo.yml` — 2×/semana, custo zero, valida antes de publicar (§6.8) |
 
 Banco atual: **78 MB**. Câmara: 6.291 votações (1.117 nominais), 452.356 votos.
 Senado: 355 votações (116 abertas), 28.755 votos. 34 parlamentares com perfil
@@ -104,7 +104,13 @@ estruturalmente:
 `npm run db:validar` monta um banco em memória com fixture que reproduz cada
 armadilha encontrada — suplente com exercício parcial, deputado que trocou de
 legenda, votação simbólica, obstrução, Artigo 17, votação secreta — e verifica
-que as queries respondem certo. **79 verificações.**
+que as queries respondem certo. **83 verificações.**
+
+O total é **contado, não digitado**. Até 2026-08-19 era a constante
+`totalChecagens = 79`, atualizada à mão — e já estava errada em 4 quando alguém
+foi conferir. O arquivo cuja razão de existir é impedir desvio silencioso
+desviava no próprio resumo, que é o pior lugar possível: quem lê "79
+verificações" acredita que 79 rodaram.
 
 Os sete casos de classificação de discurso são regressões: cada um quebrou uma
 versão anterior da regra.
@@ -590,6 +596,49 @@ outro nome), e a prosa passou a nomear só as categorias que o parlamentar de
 fato tem, porque o Senado não produz registro de presença e dizer que produz
 seria descrever outra fonte.
 
+### 6.8 Automatização — o que ela custa e o que ela recusa fazer
+
+`.github/workflows/acervo.yml` roda duas vezes por semana:
+
+```
+ingerir:incremental → db:validar → relatorio → site → commit docs/
+```
+
+**Custo: zero.** Não há modelo de linguagem envolvido — são os mesmos scripts
+determinísticos que rodavam à mão. O repositório é público, e para repositórios
+públicos os runners padrão do GitHub não têm limite de minutos; as APIs da
+Câmara e do Senado não cobram nem autenticam; o Pages é gratuito. A pergunta
+"quantos tokens isso gasta" tem resposta simples: nenhum. Uma tarefa sem decisão
+não precisa de um modelo para executá-la.
+
+| Decisão | Por quê |
+|---|---|
+| **Duas vezes por semana**, não uma | O acervo de 78 MB vive no cache do Actions, que descarta entradas não acessadas há mais de 7 dias. Cron semanal fica na borda: uma execução atrasada por indisponibilidade do runner apagaria o banco. Segunda e quinta deixam 4 dias de folga |
+| **Cache**, não release asset | Em repositório público, release asset é download público — e o banco tem `cpf_hmac` de 1.261 políticos. O cache não é baixável de fora |
+| **Falhar sem cache**, não reconstruir | São ~91 min e ~9.700 requisições contra APIs públicas. Disparar isso sozinha, sem ninguém olhando, por causa de um despejo de cache, é automação que castiga a fonte |
+| **Reconstruir só por `workflow_dispatch`** | Resolve o ovo e galinha da primeira execução — o cache só é escrito ao fim de uma execução bem-sucedida — sem que ninguém tropece nisso |
+| **Validar antes de publicar** | `db:validar` e os invariantes rodam entre a coleta e o commit. Acervo incoerente não vira site |
+| Checar o **arquivo**, não a saída da action | Cobre cache ausente e cache truncado com a mesma condição, e não depende do nome de um output entre versões |
+
+O gerador é **determinístico**: duas execuções sobre o mesmo banco produzem
+saída byte a byte idêntica (verificado, 0 arquivos diferentes). A Action só
+commita quando o acervo mudou de verdade — o diff continua sendo registro, não
+ruído.
+
+**Um passo continua humano:** `BUSSOLA_CPF_SEGREDO` precisa existir como segredo
+do repositório, porque a etapa `deputados` chama `hmacCpf()` toda semana. É uma
+ampliação real de exposição — hoje o segredo só vive no `.env` da máquina — e
+foi decidida, não herdada.
+
+#### O que a automatização encontrou antes de automatizar
+
+Os três defeitos do §8 datados de 2026-08-19 apareceram porque rodar o
+incremental para testar é diferente de lê-lo. **Nenhum dava erro**, e o segundo
+teria publicado um índice com 35 deputados para 31 cadeiras.
+
+É o argumento de fundo a favor da ordem escolhida: validar entre a coleta e o
+commit não é zelo, é o que separa "a rotina rodou" de "a rotina está certa".
+
 ---
 
 ## 7. Números medidos — ingestor × reconhecimento
@@ -739,6 +788,10 @@ Todos apareceram ao rodar contra dados reais, não em revisão de código.
 | `relatorio` agrupava natureza **sem filtrar por casa** | `natureza` é conceito da Câmara e fica NULL no Senado por escolha. As 355 votações do Senado entravam com `null` e o relatório quebrava em `null.padEnd()`: a ferramenta de conferência do acervo parava por causa de um dado corretamente nulo. Confirmado contra backup — anterior ao trabalho de discursos do Senado | Query escopada em `casa = 'camara'`, título da seção idem, e `null` passou a ter tratamento explícito que diz "investigar, não deveria existir na Câmara" |
 | Etapa `senado` avança o acervo, mas não recalcula posições | A coleta de discursos trouxe junto 2 votações novas (acervo até 2026-08-12) com as posições apuradas até 2026-08-11. O site derivava "116 abertas" do banco e "de 114" da posição — dois números certos, uma página inconsistente | Recalcular `posicoes` faz parte de avançar o acervo, não é passo opcional. Uma série só, 871 posições, 4 invariantes limpos |
 
+| `ingerir:incremental` **não coletava o Senado** | `ETAPAS_COLETA` não o incluía e `horizonte.ts` só conhecia recursos da Câmara. A rotina semanal congelava a casa inteira enquanto o log dizia "concluído" — mesma classe da janela de 12 meses (§6.7). Nenhuma execução do incremental jamais tocou no Senado | Etapa nas duas listas, e um recurso-resumo `senado <ini>..<fim>` que declara **até que dia se olhou** — `ano=2026` não é uma data. Duas regressões novas em `db:validar` |
+| A origem **reescreveu o próprio passado**, e o ingestor acumulou | O histórico de filiação de Afonso Hamm passou de `PPB → PP** → PP` para só `PP`. A chave `(político, partido, data_inicio)` não casou com nenhuma linha antiga, o `onConflictDoUpdate` virou insert, e 4 deputados ficaram com **duas filiações abertas**. O site resolve legenda por filiação aberta: o índice passou a listar **35 deputados para 31 cadeiras**, sem erro nenhum | `derivarFiliacoes` traduz o histórico inteiro — é afirmação completa sobre a pessoa, não acréscimo. A escrita passou a **substituir**, com `DELETE` escopado por `fonte_url` para não levar junto filiação de senador. Invariante novo pega o estado |
+| `db:validar` **mentia no próprio resumo** | `const totalChecagens = 79`, digitado à mão, já errado em 4. Quem lê "79 verificações" acredita que 79 rodaram — e o arquivo existe justamente para impedir desvio silencioso | Contado em vez de digitado. São 83 |
+
 **Ajustes de ambiente:** `better-sqlite3` não compila no Node 26 → `node:sqlite`
 nativo via `sqlite-proxy`; type-stripping proíbe *parameter properties* e enums.
 
@@ -779,12 +832,12 @@ declarado pela fonte, e há justificativa de voto ali dentro que é posição.
 ## 10. Estado do código
 
 ```
-src/                                    7.375 linhas TypeScript
+src/                                    7.497 linhas TypeScript
   db/schema.ts        872   20 tabelas, comentadas com o achado que as motivou
   db/client.ts         72   node:sqlite via sqlite-proxy + consultar() tipado
   db/migrar.ts         59   aplica migrations, controla em _migrations
-  db/validar.ts       856   79 verificações contra casos de borda reais
-  db/integridade.ts    91   invariantes do acervo (usadas por validar e relatorio)
+  db/validar.ts       890   83 verificações contra casos de borda reais
+  db/integridade.ts   111   5 invariantes do acervo (usados por validar e relatorio)
   lib/http.ts         148   retry, backoff, janelas de data
   lib/normalizar.ts   151   voto, CPF, sigla, data, hoje() em Brasília
   lib/classificar.ts  111   classificação de discurso
@@ -794,14 +847,16 @@ src/                                    7.375 linhas TypeScript
   ingest/camara.ts    271   cliente tipado da API (dataFim exclusivo)
   ingest/senado.ts    538   cliente + ingestão; votação e discurso; janela de 1 ano
   ingest/tse.ts       275   candidaturas 2022 via CSV, cruzadas por HMAC
-  ingest/pipeline.ts 1024   7 etapas de ingestão; votação+votos em transação
+  ingest/pipeline.ts 1042   7 etapas; votação+votos em transação; filiação substitui
   ingest/index.ts     125   CLI
-  ingest/incremental.ts 153 CLI da retomada automática
-  ingest/horizonte.ts 105   de onde continuar — testável, sem rede
+  ingest/incremental.ts 154 CLI da retomada automática, Câmara e Senado
+  ingest/horizonte.ts 132   de onde continuar, por etapa — testável, sem rede
   calc/posicoes.ts    563   dois eixos + evidências, recorte por tema, regime por casa
   site/gerar.ts      1331   gerador do site — 305 páginas, fragmentos de busca, guarda da decomposição
   relatorio.ts        414   verificação do acervo + invariantes
 drizzle/                    8 migrations
+
+.github/workflows/acervo.yml         139  atualização 2×/semana, custo zero (§6.8)
 
 docs/                                    1022 linhas de camada web
   _layouts/default.html 57  cabeçalho, conteúdo, rodapé lido de _data/meta.yml
@@ -895,49 +950,53 @@ com quatro rótulos novos.
 coletados e exibidos em 2026-08-19 (§6.7), e com eles o site passou a mostrar
 as duas casas por inteiro: como votam, o que dizem, e a conta de cada número.
 
-**Sobram dois itens, e nenhum é promessa aberta ao leitor:** um é operação
-(automação) e o outro é forma (órbita).
+**A operação fechou junto.** A atualização virou automática em 2026-08-19
+(§6.8), e o caminho até lá encontrou três defeitos silenciosos que a rotina
+manual vinha carregando — inclusive um que congelava o Senado inteiro.
 
-### Rotina
+**Sobra um item de trabalho e duas fases.** Nenhum é promessa aberta ao leitor:
+o que resta é forma, não cobertura nem confiabilidade.
 
-**0. Manter o acervo e o site.** Semanalmente:
+### Rotina — não é mais sua
+
+**0. Nada.** Segunda e quinta, `.github/workflows/acervo.yml` coleta, valida,
+gera e commita sozinho (§6.8). Custo zero, sem modelo de linguagem envolvido.
+
+À mão continua funcionando, e é o que se roda para conferir antes de mexer em
+regra de cálculo:
 
 ```bash
-npm run ingerir:incremental && npm run site && git commit -am "atualiza acervo"
+npm run ingerir:incremental && npm run relatorio && npm run site
 ```
 
-~49 s de coleta, alguns segundos de geração, e o Pages reconstrói sozinho. O
-diff do commit mostra o que mudou nos números — é registro, não ruído.
+O que **não** é opcional, nem à mão nem na Action: rodar `db:validar` e ler os
+invariantes antes de publicar. Os três defeitos de 2026-08-19 (§8) eram todos
+silenciosos, e um deles publicaria 35 deputados para 31 cadeiras.
 
-### O que dá mais retorno agora
+### O que sobrou para acompanhar
 
-**1. Automatizar a atualização.** Hoje o ciclo depende de você rodar dois
-comandos numa máquina que tem o banco. Uma GitHub Action semanal faria tudo —
-mas exige reconstruir o acervo no CI ou cacheá-lo, e o segredo do HMAC vira
-segredo do repositório. Decisão real de superfície, não tarefa mecânica.
+**1. O peso do repositório, sob observação.** `docs/` era 616 KB há quatro dias
+e é **24 MB** — 13,4 de decomposição, 6,1 de discursos, 3,2 de fragmentos de
+busca. Não trava nada: o Pages reconstrói e cada página pesa pouco pelo fio. Mas
+a Action agora transfere isso duas vezes por semana.
 
-**Este item mudou de tamanho quatro vezes em quatro dias.** `docs/` era 616 KB
-antes dos discursos; hoje é **24 MB** — 13,4 de decomposição, 6,1 de discursos,
-3,2 de fragmentos de busca. Não trava nada: o Pages reconstrói e cada página
-pesa pouco pelo fio. O que mudou é a conta do CI, que passaria a versionar e
-transferir 24 MB por execução.
+A pergunta é se o delta semanal é pequeno — deveria ser: votação nova entra no
+topo de cada tabela e o resto não muda, e o gerador é determinístico, então
+execução sem dado novo não gera commit nenhum. **A resposta é observável, não
+estimável:** medir o crescimento do `.git` por duas ou três semanas de operação
+automática.
 
-Há uma segunda razão para automatizar, que a coleta do Senado deixou clara:
-**avançar o acervo e recalcular as posições são um passo só**, e fazer o
-primeiro sem o segundo deixa o site com dois números certos e uma página
-inconsistente (§8). Numa Action isso vira sequência fixa; à mão, depende de
-lembrar.
-
-Antes de decidir a forma, **medir o crescimento do `.git` por duas ou três
-semanas**. A pergunta é se o delta semanal é pequeno — deveria ser: votação nova
-entra no topo de cada tabela e o resto não muda —, e a resposta é observável,
-não estimável.
-
-Se o custo incomodar, a saída não é publicar menos: é **gerar no CI em vez de
+Se incomodar, a saída não é publicar menos: é **gerar no CI em vez de
 versionar**. O acervo é a fonte da verdade e o site é derivado dele; nada se
 perde ao deixar de guardar o derivado. O que se perde é o diff legível de cada
 rebuild, que hoje é parte do registro auditável — e essa troca precisa ser
 decidida, não sofrida.
+
+**2. A primeira execução automática.** Ela ainda não rodou. Duas coisas só se
+provam em produção: se o cache sobrevive entre segunda e quinta, e se a
+reconstrução manual (`workflow_dispatch` com `reconstruir`) consegue semear o
+cache dentro do teto de 180 min. Até lá, a automação está escrita e validada,
+não exercitada.
 
 ### Bloqueado pela fonte, não por nós
 
@@ -954,7 +1013,7 @@ Registrado para quando houver fonte — nenhum destes é "fazer depois":
 
 ### Fases seguintes
 
-**2. Visualização orbital.** Estava no plano original; o site hoje é tabela.
+**3. Visualização orbital.** Estava no plano original; o site hoje é tabela.
 Consome `posicao` + `posicao_evidencia` direto e roda no cliente, sem servidor,
 e as três condições da busca (§6.5) valem inteiras aqui — à mão, degrada sem
 script, custo declarado.
@@ -966,10 +1025,16 @@ precisa deixar isso óbvio em vez de esconder atrás de uma imagem bonita — é
 única forma de exibição em que o eixo 2 pode mentir por si mesmo, sem que
 ninguém tenha escrito uma frase falsa.
 
-**3. App mobile** (Fase 3) e **estadual/municipal** (Fase 4).
+**4. App mobile** (Fase 3) e **estadual/municipal** (Fase 4).
 
 ### Dívidas pequenas
 
+- **O segredo `BUSSOLA_CPF_SEGREDO` agora vive também no GitHub.** A etapa
+  `deputados` chama `hmacCpf()` toda semana, então a Action precisa dele. É uma
+  ampliação real de exposição — antes só existia no `.env` de uma máquina — e
+  foi decidida, não herdada. O banco não vai para o repositório, então os
+  `cpf_hmac` continuam fora do alcance público; o segredo protege contra força
+  bruta caso isso mude.
 - **Não existe Jekyll local.** O Ruby do sistema é 2.6 e a cadeia não instala
   sem trabalho. Hoje a verificação da camada web é feita em duas partes:
   `kramdown` isolado (Ruby puro, mesmo conversor do GitHub Pages) para conferir
