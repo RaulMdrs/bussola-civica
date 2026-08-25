@@ -18,7 +18,7 @@ description: "Os discursos de Lucas Redecker em 2024, com o sumário oficial e l
 
 ## Substantivos — 9
 
-<blockquote class="evidencia discurso" id="d-3488">
+<blockquote class="evidencia discurso" id="d-3496">
 <span class="data">2024-12-17 · 17:28</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Lucas Redecker em 2024, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3487">
+<blockquote class="evidencia discurso" id="d-3495">
 <span class="data">2024-12-03 · 16:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Lucas Redecker em 2024, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3486">
+<blockquote class="evidencia discurso" id="d-3494">
 <span class="data">2024-06-11 · 17:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Lucas Redecker em 2024, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3485">
+<blockquote class="evidencia discurso" id="d-3493">
 <span class="data">2024-06-04 · 16:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Lucas Redecker em 2024, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3484">
+<blockquote class="evidencia discurso" id="d-3492">
 <span class="data">2024-05-22 · 21:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Lucas Redecker em 2024, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3483">
+<blockquote class="evidencia discurso" id="d-3491">
 <span class="data">2024-05-22 · 21:12</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Lucas Redecker em 2024, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3482">
+<blockquote class="evidencia discurso" id="d-3490">
 <span class="data">2024-05-22 · 21:12</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Lucas Redecker em 2024, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3481">
+<blockquote class="evidencia discurso" id="d-3489">
 <span class="data">2024-05-22 · 20:40</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Lucas Redecker em 2024, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3480">
+<blockquote class="evidencia discurso" id="d-3488">
 <span class="data">2024-05-07 · 15:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

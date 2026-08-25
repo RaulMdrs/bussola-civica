@@ -7,7 +7,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Paulo Paim</a></b> · PT · 65 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Paulo Paim</a></b> · PT · 69 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
@@ -16,9 +16,27 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 > neste site: o link de cada discurso leva à página oficial do
 > **pronunciamento**, onde ele está publicado.
 
-## Substantivos — 65
+## Substantivos — 69
 
-<blockquote class="evidencia discurso" id="d-12355">
+<blockquote class="evidencia discurso" id="d-6523">
+<span class="data">2026-08-10</span>
+<div class="corpo">
+<p class="tipo">Discurso</p>
+<p>Defesa da PEC nº 221/2019, que prevê a redução da jornada de trabalho, sem redução salarial. Apelo ao Senado Federal para que aprecie a proposta antes das eleições gerais. Argumentação de que a matéria ampliará a qualidade de vida, fortalecerá a produtividade, favorecerá a geração de empregos e adequará as relações de trabalho às transformações econômicas e tecnológicas.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523692">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6524">
+<span class="data">2026-07-15</span>
+<div class="corpo">
+<p class="tipo">Discurso</p>
+<p>Defesa do fim da escala 6x1 e da redução da jornada de trabalho para 40 horas semanais, sem redução salarial, como medida para ampliar a produtividade, melhorar a qualidade de vida dos trabalhadores e fortalecer a competitividade da economia. Expectativa de aprovação, pelo Senado Federal, da PEC nº 221/2019, que trata sobre o tema, após o recesso parlamentar.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523509">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6525">
 <span class="data">2026-07-14</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -27,7 +45,25 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12357">
+<blockquote class="evidencia discurso" id="d-6527">
+<span class="data">2026-07-13</span>
+<div class="corpo">
+<p class="tipo">Discurso</p>
+<p>Sessão especial destinada a celebrar os 50 Anos da Associação Nacional das Magistradas e dos Magistrados da Justiça do Trabalho (Anamatra), destacando sua atuação na defesa da Justiça do Trabalho, dos direitos trabalhistas, da Constituição de 1988, da Previdência Social e do combate ao trabalho escravo. Comentários sobre desafios atuais como a uberização e a pejotização das relações de trabalho, reafirmando a importância da proteção social aos trabalhadores.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523479">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6526">
+<span class="data">2026-07-13</span>
+<div class="corpo">
+<p class="tipo">Discurso</p>
+<p>Manifestação favorável à PEC nº 221/2019, que dispõe sobre o fim da escala 6x1 e a redução da jornada de trabalho para 40 horas semanais sem redução salarial, com registro do início da campanha do Presidente Lula pela aprovação da proposta.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523497">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6529">
 <span class="data">2026-07-08</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -36,7 +72,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12356">
+<blockquote class="evidencia discurso" id="d-6528">
 <span class="data">2026-07-08</span>
 <div class="corpo">
 <p class="tipo">Como Relator - Para proferir parecer</p>
@@ -45,7 +81,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12358">
+<blockquote class="evidencia discurso" id="d-6530">
 <span class="data">2026-07-07</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -54,7 +90,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12359">
+<blockquote class="evidencia discurso" id="d-6531">
 <span class="data">2026-07-06</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -63,7 +99,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12361">
+<blockquote class="evidencia discurso" id="d-6533">
 <span class="data">2026-07-01</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -72,7 +108,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12360">
+<blockquote class="evidencia discurso" id="d-6532">
 <span class="data">2026-07-01</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -81,7 +117,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12362">
+<blockquote class="evidencia discurso" id="d-6534">
 <span class="data">2026-06-30</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -90,7 +126,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12366">
+<blockquote class="evidencia discurso" id="d-6538">
 <span class="data">2026-06-22</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -99,7 +135,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12365">
+<blockquote class="evidencia discurso" id="d-6537">
 <span class="data">2026-06-22</span>
 <div class="corpo">
 <p class="tipo">Discurso proferido da Presidência</p>
@@ -108,7 +144,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12364">
+<blockquote class="evidencia discurso" id="d-6536">
 <span class="data">2026-06-22</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -117,7 +153,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12363">
+<blockquote class="evidencia discurso" id="d-6535">
 <span class="data">2026-06-22</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -126,7 +162,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12369">
+<blockquote class="evidencia discurso" id="d-6541">
 <span class="data">2026-06-17</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -135,7 +171,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12368">
+<blockquote class="evidencia discurso" id="d-6540">
 <span class="data">2026-06-17</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -144,7 +180,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12367">
+<blockquote class="evidencia discurso" id="d-6539">
 <span class="data">2026-06-17</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -153,7 +189,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12371">
+<blockquote class="evidencia discurso" id="d-6543">
 <span class="data">2026-06-16</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -162,7 +198,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12370">
+<blockquote class="evidencia discurso" id="d-6542">
 <span class="data">2026-06-16</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -171,7 +207,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12372">
+<blockquote class="evidencia discurso" id="d-6544">
 <span class="data">2026-06-15</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -180,7 +216,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12377">
+<blockquote class="evidencia discurso" id="d-6549">
 <span class="data">2026-06-09</span>
 <div class="corpo">
 <p class="tipo">Como Relator - Para proferir parecer</p>
@@ -189,7 +225,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12376">
+<blockquote class="evidencia discurso" id="d-6548">
 <span class="data">2026-06-09</span>
 <div class="corpo">
 <p class="tipo">Como Relator</p>
@@ -198,7 +234,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12375">
+<blockquote class="evidencia discurso" id="d-6547">
 <span class="data">2026-06-09</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -207,7 +243,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12374">
+<blockquote class="evidencia discurso" id="d-6546">
 <span class="data">2026-06-09</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -216,7 +252,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12373">
+<blockquote class="evidencia discurso" id="d-6545">
 <span class="data">2026-06-09</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -225,7 +261,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12378">
+<blockquote class="evidencia discurso" id="d-6550">
 <span class="data">2026-06-08</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -234,7 +270,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12379">
+<blockquote class="evidencia discurso" id="d-6551">
 <span class="data">2026-06-02</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -243,7 +279,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12380">
+<blockquote class="evidencia discurso" id="d-6552">
 <span class="data">2026-06-01</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -253,7 +289,7 @@ reduz a jornada de trabalho semanal, com destaque para países que também adota
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12381">
+<blockquote class="evidencia discurso" id="d-6553">
 <span class="data">2026-05-25</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -262,7 +298,7 @@ reduz a jornada de trabalho semanal, com destaque para países que também adota
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12382">
+<blockquote class="evidencia discurso" id="d-6554">
 <span class="data">2026-05-13</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -271,7 +307,7 @@ reduz a jornada de trabalho semanal, com destaque para países que também adota
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12383">
+<blockquote class="evidencia discurso" id="d-6555">
 <span class="data">2026-05-12</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -280,7 +316,7 @@ reduz a jornada de trabalho semanal, com destaque para países que também adota
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12384">
+<blockquote class="evidencia discurso" id="d-6556">
 <span class="data">2026-05-11</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -289,7 +325,7 @@ reduz a jornada de trabalho semanal, com destaque para países que também adota
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12385">
+<blockquote class="evidencia discurso" id="d-6557">
 <span class="data">2026-05-06</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -298,7 +334,7 @@ reduz a jornada de trabalho semanal, com destaque para países que também adota
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12386">
+<blockquote class="evidencia discurso" id="d-6558">
 <span class="data">2026-05-05</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -307,7 +343,7 @@ reduz a jornada de trabalho semanal, com destaque para países que também adota
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12390">
+<blockquote class="evidencia discurso" id="d-6562">
 <span class="data">2026-05-04</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -316,7 +352,7 @@ reduz a jornada de trabalho semanal, com destaque para países que também adota
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12389">
+<blockquote class="evidencia discurso" id="d-6561">
 <span class="data">2026-05-04</span>
 <div class="corpo">
 <p class="tipo">Discurso proferido da Presidência</p>
@@ -325,7 +361,7 @@ reduz a jornada de trabalho semanal, com destaque para países que também adota
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12388">
+<blockquote class="evidencia discurso" id="d-6560">
 <span class="data">2026-05-04</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -334,7 +370,7 @@ reduz a jornada de trabalho semanal, com destaque para países que também adota
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12387">
+<blockquote class="evidencia discurso" id="d-6559">
 <span class="data">2026-05-04</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -343,7 +379,7 @@ reduz a jornada de trabalho semanal, com destaque para países que também adota
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12391">
+<blockquote class="evidencia discurso" id="d-6563">
 <span class="data">2026-04-28</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -352,7 +388,7 @@ reduz a jornada de trabalho semanal, com destaque para países que também adota
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12392">
+<blockquote class="evidencia discurso" id="d-6564">
 <span class="data">2026-04-27</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -361,7 +397,7 @@ reduz a jornada de trabalho semanal, com destaque para países que também adota
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12394">
+<blockquote class="evidencia discurso" id="d-6566">
 <span class="data">2026-04-07</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -370,7 +406,7 @@ reduz a jornada de trabalho semanal, com destaque para países que também adota
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12393">
+<blockquote class="evidencia discurso" id="d-6565">
 <span class="data">2026-04-07</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -379,7 +415,7 @@ reduz a jornada de trabalho semanal, com destaque para países que também adota
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12395">
+<blockquote class="evidencia discurso" id="d-6567">
 <span class="data">2026-04-06</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -388,7 +424,7 @@ reduz a jornada de trabalho semanal, com destaque para países que também adota
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12396">
+<blockquote class="evidencia discurso" id="d-6568">
 <span class="data">2026-03-31</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -397,7 +433,7 @@ reduz a jornada de trabalho semanal, com destaque para países que também adota
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12397">
+<blockquote class="evidencia discurso" id="d-6569">
 <span class="data">2026-03-25</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -407,7 +443,7 @@ transformador do Senai na trajetória profissional de S. Exa.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12398">
+<blockquote class="evidencia discurso" id="d-6570">
 <span class="data">2026-03-24</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -416,7 +452,7 @@ transformador do Senai na trajetória profissional de S. Exa.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12401">
+<blockquote class="evidencia discurso" id="d-6573">
 <span class="data">2026-03-23</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -425,7 +461,7 @@ transformador do Senai na trajetória profissional de S. Exa.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12400">
+<blockquote class="evidencia discurso" id="d-6572">
 <span class="data">2026-03-23</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -434,7 +470,7 @@ transformador do Senai na trajetória profissional de S. Exa.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12399">
+<blockquote class="evidencia discurso" id="d-6571">
 <span class="data">2026-03-23</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -443,7 +479,7 @@ transformador do Senai na trajetória profissional de S. Exa.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12403">
+<blockquote class="evidencia discurso" id="d-6575">
 <span class="data">2026-03-18</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -452,7 +488,7 @@ transformador do Senai na trajetória profissional de S. Exa.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12402">
+<blockquote class="evidencia discurso" id="d-6574">
 <span class="data">2026-03-18</span>
 <div class="corpo">
 <p class="tipo">Como Relator - Para proferir parecer</p>
@@ -461,7 +497,7 @@ transformador do Senai na trajetória profissional de S. Exa.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12404">
+<blockquote class="evidencia discurso" id="d-6576">
 <span class="data">2026-03-17</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -470,7 +506,7 @@ transformador do Senai na trajetória profissional de S. Exa.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12405">
+<blockquote class="evidencia discurso" id="d-6577">
 <span class="data">2026-03-16</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -479,7 +515,7 @@ transformador do Senai na trajetória profissional de S. Exa.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12407">
+<blockquote class="evidencia discurso" id="d-6579">
 <span class="data">2026-03-11</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -488,7 +524,7 @@ transformador do Senai na trajetória profissional de S. Exa.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12406">
+<blockquote class="evidencia discurso" id="d-6578">
 <span class="data">2026-03-11</span>
 <div class="corpo">
 <p class="tipo">Comunicação inadiável</p>
@@ -497,7 +533,7 @@ transformador do Senai na trajetória profissional de S. Exa.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12410">
+<blockquote class="evidencia discurso" id="d-6582">
 <span class="data">2026-03-10</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -506,7 +542,7 @@ transformador do Senai na trajetória profissional de S. Exa.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12409">
+<blockquote class="evidencia discurso" id="d-6581">
 <span class="data">2026-03-10</span>
 <div class="corpo">
 <p class="tipo">Como Relator - Para proferir parecer</p>
@@ -515,7 +551,7 @@ transformador do Senai na trajetória profissional de S. Exa.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12408">
+<blockquote class="evidencia discurso" id="d-6580">
 <span class="data">2026-03-10</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -524,7 +560,7 @@ transformador do Senai na trajetória profissional de S. Exa.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12411">
+<blockquote class="evidencia discurso" id="d-6583">
 <span class="data">2026-03-09</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -533,7 +569,7 @@ transformador do Senai na trajetória profissional de S. Exa.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12412">
+<blockquote class="evidencia discurso" id="d-6584">
 <span class="data">2026-03-03</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -542,7 +578,7 @@ transformador do Senai na trajetória profissional de S. Exa.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12413">
+<blockquote class="evidencia discurso" id="d-6585">
 <span class="data">2026-03-02</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -551,7 +587,7 @@ transformador do Senai na trajetória profissional de S. Exa.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12414">
+<blockquote class="evidencia discurso" id="d-6586">
 <span class="data">2026-02-25</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -560,7 +596,7 @@ transformador do Senai na trajetória profissional de S. Exa.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12417">
+<blockquote class="evidencia discurso" id="d-6589">
 <span class="data">2026-02-24</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -569,7 +605,7 @@ transformador do Senai na trajetória profissional de S. Exa.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12416">
+<blockquote class="evidencia discurso" id="d-6588">
 <span class="data">2026-02-24</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -578,7 +614,7 @@ transformador do Senai na trajetória profissional de S. Exa.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12415">
+<blockquote class="evidencia discurso" id="d-6587">
 <span class="data">2026-02-24</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -587,7 +623,7 @@ transformador do Senai na trajetória profissional de S. Exa.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12418">
+<blockquote class="evidencia discurso" id="d-6590">
 <span class="data">2026-02-23</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -596,7 +632,7 @@ transformador do Senai na trajetória profissional de S. Exa.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12419">
+<blockquote class="evidencia discurso" id="d-6591">
 <span class="data">2026-02-03</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>

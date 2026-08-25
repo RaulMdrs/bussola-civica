@@ -18,7 +18,7 @@ description: "Os discursos de Any Ortiz em 2024, com o sumário oficial e link p
 
 ## Substantivos — 8
 
-<blockquote class="evidencia discurso" id="d-4037">
+<blockquote class="evidencia discurso" id="d-4049">
 <span class="data">2024-09-11 · 22:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Any Ortiz em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4036">
+<blockquote class="evidencia discurso" id="d-4048">
 <span class="data">2024-07-11 · 12:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Any Ortiz em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4034">
+<blockquote class="evidencia discurso" id="d-4046">
 <span class="data">2024-07-09 · 20:24</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Any Ortiz em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4033">
+<blockquote class="evidencia discurso" id="d-4045">
 <span class="data">2024-06-18 · 15:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Any Ortiz em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4032">
+<blockquote class="evidencia discurso" id="d-4044">
 <span class="data">2024-06-05 · 19:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Any Ortiz em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4031">
+<blockquote class="evidencia discurso" id="d-4043">
 <span class="data">2024-04-17 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Any Ortiz em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4030">
+<blockquote class="evidencia discurso" id="d-4042">
 <span class="data">2024-04-16 · 21:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Any Ortiz em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4029">
+<blockquote class="evidencia discurso" id="d-4041">
 <span class="data">2024-04-16 · 20:28</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -101,7 +101,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-4035">
+<blockquote class="evidencia discurso" id="d-4047">
 <span class="data">2024-07-11 · 11:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

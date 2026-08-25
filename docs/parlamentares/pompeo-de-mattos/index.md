@@ -51,7 +51,7 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Economia](../../temas/economia/) | <span class="valor">87,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>57</b></span> |
 | [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">87,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>195</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">84,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>39</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">72,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>118</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">71,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>117</b></span> |
 | [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">59,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>32</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">52,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>25</b></span> |
 {: .t-temas}
@@ -147,7 +147,7 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-5392">
+<blockquote class="evidencia discurso" id="d-5404">
 <span class="data">2026-07-08 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -156,7 +156,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5391">
+<blockquote class="evidencia discurso" id="d-5403">
 <span class="data">2026-07-08 · 18:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -165,7 +165,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5390">
+<blockquote class="evidencia discurso" id="d-5402">
 <span class="data">2026-07-08 · 17:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -174,7 +174,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5389">
+<blockquote class="evidencia discurso" id="d-5401">
 <span class="data">2026-07-08 · 17:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -183,7 +183,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5388">
+<blockquote class="evidencia discurso" id="d-5400">
 <span class="data">2026-07-08 · 15:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

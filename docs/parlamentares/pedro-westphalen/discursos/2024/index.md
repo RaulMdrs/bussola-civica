@@ -18,7 +18,7 @@ description: "Os discursos de Pedro Westphalen em 2024, com o sumário oficial e
 
 ## Substantivos — 7
 
-<blockquote class="evidencia discurso" id="d-3517">
+<blockquote class="evidencia discurso" id="d-3526">
 <span class="data">2024-11-26 · 20:52</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Pedro Westphalen em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3516">
+<blockquote class="evidencia discurso" id="d-3525">
 <span class="data">2024-10-08 · 20:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Pedro Westphalen em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3515">
+<blockquote class="evidencia discurso" id="d-3524">
 <span class="data">2024-07-02 · 20:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Pedro Westphalen em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3514">
+<blockquote class="evidencia discurso" id="d-3523">
 <span class="data">2024-05-15 · 19:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Pedro Westphalen em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3513">
+<blockquote class="evidencia discurso" id="d-3522">
 <span class="data">2024-05-14 · 18:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Pedro Westphalen em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3512">
+<blockquote class="evidencia discurso" id="d-3521">
 <span class="data">2024-05-07 · 18:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Pedro Westphalen em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3511">
+<blockquote class="evidencia discurso" id="d-3520">
 <span class="data">2024-03-19 · 17:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -92,7 +92,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-3518">
+<blockquote class="evidencia discurso" id="d-3527">
 <span class="data">2024-11-26 · 21:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

@@ -145,7 +145,7 @@ fonte que o publicou.
 
 ### Os 2 mais recentes
 
-<blockquote class="evidencia discurso" id="d-2248">
+<blockquote class="evidencia discurso" id="d-2253">
 <span class="data">2026-05-26 · 14:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -154,7 +154,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2247">
+<blockquote class="evidencia discurso" id="d-2252">
 <span class="data">2025-04-08 · 19:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

@@ -147,7 +147,7 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-13137">
+<blockquote class="evidencia discurso" id="d-180">
 <span class="data">2026-08-11 · 16:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

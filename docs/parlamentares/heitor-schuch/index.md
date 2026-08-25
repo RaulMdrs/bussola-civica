@@ -52,7 +52,7 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | <span class="valor">86,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>15</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">85,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>145</b></span> |
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">84,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>13</b></span> <span class="aviso-n">amostra pequena</span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">83,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>94</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">82,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>93</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">82,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>29</b></span> |
 {: .t-temas}
 
@@ -147,7 +147,7 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-13144">
+<blockquote class="evidencia discurso" id="d-2637">
 <span class="data">2026-08-12 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -156,7 +156,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-13143">
+<blockquote class="evidencia discurso" id="d-2636">
 <span class="data">2026-08-12 · 18:40</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -165,7 +165,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-13142">
+<blockquote class="evidencia discurso" id="d-2635">
 <span class="data">2026-08-11 · 16:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -174,7 +174,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2629">
+<blockquote class="evidencia discurso" id="d-2634">
 <span class="data">2026-07-01 · 15:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -183,7 +183,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2627">
+<blockquote class="evidencia discurso" id="d-2632">
 <span class="data">2026-06-17 · 17:24</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>

@@ -18,7 +18,7 @@ description: "Os discursos de Alceu Moreira em 2024, com o sumário oficial e li
 
 ## Substantivos — 6
 
-<blockquote class="evidencia discurso" id="d-2261">
+<blockquote class="evidencia discurso" id="d-2266">
 <span class="data">2024-12-10 · 16:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Alceu Moreira em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2260">
+<blockquote class="evidencia discurso" id="d-2265">
 <span class="data">2024-12-03 · 17:08</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Alceu Moreira em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2259">
+<blockquote class="evidencia discurso" id="d-2264">
 <span class="data">2024-06-04 · 17:28</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Alceu Moreira em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2258">
+<blockquote class="evidencia discurso" id="d-2263">
 <span class="data">2024-05-14 · 17:56</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Alceu Moreira em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2257">
+<blockquote class="evidencia discurso" id="d-2262">
 <span class="data">2024-04-16 · 18:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Alceu Moreira em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2254">
+<blockquote class="evidencia discurso" id="d-2259">
 <span class="data">2024-03-13 · 19:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -83,7 +83,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-2256">
+<blockquote class="evidencia discurso" id="d-2261">
 <span class="data">2024-03-13 · 20:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -92,7 +92,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2255">
+<blockquote class="evidencia discurso" id="d-2260">
 <span class="data">2024-03-13 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

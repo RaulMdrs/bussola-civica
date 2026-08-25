@@ -53,7 +53,7 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">94,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>34</b></span> |
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">94,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>17</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">93,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>156</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">93,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>117</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">93,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>116</b></span> |
 {: .t-temas}
 
 <span class="aviso-n">amostra pequena</span> marca temas com menos de
@@ -147,7 +147,7 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-4675">
+<blockquote class="evidencia discurso" id="d-4687">
 <span class="data">2026-05-27 · 22:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -156,7 +156,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4673">
+<blockquote class="evidencia discurso" id="d-4685">
 <span class="data">2026-05-26 · 16:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -165,7 +165,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4672">
+<blockquote class="evidencia discurso" id="d-4684">
 <span class="data">2026-05-20 · 14:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -174,7 +174,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4671">
+<blockquote class="evidencia discurso" id="d-4683">
 <span class="data">2026-05-05 · 16:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -183,7 +183,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4669">
+<blockquote class="evidencia discurso" id="d-4681">
 <span class="data">2026-04-08 · 20:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

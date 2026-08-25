@@ -50,7 +50,7 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">83,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>12</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">83,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>191</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">73,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>41</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">71,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>128</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">70,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>127</b></span> |
 | [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">67,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>40</b></span> |
 | [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">43,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>30</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">32,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>28</b></span> |
@@ -147,7 +147,7 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-199">
+<blockquote class="evidencia discurso" id="d-200">
 <span class="data">2026-02-24 · 15:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -156,7 +156,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-198">
+<blockquote class="evidencia discurso" id="d-199">
 <span class="data">2025-10-28 · 21:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -165,7 +165,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-197">
+<blockquote class="evidencia discurso" id="d-198">
 <span class="data">2025-10-28 · 21:12</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -174,7 +174,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-196">
+<blockquote class="evidencia discurso" id="d-197">
 <span class="data">2025-05-28 · 15:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -183,7 +183,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-195">
+<blockquote class="evidencia discurso" id="d-196">
 <span class="data">2025-05-06 · 14:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

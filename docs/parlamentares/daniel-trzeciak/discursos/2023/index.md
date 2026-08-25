@@ -18,7 +18,7 @@ description: "Os discursos de Daniel Trzeciak em 2023, com o sumário oficial e 
 
 ## Substantivos — 6
 
-<blockquote class="evidencia discurso" id="d-3834">
+<blockquote class="evidencia discurso" id="d-3846">
 <span class="data">2023-11-22 · 15:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Daniel Trzeciak em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3833">
+<blockquote class="evidencia discurso" id="d-3845">
 <span class="data">2023-10-24 · 18:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Daniel Trzeciak em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3832">
+<blockquote class="evidencia discurso" id="d-3844">
 <span class="data">2023-09-20 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Daniel Trzeciak em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3831">
+<blockquote class="evidencia discurso" id="d-3843">
 <span class="data">2023-05-31 · 11:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Daniel Trzeciak em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3830">
+<blockquote class="evidencia discurso" id="d-3842">
 <span class="data">2023-04-19 · 15:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Daniel Trzeciak em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3829">
+<blockquote class="evidencia discurso" id="d-3841">
 <span class="data">2023-04-13 · 11:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

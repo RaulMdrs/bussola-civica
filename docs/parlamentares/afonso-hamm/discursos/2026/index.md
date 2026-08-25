@@ -18,7 +18,7 @@ description: "Os discursos de Afonso Hamm em 2026, com o sumário oficial e link
 
 ## Substantivos — 13
 
-<blockquote class="evidencia discurso" id="d-13137">
+<blockquote class="evidencia discurso" id="d-180">
 <span class="data">2026-08-11 · 16:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

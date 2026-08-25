@@ -18,7 +18,7 @@ description: "Os discursos de Daiana Santos em 2024, com o sumário oficial e li
 
 ## Substantivos — 23
 
-<blockquote class="evidencia discurso" id="d-4640">
+<blockquote class="evidencia discurso" id="d-4652">
 <span class="data">2024-12-18 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Daiana Santos em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4639">
+<blockquote class="evidencia discurso" id="d-4651">
 <span class="data">2024-12-18 · 16:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Daiana Santos em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4637">
+<blockquote class="evidencia discurso" id="d-4649">
 <span class="data">2024-12-11 · 14:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Daiana Santos em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4636">
+<blockquote class="evidencia discurso" id="d-4648">
 <span class="data">2024-12-03 · 21:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Daiana Santos em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4634">
+<blockquote class="evidencia discurso" id="d-4646">
 <span class="data">2024-11-27 · 23:08</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Daiana Santos em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4633">
+<blockquote class="evidencia discurso" id="d-4645">
 <span class="data">2024-11-27 · 19:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Daiana Santos em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4632">
+<blockquote class="evidencia discurso" id="d-4644">
 <span class="data">2024-11-27 · 17:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Daiana Santos em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4631">
+<blockquote class="evidencia discurso" id="d-4643">
 <span class="data">2024-11-27 · 17:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Daiana Santos em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4630">
+<blockquote class="evidencia discurso" id="d-4642">
 <span class="data">2024-11-27 · 17:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Daiana Santos em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4627">
+<blockquote class="evidencia discurso" id="d-4639">
 <span class="data">2024-11-19 · 16:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Daiana Santos em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4624">
+<blockquote class="evidencia discurso" id="d-4636">
 <span class="data">2024-11-05 · 18:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Daiana Santos em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4623">
+<blockquote class="evidencia discurso" id="d-4635">
 <span class="data">2024-11-05 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Daiana Santos em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4622">
+<blockquote class="evidencia discurso" id="d-4634">
 <span class="data">2024-11-05 · 17:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Daiana Santos em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4621">
+<blockquote class="evidencia discurso" id="d-4633">
 <span class="data">2024-10-30 · 17:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Daiana Santos em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4620">
+<blockquote class="evidencia discurso" id="d-4632">
 <span class="data">2024-10-30 · 17:16</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Daiana Santos em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4619">
+<blockquote class="evidencia discurso" id="d-4631">
 <span class="data">2024-08-28 · 19:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Daiana Santos em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4615">
+<blockquote class="evidencia discurso" id="d-4627">
 <span class="data">2024-07-11 · 14:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Daiana Santos em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4613">
+<blockquote class="evidencia discurso" id="d-4625">
 <span class="data">2024-06-18 · 18:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Daiana Santos em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4611">
+<blockquote class="evidencia discurso" id="d-4623">
 <span class="data">2024-06-11 · 18:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Daiana Santos em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4610">
+<blockquote class="evidencia discurso" id="d-4622">
 <span class="data">2024-05-22 · 20:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Daiana Santos em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4608">
+<blockquote class="evidencia discurso" id="d-4620">
 <span class="data">2024-04-09 · 16:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Daiana Santos em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4607">
+<blockquote class="evidencia discurso" id="d-4619">
 <span class="data">2024-03-26 · 16:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Daiana Santos em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4606">
+<blockquote class="evidencia discurso" id="d-4618">
 <span class="data">2024-02-21 · 17:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -236,7 +236,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-4638">
+<blockquote class="evidencia discurso" id="d-4650">
 <span class="data">2024-12-11 · 19:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -245,7 +245,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4635">
+<blockquote class="evidencia discurso" id="d-4647">
 <span class="data">2024-11-27 · 23:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -254,7 +254,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4629">
+<blockquote class="evidencia discurso" id="d-4641">
 <span class="data">2024-11-19 · 22:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -263,7 +263,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4628">
+<blockquote class="evidencia discurso" id="d-4640">
 <span class="data">2024-11-19 · 16:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -272,7 +272,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4626">
+<blockquote class="evidencia discurso" id="d-4638">
 <span class="data">2024-11-13 · 16:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -281,7 +281,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4625">
+<blockquote class="evidencia discurso" id="d-4637">
 <span class="data">2024-11-05 · 22:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -290,7 +290,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4618">
+<blockquote class="evidencia discurso" id="d-4630">
 <span class="data">2024-08-28 · 19:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -299,7 +299,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4617">
+<blockquote class="evidencia discurso" id="d-4629">
 <span class="data">2024-07-11 · 15:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -308,7 +308,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4616">
+<blockquote class="evidencia discurso" id="d-4628">
 <span class="data">2024-07-11 · 14:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -317,7 +317,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4614">
+<blockquote class="evidencia discurso" id="d-4626">
 <span class="data">2024-07-11 · 12:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -326,7 +326,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4612">
+<blockquote class="evidencia discurso" id="d-4624">
 <span class="data">2024-06-12 · 18:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -335,7 +335,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4609">
+<blockquote class="evidencia discurso" id="d-4621">
 <span class="data">2024-05-21 · 17:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

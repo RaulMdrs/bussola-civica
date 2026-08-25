@@ -18,7 +18,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 
 ## Substantivos — 29
 
-<blockquote class="evidencia discurso" id="d-11703">
+<blockquote class="evidencia discurso" id="d-5868">
 <span class="data">2023-12-20</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11704">
+<blockquote class="evidencia discurso" id="d-5869">
 <span class="data">2023-12-14</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11706">
+<blockquote class="evidencia discurso" id="d-5871">
 <span class="data">2023-12-12</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11705">
+<blockquote class="evidencia discurso" id="d-5870">
 <span class="data">2023-12-12</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11707">
+<blockquote class="evidencia discurso" id="d-5872">
 <span class="data">2023-12-05</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11709">
+<blockquote class="evidencia discurso" id="d-5874">
 <span class="data">2023-11-28</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11708">
+<blockquote class="evidencia discurso" id="d-5873">
 <span class="data">2023-11-28</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11710">
+<blockquote class="evidencia discurso" id="d-5875">
 <span class="data">2023-11-22</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11713">
+<blockquote class="evidencia discurso" id="d-5878">
 <span class="data">2023-11-21</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11712">
+<blockquote class="evidencia discurso" id="d-5877">
 <span class="data">2023-11-21</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11711">
+<blockquote class="evidencia discurso" id="d-5876">
 <span class="data">2023-11-21</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11714">
+<blockquote class="evidencia discurso" id="d-5879">
 <span class="data">2023-11-07</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11715">
+<blockquote class="evidencia discurso" id="d-5880">
 <span class="data">2023-10-25</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11716">
+<blockquote class="evidencia discurso" id="d-5881">
 <span class="data">2023-10-06</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11717">
+<blockquote class="evidencia discurso" id="d-5882">
 <span class="data">2023-09-04</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11718">
+<blockquote class="evidencia discurso" id="d-5883">
 <span class="data">2023-08-10</span>
 <div class="corpo">
 <p class="tipo">Interpelação a Ministro de Estado</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11719">
+<blockquote class="evidencia discurso" id="d-5884">
 <span class="data">2023-08-08</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11720">
+<blockquote class="evidencia discurso" id="d-5885">
 <span class="data">2023-08-02</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11722">
+<blockquote class="evidencia discurso" id="d-5887">
 <span class="data">2023-07-12</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11721">
+<blockquote class="evidencia discurso" id="d-5886">
 <span class="data">2023-07-12</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11724">
+<blockquote class="evidencia discurso" id="d-5889">
 <span class="data">2023-05-17</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11723">
+<blockquote class="evidencia discurso" id="d-5888">
 <span class="data">2023-05-17</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11726">
+<blockquote class="evidencia discurso" id="d-5891">
 <span class="data">2023-05-10</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11725">
+<blockquote class="evidencia discurso" id="d-5890">
 <span class="data">2023-05-10</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11727">
+<blockquote class="evidencia discurso" id="d-5892">
 <span class="data">2023-05-03</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11728">
+<blockquote class="evidencia discurso" id="d-5893">
 <span class="data">2023-05-02</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11729">
+<blockquote class="evidencia discurso" id="d-5894">
 <span class="data">2023-04-18</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11730">
+<blockquote class="evidencia discurso" id="d-5895">
 <span class="data">2023-04-12</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Luis Carlos Heinze em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11731">
+<blockquote class="evidencia discurso" id="d-5896">
 <span class="data">2023-03-28</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>

@@ -82,7 +82,7 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-11766">
+<blockquote class="evidencia discurso" id="d-5931">
 <span class="data">2026-06-10</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -91,7 +91,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11767">
+<blockquote class="evidencia discurso" id="d-5932">
 <span class="data">2026-04-28</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -100,7 +100,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11768">
+<blockquote class="evidencia discurso" id="d-5933">
 <span class="data">2026-04-08</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -109,7 +109,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11769">
+<blockquote class="evidencia discurso" id="d-5934">
 <span class="data">2026-04-07</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -118,7 +118,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11770">
+<blockquote class="evidencia discurso" id="d-5935">
 <span class="data">2026-03-18</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>

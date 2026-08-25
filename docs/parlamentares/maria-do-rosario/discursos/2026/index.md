@@ -18,7 +18,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 
 ## Substantivos — 37
 
-<blockquote class="evidencia discurso" id="d-13151">
+<blockquote class="evidencia discurso" id="d-5849">
 <span class="data">2026-08-12 · 15:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-13150">
+<blockquote class="evidencia discurso" id="d-5848">
 <span class="data">2026-08-11 · 17:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-13149">
+<blockquote class="evidencia discurso" id="d-5847">
 <span class="data">2026-08-11 · 16:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5834">
+<blockquote class="evidencia discurso" id="d-5846">
 <span class="data">2026-07-14 · 17:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5833">
+<blockquote class="evidencia discurso" id="d-5845">
 <span class="data">2026-06-16 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5831">
+<blockquote class="evidencia discurso" id="d-5843">
 <span class="data">2026-06-16 · 18:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5830">
+<blockquote class="evidencia discurso" id="d-5842">
 <span class="data">2026-06-16 · 14:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5829">
+<blockquote class="evidencia discurso" id="d-5841">
 <span class="data">2026-05-20 · 17:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5828">
+<blockquote class="evidencia discurso" id="d-5840">
 <span class="data">2026-05-19 · 14:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5827">
+<blockquote class="evidencia discurso" id="d-5839">
 <span class="data">2026-05-19 · 14:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5826">
+<blockquote class="evidencia discurso" id="d-5838">
 <span class="data">2026-04-30 · 15:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5825">
+<blockquote class="evidencia discurso" id="d-5837">
 <span class="data">2026-04-30 · 11:56</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5824">
+<blockquote class="evidencia discurso" id="d-5836">
 <span class="data">2026-04-30 · 10:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5823">
+<blockquote class="evidencia discurso" id="d-5835">
 <span class="data">2026-04-29 · 17:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5822">
+<blockquote class="evidencia discurso" id="d-5834">
 <span class="data">2026-04-28 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5821">
+<blockquote class="evidencia discurso" id="d-5833">
 <span class="data">2026-04-14 · 16:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5820">
+<blockquote class="evidencia discurso" id="d-5832">
 <span class="data">2026-04-08 · 20:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5818">
+<blockquote class="evidencia discurso" id="d-5830">
 <span class="data">2026-04-08 · 16:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5817">
+<blockquote class="evidencia discurso" id="d-5829">
 <span class="data">2026-04-08 · 09:40</span>
 <div class="corpo">
 <p class="tipo">COMISSÃO GERAL</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5816">
+<blockquote class="evidencia discurso" id="d-5828">
 <span class="data">2026-03-17 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5815">
+<blockquote class="evidencia discurso" id="d-5827">
 <span class="data">2026-03-17 · 15:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5814">
+<blockquote class="evidencia discurso" id="d-5826">
 <span class="data">2026-03-04 · 21:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5813">
+<blockquote class="evidencia discurso" id="d-5825">
 <span class="data">2026-03-04 · 18:28</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5812">
+<blockquote class="evidencia discurso" id="d-5824">
 <span class="data">2026-03-02 · 23:12</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5811">
+<blockquote class="evidencia discurso" id="d-5823">
 <span class="data">2026-03-02 · 23:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5809">
+<blockquote class="evidencia discurso" id="d-5821">
 <span class="data">2026-03-02 · 22:24</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5808">
+<blockquote class="evidencia discurso" id="d-5820">
 <span class="data">2026-03-02 · 21:28</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5807">
+<blockquote class="evidencia discurso" id="d-5819">
 <span class="data">2026-03-02 · 21:08</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5806">
+<blockquote class="evidencia discurso" id="d-5818">
 <span class="data">2026-03-02 · 20:48</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5805">
+<blockquote class="evidencia discurso" id="d-5817">
 <span class="data">2026-02-25 · 18:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5804">
+<blockquote class="evidencia discurso" id="d-5816">
 <span class="data">2026-02-25 · 17:28</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5803">
+<blockquote class="evidencia discurso" id="d-5815">
 <span class="data">2026-02-25 · 14:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5802">
+<blockquote class="evidencia discurso" id="d-5814">
 <span class="data">2026-02-24 · 21:52</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5801">
+<blockquote class="evidencia discurso" id="d-5813">
 <span class="data">2026-02-24 · 20:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5800">
+<blockquote class="evidencia discurso" id="d-5812">
 <span class="data">2026-02-24 · 18:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5799">
+<blockquote class="evidencia discurso" id="d-5811">
 <span class="data">2026-02-03 · 15:28</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5798">
+<blockquote class="evidencia discurso" id="d-5810">
 <span class="data">2026-02-02 · 20:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -362,7 +362,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-5832">
+<blockquote class="evidencia discurso" id="d-5844">
 <span class="data">2026-06-16 · 20:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -371,7 +371,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5819">
+<blockquote class="evidencia discurso" id="d-5831">
 <span class="data">2026-04-08 · 17:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -380,7 +380,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5810">
+<blockquote class="evidencia discurso" id="d-5822">
 <span class="data">2026-03-02 · 22:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

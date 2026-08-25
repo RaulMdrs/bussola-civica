@@ -11,7 +11,7 @@ description: "Alinhamento com o governo federal recortado pelos 12 temas com vot
 
 | Tema | Votações nominais | Média da bancada |
 |---|---:|---:|
-| [Administração Pública](administracao-publica/) | <span class="n"><b>166</b></span> | <span class="valor">57,2%</span> |
+| [Administração Pública](administracao-publica/) | <span class="n"><b>165</b></span> | <span class="valor">57,2%</span> |
 | [Defesa e Segurança](defesa-e-seguranca/) | <span class="n"><b>41</b></span> | <span class="valor">57,3%</span> |
 | [Direito Penal e Processual Penal](direito-penal-e-processual-penal/) | <span class="n"><b>45</b></span> | <span class="valor">47,8%</span> |
 | [Direitos Humanos e Minorias](direitos-humanos-e-minorias/) | <span class="n"><b>71</b></span> | <span class="valor">59,2%</span> |
