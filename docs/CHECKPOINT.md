@@ -1,9 +1,10 @@
 # CHECKPOINT — Bússola Cívica
 
 **Data:** 2026-08-19 · **Fase:** 0 concluída · Fase 1 (Senado) integrada
-**Estado:** backend e site no ar, com design próprio, 6.584 discursos das duas
-casas visíveis e buscáveis, todo número decomposto até a votação que o compõe, e
-**a atualização automatizada duas vezes por semana**. App mobile não iniciado.
+**Estado:** backend e site no ar, com design próprio, discursos das duas casas
+visíveis e buscáveis, todo número decomposto até a votação que o compõe, e a
+atualização **rodando sozinha** duas vezes por semana desde 2026-08-25. App
+mobile não iniciado.
 
 Site: <https://raulmdrs.github.io/bussola-civica/>
 
@@ -36,7 +37,7 @@ repositório, onde é `FONTES.md` que existe — nas páginas publicadas é `/FO
 | 17 | Busca nos discursos | `docs/assets/busca.js` — 236 linhas à mão, sob demanda, degrada sem script (§6.5) |
 | 18 | Decomposição completa | 47.441 votações em 127 páginas — cada percentual do site vira link para a sua conta (§6.6) |
 | 19 | Discursos do Senado | etapa `senado` — 717 pronunciamentos, classificados **pela própria fonte** (§6.7) |
-| 20 | Atualização automatizada | `.github/workflows/acervo.yml` — 2×/semana, custo zero, valida antes de publicar (§6.8) |
+| 20 | Atualização automatizada | `.github/workflows/acervo.yml` — 2×/semana, custo zero, valida antes de publicar. **Em produção desde 2026-08-25** (§6.8) |
 
 Banco atual: **78 MB**. Câmara: 6.291 votações (1.117 nominais), 452.356 votos.
 Senado: 355 votações (116 abertas), 28.755 votos. 34 parlamentares com perfil
@@ -621,9 +622,53 @@ não precisa de um modelo para executá-la.
 | Checar o **arquivo**, não a saída da action | Cobre cache ausente e cache truncado com a mesma condição, e não depende do nome de um output entre versões |
 
 O gerador é **determinístico**: duas execuções sobre o mesmo banco produzem
-saída byte a byte idêntica (verificado, 0 arquivos diferentes). A Action só
-commita quando o acervo mudou de verdade — o diff continua sendo registro, não
-ruído.
+saída byte a byte idêntica (verificado, 0 arquivos diferentes).
+
+#### Medido em produção, não estimado
+
+A semeadura rodou em 2026-08-25 e três execuções agendadas se seguiram. O que
+elas provaram, que nenhuma leitura de código provaria:
+
+| Pergunta | Resposta medida |
+|---|---|
+| A reconstrução cabe no teto? | **76,8 min** (75,3 na reconstrução), contra 180 de teto e 91 medidos localmente. O runner foi **mais rápido** que a máquina local |
+| O cache é escrito? | Sim — **20 MB**, comprimido a partir dos 78 MB do banco |
+| O cache sobrevive entre execuções? | **5 dias** entre a semeadura e o uso bem-sucedido de 31/08 |
+| A validação roda antes de publicar? | `db:validar` e `relatorio` verdes antes do passo de commit, nas duas execuções bem-sucedidas |
+
+**A restauração acontece antes de qualquer falha** — propriedade que não estava
+prevista e que ajuda: execução que quebra depois de restaurar ainda toca o
+cache, e o relógio dos 7 dias reinicia. A cadência de 2×/semana fica mais
+folgada do que o projeto supunha.
+
+#### A primeira falha real, e por que ela não é defeito
+
+A execução agendada de 2026-08-27 falhou:
+
+```
+✗ ingestão interrompida: HTTP 0 em .../legislaturas/57 (8 tentativas): fetch failed
+  a tabela 'coleta' registra o que foi obtido antes da falha
+```
+
+A API da Câmara ficou inalcançável do runner. O ingestor tentou 8 vezes com
+backoff, desistiu em ~2m40s e **falhou alto**, sem corromper acervo nem publicar
+coleta pela metade (§3.5). A execução seguinte, em 31/08, se curou sozinha.
+
+É a resiliência projetada exercitada contra indisponibilidade real, não
+simulada. Automação que quebra e se cura é o comportamento certo; automação que
+quebra e publica é o que a ordem dos passos existe para impedir.
+
+#### Duas observações que não pedem ação
+
+**O agendamento atrasa muito.** O cron pede 09:10 UTC; as execuções saíram às
+09:46, 09:58, **19:48** e **17:01**. É comportamento conhecido do GitHub sob
+carga, não defeito nosso — mas come parte da janela de 7 dias do cache, e é
+mais um argumento a favor de duas vezes por semana em vez de uma.
+
+**Toda execução bem-sucedida commita ao menos `docs/_data/meta.yml`**, porque o
+período apurado avança com a data. O commit de 31/08 mudou exatamente uma linha.
+É honesto — o período realmente avançou —, mas significa que o caminho "nada
+mudou, nenhum commit" nunca dispara na prática.
 
 **Um passo continua humano:** `BUSSOLA_CPF_SEGREDO` precisa existir como segredo
 do repositório, porque a etapa `deputados` chama `hmacCpf()` toda semana. É uma
@@ -952,7 +997,9 @@ as duas casas por inteiro: como votam, o que dizem, e a conta de cada número.
 
 **A operação fechou junto.** A atualização virou automática em 2026-08-19
 (§6.8), e o caminho até lá encontrou três defeitos silenciosos que a rotina
-manual vinha carregando — inclusive um que congelava o Senado inteiro.
+manual vinha carregando — inclusive um que congelava o Senado inteiro. Desde
+2026-08-25 ela roda sozinha, já sobreviveu a uma indisponibilidade da origem e
+se curou na execução seguinte.
 
 **Sobra um item de trabalho e duas fases.** Nenhum é promessa aberta ao leitor:
 o que resta é forma, não cobertura nem confiabilidade.
@@ -963,7 +1010,9 @@ o que resta é forma, não cobertura nem confiabilidade.
 gera e commita sozinho (§6.8). Custo zero, sem modelo de linguagem envolvido.
 
 À mão continua funcionando, e é o que se roda para conferir antes de mexer em
-regra de cálculo:
+regra de cálculo. **Nesta ordem, e nunca só o último**: a máquina local pode
+estar semanas atrás do acervo do CI, e gerar a partir dela faz o site retroceder
+(item 2 abaixo).
 
 ```bash
 npm run ingerir:incremental && npm run relatorio && npm run site
@@ -992,11 +1041,20 @@ perde ao deixar de guardar o derivado. O que se perde é o diff legível de cada
 rebuild, que hoje é parte do registro auditável — e essa troca precisa ser
 decidida, não sofrida.
 
-**2. A primeira execução automática.** Ela ainda não rodou. Duas coisas só se
-provam em produção: se o cache sobrevive entre segunda e quinta, e se a
-reconstrução manual (`workflow_dispatch` com `reconstruir`) consegue semear o
-cache dentro do teto de 180 min. Até lá, a automação está escrita e validada,
-não exercitada.
+**2. Dois acervos, e eles divergem.** Desde 2026-08-25 existem duas cópias do
+banco: a da máquina local e a do cache do Actions. Elas avançam
+independentemente, e em 2026-09-02 a local estava em `2026-08-19` enquanto a do
+CI já estava em `2026-08-31`.
+
+Isso é inofensivo para o acervo — as duas leem as mesmas fontes e convergem —,
+mas é uma armadilha para o **site**: rodar `npm run site` na máquina atrasada e
+commitar faz as 305 páginas **retrocederem**, sem erro nenhum. O gerador é
+determinístico sobre o banco que recebe, e o banco é que estava velho.
+
+Regra prática, até haver algo melhor: antes de gerar o site à mão, rodar
+`ingerir:incremental` primeiro — ou não gerar, e deixar a Action fazer. O
+comando de conferência (`relatorio`) é seguro em qualquer caso, porque não
+escreve em `docs/`.
 
 ### Bloqueado pela fonte, não por nós
 
@@ -1029,6 +1087,11 @@ ninguém tenha escrito uma frase falsa.
 
 ### Dívidas pequenas
 
+- **Aviso de Node 20 nas actions de terceiros.** `actions/checkout@v4`,
+  `actions/setup-node@v4` e `actions/cache@v4` declaram Node 20, que o GitHub
+  depreciou e força a rodar em Node 24. Não quebra nada hoje e não tem relação
+  com o Node 22 que roda o nosso código; a correção é subir as três de major
+  quando as versões novas saírem.
 - **O segredo `BUSSOLA_CPF_SEGREDO` agora vive também no GitHub.** A etapa
   `deputados` chama `hmacCpf()` toda semana, então a Action precisa dele. É uma
   ampliação real de exposição — antes só existia no `.env` de uma máquina — e
