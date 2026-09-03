@@ -18,10 +18,10 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">95,1%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">347 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">97,6%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">334 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">97,3%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">441 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">98,1%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">426 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">95,1%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">347 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">97,6%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">335 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">97,3%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">441 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">98,1%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">427 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
 **Cada percentual acima é um link** para a sua decomposição completa —
@@ -131,13 +131,13 @@ votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
 - [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 347 votações
-- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 334 votações
+- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 335 votações
 - [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 441 votações
-- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 426 votações
+- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 427 votações
 
 ## O que disse em plenário
 
-São **92 discursos** coletados no período, dos quais **76 substantivos** — os outros 16 são
+São **94 discursos** coletados no período, dos quais **78 substantivos** — os outros 16 são
 orientação de bancada, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,24 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6612">
+<span class="data">2026-09-02 · 18:40</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada reafirmou compromisso com o povo brasileiro e com a classe trabalhadora, ao defender que a luta transformou a vida e que a mobilização política havia sido decisiva para a vitória da Proposta de Emenda à Constituição nº 221, de 2019, que trata da redução da jornada de trabalho, na CCJC do Senado. Além disso, ressaltou a necessidade de construir políticas com e para as pessoas, com alternativas reais para problemas concretos, e destacou o orgulho pelo projeto que se tornou relatório, renovando a disposição de seguir na luta.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220555/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6611">
+<span class="data">2026-09-01 · 15:56</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada saudou a presença, na Câmara dos Deputados, de representantes da Central dos Trabalhadores e Trabalhadoras do Brasil (CTB) do Rio Grande do Sul e destacou a mobilização da entidade pela aprovação da Proposta de Emenda à Constituição (PEC) nº 221, de 2019, que extingue a escala 6 por 1 e reduz a jornada de trabalho. Além disso, reafirmou seu apoio à PEC em defesa da dignidade e dos direitos dos trabalhadores.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220555/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-4687">
 <span class="data">2026-05-27 · 22:48</span>
@@ -174,29 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4683">
-<span class="data">2026-05-05 · 16:24</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>A Deputada relatou visita realizada à Associação dos Trabalhadores da Unidade de Triagem do Hospital Psiquiátrico São Pedro, em Porto Alegre (RS). Ressaltou a organização do espaço, que encaminha trabalhadores pela rede de saúde mental e promove reinserção social com dignidade, geração de emprego e renda. Além disso, nomeou os responsáveis pela gestão do local, a coordenadora Luciana e o psicólogo Alexandre, elogiando o trabalho de ambos. Encerrou defendendo a luta por saúde mental, qualidade de vida e um Sistema Único de Saúde (SUS) robusto, capaz de atender às necessidades da população, classificando o centro como um exemplo de que a saúde pública pode oferecer caminhos concretos de ressocialização com qualidade.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220555/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-4681">
-<span class="data">2026-04-08 · 20:16</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>A Deputada destacou a importância da votação da &amp;nbsp;Proposta de Emenda à Constituição nº 383, de 2017, em discussão, e afirmou que a proposta representou avanço na consolidação do Sistema Único de Assistência Social como política pública estruturada. Ressaltou sua experiência como educadora social e reconheceu o trabalho de profissionais da rede de assistência, incluindo assistentes sociais e educadores. Também defendeu a necessidade de investimentos contínuos no setor e avaliou que a aprovação da matéria simboliza o reconhecimento institucional ao trabalho desenvolvido na área.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=9%2F4%2F2026&amp;txPagina=231&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>13</b></span> | 11 |
+| [2026](discursos/2026/) | <span class="n"><b>15</b></span> | 13 |
 | [2025](discursos/2025/) | <span class="n"><b>22</b></span> | 21 |
 | [2024](discursos/2024/) | <span class="n"><b>35</b></span> | 23 |
 | [2023](discursos/2023/) | <span class="n"><b>22</b></span> | 21 |

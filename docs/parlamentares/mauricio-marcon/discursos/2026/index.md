@@ -7,7 +7,7 @@ description: "Os discursos de Mauricio Marcon em 2026, com o sumário oficial e 
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Mauricio Marcon</a></b> · PL · 19 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Mauricio Marcon</a></b> · PL · 20 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
@@ -16,7 +16,16 @@ description: "Os discursos de Mauricio Marcon em 2026, com o sumário oficial e 
 > neste site: o link de cada discurso leva ao **Diário da Câmara**
 > , onde ele está publicado, ou à **API** quando a origem não o publicou no Diário.
 
-## Substantivos — 18
+## Substantivos — 19
+
+<blockquote class="evidencia discurso" id="d-6610">
+<span class="data">2026-09-01 · 21:00</span>
+<div class="corpo">
+<p class="tipo">COMO LÍDER</p>
+<p>O Deputado manifestou indignação com mensagens reveladas após a quebra de sigilo de Daniel Vorcaro, que indicariam envolvimento do Presidente da Câmara, Hugo Motta, em encontros com o banqueiro. Além disso, classificou o Ministro Alexandre de Moraes como corrupto, apontou supostos cartões de crédito de alto valor em nome de filhos do Ministro e afirmou que o Procurador-Geral da República, Paulo Gonet, teria trocado mensagens de cunho afetivo com Vorcaro e pedido para não ser investigado. Por fim, conclamou a população a pressionar por punições e alertou que, sem ação do povo, a corrupção permaneceria impune.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220550/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-4336">
 <span class="data">2026-07-01 · 17:40</span>

@@ -7,7 +7,7 @@ description: "Os discursos de Heitor Schuch em 2026, com o sumário oficial e li
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Heitor Schuch</a></b> · PSD · 17 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Heitor Schuch</a></b> · PSD · 19 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
@@ -16,7 +16,25 @@ description: "Os discursos de Heitor Schuch em 2026, com o sumário oficial e li
 > neste site: o link de cada discurso leva ao **Diário da Câmara**
 > , onde ele está publicado, ou à **API** quando a origem não o publicou no Diário.
 
-## Substantivos — 15
+## Substantivos — 17
+
+<blockquote class="evidencia discurso" id="d-6609">
+<span class="data">2026-09-01 · 16:16</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado destacou a importância da produção de tabaco para a economia do Rio Grande do Sul e para a geração de renda e empregos em diferentes atividades da cadeia produtiva. Além disso, criticou a elevada carga tributária sobre o setor e sustentou que a tributação excessiva favorece o contrabando e o mercado ilegal. Ademais, defendeu a regulamentação e a produção, em território nacional, dos dispositivos eletrônicos para fumar (DEFs), com fiscalização e controle pela Agência Nacional de Vigilância Sanitária (Anvisa). Por fim, ressaltou que a regulamentação poderia combater o mercado ilegal, ampliar a arrecadação, gerar empregos e atrair fábricas, inclusive para o Rio Grande do Sul.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178964/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6608">
+<span class="data">2026-09-01 · 15:28</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado saudou a presença do Presidente do Conselho Estadual de Trânsito do Rio Grande do Sul (Cetran-RS), Vilnei Sessim, e dos Vice-Presidentes do Sindicato dos Centros de Formação de Condutores do Estado (SindiCFC), Eduardo Oliveira e Rodimar Dallagnol. Além disso, destacou a importância do Projeto de Lei nº 8.085, de 2014, que propõe alterações no Código de Trânsito Brasileiro, e defendeu a continuidade da atuação dos centros de formação de condutores na educação para o trânsito e na prevenção de acidentes.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178964/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-2637">
 <span class="data">2026-08-12 · 19:00</span>

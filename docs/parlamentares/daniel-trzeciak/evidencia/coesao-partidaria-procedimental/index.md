@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daniel Trzeciak — Coesão com o próprio partido, Procedimental"
-description: "A decomposição completa: todas as 439 votações que compõem o número de Daniel Trzeciak, uma por linha, com link para a fonte."
+description: "A decomposição completa: todas as 440 votações que compõem o número de Daniel Trzeciak, uma por linha, com link para a fonte."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa: todas as 439 votações que compõem o 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>65,6%</b> é <b>288</b> coincidências em
-<b>439</b> votações computáveis — as outras 151 estão
+<p><b>65,7%</b> é <b>289</b> coincidências em
+<b>440</b> votações computáveis — as outras 151 estão
 aqui também. Esta página não é amostra: é a decomposição completa do
 número, e some ou cresce junto com ele.</p>
 </div>
@@ -23,6 +23,7 @@ número, e some ou cresce junto com ele.</p>
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 2026-09-01 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 320; Não: 67; Abstenção: 1; Total: 388. | Maioria do partido: sim (13 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2643915-8](https://dadosabertos.camara.leg.br/api/v2/votacoes/2643915-8) |
 | 2026-07-14 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 139; Abstenção: 1; Total: 416. | Maioria do partido: sim (11 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2637721-10](https://dadosabertos.camara.leg.br/api/v2/votacoes/2637721-10) |
 | 2026-07-02 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 305; Não: 112; Abstenção: 1; Total: 418. | Maioria do partido: sim (13 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2610579-7](https://dadosabertos.camara.leg.br/api/v2/votacoes/2610579-7) |
 | 2026-07-01 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 279; Não: 162; Abstenção: 1; Total: 442. | Maioria do partido: sim (15 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2606189-10](https://dadosabertos.camara.leg.br/api/v2/votacoes/2606189-10) |

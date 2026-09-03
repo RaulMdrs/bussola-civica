@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Franciane Bayer — Coesão com o próprio partido, Procedimental"
-description: "A decomposição completa: todas as 471 votações que compõem o número de Franciane Bayer, uma por linha, com link para a fonte."
+description: "A decomposição completa: todas as 472 votações que compõem o número de Franciane Bayer, uma por linha, com link para a fonte."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa: todas as 471 votações que compõem o 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>83,0%</b> é <b>391</b> coincidências em
-<b>471</b> votações computáveis — as outras 80 estão
+<p><b>83,1%</b> é <b>392</b> coincidências em
+<b>472</b> votações computáveis — as outras 80 estão
 aqui também. Esta página não é amostra: é a decomposição completa do
 número, e some ou cresce junto com ele.</p>
 </div>
@@ -23,6 +23,7 @@ número, e some ou cresce junto com ele.</p>
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 2026-09-01 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 320; Não: 67; Abstenção: 1; Total: 388. | Maioria do partido: sim (25 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2643915-8](https://dadosabertos.camara.leg.br/api/v2/votacoes/2643915-8) |
 | 2026-07-14 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 139; Abstenção: 1; Total: 416. | Maioria do partido: sim (33 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2637721-10](https://dadosabertos.camara.leg.br/api/v2/votacoes/2637721-10) |
 | 2026-07-01 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 279; Não: 162; Abstenção: 1; Total: 442. | Maioria do partido: sim (30 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2606189-10](https://dadosabertos.camara.leg.br/api/v2/votacoes/2606189-10) |
 | 2026-06-17 | Rejeitado o Requerimento. Sim: 117; Não: 250; Total: 367. | Maioria do partido: nao (2 sim / 24 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2382675-89](https://dadosabertos.camara.leg.br/api/v2/votacoes/2382675-89) |

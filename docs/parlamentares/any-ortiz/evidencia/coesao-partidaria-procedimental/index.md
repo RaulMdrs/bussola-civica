@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Any Ortiz — Coesão com o próprio partido, Procedimental"
-description: "A decomposição completa: todas as 389 votações que compõem o número de Any Ortiz, uma por linha, com link para a fonte."
+description: "A decomposição completa: todas as 390 votações que compõem o número de Any Ortiz, uma por linha, com link para a fonte."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa: todas as 389 votações que compõem o 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>54,2%</b> é <b>211</b> coincidências em
-<b>389</b> votações computáveis — as outras 178 estão
+<p><b>54,1%</b> é <b>211</b> coincidências em
+<b>390</b> votações computáveis — as outras 179 estão
 aqui também. Esta página não é amostra: é a decomposição completa do
 número, e some ou cresce junto com ele.</p>
 </div>
@@ -23,6 +23,7 @@ número, e some ou cresce junto com ele.</p>
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 2026-09-01 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 320; Não: 67; Abstenção: 1; Total: 388. | Maioria do partido: sim (24 sim / 10 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2643915-8](https://dadosabertos.camara.leg.br/api/v2/votacoes/2643915-8) |
 | 2026-07-14 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 139; Abstenção: 1; Total: 416. | Maioria do partido: sim (31 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2637721-10](https://dadosabertos.camara.leg.br/api/v2/votacoes/2637721-10) |
 | 2026-07-01 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 293; Não: 158; Abstenção: 3; Total: 454. | Maioria do partido: sim (27 sim / 10 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2636281-8](https://dadosabertos.camara.leg.br/api/v2/votacoes/2636281-8) |
 | 2026-06-17 | Rejeitado o Requerimento. Sim: 117; Não: 250; Total: 367. | Maioria do partido: nao (6 sim / 22 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2382675-89](https://dadosabertos.camara.leg.br/api/v2/votacoes/2382675-89) |

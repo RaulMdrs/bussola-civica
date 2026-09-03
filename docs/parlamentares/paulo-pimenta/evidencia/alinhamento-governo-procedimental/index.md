@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Paulo Pimenta — Alinhamento com o governo federal, Procedimental"
-description: "A decomposição completa: todas as 161 votações que compõem o número de Paulo Pimenta, uma por linha, com link para a fonte."
+description: "A decomposição completa: todas as 162 votações que compõem o número de Paulo Pimenta, uma por linha, com link para a fonte."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa: todas as 161 votações que compõem o 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,5%</b> é <b>157</b> coincidências em
-<b>161</b> votações computáveis — as outras 4 estão
+<p><b>97,5%</b> é <b>158</b> coincidências em
+<b>162</b> votações computáveis — as outras 4 estão
 aqui também. Esta página não é amostra: é a decomposição completa do
 número, e some ou cresce junto com ele.</p>
 </div>
@@ -23,6 +23,7 @@ número, e some ou cresce junto com ele.</p>
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 2026-09-01 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 320; Não: 67; Abstenção: 1; Total: 388. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2643915-8](https://dadosabertos.camara.leg.br/api/v2/votacoes/2643915-8) |
 | 2026-07-02 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 305; Não: 112; Abstenção: 1; Total: 418. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2610579-7](https://dadosabertos.camara.leg.br/api/v2/votacoes/2610579-7) |
 | 2026-07-01 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 279; Não: 162; Abstenção: 1; Total: 442. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2606189-10](https://dadosabertos.camara.leg.br/api/v2/votacoes/2606189-10) |
 | 2026-07-01 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 293; Não: 158; Abstenção: 3; Total: 454. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2636281-8](https://dadosabertos.camara.leg.br/api/v2/votacoes/2636281-8) |

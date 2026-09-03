@@ -18,10 +18,10 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">95,1%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">345 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">97,9%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">285 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">96,7%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">430 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">98,9%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">373 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">95,1%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">345 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">97,9%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">285 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">96,7%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">430 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">98,9%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">373 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
 **Cada percentual acima é um link** para a sua decomposição completa —
@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **329 discursos** coletados no período, dos quais **295 substantivos** — os outros 34 são
+São **343 discursos** coletados no período, dos quais **308 substantivos** — os outros 35 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -147,47 +147,47 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-5849">
-<span class="data">2026-08-12 · 15:28</span>
+<blockquote class="evidencia discurso" id="d-6626">
+<span class="data">2026-09-02 · 16:32</span>
 <div class="corpo">
-<p class="tipo">BREVES COMUNICAÇÕES</p>
-<p>A Deputada destacou o aumento de casos de violência contra crianças e adolescentes em ambientes digitais e mencionou a decisão da Agência Nacional de Proteção de Dados de suspender as transmissões ao vivo do Discord no Brasil como medida emergencial de proteção. Relatou o caso de uma adolescente de 13 anos que teria sido submetida a violência durante uma transmissão e defendeu a responsabilização das plataformas pelo cumprimento integral do Estatuto Digital da Criança e do Adolescente. Alertou também para comunidades virtuais que estimulam violência, automutilação e abusos e defendeu ações de prevenção, formação de educadores e apoio às famílias para proteger crianças e adolescentes dos riscos no ambiente digital. Ao final, afirmou que a proteção integral é responsabilidade do Estado, do poder público, das famílias e de toda a sociedade.</p>
+<p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5848">
-<span class="data">2026-08-11 · 17:28</span>
+<blockquote class="evidencia discurso" id="d-6625">
+<span class="data">2026-09-02 · 15:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
-<p>A Deputada registrou a presença, na Casa, de médicas legistas de vários Estados e valorizou a medicina legal como função essencial e indelegável do Estado brasileiro. Além disso, defendeu melhores condições de trabalho e de atendimento às vítimas, especialmente mulheres e crianças, e agradeceu a atuação desses profissionais em todo o País.</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5847">
-<span class="data">2026-08-11 · 16:44</span>
+<blockquote class="evidencia discurso" id="d-6624">
+<span class="data">2026-09-01 · 22:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
-<p>A Deputada defendeu a instituição do piso salarial nacional e a valorização da carreira dos trabalhadores da educação não docentes e destacou reunião realizada no Palácio do Planalto sobre o tema. Além disso, apoiou o movimento Somos Todas Professoras e reivindicou o cumprimento da legislação que assegura às professoras da educação infantil o Piso Salarial Profissional Nacional e a inclusão na carreira do magistério. Ademais, manifestou-se pelo fim da contribuição previdenciária incidente sobre os proventos de servidores públicos aposentados. Por fim, prestou solidariedade às vítimas de feminicídio, ressaltou sua atuação como Relatora de Comissão Externa sobre o tema e solicitou a votação do Projeto de Lei nº 896, de 2023, que dispõe sobre crimes praticados em razão de misoginia.</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5846">
-<span class="data">2026-07-14 · 17:00</span>
-<div class="corpo">
-<p class="tipo">BREVES COMUNICAÇÕES</p>
-<p>A Deputada homenageou a Deputada Benedita da Silva pela atuação em defesa das mulheres e afirmou que o País deveria promover a paz e o respeito entre as religiões. Além disso, criticou o uso de argumentos religiosos para, segundo declarou, desvirtuar a proposição sobre misoginia e relativizar a violência contra as mulheres. Por fim, relacionou manifestações de ódio ao feminicídio, citou casos de violência e defendeu a votação do Projeto de Lei nº 896, de 2023, que dispõe sobre crimes praticados em razão de misoginia, como medida de proteção à vida e à dignidade das mulheres brasileiras.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-5845">
-<span class="data">2026-06-16 · 20:08</span>
+<blockquote class="evidencia discurso" id="d-6623">
+<span class="data">2026-09-01 · 22:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
-<p>A Deputada cumprimentou o relator do Projeto de Lei Complementar nº 337, de 2017, Lafayette Andrade, elogiando sua dedicação ao direito e sua atuação na solução de temas complexos, além de recordar a parceria com Bonifácio Andrade. Também saudou o Presidente, a Mesa Diretora e a Secretaria-Geral, reconhecendo a organização da pauta como alinhada aos anseios da sociedade brasileira e ao trabalho da Câmara em favor do País.</p>
+<p>A Deputada criticou o Senador Flávio Bolsonaro por mentiras sobre o recebimento de recursos e sua relação com o empresário Daniel Vorcaro. Além disso, destacou que os valores envolvidos superam 70 milhões de reais e que recursos de trabalhadores, servidores públicos e aposentadorias do Estado do Rio de Janeiro teriam sido desviados para Vorcaro, para o Senador Flávio, para Eduardo Bolsonaro e, possivelmente, para o ex-Presidente Bolsonaro.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6622">
+<span class="data">2026-09-01 · 21:16</span>
+<div class="corpo">
+<p class="tipo">DISCUSSÃO</p>
+<p>A Deputada discutiu o Projeto de Lei nº 5.894, de 2025, que institui o Plano Nacional de Cultura para o decênio 2025-2035. Celebrou o retorno do Ministério da Cultura e elogiou o relatório do Deputado Pedro Uczai sobre o Plano Nacional de Cultura, que estabelece metas para os próximos dez anos. Argumentou que o governo anterior representou uma ameaça à identidade cultural do País e que iniciativas como a Lei Aldir Blanc e o programa Cultura Viva simbolizaram resistência a esse projeto. Por fim, destacou que o Plano Nacional de Cultura representa o coroamento de uma gestão vitoriosa e reafirmou o compromisso com uma Nação soberana, democrática e culturalmente valorizada.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
@@ -196,7 +196,7 @@ fonte que o publicou.
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>40</b></span> | 37 |
+| [2026](discursos/2026/) | <span class="n"><b>54</b></span> | 50 |
 | [2025](discursos/2025/) | <span class="n"><b>144</b></span> | 119 |
 | [2024](discursos/2024/) | <span class="n"><b>33</b></span> | 33 |
 | [2023](discursos/2023/) | <span class="n"><b>112</b></span> | 106 |

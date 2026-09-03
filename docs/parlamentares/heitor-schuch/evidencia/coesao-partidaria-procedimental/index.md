@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Heitor Schuch — Coesão com o próprio partido, Procedimental"
-description: "A decomposição completa: todas as 302 votações que compõem o número de Heitor Schuch, uma por linha, com link para a fonte."
+description: "A decomposição completa: todas as 303 votações que compõem o número de Heitor Schuch, uma por linha, com link para a fonte."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa: todas as 302 votações que compõem o 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>94,7%</b> é <b>286</b> coincidências em
-<b>302</b> votações computáveis — as outras 16 estão
+<p><b>94,4%</b> é <b>286</b> coincidências em
+<b>303</b> votações computáveis — as outras 17 estão
 aqui também. Esta página não é amostra: é a decomposição completa do
 número, e some ou cresce junto com ele.</p>
 </div>
@@ -23,6 +23,7 @@ número, e some ou cresce junto com ele.</p>
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 2026-09-01 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 320; Não: 67; Abstenção: 1; Total: 388. | Maioria do partido: sim (28 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2643915-8](https://dadosabertos.camara.leg.br/api/v2/votacoes/2643915-8) |
 | 2026-07-01 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 293; Não: 158; Abstenção: 3; Total: 454. | Maioria do partido: sim (30 sim / 9 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2636281-8](https://dadosabertos.camara.leg.br/api/v2/votacoes/2636281-8) |
 | 2026-06-17 | Rejeitado o Requerimento. Sim: 117; Não: 250; Total: 367. | Maioria do partido: nao (5 sim / 31 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2382675-89](https://dadosabertos.camara.leg.br/api/v2/votacoes/2382675-89) |
 | 2026-06-03 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 311; Não: 135; Abstenção: 2; Total: 448. | Maioria do partido: sim (33 sim / 6 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2629954-8](https://dadosabertos.camara.leg.br/api/v2/votacoes/2629954-8) |

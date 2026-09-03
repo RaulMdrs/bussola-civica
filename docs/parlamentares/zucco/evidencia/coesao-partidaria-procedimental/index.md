@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Zucco — Coesão com o próprio partido, Procedimental"
-description: "A decomposição completa: todas as 497 votações que compõem o número de Zucco, uma por linha, com link para a fonte."
+description: "A decomposição completa: todas as 498 votações que compõem o número de Zucco, uma por linha, com link para a fonte."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa: todas as 497 votações que compõem o 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>81,7%</b> é <b>406</b> coincidências em
-<b>497</b> votações computáveis — as outras 91 estão
+<p><b>81,5%</b> é <b>406</b> coincidências em
+<b>498</b> votações computáveis — as outras 92 estão
 aqui também. Esta página não é amostra: é a decomposição completa do
 número, e some ou cresce junto com ele.</p>
 </div>
@@ -23,6 +23,7 @@ número, e some ou cresce junto com ele.</p>
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 2026-09-01 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 320; Não: 67; Abstenção: 1; Total: 388. | Maioria do partido: sim (43 sim / 29 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2643915-8](https://dadosabertos.camara.leg.br/api/v2/votacoes/2643915-8) |
 | 2026-07-02 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 305; Não: 112; Abstenção: 1; Total: 418. | Maioria do partido: sim (82 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2610579-7](https://dadosabertos.camara.leg.br/api/v2/votacoes/2610579-7) |
 | 2026-06-17 | Rejeitado o Requerimento. Sim: 117; Não: 250; Total: 367. | Maioria do partido: sim (75 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2382675-89](https://dadosabertos.camara.leg.br/api/v2/votacoes/2382675-89) |
 | 2026-06-17 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 273; Não: 160; Abstenção: 4; Total: 437. | Maioria do partido: sim (84 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2633410-8](https://dadosabertos.camara.leg.br/api/v2/votacoes/2633410-8) |

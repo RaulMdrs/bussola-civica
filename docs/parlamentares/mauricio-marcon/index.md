@@ -18,10 +18,10 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">28,9%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">415 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">20,2%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">387 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">51,4%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">525 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">44,4%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">498 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">28,9%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">415 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">20,4%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">388 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">51,4%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">525 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">44,5%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">499 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
 **Cada percentual acima é um link** para a sua decomposição completa —
@@ -131,13 +131,13 @@ votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
 - [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 415 votações
-- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 387 votações
+- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 388 votações
 - [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 525 votações
-- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 498 votações
+- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 499 votações
 
 ## O que disse em plenário
 
-São **268 discursos** coletados no período, dos quais **243 substantivos** — os outros 25 são
+São **269 discursos** coletados no período, dos quais **244 substantivos** — os outros 25 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,15 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6610">
+<span class="data">2026-09-01 · 21:00</span>
+<div class="corpo">
+<p class="tipo">COMO LÍDER</p>
+<p>O Deputado manifestou indignação com mensagens reveladas após a quebra de sigilo de Daniel Vorcaro, que indicariam envolvimento do Presidente da Câmara, Hugo Motta, em encontros com o banqueiro. Além disso, classificou o Ministro Alexandre de Moraes como corrupto, apontou supostos cartões de crédito de alto valor em nome de filhos do Ministro e afirmou que o Procurador-Geral da República, Paulo Gonet, teria trocado mensagens de cunho afetivo com Vorcaro e pedido para não ser investigado. Por fim, conclamou a população a pressionar por punições e alertou que, sem ação do povo, a corrupção permaneceria impune.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220550/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-4336">
 <span class="data">2026-07-01 · 17:40</span>
@@ -183,20 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4332">
-<span class="data">2026-05-27 · 20:32</span>
-<div class="corpo">
-<p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
-<p>O Deputado criticou o Presidente da Câmara dos Deputados Hugo Motta por ter &quot;engavetado&quot; a Proposta de Emenda à Constituição (PEC) nº 40, de 2025, que altera o art. 7º da Constituição Federal para prever a possibilidade de opção pelos empregados quanto à jornada de trabalho, podendo escolher entre o regime comum previsto pela Consolidação das Leis do Trabalho (CLT) ou um regime flexível baseado em horas trabalhadas. Ademais, recriminou o Presidente Hugo Motta por descumprir compromissos assumidos com a Direita, impedir o debate sobre a referida PEC e atuar para inviabilizar a aprovação da escala 4 por 3. Por fim, associou a mudança de postura do Presidente Hugo Motta a denúncias envolvendo funcionária fantasma e emendas irregulares, bem como à intenção de lançar o pai como candidato ao Senado.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=28%2F7%2F2026&amp;txPagina=215&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>19</b></span> | 18 |
+| [2026](discursos/2026/) | <span class="n"><b>20</b></span> | 19 |
 | [2025](discursos/2025/) | <span class="n"><b>71</b></span> | 66 |
 | [2024](discursos/2024/) | <span class="n"><b>69</b></span> | 62 |
 | [2023](discursos/2023/) | <span class="n"><b>109</b></span> | 97 |

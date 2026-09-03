@@ -18,10 +18,10 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">97,3%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">409 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">98,7%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">383 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">97,9%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">523 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">99,4%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">494 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">97,3%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">409 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">98,7%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">384 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">97,9%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">523 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">99,4%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">495 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
 **Cada percentual acima é um link** para a sua decomposição completa —
@@ -131,13 +131,13 @@ votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
 - [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 409 votações
-- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 383 votações
+- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 384 votações
 - [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 523 votações
-- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 494 votações
+- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 495 votações
 
 ## O que disse em plenário
 
-São **644 discursos** coletados no período, dos quais **513 substantivos** — os outros 131 são
+São **656 discursos** coletados no período, dos quais **525 substantivos** — os outros 131 são
 orientação de bancada, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -147,47 +147,47 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-2251">
-<span class="data">2026-08-11 · 16:04</span>
+<blockquote class="evidencia discurso" id="d-6607">
+<span class="data">2026-09-02 · 16:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
-<p>O Deputado afirmou que misoginia não é opinião, mas ódio contra as mulheres, e defendeu a aprovação imediata do Projeto de Lei nº 896, de 2023, que dispõe sobre crimes praticados em razão de misoginia. Além disso, pediu a inclusão da matéria na Ordem do Dia, citou a aprovação unânime no Senado e sustentou que a proposta não configura censura, mas responsabilização por condutas que ferem a dignidade feminina.</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2249">
-<span class="data">2026-07-01 · 18:12</span>
-<div class="corpo">
-<p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
-<p>O Deputado encaminhou a votação do requerimento de urgência para apreciação do Projeto de Lei nº 849, de 2025, que reduz a Área de Proteção Ambiental da Baleia Franca, no Estado de Santa Catarina.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-2248">
-<span class="data">2026-07-01 · 16:52</span>
+<blockquote class="evidencia discurso" id="d-6606">
+<span class="data">2026-09-01 · 21:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
-<p>O Deputado afirmou que a autorização das bets no País ocorreu no Governo Temer, após o impeachment da Presidenta Dilma, e que o Governo Bolsonaro não adotou medidas para conter a atividade. Além disso, disse que o Presidente Lula buscou regulamentar o setor e elevar a taxação de 12% para 18%, mas que a extrema Direita teria barrado a proposta por interesse em manter o jogo sem imposto.</p>
+<p>O Deputado orientou a bancada na votação do substitutivo oferecido ao Projeto de Lei nº 1.290, de 2022, que atualiza os valores de custas e emolumentos devidos no âmbito da Justiça do Trabalho. Além disso, rebateu críticas dirigidas ao Governo do Presidente Lula em relação a obras públicas. Contrastou o cenário atual com o de governos anteriores, em que rodovias precárias comprometiam o deslocamento de veículos, e destacou que o Brasil vivencia um período de reconstrução, com crescimento econômico, geração de empregos e aprovação de projetos culturais.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2247">
-<span class="data">2026-07-01 · 16:40</span>
+<blockquote class="evidencia discurso" id="d-6605">
+<span class="data">2026-09-01 · 20:00</span>
+<div class="corpo">
+<p class="tipo">COMO LÍDER</p>
+<p>O Deputado abordou novas revelações publicadas pela revista Piauí sobre o escândalo denominado &quot;Bolsomaster&quot;, que envolve o Senador Flávio Bolsonaro e supostas solicitações de recursos ao empresário Daniel Vorcaro para financiar o filme Dark Horse. Apontou que o montante investigado teria passado de 61 milhões para até 72 milhões de reais, com o surgimento de parcelas até então desconhecidas. Também listou contradições e versões apresentadas pelo Senador ao longo do caso e informou que o PT formalizou três pedidos de inquérito para investigar os recursos, solicitar cooperação internacional e apurar possíveis desvios de emendas parlamentares. Por fim, cobrou explicações de Flávio Bolsonaro à população.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6604">
+<span class="data">2026-09-01 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
-<p>O Deputado informou que a Polícia Federal abriu inquérito para apurar o uso de dinheiro público em filme de propaganda do ex-Presidente Jair Bolsonaro, inclusive a possível destinação de emendas parlamentares à produção. Além disso, afirmou que emendas não poderiam servir à promoção pessoal e associou alguns suspeitos da investigação a Parlamentares já cassados, condenados ou envolvidos na tentativa de golpe, classificando o caso como grave.</p>
+<p>O Deputado rebateu críticas ao Projeto de Lei nº 287, de 2024, sobre a Estratégia Nacional de Controle e Avaliação da Qualidade da Assistência à Saúde no setor privado e defendeu a regulação estatal para coibir negligências e mortes em estabelecimentos de saúde. Nesse sentido, destacou o teor do art. 6º do texto para demonstrar que as exigências e os padrões de qualidade abrangem tanto os hospitais públicos quanto a rede privada.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2246">
-<span class="data">2026-07-01 · 15:28</span>
+<blockquote class="evidencia discurso" id="d-6603">
+<span class="data">2026-09-01 · 18:16</span>
 <div class="corpo">
-<p class="tipo">BREVES COMUNICAÇÕES</p>
-<p>O Deputado criticou Flávio Bolsonaro por ter colocado a soberania nacional em risco ao prometer a Trump uma equipe de transição ao Governo dos Estados Unidos, o que classificou como deslealdade à Pátria. Além disso, defendeu o fim da escala seis por um e a redução da jornada de 44 para 40 horas sem corte salarial, argumentando que a medida ampliaria o descanso, a convivência familiar e a produtividade. Por fim, cobrou que o Senado vote a proposta antes das eleições e destacou ações do Governo Lula em favor dos trabalhadores.</p>
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado ressaltou a relevância de convenção da OIT para amparar mães de crianças com deficiência ou com autismo, as quais enfrentam dupla jornada de trabalho e cuidados familiares. Nesse contexto, defendeu a criação de uma política pública de cuidados voltada a esse segmento. Além disso, apontou medidas do Governo Federal voltadas à igualdade salarial entre mulheres e homens e ao enfrentamento da discriminação de gênero no mercado de trabalho.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
@@ -196,7 +196,7 @@ fonte que o publicou.
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>103</b></span> | 81 |
+| [2026](discursos/2026/) | <span class="n"><b>115</b></span> | 93 |
 | [2025](discursos/2025/) | <span class="n"><b>215</b></span> | 177 |
 | [2024](discursos/2024/) | <span class="n"><b>211</b></span> | 154 |
 | [2023](discursos/2023/) | <span class="n"><b>115</b></span> | 101 |

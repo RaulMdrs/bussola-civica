@@ -7,7 +7,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Maria do Rosário</a></b> · PT · 40 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Maria do Rosário</a></b> · PT · 54 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
@@ -16,7 +16,124 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 > neste site: o link de cada discurso leva ao **Diário da Câmara**
 > , onde ele está publicado, ou à **API** quando a origem não o publicou no Diário.
 
-## Substantivos — 37
+## Substantivos — 50
+
+<blockquote class="evidencia discurso" id="d-6626">
+<span class="data">2026-09-02 · 16:32</span>
+<div class="corpo">
+<p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6625">
+<span class="data">2026-09-02 · 15:52</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6624">
+<span class="data">2026-09-01 · 22:44</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6623">
+<span class="data">2026-09-01 · 22:32</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada criticou o Senador Flávio Bolsonaro por mentiras sobre o recebimento de recursos e sua relação com o empresário Daniel Vorcaro. Além disso, destacou que os valores envolvidos superam 70 milhões de reais e que recursos de trabalhadores, servidores públicos e aposentadorias do Estado do Rio de Janeiro teriam sido desviados para Vorcaro, para o Senador Flávio, para Eduardo Bolsonaro e, possivelmente, para o ex-Presidente Bolsonaro.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6622">
+<span class="data">2026-09-01 · 21:16</span>
+<div class="corpo">
+<p class="tipo">DISCUSSÃO</p>
+<p>A Deputada discutiu o Projeto de Lei nº 5.894, de 2025, que institui o Plano Nacional de Cultura para o decênio 2025-2035. Celebrou o retorno do Ministério da Cultura e elogiou o relatório do Deputado Pedro Uczai sobre o Plano Nacional de Cultura, que estabelece metas para os próximos dez anos. Argumentou que o governo anterior representou uma ameaça à identidade cultural do País e que iniciativas como a Lei Aldir Blanc e o programa Cultura Viva simbolizaram resistência a esse projeto. Por fim, destacou que o Plano Nacional de Cultura representa o coroamento de uma gestão vitoriosa e reafirmou o compromisso com uma Nação soberana, democrática e culturalmente valorizada.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6621">
+<span class="data">2026-09-01 · 21:04</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada protestou contra o pronunciamento do Deputado Maurício Marcon, ao qual considerou injurioso ao Partido dos Trabalhadores e das Trabalhadoras (PT), e manifestou indignação pela forma como a Direita criminaliza a política. Além disso, rebateu as críticas ao PT, questionando a relação do candidato da oposição à Presidência da República com o empresário Vorcaro, a quem teria chamado de irmão. Por fim, indagou sobre a fonte de renda do Deputado Eduardo Bolsonaro, que, segundo afirmou, abandonou o cargo e reside nos Estados Unidos.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6620">
+<span class="data">2026-09-01 · 19:28</span>
+<div class="corpo">
+<p class="tipo">DISCUSSÃO</p>
+<p>A Deputada discutiu o Projeto de Lei nº 241, de 2023, que altera o Decreto-Lei nº 667/1969, que reorganiza as Polícias Militares e os Corpos de Bombeiros Militares dos Estados, dos Territórios e do Distrito Federal, e dá outras providências. Além disso, defendeu a Proposta de Emenda à Constituição nº 31, de 2025, que altera os arts. 5º e 10 da Emenda Constitucional nº 103, de 12 de novembro de 2019, para reduzir a idade de aposentadoria da mulher ocupante de cargo de agente penitenciário, agente socioeducativo ou de policial dos órgãos referidos. Por fim, afirmou que a proposta resgatou direitos afetados pela reforma da Previdência.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6618">
+<span class="data">2026-09-01 · 18:16</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada cumprimentou a Relatora da Mensagem do Poder Executivo nº 85, de 2023 e&amp;nbsp;do Projeto de Decreto Legislativo nº 996, de 2026, que aprova o texto da Convenção nº 156, de 1981, da Organização Internacional do Trabalho (OIT), sobre Igualdade de Oportunidades e de Tratamento para os Trabalhadores Homens e Mulheres: Trabalhadores com Responsabilidades Familiares, assinada em Genebra, em 23 de junho de 1981, durante a 67ª sessão da Conferência Internacional do Trabalho (CIT).&amp;nbsp;Defendeu a Convenção por reconhecer as responsabilidades familiares de trabalhadores e trabalhadoras e a importância do cuidado para além do trabalho. Por fim, ressaltou a situação das mães solo e afirmou que o Estado brasileiro deveria proteger o cuidado familiar como responsabilidade essencial.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6617">
+<span class="data">2026-09-01 · 17:48</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada orientou a bancada na votação do requerimento de urgência ao Projeto de Lei nº 4.921, de 2026, que dispõe sobre a transformação de cargos vagos no quadro permanente do Tribunal Regional do Trabalho (TRT) da 18ª Região, sem aumento de despesas.&amp;nbsp;Em seguida, citou novo relatório do Conselho de Controle de Atividades Financeiras (COAF) sobre repasses de Daniel Vorcaro relacionados ao filme Dark Horse, inclusive, segundo afirmou, diretamente a Flávio Bolsonaro. Por fim, questionou a origem dos recursos que sustentariam Eduardo Bolsonaro nos Estados Unidos e defendeu que o tema fosse pautado.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6616">
+<span class="data">2026-09-01 · 15:36</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>A Deputada defendeu a aprovação da Proposta de Emenda à Constituição nº 221, de 2019, que extingue a escala 6 por 1 e reduz a jornada de trabalho, e pediu celeridade na votação da matéria pelo Senado Federal. Além disso, destacou os benefícios da medida para os trabalhadores, especialmente para as mulheres submetidas a dupla ou tripla jornada. Ademais, criticou o Senador Flávio Bolsonaro por sua oposição à proposição e por posicionamentos contrários à democracia e à soberania nacional. Por fim, destacou o pleno emprego e a saída do Brasil do Mapa da Fome durante o Governo do Presidente Lula.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6615">
+<span class="data">2026-08-31 · 21:16</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada orientou a bancada na votação do Projeto de Lei de Conversão nº 10, de 2026, relativo à Medida Provisória nº 1.366, de 2026, que dispõe sobre a criação de linha de financiamento para trabalhadores que atuam no transporte urbano individual de passageiros ou de cargas. Afirmou que a medida beneficiava trabalhadores do transporte, incluindo motoristas de aplicativos de carro e moto, ciclistas, taxistas e caminhoneiros, ao criar melhores condições para o exercício de suas atividades. Também ressaltou as dificuldades enfrentadas por esses profissionais, que investiam recursos próprios e trabalhavam sem jornada fixa, enquanto grandes empresas transnacionais não asseguravam plenamente seus direitos. Por fim, defendeu o aprimoramento do programa, mencionando obstáculos impostos pelos bancos e reforçando a necessidade de valorização e proteção dos trabalhadores de entrega.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6614">
+<span class="data">2026-08-31 · 20:52</span>
+<div class="corpo">
+<p class="tipo">COMO LÍDER</p>
+<p>A Deputada marcou os 10 anos do impeachment de Dilma Rousseff, que classificou como golpe e ruptura do voto popular, e relacionou esse processo ao avanço da crise política, ao bolsonarismo, à pandemia, ao negacionismo científico e ao retorno da fome no País. Argumentou que o episódio aprofundou a crise nacional, alimentou o bolsonarismo e resultou em retrocessos sociais graves, como o retorno ao Mapa da Fome e as mortes durante a pandemia. Também criticou Flávio Bolsonaro e condenou o ataque de 8 de janeiro de 2023. Por fim, reafirmou o compromisso com a democracia como condição essencial à soberania e aos direitos do povo brasileiro.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6613">
+<span class="data">2026-08-31 · 20:44</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada orientou a bancada na votação do substitutivo do Projeto de Lei nº 6.231, de 2019, que altera a Lei nº 12.715, de 17 de setembro de 2012, para tornar permanentes o Programa Nacional de Apoio à Atenção Oncológica - PRONON e o Programa Nacional de Apoio à Atenção da Saúde da Pessoa com Deficiência - PRONAS/PCD, afirmando que os programas apoiariam entidades sem fins lucrativos voltadas à saúde da pessoa com deficiência, com atenção ao diagnóstico e ao tratamento. Além disso, destacou políticas públicas do Governo Lula para famílias atípicas e pessoas com TEA, e cobrou a ampliação de programas permanentes, com redução da espera por diagnóstico e benefícios.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-5849">
 <span class="data">2026-08-12 · 15:28</span>
@@ -351,7 +468,7 @@ description: "Os discursos de Maria do Rosário em 2026, com o sumário oficial 
 </div>
 </blockquote>
 
-## Classificados como protocolares — 3
+## Classificados como protocolares — 4
 
 <div class="ausencia">
 <h4>Fora do perfil, dentro do acervo</h4>
@@ -361,6 +478,15 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 <b>registro de presença</b>. A classificação separa; ela não exclui — por
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
+
+<blockquote class="evidencia discurso" id="d-6619">
+<span class="data">2026-09-01 · 18:44</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada orientou a bancada na votação do Projeto de Lei nº 287, de 2024, sobre a Estratégia Nacional de Controle e Avaliação da Qualidade da Assistência à Saúde no setor privado.&amp;nbsp;Além disso, manifestou solidariedade à família do Ministro Flávio Dino diante da perda de um filho em decorrência de falha no atendimento.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-5844">
 <span class="data">2026-06-16 · 20:04</span>

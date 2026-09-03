@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Any Ortiz — Alinhamento com o governo federal, Procedimental"
-description: "A decomposição completa: todas as 356 votações que compõem o número de Any Ortiz, uma por linha, com link para a fonte."
+description: "A decomposição completa: todas as 357 votações que compõem o número de Any Ortiz, uma por linha, com link para a fonte."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa: todas as 356 votações que compõem o 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>30,6%</b> é <b>109</b> coincidências em
-<b>356</b> votações computáveis — as outras 247 estão
+<p><b>30,5%</b> é <b>109</b> coincidências em
+<b>357</b> votações computáveis — as outras 248 estão
 aqui também. Esta página não é amostra: é a decomposição completa do
 número, e some ou cresce junto com ele.</p>
 </div>
@@ -23,6 +23,7 @@ número, e some ou cresce junto com ele.</p>
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 2026-09-01 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 320; Não: 67; Abstenção: 1; Total: 388. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2643915-8](https://dadosabertos.camara.leg.br/api/v2/votacoes/2643915-8) |
 | 2026-07-14 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 139; Abstenção: 1; Total: 416. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2637721-10](https://dadosabertos.camara.leg.br/api/v2/votacoes/2637721-10) |
 | 2026-07-01 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 293; Não: 158; Abstenção: 3; Total: 454. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2636281-8](https://dadosabertos.camara.leg.br/api/v2/votacoes/2636281-8) |
 | 2026-06-17 | Rejeitado o Requerimento. Sim: 117; Não: 250; Total: 367. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2382675-89](https://dadosabertos.camara.leg.br/api/v2/votacoes/2382675-89) |

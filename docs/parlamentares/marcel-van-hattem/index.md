@@ -18,10 +18,10 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">27,8%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">403 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">12,5%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">344 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">99,2%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">512 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">99,8%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">461 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">27,8%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">403 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">12,5%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">345 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">99,2%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">512 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">99,8%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">462 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
 **Cada percentual acima é um link** para a sua decomposição completa —
@@ -131,13 +131,13 @@ votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
 - [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 403 votações
-- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 344 votações
+- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 345 votações
 - [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 512 votações
-- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 461 votações
+- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 462 votações
 
 ## O que disse em plenário
 
-São **984 discursos** coletados no período, dos quais **786 substantivos** — os outros 198 são
+São **987 discursos** coletados no período, dos quais **789 substantivos** — os outros 198 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,33 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6594">
+<span class="data">2026-09-01 · 20:08</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado criticou o que classificou como tentativa do Procurador-Geral da República, Paulo Gonet, de anular provas colhidas pela Polícia Federal e apresentadas pelo Ministro André Mendonça. Citou mensagens atribuídas a Daniel Vorcaro que indicariam vínculos com Gonet e com o Ministro Alexandre de Moraes, incluindo suposto pagamento de serviços advocatícios e benefícios a familiares. Com base nessas informações, pediu ao Vice-Procurador-Geral da República, Hindemburgo Chateaubriand, a prisão de Alexandre de Moraes e defendeu o impeachment do Ministro.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6593">
+<span class="data">2026-09-01 · 19:44</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado informou que a Oposição realizou coletiva para anunciar medidas diante de fatos noticiados envolvendo Alexandre de Moraes, Gonet e Daniel Vorcaro. Além disso, mencionou pedido de impeachment com quase cem assinaturas e requereu ao Vice-Procurador-Geral da República Hindenburgo Chateaubriand a prisão de Alexandre de Moraes, por suposta atuação para proteger Vorcaro. Ao final, afirmou que a situação teria deixado claras as ações do Ministro nos últimos anos.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6592">
+<span class="data">2026-09-01 · 17:48</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado orientou a bancada na votação do requerimento de urgência ao Projeto de Lei nº 4.921, de 2026, que dispõe sobre a transformação de cargos vagos no quadro permanente do Tribunal Regional do Trabalho (TRT) da 18ª Região, sem aumento de despesas.&amp;nbsp;Na oportunidade, defendeu a extinção do Tribunal Superior do Trabalho (TST), com incorporação das causas à Justiça Comum. Por fim, criticou a eficiência do Poder Judiciário e cobrou a instalação da Comissão Parlamentar de Inquérito (CPI) do Abuso de Autoridade para investigar possíveis irregularidades.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-1184">
 <span class="data">2026-08-11 · 19:52</span>
@@ -165,38 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1182">
-<span class="data">2026-08-11 · 19:24</span>
-<div class="corpo">
-<p class="tipo">BREVES COMUNICAÇÕES</p>
-<p>O Deputado defendeu a importância da eleição para o Senado e a abertura de processos de impeachment contra Ministros do Supremo Tribunal Federal (STF), ao apontar supostos abusos de autoridade e ilegalidades. Nesse contexto, criticou decisão do Ministro Alexandre de Moraes que determinou busca e apreensão contra a fonte e o advogado de um jornalista do Maranhão. Além disso, questionou a atuação da imprensa e da Ordem dos Advogados do Brasil (OAB) diante desses episódios e manifestou solidariedade aos jornalistas. Por fim, afirmou que caberia ao Senado exercer as prerrogativas constitucionais para conter o que classificou como abusos cometidos por integrantes do STF.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-1181">
-<span class="data">2026-07-15 · 15:24</span>
-<div class="corpo">
-<p class="tipo">COMO LÍDER</p>
-<p>O Deputado relatou ter articulado a inclusão de R$ 100 milhões no Orçamento Geral da União para intervenções na BR-116, no trecho entre Novo Hamburgo e Nova Petrópolis, no Vale dos Sinos, no Rio Grande do Sul, com o objetivo de reduzir acidentes, melhorar o tráfego e fortalecer o turismo na Serra Gaúcha. Afirmou ainda que o Presidente do Congresso, Senador Davi Alcolumbre, confirmou a destinação dos recursos aos Prefeitos da região, mas o Ministério dos Transportes enviou ofício informando que não haveria verba de emenda individual para a obra. Esclareceu também que se trata de recurso RP2, aprovado no Orçamento da União, e criticou lideranças locais do PT por colocarem dúvidas sobre a verba e tentarem sabotar sua aplicação. Por fim, defendeu a liberação imediata dos recursos e a união de todos, independentemente de partido, em favor de uma obra que considera essencial para salvar vidas, melhorar a mobilidade e impulsionar o turismo regional.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-1180">
-<span class="data">2026-07-14 · 17:08</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado manifestou solidariedade à Deputada Julia Zanatta e afirmou que a Parlamentar teria sido alvo de manifestações desrespeitosas durante a sessão. Além disso, criticou o Projeto de Lei nº 896, de 2023, que dispõe sobre crimes praticados em razão de misoginia, por considerar que a proposta deixaria de enfrentar crimes mais graves contra mulheres e crianças. Ademais, comentou o indiciamento de ex-integrantes do Instituto Nacional do Seguro Social (INSS) e de outras pessoas em investigação conduzida pela Polícia Federal (PF), atribuindo responsabilidade política ao Partido dos Trabalhadores (PT). Por fim, criticou decisões atribuídas ao Ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, mencionou atuação do escritório de advocacia da esposa do magistrado em parecer relacionado ao Banco Master e comparou o tratamento dado ao Presidente Luiz Inácio Lula da Silva durante o período em que esteve preso com o de outros investigados.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>97</b></span> | 73 |
+| [2026](discursos/2026/) | <span class="n"><b>100</b></span> | 76 |
 | [2025](discursos/2025/) | <span class="n"><b>272</b></span> | 226 |
 | [2024](discursos/2024/) | <span class="n"><b>248</b></span> | 180 |
 | [2023](discursos/2023/) | <span class="n"><b>367</b></span> | 307 |

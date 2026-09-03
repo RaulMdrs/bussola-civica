@@ -18,10 +18,10 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">94,5%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">401 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">96,6%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">358 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">95,6%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">496 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">97,8%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">463 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">94,5%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">401 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">96,7%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">359 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">95,6%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">496 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">97,8%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">464 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
 **Cada percentual acima é um link** para a sua decomposição completa —
@@ -131,13 +131,13 @@ votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
 - [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 401 votações
-- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 358 votações
+- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 359 votações
 - [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 496 votações
-- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 463 votações
+- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 464 votações
 
 ## O que disse em plenário
 
-São **423 discursos** coletados no período, dos quais **396 substantivos** — os outros 27 são
+São **424 discursos** coletados no período, dos quais **397 substantivos** — os outros 27 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,15 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6595">
+<span class="data">2026-09-01 · 21:00</span>
+<div class="corpo">
+<p class="tipo">COMO LÍDER</p>
+<p>O Deputado manifestou indignação com mensagens reveladas após a quebra de sigilo de Daniel Vorcaro, que indicariam envolvimento do Presidente da Câmara, Hugo Motta, em encontros com o banqueiro. Além disso, classificou o Ministro Alexandre de Moraes como corrupto, apontou supostos cartões de crédito de alto valor em nome de filhos do Ministro e afirmou que o Procurador-Geral da República, Paulo Gonet, teria trocado mensagens de cunho afetivo com Vorcaro e pedido para não ser investigado. Por fim, conclamou a população a pressionar por punições e alertou que, sem ação do povo, a corrupção permaneceria impune.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160535/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-1607">
 <span class="data">2026-07-01 · 17:40</span>
@@ -183,20 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1603">
-<span class="data">2026-06-16 · 15:44</span>
-<div class="corpo">
-<p class="tipo">BREVES COMUNICAÇÕES</p>
-<p>O Deputado criticou a família Bolsonaro e defendeu a responsabilização do ex-Deputado Federal Eduardo Bolsonaro por coação no processo relacionado à tentativa de golpe de 2022. Ademais, elogiou as ações do Governo Federal para a reconstrução do Rio Grande do Sul, especialmente a entrega de moradias em Viamão (RS) e a assinatura de ordens para a construção de mais de 2 mil casas em diversos Municípios. Por fim, celebrou o compromisso do Presidente Lula e do Ministério das Cidades com as famílias atingidas e com a política habitacional no Estado.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160535/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>36</b></span> | 35 |
+| [2026](discursos/2026/) | <span class="n"><b>37</b></span> | 36 |
 | [2025](discursos/2025/) | <span class="n"><b>113</b></span> | 108 |
 | [2024](discursos/2024/) | <span class="n"><b>103</b></span> | 95 |
 | [2023](discursos/2023/) | <span class="n"><b>171</b></span> | 158 |

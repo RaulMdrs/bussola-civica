@@ -18,10 +18,10 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">36,2%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">354 <span>votações computáveis</span></span><span class="n-detalhe">550 <span>votações no exercício</span></span> |
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">31,9%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">288 <span>votações computáveis</span></span><span class="n-detalhe">510 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">57,3%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">429 <span>votações computáveis</span></span><span class="n-detalhe">550 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">50,4%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">373 <span>votações computáveis</span></span><span class="n-detalhe">510 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">36,2%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">354 <span>votações computáveis</span></span><span class="n-detalhe">551 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">31,9%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">288 <span>votações computáveis</span></span><span class="n-detalhe">511 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">57,3%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">429 <span>votações computáveis</span></span><span class="n-detalhe">551 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">50,4%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">373 <span>votações computáveis</span></span><span class="n-detalhe">511 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
 **Cada percentual acima é um link** para a sua decomposição completa —

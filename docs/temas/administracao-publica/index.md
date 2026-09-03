@@ -7,7 +7,7 @@ description: "Como a bancada gaúcha vota em Administração Pública, medido co
 
 # Administração Pública
 
-<p class="subtitulo"><b>165 votações nominais de mérito</b> sobre este tema no período.</p>
+<p class="subtitulo"><b>166 votações nominais de mérito</b> sobre este tema no período.</p>
 
 > O que a tabela mede é **alinhamento com a orientação do Governo dentro
 > deste tema** — não posição a favor ou contra o assunto. Essa direção não

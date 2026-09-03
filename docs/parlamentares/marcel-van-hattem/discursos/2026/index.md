@@ -7,7 +7,7 @@ description: "Os discursos de Marcel van Hattem em 2026, com o sumário oficial 
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Marcel van Hattem</a></b> · NOVO · 97 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Marcel van Hattem</a></b> · NOVO · 100 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
@@ -16,7 +16,34 @@ description: "Os discursos de Marcel van Hattem em 2026, com o sumário oficial 
 > neste site: o link de cada discurso leva ao **Diário da Câmara**
 > , onde ele está publicado, ou à **API** quando a origem não o publicou no Diário.
 
-## Substantivos — 73
+## Substantivos — 76
+
+<blockquote class="evidencia discurso" id="d-6594">
+<span class="data">2026-09-01 · 20:08</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado criticou o que classificou como tentativa do Procurador-Geral da República, Paulo Gonet, de anular provas colhidas pela Polícia Federal e apresentadas pelo Ministro André Mendonça. Citou mensagens atribuídas a Daniel Vorcaro que indicariam vínculos com Gonet e com o Ministro Alexandre de Moraes, incluindo suposto pagamento de serviços advocatícios e benefícios a familiares. Com base nessas informações, pediu ao Vice-Procurador-Geral da República, Hindemburgo Chateaubriand, a prisão de Alexandre de Moraes e defendeu o impeachment do Ministro.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6593">
+<span class="data">2026-09-01 · 19:44</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado informou que a Oposição realizou coletiva para anunciar medidas diante de fatos noticiados envolvendo Alexandre de Moraes, Gonet e Daniel Vorcaro. Além disso, mencionou pedido de impeachment com quase cem assinaturas e requereu ao Vice-Procurador-Geral da República Hindenburgo Chateaubriand a prisão de Alexandre de Moraes, por suposta atuação para proteger Vorcaro. Ao final, afirmou que a situação teria deixado claras as ações do Ministro nos últimos anos.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6592">
+<span class="data">2026-09-01 · 17:48</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado orientou a bancada na votação do requerimento de urgência ao Projeto de Lei nº 4.921, de 2026, que dispõe sobre a transformação de cargos vagos no quadro permanente do Tribunal Regional do Trabalho (TRT) da 18ª Região, sem aumento de despesas.&amp;nbsp;Na oportunidade, defendeu a extinção do Tribunal Superior do Trabalho (TST), com incorporação das causas à Justiça Comum. Por fim, criticou a eficiência do Poder Judiciário e cobrou a instalação da Comissão Parlamentar de Inquérito (CPI) do Abuso de Autoridade para investigar possíveis irregularidades.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-1184">
 <span class="data">2026-08-11 · 19:52</span>

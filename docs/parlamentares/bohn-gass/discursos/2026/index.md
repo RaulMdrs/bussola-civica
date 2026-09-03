@@ -7,7 +7,7 @@ description: "Os discursos de Bohn Gass em 2026, com o sumário oficial e link p
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Bohn Gass</a></b> · PT · 103 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Bohn Gass</a></b> · PT · 115 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
@@ -16,7 +16,115 @@ description: "Os discursos de Bohn Gass em 2026, com o sumário oficial e link p
 > neste site: o link de cada discurso leva ao **Diário da Câmara**
 > , onde ele está publicado, ou à **API** quando a origem não o publicou no Diário.
 
-## Substantivos — 81
+## Substantivos — 93
+
+<blockquote class="evidencia discurso" id="d-6607">
+<span class="data">2026-09-02 · 16:20</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6606">
+<span class="data">2026-09-01 · 21:44</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado orientou a bancada na votação do substitutivo oferecido ao Projeto de Lei nº 1.290, de 2022, que atualiza os valores de custas e emolumentos devidos no âmbito da Justiça do Trabalho. Além disso, rebateu críticas dirigidas ao Governo do Presidente Lula em relação a obras públicas. Contrastou o cenário atual com o de governos anteriores, em que rodovias precárias comprometiam o deslocamento de veículos, e destacou que o Brasil vivencia um período de reconstrução, com crescimento econômico, geração de empregos e aprovação de projetos culturais.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6605">
+<span class="data">2026-09-01 · 20:00</span>
+<div class="corpo">
+<p class="tipo">COMO LÍDER</p>
+<p>O Deputado abordou novas revelações publicadas pela revista Piauí sobre o escândalo denominado &quot;Bolsomaster&quot;, que envolve o Senador Flávio Bolsonaro e supostas solicitações de recursos ao empresário Daniel Vorcaro para financiar o filme Dark Horse. Apontou que o montante investigado teria passado de 61 milhões para até 72 milhões de reais, com o surgimento de parcelas até então desconhecidas. Também listou contradições e versões apresentadas pelo Senador ao longo do caso e informou que o PT formalizou três pedidos de inquérito para investigar os recursos, solicitar cooperação internacional e apurar possíveis desvios de emendas parlamentares. Por fim, cobrou explicações de Flávio Bolsonaro à população.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6604">
+<span class="data">2026-09-01 · 18:56</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado rebateu críticas ao Projeto de Lei nº 287, de 2024, sobre a Estratégia Nacional de Controle e Avaliação da Qualidade da Assistência à Saúde no setor privado e defendeu a regulação estatal para coibir negligências e mortes em estabelecimentos de saúde. Nesse sentido, destacou o teor do art. 6º do texto para demonstrar que as exigências e os padrões de qualidade abrangem tanto os hospitais públicos quanto a rede privada.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6603">
+<span class="data">2026-09-01 · 18:16</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado ressaltou a relevância de convenção da OIT para amparar mães de crianças com deficiência ou com autismo, as quais enfrentam dupla jornada de trabalho e cuidados familiares. Nesse contexto, defendeu a criação de uma política pública de cuidados voltada a esse segmento. Além disso, apontou medidas do Governo Federal voltadas à igualdade salarial entre mulheres e homens e ao enfrentamento da discriminação de gênero no mercado de trabalho.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6602">
+<span class="data">2026-09-01 · 16:44</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado defendeu a redução da jornada de trabalho de quarenta e quatro para quarenta horas semanais, com dois dias de descanso e sem redução salarial, sob argumento de que a medida ampliaria o convívio familiar, o descanso, a prática religiosa e a vida fora do trabalho. Além disso, cobrou do Senado a votação imediata da Proposta de Emenda à Constituição nº 221, de 2019, sobre o tema, especialmente em Plenário, e rebateu a tese de que a mudança prejudicaria o País, citando avanços trabalhistas anteriores que também enfrentaram resistência.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6601">
+<span class="data">2026-08-31 · 21:16</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado orientou favoravelmente a base de apoio político do Governo na votação do Projeto de Lei de Conversão nº 10, de 2026, relativo à Medida Provisória nº 1.366, de 2026, que dispõe sobre a criação de linha de financiamento para trabalhadores que atuam no transporte urbano individual de passageiros ou de cargas. Além disso, destacou que a proposição beneficia entregadores e motoristas de aplicativo, estimula a indústria e o emprego no País e contribui para a proteção ambiental. Ademais, ressaltou a previsão de juros menores para mulheres como política afirmativa de participação feminina no mercado de trabalho. Por fim, destacou a elevação do limite de financiamento de 150 mil reais para 200 mil reais e atribuiu a ampliação ao êxito do Programa Move Brasil.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6600">
+<span class="data">2026-08-31 · 21:04</span>
+<div class="corpo">
+<p class="tipo">DISCUSSÃO</p>
+<p>O Deputado discutiu a Medida Provisória nº 1.366, que incorporou a Medida Provisória nº 1.359, ressaltando os benefícios para micro e pequenos empreendedores, agricultores, cooperativas e motoristas de aplicativos. Destacou que o programa disponibiliza 30 bilhões de reais em financiamentos, com limite individual elevado de R$ 150 mil para R$ 200 mil, e abrange despesas como serviços cartoriais e seguros. Além disso, apontou que a iniciativa estimula a reindustrialização do País, a geração de empregos e a transição para veículos com menor emissão de carbono, alinhando objetivos econômicos e ambientais.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6599">
+<span class="data">2026-08-31 · 20:00</span>
+<div class="corpo">
+<p class="tipo">PARECER</p>
+<p>O Deputado realizou a leitura do parecer ao Projeto de Decreto Legislativo nº 331, de 2025, que aprova o texto do Acordo sobre Medidas do Estado de Porto Destinadas a Prevenir, Impedir e Eliminar a Pesca Ilegal Não Declarada e Não Regulamentada, celebrado na 36ª Sessão da Conferência da FAO, em Roma, Itália, em 22 de novembro de 2009. Ressaltou a constitucionalidade, juridicidade e boa técnica legislativa da proposição, bem como os benefícios ambientais e econômicos para o Brasil. Além disso, apontou que o acordo restringiu o acesso de embarcações envolvidas em pesca ilegal aos portos, fortaleceu a conservação dos recursos marinhos e protegeu a pesca nacional da concorrência desleal. Por fim, considerou urgente a adesão brasileira ao regime cooperativo da Organização das Nações Unidas para a Alimentação e Agricultura (FAO).</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6598">
+<span class="data">2026-08-31 · 19:32</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado se manifestou durante a votação do Projeto de Lei nº 8.332, de 2015, que dispõe sobre a criação de cargos de Juiz do Trabalho Substituto e de cargos de provimento efetivo no Tribunal Regional do Trabalho da 7ª Região. Afirmou que o debate era sobre os altos salários no Judiciário e defendeu a proposta do PT para acabar com supersalários e penduricalhos que elevavam vencimentos de juízes e servidores. Além disso, criticou a tentativa de enfraquecer a Justiça do Trabalho, associando essa linha à reforma trabalhista e à precarização dos trabalhadores. Por fim, ressaltou que o Governo Lula buscava ampliar direitos de quem trabalhava por plataformas e preservar garantias previdenciárias, de segurança e assistência.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6597">
+<span class="data">2026-08-31 · 19:32</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado solicitou a inclusão na pauta do Projeto de Lei nº 4.952, de 2026, que transforma os Centros Federais de Educação Tecnológica de Minas Gerais e do Rio de Janeiro, respectivamente, na Universidade Federal de Ciência e Inovação de Minas Gerais e na Universidade Federal de Ciência e Inovação do Rio de Janeiro; e lembrou o Projeto de Lei nº 3.401, de 2025, que disciplina, em âmbito nacional, a aplicação do limite máximo remuneratório mensal de agentes políticos e públicos de que tratam o inciso XI do caput e os § 9º e § 11 do art. 37 da Constituição. Por fim, defendeu a contenção dos altos salários e a política de reajuste do salário mínimo pela inflação e pelo Produto Interno Bruto (PIB).</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6596">
+<span class="data">2026-08-31 · 19:24</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado defendeu o Projeto de Lei nº 956, de 2015, que dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 4ª Região. Registrou a importância da estruturação das varas do trabalho, inclusive no Rio Grande do Sul, e criticou a reforma trabalhista aprovada após o impeachment de Dilma Rousseff, que teria reduzido a proteção aos trabalhadores. Além disso, afirmou que o enfraquecimento da legislação trabalhista agravou a retirada de pessoas da Justiça do Trabalho e defendeu o fortalecimento dessa estrutura para garantir direitos, em contraste com a tentativa de acabar com proteções sociais.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-2251">
 <span class="data">2026-08-11 · 16:04</span>

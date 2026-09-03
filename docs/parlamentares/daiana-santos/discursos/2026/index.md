@@ -7,7 +7,7 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário oficial e li
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Daiana Santos</a></b> · PCdoB · 13 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Daiana Santos</a></b> · PCdoB · 15 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
@@ -16,7 +16,25 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário oficial e li
 > neste site: o link de cada discurso leva ao **Diário da Câmara**
 > , onde ele está publicado, ou à **API** quando a origem não o publicou no Diário.
 
-## Substantivos — 11
+## Substantivos — 13
+
+<blockquote class="evidencia discurso" id="d-6612">
+<span class="data">2026-09-02 · 18:40</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada reafirmou compromisso com o povo brasileiro e com a classe trabalhadora, ao defender que a luta transformou a vida e que a mobilização política havia sido decisiva para a vitória da Proposta de Emenda à Constituição nº 221, de 2019, que trata da redução da jornada de trabalho, na CCJC do Senado. Além disso, ressaltou a necessidade de construir políticas com e para as pessoas, com alternativas reais para problemas concretos, e destacou o orgulho pelo projeto que se tornou relatório, renovando a disposição de seguir na luta.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220555/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6611">
+<span class="data">2026-09-01 · 15:56</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada saudou a presença, na Câmara dos Deputados, de representantes da Central dos Trabalhadores e Trabalhadoras do Brasil (CTB) do Rio Grande do Sul e destacou a mobilização da entidade pela aprovação da Proposta de Emenda à Constituição (PEC) nº 221, de 2019, que extingue a escala 6 por 1 e reduz a jornada de trabalho. Além disso, reafirmou seu apoio à PEC em defesa da dignidade e dos direitos dos trabalhadores.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220555/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-4687">
 <span class="data">2026-05-27 · 22:48</span>

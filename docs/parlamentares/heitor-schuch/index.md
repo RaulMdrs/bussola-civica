@@ -18,10 +18,10 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">88,1%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">277 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">92,4%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">238 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">92,7%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">330 <span>votações computáveis</span></span><span class="n-detalhe">576 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">94,7%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">302 <span>votações computáveis</span></span><span class="n-detalhe">536 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">88,1%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">277 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">92,1%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">239 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">92,7%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">330 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">94,4%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">303 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
 **Cada percentual acima é um link** para a sua decomposição completa —
@@ -131,13 +131,13 @@ votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
 - [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 277 votações
-- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 238 votações
+- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 239 votações
 - [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 330 votações
-- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 302 votações
+- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 303 votações
 
 ## O que disse em plenário
 
-São **126 discursos** coletados no período, dos quais **99 substantivos** — os outros 27 são
+São **128 discursos** coletados no período, dos quais **101 substantivos** — os outros 27 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,24 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6609">
+<span class="data">2026-09-01 · 16:16</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>O Deputado destacou a importância da produção de tabaco para a economia do Rio Grande do Sul e para a geração de renda e empregos em diferentes atividades da cadeia produtiva. Além disso, criticou a elevada carga tributária sobre o setor e sustentou que a tributação excessiva favorece o contrabando e o mercado ilegal. Ademais, defendeu a regulamentação e a produção, em território nacional, dos dispositivos eletrônicos para fumar (DEFs), com fiscalização e controle pela Agência Nacional de Vigilância Sanitária (Anvisa). Por fim, ressaltou que a regulamentação poderia combater o mercado ilegal, ampliar a arrecadação, gerar empregos e atrair fábricas, inclusive para o Rio Grande do Sul.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178964/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6608">
+<span class="data">2026-09-01 · 15:28</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado saudou a presença do Presidente do Conselho Estadual de Trânsito do Rio Grande do Sul (Cetran-RS), Vilnei Sessim, e dos Vice-Presidentes do Sindicato dos Centros de Formação de Condutores do Estado (SindiCFC), Eduardo Oliveira e Rodimar Dallagnol. Além disso, destacou a importância do Projeto de Lei nº 8.085, de 2014, que propõe alterações no Código de Trânsito Brasileiro, e defendeu a continuidade da atuação dos centros de formação de condutores na educação para o trânsito e na prevenção de acidentes.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178964/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-2637">
 <span class="data">2026-08-12 · 19:00</span>
@@ -174,29 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2634">
-<span class="data">2026-07-01 · 15:24</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado comemorou o acordo entre as lideranças partidárias da Câmara para votar o Projeto de Lei nº 5.122, de 2023, que trata da renegociação das dívidas de agricultores afetados por estiagens e calamidades, especialmente na Região Sul. Destacou que a medida é aguardada pelo setor agropecuário e defendeu que sua aprovação fortalecerá o Plano Safra, proporcionando melhores condições para que os produtores rurais mantenham suas atividades e continuem abastecendo o mercado interno e as exportações. Ao final, reafirmou o apoio de sua bancada à proposta e conclamou os demais Deputados a votarem favoravelmente ao projeto.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178964/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-2632">
-<span class="data">2026-06-17 · 17:24</span>
-<div class="corpo">
-<p class="tipo">PARECER</p>
-<p>O Deputado proferiu parecer ao Projeto de Lei nº 1.106, de 2023, que reconhece a Robótica como esporte de competição e de relevância educacional, na forma que especifica.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178964/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>17</b></span> | 15 |
+| [2026](discursos/2026/) | <span class="n"><b>19</b></span> | 17 |
 | [2025](discursos/2025/) | <span class="n"><b>27</b></span> | 25 |
 | [2024](discursos/2024/) | <span class="n"><b>49</b></span> | 28 |
 | [2023](discursos/2023/) | <span class="n"><b>33</b></span> | 31 |
