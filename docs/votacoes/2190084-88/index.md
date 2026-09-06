@@ -1,0 +1,76 @@
+---
+layout: default
+kind: votacao
+title: "PL 11247/2018 — Mantido o texto. (2023-11-29)"
+description: "Como a bancada gaúcha votou em 2023-11-29: Mantido o texto. Sim: 387; não: 38; total: 425."
+---
+
+# PL 11247/2018
+
+<p class="subtitulo"><b>2023-11-29</b> · Mantido o texto.</p>
+
+| | |
+|---|---|
+| Casa | Câmara dos Deputados |
+| Identificador oficial | `2190084-88` |
+| Placar | Sim: 387; não: 38; total: 425. |
+| Matéria | PL 11247/2018 |
+| Natureza | mérito da matéria |
+| Temas da matéria | [Administração Pública](../../temas/administracao-publica/) · [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) |
+| Orientação do Governo | **sim** |
+{: .t-docs}
+
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2190084-88">Ver o registro na fonte oficial</a>
+
+### A matéria
+
+> Dispõe sobre a ampliação das atribuições institucionais relacionadas à Política Energética Nacional com o objetivo de promover o desenvolvimento da geração de energia elétrica a partir de fonte eólica localizada nas águas interiores, no mar territorial e na zona econômica exclusiva e da geração de energia elétrica a partir de fonte solar fotovoltaica. NOVA EMENTA: Disciplina o aproveitamento de potencial energético offshore; e altera as Leis nºs 9.478, de 6 de agosto de 1997, 10.438, de 26 de abril de 2002, 9.427, de 26 de dezembro de 1996, 14.182, de 12 de julho de 2021, 10.848, de 15 de março de 2004, e 14.300, de 6 de janeiro de 2022.
+
+Ementa como a Casa a publica, sem edição. Ela descreve **a matéria**,
+não o ato específico votado nesta sessão — que está no alto da página.
+
+## Como votou a bancada gaúcha na Câmara
+
+| Parlamentar | Partido | Voto | Registro na origem |
+|---|---|---|---|
+| [Alceu Moreira](../../parlamentares/alceu-moreira/) | <span class="sigla">MDB</span> | <b>sim</b> | Sim |
+| [Márcio Biolchi](../../parlamentares/marcio-biolchi/) | <span class="sigla">MDB</span> | <b>sim</b> | Sim |
+| [Marcel van Hattem](../../parlamentares/marcel-van-hattem/) | <span class="sigla">NOVO</span> | <b>sim</b> | Sim |
+| [Daiana Santos](../../parlamentares/daiana-santos/) | <span class="sigla">PCdoB</span> | <b>nao</b> | Não |
+| [Afonso Motta](../../parlamentares/afonso-motta/) | <span class="sigla">PDT</span> | <b>sim</b> | Sim |
+| [Pompeo de Mattos](../../parlamentares/pompeo-de-mattos/) | <span class="sigla">PDT</span> | <b>sim</b> | Sim |
+| [Bibo Nunes](../../parlamentares/bibo-nunes/) | <span class="sigla">PL</span> | <b>sim</b> | Sim |
+| [Giovani Cherini](../../parlamentares/giovani-cherini/) | <span class="sigla">PL</span> | <b>sim</b> | Sim |
+| [Marcelo Moraes](../../parlamentares/marcelo-moraes/) | <span class="sigla">PL</span> | <b>sim</b> | Sim |
+| [Mauricio Marcon](../../parlamentares/mauricio-marcon/) | <span class="sigla">PL</span> | <b>sim</b> | Sim |
+| [Osmar Terra](../../parlamentares/osmar-terra/) | <span class="sigla">PL</span> | <b>nao</b> | Não |
+| [Sanderson](../../parlamentares/sanderson/) | <span class="sigla">PL</span> | <b>sim</b> | Sim |
+| [Zucco](../../parlamentares/zucco/) | <span class="sigla">PL</span> | <b>sim</b> | Sim |
+| [Afonso Hamm](../../parlamentares/afonso-hamm/) | <span class="sigla">PP</span> | <b>sim</b> | Sim |
+| [Any Ortiz](../../parlamentares/any-ortiz/) | <span class="sigla">PP</span> | <b>nao</b> | Não |
+| [Covatti Filho](../../parlamentares/covatti-filho/) | <span class="sigla">PP</span> | <b>sim</b> | Sim |
+| [Pedro Westphalen](../../parlamentares/pedro-westphalen/) | <span class="sigla">PP</span> | <b>sim</b> | Sim |
+| [Danrlei de Deus Hinterholz](../../parlamentares/danrlei-de-deus-hinterholz/) | <span class="sigla">PSD</span> | <b>sim</b> | Sim |
+| [Heitor Schuch](../../parlamentares/heitor-schuch/) | <span class="sigla">PSD</span> | <b>sim</b> | Sim |
+| [Lucas Redecker](../../parlamentares/lucas-redecker/) | <span class="sigla">PSD</span> | <b>sim</b> | Sim |
+| [Daniel Trzeciak](../../parlamentares/daniel-trzeciak/) | <span class="sigla">PSDB</span> | <b>sim</b> | Sim |
+| [Fernanda Melchionna](../../parlamentares/fernanda-melchionna/) | <span class="sigla">PSOL</span> | <b>nao</b> | Não |
+| [Alexandre Lindenmeyer](../../parlamentares/alexandre-lindenmeyer/) | <span class="sigla">PT</span> | <b>sim</b> | Sim |
+| [Bohn Gass](../../parlamentares/bohn-gass/) | <span class="sigla">PT</span> | <b>sim</b> | Sim |
+| [Denise Pessôa](../../parlamentares/denise-pessoa/) | <span class="sigla">PT</span> | <b>nao</b> | Não |
+| [Marcon](../../parlamentares/marcon/) | <span class="sigla">PT</span> | <b>sim</b> | Sim |
+| [Maria do Rosário](../../parlamentares/maria-do-rosario/) | <span class="sigla">PT</span> | <b>sim</b> | Sim |
+| [Franciane Bayer](../../parlamentares/franciane-bayer/) | <span class="sigla">REPUBLICANOS</span> | <b>sim</b> | Sim |
+| [Luiz Carlos Busato](../../parlamentares/luiz-carlos-busato/) | <span class="sigla">UNIÃO</span> | <b>sim</b> | Sim |
+{: .t-chamada}
+
+> **Esta é a chamada do recorte, não da Casa.** São os
+> 29 parlamentares do Rio Grande do Sul com voto
+> registrado aqui; o placar acima é o do plenário inteiro. E a coesão
+> partidária exibida nos perfis é medida contra a **bancada nacional**
+> de cada partido, não contra a delegação gaúcha — ver a
+> [metodologia](../../metodologia/).
+
+A coluna da direita traz o código como a origem o publicou, ao lado do
+valor normalizado. Onde os dois diferem, o normalizado é tradução
+nossa e o original é o que a Casa registrou.

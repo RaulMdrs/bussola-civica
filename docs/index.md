@@ -58,6 +58,7 @@ Ambos são apurados separadamente no **mérito** das matérias e em votações
 
 | Documento | O que traz |
 |---|---|
+| [Votações](./votacoes/) | Cada votação com chamada nominal recuperável, e como a bancada gaúcha votou em cada uma |
 | [Para jornalistas](./imprensa/) | Como citar, os dados em CSV, e as cinco maneiras de errar com estes números |
 | [FONTES](./FONTES) | Reconhecimento das APIs oficiais: o que cada endpoint entrega e onde falha |
 | [MODELO-DADOS](./MODELO-DADOS) | Por que o schema tem a forma que tem — as formas de mentir que ele bloqueia |

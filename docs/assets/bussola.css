@@ -505,6 +505,15 @@ td .fonte, .evidencia .fonte { margin-top: var(--e2); }
      rótulo ela deixaria de comunicar proporção */
   .t-bancada .barra { flex: 1 0 100%; margin-top: var(--e2); }
 
+  .t-chamada td:nth-child(2)::before { content: "Partido"; }
+  .t-chamada td:nth-child(3)::before { content: "Voto"; }
+  .t-chamada td:nth-child(4)::before { content: "Registro na origem"; }
+
+  .t-votacoes td:nth-child(2)::before { content: none; }
+  .t-votacoes td:nth-child(2) { display: block; text-align: left; }
+  .t-votacoes td:nth-child(3)::before { content: "Casa"; }
+  .t-votacoes td:nth-child(4)::before { content: "Resultado"; }
+
   .t-lista-temas td:nth-child(2)::before { content: "Votações nominais"; }
   .t-lista-temas td:nth-child(3)::before { content: "Média da bancada"; }
 

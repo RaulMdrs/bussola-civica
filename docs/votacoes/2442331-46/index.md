@@ -1,0 +1,73 @@
+---
+layout: default
+kind: votacao
+title: "PDL 308/2024 — Aprovado o Projeto de Decreto Legislativo nº 308, de 2024. (2025-05-22)"
+description: "Como a bancada gaúcha votou em 2025-05-22: Aprovado o Projeto de Decreto Legislativo nº 308, de 2024. Sim: 363; Não: 11; Abstenção: 1; Total: 375."
+---
+
+# PDL 308/2024
+
+<p class="subtitulo"><b>2025-05-22</b> · Aprovado o Projeto de Decreto Legislativo nº 308, de 2024.</p>
+
+| | |
+|---|---|
+| Casa | Câmara dos Deputados |
+| Identificador oficial | `2442331-46` |
+| Placar | Sim: 363; Não: 11; Abstenção: 1; Total: 375. |
+| Resultado | aprovada |
+| Matéria | PDL 308/2024 |
+| Natureza | mérito da matéria |
+| Temas da matéria | Relações Internacionais e Comércio Exterior · [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) |
+| Orientação do Governo | **sim** |
+{: .t-docs}
+
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2442331-46">Ver o registro na fonte oficial</a>
+
+### A matéria
+
+> Aprova os textos das Resoluções MSC.239(83), MSC.240(83), MSC.256(84), MSC.257(84), MSC.258(84), 269(85), 282(86) e MSC.283(86), com as respectivas emendas, à Convenção Internacional para a Salvaguarda da Vida Humana no Mar (Convenção Internacional para a Salvaguarda da Vida Humana no Mar (International Convention for the Safety of Life at Sea – SOLAS), de 1974, adotadas pelo Comitê de Segurança Marítima (Maritime Safety Committee – MSC) da Organização Marítima Internacional (International Maritime Organization – IMO), entre 2007 e 2009.
+
+Ementa como a Casa a publica, sem edição. Ela descreve **a matéria**,
+não o ato específico votado nesta sessão — que está no alto da página.
+
+## Como votou a bancada gaúcha na Câmara
+
+| Parlamentar | Partido | Voto | Registro na origem |
+|---|---|---|---|
+| [Alceu Moreira](../../parlamentares/alceu-moreira/) | <span class="sigla">MDB</span> | <b>sim</b> | Sim |
+| [Marcel van Hattem](../../parlamentares/marcel-van-hattem/) | <span class="sigla">NOVO</span> | <b>sim</b> | Sim |
+| [Daiana Santos](../../parlamentares/daiana-santos/) | <span class="sigla">PCdoB</span> | <b>sim</b> | Sim |
+| [Afonso Motta](../../parlamentares/afonso-motta/) | <span class="sigla">PDT</span> | <b>sim</b> | Sim |
+| [Pompeo de Mattos](../../parlamentares/pompeo-de-mattos/) | <span class="sigla">PDT</span> | <b>sim</b> | Sim |
+| [Bibo Nunes](../../parlamentares/bibo-nunes/) | <span class="sigla">PL</span> | <b>sim</b> | Sim |
+| [Giovani Cherini](../../parlamentares/giovani-cherini/) | <span class="sigla">PL</span> | <b>sim</b> | Sim |
+| [Marcelo Moraes](../../parlamentares/marcelo-moraes/) | <span class="sigla">PL</span> | <b>sim</b> | Sim |
+| [Mauricio Marcon](../../parlamentares/mauricio-marcon/) | <span class="sigla">PL</span> | <b>sim</b> | Sim |
+| [Sanderson](../../parlamentares/sanderson/) | <span class="sigla">PL</span> | <b>sim</b> | Sim |
+| [Zucco](../../parlamentares/zucco/) | <span class="sigla">PL</span> | <b>sim</b> | Sim |
+| [Afonso Hamm](../../parlamentares/afonso-hamm/) | <span class="sigla">PP</span> | <b>sim</b> | Sim |
+| [Any Ortiz](../../parlamentares/any-ortiz/) | <span class="sigla">PP</span> | <b>nao</b> | Não |
+| [Covatti Filho](../../parlamentares/covatti-filho/) | <span class="sigla">PP</span> | <b>sim</b> | Sim |
+| [Pedro Westphalen](../../parlamentares/pedro-westphalen/) | <span class="sigla">PP</span> | <b>sim</b> | Sim |
+| [Heitor Schuch](../../parlamentares/heitor-schuch/) | <span class="sigla">PSD</span> | <b>sim</b> | Sim |
+| [Daniel Trzeciak](../../parlamentares/daniel-trzeciak/) | <span class="sigla">PSDB</span> | <b>sim</b> | Sim |
+| [Fernanda Melchionna](../../parlamentares/fernanda-melchionna/) | <span class="sigla">PSOL</span> | <b>sim</b> | Sim |
+| [Bohn Gass](../../parlamentares/bohn-gass/) | <span class="sigla">PT</span> | <b>sim</b> | Sim |
+| [Denise Pessôa](../../parlamentares/denise-pessoa/) | <span class="sigla">PT</span> | <b>sim</b> | Sim |
+| [Marcon](../../parlamentares/marcon/) | <span class="sigla">PT</span> | <b>sim</b> | Sim |
+| [Maria do Rosário](../../parlamentares/maria-do-rosario/) | <span class="sigla">PT</span> | <b>sim</b> | Sim |
+| [Paulo Pimenta](../../parlamentares/paulo-pimenta/) | <span class="sigla">PT</span> | <b>sim</b> | Sim |
+| [Franciane Bayer](../../parlamentares/franciane-bayer/) | <span class="sigla">REPUBLICANOS</span> | <b>sim</b> | Sim |
+| [Luiz Carlos Busato](../../parlamentares/luiz-carlos-busato/) | <span class="sigla">UNIÃO</span> | <b>sim</b> | Sim |
+{: .t-chamada}
+
+> **Esta é a chamada do recorte, não da Casa.** São os
+> 25 parlamentares do Rio Grande do Sul com voto
+> registrado aqui; o placar acima é o do plenário inteiro. E a coesão
+> partidária exibida nos perfis é medida contra a **bancada nacional**
+> de cada partido, não contra a delegação gaúcha — ver a
+> [metodologia](../../metodologia/).
+
+A coluna da direita traz o código como a origem o publicou, ao lado do
+valor normalizado. Onde os dois diferem, o normalizado é tradução
+nossa e o original é o que a Casa registrou.

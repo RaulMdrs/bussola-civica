@@ -897,12 +897,16 @@ function gerarEvidencia(p: Parlamentar, x: Posicao): string {
     md += `| ${esc(l.data)} | ${esc(umaLinha(l.descricao))} `;
     md += `| ${esc(umaLinha(l.referencia))} `;
     md += `| <b>${esc(l.voto)}</b> | ${marca} `;
-    md += `| [${esc(l.idExterno)}](${esc(l.fonte)}) |\n`;
+    // Aponta para a nossa página da votação, não direto para a API: lá o
+    // leitor vê quem mais votou aquilo, e o link oficial está no alto dela.
+    // A cadeia até a fonte continua inteira, com um passo a mais que informa.
+    md += `| [${esc(l.idExterno)}](../../../../votacoes/${esc(l.idExterno)}/) |\n`;
   }
   md += `{: .t-evid}\n\n`;
 
   md += `O identificador da última coluna é o da votação na fonte oficial, e o\n`;
-  md += `link abre o registro dela na API da Câmara. Nada nesta página é\n`;
+  md += `link abre a página dela neste site — com a chamada nominal da bancada e\n`;
+  md += `o endereço do registro na origem. Nada nesta página é\n`;
   md += `interpretação: são votos registrados e a referência contra a qual cada um\n`;
   md += `foi comparado.\n`;
 
@@ -1043,6 +1047,250 @@ function gerarImprensa(): string {
   md += `Se o erro for nosso, a correção entra no acervo e no registro público de\n`;
   md += `defeitos — que fica no repositório, com a causa e o que foi feito.\n\n`;
 
+  return md;
+}
+
+// ---------------------------------------------------------------------------
+// Votações — a navegação que faltava
+//
+// Até aqui o site só ia **da pessoa para o voto**: abre-se o perfil e desce-se
+// até as votações. O caminho inverso não existia, e é o que um repórter usa na
+// semana em que uma matéria está no jornal — "como a bancada gaúcha votou
+// nisto?" — e o que um eleitor pergunta sobre a proposta de que ouviu falar.
+//
+// Nada aqui é calculado. É a **chamada nominal** como a Casa registrou, e o
+// dado mais cru que o acervo tem: quem votou o quê. Nenhuma versão de
+// metodologia muda, porque nada é derivado.
+//
+// Só entram votações com voto individual recuperável — nominais e não secretas
+// na Câmara, abertas no Senado. Nas outras não há chamada para publicar, e uma
+// página vazia afirmaria ausência de posição onde há ausência de registro.
+
+interface VotacaoPagina {
+  id: number;
+  idExterno: string;
+  casa: string;
+  data: string;
+  descricao: string;
+  aprovacao: number | null;
+  natureza: string | null;
+  fonte: string;
+  proposicao: string | null;
+  ementa: string | null;
+  totalSim: number | null;
+  totalNao: number | null;
+}
+
+const votacoesApuraveis = () =>
+  todos<VotacaoPagina>(
+    `SELECT v.id, v.id_externo idExterno, v.casa, v.data, v.descricao,
+            v.aprovacao, v.natureza, v.fonte_url fonte,
+            -- A matéria não tem coluna pronta: monta-se do tipo, número e ano,
+            -- que é como a Casa a nomeia — "PL 4591/2012".
+            CASE WHEN pr.sigla_tipo IS NOT NULL
+                 THEN pr.sigla_tipo || ' ' || COALESCE(pr.numero, '') ||
+                      COALESCE('/' || pr.ano, '')
+            END proposicao,
+            pr.ementa,
+            v.total_sim totalSim, v.total_nao totalNao
+     FROM votacao v
+     LEFT JOIN proposicao pr ON pr.id = v.proposicao_id
+     WHERE v.secreta = 0
+       AND ((v.casa = 'camara' AND v.nominal = 1) OR v.casa = 'senado')
+     ORDER BY v.data DESC, v.id_externo`,
+  );
+
+interface VotoNaChamada {
+  nome: string;
+  sigla: string | null;
+  voto: string;
+  original: string | null;
+}
+
+const chamadaDe = (votacaoId: number) =>
+  todos<VotoNaChamada>(
+    `SELECT p.nome_parlamentar nome, pt.sigla, vt.voto, vt.tipo_voto_original original
+     FROM voto vt
+     JOIN politico p ON p.id = vt.politico_id AND p.perfil_completo = 1
+     LEFT JOIN filiacao f ON f.politico_id = p.id AND f.data_fim IS NULL
+     LEFT JOIN partido pt ON pt.id = f.partido_id
+     WHERE vt.votacao_id = ?
+     ORDER BY COALESCE(pt.sigla, 'zzz'), p.nome_parlamentar`,
+    votacaoId,
+  );
+
+const orientacaoGoverno = (votacaoId: number) =>
+  um<{ orientacao: string | null; liberado: number } | undefined>(
+    `SELECT orientacao, liberado FROM orientacao
+     WHERE votacao_id = ? AND sigla_bruta = 'Governo'`,
+    votacaoId,
+  );
+
+const temasDaVotacao = (votacaoId: number) =>
+  todos<{ nome: string }>(
+    `SELECT DISTINCT t.nome FROM votacao v
+     JOIN proposicao_tema pt ON pt.proposicao_id = v.proposicao_id
+     JOIN tema t ON t.id = pt.tema_id
+     WHERE v.id = ? ORDER BY t.nome`,
+    votacaoId,
+  );
+
+/** `2613731-65` → caminho. Identificador oficial, não slug inventado. */
+const caminhoVotacao = (idExterno: string) => `votacoes/${idExterno}`;
+
+/** Preenchido antes da escrita; ver o porquê em `gerarVotacao`. */
+const TEMAS_COM_PAGINA = new Set<string>();
+
+const NATUREZA_ROTULO: Record<string, string> = {
+  merito: "mérito da matéria",
+  procedimental: "requerimento — urgência, pauta, adiamento",
+  formal: "ato formal — redação final",
+};
+
+function gerarVotacao(v: VotacaoPagina): string {
+  const chamada = chamadaDe(v.id);
+  const gov = v.casa === "camara" ? orientacaoGoverno(v.id) : undefined;
+  const temas = v.casa === "camara" ? temasDaVotacao(v.id) : [];
+  const secao = v.casa === "camara" ? "parlamentares" : "senadores";
+  const recorte = v.casa === "camara" ? "bancada gaúcha na Câmara" : "senadores gaúchos";
+
+  const { texto, placar } = partirDescricao(v.descricao);
+
+  /**
+   * A matéria vai para o título quando existe.
+   *
+   * **43% das votações** (533 de 1.242) têm descrição como "Mantido o texto."
+   * ou "Rejeitado o Requerimento." — o ato votado, não o assunto. Um título
+   * assim é inútil para quem chega por link ou por busca, que é justamente
+   * quem esta página existe para atender. Todas as 533 têm matéria vinculada.
+   *
+   * A mesma matéria é votada várias vezes, então a data e o ato ficam no
+   * subtítulo: sem eles, duas páginas teriam o mesmo nome.
+   */
+  const ato = umaLinha(texto);
+  const titulo = v.proposicao ? `${v.proposicao} — ${ato}` : ato;
+
+  let md = frontMatter(
+    `${titulo.slice(0, 80)} (${v.data})`,
+    `Como ${v.casa === "camara" ? "a bancada gaúcha" : "os senadores gaúchos"} votou em ${v.data}: ${umaLinha(v.descricao).slice(0, 110)}`,
+    "votacao",
+  );
+
+  md += `# ${esc(v.proposicao ?? `Votação de ${v.data}`)}\n\n`;
+  md += `<p class="subtitulo"><b>${esc(v.data)}</b> · ${esc(ato)}</p>\n\n`;
+
+  md += `| | |\n|---|---|\n`;
+  md += `| Casa | ${v.casa === "camara" ? "Câmara dos Deputados" : "Senado Federal"} |\n`;
+  md += `| Identificador oficial | \`${esc(v.idExterno)}\` |\n`;
+  if (placar) md += `| Placar | ${esc(placar)} |\n`;
+  if (v.aprovacao != null) md += `| Resultado | ${v.aprovacao ? "aprovada" : "rejeitada"} |\n`;
+  if (v.proposicao) md += `| Matéria | ${esc(v.proposicao)} |\n`;
+  if (v.natureza) md += `| Natureza | ${NATUREZA_ROTULO[v.natureza] ?? v.natureza} |\n`;
+  if (temas.length) {
+    // Só vira link o tema que tem página. O site publica página para os temas
+    // com votação suficiente para sustentar um recorte (30 nominais de mérito);
+    // os outros 20 da classificação oficial existem no acervo e não têm página,
+    // e linkar para elas daria 404 em 642 lugares — foi o que aconteceu antes
+    // desta verificação. Sem página, o nome fica como texto: a classificação é
+    // da fonte e continua exibida, só não leva a lugar nenhum.
+    md += `| Temas da matéria | ${temas
+      .map((t) => (TEMAS_COM_PAGINA.has(t.nome) ? `[${t.nome}](../../temas/${slug(t.nome)}/)` : esc(t.nome)))
+      .join(" · ")} |\n`;
+  }
+  if (gov) {
+    md += `| Orientação do Governo | ${gov.liberado ? "**bancada liberada**" : `**${esc(gov.orientacao ?? "—")}**`} |\n`;
+  }
+  md += `{: .t-docs}\n\n`;
+
+  md += `<a class="fonte" href="${esc(v.fonte)}">Ver o registro na fonte oficial</a>\n\n`;
+
+  if (v.ementa) {
+    // A descrição diz o que foi votado naquele instante ("Mantido o texto");
+    // a ementa diz do que a matéria trata. São coisas diferentes, e quem chega
+    // pelo nome de um projeto no jornal procura a segunda.
+    md += `### A matéria\n\n`;
+    md += `> ${esc(umaLinha(v.ementa))}\n\n`;
+    md += `Ementa como a Casa a publica, sem edição. Ela descreve **a matéria**,\n`;
+    md += `não o ato específico votado nesta sessão — que está no alto da página.\n\n`;
+  }
+
+  md += `## Como votou a ${recorte}\n\n`;
+  if (!chamada.length) {
+    md += `Nenhum parlamentar do recorte tem voto registrado nesta votação.\n\n`;
+    return md;
+  }
+
+  md += `| Parlamentar | Partido | Voto | Registro na origem |\n|---|---|---|---|\n`;
+  for (const c of chamada) {
+    md += `| [${c.nome}](../../${secao}/${slug(c.nome)}/) `;
+    md += `| <span class="sigla">${esc(c.sigla ?? "—")}</span> `;
+    md += `| <b>${esc(c.voto)}</b> `;
+    md += `| ${esc(c.original ?? "—")} |\n`;
+  }
+  md += `{: .t-chamada}\n\n`;
+
+  md += `> **Esta é a chamada do recorte, não da Casa.** São os\n`;
+  md += `> ${chamada.length} parlamentares do Rio Grande do Sul com voto\n`;
+  md += `> registrado aqui; o placar acima é o do plenário inteiro. E a coesão\n`;
+  md += `> partidária exibida nos perfis é medida contra a **bancada nacional**\n`;
+  md += `> de cada partido, não contra a delegação gaúcha — ver a\n`;
+  md += `> [metodologia](../../metodologia/).\n\n`;
+
+  md += `A coluna da direita traz o código como a origem o publicou, ao lado do\n`;
+  md += `valor normalizado. Onde os dois diferem, o normalizado é tradução\n`;
+  md += `nossa e o original é o que a Casa registrou.\n`;
+
+  return md;
+}
+
+function gerarIndiceVotacoes(
+  todasAsVotacoes: VotacaoPagina[],
+  ano: string | null,
+): string {
+  const anos = [...new Set(todasAsVotacoes.map((v) => v.data.slice(0, 4)))].sort().reverse();
+  const lista = ano ? todasAsVotacoes.filter((v) => v.data.startsWith(ano)) : [];
+
+  let md = frontMatter(
+    ano ? `Votações de ${ano}` : "Votações",
+    ano
+      ? `As ${lista.length} votações de ${ano} com voto individual recuperável, e como a bancada gaúcha votou em cada uma.`
+      : "Cada votação da legislatura com voto individual recuperável, com a chamada nominal da bancada gaúcha.",
+    "indice",
+  );
+
+  md += ano ? `# Votações de ${ano}\n\n` : `# Votações\n\n`;
+  md += `<p class="subtitulo">`;
+  md += ano
+    ? `${lista.length} votações com voto individual recuperável.`
+    : `${todasAsVotacoes.length} votações da legislatura ${legislatura} em que o voto de cada parlamentar é recuperável na fonte.`;
+  md += `</p>\n\n`;
+
+  md += `<p class="anos">${ano ? "Outros anos" : "Por ano"}: `;
+  md += anos
+    .map((a) => (a === ano ? `<b>${a}</b>` : `<a href="${ano ? ".." : "."}/${a}/">${a}</a>`))
+    .join(" · ");
+  md += `</p>\n\n`;
+
+  if (!ano) {
+    md += `> **Só entram votações com chamada nominal.** Na Câmara, 82% do\n`;
+    md += `> plenário é simbólico — a origem registra o resultado, não quem votou\n`;
+    md += `> o quê. No Senado, 68% é secreto. Nessas não há chamada para publicar,\n`;
+    md += `> e uma página vazia afirmaria ausência de posição onde há ausência de\n`;
+    md += `> registro.\n\n`;
+    md += `Escolha um ano acima. Cada votação tem página própria, com quem votou o\n`;
+    md += `quê na bancada gaúcha e link para o registro na Casa.\n`;
+    return md;
+  }
+
+  md += `| Data | Votação | Casa | Chamada |\n|---|---|---|---|\n`;
+  for (const v of lista) {
+    const { texto } = partirDescricao(v.descricao);
+    md += `| ${esc(v.data)} `;
+    md += `| [${esc(umaLinha(texto).slice(0, 90))}](../${v.idExterno}/) `;
+    md += `| <span class="escopo">${v.casa === "camara" ? "Câmara" : "Senado"}</span> `;
+    md += `| ${v.aprovacao == null ? "—" : v.aprovacao ? "aprovada" : "rejeitada"} |\n`;
+  }
+  md += `{: .t-votacoes}\n\n`;
   return md;
 }
 
@@ -1634,6 +1882,7 @@ function gerarHome(temas: { id: number; nome: string }[]): string {
 
   md += `## Documentação técnica\n\n`;
   md += `| Documento | O que traz |\n|---|---|\n`;
+  md += `| [Votações](./votacoes/) | Cada votação com chamada nominal recuperável, e como a bancada gaúcha votou em cada uma |\n`;
   md += `| [Para jornalistas](./imprensa/) | Como citar, os dados em CSV, e as cinco maneiras de errar com estes números |\n`;
   md += `| [FONTES](./FONTES) | Reconhecimento das APIs oficiais: o que cada endpoint entrega e onde falha |\n`;
   md += `| [MODELO-DADOS](./MODELO-DADOS) | Por que o schema tem a forma que tem — as formas de mentir que ele bloqueia |\n`;
@@ -1901,6 +2150,8 @@ const temas = todos<{ id: number; nome: string }>(
   periodo.fim,
 );
 
+for (const t of temas) TEMAS_COM_PAGINA.add(t.nome);
+
 escreverMeta();
 
 escrever("", gerarHome(temas));
@@ -1908,6 +2159,13 @@ escrever("", gerarHome(temas));
 const busca = escreverFragmentosDeBusca();
 escrever("discursos", gerarBusca(busca));
 escrever("imprensa", gerarImprensa());
+
+const votacoes = votacoesApuraveis();
+escrever("votacoes", gerarIndiceVotacoes(votacoes, null));
+for (const ano of [...new Set(votacoes.map((v) => v.data.slice(0, 4)))]) {
+  escrever(`votacoes/${ano}`, gerarIndiceVotacoes(votacoes, ano));
+}
+for (const v of votacoes) escrever(caminhoVotacao(v.idExterno), gerarVotacao(v));
 
 escrever("parlamentares", gerarIndiceParlamentares());
 let paginasDeDiscurso = 0;
@@ -1953,6 +2211,7 @@ console.log(`site gerado em ${SAIDA}/`);
 console.log(`  ${parlamentares.length} deputados · ${senadores.length} senadores · ${temas.length} temas · 3 índices`);
 console.log(`  ${paginasDeDiscurso} páginas de discurso (uma por parlamentar e ano)`);
 console.log(`  ${paginasDeEvidencia} páginas de evidência (uma por parlamentar, eixo e escopo)`);
+console.log(`  ${votacoes.length} páginas de votação (chamada nominal do recorte)`);
 console.log(`  sitemap: ${urlsNoSitemap} URLs · robots.txt · base ${BASE_SITE}`);
 console.log(`  dados/posicoes.csv: ${linhasNoCsv} linhas`);
 console.log(`  busca: ${busca.anos.length} fragmentos, ${(busca.bytes / 1024 / 1024).toFixed(1)} MB antes do gzip`);
