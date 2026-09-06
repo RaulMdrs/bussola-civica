@@ -122,7 +122,8 @@ Declarar limite é parte do método. Nenhum destes é "ainda não fizemos":
 
 Dúvida sobre um número, pedido de recorte ou correção:
 [abra uma questão no repositório](https://github.com/RaulMdrs/bussola-civica/issues).
-Erro apontado com a votação específica é o mais rápido de verificar —
-e, se o erro for nosso, a correção entra no acervo e no registro público
-de defeitos.
+Erro apontado com a votação específica é o mais rápido de verificar.
+
+Se o erro for nosso, a correção entra no acervo e no registro público de
+defeitos — que fica no repositório, com a causa e o que foi feito.
 

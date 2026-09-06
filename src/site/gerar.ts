@@ -99,6 +99,18 @@ const barra = (v: number, n: number) =>
 const fonte = (url: string) =>
   `<a class="fonte" href="${esc(url)}">Ver votação na fonte oficial</a>`;
 
+/**
+ * Endereço de contato da página de imprensa.
+ *
+ * Vazio até existir uma caixa **dedicada ao projeto**. Publicar endereço
+ * pessoal numa página enviada a redações, a semanas de uma eleição, traz
+ * contato que não é só jornalista — e não dá para despublicar depois.
+ *
+ * Enquanto estiver vazio, a página oferece só o repositório e diz que é a via
+ * disponível. Preencher aqui é a única mudança necessária.
+ */
+const CONTATO = "";
+
 const ESCOPO_ROTULO: Record<string, string> = {
   merito: "Mérito",
   procedimental: "Procedimental",
@@ -1017,11 +1029,19 @@ function gerarImprensa(): string {
   md += `{: .t-docs}\n\n`;
 
   md += `## Contato\n\n`;
-  md += `Dúvida sobre um número, pedido de recorte ou correção:\n`;
-  md += `[abra uma questão no repositório](https://github.com/RaulMdrs/bussola-civica/issues).\n`;
-  md += `Erro apontado com a votação específica é o mais rápido de verificar —\n`;
-  md += `e, se o erro for nosso, a correção entra no acervo e no registro público\n`;
-  md += `de defeitos.\n\n`;
+  if (CONTATO) {
+    md += `Dúvida sobre um número, pedido de recorte, correção ou entrevista:\n`;
+    md += `**[${esc(CONTATO)}](mailto:${esc(CONTATO)})**.\n\n`;
+    md += `Erro apontado com a votação específica é o mais rápido de verificar.\n`;
+    md += `Também dá para [abrir uma questão no repositório](https://github.com/RaulMdrs/bussola-civica/issues),\n`;
+    md += `que deixa a conversa pública.\n\n`;
+  } else {
+    md += `Dúvida sobre um número, pedido de recorte ou correção:\n`;
+    md += `[abra uma questão no repositório](https://github.com/RaulMdrs/bussola-civica/issues).\n`;
+    md += `Erro apontado com a votação específica é o mais rápido de verificar.\n\n`;
+  }
+  md += `Se o erro for nosso, a correção entra no acervo e no registro público de\n`;
+  md += `defeitos — que fica no repositório, com a causa e o que foi feito.\n\n`;
 
   return md;
 }
