@@ -18,7 +18,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 
 ## Substantivos — 58
 
-<blockquote class="evidencia discurso" id="d-5980">
+<blockquote class="evidencia discurso" id="d-11815">
 <span class="data">2024-12-20</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5988">
+<blockquote class="evidencia discurso" id="d-11823">
 <span class="data">2024-12-19</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5987">
+<blockquote class="evidencia discurso" id="d-11822">
 <span class="data">2024-12-19</span>
 <div class="corpo">
 <p class="tipo">Pela Liderança</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5986">
+<blockquote class="evidencia discurso" id="d-11821">
 <span class="data">2024-12-19</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5985">
+<blockquote class="evidencia discurso" id="d-11820">
 <span class="data">2024-12-19</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5984">
+<blockquote class="evidencia discurso" id="d-11819">
 <span class="data">2024-12-19</span>
 <div class="corpo">
 <p class="tipo">Encaminhamento</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5983">
+<blockquote class="evidencia discurso" id="d-11818">
 <span class="data">2024-12-19</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5982">
+<blockquote class="evidencia discurso" id="d-11817">
 <span class="data">2024-12-19</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5981">
+<blockquote class="evidencia discurso" id="d-11816">
 <span class="data">2024-12-19</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5990">
+<blockquote class="evidencia discurso" id="d-11825">
 <span class="data">2024-12-18</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5989">
+<blockquote class="evidencia discurso" id="d-11824">
 <span class="data">2024-12-18</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5993">
+<blockquote class="evidencia discurso" id="d-11828">
 <span class="data">2024-12-17</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5992">
+<blockquote class="evidencia discurso" id="d-11827">
 <span class="data">2024-12-17</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5991">
+<blockquote class="evidencia discurso" id="d-11826">
 <span class="data">2024-12-17</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5996">
+<blockquote class="evidencia discurso" id="d-11831">
 <span class="data">2024-12-12</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5995">
+<blockquote class="evidencia discurso" id="d-11830">
 <span class="data">2024-12-12</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5994">
+<blockquote class="evidencia discurso" id="d-11829">
 <span class="data">2024-12-12</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5998">
+<blockquote class="evidencia discurso" id="d-11833">
 <span class="data">2024-11-27</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5997">
+<blockquote class="evidencia discurso" id="d-11832">
 <span class="data">2024-11-27</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5999">
+<blockquote class="evidencia discurso" id="d-11834">
 <span class="data">2024-11-26</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6000">
+<blockquote class="evidencia discurso" id="d-11835">
 <span class="data">2024-11-19</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6002">
+<blockquote class="evidencia discurso" id="d-11837">
 <span class="data">2024-11-18</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6001">
+<blockquote class="evidencia discurso" id="d-11836">
 <span class="data">2024-11-18</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6003">
+<blockquote class="evidencia discurso" id="d-11838">
 <span class="data">2024-09-25</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6004">
+<blockquote class="evidencia discurso" id="d-11839">
 <span class="data">2024-09-10</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6005">
+<blockquote class="evidencia discurso" id="d-11840">
 <span class="data">2024-09-04</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6008">
+<blockquote class="evidencia discurso" id="d-11843">
 <span class="data">2024-09-02</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6007">
+<blockquote class="evidencia discurso" id="d-11842">
 <span class="data">2024-09-02</span>
 <div class="corpo">
 <p class="tipo">Discurso proferido da Presidência</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6006">
+<blockquote class="evidencia discurso" id="d-11841">
 <span class="data">2024-09-02</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6011">
+<blockquote class="evidencia discurso" id="d-11846">
 <span class="data">2024-08-20</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6010">
+<blockquote class="evidencia discurso" id="d-11845">
 <span class="data">2024-08-20</span>
 <div class="corpo">
 <p class="tipo">Pela Liderança</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6009">
+<blockquote class="evidencia discurso" id="d-11844">
 <span class="data">2024-08-20</span>
 <div class="corpo">
 <p class="tipo">Pela Liderança</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6014">
+<blockquote class="evidencia discurso" id="d-11849">
 <span class="data">2024-08-19</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6013">
+<blockquote class="evidencia discurso" id="d-11848">
 <span class="data">2024-08-19</span>
 <div class="corpo">
 <p class="tipo">Discurso proferido da Presidência</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6012">
+<blockquote class="evidencia discurso" id="d-11847">
 <span class="data">2024-08-19</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6015">
+<blockquote class="evidencia discurso" id="d-11850">
 <span class="data">2024-07-17</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6016">
+<blockquote class="evidencia discurso" id="d-11851">
 <span class="data">2024-07-03</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -351,7 +351,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6017">
+<blockquote class="evidencia discurso" id="d-11852">
 <span class="data">2024-06-26</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -360,7 +360,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6018">
+<blockquote class="evidencia discurso" id="d-11853">
 <span class="data">2024-06-18</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -369,7 +369,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6019">
+<blockquote class="evidencia discurso" id="d-11854">
 <span class="data">2024-06-12</span>
 <div class="corpo">
 <p class="tipo">Como Relator - Para proferir parecer</p>
@@ -378,7 +378,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6020">
+<blockquote class="evidencia discurso" id="d-11855">
 <span class="data">2024-06-05</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -387,7 +387,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6021">
+<blockquote class="evidencia discurso" id="d-11856">
 <span class="data">2024-06-04</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -396,7 +396,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6022">
+<blockquote class="evidencia discurso" id="d-11857">
 <span class="data">2024-05-27</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -405,7 +405,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6024">
+<blockquote class="evidencia discurso" id="d-11859">
 <span class="data">2024-05-15</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -414,7 +414,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6023">
+<blockquote class="evidencia discurso" id="d-11858">
 <span class="data">2024-05-15</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -423,7 +423,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6025">
+<blockquote class="evidencia discurso" id="d-11860">
 <span class="data">2024-04-18</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -432,7 +432,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6026">
+<blockquote class="evidencia discurso" id="d-11861">
 <span class="data">2024-04-17</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -441,7 +441,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6027">
+<blockquote class="evidencia discurso" id="d-11862">
 <span class="data">2024-04-10</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -450,7 +450,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6028">
+<blockquote class="evidencia discurso" id="d-11863">
 <span class="data">2024-04-09</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -459,7 +459,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6029">
+<blockquote class="evidencia discurso" id="d-11864">
 <span class="data">2024-03-13</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -468,7 +468,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6030">
+<blockquote class="evidencia discurso" id="d-11865">
 <span class="data">2024-03-07</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -477,7 +477,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6031">
+<blockquote class="evidencia discurso" id="d-11866">
 <span class="data">2024-03-05</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -486,7 +486,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6033">
+<blockquote class="evidencia discurso" id="d-11868">
 <span class="data">2024-02-20</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -495,7 +495,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6032">
+<blockquote class="evidencia discurso" id="d-11867">
 <span class="data">2024-02-20</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -504,7 +504,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6034">
+<blockquote class="evidencia discurso" id="d-11869">
 <span class="data">2024-02-08</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -513,7 +513,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6036">
+<blockquote class="evidencia discurso" id="d-11871">
 <span class="data">2024-02-07</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -522,7 +522,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6035">
+<blockquote class="evidencia discurso" id="d-11870">
 <span class="data">2024-02-07</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -531,7 +531,7 @@ description: "Os discursos de Hamilton Mourão em 2024, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6037">
+<blockquote class="evidencia discurso" id="d-11872">
 <span class="data">2024-02-06</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>

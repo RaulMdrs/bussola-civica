@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Bohn Gass — Coesão com o próprio partido, Mérito"
-description: "A decomposição completa: todas as 523 votações que compõem o número de Bohn Gass, uma por linha, com link para a fonte."
+description: "A decomposição completa: todas as 524 votações que compõem o número de Bohn Gass, uma por linha, com link para a fonte."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa: todas as 523 votações que compõem o 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,9%</b> é <b>512</b> coincidências em
-<b>523</b> votações computáveis — as outras 11 estão
+<p><b>97,9%</b> é <b>513</b> coincidências em
+<b>524</b> votações computáveis — as outras 11 estão
 aqui também. Esta página não é amostra: é a decomposição completa do
 número, e some ou cresce junto com ele.</p>
 </div>
@@ -23,6 +23,7 @@ número, e some ou cresce junto com ele.</p>
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 2026-09-03 | Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 74, de 2026, adotada pelo relator da Comissão de Finanças e Tributação. Sim: 346; Não: 46; Abstenção: 3; Total: 395. | Maioria do partido: sim (51 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2611313-31](https://dadosabertos.camara.leg.br/api/v2/votacoes/2611313-31) |
 | 2026-08-12 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. Sim: 333; Não: 91; Total: 424. | Maioria do partido: nao (12 sim / 40 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2580259-24](https://dadosabertos.camara.leg.br/api/v2/votacoes/2580259-24) |
 | 2026-08-12 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 80, de 2026, adotado pelo relator da Comissão de Finanças e Tributação. Sim: 327; Não: 26; Total: 353. | Maioria do partido: sim (41 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2611992-24](https://dadosabertos.camara.leg.br/api/v2/votacoes/2611992-24) |
 | 2026-08-12 | Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. Sim: 318; Não: 113; Abstenção: 1; Total: 432. | Maioria do partido: sim (55 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2618177-71](https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-71) |

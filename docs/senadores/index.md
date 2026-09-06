@@ -11,8 +11,8 @@ description: "Os 3 senadores gaúchos: coesão partidária a partir das votaçõ
 
 <div class="interrompe">
 <h4>Não compare estes números com os dos deputados</h4>
-<p>O Senado tem outro universo: <b>116 votações abertas</b> no
-período, contra 1.124 nominais da Câmara, porque
+<p>O Senado tem outro universo: <b>117 votações abertas</b> no
+período, contra 1.125 nominais da Câmara, porque
 <b>67% das votações do Senado são secretas</b> — nelas a origem
 confirma que o senador votou, não como.</p>
 </div>
@@ -26,7 +26,7 @@ por conta própria, que é o que este projeto não faz. Aqui existe um eixo só.
 
 | Senador | Partido | Coesão partidária | Votações (n) |
 |---|---|---:|---:|
-| [Hamilton Mourão](hamilton-mourao/) | <span class="sigla">REPUBLICANOS</span> | <span class="valor">85,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>104</b></span> |
-| [Luis Carlos Heinze](luis-carlos-heinze/) | <span class="sigla">PP</span> | <span class="valor">87,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>79</b></span> |
-| [Paulo Paim](paulo-paim/) | <span class="sigla">PT</span> | <span class="valor">93,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>106</b></span> |
+| [Hamilton Mourão](hamilton-mourao/) | <span class="sigla">REPUBLICANOS</span> | <span class="valor">85,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>105</b></span> |
+| [Luis Carlos Heinze](luis-carlos-heinze/) | <span class="sigla">PP</span> | <span class="valor">87,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>80</b></span> |
+| [Paulo Paim](paulo-paim/) | <span class="sigla">PT</span> | <span class="valor">93,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>107</b></span> |
 {: .t-senado}

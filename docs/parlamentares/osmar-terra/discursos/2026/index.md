@@ -18,7 +18,7 @@ description: "Os discursos de Osmar Terra em 2026, com o sumário oficial e link
 
 ## Substantivos — 10
 
-<blockquote class="evidencia discurso" id="d-5520">
+<blockquote class="evidencia discurso" id="d-5508">
 <span class="data">2026-07-07 · 16:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Osmar Terra em 2026, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5519">
+<blockquote class="evidencia discurso" id="d-5507">
 <span class="data">2026-06-17 · 17:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Osmar Terra em 2026, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5518">
+<blockquote class="evidencia discurso" id="d-5506">
 <span class="data">2026-06-02 · 17:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Osmar Terra em 2026, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5517">
+<blockquote class="evidencia discurso" id="d-5505">
 <span class="data">2026-05-19 · 19:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Osmar Terra em 2026, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5515">
+<blockquote class="evidencia discurso" id="d-5503">
 <span class="data">2026-03-24 · 18:56</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Osmar Terra em 2026, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5513">
+<blockquote class="evidencia discurso" id="d-5501">
 <span class="data">2026-03-24 · 16:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Osmar Terra em 2026, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5512">
+<blockquote class="evidencia discurso" id="d-5500">
 <span class="data">2026-03-18 · 15:44</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Osmar Terra em 2026, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5511">
+<blockquote class="evidencia discurso" id="d-5499">
 <span class="data">2026-03-10 · 15:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Osmar Terra em 2026, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5507">
+<blockquote class="evidencia discurso" id="d-5495">
 <span class="data">2026-02-24 · 19:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Osmar Terra em 2026, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5506">
+<blockquote class="evidencia discurso" id="d-5494">
 <span class="data">2026-02-03 · 18:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -119,7 +119,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-5516">
+<blockquote class="evidencia discurso" id="d-5504">
 <span class="data">2026-04-28 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -128,7 +128,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5514">
+<blockquote class="evidencia discurso" id="d-5502">
 <span class="data">2026-03-24 · 17:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -137,7 +137,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5510">
+<blockquote class="evidencia discurso" id="d-5498">
 <span class="data">2026-03-02 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -146,7 +146,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5509">
+<blockquote class="evidencia discurso" id="d-5497">
 <span class="data">2026-03-02 · 19:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -155,7 +155,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5508">
+<blockquote class="evidencia discurso" id="d-5496">
 <span class="data">2026-03-02 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

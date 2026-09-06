@@ -27,8 +27,8 @@ suficiente para sustentar um recorte.
 
 Os **3 senadores gaúchos**, com coesão partidária apurada
 sobre as votações abertas. O universo do Senado é outro —
-**116 votações abertas** contra
-1.124 nominais da Câmara — e lá existe **um eixo
+**117 votações abertas** contra
+1.125 nominais da Câmara — e lá existe **um eixo
 só**: não há orientação de bancada em dados abertos, então o alinhamento com
 o governo não é calculável.
 

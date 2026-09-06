@@ -18,7 +18,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 
 ## Substantivos — 42
 
-<blockquote class="evidencia discurso" id="d-5940">
+<blockquote class="evidencia discurso" id="d-11775">
 <span class="data">2023-12-20</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5939">
+<blockquote class="evidencia discurso" id="d-11774">
 <span class="data">2023-12-20</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5938">
+<blockquote class="evidencia discurso" id="d-11773">
 <span class="data">2023-12-20</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5941">
+<blockquote class="evidencia discurso" id="d-11776">
 <span class="data">2023-12-19</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5942">
+<blockquote class="evidencia discurso" id="d-11777">
 <span class="data">2023-12-18</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5945">
+<blockquote class="evidencia discurso" id="d-11780">
 <span class="data">2023-12-12</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5944">
+<blockquote class="evidencia discurso" id="d-11779">
 <span class="data">2023-12-12</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5943">
+<blockquote class="evidencia discurso" id="d-11778">
 <span class="data">2023-12-12</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5946">
+<blockquote class="evidencia discurso" id="d-11781">
 <span class="data">2023-12-04</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5947">
+<blockquote class="evidencia discurso" id="d-11782">
 <span class="data">2023-11-21</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5948">
+<blockquote class="evidencia discurso" id="d-11783">
 <span class="data">2023-11-08</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5949">
+<blockquote class="evidencia discurso" id="d-11784">
 <span class="data">2023-11-01</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5950">
+<blockquote class="evidencia discurso" id="d-11785">
 <span class="data">2023-10-31</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5951">
+<blockquote class="evidencia discurso" id="d-11786">
 <span class="data">2023-10-26</span>
 <div class="corpo">
 <p class="tipo">Interpelação a convidado</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5952">
+<blockquote class="evidencia discurso" id="d-11787">
 <span class="data">2023-10-16</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5953">
+<blockquote class="evidencia discurso" id="d-11788">
 <span class="data">2023-10-04</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5954">
+<blockquote class="evidencia discurso" id="d-11789">
 <span class="data">2023-09-26</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5955">
+<blockquote class="evidencia discurso" id="d-11790">
 <span class="data">2023-09-13</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5956">
+<blockquote class="evidencia discurso" id="d-11791">
 <span class="data">2023-09-05</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5958">
+<blockquote class="evidencia discurso" id="d-11793">
 <span class="data">2023-08-30</span>
 <div class="corpo">
 <p class="tipo">Encaminhamento</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5957">
+<blockquote class="evidencia discurso" id="d-11792">
 <span class="data">2023-08-30</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5959">
+<blockquote class="evidencia discurso" id="d-11794">
 <span class="data">2023-08-29</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5960">
+<blockquote class="evidencia discurso" id="d-11795">
 <span class="data">2023-08-18</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5961">
+<blockquote class="evidencia discurso" id="d-11796">
 <span class="data">2023-07-12</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5964">
+<blockquote class="evidencia discurso" id="d-11799">
 <span class="data">2023-07-05</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5963">
+<blockquote class="evidencia discurso" id="d-11798">
 <span class="data">2023-07-05</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5962">
+<blockquote class="evidencia discurso" id="d-11797">
 <span class="data">2023-07-05</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5965">
+<blockquote class="evidencia discurso" id="d-11800">
 <span class="data">2023-06-20</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5966">
+<blockquote class="evidencia discurso" id="d-11801">
 <span class="data">2023-06-14</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5968">
+<blockquote class="evidencia discurso" id="d-11803">
 <span class="data">2023-06-06</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5967">
+<blockquote class="evidencia discurso" id="d-11802">
 <span class="data">2023-06-06</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5969">
+<blockquote class="evidencia discurso" id="d-11804">
 <span class="data">2023-06-05</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5971">
+<blockquote class="evidencia discurso" id="d-11806">
 <span class="data">2023-06-01</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5970">
+<blockquote class="evidencia discurso" id="d-11805">
 <span class="data">2023-06-01</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5972">
+<blockquote class="evidencia discurso" id="d-11807">
 <span class="data">2023-05-23</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5973">
+<blockquote class="evidencia discurso" id="d-11808">
 <span class="data">2023-05-17</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5974">
+<blockquote class="evidencia discurso" id="d-11809">
 <span class="data">2023-04-19</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -351,7 +351,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5975">
+<blockquote class="evidencia discurso" id="d-11810">
 <span class="data">2023-04-04</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -360,7 +360,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5976">
+<blockquote class="evidencia discurso" id="d-11811">
 <span class="data">2023-03-30</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -369,7 +369,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5977">
+<blockquote class="evidencia discurso" id="d-11812">
 <span class="data">2023-03-28</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -378,7 +378,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5978">
+<blockquote class="evidencia discurso" id="d-11813">
 <span class="data">2023-03-15</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -387,7 +387,7 @@ description: "Os discursos de Hamilton Mourão em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5979">
+<blockquote class="evidencia discurso" id="d-11814">
 <span class="data">2023-03-09</span>
 <div class="corpo">
 <p class="tipo">Encaminhamento</p>

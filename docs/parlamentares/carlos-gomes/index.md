@@ -18,9 +18,9 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">85,3%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">102 <span>votações computáveis</span></span><span class="n-detalhe">178 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">85,3%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">102 <span>votações computáveis</span></span><span class="n-detalhe">179 <span>votações no exercício</span></span> |
 | <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">74,8%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">119 <span>votações computáveis</span></span><span class="n-detalhe">185 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">97,6%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">126 <span>votações computáveis</span></span><span class="n-detalhe">178 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">97,6%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">126 <span>votações computáveis</span></span><span class="n-detalhe">179 <span>votações no exercício</span></span> |
 | <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">96,6%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">146 <span>votações computáveis</span></span><span class="n-detalhe">185 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
@@ -145,7 +145,7 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-2510">
+<blockquote class="evidencia discurso" id="d-2505">
 <span class="data">2026-07-08 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -154,7 +154,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2509">
+<blockquote class="evidencia discurso" id="d-2504">
 <span class="data">2026-07-08 · 18:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -163,7 +163,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2508">
+<blockquote class="evidencia discurso" id="d-2503">
 <span class="data">2026-07-08 · 16:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -172,7 +172,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2507">
+<blockquote class="evidencia discurso" id="d-2502">
 <span class="data">2026-03-17 · 15:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -181,7 +181,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2506">
+<blockquote class="evidencia discurso" id="d-2501">
 <span class="data">2025-05-27 · 11:56</span>
 <div class="corpo">
 <p class="tipo">HOMENAGEM</p>

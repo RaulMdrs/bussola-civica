@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Motta — Coesão com o próprio partido, Mérito"
-description: "A decomposição completa: todas as 484 votações que compõem o número de Afonso Motta, uma por linha, com link para a fonte."
+description: "A decomposição completa: todas as 485 votações que compõem o número de Afonso Motta, uma por linha, com link para a fonte."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa: todas as 484 votações que compõem o 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>91,9%</b> é <b>445</b> coincidências em
-<b>484</b> votações computáveis — as outras 39 estão
+<p><b>92,0%</b> é <b>446</b> coincidências em
+<b>485</b> votações computáveis — as outras 39 estão
 aqui também. Esta página não é amostra: é a decomposição completa do
 número, e some ou cresce junto com ele.</p>
 </div>
@@ -23,6 +23,7 @@ número, e some ou cresce junto com ele.</p>
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 2026-09-03 | Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 74, de 2026, adotada pelo relator da Comissão de Finanças e Tributação. Sim: 346; Não: 46; Abstenção: 3; Total: 395. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2611313-31](https://dadosabertos.camara.leg.br/api/v2/votacoes/2611313-31) |
 | 2026-08-12 | Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. Sim: 318; Não: 113; Abstenção: 1; Total: 432. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2618177-71](https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-71) |
 | 2026-07-07 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 41, de 2026, adotado pela relatora da Comissão de Defesa dos Direitos da Mulher. Sim: 470; Não: 1; Total: 471. | Maioria do partido: sim (9 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2606313-36](https://dadosabertos.camara.leg.br/api/v2/votacoes/2606313-36) |
 | 2026-06-17 | Aprovado o Substitutivo ao Projeto de Lei nº 4.133, de 2023, adotado pelo relator da Comissão de Ciência, Tecnologia e Inovação. Sim: 308; Não: 129; Abstenção: 1; Total: 438. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2382675-97](https://dadosabertos.camara.leg.br/api/v2/votacoes/2382675-97) |

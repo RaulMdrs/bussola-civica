@@ -18,9 +18,9 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">29,5%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">390 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">29,7%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">391 <span>votações computáveis</span></span><span class="n-detalhe">578 <span>votações no exercício</span></span> |
 | <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">15,6%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">326 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">93,5%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">504 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">93,5%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">505 <span>votações computáveis</span></span><span class="n-detalhe">578 <span>votações no exercício</span></span> |
 | <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">89,8%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">432 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
@@ -49,8 +49,8 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | <span class="valor">34,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>29</b></span> |
 | [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">32,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>31</b></span> |
 | [Economia](../../temas/economia/) | <span class="valor">29,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>64</b></span> |
-| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">28,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>185</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">24,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>121</b></span> |
+| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">29,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>186</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">24,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>122</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">20,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>50</b></span> |
 | [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">17,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>41</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">14,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>28</b></span> |
@@ -130,9 +130,9 @@ Acima é amostra, e diz que é. A decomposição completa — **todas** as
 votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
-- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 390 votações
+- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 391 votações
 - [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 326 votações
-- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 504 votações
+- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 505 votações
 - [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 432 votações
 
 ## O que disse em plenário
@@ -147,7 +147,7 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-4029">
+<blockquote class="evidencia discurso" id="d-4017">
 <span class="data">2026-07-15 · 16:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -156,7 +156,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4028">
+<blockquote class="evidencia discurso" id="d-4016">
 <span class="data">2026-07-08 · 18:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -165,7 +165,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4027">
+<blockquote class="evidencia discurso" id="d-4015">
 <span class="data">2026-06-09 · 15:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -174,7 +174,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4026">
+<blockquote class="evidencia discurso" id="d-4014">
 <span class="data">2026-05-19 · 15:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -183,7 +183,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4025">
+<blockquote class="evidencia discurso" id="d-4013">
 <span class="data">2026-05-05 · 17:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

@@ -38,6 +38,7 @@ repositório, onde é `FONTES.md` que existe — nas páginas publicadas é `/FO
 | 18 | Decomposição completa | 47.441 votações em 127 páginas — cada percentual do site vira link para a sua conta (§6.6) |
 | 19 | Discursos do Senado | etapa `senado` — 717 pronunciamentos, classificados **pela própria fonte** (§6.7) |
 | 20 | Atualização automatizada | `.github/workflows/acervo.yml` — 2×/semana, custo zero, valida antes de publicar. **Em produção desde 2026-08-25** (§6.8) |
+| 21 | Guarda contra retrocesso | O gerador se recusa a publicar acervo mais velho que o já publicado (§6.9) |
 
 Banco atual: **78 MB**. Câmara: 6.291 votações (1.117 nominais), 452.356 votos.
 Senado: 355 votações (116 abertas), 28.755 votos. 34 parlamentares com perfil
@@ -684,6 +685,48 @@ teria publicado um índice com 35 deputados para 31 cadeiras.
 É o argumento de fundo a favor da ordem escolhida: validar entre a coleta e o
 commit não é zelo, é o que separa "a rotina rodou" de "a rotina está certa".
 
+### 6.9 Guarda contra retrocesso do site
+
+Desde que a atualização virou automática existem **duas cópias do banco**: a da
+máquina e a do cache do Actions. Elas avançam sozinhas, e em 2026-09-02 a local
+estava 15 dias atrás da do CI.
+
+Gerar da máquina atrasada e commitar faria as 305 páginas **retrocederem, sem
+erro nenhum** — o gerador é determinístico sobre o banco que recebe, e o banco é
+que estava velho. Nenhuma validação existente pegaria: o acervo antigo é
+internamente coerente, os 5 invariantes passam, a decomposição fecha. Está tudo
+certo, só que atrasado.
+
+O `meta.yml` publicado é a prova de até quando o site já afirmou ter apurado. A
+guarda compara com o banco atual e **para antes do `rmSync`** — falhar depois de
+apagar as páginas trocaria um problema por outro.
+
+| Caso | O que acontece |
+|---|---|
+| Banco à frente | Passa. É o avanço normal |
+| Banco igual | Passa. Regenerar o mesmo estado é a propriedade determinística que a Action usa para não commitar ruído |
+| Banco atrás | **Aborta**, dizendo quantos dias retrocederia e qual comando resolve |
+| `meta.yml` ausente | Passa. Primeira geração, nada a comparar |
+| `meta.yml` sem o campo | **Aborta.** Formato mudou, a guarda parou de guardar — e isso não pode acontecer calado |
+| `BUSSOLA_PERMITIR_RETROCESSO=1` | Passa com aviso. Guarda que não pode ser desligada vira obstáculo no dia em que a resposta certa for retroceder |
+
+Exercitada contra o caso real, não simulado — o acervo local estava mesmo 15
+dias atrás:
+
+```
+Error: o acervo está atrás do site publicado — geração abortada.
+
+  site publicado apurado até  2026-09-03
+  este banco apura até        2026-08-19
+
+Gerar agora faria as páginas retrocederem 15 dia(s).
+```
+
+Verificado nos seis casos, incluindo que `docs/` fica **intacto** quando ela
+dispara (305 páginas no lugar) e que o determinismo se mantém depois dela.
+
+---
+
 ---
 
 ## 7. Números medidos — ingestor × reconhecimento
@@ -897,7 +940,7 @@ src/                                    7.497 linhas TypeScript
   ingest/incremental.ts 154 CLI da retomada automática, Câmara e Senado
   ingest/horizonte.ts 132   de onde continuar, por etapa — testável, sem rede
   calc/posicoes.ts    563   dois eixos + evidências, recorte por tema, regime por casa
-  site/gerar.ts      1331   gerador do site — 305 páginas, fragmentos de busca, guarda da decomposição
+  site/gerar.ts      1391   gerador do site — 305 páginas, busca, guarda da decomposição e do retrocesso
   relatorio.ts        414   verificação do acervo + invariantes
 drizzle/                    8 migrations
 
@@ -1010,9 +1053,9 @@ o que resta é forma, não cobertura nem confiabilidade.
 gera e commita sozinho (§6.8). Custo zero, sem modelo de linguagem envolvido.
 
 À mão continua funcionando, e é o que se roda para conferir antes de mexer em
-regra de cálculo. **Nesta ordem, e nunca só o último**: a máquina local pode
-estar semanas atrás do acervo do CI, e gerar a partir dela faz o site retroceder
-(item 2 abaixo).
+regra de cálculo. **Nesta ordem**: a máquina local pode estar semanas atrás do
+acervo do CI. Desde 2026-09-06 pular o primeiro comando não estraga mais nada —
+a guarda do §6.9 aborta a geração —, mas continua sendo trabalho perdido.
 
 ```bash
 npm run ingerir:incremental && npm run relatorio && npm run site
@@ -1041,20 +1084,10 @@ perde ao deixar de guardar o derivado. O que se perde é o diff legível de cada
 rebuild, que hoje é parte do registro auditável — e essa troca precisa ser
 decidida, não sofrida.
 
-**2. Dois acervos, e eles divergem.** Desde 2026-08-25 existem duas cópias do
-banco: a da máquina local e a do cache do Actions. Elas avançam
-independentemente, e em 2026-09-02 a local estava em `2026-08-19` enquanto a do
-CI já estava em `2026-08-31`.
-
-Isso é inofensivo para o acervo — as duas leem as mesmas fontes e convergem —,
-mas é uma armadilha para o **site**: rodar `npm run site` na máquina atrasada e
-commitar faz as 305 páginas **retrocederem**, sem erro nenhum. O gerador é
-determinístico sobre o banco que recebe, e o banco é que estava velho.
-
-Regra prática, até haver algo melhor: antes de gerar o site à mão, rodar
-`ingerir:incremental` primeiro — ou não gerar, e deixar a Action fazer. O
-comando de conferência (`relatorio`) é seguro em qualquer caso, porque não
-escreve em `docs/`.
+**2. ~~Dois acervos, e eles divergem.~~** ✅ **resolvido por guarda** em
+2026-09-06 (§6.9). O risco continua existindo — a máquina e o cache do CI
+avançam sozinhos —, mas deixou de ser silencioso: o gerador se recusa a
+publicar acervo mais velho que o já publicado.
 
 ### Bloqueado pela fonte, não por nós
 

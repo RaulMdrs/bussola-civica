@@ -18,9 +18,9 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">31,3%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">431 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">31,5%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">432 <span>votações computáveis</span></span><span class="n-detalhe">578 <span>votações no exercício</span></span> |
 | <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">20,7%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">377 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">82,7%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">550 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">82,8%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">551 <span>votações computáveis</span></span><span class="n-detalhe">578 <span>votações no exercício</span></span> |
 | <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">81,5%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">498 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
@@ -48,11 +48,11 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">42,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>19</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">39,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>33</b></span> |
 | [Economia](../../temas/economia/) | <span class="valor">34,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>69</b></span> |
-| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">32,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>203</b></span> |
+| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">32,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>204</b></span> |
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">29,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>24</b></span> |
 | [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">24,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>45</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">23,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>52</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">22,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>135</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">22,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>136</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">15,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>26</b></span> |
 {: .t-temas}
 
@@ -130,9 +130,9 @@ Acima é amostra, e diz que é. A decomposição completa — **todas** as
 votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
-- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 431 votações
+- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 432 votações
 - [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 377 votações
-- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 550 votações
+- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 551 votações
 - [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 498 votações
 
 ## O que disse em plenário
@@ -147,7 +147,7 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-4495">
+<blockquote class="evidencia discurso" id="d-4483">
 <span class="data">2026-06-09 · 15:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -156,7 +156,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4494">
+<blockquote class="evidencia discurso" id="d-4482">
 <span class="data">2026-04-30 · 14:48</span>
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
@@ -165,7 +165,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4493">
+<blockquote class="evidencia discurso" id="d-4481">
 <span class="data">2026-04-07 · 19:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -174,7 +174,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4491">
+<blockquote class="evidencia discurso" id="d-4479">
 <span class="data">2025-12-10 · 01:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -183,7 +183,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4489">
+<blockquote class="evidencia discurso" id="d-4477">
 <span class="data">2025-11-18 · 21:08</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>

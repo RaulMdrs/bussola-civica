@@ -18,9 +18,9 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">95,1%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">345 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">95,1%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">346 <span>votações computáveis</span></span><span class="n-detalhe">578 <span>votações no exercício</span></span> |
 | <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">97,9%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">285 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">96,7%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">430 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">96,8%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">431 <span>votações computáveis</span></span><span class="n-detalhe">578 <span>votações no exercício</span></span> |
 | <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">98,9%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">373 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
@@ -47,10 +47,10 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>14</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>18</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Economia](../../temas/economia/) | <span class="valor">97,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>48</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">97,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>115</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">97,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>116</b></span> |
 | [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">97,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>34</b></span> |
 | [Saúde](../../temas/saude/) | <span class="valor">95,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>24</b></span> |
-| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">95,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>159</b></span> |
+| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">95,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>160</b></span> |
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">94,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>19</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">94,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>35</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">92,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>25</b></span> |
@@ -130,9 +130,9 @@ Acima é amostra, e diz que é. A decomposição completa — **todas** as
 votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
-- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 345 votações
+- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 346 votações
 - [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 285 votações
-- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 430 votações
+- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 431 votações
 - [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 373 votações
 
 ## O que disse em plenário
@@ -147,34 +147,34 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-6626">
+<blockquote class="evidencia discurso" id="d-13187">
 <span class="data">2026-09-02 · 16:32</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
-<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<p>A Deputada encaminhou a votação do requerimento de urgência ao Projeto de Lei Complementar nº 74, de 2026, que dispõe sobre regras relativas a benefícios tributários e despesas obrigatórias no exercício de 2026. Em seguida, comemorou a aprovação, pela Comissão de Justiça do Senado, da Proposta de Emenda à Constituição (PEC) nº 221, de 2019, sobre o fim da escala 6 por 1, com redução da jornada semanal de 44 para 40 horas, sem redução salarial. Além disso, destacou os benefícios da medida para trabalhadores, especialmente mulheres, atribuiu ao Presidente Lula papel na articulação política e criticou o Senador Flávio Bolsonaro. Por fim, pediu ao Presidente Davi Alcolumbre que submetesse a matéria ao Plenário do Senado.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6625">
+<blockquote class="evidencia discurso" id="d-13186">
 <span class="data">2026-09-02 · 15:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
-<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<p>A Deputada registrou a aprovação do Projeto de Lei nº 241, de 2023, que altera o Decreto-Lei nº 667/1969, que reorganiza as Polícias Militares e os Corpos de Bombeiros Militares dos Estados, dos Territórios e do Distrito Federal, resgatando direitos previdenciários de policiais militares, com benefícios às mulheres. Por fim, defendeu a Proposta de Emenda à Constituição nº 31, de 2025, que altera os arts. 5º e 10 da Emenda Constitucional nº 103, de 2019, para reduzir a idade de aposentadoria da mulher ocupante de cargo de agente penitenciário, agente socioeducativo ou de policial dos órgãos referidos.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6624">
+<blockquote class="evidencia discurso" id="d-13185">
 <span class="data">2026-09-01 · 22:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
-<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<p>A Deputada orientou favoravelmente a bancada do Partido dos Trabalhadores (PT) na votação do Projeto de Lei nº 4.921, de 2026, de autoria do Tribunal Superior do Trabalho (TST), que amplia a composição do Tribunal Regional do Trabalho (TRT) da 18ª Região mediante a transformação de sete cargos vagos de Juiz do Trabalho Substituto em quatro cargos de Desembargador do Trabalho. Além disso, defendeu o Presidente Lula de críticas de Parlamentares bolsonaristas e afirmou que a declaração do Presidente foi retirada de contexto para atribuir a ele desrespeito a garis e a outros trabalhadores.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6623">
+<blockquote class="evidencia discurso" id="d-13184">
 <span class="data">2026-09-01 · 22:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -183,7 +183,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6622">
+<blockquote class="evidencia discurso" id="d-13183">
 <span class="data">2026-09-01 · 21:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>

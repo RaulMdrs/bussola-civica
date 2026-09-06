@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Hamilton Mourão — Coesão com o próprio partido, Todas as votações abertas"
-description: "A decomposição completa: todas as 104 votações que compõem o número de Hamilton Mourão, uma por linha, com link para a fonte."
+description: "A decomposição completa: todas as 105 votações que compõem o número de Hamilton Mourão, uma por linha, com link para a fonte."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa: todas as 104 votações que compõem o 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>85,6%</b> é <b>89</b> coincidências em
-<b>104</b> votações computáveis — as outras 15 estão
+<p><b>85,7%</b> é <b>90</b> coincidências em
+<b>105</b> votações computáveis — as outras 15 estão
 aqui também. Esta página não é amostra: é a decomposição completa do
 número, e some ou cresce junto com ele.</p>
 </div>
@@ -23,6 +23,7 @@ número, e some ou cresce junto com ele.</p>
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 2026-09-03 | Votação nominal do Projeto de Lei Complementar nº 74, de 2026, nos termos do parecer. | Maioria do partido: sim (4 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7105](https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=7105) |
 | 2026-08-12 | Votação nominal do Projeto de Lei Complementar nº 114, de 2026, nos termos do parecer, ressalvado o destaque. | Maioria do partido: sim (2 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7102](https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=7102) |
 | 2026-08-12 | Votação nominal do Art. 13 do Projeto de Lei Complementar nº 114, de 2026, destacado. | Maioria do partido: nao (0 sim / 3 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [7103](https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=7103) |
 | 2026-06-16 | Votação nominal do Projeto de Lei Complementar nº 73, de 2025, nos termos dos pareceres. | Maioria do partido: sim (4 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7095](https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=7095) |

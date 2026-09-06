@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcelo Moraes — Alinhamento com o governo federal, Mérito"
-description: "A decomposição completa: todas as 337 votações que compõem o número de Marcelo Moraes, uma por linha, com link para a fonte."
+description: "A decomposição completa: todas as 338 votações que compõem o número de Marcelo Moraes, uma por linha, com link para a fonte."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa: todas as 337 votações que compõem o 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>30,9%</b> é <b>104</b> coincidências em
-<b>337</b> votações computáveis — as outras 233 estão
+<p><b>31,1%</b> é <b>105</b> coincidências em
+<b>338</b> votações computáveis — as outras 233 estão
 aqui também. Esta página não é amostra: é a decomposição completa do
 número, e some ou cresce junto com ele.</p>
 </div>
@@ -23,6 +23,7 @@ número, e some ou cresce junto com ele.</p>
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 2026-09-03 | Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 74, de 2026, adotada pelo relator da Comissão de Finanças e Tributação. Sim: 346; Não: 46; Abstenção: 3; Total: 395. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2611313-31](https://dadosabertos.camara.leg.br/api/v2/votacoes/2611313-31) |
 | 2026-08-12 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. Sim: 333; Não: 91; Total: 424. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2580259-24](https://dadosabertos.camara.leg.br/api/v2/votacoes/2580259-24) |
 | 2026-08-12 | Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. Sim: 318; Não: 113; Abstenção: 1; Total: 432. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2618177-71](https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-71) |
 | 2026-08-12 | Rejeitadas as Emendas de Plenário. Sim: 108; Não: 275; Abstenção: 1; Total: 384. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2618177-73](https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-73) |

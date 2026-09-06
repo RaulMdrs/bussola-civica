@@ -11,8 +11,8 @@ description: "Como Luis Carlos Heinze vota no Senado: coesão com o próprio par
 
 <div class="interrompe">
 <h4>Não compare estes números com os dos deputados</h4>
-<p>O Senado tem outro universo: <b>116 votações abertas</b> no
-período, contra 1.124 nominais da Câmara, porque
+<p>O Senado tem outro universo: <b>117 votações abertas</b> no
+período, contra 1.125 nominais da Câmara, porque
 <b>67% das votações do Senado são secretas</b> — nelas a origem
 confirma que o senador votou, não como.</p>
 </div>
@@ -28,7 +28,7 @@ por conta própria, que é o que este projeto não faz. Aqui existe um eixo só.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Todas as votações abertas</span> | [<span class="valor">87,3%</span>](evidencia/coesao-partidaria-unico/) | <span class="n-detalhe">79 <span>votações computáveis</span></span><span class="n-detalhe">116 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Todas as votações abertas</span> | [<span class="valor">87,5%</span>](evidencia/coesao-partidaria-unico/) | <span class="n-detalhe">80 <span>votações computáveis</span></span><span class="n-detalhe">117 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
 Não há recorte entre mérito e procedimental aqui: a regra que separa os
@@ -69,7 +69,7 @@ As descrições são o texto original da fonte oficial.
 
 ### A conta inteira
 
-- [Coesão com o próprio partido, todas as votações abertas](evidencia/coesao-partidaria-unico/) — 79 votações,
+- [Coesão com o próprio partido, todas as votações abertas](evidencia/coesao-partidaria-unico/) — 80 votações,
   coincidências inclusive
 
 ## O que disse em plenário
@@ -82,7 +82,7 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-5931">
+<blockquote class="evidencia discurso" id="d-11766">
 <span class="data">2026-06-10</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -91,7 +91,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5932">
+<blockquote class="evidencia discurso" id="d-11767">
 <span class="data">2026-04-28</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -100,7 +100,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5933">
+<blockquote class="evidencia discurso" id="d-11768">
 <span class="data">2026-04-08</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -109,7 +109,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5934">
+<blockquote class="evidencia discurso" id="d-11769">
 <span class="data">2026-04-07</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -118,7 +118,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5935">
+<blockquote class="evidencia discurso" id="d-11770">
 <span class="data">2026-03-18</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Franciane Bayer — Alinhamento com o governo federal, Mérito"
-description: "A decomposição completa: todas as 395 votações que compõem o número de Franciane Bayer, uma por linha, com link para a fonte."
+description: "A decomposição completa: todas as 396 votações que compõem o número de Franciane Bayer, uma por linha, com link para a fonte."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa: todas as 395 votações que compõem o 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>57,7%</b> é <b>228</b> coincidências em
-<b>395</b> votações computáveis — as outras 167 estão
+<p><b>57,8%</b> é <b>229</b> coincidências em
+<b>396</b> votações computáveis — as outras 167 estão
 aqui também. Esta página não é amostra: é a decomposição completa do
 número, e some ou cresce junto com ele.</p>
 </div>
@@ -23,6 +23,7 @@ número, e some ou cresce junto com ele.</p>
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 2026-09-03 | Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 74, de 2026, adotada pelo relator da Comissão de Finanças e Tributação. Sim: 346; Não: 46; Abstenção: 3; Total: 395. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2611313-31](https://dadosabertos.camara.leg.br/api/v2/votacoes/2611313-31) |
 | 2026-08-12 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. Sim: 333; Não: 91; Total: 424. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2580259-24](https://dadosabertos.camara.leg.br/api/v2/votacoes/2580259-24) |
 | 2026-08-12 | Rejeitadas as Emendas de Plenário. Sim: 108; Não: 275; Abstenção: 1; Total: 384. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2618177-73](https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-73) |
 | 2026-08-12 | Rejeitada a Emenda de Plenário nº 1. Sim: 105; Não: 233; Total: 338. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2618177-82](https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-82) |

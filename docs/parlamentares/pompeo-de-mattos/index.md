@@ -18,9 +18,9 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">84,5%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">374 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">84,5%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">375 <span>votações computáveis</span></span><span class="n-detalhe">578 <span>votações no exercício</span></span> |
 | <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">85,0%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">334 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">89,4%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">462 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">89,4%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">463 <span>votações computáveis</span></span><span class="n-detalhe">578 <span>votações no exercício</span></span> |
 | <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">90,7%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">443 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
@@ -48,10 +48,10 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">93,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>16</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">93,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>16</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | <span class="valor">89,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>28</b></span> |
+| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">87,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>196</b></span> |
 | [Economia](../../temas/economia/) | <span class="valor">87,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>57</b></span> |
-| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">87,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>195</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">84,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>39</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">71,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>117</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">72,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>118</b></span> |
 | [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">59,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>32</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">52,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>25</b></span> |
 {: .t-temas}
@@ -130,9 +130,9 @@ Acima é amostra, e diz que é. A decomposição completa — **todas** as
 votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
-- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 374 votações
+- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 375 votações
 - [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 334 votações
-- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 462 votações
+- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 463 votações
 - [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 443 votações
 
 ## O que disse em plenário
@@ -147,7 +147,7 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-5404">
+<blockquote class="evidencia discurso" id="d-5392">
 <span class="data">2026-07-08 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -156,7 +156,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5403">
+<blockquote class="evidencia discurso" id="d-5391">
 <span class="data">2026-07-08 · 18:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -165,7 +165,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5402">
+<blockquote class="evidencia discurso" id="d-5390">
 <span class="data">2026-07-08 · 17:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -174,7 +174,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5401">
+<blockquote class="evidencia discurso" id="d-5389">
 <span class="data">2026-07-08 · 17:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -183,7 +183,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5400">
+<blockquote class="evidencia discurso" id="d-5388">
 <span class="data">2026-07-08 · 15:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

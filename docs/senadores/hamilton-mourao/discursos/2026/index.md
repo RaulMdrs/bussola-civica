@@ -7,7 +7,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Hamilton Mourão</a></b> · REPUBLICANOS · 19 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Hamilton Mourão</a></b> · REPUBLICANOS · 16 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
@@ -16,36 +16,9 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 > neste site: o link de cada discurso leva à página oficial do
 > **pronunciamento**, onde ele está publicado.
 
-## Substantivos — 19
+## Substantivos — 16
 
-<blockquote class="evidencia discurso" id="d-6065">
-<span class="data">2026-07-15</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 18, de 2021, que &quot;Altera a Lei Complementar nº 141, de 13 de janeiro de 2012, para permitir que o serviço de atendimento pré-hospitalar dos corpos de bombeiros militares dos Estados e do Distrito Federal perceba emendas parlamentares destinadas às ações e serviços públicos de saúde.&quot;</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523570">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-6064">
-<span class="data">2026-07-15</span>
-<div class="corpo">
-<p class="tipo">Orientação à bancada</p>
-<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o destaque para votação em separado constante do Requerimento nº 511, de 2026, (Requer, pela Liderança do Progressistas, destaque para votação em separado da Emenda nº 2 ao Projeto de Lei Complementar nº 18/2021.) ao Projeto de Lei Complementar (PLP) n° 18, de 2021, que &quot;Altera a Lei Complementar nº 141, de 13 de janeiro de 2012, para permitir que o serviço de atendimento pré-hospitalar dos corpos de bombeiros militares dos Estados e do Distrito Federal perceba emendas parlamentares destinadas às ações e serviços públicos de saúde.&quot;</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523584">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-6063">
-<span class="data">2026-07-15</span>
-<div class="corpo">
-<p class="tipo">Pela ordem</p>
-<p>Pela ordem sobre o Requerimento (RQS) n° 540, de 2026, que &quot;Requer urgência para o Substitutivo da Câmara dos Deputados ao Projeto de Lei nº 2.951/2024, nos termos dos arts. 336, III, e 338, III, do Regimento Interno do Senado Federal.&quot; Apelo para inclusão do requerimento em pauta.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523590">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-6066">
+<blockquote class="evidencia discurso" id="d-11898">
 <span class="data">2026-07-07</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -54,7 +27,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6067">
+<blockquote class="evidencia discurso" id="d-11899">
 <span class="data">2026-06-30</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -63,7 +36,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6069">
+<blockquote class="evidencia discurso" id="d-11901">
 <span class="data">2026-06-17</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -72,7 +45,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6068">
+<blockquote class="evidencia discurso" id="d-11900">
 <span class="data">2026-06-17</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -81,7 +54,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6071">
+<blockquote class="evidencia discurso" id="d-11903">
 <span class="data">2026-06-16</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -90,7 +63,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6070">
+<blockquote class="evidencia discurso" id="d-11902">
 <span class="data">2026-06-16</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -99,7 +72,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6072">
+<blockquote class="evidencia discurso" id="d-11904">
 <span class="data">2026-06-09</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -108,7 +81,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6073">
+<blockquote class="evidencia discurso" id="d-11905">
 <span class="data">2026-05-28</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -117,7 +90,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6074">
+<blockquote class="evidencia discurso" id="d-11906">
 <span class="data">2026-05-27</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -126,7 +99,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6075">
+<blockquote class="evidencia discurso" id="d-11907">
 <span class="data">2026-05-26</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -135,7 +108,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6076">
+<blockquote class="evidencia discurso" id="d-11908">
 <span class="data">2026-05-12</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -144,7 +117,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6078">
+<blockquote class="evidencia discurso" id="d-11910">
 <span class="data">2026-04-07</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -153,7 +126,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6077">
+<blockquote class="evidencia discurso" id="d-11909">
 <span class="data">2026-04-07</span>
 <div class="corpo">
 <p class="tipo">Discurso proferido da Presidência</p>
@@ -162,7 +135,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6079">
+<blockquote class="evidencia discurso" id="d-11911">
 <span class="data">2026-03-25</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -171,7 +144,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6080">
+<blockquote class="evidencia discurso" id="d-11912">
 <span class="data">2026-03-10</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -180,7 +153,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6081">
+<blockquote class="evidencia discurso" id="d-11913">
 <span class="data">2026-02-25</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>

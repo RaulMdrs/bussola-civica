@@ -18,9 +18,9 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">36,2%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">354 <span>votações computáveis</span></span><span class="n-detalhe">551 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">36,2%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">354 <span>votações computáveis</span></span><span class="n-detalhe">552 <span>votações no exercício</span></span> |
 | <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">31,9%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">288 <span>votações computáveis</span></span><span class="n-detalhe">511 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">57,3%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">429 <span>votações computáveis</span></span><span class="n-detalhe">551 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">57,3%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">429 <span>votações computáveis</span></span><span class="n-detalhe">552 <span>votações no exercício</span></span> |
 | <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">50,4%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">373 <span>votações computáveis</span></span><span class="n-detalhe">511 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
@@ -51,7 +51,7 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | <span class="valor">33,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>21</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">31,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>41</b></span> |
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">31,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>16</b></span> <span class="aviso-n">amostra pequena</span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">28,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>108</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">28,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>109</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">23,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>26</b></span> |
 | [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">20,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>35</b></span> |
 {: .t-temas}
@@ -145,7 +145,7 @@ fonte que o publicou.
 
 ### Os 1 mais recentes
 
-<blockquote class="evidencia discurso" id="d-2511">
+<blockquote class="evidencia discurso" id="d-2506">
 <span class="data">2024-05-07 · 18:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Maria do Rosário — Coesão com o próprio partido, Mérito"
-description: "A decomposição completa: todas as 430 votações que compõem o número de Maria do Rosário, uma por linha, com link para a fonte."
+description: "A decomposição completa: todas as 431 votações que compõem o número de Maria do Rosário, uma por linha, com link para a fonte."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa: todas as 430 votações que compõem o 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>96,7%</b> é <b>416</b> coincidências em
-<b>430</b> votações computáveis — as outras 14 estão
+<p><b>96,8%</b> é <b>417</b> coincidências em
+<b>431</b> votações computáveis — as outras 14 estão
 aqui também. Esta página não é amostra: é a decomposição completa do
 número, e some ou cresce junto com ele.</p>
 </div>
@@ -23,6 +23,7 @@ número, e some ou cresce junto com ele.</p>
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 2026-09-03 | Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 74, de 2026, adotada pelo relator da Comissão de Finanças e Tributação. Sim: 346; Não: 46; Abstenção: 3; Total: 395. | Maioria do partido: sim (51 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2611313-31](https://dadosabertos.camara.leg.br/api/v2/votacoes/2611313-31) |
 | 2026-08-12 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. Sim: 333; Não: 91; Total: 424. | Maioria do partido: nao (11 sim / 41 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2580259-24](https://dadosabertos.camara.leg.br/api/v2/votacoes/2580259-24) |
 | 2026-08-12 | Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. Sim: 318; Não: 113; Abstenção: 1; Total: 432. | Maioria do partido: sim (55 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2618177-71](https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-71) |
 | 2026-08-12 | Rejeitadas as Emendas de Plenário. Sim: 108; Não: 275; Abstenção: 1; Total: 384. | Maioria do partido: nao (0 sim / 48 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2618177-73](https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-73) |

@@ -18,16 +18,16 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário oficial e li
 
 ## Substantivos — 13
 
-<blockquote class="evidencia discurso" id="d-6612">
+<blockquote class="evidencia discurso" id="d-13173">
 <span class="data">2026-09-02 · 18:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
-<p>A Deputada reafirmou compromisso com o povo brasileiro e com a classe trabalhadora, ao defender que a luta transformou a vida e que a mobilização política havia sido decisiva para a vitória da Proposta de Emenda à Constituição nº 221, de 2019, que trata da redução da jornada de trabalho, na CCJC do Senado. Além disso, ressaltou a necessidade de construir políticas com e para as pessoas, com alternativas reais para problemas concretos, e destacou o orgulho pelo projeto que se tornou relatório, renovando a disposição de seguir na luta.</p>
+<p>A Deputada reafirmou compromisso com o povo brasileiro e com a classe trabalhadora, ao defender que a luta transformou a vida e que a mobilização política havia sido decisiva para a vitória da Proposta de Emenda à Constituição nº 221, de 2019, que trata da redução da jornada de trabalho (fim da escala 6 por 1), na Comissão de Constituição, Justiça e Cidadania - CCJ do Senado. Além disso, ressaltou a necessidade de construir políticas com e para as pessoas, com alternativas reais para problemas concretos.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220555/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6611">
+<blockquote class="evidencia discurso" id="d-13172">
 <span class="data">2026-09-01 · 15:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4687">
+<blockquote class="evidencia discurso" id="d-4675">
 <span class="data">2026-05-27 · 22:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4685">
+<blockquote class="evidencia discurso" id="d-4673">
 <span class="data">2026-05-26 · 16:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4684">
+<blockquote class="evidencia discurso" id="d-4672">
 <span class="data">2026-05-20 · 14:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4683">
+<blockquote class="evidencia discurso" id="d-4671">
 <span class="data">2026-05-05 · 16:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4681">
+<blockquote class="evidencia discurso" id="d-4669">
 <span class="data">2026-04-08 · 20:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4680">
+<blockquote class="evidencia discurso" id="d-4668">
 <span class="data">2026-04-08 · 15:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4679">
+<blockquote class="evidencia discurso" id="d-4667">
 <span class="data">2026-04-08 · 15:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4678">
+<blockquote class="evidencia discurso" id="d-4666">
 <span class="data">2026-03-17 · 16:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4677">
+<blockquote class="evidencia discurso" id="d-4665">
 <span class="data">2026-03-11 · 21:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4676">
+<blockquote class="evidencia discurso" id="d-4664">
 <span class="data">2026-03-11 · 20:48</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4675">
+<blockquote class="evidencia discurso" id="d-4663">
 <span class="data">2026-03-11 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -146,7 +146,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-4686">
+<blockquote class="evidencia discurso" id="d-4674">
 <span class="data">2026-05-27 · 21:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -155,7 +155,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4682">
+<blockquote class="evidencia discurso" id="d-4670">
 <span class="data">2026-04-28 · 21:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

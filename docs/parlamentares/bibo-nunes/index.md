@@ -18,9 +18,9 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">32,5%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">403 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">32,7%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">404 <span>votações computáveis</span></span><span class="n-detalhe">578 <span>votações no exercício</span></span> |
 | <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">24,6%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">345 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">95,0%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">520 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">95,0%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">521 <span>votações computáveis</span></span><span class="n-detalhe">578 <span>votações no exercício</span></span> |
 | <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">94,7%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">457 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
@@ -46,10 +46,10 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">42,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>19</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Indústria, Comércio e Serviços](../../temas/industria-comercio-e-servicos/) | <span class="valor">40,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>25</b></span> |
 | [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | <span class="valor">39,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>28</b></span> |
-| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">33,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>192</b></span> |
+| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">34,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>193</b></span> |
 | [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">33,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>33</b></span> |
 | [Economia](../../temas/economia/) | <span class="valor">32,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>65</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">30,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>126</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">29,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>127</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">28,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>52</b></span> |
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">19,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>21</b></span> |
 | [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">13,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>45</b></span> |
@@ -130,9 +130,9 @@ Acima é amostra, e diz que é. A decomposição completa — **todas** as
 votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
-- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 403 votações
+- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 404 votações
 - [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 345 votações
-- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 520 votações
+- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 521 votações
 - [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 457 votações
 
 ## O que disse em plenário
@@ -147,7 +147,7 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-3470">
+<blockquote class="evidencia discurso" id="d-3462">
 <span class="data">2026-05-27 · 19:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -156,7 +156,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3469">
+<blockquote class="evidencia discurso" id="d-3461">
 <span class="data">2026-05-27 · 18:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -165,7 +165,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3468">
+<blockquote class="evidencia discurso" id="d-3460">
 <span class="data">2026-05-27 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -174,7 +174,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3467">
+<blockquote class="evidencia discurso" id="d-3459">
 <span class="data">2026-05-27 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -183,7 +183,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3466">
+<blockquote class="evidencia discurso" id="d-3458">
 <span class="data">2026-05-27 · 17:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

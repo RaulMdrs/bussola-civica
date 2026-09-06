@@ -18,9 +18,9 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">28,9%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">415 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">28,8%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">416 <span>votações computáveis</span></span><span class="n-detalhe">578 <span>votações no exercício</span></span> |
 | <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">20,4%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">388 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">51,4%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">525 <span>votações computáveis</span></span><span class="n-detalhe">577 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">51,3%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">526 <span>votações computáveis</span></span><span class="n-detalhe">578 <span>votações no exercício</span></span> |
 | <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">44,5%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">499 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
@@ -47,10 +47,10 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Saúde](../../temas/saude/) | <span class="valor">40,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>25</b></span> |
 | [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">35,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>34</b></span> |
 | [Economia](../../temas/economia/) | <span class="valor">32,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>68</b></span> |
-| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">31,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>205</b></span> |
+| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">31,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>206</b></span> |
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">29,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>17</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">22,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>48</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">20,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>129</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">20,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>130</b></span> |
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">17,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>23</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">16,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>25</b></span> |
 | [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">15,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>46</b></span> |
@@ -67,6 +67,15 @@ referência de cada eixo. As descrições são o texto original da fonte
 oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
+
+<blockquote class="evidencia">
+<span class="data">2026-09-03</span>
+<div class="corpo">
+<p>Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 74, de 2026, adotada pelo relator da Comissão de Finanças e Tributação. <span class="placar">Sim: 346; Não: 46; Abstenção: 3; Total: 395.</span></p>
+<p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2611313-31">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia">
 <span class="data">2026-08-12</span>
@@ -86,16 +95,16 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </div>
 </blockquote>
 
+### <span class="eixo-par">Divergências da maioria do próprio partido</span>
+
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">2026-09-03</span>
 <div class="corpo">
-<p>Rejeitada a Emenda de Plenário nº 1. <span class="placar">Sim: 105; Não: 233; Total: 338.</span></p>
-<p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-82">Ver votação na fonte oficial</a>
+<p>Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 74, de 2026, adotada pelo relator da Comissão de Finanças e Tributação. <span class="placar">Sim: 346; Não: 46; Abstenção: 3; Total: 395.</span></p>
+<p class="referencia">Maioria do partido: sim (45 sim / 22 não entre os pares) — voto registrado: <b>nao</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2611313-31">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
-
-### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
 <span class="data">2026-05-27</span>
@@ -115,24 +124,15 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </div>
 </blockquote>
 
-<blockquote class="evidencia">
-<span class="data">2026-02-02</span>
-<div class="corpo">
-<p>Aprovada a Medida Provisória nº 1.313 de 2025, na forma do Projeto de Lei de Conversão, ressalvados os destaques. <span class="placar">Sim: 415; Não: 29; Abstenção: 2; Total: 446.</span></p>
-<p class="referencia">Maioria do partido: sim (55 sim / 18 não entre os pares) — voto registrado: <b>nao</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2557414-32">Ver votação na fonte oficial</a>
-</div>
-</blockquote>
-
 ### A conta inteira
 
 Acima é amostra, e diz que é. A decomposição completa — **todas** as
 votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
-- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 415 votações
+- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 416 votações
 - [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 388 votações
-- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 525 votações
+- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 526 votações
 - [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 499 votações
 
 ## O que disse em plenário
@@ -147,7 +147,7 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-6610">
+<blockquote class="evidencia discurso" id="d-13171">
 <span class="data">2026-09-01 · 21:00</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -156,7 +156,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4336">
+<blockquote class="evidencia discurso" id="d-4324">
 <span class="data">2026-07-01 · 17:40</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -165,7 +165,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4335">
+<blockquote class="evidencia discurso" id="d-4323">
 <span class="data">2026-06-30 · 16:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -174,7 +174,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4334">
+<blockquote class="evidencia discurso" id="d-4322">
 <span class="data">2026-06-16 · 18:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -183,7 +183,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4333">
+<blockquote class="evidencia discurso" id="d-4321">
 <span class="data">2026-06-10 · 17:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

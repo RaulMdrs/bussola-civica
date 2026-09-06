@@ -18,7 +18,7 @@ description: "Os discursos de Mauricio Marcon em 2026, com o sumário oficial e 
 
 ## Substantivos — 19
 
-<blockquote class="evidencia discurso" id="d-6610">
+<blockquote class="evidencia discurso" id="d-13171">
 <span class="data">2026-09-01 · 21:00</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Mauricio Marcon em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4336">
+<blockquote class="evidencia discurso" id="d-4324">
 <span class="data">2026-07-01 · 17:40</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Mauricio Marcon em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4335">
+<blockquote class="evidencia discurso" id="d-4323">
 <span class="data">2026-06-30 · 16:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Mauricio Marcon em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4334">
+<blockquote class="evidencia discurso" id="d-4322">
 <span class="data">2026-06-16 · 18:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Mauricio Marcon em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4333">
+<blockquote class="evidencia discurso" id="d-4321">
 <span class="data">2026-06-10 · 17:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Mauricio Marcon em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4332">
+<blockquote class="evidencia discurso" id="d-4320">
 <span class="data">2026-05-27 · 20:32</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Mauricio Marcon em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4331">
+<blockquote class="evidencia discurso" id="d-4319">
 <span class="data">2026-05-05 · 18:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Mauricio Marcon em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4330">
+<blockquote class="evidencia discurso" id="d-4318">
 <span class="data">2026-04-28 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Mauricio Marcon em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4329">
+<blockquote class="evidencia discurso" id="d-4317">
 <span class="data">2026-04-15 · 17:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Mauricio Marcon em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4328">
+<blockquote class="evidencia discurso" id="d-4316">
 <span class="data">2026-04-08 · 16:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Mauricio Marcon em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4327">
+<blockquote class="evidencia discurso" id="d-4315">
 <span class="data">2026-04-07 · 18:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Mauricio Marcon em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4326">
+<blockquote class="evidencia discurso" id="d-4314">
 <span class="data">2026-03-24 · 16:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Mauricio Marcon em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4324">
+<blockquote class="evidencia discurso" id="d-4312">
 <span class="data">2026-03-18 · 15:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Mauricio Marcon em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4323">
+<blockquote class="evidencia discurso" id="d-4311">
 <span class="data">2026-03-11 · 15:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Mauricio Marcon em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4322">
+<blockquote class="evidencia discurso" id="d-4310">
 <span class="data">2026-03-11 · 15:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Mauricio Marcon em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4321">
+<blockquote class="evidencia discurso" id="d-4309">
 <span class="data">2026-03-03 · 17:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Mauricio Marcon em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4320">
+<blockquote class="evidencia discurso" id="d-4308">
 <span class="data">2026-02-24 · 18:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Mauricio Marcon em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4319">
+<blockquote class="evidencia discurso" id="d-4307">
 <span class="data">2026-02-24 · 14:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Mauricio Marcon em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4318">
+<blockquote class="evidencia discurso" id="d-4306">
 <span class="data">2026-02-11 · 16:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -200,7 +200,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-4325">
+<blockquote class="evidencia discurso" id="d-4313">
 <span class="data">2026-03-18 · 19:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

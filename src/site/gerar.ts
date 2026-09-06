@@ -22,7 +22,7 @@
  * para a fonte.** É a tradução do princípio do projeto para HTML.
  */
 
-import { mkdirSync, writeFileSync, rmSync } from "node:fs";
+import { mkdirSync, writeFileSync, rmSync, readFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { DatabaseSync } from "node:sqlite";
 import { gzipSync } from "node:zlib";
@@ -1261,6 +1261,72 @@ function escreverMeta() {
       `metodologia_url: "${metodologia.url}"\n`,
   );
 }
+
+/**
+ * Guarda contra publicar um acervo mais velho que o já publicado.
+ *
+ * Desde que a atualização virou automática existem **duas cópias do banco**: a
+ * da máquina e a do cache do Actions. Elas avançam sozinhas, e em 2026-09-02 a
+ * local estava 12 dias atrás da do CI. Gerar da máquina atrasada e commitar
+ * faria as 305 páginas **retrocederem, sem erro nenhum** — o gerador é
+ * determinístico sobre o banco que recebe, e o banco é que estava velho.
+ *
+ * O `meta.yml` publicado é a prova de até quando o site já afirmou ter apurado.
+ * Se o banco atual não alcança aquela data, a geração para aqui, antes do
+ * `rmSync` — falhar depois de apagar as páginas trocaria um problema por outro.
+ *
+ * Igual passa: regenerar o mesmo estado é a propriedade determinística que a
+ * Action usa para não commitar ruído. Só **retroceder** é erro.
+ *
+ * Escotilha: `BUSSOLA_PERMITIR_RETROCESSO=1`, para o caso legítimo de reverter
+ * um acervo ruim. Guarda que não pode ser desligada vira obstáculo no dia em
+ * que a resposta certa for exatamente retroceder.
+ */
+function exigirAcervoNaoRetrocedido() {
+  const caminho = join(SAIDA, "_data", "meta.yml");
+  if (!existsSync(caminho)) return; // primeira geração, nada a comparar
+
+  const publicado = readFileSync(caminho, "utf8").match(/^periodo_fim:\s*"([^"]+)"/m)?.[1];
+
+  // Se o arquivo existe mas o campo não casa, o formato mudou e esta guarda
+  // parou de guardar — em silêncio, que é o modo de falha que ela existe para
+  // impedir. Melhor quebrar aqui, ao lado do `escreverMeta()` que produz o
+  // formato, do que voltar a publicar retrocesso sem ninguém perceber.
+  if (!publicado) {
+    throw new Error(
+      `${caminho} existe mas não traz 'periodo_fim' no formato esperado.\n` +
+        `A guarda contra retrocesso depende dele. Se o formato mudou em ` +
+        `escreverMeta(), atualize a leitura aqui também.`,
+    );
+  }
+
+  if (periodo.fim >= publicado) return;
+
+  if (process.env.BUSSOLA_PERMITIR_RETROCESSO === "1") {
+    console.warn(
+      `AVISO: retrocedendo o site de ${publicado} para ${periodo.fim} ` +
+        `(BUSSOLA_PERMITIR_RETROCESSO=1).`,
+    );
+    return;
+  }
+
+  throw new Error(
+    `o acervo está atrás do site publicado — geração abortada.\n\n` +
+      `  site publicado apurado até  ${publicado}\n` +
+      `  este banco apura até        ${periodo.fim}\n\n` +
+      `Gerar agora faria as páginas retrocederem ${diasEntre(periodo.fim, publicado)} dia(s).\n` +
+      `Atualize o acervo antes:\n\n` +
+      `  npm run ingerir:incremental && npm run site\n\n` +
+      `Se retroceder for mesmo a intenção: BUSSOLA_PERMITIR_RETROCESSO=1 npm run site`,
+  );
+}
+
+/** Diferença em dias entre duas datas `YYYY-MM-DD`, para a mensagem de erro. */
+function diasEntre(a: string, b: string): number {
+  return Math.round((Date.parse(b) - Date.parse(a)) / 86_400_000);
+}
+
+exigirAcervoNaoRetrocedido();
 
 // Regenera do zero: parlamentar que sai da bancada tem de sumir do site, e
 // deixar página órfã é afirmar que ele ainda está lá.

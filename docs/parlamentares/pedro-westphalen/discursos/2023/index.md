@@ -18,7 +18,7 @@ description: "Os discursos de Pedro Westphalen em 2023, com o sumário oficial e
 
 ## Substantivos — 6
 
-<blockquote class="evidencia discurso" id="d-3519">
+<blockquote class="evidencia discurso" id="d-3510">
 <span class="data">2023-11-29 · 19:44</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Pedro Westphalen em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3518">
+<blockquote class="evidencia discurso" id="d-3509">
 <span class="data">2023-11-28 · 21:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Pedro Westphalen em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3517">
+<blockquote class="evidencia discurso" id="d-3508">
 <span class="data">2023-08-30 · 20:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Pedro Westphalen em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3516">
+<blockquote class="evidencia discurso" id="d-3507">
 <span class="data">2023-08-15 · 19:28</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Pedro Westphalen em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3515">
+<blockquote class="evidencia discurso" id="d-3506">
 <span class="data">2023-07-05 · 16:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Pedro Westphalen em 2023, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3514">
+<blockquote class="evidencia discurso" id="d-3505">
 <span class="data">2023-03-09 · 13:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
