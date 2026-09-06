@@ -39,7 +39,7 @@ repositório, onde é `FONTES.md` que existe — nas páginas publicadas é `/FO
 | 19 | Discursos do Senado | etapa `senado` — 717 pronunciamentos, classificados **pela própria fonte** (§6.7) |
 | 20 | Atualização automatizada | `.github/workflows/acervo.yml` — 2×/semana, custo zero, valida antes de publicar. **Em produção desde 2026-08-25** (§6.8) |
 | 21 | Guarda contra retrocesso | O gerador se recusa a publicar acervo mais velho que o já publicado (§6.9) |
-| 22 | Visualização orbital | SVG estático, **sem JavaScript** — desenhada para não conseguir expressar a comparação falsa (§6.10) |
+| 22 | Visualização orbital | SVG estático, **sem JavaScript**, nas duas casas — desenhada para não conseguir expressar a comparação falsa (§6.10) |
 | 23 | Encontrabilidade | `sitemap.xml` de 308 URLs, `robots.txt` e etiquetas de compartilhamento (§6.11) |
 
 Acervo em **2026-09-06** (banco de 79 MB): Câmara com 6.450 votações, 1.125
@@ -778,6 +778,47 @@ Em 360px o documento continua sem rolar lateralmente: só o quadro do gráfico
 rola por dentro, com a dica apontando a tabela como alternativa em texto. É a
 única exceção que a regra do §6.3 admite, e ela é declarada.
 
+#### No Senado, a órbita não tem eixo — e isso é desenhado
+
+Replicar direto era impossível: o eixo horizontal **é** o alinhamento com o
+governo, e ele não existe lá (§6.7). Sobrava a tentação oposta, e ela era pior:
+pôr coesão no eixo, já que é o único número que há.
+
+Os três senadores são de três partidos, com coesão medida contra três maiorias
+diferentes — 85,7%, 87,5% e 93,5%. Uma régua diria "Paim > Heinze > Mourão",
+ranking de grandezas incomparáveis. É o mesmo erro que esta seção impede na
+Câmara, e aqui seria **mais fácil de cometer**, justamente por só haver um eixo
+para desenhar.
+
+A órbita do Senado então não tem eixo horizontal, e o espaço fica vazio e
+hachurado, com a razão escrita dentro. O leitor **vê** a dimensão que falta em
+vez de ler que ela falta — mesmo princípio do bloco `.ausencia` do perfil (§6.4).
+
+#### Generalizada para a expansão nacional, com o limite declarado
+
+`gerarOrbita` deixou de consultar o banco e passou a receber a lista pronta mais
+um eixo opcional, então o mesmo desenho serve a uma casa, a uma bancada estadual
+ou a um recorte qualquer. O tipo `EixoOrbita` carrega a regra de admissão: **só
+entra grandeza cuja referência é a mesma para todos os corpos do gráfico** —
+coesão nunca entra.
+
+Generalizar, porém, não é preparar. O que faltava é o limite, e ele é concreto:
+uma linha por parlamentar a 30px dá 1.244px para os 31 do RS e daria
+**~16.000px para os 513 da Câmara**. Não é gráfico, é rolo.
+
+Por isso `TETO_LEGIVEL = 60` **falha alto** acima disso, dizendo o que fazer.
+Quem for expandir descobre na primeira execução, não depois de gerar 27 páginas
+ilegíveis. Testado baixando o teto de propósito:
+
+```
+Error: órbita com 31 corpos — acima do teto de 10.
+Divida o conjunto (por UF, por casa) e gere um gráfico por recorte.
+```
+
+`corposDaBancada` virou `corposDaCasa(casa)`, com o escopo próprio de cada uma
+— `merito` na Câmara, `unico` no Senado — e **sem `COALESCE` no alinhamento**:
+zero seria uma posição, e posição inventada é rótulo nosso.
+
 #### Três defeitos que só apareceram ao olhar o resultado
 
 Nenhum apareceria em revisão de código:
@@ -1024,7 +1065,7 @@ declarado pela fonte, e há justificativa de voto ali dentro que é posição.
 ## 10. Estado do código
 
 ```
-src/                                    7.805 linhas TypeScript
+src/                                    7.912 linhas TypeScript
   db/schema.ts        872   20 tabelas, comentadas com o achado que as motivou
   db/client.ts         72   node:sqlite via sqlite-proxy + consultar() tipado
   db/migrar.ts         59   aplica migrations, controla em _migrations
@@ -1044,15 +1085,15 @@ src/                                    7.805 linhas TypeScript
   ingest/incremental.ts 154 CLI da retomada automática, Câmara e Senado
   ingest/horizonte.ts 132   de onde continuar, por etapa — testável, sem rede
   calc/posicoes.ts    563   dois eixos + evidências, recorte por tema, regime por casa
-  site/gerar.ts      1639   gerador do site — 305 páginas, busca, órbita, sitemap e as duas guardas
+  site/gerar.ts      1746   gerador do site — 305 páginas, busca, órbita, sitemap e as três guardas
   relatorio.ts        414   verificação do acervo + invariantes
 drizzle/                    8 migrations
 
 .github/workflows/acervo.yml         139  atualização 2×/semana, custo zero (§6.8)
 
-docs/                                    1105 linhas de camada web
+docs/                                    1113 linhas de camada web
   _layouts/default.html 76  cabeçalho, conteúdo, rodapé e etiquetas de compartilhamento
-  assets/bussola.css   791  folha única, à mão, clara e escura (§6.3)
+  assets/bussola.css   799  folha única, à mão, clara e escura (§6.3)
   assets/busca.js      238  único script do site, à mão, sem dependência (§6.5)
 ```
 
@@ -1247,6 +1288,11 @@ Registrado para quando houver fonte — nenhum destes é "fazer depois":
 continuação do que existe: a primeira é outra plataforma de entrega, a segunda é
 outro reconhecimento de fonte inteiro — 497 municípios no RS, e nada garante que
 câmara municipal publique voto nominal em dado aberto.
+
+Uma peça já está no lugar para quando a expansão vier: a órbita aceita qualquer
+recorte e **recusa** conjuntos grandes demais para o formato, dizendo que o
+corte precisa vir junto (§6.10). É o único preparo que fazia sentido adiantar,
+porque é o que se descobriria tarde demais.
 
 Antes de qualquer uma, vale considerar se a resposta não é **distribuição**. Um
 app não resolve não ser encontrado; e a Fase 4 multiplicaria por 497 um acervo
