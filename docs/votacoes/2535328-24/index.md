@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1304/2025 — Rejeitada a Emenda de Comissão n° 23. (2025-10-30)"
-description: "Como a bancada gaúcha votou em 2025-10-30: Rejeitada a Emenda de Comissão n° 23. Sim: 157; Não: 198; Abstenção: 1; Total: 356."
+title: "MPV 1304/2025 — Rejeitada a Emenda de Comissão n° 23. (30 out 2025)"
+description: "Como a bancada gaúcha votou em 30 out 2025: Rejeitada a Emenda de Comissão n° 23. Sim: 157; Não: 198; Abstenção: 1; Total: 356."
 ---
 
 # MPV 1304/2025
 
-<p class="subtitulo"><b>2025-10-30</b> · Rejeitada a Emenda de Comissão n° 23.</p>
+<p class="subtitulo"><b>30 out 2025</b> · Rejeitada a Emenda de Comissão n° 23.</p>
 
 | | |
 |---|---|

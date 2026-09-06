@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1694/2025 — Rejeitado o Requerimento. (2025-06-11)"
-description: "Como a bancada gaúcha votou em 2025-06-11: Rejeitado o Requerimento. Sim: 141; Não: 240; Total: 381."
+title: "PL 1694/2025 — Rejeitado o Requerimento. (11 jun 2025)"
+description: "Como a bancada gaúcha votou em 11 jun 2025: Rejeitado o Requerimento. Sim: 141; Não: 240; Total: 381."
 ---
 
 # PL 1694/2025
 
-<p class="subtitulo"><b>2025-06-11</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>11 jun 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

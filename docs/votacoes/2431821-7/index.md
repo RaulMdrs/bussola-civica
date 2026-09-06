@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1874/2022 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-11-12)"
-description: "Como a bancada gaúcha votou em 2024-11-12: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 285; Não: 78; Abstenção: 1; Total: 364."
+title: "PL 1874/2022 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (12 nov 2024)"
+description: "Como a bancada gaúcha votou em 12 nov 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 285; Não: 78; Abstenção: 1; Total: 364."
 ---
 
 # PL 1874/2022
 
-<p class="subtitulo"><b>2024-11-12</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>12 nov 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 139/2022 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 139, de (2023-04-25)"
-description: "Como a bancada gaúcha votou em 2023-04-25: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 139, de 2022, adotado pelo Relator da Comissão de Fi"
+title: "PLP 139/2022 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 139, de (25 abr 2023)"
+description: "Como a bancada gaúcha votou em 25 abr 2023: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 139, de 2022, adotado pelo Relator da Comissão de Fi"
 ---
 
 # PLP 139/2022
 
-<p class="subtitulo"><b>2023-04-25</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 139, de 2022, adotado pelo Relator da Comissão de Finanças e Tributação.</p>
+<p class="subtitulo"><b>25 abr 2023</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 139, de 2022, adotado pelo Relator da Comissão de Finanças e Tributação.</p>
 
 | | |
 |---|---|

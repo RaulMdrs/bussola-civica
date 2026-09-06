@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1768/2023 — Rejeitado o Requerimento. (2023-11-22)"
-description: "Como a bancada gaúcha votou em 2023-11-22: Rejeitado o Requerimento. Sim: 41; não: 377; total: 418."
+title: "PL 1768/2023 — Rejeitado o Requerimento. (22 nov 2023)"
+description: "Como a bancada gaúcha votou em 22 nov 2023: Rejeitado o Requerimento. Sim: 41; não: 377; total: 418."
 ---
 
 # PL 1768/2023
 
-<p class="subtitulo"><b>2023-11-22</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>22 nov 2023</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

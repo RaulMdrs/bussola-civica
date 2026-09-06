@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 709/2023 — Rejeitado o Requerimento. (2024-05-22)"
-description: "Como a bancada gaúcha votou em 2024-05-22: Rejeitado o Requerimento. Sim: 115; não: 305; total: 420."
+title: "PL 709/2023 — Rejeitado o Requerimento. (22 mai 2024)"
+description: "Como a bancada gaúcha votou em 22 mai 2024: Rejeitado o Requerimento. Sim: 115; não: 305; total: 420."
 ---
 
 # PL 709/2023
 
-<p class="subtitulo"><b>2024-05-22</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>22 mai 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

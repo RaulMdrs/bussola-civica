@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3181/2025 — Aprovada a Redação Final assinada pelo relator, Dep. Gabriel Nune (2025-08-19)"
-description: "Como a bancada gaúcha votou em 2025-08-19: Aprovada a Redação Final assinada pelo relator, Dep. Gabriel Nunes (PSD-BA). Sim: 217; Não: 152; Total: 369."
+title: "PL 3181/2025 — Aprovada a Redação Final assinada pelo relator, Dep. Gabriel Nune (19 ago 2025)"
+description: "Como a bancada gaúcha votou em 19 ago 2025: Aprovada a Redação Final assinada pelo relator, Dep. Gabriel Nunes (PSD-BA). Sim: 217; Não: 152; Total: 369."
 ---
 
 # PL 3181/2025
 
-<p class="subtitulo"><b>2025-08-19</b> · Aprovada a Redação Final assinada pelo relator, Dep. Gabriel Nunes (PSD-BA).</p>
+<p class="subtitulo"><b>19 ago 2025</b> · Aprovada a Redação Final assinada pelo relator, Dep. Gabriel Nunes (PSD-BA).</p>
 
 | | |
 |---|---|

@@ -7,7 +7,7 @@ description: "Como Marcel van Hattem vota: alinhamento com o governo federal e c
 
 # Marcel van Hattem
 
-<p class="subtitulo"><b>NOVO</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>NOVO</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-09-03</span>
+<span class="data">03 set 2026</span>
 <div class="corpo">
 <p>Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 74, de 2026, adotada pelo relator da Comissão de Finanças e Tributação. <span class="placar">Sim: 346; Não: 46; Abstenção: 3; Total: 395.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. <span class="placar">Sim: 318; Não: 113; Abstenção: 1; Total: 432.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Rejeitadas as Emendas de Plenário. <span class="placar">Sim: 108; Não: 275; Abstenção: 1; Total: 384.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2024-12-05</span>
+<span class="data">05 dez 2024</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 136, de 2024, adotado pela relatora da Comissão de Segurança Pública e Combate ao Crime Organizado. <span class="placar">Sim: 348; Não: 57; Total: 405.</span></p>
 <p class="referencia">Maioria do partido: sim (1 sim / 0 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2024-04-10</span>
+<span class="data">10 abr 2024</span>
 <div class="corpo">
 <p>Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Comunicação de Medida Cautelar nº 1/2024. <span class="placar">Sim: 277; não: 129; abstenção: 28; total: 434.</span></p>
 <p class="referencia">Maioria do partido: sim (2 sim / 0 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2023-11-29</span>
+<span class="data">29 nov 2023</span>
 <div class="corpo">
 <p>Aprovado o Projeto de Lei Complementar nº 205, de 2023. <span class="placar">Sim: 326; não: 84; abstenção: 1; total: 411.</span></p>
 <p class="referencia">Maioria do partido: nao (0 sim / 2 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -148,7 +148,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-13155">
-<span class="data">2026-09-01 · 20:08</span>
+<span class="data">01 set 2026 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado criticou o que classificou como tentativa do Procurador-Geral da República, Paulo Gonet, de anular provas colhidas pela Polícia Federal e apresentadas pelo Ministro André Mendonça. Citou mensagens atribuídas a Daniel Vorcaro que indicariam vínculos com Gonet e com o Ministro Alexandre de Moraes, incluindo suposto pagamento de serviços advocatícios e benefícios a familiares. Com base nessas informações, pediu ao Vice-Procurador-Geral da República, Hindemburgo Chateaubriand, a prisão de Alexandre de Moraes e defendeu o impeachment do Ministro.</p>
@@ -157,7 +157,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-13154">
-<span class="data">2026-09-01 · 19:44</span>
+<span class="data">01 set 2026 · 19:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado informou que a Oposição realizou coletiva para anunciar medidas diante de fatos noticiados envolvendo Alexandre de Moraes, Gonet e Daniel Vorcaro. Além disso, mencionou pedido de impeachment com quase cem assinaturas e requereu ao Vice-Procurador-Geral da República Hindemburgo Chateaubriand a prisão de Alexandre de Moraes, por suposta atuação para proteger Vorcaro. Ao final, afirmou que a situação teria deixado claras as ações do Ministro nos últimos anos.</p>
@@ -166,7 +166,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-13153">
-<span class="data">2026-09-01 · 17:48</span>
+<span class="data">01 set 2026 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado orientou a bancada na votação do requerimento de urgência ao Projeto de Lei nº 4.921, de 2026, que dispõe sobre a transformação de cargos vagos no quadro permanente do Tribunal Regional do Trabalho (TRT) da 18ª Região, sem aumento de despesas.&amp;nbsp;Na oportunidade, defendeu a extinção do Tribunal Superior do Trabalho (TST), com incorporação das causas à Justiça Comum. Por fim, criticou a eficiência do Poder Judiciário e cobrou a instalação da Comissão Parlamentar de Inquérito (CPI) do Abuso de Autoridade para investigar possíveis irregularidades.</p>
@@ -175,7 +175,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-13140">
-<span class="data">2026-08-11 · 19:52</span>
+<span class="data">11 ago 2026 · 19:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado relatou que Carlos Lupi, ex-Ministro da Previdência, apresentou uma queixa-crime contra o Parlamentar no Supremo Tribunal Federal (STF) em razão de declarações sobre o esquema de descontos indevidos em benefícios do Instituto Nacional do Seguro Social (INSS). Afirmou que, durante a Comissão Parlamentar de Inquérito (CPI) do INSS, responsabilizou Lupi pelo crescimento das irregularidades durante a gestão no Ministério e reiterou críticas à atuação do ex-Ministro diante do caso. Por fim, contestou a iniciativa judicial e defendeu a prerrogativa parlamentar de apontar possíveis irregularidades investigadas pelo Congresso.</p>
@@ -184,7 +184,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-13139">
-<span class="data">2026-08-11 · 19:36</span>
+<span class="data">11 ago 2026 · 19:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado criticou decisão do Supremo Tribunal Federal (STF) que restringiu a aplicação da lei que extinguiu as saídas temporárias aos crimes cometidos após a mudança legislativa. Nesse contexto, citou o caso de Leonardo Ferreira de Almeida, condenado por estupros e homicídios, que teria cometido novos crimes durante uma saída temporária. Além disso, lembrou que o Congresso derrubou o veto presidencial à medida e responsabilizou o STF pelas consequências da decisão. Por fim, defendeu o cumprimento da determinação aprovada pelo Congresso Nacional para o fim das saídas temporárias.</p>

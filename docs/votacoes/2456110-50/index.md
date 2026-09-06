@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 344/2024 — Aprovado o Projeto de Decreto Legislativo nº 344, de 2024. (2025-05-22)"
-description: "Como a bancada gaúcha votou em 2025-05-22: Aprovado o Projeto de Decreto Legislativo nº 344, de 2024. Sim: 280; Não: 5; Total: 285."
+title: "PDL 344/2024 — Aprovado o Projeto de Decreto Legislativo nº 344, de 2024. (22 mai 2025)"
+description: "Como a bancada gaúcha votou em 22 mai 2025: Aprovado o Projeto de Decreto Legislativo nº 344, de 2024. Sim: 280; Não: 5; Total: 285."
 ---
 
 # PDL 344/2024
 
-<p class="subtitulo"><b>2025-05-22</b> · Aprovado o Projeto de Decreto Legislativo nº 344, de 2024.</p>
+<p class="subtitulo"><b>22 mai 2025</b> · Aprovado o Projeto de Decreto Legislativo nº 344, de 2024.</p>
 
 | | |
 |---|---|

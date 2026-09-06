@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Emenda nº 48 à Medida Provisória nº 1.185, de 2023, destacada (2023-12-20)"
-description: "Como os senadores gaúchos votou em 2023-12-20: Votação nominal da Emenda nº 48 à Medida Provisória nº 1.185, de 2023, destacada."
+title: "Votação nominal da Emenda nº 48 à Medida Provisória nº 1.185, de 2023, destacada (20 dez 2023)"
+description: "Como os senadores gaúchos votou em 20 dez 2023: Votação nominal da Emenda nº 48 à Medida Provisória nº 1.185, de 2023, destacada."
 ---
 
-# Votação de 2023-12-20
+# Votação de 20 dez 2023
 
-<p class="subtitulo"><b>2023-12-20</b> · Votação nominal da Emenda nº 48 à Medida Provisória nº 1.185, de 2023, destacada.</p>
+<p class="subtitulo"><b>20 dez 2023</b> · Votação nominal da Emenda nº 48 à Medida Provisória nº 1.185, de 2023, destacada.</p>
 
 | | |
 |---|---|

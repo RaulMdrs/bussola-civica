@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 77/2026 — Aprovado o Projeto de Lei Complementar nº 77, de 2026, ressalvado  (2026-03-25)"
-description: "Como a bancada gaúcha votou em 2026-03-25: Aprovado o Projeto de Lei Complementar nº 77, de 2026, ressalvado o destaque. Sim: 391; Não: 33; Abstenção: 2;"
+title: "PLP 77/2026 — Aprovado o Projeto de Lei Complementar nº 77, de 2026, ressalvado  (25 mar 2026)"
+description: "Como a bancada gaúcha votou em 25 mar 2026: Aprovado o Projeto de Lei Complementar nº 77, de 2026, ressalvado o destaque. Sim: 391; Não: 33; Abstenção: 2;"
 ---
 
 # PLP 77/2026
 
-<p class="subtitulo"><b>2026-03-25</b> · Aprovado o Projeto de Lei Complementar nº 77, de 2026, ressalvado o destaque.</p>
+<p class="subtitulo"><b>25 mar 2026</b> · Aprovado o Projeto de Lei Complementar nº 77, de 2026, ressalvado o destaque.</p>
 
 | | |
 |---|---|

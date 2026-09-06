@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 3/2021 — Aprovado o Requerimento nº 3.818/2025, dos Senhores Líderes, que so (2025-09-16)"
-description: "Como a bancada gaúcha votou em 2025-09-16: Aprovado o Requerimento nº 3.818/2025, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões"
+title: "PEC 3/2021 — Aprovado o Requerimento nº 3.818/2025, dos Senhores Líderes, que so (16 set 2025)"
+description: "Como a bancada gaúcha votou em 16 set 2025: Aprovado o Requerimento nº 3.818/2025, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões"
 ---
 
 # PEC 3/2021
 
-<p class="subtitulo"><b>2025-09-16</b> · Aprovado o Requerimento nº 3.818/2025, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões previsto no § 6º do art. 202 do RICD, para apreciação do segundo turno da PEC 3, de 2021.</p>
+<p class="subtitulo"><b>16 set 2025</b> · Aprovado o Requerimento nº 3.818/2025, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões previsto no § 6º do art. 202 do RICD, para apreciação do segundo turno da PEC 3, de 2021.</p>
 
 | | |
 |---|---|

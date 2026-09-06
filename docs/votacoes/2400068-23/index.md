@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3905/2021 — Rejeitado o Recurso nº 33/2023, contra a apreciação conclusiva da (2023-12-19)"
-description: "Como a bancada gaúcha votou em 2023-12-19: Rejeitado o Recurso nº 33/2023, contra a apreciação conclusiva das comissões sobre o Projeto de Lei nº 3.905, "
+title: "PL 3905/2021 — Rejeitado o Recurso nº 33/2023, contra a apreciação conclusiva da (19 dez 2023)"
+description: "Como a bancada gaúcha votou em 19 dez 2023: Rejeitado o Recurso nº 33/2023, contra a apreciação conclusiva das comissões sobre o Projeto de Lei nº 3.905, "
 ---
 
 # PL 3905/2021
 
-<p class="subtitulo"><b>2023-12-19</b> · Rejeitado o Recurso nº 33/2023, contra a apreciação conclusiva das comissões sobre o Projeto de Lei nº 3.905, de 2021.</p>
+<p class="subtitulo"><b>19 dez 2023</b> · Rejeitado o Recurso nº 33/2023, contra a apreciação conclusiva das comissões sobre o Projeto de Lei nº 3.905, de 2021.</p>
 
 | | |
 |---|---|

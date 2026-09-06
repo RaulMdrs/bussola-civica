@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 638/2019 — Mantido o texto. (2025-07-01)"
-description: "Como a bancada gaúcha votou em 2025-07-01: Mantido o texto. Sim: 274; Não: 73; Abstenção: 1; Total: 348."
+title: "PL 638/2019 — Mantido o texto. (01 jul 2025)"
+description: "Como a bancada gaúcha votou em 01 jul 2025: Mantido o texto. Sim: 274; Não: 73; Abstenção: 1; Total: 348."
 ---
 
 # PL 638/2019
 
-<p class="subtitulo"><b>2025-07-01</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>01 jul 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

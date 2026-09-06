@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2583/2020 — Aprovado o Substitutivo ao Projeto de Lei nº 2.583, de 2020, adot (2025-07-08)"
-description: "Como a bancada gaúcha votou em 2025-07-08: Aprovado o Substitutivo ao Projeto de Lei nº 2.583, de 2020, adotado pelo relator da Comissão de Saúde, ressal"
+title: "PL 2583/2020 — Aprovado o Substitutivo ao Projeto de Lei nº 2.583, de 2020, adot (08 jul 2025)"
+description: "Como a bancada gaúcha votou em 08 jul 2025: Aprovado o Substitutivo ao Projeto de Lei nº 2.583, de 2020, adotado pelo relator da Comissão de Saúde, ressal"
 ---
 
 # PL 2583/2020
 
-<p class="subtitulo"><b>2025-07-08</b> · Aprovado o Substitutivo ao Projeto de Lei nº 2.583, de 2020, adotado pelo relator da Comissão de Saúde, ressalvados os destaques.</p>
+<p class="subtitulo"><b>08 jul 2025</b> · Aprovado o Substitutivo ao Projeto de Lei nº 2.583, de 2020, adotado pelo relator da Comissão de Saúde, ressalvados os destaques.</p>
 
 | | |
 |---|---|

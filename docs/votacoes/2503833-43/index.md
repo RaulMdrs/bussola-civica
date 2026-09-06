@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1769/2019 — Rejeitado o Requerimento. (2026-03-17)"
-description: "Como a bancada gaúcha votou em 2026-03-17: Rejeitado o Requerimento. Sim: 44; Não: 318; Total: 362."
+title: "PL 1769/2019 — Rejeitado o Requerimento. (17 mar 2026)"
+description: "Como a bancada gaúcha votou em 17 mar 2026: Rejeitado o Requerimento. Sim: 44; Não: 318; Total: 362."
 ---
 
 # PL 1769/2019
 
-<p class="subtitulo"><b>2026-03-17</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>17 mar 2026</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

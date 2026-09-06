@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4188/2021 — Aprovadas as Emendas do Senado Federal de nºs 1, 2, 3, 5, 6, 7, 8 (2023-10-03)"
-description: "Como a bancada gaúcha votou em 2023-10-03: Aprovadas as Emendas do Senado Federal de nºs 1, 2, 3, 5, 6, 7, 8, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22,"
+title: "PL 4188/2021 — Aprovadas as Emendas do Senado Federal de nºs 1, 2, 3, 5, 6, 7, 8 (03 out 2023)"
+description: "Como a bancada gaúcha votou em 03 out 2023: Aprovadas as Emendas do Senado Federal de nºs 1, 2, 3, 5, 6, 7, 8, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22,"
 ---
 
 # PL 4188/2021
 
-<p class="subtitulo"><b>2023-10-03</b> · Aprovadas as Emendas do Senado Federal de nºs 1, 2, 3, 5, 6, 7, 8, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 26, 27, 30, 31, 32, 33, 34, 36, 37, 39, 40, 41, 42 (exceto o § 7º do art. 37 da Lei nº 9.492, de 1997), 43, 44, 45, 46, 49 e 50 ao Projeto de Lei nº 4.188, de 2021.</p>
+<p class="subtitulo"><b>03 out 2023</b> · Aprovadas as Emendas do Senado Federal de nºs 1, 2, 3, 5, 6, 7, 8, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 26, 27, 30, 31, 32, 33, 34, 36, 37, 39, 40, 41, 42 (exceto o § 7º do art. 37 da Lei nº 9.492, de 1997), 43, 44, 45, 46, 49 e 50 ao Projeto de Lei nº 4.188, de 2021.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 210/2024 — Rejeitada a Emenda de Plenário n° 38. (2024-12-17)"
-description: "Como a bancada gaúcha votou em 2024-12-17: Rejeitada a Emenda de Plenário n° 38. Sim: 59; Não: 385; Abstenção: 1; Total: 445."
+title: "PLP 210/2024 — Rejeitada a Emenda de Plenário n° 38. (17 dez 2024)"
+description: "Como a bancada gaúcha votou em 17 dez 2024: Rejeitada a Emenda de Plenário n° 38. Sim: 59; Não: 385; Abstenção: 1; Total: 445."
 ---
 
 # PLP 210/2024
 
-<p class="subtitulo"><b>2024-12-17</b> · Rejeitada a Emenda de Plenário n° 38.</p>
+<p class="subtitulo"><b>17 dez 2024</b> · Rejeitada a Emenda de Plenário n° 38.</p>
 
 | | |
 |---|---|

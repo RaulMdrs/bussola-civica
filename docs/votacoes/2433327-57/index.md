@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 85/2024 — Rejeitada a Emenda de Plenário nº 3. (2024-05-14)"
-description: "Como a bancada gaúcha votou em 2024-05-14: Rejeitada a Emenda de Plenário nº 3. Sim: 215; não: 226; abstenção: 1; total: 442."
+title: "PLP 85/2024 — Rejeitada a Emenda de Plenário nº 3. (14 mai 2024)"
+description: "Como a bancada gaúcha votou em 14 mai 2024: Rejeitada a Emenda de Plenário nº 3. Sim: 215; não: 226; abstenção: 1; total: 442."
 ---
 
 # PLP 85/2024
 
-<p class="subtitulo"><b>2024-05-14</b> · Rejeitada a Emenda de Plenário nº 3.</p>
+<p class="subtitulo"><b>14 mai 2024</b> · Rejeitada a Emenda de Plenário nº 3.</p>
 
 | | |
 |---|---|

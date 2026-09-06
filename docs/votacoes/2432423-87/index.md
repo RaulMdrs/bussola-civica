@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1707/2024 — Rejeitada a preferência. (2025-08-27)"
-description: "Como a bancada gaúcha votou em 2025-08-27: Rejeitada a preferência. Sim: 129; Não: 262; Total: 391."
+title: "PL 1707/2024 — Rejeitada a preferência. (27 ago 2025)"
+description: "Como a bancada gaúcha votou em 27 ago 2025: Rejeitada a preferência. Sim: 129; Não: 262; Total: 391."
 ---
 
 # PL 1707/2024
 
-<p class="subtitulo"><b>2025-08-27</b> · Rejeitada a preferência.</p>
+<p class="subtitulo"><b>27 ago 2025</b> · Rejeitada a preferência.</p>
 
 | | |
 |---|---|

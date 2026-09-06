@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 108/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-08-12)"
-description: "Como a bancada gaúcha votou em 2024-08-12: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 308; não: 142; total: 450."
+title: "PLP 108/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (12 ago 2024)"
+description: "Como a bancada gaúcha votou em 12 ago 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 308; não: 142; total: 450."
 ---
 
 # PLP 108/2024
 
-<p class="subtitulo"><b>2024-08-12</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>12 ago 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

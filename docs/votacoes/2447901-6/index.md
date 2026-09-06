@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5230/2023 — Rejeitado o Recurso 18/2024. (2024-07-09)"
-description: "Como a bancada gaúcha votou em 2024-07-09: Rejeitado o Recurso 18/2024. Sim: 126. não: 302: total: 428."
+title: "PL 5230/2023 — Rejeitado o Recurso 18/2024. (09 jul 2024)"
+description: "Como a bancada gaúcha votou em 09 jul 2024: Rejeitado o Recurso 18/2024. Sim: 126. não: 302: total: 428."
 ---
 
 # PL 5230/2023
 
-<p class="subtitulo"><b>2024-07-09</b> · Rejeitado o Recurso 18/2024.</p>
+<p class="subtitulo"><b>09 jul 2024</b> · Rejeitado o Recurso 18/2024.</p>
 
 | | |
 |---|---|

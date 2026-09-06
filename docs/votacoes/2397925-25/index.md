@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5086/2023 — Aprovado o Projeto de Lei nº 5.086, de 2023. (2023-11-07)"
-description: "Como a bancada gaúcha votou em 2023-11-07: Aprovado o Projeto de Lei nº 5.086, de 2023. Sim: 372; não: 26; abstenção: 1; total: 399."
+title: "PL 5086/2023 — Aprovado o Projeto de Lei nº 5.086, de 2023. (07 nov 2023)"
+description: "Como a bancada gaúcha votou em 07 nov 2023: Aprovado o Projeto de Lei nº 5.086, de 2023. Sim: 372; não: 26; abstenção: 1; total: 399."
 ---
 
 # PL 5086/2023
 
-<p class="subtitulo"><b>2023-11-07</b> · Aprovado o Projeto de Lei nº 5.086, de 2023.</p>
+<p class="subtitulo"><b>07 nov 2023</b> · Aprovado o Projeto de Lei nº 5.086, de 2023.</p>
 
 | | |
 |---|---|

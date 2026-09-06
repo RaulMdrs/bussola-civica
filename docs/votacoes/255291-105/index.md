@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3648/2004 — Rejeitada a Emenda de Plenário nº 2. (2025-02-26)"
-description: "Como a bancada gaúcha votou em 2025-02-26: Rejeitada a Emenda de Plenário nº 2. Sim: 57; Não: 331; Total: 388."
+title: "PL 3648/2004 — Rejeitada a Emenda de Plenário nº 2. (26 fev 2025)"
+description: "Como a bancada gaúcha votou em 26 fev 2025: Rejeitada a Emenda de Plenário nº 2. Sim: 57; Não: 331; Total: 388."
 ---
 
 # PL 3648/2004
 
-<p class="subtitulo"><b>2025-02-26</b> · Rejeitada a Emenda de Plenário nº 2.</p>
+<p class="subtitulo"><b>26 fev 2025</b> · Rejeitada a Emenda de Plenário nº 2.</p>
 
 | | |
 |---|---|

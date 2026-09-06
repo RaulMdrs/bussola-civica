@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 223/2023 — Aprovado o Projeto de Lei Complementar nº 223, de 2023. (2025-02-18)"
-description: "Como a bancada gaúcha votou em 2025-02-18: Aprovado o Projeto de Lei Complementar nº 223, de 2023. Sim: 407; Não: 6; Total: 413."
+title: "PLP 223/2023 — Aprovado o Projeto de Lei Complementar nº 223, de 2023. (18 fev 2025)"
+description: "Como a bancada gaúcha votou em 18 fev 2025: Aprovado o Projeto de Lei Complementar nº 223, de 2023. Sim: 407; Não: 6; Total: 413."
 ---
 
 # PLP 223/2023
 
-<p class="subtitulo"><b>2025-02-18</b> · Aprovado o Projeto de Lei Complementar nº 223, de 2023.</p>
+<p class="subtitulo"><b>18 fev 2025</b> · Aprovado o Projeto de Lei Complementar nº 223, de 2023.</p>
 
 | | |
 |---|---|

@@ -7,7 +7,7 @@ description: "Como Alexandre Lindenmeyer vota: alinhamento com o governo federal
 
 # Alexandre Lindenmeyer
 
-<p class="subtitulo"><b>PT</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>PT</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-03-25</span>
+<span class="data">25 mar 2026</span>
 <div class="corpo">
 <p>Aprovado o Projeto de Lei Complementar nº 77, de 2026, ressalvado o destaque. <span class="placar">Sim: 391; Não: 33; Abstenção: 2; Total: 426.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-11-18</span>
+<span class="data">18 nov 2025</span>
 <div class="corpo">
 <p>Aprovada a Emenda de Plenário nº 25. <span class="placar">Sim: 349; Não: 40; Abstenção: 1; Total: 390.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
 <p class="referencia">Maioria do partido: nao (11 sim / 41 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-03-25</span>
+<span class="data">25 mar 2026</span>
 <div class="corpo">
 <p>Aprovado o Projeto de Lei Complementar nº 77, de 2026, ressalvado o destaque. <span class="placar">Sim: 391; Não: 33; Abstenção: 2; Total: 426.</span></p>
 <p class="referencia">Maioria do partido: sim (61 sim / 0 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-10-29</span>
+<span class="data">29 out 2025</span>
 <div class="corpo">
 <p>Aprovada a Emenda de Plenário nº 5. <span class="placar">Sim: 223; Não: 174; Total: 397.</span></p>
 <p class="referencia">Maioria do partido: nao (3 sim / 50 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -148,7 +148,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-4583">
-<span class="data">2026-06-16 · 16:04</span>
+<span class="data">16 jun 2026 · 16:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado alertou para a gravidade da violência contra as mulheres, citando dados sobre feminicídios no Brasil e no Rio Grande do Sul. Defendeu que o enfrentamento do problema exige mudança cultural, especialmente entre os homens, e lembrou a Campanha Eles por Elas, da Organização das Nações Unidas (ONU). Ademais, destacou o Pacto Nacional de Prevenção aos Feminicídios e o Programa Mulher Viver sem Violência, do Governo Federal. Por fim, defendeu a mobilização da sociedade e dos entes federados para combater a violência contra as mulheres.</p>
@@ -157,7 +157,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4582">
-<span class="data">2026-06-10 · 18:20</span>
+<span class="data">10 jun 2026 · 18:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado defendeu a soberania nacional ao criticar a decisão dos Estados Unidos de classificar o Comando Vermelho e o PCC como organizações terroristas, associando essa postura a setores que buscaram entregar terras raras brasileiras e negociar o PICS. Além disso, sustentou que a definição jurídica sobre terrorismo já estava prevista na Lei 13.260 de 2016, na Convenção de Palermo, no Decreto 5.015 de 2004 e na jurisprudência do STJ e do STF, e rejeitou qualquer submissão do País a normas ou interesses estrangeiros.</p>
@@ -166,7 +166,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4581">
-<span class="data">2026-06-09 · 16:44</span>
+<span class="data">09 jun 2026 · 16:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado celebrou a aprovação, pela Câmara dos Deputados, da Proposta de Emenda à Constituição nº 221, de 2019, que altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos; prevendo o fim da escala 6 por 1 e a redução da jornada semanal para 40 horas, com dois dias de descanso e sem redução salarial. Além disso, destacou que a medida representaria um avanço nas condições de trabalho e na qualidade de vida dos trabalhadores brasileiros. Por outro lado, manifestou preocupação com a Proposta de Emenda à Constituição nº 12, de 2026, apresentada pelo Senador Rogerio Marinho, que flexibilizaria as relações de trabalho ao vincular a remuneração às horas efetivamente trabalhadas, reduzindo a previsibilidade da jornada e dos rendimentos. Por fim, conclamou trabalhadores, entidades sindicais e apoiadores da mudança a manterem a mobilização em defesa do fim da escala 6 por 1 e contra iniciativas que, em sua avaliação, possam representar retrocessos nos direitos trabalhistas.</p>
@@ -175,7 +175,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4580">
-<span class="data">2026-05-26 · 15:36</span>
+<span class="data">26 mai 2026 · 15:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado defendeu o fim da escala 6 por 1, classificando a votação prevista como um momento histórico no Parlamento. Argumentou que, desde a Constituição de 1988, a automação e a inteligência artificial tornaram essa jornada injustificável, além de criticar a reforma trabalhista do Governo Temer por aprofundar a precarização. Também rejeitou propostas de jornadas de 52 horas semanais ou remuneração por hora, apontando-as como formas de exploração. Por fim, associou a mudança aos indicadores positivos do Governo Lula, como o crescimento da renda e a menor taxa de desemprego da série histórica.</p>
@@ -184,7 +184,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4579">
-<span class="data">2026-05-12 · 14:40</span>
+<span class="data">12 mai 2026 · 14:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado enalteceu o Presidente Lula e o Ministro da Justiça e Segurança Pública, Wellington César, pelo lançamento do Programa Nacional de Combate ao Crime Organizado. Destacou os quatro eixos da iniciativa: ataque ao financiamento e à lavagem de dinheiro, enfrentamento do mercado ilegal de armas, redução da violência letal e combate ao comando de crimes a partir dos presídios. Ademais, ressaltou a previsão de que 138 presídios adotem critérios semelhantes aos dos presídios federais. Ao final, defendeu a recuperação dos espaços ocupados pelo crime organizado e a articulação entre União, Estados e Municípios na segurança pública.</p>

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2672/2025 — Rejeitado o Requerimento. (2025-05-27)"
-description: "Como a bancada gaúcha votou em 2025-05-27: Rejeitado o Requerimento. Sim: 82; Não: 311; Abstenção: 1; Total: 394."
+title: "PL 2672/2025 — Rejeitado o Requerimento. (27 mai 2025)"
+description: "Como a bancada gaúcha votou em 27 mai 2025: Rejeitado o Requerimento. Sim: 82; Não: 311; Abstenção: 1; Total: 394."
 ---
 
 # PL 2672/2025
 
-<p class="subtitulo"><b>2025-05-27</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>27 mai 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

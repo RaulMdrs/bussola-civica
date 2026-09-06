@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6240/2013 — Mantido o texto. (2026-03-02)"
-description: "Como a bancada gaúcha votou em 2026-03-02: Mantido o texto. Sim: 258; Não: 119; Abstenção: 1; Total: 378."
+title: "PL 6240/2013 — Mantido o texto. (02 mar 2026)"
+description: "Como a bancada gaúcha votou em 02 mar 2026: Mantido o texto. Sim: 258; Não: 119; Abstenção: 1; Total: 378."
 ---
 
 # PL 6240/2013
 
-<p class="subtitulo"><b>2026-03-02</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>02 mar 2026</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5496/2013 — Rejeitado o Requerimento. (2023-11-21)"
-description: "Como a bancada gaúcha votou em 2023-11-21: Rejeitado o Requerimento. Sim: 53; não: 332; total: 385."
+title: "PL 5496/2013 — Rejeitado o Requerimento. (21 nov 2023)"
+description: "Como a bancada gaúcha votou em 21 nov 2023: Rejeitado o Requerimento. Sim: 53; não: 332; total: 385."
 ---
 
 # PL 5496/2013
 
-<p class="subtitulo"><b>2023-11-21</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>21 nov 2023</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

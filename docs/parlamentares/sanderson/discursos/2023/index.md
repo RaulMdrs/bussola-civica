@@ -19,7 +19,7 @@ description: "Os discursos de Sanderson em 2023, com o sumário oficial e link p
 ## Substantivos — 5
 
 <blockquote class="evidencia discurso" id="d-3889">
-<span class="data">2023-12-06 · 23:04</span>
+<span class="data">06 dez 2023 · 23:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado defendeuo Requerimento de Urgência para apreciação do Projeto de Decreto Legislativo nº 3, de 2023, que susta o Decreto nº 11.366, de 1º de janeiro 2023, que limita o registro e a aquisição de armas de fogos.</p>
@@ -28,7 +28,7 @@ description: "Os discursos de Sanderson em 2023, com o sumário oficial e link p
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-3888">
-<span class="data">2023-11-01 · 11:28</span>
+<span class="data">01 nov 2023 · 11:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado parabenizou os colegas pela aprovação do Projeto de lei nº 3.780, de 2023, que trata do aumento das penas para crimes como furto e roubo. Criticou a inação do Ministério da Justiça frente ao caos na segurança do Rio de Janeiro e Bahia, ressaltando a falta de vontade política do atual Governo. Reforçou a necessidade de uma postura enérgica do Parlamento contra o crime.</p>
@@ -37,7 +37,7 @@ description: "Os discursos de Sanderson em 2023, com o sumário oficial e link p
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-3887">
-<span class="data">2023-08-15 · 14:12</span>
+<span class="data">15 ago 2023 · 14:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>Presença, na Casa, da Prefeita Municipal de Sant'Ana do Livramento, Estado do Rio Grande do Sul, Ana Tarouco.</p>
@@ -46,7 +46,7 @@ description: "Os discursos de Sanderson em 2023, com o sumário oficial e link p
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-3886">
-<span class="data">2023-05-18 · 09:00</span>
+<span class="data">18 mai 2023 · 09:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>Protesto contra a cassação do mandato parlamentar do Deputado Deltan Dallagnol pelo Tribunal Superior Eleitoral.</p>
@@ -55,7 +55,7 @@ description: "Os discursos de Sanderson em 2023, com o sumário oficial e link p
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-3885">
-<span class="data">2023-02-03 · 12:16</span>
+<span class="data">03 fev 2023 · 12:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>Agradecimento aos eleitores do Estado do Rio Grande do Sul pela recondução do orador à Câmara dos Deputados. Oposição do Parlamentar ao governo petista. Natureza deletéria de proposições encaminhadas à Casa pelo Poder Executivo. Apresentação de pedido de impeachment do Presidente da República, diante da declaração de ocorrência de golpe de Estado em 2016. Soltura, por meio de manobras judiciais, do Sr. Luiz Inácio Lula da Silva condenado por crime de corrupção. Apresentação do Projeto de Decreto Legislativo nº 3, de 2023, para sustação do Decreto nº 11.366, de 2023, sobre a limitação do registro e aquisição de armas de fogo. Ilegalidade da prisão do ex-Ministro da Justiça e Segurança Pública, Anderson Torres, e de manifestantes contrários ao governo petista.</p>

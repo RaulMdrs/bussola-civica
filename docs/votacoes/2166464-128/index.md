@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 459/2017 — Aprovado o Projeto de Lei Complementar nº 459, de 2017. (2024-06-04)"
-description: "Como a bancada gaúcha votou em 2024-06-04: Aprovado o Projeto de Lei Complementar nº 459, de 2017. Sim: 384; não: 59; abstenção: 1; total: 444."
+title: "PLP 459/2017 — Aprovado o Projeto de Lei Complementar nº 459, de 2017. (04 jun 2024)"
+description: "Como a bancada gaúcha votou em 04 jun 2024: Aprovado o Projeto de Lei Complementar nº 459, de 2017. Sim: 384; não: 59; abstenção: 1; total: 444."
 ---
 
 # PLP 459/2017
 
-<p class="subtitulo"><b>2024-06-04</b> · Aprovado o Projeto de Lei Complementar nº 459, de 2017.</p>
+<p class="subtitulo"><b>04 jun 2024</b> · Aprovado o Projeto de Lei Complementar nº 459, de 2017.</p>
 
 | | |
 |---|---|

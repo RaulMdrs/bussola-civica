@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5122/2023 — Aprovado o Substitutivo Reformulado ao Projeto de Lei nº 5.122, d (2025-07-16)"
-description: "Como a bancada gaúcha votou em 2025-07-16: Aprovado o Substitutivo Reformulado ao Projeto de Lei nº 5.122, de 2023, adotado pelo relator da Comissão de A"
+title: "PL 5122/2023 — Aprovado o Substitutivo Reformulado ao Projeto de Lei nº 5.122, d (16 jul 2025)"
+description: "Como a bancada gaúcha votou em 16 jul 2025: Aprovado o Substitutivo Reformulado ao Projeto de Lei nº 5.122, de 2023, adotado pelo relator da Comissão de A"
 ---
 
 # PL 5122/2023
 
-<p class="subtitulo"><b>2025-07-16</b> · Aprovado o Substitutivo Reformulado ao Projeto de Lei nº 5.122, de 2023, adotado pelo relator da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, ressalvado o destaque.</p>
+<p class="subtitulo"><b>16 jul 2025</b> · Aprovado o Substitutivo Reformulado ao Projeto de Lei nº 5.122, de 2023, adotado pelo relator da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, ressalvado o destaque.</p>
 
 | | |
 |---|---|

@@ -7,7 +7,7 @@ description: "Como Sanderson vota: alinhamento com o governo federal e coesão p
 
 # Sanderson
 
-<p class="subtitulo"><b>PL</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>PL</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. <span class="placar">Sim: 318; Não: 113; Abstenção: 1; Total: 432.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Rejeitadas as Emendas de Plenário. <span class="placar">Sim: 108; Não: 275; Abstenção: 1; Total: 384.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Rejeitada a Emenda de Plenário nº 1. <span class="placar">Sim: 105; Não: 233; Total: 338.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
 <p class="referencia">Maioria do partido: sim (68 sim / 11 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-04-28</span>
+<span class="data">28 abr 2026</span>
 <div class="corpo">
 <p>Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. <span class="placar">Sim: 444; Não: 12; Total: 456.</span></p>
 <p class="referencia">Maioria do partido: sim (75 sim / 4 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-03-18</span>
+<span class="data">18 mar 2026</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 278; Não: 114; Abstenção: 2; Total: 394.</span></p>
 <p class="referencia">Maioria do partido: sim (37 sim / 35 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -148,7 +148,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-4017">
-<span class="data">2026-07-15 · 16:40</span>
+<span class="data">15 jul 2026 · 16:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado defendeu a aprovação da Proposta de Emenda à Constituição — PEC nº 231, de 2019, que cria fundo constitucional para as Regiões Sul e Sudeste e amplia os repasses ao Fundo de Participação dos Municípios — FPM e à segurança pública. Além disso, sustentou que a proposta fortalecerá o enfrentamento da criminalidade e das demandas extraordinárias das Regiões Sul e Sudeste por meio do aumento de recursos orçamentários. Ademais, reforçou que o combate ao crime organizado depende de investimentos, integração e inteligência, com reforço das forças de segurança e do controle das fronteiras. Por fim, apelou ao Presidente da Câmara dos Deputados, Hugo Motta, para que inclua a PEC na pauta de votações do Plenário.</p>
@@ -157,7 +157,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4016">
-<span class="data">2026-07-08 · 18:44</span>
+<span class="data">08 jul 2026 · 18:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado defendeu a votação da Proposta de Emenda à Constituição nº 32, de 2015, que reduz a maioridade penal, após citar o caso de um jovem de 17 anos que teria cometido duplo homicídio e permanecido preso por apenas três meses. Além disso, afirmou que a população rejeitava a leniência com criminosos, sustentou que adolescentes com 17 anos já podiam votar e, por conseguinte, também deveriam responder criminalmente, e pediu a aprovação célere da proposta, parada há 11 anos, para proteger a sociedade.</p>
@@ -166,7 +166,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4015">
-<span class="data">2026-06-09 · 15:20</span>
+<span class="data">09 jun 2026 · 15:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado registrou o papel fiscalizador da Câmara e informou ter encaminhado ao Tribunal de Contas da União (TCU) representação para apurar gastos de servidores públicos brasileiros em fórum jurídico realizado em Lisboa, com passagens, hospedagem e alimentação pagos com recursos do contribuinte. Além disso, afirmou que a apuração já havia sido instaurada e defendeu a responsabilização e a devolução dos valores, para que a população fosse respeitada.</p>
@@ -175,7 +175,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4014">
-<span class="data">2026-05-19 · 15:56</span>
+<span class="data">19 mai 2026 · 15:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado cumprimentou Vereadores e Prefeitos presentes na Marcha dos Prefeitos em Brasília (DF), organizada pela Confederação Nacional dos Municípios (CNM), presidida por Paulo Ziulkoski. Citou representantes de diferentes Municípios do Rio Grande do Sul e de outros Estados, incluindo o Presidente da Câmara de Vereadores de Canoas (RS), Abmael de Oliveira, o Vereador Jorge Bellé, de Campo Bom (RS), o assessor Júnior Kowalski e o Secretário e Vereador Gelson, de Crissiumal (RS), além dos suplentes Flávio Moreno e Susanna do Val. Afirmou que o Parlamento recebeu lideranças municipais para aproximação com a realidade e as demandas dos Municípios no Congresso Nacional.</p>
@@ -184,7 +184,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4013">
-<span class="data">2026-05-05 · 17:52</span>
+<span class="data">05 mai 2026 · 17:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado registrou a celebração dos 400 anos da chegada dos jesuítas e da formação dos Sete Povos das Missões, destacando a relevância histórica da região para o Rio Grande do Sul. Além disso, abordou o elevado endividamento das famílias brasileiras, associando o cenário a fatores econômicos como inflação e juros altos. Ademais, criticou a insuficiência de programas existentes para enfrentamento do problema. Nesse contexto, apresentou o Projeto de Lei nº 2.013, de 2026, que institui o Programa Nacional de Renegociação de Dívidas das Famílias, voltado à reestruturação de débitos, prevenção do superendividamento e ampliação do acesso ao crédito. Por fim, defendeu medidas para fortalecer a economia e evitar novas crises.</p>

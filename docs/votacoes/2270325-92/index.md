@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 18/2021 — Rejeitada a Emenda de Plenário nº 6. (2025-11-12)"
-description: "Como a bancada gaúcha votou em 2025-11-12: Rejeitada a Emenda de Plenário nº 6. Sim: 148; Não: 215; Total: 363."
+title: "PLP 18/2021 — Rejeitada a Emenda de Plenário nº 6. (12 nov 2025)"
+description: "Como a bancada gaúcha votou em 12 nov 2025: Rejeitada a Emenda de Plenário nº 6. Sim: 148; Não: 215; Total: 363."
 ---
 
 # PLP 18/2021
 
-<p class="subtitulo"><b>2025-11-12</b> · Rejeitada a Emenda de Plenário nº 6.</p>
+<p class="subtitulo"><b>12 nov 2025</b> · Rejeitada a Emenda de Plenário nº 6.</p>
 
 | | |
 |---|---|

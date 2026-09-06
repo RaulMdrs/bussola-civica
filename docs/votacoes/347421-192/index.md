@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 31/2007 — Aprovada a preferência. (2024-12-18)"
-description: "Como a bancada gaúcha votou em 2024-12-18: Aprovada a preferência. Sim: 294; Não: 172; Total: 466."
+title: "PEC 31/2007 — Aprovada a preferência. (18 dez 2024)"
+description: "Como a bancada gaúcha votou em 18 dez 2024: Aprovada a preferência. Sim: 294; Não: 172; Total: 466."
 ---
 
 # PEC 31/2007
 
-<p class="subtitulo"><b>2024-12-18</b> · Aprovada a preferência.</p>
+<p class="subtitulo"><b>18 dez 2024</b> · Aprovada a preferência.</p>
 
 | | |
 |---|---|

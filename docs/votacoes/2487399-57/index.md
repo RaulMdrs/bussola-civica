@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1069/2025 — Mantido o texto. (2026-03-24)"
-description: "Como a bancada gaúcha votou em 2026-03-24: Mantido o texto. Sim: 295; Não: 120; Abstenção: 1; Total: 416."
+title: "PL 1069/2025 — Mantido o texto. (24 mar 2026)"
+description: "Como a bancada gaúcha votou em 24 mar 2026: Mantido o texto. Sim: 295; Não: 120; Abstenção: 1; Total: 416."
 ---
 
 # PL 1069/2025
 
-<p class="subtitulo"><b>2026-03-24</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>24 mar 2026</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

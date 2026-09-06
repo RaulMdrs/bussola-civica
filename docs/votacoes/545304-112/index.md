@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3899/2012 — Rejeitado o Requerimento. (2025-10-29)"
-description: "Como a bancada gaúcha votou em 2025-10-29: Rejeitado o Requerimento. Sim: 137; Não: 279; Total: 416."
+title: "PL 3899/2012 — Rejeitado o Requerimento. (29 out 2025)"
+description: "Como a bancada gaúcha votou em 29 out 2025: Rejeitado o Requerimento. Sim: 137; Não: 279; Total: 416."
 ---
 
 # PL 3899/2012
 
-<p class="subtitulo"><b>2025-10-29</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>29 out 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

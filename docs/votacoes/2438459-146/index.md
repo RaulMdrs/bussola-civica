@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 108/2024 — Suprimido o texto. (2025-12-16)"
-description: "Como a bancada gaúcha votou em 2025-12-16: Suprimido o texto. Sim: 221; Não: 242; Abstenção: 2; Total: 465."
+title: "PLP 108/2024 — Suprimido o texto. (16 dez 2025)"
+description: "Como a bancada gaúcha votou em 16 dez 2025: Suprimido o texto. Sim: 221; Não: 242; Abstenção: 2; Total: 465."
 ---
 
 # PLP 108/2024
 
-<p class="subtitulo"><b>2025-12-16</b> · Suprimido o texto.</p>
+<p class="subtitulo"><b>16 dez 2025</b> · Suprimido o texto.</p>
 
 | | |
 |---|---|

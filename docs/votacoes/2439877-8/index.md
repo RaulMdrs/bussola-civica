@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PRC 32/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-06-11)"
-description: "Como a bancada gaúcha votou em 2024-06-11: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 302; não: 142; abstenção: 1; total: 445."
+title: "PRC 32/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (11 jun 2024)"
+description: "Como a bancada gaúcha votou em 11 jun 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 302; não: 142; abstenção: 1; total: 445."
 ---
 
 # PRC 32/2024
 
-<p class="subtitulo"><b>2024-06-11</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>11 jun 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3626/2023 — Aprovada a Emenda de Plenário nº 34. (2023-09-13)"
-description: "Como a bancada gaúcha votou em 2023-09-13: Aprovada a Emenda de Plenário nº 34. Sim: 203; não: 164; total: 367."
+title: "PL 3626/2023 — Aprovada a Emenda de Plenário nº 34. (13 set 2023)"
+description: "Como a bancada gaúcha votou em 13 set 2023: Aprovada a Emenda de Plenário nº 34. Sim: 203; não: 164; total: 367."
 ---
 
 # PL 3626/2023
 
-<p class="subtitulo"><b>2023-09-13</b> · Aprovada a Emenda de Plenário nº 34.</p>
+<p class="subtitulo"><b>13 set 2023</b> · Aprovada a Emenda de Plenário nº 34.</p>
 
 | | |
 |---|---|

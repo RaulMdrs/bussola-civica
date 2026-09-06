@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 108/2024 — Rejeitada a Emenda de Plenário n° 8. (2024-10-30)"
-description: "Como a bancada gaúcha votou em 2024-10-30: Rejeitada a Emenda de Plenário n° 8. Sim: 136; Não: 262; Total: 398."
+title: "PLP 108/2024 — Rejeitada a Emenda de Plenário n° 8. (30 out 2024)"
+description: "Como a bancada gaúcha votou em 30 out 2024: Rejeitada a Emenda de Plenário n° 8. Sim: 136; Não: 262; Total: 398."
 ---
 
 # PLP 108/2024
 
-<p class="subtitulo"><b>2024-10-30</b> · Rejeitada a Emenda de Plenário n° 8.</p>
+<p class="subtitulo"><b>30 out 2024</b> · Rejeitada a Emenda de Plenário n° 8.</p>
 
 | | |
 |---|---|

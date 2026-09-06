@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3954/2023 — Aprovado o Requerimento de Urgência (art. 155 do RICD). (2023-11-29)"
-description: "Como a bancada gaúcha votou em 2023-11-29: Aprovado o Requerimento de Urgência (art. 155 do RICD). Sim: 302; não: 57; total: 359."
+title: "PL 3954/2023 — Aprovado o Requerimento de Urgência (art. 155 do RICD). (29 nov 2023)"
+description: "Como a bancada gaúcha votou em 29 nov 2023: Aprovado o Requerimento de Urgência (art. 155 do RICD). Sim: 302; não: 57; total: 359."
 ---
 
 # PL 3954/2023
 
-<p class="subtitulo"><b>2023-11-29</b> · Aprovado o Requerimento de Urgência (art. 155 do RICD).</p>
+<p class="subtitulo"><b>29 nov 2023</b> · Aprovado o Requerimento de Urgência (art. 155 do RICD).</p>
 
 | | |
 |---|---|

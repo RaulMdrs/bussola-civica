@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 293/2004 — Aprovado o Requerimento. (2023-12-15)"
-description: "Como a bancada gaúcha votou em 2023-12-15: Aprovado o Requerimento. Sim: 340; não: 42; abstenção: 3; total: 385."
+title: "PEC 293/2004 — Aprovado o Requerimento. (15 dez 2023)"
+description: "Como a bancada gaúcha votou em 15 dez 2023: Aprovado o Requerimento. Sim: 340; não: 42; abstenção: 3; total: 385."
 ---
 
 # PEC 293/2004
 
-<p class="subtitulo"><b>2023-12-15</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>15 dez 2023</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

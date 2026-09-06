@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 3/2021 — Aprovada a Emenda Aglutinativa de Plenário nº 1. (2025-09-17)"
-description: "Como a bancada gaúcha votou em 2025-09-17: Aprovada a Emenda Aglutinativa de Plenário nº 1. Sim: 314; Não: 168; Total: 482."
+title: "PEC 3/2021 — Aprovada a Emenda Aglutinativa de Plenário nº 1. (17 set 2025)"
+description: "Como a bancada gaúcha votou em 17 set 2025: Aprovada a Emenda Aglutinativa de Plenário nº 1. Sim: 314; Não: 168; Total: 482."
 ---
 
 # PEC 3/2021
 
-<p class="subtitulo"><b>2025-09-17</b> · Aprovada a Emenda Aglutinativa de Plenário nº 1.</p>
+<p class="subtitulo"><b>17 set 2025</b> · Aprovada a Emenda Aglutinativa de Plenário nº 1.</p>
 
 | | |
 |---|---|

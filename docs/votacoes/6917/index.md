@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei nº 4.614, de 2024, nos termos do parecer. (2024-12-19)"
-description: "Como os senadores gaúchos votou em 2024-12-19: Votação nominal do Projeto de Lei nº 4.614, de 2024, nos termos do parecer."
+title: "Votação nominal do Projeto de Lei nº 4.614, de 2024, nos termos do parecer. (19 dez 2024)"
+description: "Como os senadores gaúchos votou em 19 dez 2024: Votação nominal do Projeto de Lei nº 4.614, de 2024, nos termos do parecer."
 ---
 
-# Votação de 2024-12-19
+# Votação de 19 dez 2024
 
-<p class="subtitulo"><b>2024-12-19</b> · Votação nominal do Projeto de Lei nº 4.614, de 2024, nos termos do parecer.</p>
+<p class="subtitulo"><b>19 dez 2024</b> · Votação nominal do Projeto de Lei nº 4.614, de 2024, nos termos do parecer.</p>
 
 | | |
 |---|---|

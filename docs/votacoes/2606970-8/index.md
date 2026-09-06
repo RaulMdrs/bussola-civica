@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 330/2022 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2026-03-17)"
-description: "Como a bancada gaúcha votou em 2026-03-17: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 399; Não: 19; Total: 418."
+title: "PDL 330/2022 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (17 mar 2026)"
+description: "Como a bancada gaúcha votou em 17 mar 2026: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 399; Não: 19; Total: 418."
 ---
 
 # PDL 330/2022
 
-<p class="subtitulo"><b>2026-03-17</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>17 mar 2026</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 364/2019 — Rejeitado o Requerimento. (2026-05-19)"
-description: "Como a bancada gaúcha votou em 2026-05-19: Rejeitado o Requerimento. Sim: 126; Não: 274; Abstenção: 2; Total: 402."
+title: "PL 364/2019 — Rejeitado o Requerimento. (19 mai 2026)"
+description: "Como a bancada gaúcha votou em 19 mai 2026: Rejeitado o Requerimento. Sim: 126; Não: 274; Abstenção: 2; Total: 402."
 ---
 
 # PL 364/2019
 
-<p class="subtitulo"><b>2026-05-19</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>19 mai 2026</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 609/2021 — Rejeitado o Requerimento. (2025-05-29)"
-description: "Como a bancada gaúcha votou em 2025-05-29: Rejeitado o Requerimento. Sim: 102; Não: 258; Total: 360."
+title: "PDL 609/2021 — Rejeitado o Requerimento. (29 mai 2025)"
+description: "Como a bancada gaúcha votou em 29 mai 2025: Rejeitado o Requerimento. Sim: 102; Não: 258; Total: 360."
 ---
 
 # PDL 609/2021
 
-<p class="subtitulo"><b>2025-05-29</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>29 mai 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

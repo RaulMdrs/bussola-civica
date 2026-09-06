@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6446/2019 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2023-04-11)"
-description: "Como a bancada gaúcha votou em 2023-04-11: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 296; não: 107; total: 403."
+title: "PL 6446/2019 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (11 abr 2023)"
+description: "Como a bancada gaúcha votou em 11 abr 2023: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 296; não: 107; total: 403."
 ---
 
 # PL 6446/2019
 
-<p class="subtitulo"><b>2023-04-11</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>11 abr 2023</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

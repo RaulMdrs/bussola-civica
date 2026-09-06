@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei Complementar nº 92, de 2024, nos termos do par (2024-12-18)"
-description: "Como os senadores gaúchos votou em 2024-12-18: Votação nominal do Projeto de Lei Complementar nº 92, de 2024, nos termos do parecer."
+title: "Votação nominal do Projeto de Lei Complementar nº 92, de 2024, nos termos do par (18 dez 2024)"
+description: "Como os senadores gaúchos votou em 18 dez 2024: Votação nominal do Projeto de Lei Complementar nº 92, de 2024, nos termos do parecer."
 ---
 
-# Votação de 2024-12-18
+# Votação de 18 dez 2024
 
-<p class="subtitulo"><b>2024-12-18</b> · Votação nominal do Projeto de Lei Complementar nº 92, de 2024, nos termos do parecer.</p>
+<p class="subtitulo"><b>18 dez 2024</b> · Votação nominal do Projeto de Lei Complementar nº 92, de 2024, nos termos do parecer.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 192/2023 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Comple (2023-09-14)"
-description: "Como a bancada gaúcha votou em 2023-09-14: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 192, de 2023, adotada pelo Relator "
+title: "PLP 192/2023 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Comple (14 set 2023)"
+description: "Como a bancada gaúcha votou em 14 set 2023: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 192, de 2023, adotada pelo Relator "
 ---
 
 # PLP 192/2023
 
-<p class="subtitulo"><b>2023-09-14</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 192, de 2023, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques.</p>
+<p class="subtitulo"><b>14 set 2023</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 192, de 2023, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques.</p>
 
 | | |
 |---|---|

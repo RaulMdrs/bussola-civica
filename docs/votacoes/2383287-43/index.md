@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4173/2023 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.1 (2023-10-25)"
-description: "Como a bancada gaúcha votou em 2023-10-25: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.173, de 2023, adotada pelo relator da Comissão"
+title: "PL 4173/2023 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.1 (25 out 2023)"
+description: "Como a bancada gaúcha votou em 25 out 2023: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.173, de 2023, adotada pelo relator da Comissão"
 ---
 
 # PL 4173/2023
 
-<p class="subtitulo"><b>2023-10-25</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.173, de 2023, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques.</p>
+<p class="subtitulo"><b>25 out 2023</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.173, de 2023, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques.</p>
 
 | | |
 |---|---|

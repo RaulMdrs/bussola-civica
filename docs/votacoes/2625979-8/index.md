@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1448/2026 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2026-05-20)"
-description: "Como a bancada gaúcha votou em 2026-05-20: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 269; Não: 125; Abstenção: 2; Total: 396."
+title: "PL 1448/2026 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (20 mai 2026)"
+description: "Como a bancada gaúcha votou em 20 mai 2026: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 269; Não: 125; Abstenção: 2; Total: 396."
 ---
 
 # PL 1448/2026
 
-<p class="subtitulo"><b>2026-05-20</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>20 mai 2026</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

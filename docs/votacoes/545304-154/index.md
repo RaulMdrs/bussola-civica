@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3899/2012 — Suprimido o texto. (2025-10-29)"
-description: "Como a bancada gaúcha votou em 2025-10-29: Suprimido o texto. Sim: 173; Não: 238; Total: 411."
+title: "PL 3899/2012 — Suprimido o texto. (29 out 2025)"
+description: "Como a bancada gaúcha votou em 29 out 2025: Suprimido o texto. Sim: 173; Não: 238; Total: 411."
 ---
 
 # PL 3899/2012
 
-<p class="subtitulo"><b>2025-10-29</b> · Suprimido o texto.</p>
+<p class="subtitulo"><b>29 out 2025</b> · Suprimido o texto.</p>
 
 | | |
 |---|---|

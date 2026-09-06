@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 66/2023 — Aprovado o Requerimento nº 2.779/2025, dos Senhores Líderes, que s (2025-07-15)"
-description: "Como a bancada gaúcha votou em 2025-07-15: Aprovado o Requerimento nº 2.779/2025, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões"
+title: "PEC 66/2023 — Aprovado o Requerimento nº 2.779/2025, dos Senhores Líderes, que s (15 jul 2025)"
+description: "Como a bancada gaúcha votou em 15 jul 2025: Aprovado o Requerimento nº 2.779/2025, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões"
 ---
 
 # PEC 66/2023
 
-<p class="subtitulo"><b>2025-07-15</b> · Aprovado o Requerimento nº 2.779/2025, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões previsto no § 6º do art. 202 do RICD, para apreciação do segundo turno da PEC 66, de 2023.</p>
+<p class="subtitulo"><b>15 jul 2025</b> · Aprovado o Requerimento nº 2.779/2025, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões previsto no § 6º do art. 202 do RICD, para apreciação do segundo turno da PEC 66, de 2023.</p>
 
 | | |
 |---|---|

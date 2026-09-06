@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 177/2023 — Aprovado o Requerimento. (2025-05-06)"
-description: "Como a bancada gaúcha votou em 2025-05-06: Aprovado o Requerimento. Sim: 298; Não: 154; Total: 452."
+title: "PLP 177/2023 — Aprovado o Requerimento. (06 mai 2025)"
+description: "Como a bancada gaúcha votou em 06 mai 2025: Aprovado o Requerimento. Sim: 298; Não: 154; Total: 452."
 ---
 
 # PLP 177/2023
 
-<p class="subtitulo"><b>2025-05-06</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>06 mai 2025</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

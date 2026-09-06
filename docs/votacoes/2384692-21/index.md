@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1185/2023 — Rejeitado o Requerimento. (2023-12-15)"
-description: "Como a bancada gaúcha votou em 2023-12-15: Rejeitado o Requerimento. Sim: 32; não: 307; abstenção: 2; total: 341."
+title: "MPV 1185/2023 — Rejeitado o Requerimento. (15 dez 2023)"
+description: "Como a bancada gaúcha votou em 15 dez 2023: Rejeitado o Requerimento. Sim: 32; não: 307; abstenção: 2; total: 341."
 ---
 
 # MPV 1185/2023
 
-<p class="subtitulo"><b>2023-12-15</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>15 dez 2023</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

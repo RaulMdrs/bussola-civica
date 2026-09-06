@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2225/2024 — Suprimido o texto. (2025-10-15)"
-description: "Como a bancada gaúcha votou em 2025-10-15: Suprimido o texto. Sim: 169; Não: 200; Total: 369."
+title: "PL 2225/2024 — Suprimido o texto. (15 out 2025)"
+description: "Como a bancada gaúcha votou em 15 out 2025: Suprimido o texto. Sim: 169; Não: 200; Total: 369."
 ---
 
 # PL 2225/2024
 
-<p class="subtitulo"><b>2025-10-15</b> · Suprimido o texto.</p>
+<p class="subtitulo"><b>15 out 2025</b> · Suprimido o texto.</p>
 
 | | |
 |---|---|

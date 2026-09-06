@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4392/2025 — Aprovado, por unanimidade, o Requerimento de Urgência (Art. 155 d (2025-09-09)"
-description: "Como a bancada gaúcha votou em 2025-09-09: Aprovado, por unanimidade, o Requerimento de Urgência (Art. 155 do RICD). Sim: 310; Não: 115; Total: 425."
+title: "PL 4392/2025 — Aprovado, por unanimidade, o Requerimento de Urgência (Art. 155 d (09 set 2025)"
+description: "Como a bancada gaúcha votou em 09 set 2025: Aprovado, por unanimidade, o Requerimento de Urgência (Art. 155 do RICD). Sim: 310; Não: 115; Total: 425."
 ---
 
 # PL 4392/2025
 
-<p class="subtitulo"><b>2025-09-09</b> · Aprovado, por unanimidade, o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>09 set 2025</b> · Aprovado, por unanimidade, o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

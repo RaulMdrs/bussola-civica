@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2159/2021 — Aprovada a Emenda do Senado Federal nº 18. (2025-07-16)"
-description: "Como a bancada gaúcha votou em 2025-07-16: Aprovada a Emenda do Senado Federal nº 18. Sim: 221; Não: 77; Abstenção: 1; Total: 299."
+title: "PL 2159/2021 — Aprovada a Emenda do Senado Federal nº 18. (16 jul 2025)"
+description: "Como a bancada gaúcha votou em 16 jul 2025: Aprovada a Emenda do Senado Federal nº 18. Sim: 221; Não: 77; Abstenção: 1; Total: 299."
 ---
 
 # PL 2159/2021
 
-<p class="subtitulo"><b>2025-07-16</b> · Aprovada a Emenda do Senado Federal nº 18.</p>
+<p class="subtitulo"><b>16 jul 2025</b> · Aprovada a Emenda do Senado Federal nº 18.</p>
 
 | | |
 |---|---|

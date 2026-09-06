@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 347/2003 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 347, (2025-11-05)"
-description: "Como a bancada gaúcha votou em 2025-11-05: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 347, de 2003, adotado pelo relator da Comissão d"
+title: "PL 347/2003 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 347, (05 nov 2025)"
+description: "Como a bancada gaúcha votou em 05 nov 2025: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 347, de 2003, adotado pelo relator da Comissão d"
 ---
 
 # PL 347/2003
 
-<p class="subtitulo"><b>2025-11-05</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 347, de 2003, adotado pelo relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvado o destaque.</p>
+<p class="subtitulo"><b>05 nov 2025</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 347, de 2003, adotado pelo relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvado o destaque.</p>
 
 | | |
 |---|---|

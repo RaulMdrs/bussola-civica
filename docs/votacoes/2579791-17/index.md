@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4675/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2026-03-18)"
-description: "Como a bancada gaúcha votou em 2026-03-18: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 186; Total: 462."
+title: "PL 4675/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (18 mar 2026)"
+description: "Como a bancada gaúcha votou em 18 mar 2026: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 186; Total: 462."
 ---
 
 # PL 4675/2025
 
-<p class="subtitulo"><b>2026-03-18</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>18 mar 2026</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

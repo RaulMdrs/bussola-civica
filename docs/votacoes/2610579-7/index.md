@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2898/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2026-07-02)"
-description: "Como a bancada gaúcha votou em 2026-07-02: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 305; Não: 112; Abstenção: 1; Total: 418."
+title: "PL 2898/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (02 jul 2026)"
+description: "Como a bancada gaúcha votou em 02 jul 2026: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 305; Não: 112; Abstenção: 1; Total: 418."
 ---
 
 # PL 2898/2025
 
-<p class="subtitulo"><b>2026-07-02</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>02 jul 2026</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei nº 2.903 de 2023, nos termos dos Pareceres, re (2023-09-27)"
-description: "Como os senadores gaúchos votou em 2023-09-27: Votação nominal do Projeto de Lei nº 2.903 de 2023, nos termos dos Pareceres, ressalvados os destaques."
+title: "Votação nominal do Projeto de Lei nº 2.903 de 2023, nos termos dos Pareceres, re (27 set 2023)"
+description: "Como os senadores gaúchos votou em 27 set 2023: Votação nominal do Projeto de Lei nº 2.903 de 2023, nos termos dos Pareceres, ressalvados os destaques."
 ---
 
-# Votação de 2023-09-27
+# Votação de 27 set 2023
 
-<p class="subtitulo"><b>2023-09-27</b> · Votação nominal do Projeto de Lei nº 2.903 de 2023, nos termos dos Pareceres, ressalvados os destaques.</p>
+<p class="subtitulo"><b>27 set 2023</b> · Votação nominal do Projeto de Lei nº 2.903 de 2023, nos termos dos Pareceres, ressalvados os destaques.</p>
 
 | | |
 |---|---|

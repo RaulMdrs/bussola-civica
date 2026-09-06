@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1152/2022 — Aprovada a Medida Provisória nº 1.152 de 2022, na forma do Proje (2023-03-30)"
-description: "Como a bancada gaúcha votou em 2023-03-30: Aprovada a Medida Provisória nº 1.152 de 2022, na forma do Projeto de Lei de Conversão, ressalvado o destaque."
+title: "MPV 1152/2022 — Aprovada a Medida Provisória nº 1.152 de 2022, na forma do Proje (30 mar 2023)"
+description: "Como a bancada gaúcha votou em 30 mar 2023: Aprovada a Medida Provisória nº 1.152 de 2022, na forma do Projeto de Lei de Conversão, ressalvado o destaque."
 ---
 
 # MPV 1152/2022
 
-<p class="subtitulo"><b>2023-03-30</b> · Aprovada a Medida Provisória nº 1.152 de 2022, na forma do Projeto de Lei de Conversão, ressalvado o destaque.</p>
+<p class="subtitulo"><b>30 mar 2023</b> · Aprovada a Medida Provisória nº 1.152 de 2022, na forma do Projeto de Lei de Conversão, ressalvado o destaque.</p>
 
 | | |
 |---|---|

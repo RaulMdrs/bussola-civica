@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 18/2025 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº (2026-03-04)"
-description: "Como a bancada gaúcha votou em 2026-03-04: Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 18, de 2025. Sim: 461; Não: 14; Total: 475."
+title: "PEC 18/2025 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº (04 mar 2026)"
+description: "Como a bancada gaúcha votou em 04 mar 2026: Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 18, de 2025. Sim: 461; Não: 14; Total: 475."
 ---
 
 # PEC 18/2025
 
-<p class="subtitulo"><b>2026-03-04</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 18, de 2025.</p>
+<p class="subtitulo"><b>04 mar 2026</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 18, de 2025.</p>
 
 | | |
 |---|---|

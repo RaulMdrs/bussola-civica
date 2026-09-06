@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 68/2024 — Aprovada a Emenda de Redação n° 2. (2024-12-17)"
-description: "Como a bancada gaúcha votou em 2024-12-17: Aprovada a Emenda de Redação n° 2. Sim: 314; Não: 117; Abstenção: 1; Total: 432."
+title: "PLP 68/2024 — Aprovada a Emenda de Redação n° 2. (17 dez 2024)"
+description: "Como a bancada gaúcha votou em 17 dez 2024: Aprovada a Emenda de Redação n° 2. Sim: 314; Não: 117; Abstenção: 1; Total: 432."
 ---
 
 # PLP 68/2024
 
-<p class="subtitulo"><b>2024-12-17</b> · Aprovada a Emenda de Redação n° 2.</p>
+<p class="subtitulo"><b>17 dez 2024</b> · Aprovada a Emenda de Redação n° 2.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PRC 63/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2025-08-19)"
-description: "Como a bancada gaúcha votou em 2025-08-19: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 266; Não: 114; Abstenção: 1; Total: 381."
+title: "PRC 63/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (19 ago 2025)"
+description: "Como a bancada gaúcha votou em 19 ago 2025: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 266; Não: 114; Abstenção: 1; Total: 381."
 ---
 
 # PRC 63/2025
 
-<p class="subtitulo"><b>2025-08-19</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>19 ago 2025</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

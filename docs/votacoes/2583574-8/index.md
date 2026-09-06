@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 215/2015 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2025-11-12)"
-description: "Como a bancada gaúcha votou em 2025-11-12: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 300; Não: 114; Total: 414."
+title: "PL 215/2015 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (12 nov 2025)"
+description: "Como a bancada gaúcha votou em 12 nov 2025: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 300; Não: 114; Total: 414."
 ---
 
 # PL 215/2015
 
-<p class="subtitulo"><b>2025-11-12</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>12 nov 2025</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

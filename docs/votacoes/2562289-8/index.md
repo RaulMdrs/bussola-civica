@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 104/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2026-04-07)"
-description: "Como a bancada gaúcha votou em 2026-04-07: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 272; Não: 18; Total: 290."
+title: "PLP 104/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (07 abr 2026)"
+description: "Como a bancada gaúcha votou em 07 abr 2026: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 272; Não: 18; Total: 290."
 ---
 
 # PLP 104/2025
 
-<p class="subtitulo"><b>2026-04-07</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>07 abr 2026</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

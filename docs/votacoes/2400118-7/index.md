@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2275/2022 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2023-10-30)"
-description: "Como a bancada gaúcha votou em 2023-10-30: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 401; não: 37; total: 438."
+title: "PL 2275/2022 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (30 out 2023)"
+description: "Como a bancada gaúcha votou em 30 out 2023: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 401; não: 37; total: 438."
 ---
 
 # PL 2275/2022
 
-<p class="subtitulo"><b>2023-10-30</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>30 out 2023</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

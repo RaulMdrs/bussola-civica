@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1708/2025 — Aprovado o Projeto de Lei nº 1.708, de 2025. (2025-05-26)"
-description: "Como a bancada gaúcha votou em 2025-05-26: Aprovado o Projeto de Lei nº 1.708, de 2025. Sim: 289; Não: 136; Total: 425."
+title: "PL 1708/2025 — Aprovado o Projeto de Lei nº 1.708, de 2025. (26 mai 2025)"
+description: "Como a bancada gaúcha votou em 26 mai 2025: Aprovado o Projeto de Lei nº 1.708, de 2025. Sim: 289; Não: 136; Total: 425."
 ---
 
 # PL 1708/2025
 
-<p class="subtitulo"><b>2025-05-26</b> · Aprovado o Projeto de Lei nº 1.708, de 2025.</p>
+<p class="subtitulo"><b>26 mai 2025</b> · Aprovado o Projeto de Lei nº 1.708, de 2025.</p>
 
 | | |
 |---|---|

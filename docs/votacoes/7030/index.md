@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei Complementar nº  (2025-12-03)"
-description: "Como os senadores gaúchos votou em 2025-12-03: Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei Complementar nº 163, de 2025, nos termos do pa"
+title: "Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei Complementar nº  (03 dez 2025)"
+description: "Como os senadores gaúchos votou em 03 dez 2025: Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei Complementar nº 163, de 2025, nos termos do pa"
 ---
 
-# Votação de 2025-12-03
+# Votação de 03 dez 2025
 
-<p class="subtitulo"><b>2025-12-03</b> · Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei Complementar nº 163, de 2025, nos termos do parecer.</p>
+<p class="subtitulo"><b>03 dez 2025</b> · Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei Complementar nº 163, de 2025, nos termos do parecer.</p>
 
 | | |
 |---|---|

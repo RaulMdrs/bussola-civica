@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 759/2026 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2026-03-16)"
-description: "Como a bancada gaúcha votou em 2026-03-16: Aprovado o Requerimento de Urgência (Art. 155 do RICD)."
+title: "PL 759/2026 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (16 mar 2026)"
+description: "Como a bancada gaúcha votou em 16 mar 2026: Aprovado o Requerimento de Urgência (Art. 155 do RICD)."
 ---
 
 # PL 759/2026
 
-<p class="subtitulo"><b>2026-03-16</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>16 mar 2026</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

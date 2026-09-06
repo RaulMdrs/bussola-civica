@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei Complementar nº  (2025-02-19)"
-description: "Como os senadores gaúchos votou em 2025-02-19: Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei Complementar nº 22, de 2025, nos termos do par"
+title: "Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei Complementar nº  (19 fev 2025)"
+description: "Como os senadores gaúchos votou em 19 fev 2025: Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei Complementar nº 22, de 2025, nos termos do par"
 ---
 
-# Votação de 2025-02-19
+# Votação de 19 fev 2025
 
-<p class="subtitulo"><b>2025-02-19</b> · Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei Complementar nº 22, de 2025, nos termos do parecer.</p>
+<p class="subtitulo"><b>19 fev 2025</b> · Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei Complementar nº 22, de 2025, nos termos do parecer.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 9/2023 — Aprovado o Requerimento nº 2.581/2024, dos Senhores Líderes, que so (2024-07-11)"
-description: "Como a bancada gaúcha votou em 2024-07-11: Aprovado o Requerimento nº 2.581/2024, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões"
+title: "PEC 9/2023 — Aprovado o Requerimento nº 2.581/2024, dos Senhores Líderes, que so (11 jul 2024)"
+description: "Como a bancada gaúcha votou em 11 jul 2024: Aprovado o Requerimento nº 2.581/2024, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões"
 ---
 
 # PEC 9/2023
 
-<p class="subtitulo"><b>2024-07-11</b> · Aprovado o Requerimento nº 2.581/2024, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões previsto no § 6º do art. 202 do RICD, para apreciação do segundo turno da PEC nº 9, de 2023.</p>
+<p class="subtitulo"><b>11 jul 2024</b> · Aprovado o Requerimento nº 2.581/2024, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões previsto no § 6º do art. 202 do RICD, para apreciação do segundo turno da PEC nº 9, de 2023.</p>
 
 | | |
 |---|---|

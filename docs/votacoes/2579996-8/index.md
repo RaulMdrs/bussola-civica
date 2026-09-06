@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2947/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2025-11-03)"
-description: "Como a bancada gaúcha votou em 2025-11-03: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 295; Não: 118; Total: 413."
+title: "PL 2947/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (03 nov 2025)"
+description: "Como a bancada gaúcha votou em 03 nov 2025: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 295; Não: 118; Total: 413."
 ---
 
 # PL 2947/2025
 
-<p class="subtitulo"><b>2025-11-03</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>03 nov 2025</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

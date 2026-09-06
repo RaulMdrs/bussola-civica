@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3802/2024 — Rejeitado o Requerimento. (2024-12-19)"
-description: "Como a bancada gaúcha votou em 2024-12-19: Rejeitado o Requerimento. Sim: 82; Não: 193; Total: 275."
+title: "PL 3802/2024 — Rejeitado o Requerimento. (19 dez 2024)"
+description: "Como a bancada gaúcha votou em 19 dez 2024: Rejeitado o Requerimento. Sim: 82; Não: 193; Total: 275."
 ---
 
 # PL 3802/2024
 
-<p class="subtitulo"><b>2024-12-19</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>19 dez 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

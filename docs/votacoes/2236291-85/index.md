@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 13/2020 — Mantido o texto. (2024-06-19)"
-description: "Como a bancada gaúcha votou em 2024-06-19: Mantido o texto. Sim: 313; não: 116; total: 429."
+title: "PL 13/2020 — Mantido o texto. (19 jun 2024)"
+description: "Como a bancada gaúcha votou em 19 jun 2024: Mantido o texto. Sim: 313; não: 116; total: 429."
 ---
 
 # PL 13/2020
 
-<p class="subtitulo"><b>2024-06-19</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>19 jun 2024</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

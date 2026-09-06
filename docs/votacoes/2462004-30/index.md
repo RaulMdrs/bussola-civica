@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3879/2024 — Rejeitado o Requerimento. (2026-03-03)"
-description: "Como a bancada gaúcha votou em 2026-03-03: Rejeitado o Requerimento. Sim: 96; Não: 305; Abstenção: 3; Total: 404."
+title: "PL 3879/2024 — Rejeitado o Requerimento. (03 mar 2026)"
+description: "Como a bancada gaúcha votou em 03 mar 2026: Rejeitado o Requerimento. Sim: 96; Não: 305; Abstenção: 3; Total: 404."
 ---
 
 # PL 3879/2024
 
-<p class="subtitulo"><b>2026-03-03</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>03 mar 2026</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

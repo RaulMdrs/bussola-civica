@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 41/2026 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 41, de 2 (2026-07-07)"
-description: "Como a bancada gaúcha votou em 2026-07-07: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 41, de 2026, adotado pela relatora da Comissão de De"
+title: "PLP 41/2026 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 41, de 2 (07 jul 2026)"
+description: "Como a bancada gaúcha votou em 07 jul 2026: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 41, de 2026, adotado pela relatora da Comissão de De"
 ---
 
 # PLP 41/2026
 
-<p class="subtitulo"><b>2026-07-07</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 41, de 2026, adotado pela relatora da Comissão de Defesa dos Direitos da Mulher.</p>
+<p class="subtitulo"><b>07 jul 2026</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 41, de 2026, adotado pela relatora da Comissão de Defesa dos Direitos da Mulher.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2130/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-08-15)"
-description: "Como a bancada gaúcha votou em 2024-08-15: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 339; não: 82; abstenção: 5; total: 426."
+title: "PL 2130/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (15 ago 2024)"
+description: "Como a bancada gaúcha votou em 15 ago 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 339; não: 82; abstenção: 5; total: 426."
 ---
 
 # PL 2130/2024
 
-<p class="subtitulo"><b>2024-08-15</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>15 ago 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 3/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2025-11-05)"
-description: "Como a bancada gaúcha votou em 2025-11-05: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 313; Não: 119; Abstenção: 1; Total: 433."
+title: "PDL 3/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (05 nov 2025)"
+description: "Como a bancada gaúcha votou em 05 nov 2025: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 313; Não: 119; Abstenção: 1; Total: 433."
 ---
 
 # PDL 3/2025
 
-<p class="subtitulo"><b>2025-11-05</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>05 nov 2025</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

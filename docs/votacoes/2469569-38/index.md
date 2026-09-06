@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4397/2024 — Aprovado o Substitutivo ao Projeto de Lei nº 4.397, de 2024, adot (2026-04-22)"
-description: "Como a bancada gaúcha votou em 2026-04-22: Aprovado o Substitutivo ao Projeto de Lei nº 4.397, de 2024, adotado pelo relator da Comissão de Constituição "
+title: "PL 4397/2024 — Aprovado o Substitutivo ao Projeto de Lei nº 4.397, de 2024, adot (22 abr 2026)"
+description: "Como a bancada gaúcha votou em 22 abr 2026: Aprovado o Substitutivo ao Projeto de Lei nº 4.397, de 2024, adotado pelo relator da Comissão de Constituição "
 ---
 
 # PL 4397/2024
 
-<p class="subtitulo"><b>2026-04-22</b> · Aprovado o Substitutivo ao Projeto de Lei nº 4.397, de 2024, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania.</p>
+<p class="subtitulo"><b>22 abr 2026</b> · Aprovado o Substitutivo ao Projeto de Lei nº 4.397, de 2024, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania.</p>
 
 | | |
 |---|---|

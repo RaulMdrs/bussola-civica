@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 175/2024 — Rejeitados os artigos 3º e 7º; a supressão do § 4º do art. 4º apr (2024-11-19)"
-description: "Como a bancada gaúcha votou em 2024-11-19: Rejeitados os artigos 3º e 7º; a supressão do § 4º do art. 4º aprovado pela Câmara, reestabelecendo o referido"
+title: "PLP 175/2024 — Rejeitados os artigos 3º e 7º; a supressão do § 4º do art. 4º apr (19 nov 2024)"
+description: "Como a bancada gaúcha votou em 19 nov 2024: Rejeitados os artigos 3º e 7º; a supressão do § 4º do art. 4º aprovado pela Câmara, reestabelecendo o referido"
 ---
 
 # PLP 175/2024
 
-<p class="subtitulo"><b>2024-11-19</b> · Rejeitados os artigos 3º e 7º; a supressão do § 4º do art. 4º aprovado pela Câmara, reestabelecendo o referido dispositivo, e rejeitado o § 2º do art. 8º.</p>
+<p class="subtitulo"><b>19 nov 2024</b> · Rejeitados os artigos 3º e 7º; a supressão do § 4º do art. 4º aprovado pela Câmara, reestabelecendo o referido dispositivo, e rejeitado o § 2º do art. 8º.</p>
 
 | | |
 |---|---|

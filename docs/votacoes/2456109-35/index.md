@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 343/2024 — Aprovado o Projeto de Decreto Legislativo nº 343, de 2024. (2024-11-19)"
-description: "Como a bancada gaúcha votou em 2024-11-19: Aprovado o Projeto de Decreto Legislativo nº 343, de 2024. Sim: 364; Não: 2; Total: 366."
+title: "PDL 343/2024 — Aprovado o Projeto de Decreto Legislativo nº 343, de 2024. (19 nov 2024)"
+description: "Como a bancada gaúcha votou em 19 nov 2024: Aprovado o Projeto de Decreto Legislativo nº 343, de 2024. Sim: 364; Não: 2; Total: 366."
 ---
 
 # PDL 343/2024
 
-<p class="subtitulo"><b>2024-11-19</b> · Aprovado o Projeto de Decreto Legislativo nº 343, de 2024.</p>
+<p class="subtitulo"><b>19 nov 2024</b> · Aprovado o Projeto de Decreto Legislativo nº 343, de 2024.</p>
 
 | | |
 |---|---|

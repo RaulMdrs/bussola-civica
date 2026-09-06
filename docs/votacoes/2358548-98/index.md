@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2162/2023 — Aprovada a Redação Final assinada pelo relator, Dep. Paulinho da  (2025-12-09)"
-description: "Como a bancada gaúcha votou em 2025-12-09: Aprovada a Redação Final assinada pelo relator, Dep. Paulinho da Força (SOLIDARIEDADE/SP). Sim: 235; Não: 25; "
+title: "PL 2162/2023 — Aprovada a Redação Final assinada pelo relator, Dep. Paulinho da  (09 dez 2025)"
+description: "Como a bancada gaúcha votou em 09 dez 2025: Aprovada a Redação Final assinada pelo relator, Dep. Paulinho da Força (SOLIDARIEDADE/SP). Sim: 235; Não: 25; "
 ---
 
 # PL 2162/2023
 
-<p class="subtitulo"><b>2025-12-09</b> · Aprovada a Redação Final assinada pelo relator, Dep. Paulinho da Força (SOLIDARIEDADE/SP).</p>
+<p class="subtitulo"><b>09 dez 2025</b> · Aprovada a Redação Final assinada pelo relator, Dep. Paulinho da Força (SOLIDARIEDADE/SP).</p>
 
 | | |
 |---|---|

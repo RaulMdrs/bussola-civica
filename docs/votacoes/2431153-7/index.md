@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1366/2022 — Aprovado o Requerimento. (2024-05-07)"
-description: "Como a bancada gaúcha votou em 2024-05-07: Aprovado o Requerimento. Sim: 325; não: 128; abstenção: 1; total: 454."
+title: "PL 1366/2022 — Aprovado o Requerimento. (07 mai 2024)"
+description: "Como a bancada gaúcha votou em 07 mai 2024: Aprovado o Requerimento. Sim: 325; não: 128; abstenção: 1; total: 454."
 ---
 
 # PL 1366/2022
 
-<p class="subtitulo"><b>2024-05-07</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>07 mai 2024</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

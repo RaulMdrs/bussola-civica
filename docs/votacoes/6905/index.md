@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Substitutivo da Câmara dos Deputados ao Projeto de Lei Comple (2024-12-17)"
-description: "Como os senadores gaúchos votou em 2024-12-17: Votação nominal do Substitutivo da Câmara dos Deputados ao Projeto de Lei Complementar nº 121/2024, nos termos"
+title: "Votação nominal do Substitutivo da Câmara dos Deputados ao Projeto de Lei Comple (17 dez 2024)"
+description: "Como os senadores gaúchos votou em 17 dez 2024: Votação nominal do Substitutivo da Câmara dos Deputados ao Projeto de Lei Complementar nº 121/2024, nos termos"
 ---
 
-# Votação de 2024-12-17
+# Votação de 17 dez 2024
 
-<p class="subtitulo"><b>2024-12-17</b> · Votação nominal do Substitutivo da Câmara dos Deputados ao Projeto de Lei Complementar nº 121/2024, nos termos do parecer.</p>
+<p class="subtitulo"><b>17 dez 2024</b> · Votação nominal do Substitutivo da Câmara dos Deputados ao Projeto de Lei Complementar nº 121/2024, nos termos do parecer.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6415/2025 — Mantido o texto. (2026-03-11)"
-description: "Como a bancada gaúcha votou em 2026-03-11: Mantido o texto. Sim: 213; Não: 152; Abstenção: 3; Total: 368."
+title: "PL 6415/2025 — Mantido o texto. (11 mar 2026)"
+description: "Como a bancada gaúcha votou em 11 mar 2026: Mantido o texto. Sim: 213; Não: 152; Abstenção: 3; Total: 368."
 ---
 
 # PL 6415/2025
 
-<p class="subtitulo"><b>2026-03-11</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>11 mar 2026</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

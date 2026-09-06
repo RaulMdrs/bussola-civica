@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 3/2021 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição n°  (2025-09-16)"
-description: "Como a bancada gaúcha votou em 2025-09-16: Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 3, de 2021, ressalvado os destaques. Sim: 3"
+title: "PEC 3/2021 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição n°  (16 set 2025)"
+description: "Como a bancada gaúcha votou em 16 set 2025: Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 3, de 2021, ressalvado os destaques. Sim: 3"
 ---
 
 # PEC 3/2021
 
-<p class="subtitulo"><b>2025-09-16</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 3, de 2021, ressalvado os destaques.</p>
+<p class="subtitulo"><b>16 set 2025</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 3, de 2021, ressalvado os destaques.</p>
 
 | | |
 |---|---|

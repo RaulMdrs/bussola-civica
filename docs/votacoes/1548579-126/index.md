@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 182/2024 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.14 (2023-12-21)"
-description: "Como a bancada gaúcha votou em 2023-12-21: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.148, de 2015, adotada pelo relator da Comissão"
+title: "PL 182/2024 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.14 (21 dez 2023)"
+description: "Como a bancada gaúcha votou em 21 dez 2023: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.148, de 2015, adotada pelo relator da Comissão"
 ---
 
 # PL 182/2024
 
-<p class="subtitulo"><b>2023-12-21</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.148, de 2015, adotada pelo relator da Comissão Especial, ressalvado o destaque.</p>
+<p class="subtitulo"><b>21 dez 2023</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.148, de 2015, adotada pelo relator da Comissão Especial, ressalvado o destaque.</p>
 
 | | |
 |---|---|

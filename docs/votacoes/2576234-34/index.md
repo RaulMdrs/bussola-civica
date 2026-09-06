@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 204/2025 — Aprovado o Projeto de Lei Complementar nº 204, de 2025, ressalvad (2025-11-03)"
-description: "Como a bancada gaúcha votou em 2025-11-03: Aprovado o Projeto de Lei Complementar nº 204, de 2025, ressalvado o destaque. Sim: 360; Não: 23; Abstenção: 2"
+title: "PLP 204/2025 — Aprovado o Projeto de Lei Complementar nº 204, de 2025, ressalvad (03 nov 2025)"
+description: "Como a bancada gaúcha votou em 03 nov 2025: Aprovado o Projeto de Lei Complementar nº 204, de 2025, ressalvado o destaque. Sim: 360; Não: 23; Abstenção: 2"
 ---
 
 # PLP 204/2025
 
-<p class="subtitulo"><b>2025-11-03</b> · Aprovado o Projeto de Lei Complementar nº 204, de 2025, ressalvado o destaque.</p>
+<p class="subtitulo"><b>03 nov 2025</b> · Aprovado o Projeto de Lei Complementar nº 204, de 2025, ressalvado o destaque.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 68/2024 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complem (2024-07-10)"
-description: "Como a bancada gaúcha votou em 2024-07-10: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 68, de 2024, adotada pelo relator d"
+title: "PLP 68/2024 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complem (10 jul 2024)"
+description: "Como a bancada gaúcha votou em 10 jul 2024: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 68, de 2024, adotada pelo relator d"
 ---
 
 # PLP 68/2024
 
-<p class="subtitulo"><b>2024-07-10</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 68, de 2024, adotada pelo relator da Comissão Especial, ressalvados os destaques.</p>
+<p class="subtitulo"><b>10 jul 2024</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 68, de 2024, adotada pelo relator da Comissão Especial, ressalvados os destaques.</p>
 
 | | |
 |---|---|

@@ -7,7 +7,7 @@ description: "Como Covatti Filho vota: alinhamento com o governo federal e coes�
 
 # Covatti Filho
 
-<p class="subtitulo"><b>PP</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>PP</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. <span class="placar">Sim: 318; Não: 113; Abstenção: 1; Total: 432.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Rejeitadas as Emendas de Plenário. <span class="placar">Sim: 108; Não: 275; Abstenção: 1; Total: 384.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. <span class="placar">Sim: 318; Não: 113; Abstenção: 1; Total: 432.</span></p>
 <p class="referencia">Maioria do partido: sim (37 sim / 1 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Rejeitadas as Emendas de Plenário. <span class="placar">Sim: 108; Não: 275; Abstenção: 1; Total: 384.</span></p>
 <p class="referencia">Maioria do partido: nao (3 sim / 29 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-03-25</span>
+<span class="data">25 mar 2026</span>
 <div class="corpo">
 <p>Aprovado o Projeto de Lei nº 6.359, de 2025. <span class="placar">Sim: 258; Não: 140; Abstenção: 1; Total: 399.</span></p>
 <p class="referencia">Maioria do partido: sim (21 sim / 11 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -146,7 +146,7 @@ fonte que o publicou.
 ### Os 1 mais recentes
 
 <blockquote class="evidencia discurso" id="d-2506">
-<span class="data">2024-05-07 · 18:00</span>
+<span class="data">07 mai 2024 · 18:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado agradeceu o apoio às vítimas da catástrofe climática ocorrida no Estado do Rio Grande do Sul prestado pela bancada do Partido Progressista na Câmara dos Deputados, mediante destinação de recursos de emendas parlamentares, ressaltando também a ajuda proveniente de Deputados de outros Estados.</p>

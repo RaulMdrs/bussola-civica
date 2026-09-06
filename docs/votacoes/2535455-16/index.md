@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MSC 914/2025 — Rejeitado o Requerimento. (2025-08-19)"
-description: "Como a bancada gaúcha votou em 2025-08-19: Rejeitado o Requerimento. Sim: 117; Não: 277; Total: 394."
+title: "MSC 914/2025 — Rejeitado o Requerimento. (19 ago 2025)"
+description: "Como a bancada gaúcha votou em 19 ago 2025: Rejeitado o Requerimento. Sim: 117; Não: 277; Total: 394."
 ---
 
 # MSC 914/2025
 
-<p class="subtitulo"><b>2025-08-19</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>19 ago 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

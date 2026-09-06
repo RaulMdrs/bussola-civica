@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 658/2021 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-09-10)"
-description: "Como a bancada gaúcha votou em 2024-09-10: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 386; Não: 9; Abstenção: 4; Total: 399."
+title: "PL 658/2021 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (10 set 2024)"
+description: "Como a bancada gaúcha votou em 10 set 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 386; Não: 9; Abstenção: 4; Total: 399."
 ---
 
 # PL 658/2021
 
-<p class="subtitulo"><b>2024-09-10</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>10 set 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

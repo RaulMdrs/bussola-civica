@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3802/2024 — Aprovado o Projeto de Lei nº 3.802, de 2024. (2024-12-19)"
-description: "Como a bancada gaúcha votou em 2024-12-19: Aprovado o Projeto de Lei nº 3.802, de 2024. Sim: 340; Não: 117; Abstenção: 1; Total: 458."
+title: "PL 3802/2024 — Aprovado o Projeto de Lei nº 3.802, de 2024. (19 dez 2024)"
+description: "Como a bancada gaúcha votou em 19 dez 2024: Aprovado o Projeto de Lei nº 3.802, de 2024. Sim: 340; Não: 117; Abstenção: 1; Total: 458."
 ---
 
 # PL 3802/2024
 
-<p class="subtitulo"><b>2024-12-19</b> · Aprovado o Projeto de Lei nº 3.802, de 2024.</p>
+<p class="subtitulo"><b>19 dez 2024</b> · Aprovado o Projeto de Lei nº 3.802, de 2024.</p>
 
 | | |
 |---|---|

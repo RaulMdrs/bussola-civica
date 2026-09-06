@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 528/2020 — Rejeitada a Emenda de Plenário nº 21. (2024-03-13)"
-description: "Como a bancada gaúcha votou em 2024-03-13: Rejeitada a Emenda de Plenário nº 21. Sim: 191; não; 232; abstenção: 2; total: 425."
+title: "PL 528/2020 — Rejeitada a Emenda de Plenário nº 21. (13 mar 2024)"
+description: "Como a bancada gaúcha votou em 13 mar 2024: Rejeitada a Emenda de Plenário nº 21. Sim: 191; não; 232; abstenção: 2; total: 425."
 ---
 
 # PL 528/2020
 
-<p class="subtitulo"><b>2024-03-13</b> · Rejeitada a Emenda de Plenário nº 21.</p>
+<p class="subtitulo"><b>13 mar 2024</b> · Rejeitada a Emenda de Plenário nº 21.</p>
 
 | | |
 |---|---|

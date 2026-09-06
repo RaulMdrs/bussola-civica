@@ -7,7 +7,7 @@ description: "Como Any Ortiz vota: alinhamento com o governo federal e coesão p
 
 # Any Ortiz
 
-<p class="subtitulo"><b>PP</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>PP</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. <span class="placar">Sim: 318; Não: 113; Abstenção: 1; Total: 432.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Rejeitadas as Emendas de Plenário. <span class="placar">Sim: 108; Não: 275; Abstenção: 1; Total: 384.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Rejeitada a Emenda de Plenário nº 1. <span class="placar">Sim: 105; Não: 233; Total: 338.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. <span class="placar">Sim: 318; Não: 113; Abstenção: 1; Total: 432.</span></p>
 <p class="referencia">Maioria do partido: sim (37 sim / 1 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Rejeitadas as Emendas de Plenário. <span class="placar">Sim: 108; Não: 275; Abstenção: 1; Total: 384.</span></p>
 <p class="referencia">Maioria do partido: nao (3 sim / 29 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Rejeitada a Emenda de Plenário nº 1. <span class="placar">Sim: 105; Não: 233; Total: 338.</span></p>
 <p class="referencia">Maioria do partido: nao (4 sim / 24 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -148,7 +148,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-4056">
-<span class="data">2026-07-08 · 16:40</span>
+<span class="data">08 jul 2026 · 16:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>A Deputada defendeu a aprovação de Projeto de Lei nº 3.481, de 2026, que revoga a obrigatoriedade de as redes de ensino realizarem as férias escolares de meio de ano de 2027 no período da Copa do Mundo Feminina (24 de junho a 27 de julho), prevista em lei sancionada pelo Presidente Lula. Também argumentou que a regra afetaria escolas públicas e privadas em todo o País, gerando impactos para estudantes, profissionais da educação e famílias. Ao final, pediu que o mérito da proposta fosse votado pelo Plenário antes do recesso parlamentar.</p>
@@ -157,7 +157,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4055">
-<span class="data">2026-06-09 · 19:44</span>
+<span class="data">09 jun 2026 · 19:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>A Deputada parabenizou produtores rurais gaúchos que se deslocaram até Brasília para reivindicar condições de renegociação de dívidas, contextualizando o endividamento do setor com a ocorrência de cinco safras frustradas nos últimos anos, quatro secas seguidas de uma enchente. Destacou que a mobilização foi protagonizada especialmente por pequenos produtores e assentados, e criticou a ausência de Parlamentares do PT na coletiva realizada. Também cobrou a aprovação do PL nº 5.122, de 2024, no Senado e sua sanção pelo Presidente da República, ressaltando que a Câmara já havia cumprido sua parte.</p>
@@ -166,7 +166,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4054">
-<span class="data">2026-05-19 · 20:24</span>
+<span class="data">19 mai 2026 · 20:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>A Deputada registrou voto contrário ao Projeto de Lei nº 4.822, de 2025, e lamentou que a matéria tivesse sido aprovada de forma simbólica, sem votação nominal. Defendeu que cada um dos 513 Parlamentares deve deixar registrado seu posicionamento, sobretudo em temas relacionados a benefícios e privilégios, para que o País inteiro tenha acesso a essa informação.</p>
@@ -175,7 +175,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4053">
-<span class="data">2026-05-12 · 18:08</span>
+<span class="data">12 mai 2026 · 18:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>A Deputada defendeu a aprovação da Subemenda Substitutiva&amp;nbsp;ao Projeto de Lei nº 488, de 2019, que determina a obrigatoriedade de imposição de penas restritivas de direitos aos condenados por crimes de pedofilia. Na oportunidade, parabenizou o Deputado Kim Kataguiri por sua relatoria.</p>
@@ -184,7 +184,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4052">
-<span class="data">2026-05-05 · 16:08</span>
+<span class="data">05 mai 2026 · 16:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>A Deputada defendeu a redução da maioridade penal após caso de estupro coletivo de duas crianças praticado por um adulto e quatro adolescentes. Citou pesquisa que apontou 90% dos brasileiros favoráveis à medida e questionou a omissão da Casa diante do tema. Argumentou que medidas socioeducativas são insuficientes para crimes hediondos praticados com extrema violência, comparando o sistema atual a uma porta giratória. Além disso, mencionou que países como Estados Unidos, Alemanha, Inglaterra e Japão já responsabilizam criminosos dessa natureza como adultos. Por fim, cobrou do Parlamento o enfrentamento da questão e a revisão da legislação vigente.</p>

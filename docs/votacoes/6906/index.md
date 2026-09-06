@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei Complementar nº 143, de 2024, nos termos do pa (2024-12-17)"
-description: "Como os senadores gaúchos votou em 2024-12-17: Votação nominal do Projeto de Lei Complementar nº 143, de 2024, nos termos do parecer."
+title: "Votação nominal do Projeto de Lei Complementar nº 143, de 2024, nos termos do pa (17 dez 2024)"
+description: "Como os senadores gaúchos votou em 17 dez 2024: Votação nominal do Projeto de Lei Complementar nº 143, de 2024, nos termos do parecer."
 ---
 
-# Votação de 2024-12-17
+# Votação de 17 dez 2024
 
-<p class="subtitulo"><b>2024-12-17</b> · Votação nominal do Projeto de Lei Complementar nº 143, de 2024, nos termos do parecer.</p>
+<p class="subtitulo"><b>17 dez 2024</b> · Votação nominal do Projeto de Lei Complementar nº 143, de 2024, nos termos do parecer.</p>
 
 | | |
 |---|---|

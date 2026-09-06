@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 182/2024 — Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 2.1 (2024-11-19)"
-description: "Como a bancada gaúcha votou em 2024-11-19: Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 2.148, de 2015, com exceção do art. 56. Sim: 33"
+title: "PL 182/2024 — Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 2.1 (19 nov 2024)"
+description: "Como a bancada gaúcha votou em 19 nov 2024: Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 2.148, de 2015, com exceção do art. 56. Sim: 33"
 ---
 
 # PL 182/2024
 
-<p class="subtitulo"><b>2024-11-19</b> · Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 2.148, de 2015, com exceção do art. 56.</p>
+<p class="subtitulo"><b>19 nov 2024</b> · Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 2.148, de 2015, com exceção do art. 56.</p>
 
 | | |
 |---|---|

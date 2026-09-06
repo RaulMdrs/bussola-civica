@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6240/2013 — Rejeitado o Requerimento. (2026-03-02)"
-description: "Como a bancada gaúcha votou em 2026-03-02: Rejeitado o Requerimento. Sim: 100; Não: 295; Total: 395."
+title: "PL 6240/2013 — Rejeitado o Requerimento. (02 mar 2026)"
+description: "Como a bancada gaúcha votou em 02 mar 2026: Rejeitado o Requerimento. Sim: 100; Não: 295; Total: 395."
 ---
 
 # PL 6240/2013
 
-<p class="subtitulo"><b>2026-03-02</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>02 mar 2026</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

@@ -19,7 +19,7 @@ description: "Os discursos de Carlos Gomes em 2023, com o sumário oficial e lin
 ## Substantivos — 4
 
 <blockquote class="evidencia discurso" id="d-2500">
-<span class="data">2023-09-05 · 15:08</span>
+<span class="data">05 set 2023 · 15:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado expressou tristeza e solidariedade diante das enchentes no Rio Grande do Sul, destacando a mobilização da bancada gaúcha em busca de ajuda para as famílias afetadas. Lamentou as seis mortes e os estragos em mais de 55 cidades, incluindo Muçum, onde 80% das casas ficaram inundadas. Informou sobre a reunião com o Ministro da Integração e do Desenvolvimento Regional, Waldez Góes, que avaliará as necessidades no local e liberará recursos para atendimento e reconstrução. Enfatizou a importância do socorro imediato às pessoas ilhadas e agradeceu aos colegas da bancada e aos órgãos de resgate, expressando confiança na superação da crise.</p>
@@ -28,7 +28,7 @@ description: "Os discursos de Carlos Gomes em 2023, com o sumário oficial e lin
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2499">
-<span class="data">2023-08-02 · 18:56</span>
+<span class="data">02 ago 2023 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>Frustração dos vinicultores do Estado do Rio Grande do Sul, diante da retirada de pauta do requerimento de apreciação em regime de urgência do Projeto de Lei nº 1.378, de 2019, de autoria do orador, sobre a criação da Zona Franca da Uva e do Vinho.</p>
@@ -37,7 +37,7 @@ description: "Os discursos de Carlos Gomes em 2023, com o sumário oficial e lin
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2498">
-<span class="data">2023-07-05 · 14:40</span>
+<span class="data">05 jul 2023 · 14:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>Manifestação de boas-vindas aos Parlamentares e ao Embaixador do Uruguai no Brasil, Guillermo Valles, em visita à Câmara dos Deputados. Reinstalação do Grupo Parlamentar de Amizade Brasil-Uruguai.</p>
@@ -46,7 +46,7 @@ description: "Os discursos de Carlos Gomes em 2023, com o sumário oficial e lin
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2497">
-<span class="data">2023-02-08 · 15:56</span>
+<span class="data">08 fev 2023 · 15:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>Congratulações ao Republicanos e ao seu Presidente, Deputado Marcos Pereira</p>

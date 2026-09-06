@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 210/2024 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 210, de (2024-12-17)"
-description: "Como a bancada gaúcha votou em 2024-12-17: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 210, de 2024, adotado pelo relator da Comissão Espec"
+title: "PLP 210/2024 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 210, de (17 dez 2024)"
+description: "Como a bancada gaúcha votou em 17 dez 2024: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 210, de 2024, adotado pelo relator da Comissão Espec"
 ---
 
 # PLP 210/2024
 
-<p class="subtitulo"><b>2024-12-17</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 210, de 2024, adotado pelo relator da Comissão Especial.</p>
+<p class="subtitulo"><b>17 dez 2024</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 210, de 2024, adotado pelo relator da Comissão Especial.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2245/2023 — Rejeitado o Requerimento. (2023-10-04)"
-description: "Como a bancada gaúcha votou em 2023-10-04: Rejeitado o Requerimento. Sim: 56; não: 272; abstenção: 5; total: 333."
+title: "PL 2245/2023 — Rejeitado o Requerimento. (04 out 2023)"
+description: "Como a bancada gaúcha votou em 04 out 2023: Rejeitado o Requerimento. Sim: 56; não: 272; abstenção: 5; total: 333."
 ---
 
 # PL 2245/2023
 
-<p class="subtitulo"><b>2023-10-04</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>04 out 2023</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

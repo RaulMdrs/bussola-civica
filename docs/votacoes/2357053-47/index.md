@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 93/2023 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 93, de 2 (2023-05-23)"
-description: "Como a bancada gaúcha votou em 2023-05-23: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 93, de 2023, adotado pelo relator da Comissão de Fin"
+title: "PLP 93/2023 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 93, de 2 (23 mai 2023)"
+description: "Como a bancada gaúcha votou em 23 mai 2023: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 93, de 2023, adotado pelo relator da Comissão de Fin"
 ---
 
 # PLP 93/2023
 
-<p class="subtitulo"><b>2023-05-23</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 93, de 2023, adotado pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques.</p>
+<p class="subtitulo"><b>23 mai 2023</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 93, de 2023, adotado pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques.</p>
 
 | | |
 |---|---|

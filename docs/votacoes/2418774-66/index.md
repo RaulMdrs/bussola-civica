@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 6/2024 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Compleme (2026-03-17)"
-description: "Como a bancada gaúcha votou em 2026-03-17: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 6, de 2024, adotada pelo relator da"
+title: "PLP 6/2024 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Compleme (17 mar 2026)"
+description: "Como a bancada gaúcha votou em 17 mar 2026: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 6, de 2024, adotada pelo relator da"
 ---
 
 # PLP 6/2024
 
-<p class="subtitulo"><b>2026-03-17</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 6, de 2024, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania.</p>
+<p class="subtitulo"><b>17 mar 2026</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 6, de 2024, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania.</p>
 
 | | |
 |---|---|

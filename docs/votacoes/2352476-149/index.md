@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 9/2023 — Aprovado, em primeiro turno, o Substitutivo adotado pelo Relator da (2024-07-11)"
-description: "Como a bancada gaúcha votou em 2024-07-11: Aprovado, em primeiro turno, o Substitutivo adotado pelo Relator da Comissão Especial à Proposta de Emenda à C"
+title: "PEC 9/2023 — Aprovado, em primeiro turno, o Substitutivo adotado pelo Relator da (11 jul 2024)"
+description: "Como a bancada gaúcha votou em 11 jul 2024: Aprovado, em primeiro turno, o Substitutivo adotado pelo Relator da Comissão Especial à Proposta de Emenda à C"
 ---
 
 # PEC 9/2023
 
-<p class="subtitulo"><b>2024-07-11</b> · Aprovado, em primeiro turno, o Substitutivo adotado pelo Relator da Comissão Especial à Proposta de Emenda à Constituição nº 9, de 2023, ressalvado o destaque.</p>
+<p class="subtitulo"><b>11 jul 2024</b> · Aprovado, em primeiro turno, o Substitutivo adotado pelo Relator da Comissão Especial à Proposta de Emenda à Constituição nº 9, de 2023, ressalvado o destaque.</p>
 
 | | |
 |---|---|

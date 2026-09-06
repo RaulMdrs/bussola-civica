@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1313/2025 — Mantido o texto. (2026-02-02)"
-description: "Como a bancada gaúcha votou em 2026-02-02: Mantido o texto. Sim: 401; Não: 34; Total: 435."
+title: "MPV 1313/2025 — Mantido o texto. (02 fev 2026)"
+description: "Como a bancada gaúcha votou em 02 fev 2026: Mantido o texto. Sim: 401; Não: 34; Total: 435."
 ---
 
 # MPV 1313/2025
 
-<p class="subtitulo"><b>2026-02-02</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>02 fev 2026</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

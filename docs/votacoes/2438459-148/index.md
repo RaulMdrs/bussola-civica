@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 108/2024 — Aprovadas as Emendas de Redação nºs 1, 2 e 4. (2025-12-16)"
-description: "Como a bancada gaúcha votou em 2025-12-16: Aprovadas as Emendas de Redação nºs 1, 2 e 4. Sim: 408; Não: 3; Abstenção: 1; Total: 412."
+title: "PLP 108/2024 — Aprovadas as Emendas de Redação nºs 1, 2 e 4. (16 dez 2025)"
+description: "Como a bancada gaúcha votou em 16 dez 2025: Aprovadas as Emendas de Redação nºs 1, 2 e 4. Sim: 408; Não: 3; Abstenção: 1; Total: 412."
 ---
 
 # PLP 108/2024
 
-<p class="subtitulo"><b>2025-12-16</b> · Aprovadas as Emendas de Redação nºs 1, 2 e 4.</p>
+<p class="subtitulo"><b>16 dez 2025</b> · Aprovadas as Emendas de Redação nºs 1, 2 e 4.</p>
 
 | | |
 |---|---|

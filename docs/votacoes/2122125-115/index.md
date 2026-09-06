@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 337/2017 — Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar  (2026-06-16)"
-description: "Como a bancada gaúcha votou em 2026-06-16: Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 337, de 2017, adotada pelo relator da Comi"
+title: "PLP 337/2017 — Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar  (16 jun 2026)"
+description: "Como a bancada gaúcha votou em 16 jun 2026: Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 337, de 2017, adotada pelo relator da Comi"
 ---
 
 # PLP 337/2017
 
-<p class="subtitulo"><b>2026-06-16</b> · Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 337, de 2017, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania.</p>
+<p class="subtitulo"><b>16 jun 2026</b> · Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 337, de 2017, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania.</p>
 
 | | |
 |---|---|

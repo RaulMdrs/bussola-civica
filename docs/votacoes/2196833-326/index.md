@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 45/2019 — Aprovado, em primeiro turno, o Substitutivo adotado pelo relator d (2023-07-06)"
-description: "Como a bancada gaúcha votou em 2023-07-06: Aprovado, em primeiro turno, o Substitutivo adotado pelo relator da Comissão Especial à Proposta de Emenda Con"
+title: "PEC 45/2019 — Aprovado, em primeiro turno, o Substitutivo adotado pelo relator d (06 jul 2023)"
+description: "Como a bancada gaúcha votou em 06 jul 2023: Aprovado, em primeiro turno, o Substitutivo adotado pelo relator da Comissão Especial à Proposta de Emenda Con"
 ---
 
 # PEC 45/2019
 
-<p class="subtitulo"><b>2023-07-06</b> · Aprovado, em primeiro turno, o Substitutivo adotado pelo relator da Comissão Especial à Proposta de Emenda Constitucional nº 45, de 2019, ressalvados os destaques.</p>
+<p class="subtitulo"><b>06 jul 2023</b> · Aprovado, em primeiro turno, o Substitutivo adotado pelo relator da Comissão Especial à Proposta de Emenda Constitucional nº 45, de 2019, ressalvados os destaques.</p>
 
 | | |
 |---|---|

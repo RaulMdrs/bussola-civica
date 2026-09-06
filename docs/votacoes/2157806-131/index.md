@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 8889/2017 — Aprovado o Requerimento. (2025-11-04)"
-description: "Como a bancada gaúcha votou em 2025-11-04: Aprovado o Requerimento. Sim: 308; Não: 103; Abstenção: 1; Total: 412."
+title: "PL 8889/2017 — Aprovado o Requerimento. (04 nov 2025)"
+description: "Como a bancada gaúcha votou em 04 nov 2025: Aprovado o Requerimento. Sim: 308; Não: 103; Abstenção: 1; Total: 412."
 ---
 
 # PL 8889/2017
 
-<p class="subtitulo"><b>2025-11-04</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>04 nov 2025</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

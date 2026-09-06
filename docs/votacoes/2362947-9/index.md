@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 8889/2017 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2023-08-16)"
-description: "Como a bancada gaúcha votou em 2023-08-16: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 291; não: 106; abstenção: 5; total: 402."
+title: "PL 8889/2017 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (16 ago 2023)"
+description: "Como a bancada gaúcha votou em 16 ago 2023: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 291; não: 106; abstenção: 5; total: 402."
 ---
 
 # PL 8889/2017
 
-<p class="subtitulo"><b>2023-08-16</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>16 ago 2023</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

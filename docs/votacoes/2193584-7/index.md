@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 638/2019 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2025-05-26)"
-description: "Como a bancada gaúcha votou em 2025-05-26: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 286; Não: 113; Total: 399."
+title: "PL 638/2019 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (26 mai 2025)"
+description: "Como a bancada gaúcha votou em 26 mai 2025: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 286; Não: 113; Total: 399."
 ---
 
 # PL 638/2019
 
-<p class="subtitulo"><b>2025-05-26</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>26 mai 2025</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

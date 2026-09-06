@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1958/2021 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.9 (2024-11-19)"
-description: "Como a bancada gaúcha votou em 2024-11-19: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.958, de 2021, adotada pela relatora da Comissã"
+title: "PL 1958/2021 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.9 (19 nov 2024)"
+description: "Como a bancada gaúcha votou em 19 nov 2024: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.958, de 2021, adotada pela relatora da Comissã"
 ---
 
 # PL 1958/2021
 
-<p class="subtitulo"><b>2024-11-19</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.958, de 2021, adotada pela relatora da Comissão de Direitos Humanos, Minorias e Igualdade Racial.</p>
+<p class="subtitulo"><b>19 nov 2024</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.958, de 2021, adotada pela relatora da Comissão de Direitos Humanos, Minorias e Igualdade Racial.</p>
 
 | | |
 |---|---|

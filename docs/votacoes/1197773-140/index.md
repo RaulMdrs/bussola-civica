@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4015/2023 — Rejeitadas as Emendas do Senado Federal ao Projeto de Lei nº 996, (2024-12-04)"
-description: "Como a bancada gaúcha votou em 2024-12-04: Rejeitadas as Emendas do Senado Federal ao Projeto de Lei nº 996, de 2015, ressalvados os destaques. Sim: 23; "
+title: "PL 4015/2023 — Rejeitadas as Emendas do Senado Federal ao Projeto de Lei nº 996, (04 dez 2024)"
+description: "Como a bancada gaúcha votou em 04 dez 2024: Rejeitadas as Emendas do Senado Federal ao Projeto de Lei nº 996, de 2015, ressalvados os destaques. Sim: 23; "
 ---
 
 # PL 4015/2023
 
-<p class="subtitulo"><b>2024-12-04</b> · Rejeitadas as Emendas do Senado Federal ao Projeto de Lei nº 996, de 2015, ressalvados os destaques.</p>
+<p class="subtitulo"><b>04 dez 2024</b> · Rejeitadas as Emendas do Senado Federal ao Projeto de Lei nº 996, de 2015, ressalvados os destaques.</p>
 
 | | |
 |---|---|

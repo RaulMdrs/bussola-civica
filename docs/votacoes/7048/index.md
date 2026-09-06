@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Proposta de Emenda à Constituição nº 22, de 2025, nos termos  (2026-02-24)"
-description: "Como os senadores gaúchos votou em 2026-02-24: Votação nominal da Proposta de Emenda à Constituição nº 22, de 2025, nos termos do parecer da Comissão Diretor"
+title: "Votação nominal da Proposta de Emenda à Constituição nº 22, de 2025, nos termos  (24 fev 2026)"
+description: "Como os senadores gaúchos votou em 24 fev 2026: Votação nominal da Proposta de Emenda à Constituição nº 22, de 2025, nos termos do parecer da Comissão Diretor"
 ---
 
-# Votação de 2026-02-24
+# Votação de 24 fev 2026
 
-<p class="subtitulo"><b>2026-02-24</b> · Votação nominal da Proposta de Emenda à Constituição nº 22, de 2025, nos termos do parecer da Comissão Diretora (2º Turno).</p>
+<p class="subtitulo"><b>24 fev 2026</b> · Votação nominal da Proposta de Emenda à Constituição nº 22, de 2025, nos termos do parecer da Comissão Diretora (2º Turno).</p>
 
 | | |
 |---|---|

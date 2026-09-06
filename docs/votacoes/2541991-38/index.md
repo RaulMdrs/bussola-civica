@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1308/2025 — Mantido o texto. (2025-12-02)"
-description: "Como a bancada gaúcha votou em 2025-12-02: Mantido o texto. Sim: 300; Não: 123; Total: 423."
+title: "MPV 1308/2025 — Mantido o texto. (02 dez 2025)"
+description: "Como a bancada gaúcha votou em 02 dez 2025: Mantido o texto. Sim: 300; Não: 123; Total: 423."
 ---
 
 # MPV 1308/2025
 
-<p class="subtitulo"><b>2025-12-02</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>02 dez 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

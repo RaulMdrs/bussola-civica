@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2162/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2025-09-17)"
-description: "Como a bancada gaúcha votou em 2025-09-17: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 311; Não: 163; Abstenção: 7; Total: 481."
+title: "PL 2162/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (17 set 2025)"
+description: "Como a bancada gaúcha votou em 17 set 2025: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 311; Não: 163; Abstenção: 7; Total: 481."
 ---
 
 # PL 2162/2023
 
-<p class="subtitulo"><b>2025-09-17</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>17 set 2025</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PRC 27/2025 — Rejeitado o Requerimento. (2025-06-25)"
-description: "Como a bancada gaúcha votou em 2025-06-25: Rejeitado o Requerimento. Sim: 125; Não: 243; Total: 368."
+title: "PRC 27/2025 — Rejeitado o Requerimento. (25 jun 2025)"
+description: "Como a bancada gaúcha votou em 25 jun 2025: Rejeitado o Requerimento. Sim: 125; Não: 243; Total: 368."
 ---
 
 # PRC 27/2025
 
-<p class="subtitulo"><b>2025-06-25</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>25 jun 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

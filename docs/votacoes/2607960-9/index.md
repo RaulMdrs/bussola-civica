@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3640/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2026-03-11)"
-description: "Como a bancada gaúcha votou em 2026-03-11: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 316; Não: 86; Abstenção: 1; Total: 403."
+title: "PL 3640/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (11 mar 2026)"
+description: "Como a bancada gaúcha votou em 11 mar 2026: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 316; Não: 86; Abstenção: 1; Total: 403."
 ---
 
 # PL 3640/2025
 
-<p class="subtitulo"><b>2026-03-11</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>11 mar 2026</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 490/2007 — Rejeitado o Requerimento. (2023-05-30)"
-description: "Como a bancada gaúcha votou em 2023-05-30: Rejeitado o Requerimento. Sim: 123; não: 257; total: 380."
+title: "PL 490/2007 — Rejeitado o Requerimento. (30 mai 2023)"
+description: "Como a bancada gaúcha votou em 30 mai 2023: Rejeitado o Requerimento. Sim: 123; não: 257; total: 380."
 ---
 
 # PL 490/2007
 
-<p class="subtitulo"><b>2023-05-30</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>30 mai 2023</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

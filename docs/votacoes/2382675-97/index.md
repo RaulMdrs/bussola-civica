@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4133/2023 — Aprovado o Substitutivo ao Projeto de Lei nº 4.133, de 2023, adot (2026-06-17)"
-description: "Como a bancada gaúcha votou em 2026-06-17: Aprovado o Substitutivo ao Projeto de Lei nº 4.133, de 2023, adotado pelo relator da Comissão de Ciência, Tecn"
+title: "PL 4133/2023 — Aprovado o Substitutivo ao Projeto de Lei nº 4.133, de 2023, adot (17 jun 2026)"
+description: "Como a bancada gaúcha votou em 17 jun 2026: Aprovado o Substitutivo ao Projeto de Lei nº 4.133, de 2023, adotado pelo relator da Comissão de Ciência, Tecn"
 ---
 
 # PL 4133/2023
 
-<p class="subtitulo"><b>2026-06-17</b> · Aprovado o Substitutivo ao Projeto de Lei nº 4.133, de 2023, adotado pelo relator da Comissão de Ciência, Tecnologia e Inovação.</p>
+<p class="subtitulo"><b>17 jun 2026</b> · Aprovado o Substitutivo ao Projeto de Lei nº 4.133, de 2023, adotado pelo relator da Comissão de Ciência, Tecnologia e Inovação.</p>
 
 | | |
 |---|---|

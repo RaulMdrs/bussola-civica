@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 7906/2014 — Rejeitado o Requerimento. (2025-06-11)"
-description: "Como a bancada gaúcha votou em 2025-06-11: Rejeitado o Requerimento. Sim: 128; Não: 214; Total: 342."
+title: "PL 7906/2014 — Rejeitado o Requerimento. (11 jun 2025)"
+description: "Como a bancada gaúcha votou em 11 jun 2025: Rejeitado o Requerimento. Sim: 128; Não: 214; Total: 342."
 ---
 
 # PL 7906/2014
 
-<p class="subtitulo"><b>2025-06-11</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>11 jun 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

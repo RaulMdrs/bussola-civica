@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 235/2019 — Rejeitada a inclusão. (2025-09-03)"
-description: "Como a bancada gaúcha votou em 2025-09-03: Rejeitada a inclusão. Sim: 119; Não: 310; Abstenção: 1; Total: 430."
+title: "PLP 235/2019 — Rejeitada a inclusão. (03 set 2025)"
+description: "Como a bancada gaúcha votou em 03 set 2025: Rejeitada a inclusão. Sim: 119; Não: 310; Abstenção: 1; Total: 430."
 ---
 
 # PLP 235/2019
 
-<p class="subtitulo"><b>2025-09-03</b> · Rejeitada a inclusão.</p>
+<p class="subtitulo"><b>03 set 2025</b> · Rejeitada a inclusão.</p>
 
 | | |
 |---|---|

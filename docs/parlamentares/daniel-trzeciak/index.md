@@ -7,7 +7,7 @@ description: "Como Daniel Trzeciak vota: alinhamento com o governo federal e coe
 
 # Daniel Trzeciak
 
-<p class="subtitulo"><b>PSDB</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>PSDB</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-09-03</span>
+<span class="data">03 set 2026</span>
 <div class="corpo">
 <p>Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 74, de 2026, adotada pelo relator da Comissão de Finanças e Tributação. <span class="placar">Sim: 346; Não: 46; Abstenção: 3; Total: 395.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-06-17</span>
+<span class="data">17 jun 2026</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 285; Não: 106; Abstenção: 1; Total: 392.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-09-03</span>
+<span class="data">03 set 2026</span>
 <div class="corpo">
 <p>Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 74, de 2026, adotada pelo relator da Comissão de Finanças e Tributação. <span class="placar">Sim: 346; Não: 46; Abstenção: 3; Total: 395.</span></p>
 <p class="referencia">Maioria do partido: sim (15 sim / 0 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-06-17</span>
+<span class="data">17 jun 2026</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 285; Não: 106; Abstenção: 1; Total: 392.</span></p>
 <p class="referencia">Maioria do partido: sim (12 sim / 2 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-06-17</span>
+<span class="data">17 jun 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei nº 4.133, de 2023, adotado pelo relator da Comissão de Ciência, Tecnologia e Inovação. <span class="placar">Sim: 308; Não: 129; Abstenção: 1; Total: 438.</span></p>
 <p class="referencia">Maioria do partido: sim (13 sim / 1 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -148,7 +148,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-3884">
-<span class="data">2026-07-08 · 15:44</span>
+<span class="data">08 jul 2026 · 15:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado defendeu o investimento de R$ 27 bilhões da Companhia Manufatureira de Papéis e Cartões — CMPC na construção de uma fábrica em Barra do Ribeiro (RS), destacando seu potencial para gerar 12 mil empregos diretos e impulsionar o desenvolvimento econômico da metade sul do Estado. Além disso, criticou a atuação de Procurador por criar entraves ao empreendimento e sustentou que o curso técnico do processo e a legislação sejam observados. Por fim, enfatizou que a viabilização do projeto é essencial para atrair investimentos privados, ampliar a oferta de empregos e evitar a saída de trabalhadores do Rio Grande do Sul.</p>
@@ -157,7 +157,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-3883">
-<span class="data">2026-07-07 · 14:40</span>
+<span class="data">07 jul 2026 · 14:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado celebrou a reinauguração do Theatro Sete de Abril, em Pelotas (RS), destacando tratar-se do teatro mais antigo do Rio Grande do Sul e do quarto mais antigo do País. Além disso, comemorou os 214 anos da fundação do Município e ressaltou a importância histórica e cultural do referido teatro para a população. Por fim, criticou a demora de 16 anos para a conclusão das obras de restauração e defendeu maiores investimentos em cultura.</p>
@@ -166,7 +166,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-3882">
-<span class="data">2026-06-09 · 14:08</span>
+<span class="data">09 jun 2026 · 14:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado manifestou indignação com a situação dos produtores rurais do Rio Grande do Sul e do Brasil, que aguardam há mais de dois anos uma solução efetiva para a renegociação de dívidas decorrentes das enchentes de 2024. Ressaltou que os agricultores não buscam perdão ou anistia, mas respostas concretas do Governo Federal, que, a seu ver, não sinalizou encaminhamentos resolutivos. Também cobrou a aprovação do Projeto de lei nº 5.122, de 2023, no Senado Federal e a posterior sanção presidencial. Por fim, destacou a relevância do agronegócio para a economia gaúcha, responsável por 40% do PIB do Estado, e defendeu que o lugar do produtor rural é no campo, e não em mobilizações na Capital Federal.</p>
@@ -175,7 +175,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-3881">
-<span class="data">2026-05-20 · 14:52</span>
+<span class="data">20 mai 2026 · 14:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado informou que se reuniu com o Diretor-Geral da ANTT para discutir a situação das concessões nas BRs 116 e 392, corredores ligados ao desenvolvimento econômico da metade sul do Rio Grande do Sul. Afirmou que o contrato anterior permaneceu por 28 anos e encerrou-se em março de 2026. Ressaltou que a região precisava de uma pausa sem cobrança de pedágio para estimular investimentos, geração de empregos e retomada econômica. Declarou que atuou contra a prorrogação do contrato e contra o período tampão. Também relatou que a ANTT garantiu a suspensão da cobrança de pedágio durante este ano.</p>
@@ -184,7 +184,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-3880">
-<span class="data">2026-05-20 · 14:28</span>
+<span class="data">20 mai 2026 · 14:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado homenageou a Vereadora Juliana Spolidoro, Presidente da Câmara Municipal de Cachoeira do Sul (RS), destacando sua atuação em pautas relacionadas à saúde e aos direitos da mulher. Além disso, registrou a visita da Vereadora a Brasília, acompanhada do Prefeito Balardin, em busca de soluções para o Município. Por fim, parabenizou-a pelo trabalho e mencionou sua condição de pré-candidata a Deputada Federal pelo PSDB.</p>

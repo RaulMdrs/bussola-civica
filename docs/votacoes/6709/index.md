@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Emenda nº 131 à Medida Provisória nº 1.165, de 2023, destacad (2023-06-20)"
-description: "Como os senadores gaúchos votou em 2023-06-20: Votação nominal da Emenda nº 131 à Medida Provisória nº 1.165, de 2023, destacada."
+title: "Votação nominal da Emenda nº 131 à Medida Provisória nº 1.165, de 2023, destacad (20 jun 2023)"
+description: "Como os senadores gaúchos votou em 20 jun 2023: Votação nominal da Emenda nº 131 à Medida Provisória nº 1.165, de 2023, destacada."
 ---
 
-# Votação de 2023-06-20
+# Votação de 20 jun 2023
 
-<p class="subtitulo"><b>2023-06-20</b> · Votação nominal da Emenda nº 131 à Medida Provisória nº 1.165, de 2023, destacada.</p>
+<p class="subtitulo"><b>20 jun 2023</b> · Votação nominal da Emenda nº 131 à Medida Provisória nº 1.165, de 2023, destacada.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MSC 112/2026 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2026-02-25)"
-description: "Como a bancada gaúcha votou em 2026-02-25: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 308; Não: 120; Total: 428."
+title: "MSC 112/2026 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (25 fev 2026)"
+description: "Como a bancada gaúcha votou em 25 fev 2026: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 308; Não: 120; Total: 428."
 ---
 
 # MSC 112/2026
 
-<p class="subtitulo"><b>2026-02-25</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>25 fev 2026</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

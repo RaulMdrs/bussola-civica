@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 327/2021 — Aprovadas as Emendas do Senado Federal ao Projeto de Lei nº 327, d (2024-12-18)"
-description: "Como a bancada gaúcha votou em 2024-12-18: Aprovadas as Emendas do Senado Federal ao Projeto de Lei nº 327, de 2021, com parecer pela aprovação, com exce"
+title: "PL 327/2021 — Aprovadas as Emendas do Senado Federal ao Projeto de Lei nº 327, d (18 dez 2024)"
+description: "Como a bancada gaúcha votou em 18 dez 2024: Aprovadas as Emendas do Senado Federal ao Projeto de Lei nº 327, de 2021, com parecer pela aprovação, com exce"
 ---
 
 # PL 327/2021
 
-<p class="subtitulo"><b>2024-12-18</b> · Aprovadas as Emendas do Senado Federal ao Projeto de Lei nº 327, de 2021, com parecer pela aprovação, com exceção da Emenda nº 3; do inciso II, do §1º, do art. 3º da Emenda nº 2; do §2º, do art. 3º da Emenda nº 4; e do inciso VIII e da exclusão do §4º promovida pelo art. 1º da Emenda nº 5.</p>
+<p class="subtitulo"><b>18 dez 2024</b> · Aprovadas as Emendas do Senado Federal ao Projeto de Lei nº 327, de 2021, com parecer pela aprovação, com exceção da Emenda nº 3; do inciso II, do §1º, do art. 3º da Emenda nº 2; do §2º, do art. 3º da Emenda nº 4; e do inciso VIII e da exclusão do §4º promovida pelo art. 1º da Emenda nº 5.</p>
 
 | | |
 |---|---|

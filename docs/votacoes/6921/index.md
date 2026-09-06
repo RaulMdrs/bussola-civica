@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da decisão da Presidência na Questão de Ordem apresentada pelo S (2025-03-18)"
-description: "Como os senadores gaúchos votou em 2025-03-18: Votação nominal da decisão da Presidência na Questão de Ordem apresentada pelo Senador Alessandro Vieira."
+title: "Votação nominal da decisão da Presidência na Questão de Ordem apresentada pelo S (18 mar 2025)"
+description: "Como os senadores gaúchos votou em 18 mar 2025: Votação nominal da decisão da Presidência na Questão de Ordem apresentada pelo Senador Alessandro Vieira."
 ---
 
-# Votação de 2025-03-18
+# Votação de 18 mar 2025
 
-<p class="subtitulo"><b>2025-03-18</b> · Votação nominal da decisão da Presidência na Questão de Ordem apresentada pelo Senador Alessandro Vieira.</p>
+<p class="subtitulo"><b>18 mar 2025</b> · Votação nominal da decisão da Presidência na Questão de Ordem apresentada pelo Senador Alessandro Vieira.</p>
 
 | | |
 |---|---|

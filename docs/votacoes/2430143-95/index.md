@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 68/2024 — Rejeitada a Emenda de Plenário nº 104. (2024-07-10)"
-description: "Como a bancada gaúcha votou em 2024-07-10: Rejeitada a Emenda de Plenário nº 104. Sim: 155; não: 316; abstenção: 2; total: 473."
+title: "PLP 68/2024 — Rejeitada a Emenda de Plenário nº 104. (10 jul 2024)"
+description: "Como a bancada gaúcha votou em 10 jul 2024: Rejeitada a Emenda de Plenário nº 104. Sim: 155; não: 316; abstenção: 2; total: 473."
 ---
 
 # PLP 68/2024
 
-<p class="subtitulo"><b>2024-07-10</b> · Rejeitada a Emenda de Plenário nº 104.</p>
+<p class="subtitulo"><b>10 jul 2024</b> · Rejeitada a Emenda de Plenário nº 104.</p>
 
 | | |
 |---|---|

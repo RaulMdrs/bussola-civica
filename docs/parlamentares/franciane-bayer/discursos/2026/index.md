@@ -19,7 +19,7 @@ description: "Os discursos de Franciane Bayer em 2026, com o sumário oficial e 
 ## Substantivos — 2
 
 <blockquote class="evidencia discurso" id="d-4353">
-<span class="data">2026-03-10 · 20:20</span>
+<span class="data">10 mar 2026 · 20:20</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
 <p>A Deputada proferiu parecer ao Projeto de Lei nº 3.662, de 2025, que altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para criar tipo penal específico para a lesão corporal praticada contra a mulher em razão do gênero e agravar a pena.</p>
@@ -28,7 +28,7 @@ description: "Os discursos de Franciane Bayer em 2026, com o sumário oficial e 
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4352">
-<span class="data">2026-02-25 · 15:12</span>
+<span class="data">25 fev 2026 · 15:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>A Deputada registrou os 70 anos do Hospital Beneficente Nossa Senhora de Fátima, em Flores da Cunha (RS), destacando sua trajetória como referência regional em atendimento e cuidado humanizado. Ressaltou o papel da instituição no acolhimento de pacientes e no fortalecimento do Sistema Único de Saúde (SUS), especialmente no interior. Também mencionou o lançamento da campanha para ampliação e modernização do centro cirúrgico, com previsão de conclusão até 2027, baseada na participação comunitária. Por fim, reconheceu a atuação de profissionais, gestores e voluntários, além de defender o apoio às instituições filantrópicas que complementam a atuação do poder público na área da saúde.</p>

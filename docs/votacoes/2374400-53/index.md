@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3626/2023 — Suprimido o texto. (2023-09-13)"
-description: "Como a bancada gaúcha votou em 2023-09-13: Suprimido o texto. Sim: 222; não: 242; abstenção: 2; total: 466."
+title: "PL 3626/2023 — Suprimido o texto. (13 set 2023)"
+description: "Como a bancada gaúcha votou em 13 set 2023: Suprimido o texto. Sim: 222; não: 242; abstenção: 2; total: 466."
 ---
 
 # PL 3626/2023
 
-<p class="subtitulo"><b>2023-09-13</b> · Suprimido o texto.</p>
+<p class="subtitulo"><b>13 set 2023</b> · Suprimido o texto.</p>
 
 | | |
 |---|---|

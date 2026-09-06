@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 45/2019 — Suprimido o texto. (2023-07-07)"
-description: "Como a bancada gaúcha votou em 2023-07-07: Suprimido o texto. Sim: 307; não: 166; abstenção: 5; total: 478."
+title: "PEC 45/2019 — Suprimido o texto. (07 jul 2023)"
+description: "Como a bancada gaúcha votou em 07 jul 2023: Suprimido o texto. Sim: 307; não: 166; abstenção: 5; total: 478."
 ---
 
 # PEC 45/2019
 
-<p class="subtitulo"><b>2023-07-07</b> · Suprimido o texto.</p>
+<p class="subtitulo"><b>07 jul 2023</b> · Suprimido o texto.</p>
 
 | | |
 |---|---|

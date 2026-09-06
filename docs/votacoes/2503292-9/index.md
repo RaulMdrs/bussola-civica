@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 177/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2025-05-06)"
-description: "Como a bancada gaúcha votou em 2025-05-06: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 268; Não: 199; Total: 467."
+title: "PLP 177/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (06 mai 2025)"
+description: "Como a bancada gaúcha votou em 06 mai 2025: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 268; Não: 199; Total: 467."
 ---
 
 # PLP 177/2023
 
-<p class="subtitulo"><b>2025-05-06</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>06 mai 2025</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

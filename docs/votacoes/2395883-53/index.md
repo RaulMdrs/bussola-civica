@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4994/2023 — Aprovado o Substitutivo ao Projeto de Lei nº 4.994, de 2023, adot (2023-12-19)"
-description: "Como a bancada gaúcha votou em 2023-12-19: Aprovado o Substitutivo ao Projeto de Lei nº 4.994, de 2023, adotado pelo relator da Comissão de Meio Ambiente"
+title: "PL 4994/2023 — Aprovado o Substitutivo ao Projeto de Lei nº 4.994, de 2023, adot (19 dez 2023)"
+description: "Como a bancada gaúcha votou em 19 dez 2023: Aprovado o Substitutivo ao Projeto de Lei nº 4.994, de 2023, adotado pelo relator da Comissão de Meio Ambiente"
 ---
 
 # PL 4994/2023
 
-<p class="subtitulo"><b>2023-12-19</b> · Aprovado o Substitutivo ao Projeto de Lei nº 4.994, de 2023, adotado pelo relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvados os destaques.</p>
+<p class="subtitulo"><b>19 dez 2023</b> · Aprovado o Substitutivo ao Projeto de Lei nº 4.994, de 2023, adotado pelo relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvados os destaques.</p>
 
 | | |
 |---|---|

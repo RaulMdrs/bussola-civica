@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5610/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2023-12-07)"
-description: "Como a bancada gaúcha votou em 2023-12-07: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 358; não: 10 ; total:368."
+title: "PL 5610/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (07 dez 2023)"
+description: "Como a bancada gaúcha votou em 07 dez 2023: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 358; não: 10 ; total:368."
 ---
 
 # PL 5610/2023
 
-<p class="subtitulo"><b>2023-12-07</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>07 dez 2023</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 519/2018 — Rejeitado o Requerimento. (2024-08-28)"
-description: "Como a bancada gaúcha votou em 2024-08-28: Rejeitado o Requerimento. Sim: 114; não: 301; total: 415."
+title: "PLP 519/2018 — Rejeitado o Requerimento. (28 ago 2024)"
+description: "Como a bancada gaúcha votou em 28 ago 2024: Rejeitado o Requerimento. Sim: 114; não: 301; total: 415."
 ---
 
 # PLP 519/2018
 
-<p class="subtitulo"><b>2024-08-28</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>28 ago 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

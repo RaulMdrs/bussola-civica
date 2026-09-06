@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 347/2003 — Aprovada a Emenda de Plenário n. 7. (2025-11-05)"
-description: "Como a bancada gaúcha votou em 2025-11-05: Aprovada a Emenda de Plenário n. 7. Sim: 269; Não: 154; Total: 423."
+title: "PL 347/2003 — Aprovada a Emenda de Plenário n. 7. (05 nov 2025)"
+description: "Como a bancada gaúcha votou em 05 nov 2025: Aprovada a Emenda de Plenário n. 7. Sim: 269; Não: 154; Total: 423."
 ---
 
 # PL 347/2003
 
-<p class="subtitulo"><b>2025-11-05</b> · Aprovada a Emenda de Plenário n. 7.</p>
+<p class="subtitulo"><b>05 nov 2025</b> · Aprovada a Emenda de Plenário n. 7.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2685/2022 — Mantido o texto. (2023-09-05)"
-description: "Como a bancada gaúcha votou em 2023-09-05: Mantido o texto. Sim: 349; não: 24; abstenção: 2; total: 375."
+title: "PL 2685/2022 — Mantido o texto. (05 set 2023)"
+description: "Como a bancada gaúcha votou em 05 set 2023: Mantido o texto. Sim: 349; não: 24; abstenção: 2; total: 375."
 ---
 
 # PL 2685/2022
 
-<p class="subtitulo"><b>2023-09-05</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>05 set 2023</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

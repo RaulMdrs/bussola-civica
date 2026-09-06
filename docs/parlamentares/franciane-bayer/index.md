@@ -7,7 +7,7 @@ description: "Como Franciane Bayer vota: alinhamento com o governo federal e coe
 
 # Franciane Bayer
 
-<p class="subtitulo"><b>REPUBLICANOS</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>REPUBLICANOS</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-05-06</span>
+<span class="data">06 mai 2026</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 343; Não: 97; Abstenção: 1; Total: 441.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-04-22</span>
+<span class="data">22 abr 2026</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 252; Não: 161; Total: 413.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-05-06</span>
+<span class="data">06 mai 2026</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 343; Não: 97; Abstenção: 1; Total: 441.</span></p>
 <p class="referencia">Maioria do partido: sim (35 sim / 2 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-03-02</span>
+<span class="data">02 mar 2026</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 258; Não: 119; Abstenção: 1; Total: 378.</span></p>
 <p class="referencia">Maioria do partido: sim (32 sim / 6 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-03-02</span>
+<span class="data">02 mar 2026</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 235; Não: 121; Abstenção: 2; Total: 358.</span></p>
 <p class="referencia">Maioria do partido: sim (30 sim / 8 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -148,7 +148,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-4353">
-<span class="data">2026-03-10 · 20:20</span>
+<span class="data">10 mar 2026 · 20:20</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
 <p>A Deputada proferiu parecer ao Projeto de Lei nº 3.662, de 2025, que altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para criar tipo penal específico para a lesão corporal praticada contra a mulher em razão do gênero e agravar a pena.</p>
@@ -157,7 +157,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4352">
-<span class="data">2026-02-25 · 15:12</span>
+<span class="data">25 fev 2026 · 15:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>A Deputada registrou os 70 anos do Hospital Beneficente Nossa Senhora de Fátima, em Flores da Cunha (RS), destacando sua trajetória como referência regional em atendimento e cuidado humanizado. Ressaltou o papel da instituição no acolhimento de pacientes e no fortalecimento do Sistema Único de Saúde (SUS), especialmente no interior. Também mencionou o lançamento da campanha para ampliação e modernização do centro cirúrgico, com previsão de conclusão até 2027, baseada na participação comunitária. Por fim, reconheceu a atuação de profissionais, gestores e voluntários, além de defender o apoio às instituições filantrópicas que complementam a atuação do poder público na área da saúde.</p>
@@ -166,7 +166,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4350">
-<span class="data">2025-11-11 · 17:32</span>
+<span class="data">11 nov 2025 · 17:32</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
 <p>A Deputada proferiu parecer ao Projeto de Lei nº 4.028, de 2025, que altera a Lei nº 14.811, de 12 de janeiro de 2024,&amp;nbsp;para dispor sobre a atenção especial à prevenção e combate à violência contra crianças e adolescentes com deficiência na implementação de medidas de proteção à criança e ao adolescente contra a violência nos estabelecimentos educacionais ou similares.</p>
@@ -175,7 +175,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4349">
-<span class="data">2025-11-11 · 14:36</span>
+<span class="data">11 nov 2025 · 14:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>A Deputada registrou a presença da Vereadora Veridiana Pacheco, Presidente da Câmara de Sapucaia do Sul (RS), que está em Brasília (DF) em busca de recursos para o Hospital de Sapucaia do Sul. Destacou que a unidade — referência para o Município e cidades vizinhas — enfrenta grave crise financeira, já teve estado de calamidade decretado e está com o atendimento de pediatria fechado. Ressaltou que Veridiana participa de reuniões no Ministério da Saúde e articula apoio da bancada gaúcha. Por fim, convocou os demais Deputados do Rio Grande do Sul a se unirem para garantir que o hospital permaneça aberto e funcionando.</p>
@@ -184,7 +184,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4348">
-<span class="data">2025-11-05 · 19:44</span>
+<span class="data">05 nov 2025 · 19:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>A Deputada orientou a bancada na votação do Projeto de Decreto Legislativo nº 3, de 2025, que susta os efeitos da Resolução nº 258, de 23 de dezembro de 2024, do Conselho Nacional dos Direitos da Criança e do Adolescente (CONANDA). Além disso, afirmou que o discurso feito em nome da Bancada Feminina sobre o Projeto de Decreto Legislativo nº 3, de 2025, em discussão, não a representou, assim como não representou, segundo ela, grande parte das mulheres Parlamentares presentes.</p>

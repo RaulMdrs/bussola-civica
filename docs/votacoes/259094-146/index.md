@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 293/2004 — Suprimido o texto. (2023-12-15)"
-description: "Como a bancada gaúcha votou em 2023-12-15: Suprimido o texto. Sim: 62; não: 370; total: 432."
+title: "PEC 293/2004 — Suprimido o texto. (15 dez 2023)"
+description: "Como a bancada gaúcha votou em 15 dez 2023: Suprimido o texto. Sim: 62; não: 370; total: 432."
 ---
 
 # PEC 293/2004
 
-<p class="subtitulo"><b>2023-12-15</b> · Suprimido o texto.</p>
+<p class="subtitulo"><b>15 dez 2023</b> · Suprimido o texto.</p>
 
 | | |
 |---|---|

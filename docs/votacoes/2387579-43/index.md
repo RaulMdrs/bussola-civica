@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1187/2023 — Mantido o texto. (2023-12-14)"
-description: "Como a bancada gaúcha votou em 2023-12-14: Mantido o texto. Sim: 241; não: 38; total: 279."
+title: "MPV 1187/2023 — Mantido o texto. (14 dez 2023)"
+description: "Como a bancada gaúcha votou em 14 dez 2023: Mantido o texto. Sim: 241; não: 38; total: 279."
 ---
 
 # MPV 1187/2023
 
-<p class="subtitulo"><b>2023-12-14</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>14 dez 2023</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

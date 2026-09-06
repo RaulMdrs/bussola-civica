@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2721/2023 — Mantido o texto. (2023-11-08)"
-description: "Como a bancada gaúcha votou em 2023-11-08: Mantido o texto. Sim: 268; não: 124; total: 392."
+title: "PL 2721/2023 — Mantido o texto. (08 nov 2023)"
+description: "Como a bancada gaúcha votou em 08 nov 2023: Mantido o texto. Sim: 268; não: 124; total: 392."
 ---
 
 # PL 2721/2023
 
-<p class="subtitulo"><b>2023-11-08</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>08 nov 2023</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

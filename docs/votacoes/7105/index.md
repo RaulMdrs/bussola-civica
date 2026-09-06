@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei Complementar nº 74, de 2026, nos termos do par (2026-09-03)"
-description: "Como os senadores gaúchos votou em 2026-09-03: Votação nominal do Projeto de Lei Complementar nº 74, de 2026, nos termos do parecer."
+title: "Votação nominal do Projeto de Lei Complementar nº 74, de 2026, nos termos do par (03 set 2026)"
+description: "Como os senadores gaúchos votou em 03 set 2026: Votação nominal do Projeto de Lei Complementar nº 74, de 2026, nos termos do parecer."
 ---
 
-# Votação de 2026-09-03
+# Votação de 03 set 2026
 
-<p class="subtitulo"><b>2026-09-03</b> · Votação nominal do Projeto de Lei Complementar nº 74, de 2026, nos termos do parecer.</p>
+<p class="subtitulo"><b>03 set 2026</b> · Votação nominal do Projeto de Lei Complementar nº 74, de 2026, nos termos do parecer.</p>
 
 | | |
 |---|---|

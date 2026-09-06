@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4870/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-12-16)"
-description: "Como a bancada gaúcha votou em 2024-12-16: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 314; Não: 140; Total: 454."
+title: "PL 4870/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (16 dez 2024)"
+description: "Como a bancada gaúcha votou em 16 dez 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 314; Não: 140; Total: 454."
 ---
 
 # PL 4870/2024
 
-<p class="subtitulo"><b>2024-12-16</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>16 dez 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

@@ -7,7 +7,7 @@ description: "Como Daiana Santos vota: alinhamento com o governo federal e coes�
 
 # Daiana Santos
 
-<p class="subtitulo"><b>PCdoB</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>PCdoB</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-07-14</span>
+<span class="data">14 jul 2026</span>
 <div class="corpo">
 <p>Rejeitada a Emenda de Plenário nº 2. <span class="placar">Sim: 134; Não: 285; Abstenção: 2; Total: 421.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-09-03</span>
+<span class="data">03 set 2025</span>
 <div class="corpo">
 <p>Rejeitada a inclusão. <span class="placar">Sim: 119; Não: 310; Abstenção: 1; Total: 430.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-05-28</span>
+<span class="data">28 mai 2026</span>
 <div class="corpo">
 <p>Aprovada a preferência. <span class="placar">Sim: 467; Não: 4; Abstenção: 1; Total: 472.</span></p>
 <p class="referencia">Maioria do partido: sim (10 sim / 0 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-11-18</span>
+<span class="data">18 nov 2025</span>
 <div class="corpo">
 <p>Aprovada a Emenda de Plenário nº 25. <span class="placar">Sim: 349; Não: 40; Abstenção: 1; Total: 390.</span></p>
 <p class="referencia">Maioria do partido: sim (4 sim / 0 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2024-12-19</span>
+<span class="data">19 dez 2024</span>
 <div class="corpo">
 <p>Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.614, de 2024, adotada pelo relator da Comissão Especial, ressalvado o destaque. <span class="placar">Sim: 264; Não: 209; Total: 473.</span></p>
 <p class="referencia">Maioria do partido: sim (5 sim / 1 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -148,7 +148,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-13173">
-<span class="data">2026-09-02 · 18:40</span>
+<span class="data">02 set 2026 · 18:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>A Deputada reafirmou compromisso com o povo brasileiro e com a classe trabalhadora, ao defender que a luta transformou a vida e que a mobilização política havia sido decisiva para a vitória da Proposta de Emenda à Constituição nº 221, de 2019, que trata da redução da jornada de trabalho (fim da escala 6 por 1), na Comissão de Constituição, Justiça e Cidadania - CCJ do Senado. Além disso, ressaltou a necessidade de construir políticas com e para as pessoas, com alternativas reais para problemas concretos.</p>
@@ -157,7 +157,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-13172">
-<span class="data">2026-09-01 · 15:56</span>
+<span class="data">01 set 2026 · 15:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>A Deputada saudou a presença, na Câmara dos Deputados, de representantes da Central dos Trabalhadores e Trabalhadoras do Brasil (CTB) do Rio Grande do Sul e destacou a mobilização da entidade pela aprovação da Proposta de Emenda à Constituição (PEC) nº 221, de 2019, que extingue a escala 6 por 1 e reduz a jornada de trabalho. Além disso, reafirmou seu apoio à PEC em defesa da dignidade e dos direitos dos trabalhadores.</p>
@@ -166,7 +166,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4675">
-<span class="data">2026-05-27 · 22:48</span>
+<span class="data">27 mai 2026 · 22:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>A Deputada celebrou o avanço da proposta de redução da jornada de trabalho e do fim da escala 6 por 1, destacando o momento como histórico para a classe trabalhadora. Ressaltou a importância da luta sindical, da atuação de Parlamentares e movimentos sociais na defesa dos trabalhadores, especialmente das mulheres e mulheres negras submetidas a jornadas exaustivas. Ademais, afirmou que a Câmara demonstrou compromisso com pautas que impactam diretamente a vida da população e agradeceu ao Presidente Luiz Inácio Lula da Silva pelo apoio histórico às causas trabalhistas e às políticas sociais. Também reforçou seu compromisso político com os trabalhadores e afirmou que o Brasil dá um passo importante em direção a melhores condições de vida e trabalho.</p>
@@ -175,7 +175,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4673">
-<span class="data">2026-05-26 · 16:52</span>
+<span class="data">26 mai 2026 · 16:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>A Deputada defendeu a própria conduta no processo de tramitação do Projeto de Lei nº 68, de 2025, que Altera a Lei nº 14.192, de 2021, que dispõe sobre a violência política de gênero, e a Lei nº 4.737, de 1965 (Código Eleitoral), para incluir medidas específicas de proteção e apoio a mulheres em espaços de poder que sofram violência política de gênero, esclarecendo que, ao surgir qualquer ruído em torno da matéria, retirou o projeto para tratativas adequadas e só deu sequência após a conclusão desse processo. Ressaltou o compromisso ético assumido com cerca de 90 mil eleitores gaúchos e afirmou que, em todos os momentos em que empenhou sua palavra, cumpriu o acordado.</p>
@@ -184,7 +184,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4672">
-<span class="data">2026-05-20 · 14:36</span>
+<span class="data">20 mai 2026 · 14:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>A Deputada defendeu a Proposta de Emenda à Constituição que propõe o fim da escala 6x1, com jornada de 40 horas semanais, duas folgas e sem redução salarial, e criticou tentativas de condicionar essa conquista a contrapartidas como a redução do recolhimento do FGTS de 8% para 4% e a isenção temporária da Previdência Patronal para novas contratações. Além disso, apontou contradição dos grupos que não questionaram a reforma trabalhista, aprovada em 120 dias, mas agora resistem à ampliação de direitos. Por fim, reafirmou seu compromisso com os trabalhadores e declarou que dignidade não se negocia.</p>

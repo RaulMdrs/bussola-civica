@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 3/2023 — Rejeitado o Requerimento de Urgência (Art. 155 do RICD). (2023-12-06)"
-description: "Como a bancada gaúcha votou em 2023-12-06: Rejeitado o Requerimento de Urgência (Art. 155 do RICD). Sim: 254; não: 156; abstenção: 5; total: 415."
+title: "PDL 3/2023 — Rejeitado o Requerimento de Urgência (Art. 155 do RICD). (06 dez 2023)"
+description: "Como a bancada gaúcha votou em 06 dez 2023: Rejeitado o Requerimento de Urgência (Art. 155 do RICD). Sim: 254; não: 156; abstenção: 5; total: 415."
 ---
 
 # PDL 3/2023
 
-<p class="subtitulo"><b>2023-12-06</b> · Rejeitado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>06 dez 2023</b> · Rejeitado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

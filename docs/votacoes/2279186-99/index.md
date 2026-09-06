@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 458/2021 — Aprovada a Emenda de Plenário nº 5. (2025-10-29)"
-description: "Como a bancada gaúcha votou em 2025-10-29: Aprovada a Emenda de Plenário nº 5. Sim: 223; Não: 174; Total: 397."
+title: "PL 458/2021 — Aprovada a Emenda de Plenário nº 5. (29 out 2025)"
+description: "Como a bancada gaúcha votou em 29 out 2025: Aprovada a Emenda de Plenário nº 5. Sim: 223; Não: 174; Total: 397."
 ---
 
 # PL 458/2021
 
-<p class="subtitulo"><b>2025-10-29</b> · Aprovada a Emenda de Plenário nº 5.</p>
+<p class="subtitulo"><b>29 out 2025</b> · Aprovada a Emenda de Plenário nº 5.</p>
 
 | | |
 |---|---|

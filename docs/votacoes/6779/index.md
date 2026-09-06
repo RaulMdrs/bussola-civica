@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Requerimento nº 1.039, de 2023, de Líderes, solicitando calen (2023-11-21)"
-description: "Como os senadores gaúchos votou em 2023-11-21: Votação nominal do Requerimento nº 1.039, de 2023, de Líderes, solicitando calendário especial para a PEC nº 8"
+title: "Votação nominal do Requerimento nº 1.039, de 2023, de Líderes, solicitando calen (21 nov 2023)"
+description: "Como os senadores gaúchos votou em 21 nov 2023: Votação nominal do Requerimento nº 1.039, de 2023, de Líderes, solicitando calendário especial para a PEC nº 8"
 ---
 
-# Votação de 2023-11-21
+# Votação de 21 nov 2023
 
-<p class="subtitulo"><b>2023-11-21</b> · Votação nominal do Requerimento nº 1.039, de 2023, de Líderes, solicitando calendário especial para a PEC nº 8/2021.</p>
+<p class="subtitulo"><b>21 nov 2023</b> · Votação nominal do Requerimento nº 1.039, de 2023, de Líderes, solicitando calendário especial para a PEC nº 8/2021.</p>
 
 | | |
 |---|---|

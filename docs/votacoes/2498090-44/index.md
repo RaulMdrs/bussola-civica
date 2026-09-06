@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1296/2025 — Rejeitada a Emenda n° 29. (2025-08-07)"
-description: "Como a bancada gaúcha votou em 2025-08-07: Rejeitada a Emenda n° 29. Sim: 30; Não: 394; Abstenção: 2; Total: 426."
+title: "MPV 1296/2025 — Rejeitada a Emenda n° 29. (07 ago 2025)"
+description: "Como a bancada gaúcha votou em 07 ago 2025: Rejeitada a Emenda n° 29. Sim: 30; Não: 394; Abstenção: 2; Total: 426."
 ---
 
 # MPV 1296/2025
 
-<p class="subtitulo"><b>2025-08-07</b> · Rejeitada a Emenda n° 29.</p>
+<p class="subtitulo"><b>07 ago 2025</b> · Rejeitada a Emenda n° 29.</p>
 
 | | |
 |---|---|

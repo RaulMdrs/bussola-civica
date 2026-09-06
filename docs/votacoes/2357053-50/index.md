@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 93/2023 — Rejeitadas as Emendas de Plenário ao Substitutivo, ressalvados os  (2023-05-23)"
-description: "Como a bancada gaúcha votou em 2023-05-23: Rejeitadas as Emendas de Plenário ao Substitutivo, ressalvados os destaques. Sim: 102; não: 346; abstenção: 1;"
+title: "PLP 93/2023 — Rejeitadas as Emendas de Plenário ao Substitutivo, ressalvados os  (23 mai 2023)"
+description: "Como a bancada gaúcha votou em 23 mai 2023: Rejeitadas as Emendas de Plenário ao Substitutivo, ressalvados os destaques. Sim: 102; não: 346; abstenção: 1;"
 ---
 
 # PLP 93/2023
 
-<p class="subtitulo"><b>2023-05-23</b> · Rejeitadas as Emendas de Plenário ao Substitutivo, ressalvados os destaques.</p>
+<p class="subtitulo"><b>23 mai 2023</b> · Rejeitadas as Emendas de Plenário ao Substitutivo, ressalvados os destaques.</p>
 
 | | |
 |---|---|

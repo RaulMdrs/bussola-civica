@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 45/2019 — Aprovada a Emenda Aglutinativa nº 1. (2023-07-06)"
-description: "Como a bancada gaúcha votou em 2023-07-06: Aprovada a Emenda Aglutinativa nº 1. Sim: 379; não: 114; abstenção: 1; total: 494."
+title: "PEC 45/2019 — Aprovada a Emenda Aglutinativa nº 1. (06 jul 2023)"
+description: "Como a bancada gaúcha votou em 06 jul 2023: Aprovada a Emenda Aglutinativa nº 1. Sim: 379; não: 114; abstenção: 1; total: 494."
 ---
 
 # PEC 45/2019
 
-<p class="subtitulo"><b>2023-07-06</b> · Aprovada a Emenda Aglutinativa nº 1.</p>
+<p class="subtitulo"><b>06 jul 2023</b> · Aprovada a Emenda Aglutinativa nº 1.</p>
 
 | | |
 |---|---|

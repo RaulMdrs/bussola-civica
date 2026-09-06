@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 914/2024 — Aprovadas as Emendas do Senado Federal nºs 1 a 2; e 4 a 12 ao Proj (2024-06-11)"
-description: "Como a bancada gaúcha votou em 2024-06-11: Aprovadas as Emendas do Senado Federal nºs 1 a 2; e 4 a 12 ao Projeto de Lei nº 914, de 2024. Sim: 380; não: 2"
+title: "PL 914/2024 — Aprovadas as Emendas do Senado Federal nºs 1 a 2; e 4 a 12 ao Proj (11 jun 2024)"
+description: "Como a bancada gaúcha votou em 11 jun 2024: Aprovadas as Emendas do Senado Federal nºs 1 a 2; e 4 a 12 ao Projeto de Lei nº 914, de 2024. Sim: 380; não: 2"
 ---
 
 # PL 914/2024
 
-<p class="subtitulo"><b>2024-06-11</b> · Aprovadas as Emendas do Senado Federal nºs 1 a 2; e 4 a 12 ao Projeto de Lei nº 914, de 2024.</p>
+<p class="subtitulo"><b>11 jun 2024</b> · Aprovadas as Emendas do Senado Federal nºs 1 a 2; e 4 a 12 ao Projeto de Lei nº 914, de 2024.</p>
 
 | | |
 |---|---|

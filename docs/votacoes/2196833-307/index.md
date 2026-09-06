@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 45/2019 — Rejeitado o Requerimento. (2023-07-05)"
-description: "Como a bancada gaúcha votou em 2023-07-05: Rejeitado o Requerimento. Sim: 148; não: 302; abstenção: 1; total: 451."
+title: "PEC 45/2019 — Rejeitado o Requerimento. (05 jul 2023)"
+description: "Como a bancada gaúcha votou em 05 jul 2023: Rejeitado o Requerimento. Sim: 148; não: 302; abstenção: 1; total: 451."
 ---
 
 # PEC 45/2019
 
-<p class="subtitulo"><b>2023-07-05</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>05 jul 2023</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

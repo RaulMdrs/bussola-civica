@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1153/2022 — Aprovada a Emenda de Plenário nº 7. (2023-04-27)"
-description: "Como a bancada gaúcha votou em 2023-04-27: Aprovada a Emenda de Plenário nº 7. Sim: 181; não: 171; total: 352."
+title: "MPV 1153/2022 — Aprovada a Emenda de Plenário nº 7. (27 abr 2023)"
+description: "Como a bancada gaúcha votou em 27 abr 2023: Aprovada a Emenda de Plenário nº 7. Sim: 181; não: 171; total: 352."
 ---
 
 # MPV 1153/2022
 
-<p class="subtitulo"><b>2023-04-27</b> · Aprovada a Emenda de Plenário nº 7.</p>
+<p class="subtitulo"><b>27 abr 2023</b> · Aprovada a Emenda de Plenário nº 7.</p>
 
 | | |
 |---|---|

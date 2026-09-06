@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3163/2023 — Rejeitado o Requerimento. (2025-08-13)"
-description: "Como a bancada gaúcha votou em 2025-08-13: Rejeitado o Requerimento. Sim: 119; Não: 295; Total: 414."
+title: "PL 3163/2023 — Rejeitado o Requerimento. (13 ago 2025)"
+description: "Como a bancada gaúcha votou em 13 ago 2025: Rejeitado o Requerimento. Sim: 119; Não: 295; Total: 414."
 ---
 
 # PL 3163/2023
 
-<p class="subtitulo"><b>2025-08-13</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>13 ago 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

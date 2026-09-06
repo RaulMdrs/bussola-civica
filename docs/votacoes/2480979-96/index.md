@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 234/2024 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 234, de (2025-07-14)"
-description: "Como a bancada gaúcha votou em 2025-07-14: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 234, de 2024, da Comissão Especial. Sim: 471; Total:"
+title: "PLP 234/2024 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 234, de (14 jul 2025)"
+description: "Como a bancada gaúcha votou em 14 jul 2025: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 234, de 2024, da Comissão Especial. Sim: 471; Total:"
 ---
 
 # PLP 234/2024
 
-<p class="subtitulo"><b>2025-07-14</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 234, de 2024, da Comissão Especial.</p>
+<p class="subtitulo"><b>14 jul 2025</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 234, de 2024, da Comissão Especial.</p>
 
 | | |
 |---|---|

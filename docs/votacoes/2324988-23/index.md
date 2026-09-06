@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 167/2022 — Aprovado o Projeto de Decreto Legislativo nº 167, de 2022. (2025-05-29)"
-description: "Como a bancada gaúcha votou em 2025-05-29: Aprovado o Projeto de Decreto Legislativo nº 167, de 2022. Sim: 295; Não: 9; Total: 304."
+title: "PDL 167/2022 — Aprovado o Projeto de Decreto Legislativo nº 167, de 2022. (29 mai 2025)"
+description: "Como a bancada gaúcha votou em 29 mai 2025: Aprovado o Projeto de Decreto Legislativo nº 167, de 2022. Sim: 295; Não: 9; Total: 304."
 ---
 
 # PDL 167/2022
 
-<p class="subtitulo"><b>2025-05-29</b> · Aprovado o Projeto de Decreto Legislativo nº 167, de 2022.</p>
+<p class="subtitulo"><b>29 mai 2025</b> · Aprovado o Projeto de Decreto Legislativo nº 167, de 2022.</p>
 
 | | |
 |---|---|

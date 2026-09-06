@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1301/2025 — Rejeitada a Emenda de Comissão nº 45. (2025-09-24)"
-description: "Como a bancada gaúcha votou em 2025-09-24: Rejeitada a Emenda de Comissão nº 45. Sim: 132; Não: 275; Abstenção: 1; Total: 408."
+title: "MPV 1301/2025 — Rejeitada a Emenda de Comissão nº 45. (24 set 2025)"
+description: "Como a bancada gaúcha votou em 24 set 2025: Rejeitada a Emenda de Comissão nº 45. Sim: 132; Não: 275; Abstenção: 1; Total: 408."
 ---
 
 # MPV 1301/2025
 
-<p class="subtitulo"><b>2025-09-24</b> · Rejeitada a Emenda de Comissão nº 45.</p>
+<p class="subtitulo"><b>24 set 2025</b> · Rejeitada a Emenda de Comissão nº 45.</p>
 
 | | |
 |---|---|

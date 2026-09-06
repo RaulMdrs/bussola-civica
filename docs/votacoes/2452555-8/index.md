@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 397/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-08-14)"
-description: "Como a bancada gaúcha votou em 2024-08-14: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 347; não: 86; total: 433."
+title: "PL 397/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (14 ago 2024)"
+description: "Como a bancada gaúcha votou em 14 ago 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 347; não: 86; total: 433."
 ---
 
 # PL 397/2024
 
-<p class="subtitulo"><b>2024-08-14</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>14 ago 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

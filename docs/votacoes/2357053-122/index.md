@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 93/2023 — Rejeitada a Emenda nº 15 do Senado Federal. (2023-08-22)"
-description: "Como a bancada gaúcha votou em 2023-08-22: Rejeitada a Emenda nº 15 do Senado Federal. Sim: 153; não: 270; abstenção: 1; total: 424."
+title: "PLP 93/2023 — Rejeitada a Emenda nº 15 do Senado Federal. (22 ago 2023)"
+description: "Como a bancada gaúcha votou em 22 ago 2023: Rejeitada a Emenda nº 15 do Senado Federal. Sim: 153; não: 270; abstenção: 1; total: 424."
 ---
 
 # PLP 93/2023
 
-<p class="subtitulo"><b>2023-08-22</b> · Rejeitada a Emenda nº 15 do Senado Federal.</p>
+<p class="subtitulo"><b>22 ago 2023</b> · Rejeitada a Emenda nº 15 do Senado Federal.</p>
 
 | | |
 |---|---|

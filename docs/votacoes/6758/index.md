@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Art. 28 do Projeto de Lei nº 2.903, de 2023, destacado. (2023-09-27)"
-description: "Como os senadores gaúchos votou em 2023-09-27: Votação nominal do Art. 28 do Projeto de Lei nº 2.903, de 2023, destacado."
+title: "Votação nominal do Art. 28 do Projeto de Lei nº 2.903, de 2023, destacado. (27 set 2023)"
+description: "Como os senadores gaúchos votou em 27 set 2023: Votação nominal do Art. 28 do Projeto de Lei nº 2.903, de 2023, destacado."
 ---
 
-# Votação de 2023-09-27
+# Votação de 27 set 2023
 
-<p class="subtitulo"><b>2023-09-27</b> · Votação nominal do Art. 28 do Projeto de Lei nº 2.903, de 2023, destacado.</p>
+<p class="subtitulo"><b>27 set 2023</b> · Votação nominal do Art. 28 do Projeto de Lei nº 2.903, de 2023, destacado.</p>
 
 | | |
 |---|---|

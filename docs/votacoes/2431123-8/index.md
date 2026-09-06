@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 914/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-05-07)"
-description: "Como a bancada gaúcha votou em 2024-05-07: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 320; não: 117; total: 437."
+title: "PL 914/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (07 mai 2024)"
+description: "Como a bancada gaúcha votou em 07 mai 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 320; não: 117; total: 437."
 ---
 
 # PL 914/2024
 
-<p class="subtitulo"><b>2024-05-07</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>07 mai 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

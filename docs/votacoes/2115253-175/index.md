@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2721/2023 — Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 6. (2023-11-08)"
-description: "Como a bancada gaúcha votou em 2023-11-08: Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 6.385-C, de 2016, ressalvados os destaques. Sim"
+title: "PL 2721/2023 — Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 6. (08 nov 2023)"
+description: "Como a bancada gaúcha votou em 08 nov 2023: Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 6.385-C, de 2016, ressalvados os destaques. Sim"
 ---
 
 # PL 2721/2023
 
-<p class="subtitulo"><b>2023-11-08</b> · Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 6.385-C, de 2016, ressalvados os destaques.</p>
+<p class="subtitulo"><b>08 nov 2023</b> · Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 6.385-C, de 2016, ressalvados os destaques.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 85/2024 — Aprovado o Substitutivo ao Projeto de Lei Complementar n. 85, de 2 (2024-05-14)"
-description: "Como a bancada gaúcha votou em 2024-05-14: Aprovado o Substitutivo ao Projeto de Lei Complementar n. 85, de 2024, adotado pelo Relator da Comissão de Fin"
+title: "PLP 85/2024 — Aprovado o Substitutivo ao Projeto de Lei Complementar n. 85, de 2 (14 mai 2024)"
+description: "Como a bancada gaúcha votou em 14 mai 2024: Aprovado o Substitutivo ao Projeto de Lei Complementar n. 85, de 2024, adotado pelo Relator da Comissão de Fin"
 ---
 
 # PLP 85/2024
 
-<p class="subtitulo"><b>2024-05-14</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar n. 85, de 2024, adotado pelo Relator da Comissão de Finanças e Tributação, ressalvados os destaques.</p>
+<p class="subtitulo"><b>14 mai 2024</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar n. 85, de 2024, adotado pelo Relator da Comissão de Finanças e Tributação, ressalvados os destaques.</p>
 
 | | |
 |---|---|

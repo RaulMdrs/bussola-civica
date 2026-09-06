@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5497/2019 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 5.4 (2023-10-03)"
-description: "Como a bancada gaúcha votou em 2023-10-03: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 5.497, de 2019, adotada pela relatora da Comissã"
+title: "PL 5497/2019 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 5.4 (03 out 2023)"
+description: "Como a bancada gaúcha votou em 03 out 2023: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 5.497, de 2019, adotada pela relatora da Comissã"
 ---
 
 # PL 5497/2019
 
-<p class="subtitulo"><b>2023-10-03</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 5.497, de 2019, adotada pela relatora da Comissão de Cultura, ressalvados os destaques.</p>
+<p class="subtitulo"><b>03 out 2023</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 5.497, de 2019, adotada pela relatora da Comissão de Cultura, ressalvados os destaques.</p>
 
 | | |
 |---|---|

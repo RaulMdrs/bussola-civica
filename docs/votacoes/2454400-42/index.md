@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 121/2024 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Comple (2024-12-10)"
-description: "Como a bancada gaúcha votou em 2024-12-10: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 121, de 2024, adotada pelo relator "
+title: "PLP 121/2024 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Comple (10 dez 2024)"
+description: "Como a bancada gaúcha votou em 10 dez 2024: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 121, de 2024, adotada pelo relator "
 ---
 
 # PLP 121/2024
 
-<p class="subtitulo"><b>2024-12-10</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 121, de 2024, adotada pelo relator da Comissão de Finanças e Tributação, ressalvado o destaque.</p>
+<p class="subtitulo"><b>10 dez 2024</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 121, de 2024, adotada pelo relator da Comissão de Finanças e Tributação, ressalvado o destaque.</p>
 
 | | |
 |---|---|

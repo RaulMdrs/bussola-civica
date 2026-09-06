@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2942/2024 — Mantido o texto. (2026-03-10)"
-description: "Como a bancada gaúcha votou em 2026-03-10: Mantido o texto. Sim: 408; Não: 13; Total: 421."
+title: "PL 2942/2024 — Mantido o texto. (10 mar 2026)"
+description: "Como a bancada gaúcha votou em 10 mar 2026: Mantido o texto. Sim: 408; Não: 13; Total: 421."
 ---
 
 # PL 2942/2024
 
-<p class="subtitulo"><b>2026-03-10</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>10 mar 2026</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

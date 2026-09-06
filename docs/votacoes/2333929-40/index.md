@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2228/2022 — Aprovado o Projeto de Lei nº 3.954, de 2023. (2023-11-29)"
-description: "Como a bancada gaúcha votou em 2023-11-29: Aprovado o Projeto de Lei nº 3.954, de 2023. Sim: 307; não: 27; abstenção: 1; total: 338."
+title: "PL 2228/2022 — Aprovado o Projeto de Lei nº 3.954, de 2023. (29 nov 2023)"
+description: "Como a bancada gaúcha votou em 29 nov 2023: Aprovado o Projeto de Lei nº 3.954, de 2023. Sim: 307; não: 27; abstenção: 1; total: 338."
 ---
 
 # PL 2228/2022
 
-<p class="subtitulo"><b>2023-11-29</b> · Aprovado o Projeto de Lei nº 3.954, de 2023.</p>
+<p class="subtitulo"><b>29 nov 2023</b> · Aprovado o Projeto de Lei nº 3.954, de 2023.</p>
 
 | | |
 |---|---|

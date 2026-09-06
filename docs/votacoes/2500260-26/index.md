@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1856/2025 — Rejeitado o Requerimento. (2025-08-12)"
-description: "Como a bancada gaúcha votou em 2025-08-12: Rejeitado o Requerimento. Sim: 61; Não: 385; Abstenção: 1; Total: 447."
+title: "PL 1856/2025 — Rejeitado o Requerimento. (12 ago 2025)"
+description: "Como a bancada gaúcha votou em 12 ago 2025: Rejeitado o Requerimento. Sim: 61; Não: 385; Abstenção: 1; Total: 447."
 ---
 
 # PL 1856/2025
 
-<p class="subtitulo"><b>2025-08-12</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>12 ago 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

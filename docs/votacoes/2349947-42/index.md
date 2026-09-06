@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1164/2023 — Rejeitada a Emenda de Comissão nº 98. (2023-05-30)"
-description: "Como a bancada gaúcha votou em 2023-05-30: Rejeitada a Emenda de Comissão nº 98. Sim: 159; não: 270; total: 429."
+title: "MPV 1164/2023 — Rejeitada a Emenda de Comissão nº 98. (30 mai 2023)"
+description: "Como a bancada gaúcha votou em 30 mai 2023: Rejeitada a Emenda de Comissão nº 98. Sim: 159; não: 270; total: 429."
 ---
 
 # MPV 1164/2023
 
-<p class="subtitulo"><b>2023-05-30</b> · Rejeitada a Emenda de Comissão nº 98.</p>
+<p class="subtitulo"><b>30 mai 2023</b> · Rejeitada a Emenda de Comissão nº 98.</p>
 
 | | |
 |---|---|

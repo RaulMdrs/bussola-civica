@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2721/2023 — Aprovada a Redação Final assinada pelo relator, Dep. Vicentinho J (2023-11-08)"
-description: "Como a bancada gaúcha votou em 2023-11-08: Aprovada a Redação Final assinada pelo relator, Dep. Vicentinho Júnior (PP-TO). Sim: 286; não: 112; total: 398"
+title: "PL 2721/2023 — Aprovada a Redação Final assinada pelo relator, Dep. Vicentinho J (08 nov 2023)"
+description: "Como a bancada gaúcha votou em 08 nov 2023: Aprovada a Redação Final assinada pelo relator, Dep. Vicentinho Júnior (PP-TO). Sim: 286; não: 112; total: 398"
 ---
 
 # PL 2721/2023
 
-<p class="subtitulo"><b>2023-11-08</b> · Aprovada a Redação Final assinada pelo relator, Dep. Vicentinho Júnior (PP-TO).</p>
+<p class="subtitulo"><b>08 nov 2023</b> · Aprovada a Redação Final assinada pelo relator, Dep. Vicentinho Júnior (PP-TO).</p>
 
 | | |
 |---|---|

@@ -7,7 +7,7 @@ description: "Como Carlos Gomes vota: alinhamento com o governo federal e coesã
 
 # Carlos Gomes
 
-<p class="subtitulo"><b>REPUBLICANOS</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>REPUBLICANOS</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-04-22</span>
+<span class="data">22 abr 2026</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 252; Não: 161; Total: 413.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-03-18</span>
+<span class="data">18 mar 2026</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 232; Não: 151; Abstenção: 1; Total: 384.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-03-02</span>
+<span class="data">02 mar 2026</span>
 <div class="corpo">
 <p>Rejeitada a Emenda de Plenário ao Substitutivo. <span class="placar">Sim: 194; Não: 207; Abstenção: 3; Total: 404.</span></p>
 <p class="referencia">Maioria do partido: sim (21 sim / 17 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-02-09</span>
+<span class="data">09 fev 2026</span>
 <div class="corpo">
 <p>Aprovada a Medida Provisória nº 1.317, de 2025, na forma do Projeto de Lei de Conversão. <span class="placar">Sim: 271; Não: 127; Total: 398.</span></p>
 <p class="referencia">Maioria do partido: sim (24 sim / 6 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2023-07-07</span>
+<span class="data">07 jul 2023</span>
 <div class="corpo">
 <p>Suprimido o texto. <span class="placar">Sim: 307; não: 166; abstenção: 5; total: 478.</span></p>
 <p class="referencia">Maioria do partido: sim (25 sim / 11 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -146,7 +146,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-2505">
-<span class="data">2026-07-08 · 18:32</span>
+<span class="data">08 jul 2026 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado agradeceu ao Presidente Hugo Motta e aos Parlamentares pela aprovação da alteração da Lei de Incentivo à Reciclagem, afirmou ter superado a própria infância na coleta de materiais e disse que a decisão fez justiça à categoria. Além disso, ressaltou que mais de um milhão de pessoas dependiam da reciclagem e pediu apoio do Senado para acelerar a tramitação, a fim de fortalecer a economia circular e a reciclagem no País.</p>
@@ -155,7 +155,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2504">
-<span class="data">2026-07-08 · 18:08</span>
+<span class="data">08 jul 2026 · 18:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>O Deputado discutiu o Projeto de Lei nº 1.361, de 2025, que altera a Lei nº 14.260, de 2021, para tornar permanentes os incentivos à indústria da reciclagem.&amp;nbsp;Na oportunidade, afirmou que a proposta aperfeiçoou a Lei de Incentivo à Reciclagem e fortaleceu seus impactos sociais, ambientais e econômicos; e que que a matéria elevou de 1% para 4% o limite de dedução do Imposto de Renda para pessoas jurídicas, tornou permanente a vigência da lei e ampliou a participação dos Municípios na comissão responsável pelo acompanhamento da política. Por fim, sustentou que a iniciativa promoveria a economia circular e beneficiaria os trabalhadores da reciclagem, especialmente os catadores.</p>
@@ -164,7 +164,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2503">
-<span class="data">2026-07-08 · 16:16</span>
+<span class="data">08 jul 2026 · 16:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado agradeceu ao Presidente da Câmara dos Deputados, Hugo Motta, pela inclusão em pauta do Projeto de Lei (PL) nº 1.361, de 2025, que altera a Lei nº 14.260, de 2021, para tornar permanentes os incentivos à indústria da reciclagem. Além disso, destacou os resultados alcançados pela legislação, com a aprovação de centenas de projetos voltados ao fortalecimento da cadeia produtiva da reciclagem e da economia circular. Por fim, defendeu a aprovação do parecer do Relator Deputado Arnaldo Jardim, sustentando que a proposta amplia os limites de dedução do Imposto de Renda para investimentos em projetos de reciclagem, equiparando os incentivos fiscais aos concedidos às áreas da cultura e do esporte.</p>
@@ -173,7 +173,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2502">
-<span class="data">2026-03-17 · 15:52</span>
+<span class="data">17 mar 2026 · 15:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado informou retorno ao mandato após atuação à frente da Secretaria de Habitação e Regularização Fundiária do Rio Grande do Sul, destacando ações durante enchentes, como aquisição de moradias modulares, construção de unidades habitacionais e programas de acesso à casa própria. Além disso, relatou iniciativas de regularização fundiária, saneamento e abastecimento de água, além de parcerias institucionais para atender famílias afetadas. Em seguida, alertou para impactos da reforma tributária na cadeia da reciclagem, defendendo ajustes para evitar prejuízos às indústrias e aos trabalhadores do setor. Também mencionou a Lei de Incentivo à Reciclagem e solicitou apoio para ampliar investimentos e fortalecer a atividade no País.</p>
@@ -182,7 +182,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2501">
-<span class="data">2025-05-27 · 11:56</span>
+<span class="data">27 mai 2025 · 11:56</span>
 <div class="corpo">
 <p class="tipo">HOMENAGEM</p>
 <p>O Deputado discursou na Sessão Solene em homenagem aos 65 anos da Confederação Nacional de Dirigentes Lojistas (CNDL) e ao Dia Livre de Impostos. Destacou a liderança do Presidente da CNDL, José César da Costa, elogiando sua postura discreta e eficaz na condução da entidade. Ressaltou o papel da CNDL na articulação nacional do setor varejista e celebrou a presença de representantes dos 27 Estados, considerando sinal de uma liderança que une e mobiliza. Destacou que a homenagem valorizou também o compromisso da base estadual e a importância da força coletiva para superar os desafios do Brasil. Encerrou prestando reconhecimento à resiliência e à dedicação dos lojistas.</p>

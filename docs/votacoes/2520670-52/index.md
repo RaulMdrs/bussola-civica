@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 128/2025 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Comple (2025-12-16)"
-description: "Como a bancada gaúcha votou em 2025-12-16: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 128, de 2025, adotada pelo relator "
+title: "PLP 128/2025 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Comple (16 dez 2025)"
+description: "Como a bancada gaúcha votou em 16 dez 2025: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 128, de 2025, adotada pelo relator "
 ---
 
 # PLP 128/2025
 
-<p class="subtitulo"><b>2025-12-16</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 128, de 2025, adotada pelo relator da Comissão de Desenvolvimento Econômico, ressalvado o destaque.</p>
+<p class="subtitulo"><b>16 dez 2025</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 128, de 2025, adotada pelo relator da Comissão de Desenvolvimento Econômico, ressalvado o destaque.</p>
 
 | | |
 |---|---|

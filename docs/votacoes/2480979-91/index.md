@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 234/2024 — Rejeitada a Emenda de Plenário ao Substitutivo. (2025-07-14)"
-description: "Como a bancada gaúcha votou em 2025-07-14: Rejeitada a Emenda de Plenário ao Substitutivo. Sim: 7; Não: 407; Total: 414."
+title: "PLP 234/2024 — Rejeitada a Emenda de Plenário ao Substitutivo. (14 jul 2025)"
+description: "Como a bancada gaúcha votou em 14 jul 2025: Rejeitada a Emenda de Plenário ao Substitutivo. Sim: 7; Não: 407; Total: 414."
 ---
 
 # PLP 234/2024
 
-<p class="subtitulo"><b>2025-07-14</b> · Rejeitada a Emenda de Plenário ao Substitutivo.</p>
+<p class="subtitulo"><b>14 jul 2025</b> · Rejeitada a Emenda de Plenário ao Substitutivo.</p>
 
 | | |
 |---|---|

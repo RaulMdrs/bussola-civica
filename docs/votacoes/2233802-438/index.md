@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 221/2019 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição n (2026-05-27)"
-description: "Como a bancada gaúcha votou em 2026-05-27: Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 221, de 2019. . Sim: 461; Não: 19; Total: 4"
+title: "PEC 221/2019 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição n (27 mai 2026)"
+description: "Como a bancada gaúcha votou em 27 mai 2026: Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 221, de 2019. . Sim: 461; Não: 19; Total: 4"
 ---
 
 # PEC 221/2019
 
-<p class="subtitulo"><b>2026-05-27</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 221, de 2019. .</p>
+<p class="subtitulo"><b>27 mai 2026</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 221, de 2019. .</p>
 
 | | |
 |---|---|

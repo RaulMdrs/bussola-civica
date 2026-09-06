@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4015/2023 — Aprovado o Substitutivo ao Projeto de Lei nº 996, de 2015, adotad (2023-08-09)"
-description: "Como a bancada gaúcha votou em 2023-08-09: Aprovado o Substitutivo ao Projeto de Lei nº 996, de 2015, adotado pelo Relator da Comissão de Constituição e "
+title: "PL 4015/2023 — Aprovado o Substitutivo ao Projeto de Lei nº 996, de 2015, adotad (09 ago 2023)"
+description: "Como a bancada gaúcha votou em 09 ago 2023: Aprovado o Substitutivo ao Projeto de Lei nº 996, de 2015, adotado pelo Relator da Comissão de Constituição e "
 ---
 
 # PL 4015/2023
 
-<p class="subtitulo"><b>2023-08-09</b> · Aprovado o Substitutivo ao Projeto de Lei nº 996, de 2015, adotado pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques.</p>
+<p class="subtitulo"><b>09 ago 2023</b> · Aprovado o Substitutivo ao Projeto de Lei nº 996, de 2015, adotado pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques.</p>
 
 | | |
 |---|---|

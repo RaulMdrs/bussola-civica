@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1466/2025 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.4 (2025-05-21)"
-description: "Como a bancada gaúcha votou em 2025-05-21: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.466, de 2025, adotada pelo relator da Comissão"
+title: "PL 1466/2025 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.4 (21 mai 2025)"
+description: "Como a bancada gaúcha votou em 21 mai 2025: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.466, de 2025, adotada pelo relator da Comissão"
 ---
 
 # PL 1466/2025
 
-<p class="subtitulo"><b>2025-05-21</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.466, de 2025, adotada pelo relator da Comissão de Administração e Serviço Público, ressalvado o destaque.</p>
+<p class="subtitulo"><b>21 mai 2025</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.466, de 2025, adotada pelo relator da Comissão de Administração e Serviço Público, ressalvado o destaque.</p>
 
 | | |
 |---|---|

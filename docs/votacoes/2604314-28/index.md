@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 727/2026 — Rejeitado o Requerimento. (2026-03-11)"
-description: "Como a bancada gaúcha votou em 2026-03-11: Rejeitado o Requerimento. Sim: 60; Não: 337; Abstenção: 1; Total: 398."
+title: "PL 727/2026 — Rejeitado o Requerimento. (11 mar 2026)"
+description: "Como a bancada gaúcha votou em 11 mar 2026: Rejeitado o Requerimento. Sim: 60; Não: 337; Abstenção: 1; Total: 398."
 ---
 
 # PL 727/2026
 
-<p class="subtitulo"><b>2026-03-11</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>11 mar 2026</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

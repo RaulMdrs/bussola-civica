@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3821/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-11-26)"
-description: "Como a bancada gaúcha votou em 2024-11-26: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 357; Não: 56; Abstenção: 1; Total: 414."
+title: "PL 3821/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (26 nov 2024)"
+description: "Como a bancada gaúcha votou em 26 nov 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 357; Não: 56; Abstenção: 1; Total: 414."
 ---
 
 # PL 3821/2024
 
-<p class="subtitulo"><b>2024-11-26</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>26 nov 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

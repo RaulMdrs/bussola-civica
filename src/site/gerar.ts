@@ -353,7 +353,30 @@ const ultimosDiscursos = (politicoId: number, limite: number) =>
   );
 
 /** `2023-02-28T15:12` → `2023-02-28 · 15:12`. Sem reformatar a data. */
-const dataHora = (s: string) => s.replace("T", " · ");
+/**
+ * `2026-09-03` → `03 set 2026`.
+ *
+ * ISO é ótimo para ordenar e péssimo para ler: quem chega ao site lê data em
+ * português, não carimbo de tempo. A forma humana aparece em tudo que é lido —
+ * e o ISO permanece onde é **dado**: no CSV, no `lastmod` do sitemap e no
+ * `_data/meta.yml`, que existem para máquina.
+ *
+ * Os doze meses têm três letras em português, então a coluna continua alinhando
+ * em fonte monoespaçada — a decomposição tem 545 linhas e precisa disso.
+ */
+const MESES = ["jan","fev","mar","abr","mai","jun","jul","ago","set","out","nov","dez"];
+
+function dataHumana(iso: string): string {
+  const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(iso);
+  if (!m) return iso; // formato inesperado sai como veio, nunca virando data errada
+  return `${m[3]} ${MESES[Number(m[2]) - 1] ?? m[2]} ${m[1]}`;
+}
+
+/** `2023-02-28T15:12` → `28 fev 2023 · 15:12`. */
+const dataHora = (s: string) => {
+  const [dia, hora] = s.split("T");
+  return hora ? `${dataHumana(dia!)} · ${hora}` : dataHumana(s);
+};
 
 /**
  * O `url_texto` da coleção `J` não abre.
@@ -425,7 +448,7 @@ function blocoEvidencia(e: Evidencia): string {
   const { texto, placar } = partirDescricao(e.descricao);
   return (
     `<blockquote class="evidencia">\n` +
-    `<span class="data">${esc(e.data)}</span>\n` +
+    `<span class="data">${esc(dataHumana(e.data))}</span>\n` +
     `<div class="corpo">\n` +
     `<p>${esc(texto)}` +
     (placar ? ` <span class="placar">${esc(placar)}</span>` : "") +
@@ -457,7 +480,7 @@ function gerarPerfil(p: Parlamentar): string {
   md += `# ${p.nome}\n\n`;
   md += `<p class="subtitulo"><b>${esc(p.sigla ?? "sem filiação registrada")}</b> · `;
   md += `deputado federal pelo RS · ${esc(p.condicao)}`;
-  md += p.exercicio ? ` · em exercício desde <b>${esc(p.exercicio)}</b>` : "";
+  md += p.exercicio ? ` · em exercício desde <b>${esc(dataHumana(p.exercicio))}</b>` : "";
   md += `</p>\n\n`;
 
   md += `## Os dois eixos\n\n`;
@@ -894,7 +917,7 @@ function gerarEvidencia(p: Parlamentar, x: Posicao): string {
     const marca = l.concordou
       ? `<span class="coincidiu">coincidiu</span>`
       : `<span class="divergiu">divergiu</span>`;
-    md += `| ${esc(l.data)} | ${esc(umaLinha(l.descricao))} `;
+    md += `| ${esc(dataHumana(l.data))} | ${esc(umaLinha(l.descricao))} `;
     md += `| ${esc(umaLinha(l.referencia))} `;
     md += `| <b>${esc(l.voto)}</b> | ${marca} `;
     // Aponta para a nossa página da votação, não direto para a API: lá o
@@ -1003,7 +1026,7 @@ function gerarImprensa(): string {
   md += `o período. Por exemplo:\n\n`;
   md += `> O deputado X votou conforme a orientação da liderança do Governo em\n`;
   md += `> **49,6% das 353 votações nominais de mérito** em que seu voto foi\n`;
-  md += `> computável, entre fevereiro de 2023 e ${periodo.fim}.\n\n`;
+  md += `> computável, entre fevereiro de 2023 e ${dataHumana(periodo.fim)}.\n\n`;
   md += `Cada perfil traz esses quatro elementos, e cada percentual é um link\n`;
   md += `para a decomposição completa — todas as votações que entraram na conta,\n`;
   md += `uma por linha, com o voto registrado e o link para a fonte oficial.\n\n`;
@@ -1171,13 +1194,13 @@ function gerarVotacao(v: VotacaoPagina): string {
   const titulo = v.proposicao ? `${v.proposicao} — ${ato}` : ato;
 
   let md = frontMatter(
-    `${titulo.slice(0, 80)} (${v.data})`,
-    `Como ${v.casa === "camara" ? "a bancada gaúcha" : "os senadores gaúchos"} votou em ${v.data}: ${umaLinha(v.descricao).slice(0, 110)}`,
+    `${titulo.slice(0, 80)} (${dataHumana(v.data)})`,
+    `Como ${v.casa === "camara" ? "a bancada gaúcha" : "os senadores gaúchos"} votou em ${dataHumana(v.data)}: ${umaLinha(v.descricao).slice(0, 110)}`,
     "votacao",
   );
 
-  md += `# ${esc(v.proposicao ?? `Votação de ${v.data}`)}\n\n`;
-  md += `<p class="subtitulo"><b>${esc(v.data)}</b> · ${esc(ato)}</p>\n\n`;
+  md += `# ${esc(v.proposicao ?? `Votação de ${dataHumana(v.data)}`)}\n\n`;
+  md += `<p class="subtitulo"><b>${esc(dataHumana(v.data))}</b> · ${esc(ato)}</p>\n\n`;
 
   md += `| | |\n|---|---|\n`;
   md += `| Casa | ${v.casa === "camara" ? "Câmara dos Deputados" : "Senado Federal"} |\n`;
@@ -1285,7 +1308,7 @@ function gerarIndiceVotacoes(
   md += `| Data | Votação | Casa | Chamada |\n|---|---|---|---|\n`;
   for (const v of lista) {
     const { texto } = partirDescricao(v.descricao);
-    md += `| ${esc(v.data)} `;
+    md += `| ${esc(dataHumana(v.data))} `;
     md += `| [${esc(umaLinha(texto).slice(0, 90))}](../${v.idExterno}/) `;
     md += `| <span class="escopo">${v.casa === "camara" ? "Câmara" : "Senado"}</span> `;
     md += `| ${v.aprovacao == null ? "—" : v.aprovacao ? "aprovada" : "rejeitada"} |\n`;
@@ -1389,7 +1412,7 @@ function gerarPerfilSenador(p: Parlamentar): string {
   md += `# ${p.nome}\n\n`;
   md += `<p class="subtitulo"><b>${esc(p.sigla ?? "sem filiação registrada")}</b> · `;
   md += `senador pelo RS · ${esc(p.condicao)}`;
-  md += p.exercicio ? ` · em exercício desde <b>${esc(p.exercicio)}</b>` : "";
+  md += p.exercicio ? ` · em exercício desde <b>${esc(dataHumana(p.exercicio))}</b>` : "";
   md += `</p>\n\n`;
   md += AVISO_SENADO;
   md += AUSENCIA_SENADO;
@@ -1865,7 +1888,7 @@ function gerarHome(
     for (const v of recentes) {
       const { texto } = partirDescricao(v.descricao);
       const nome = v.proposicao ? `${v.proposicao} — ${umaLinha(texto)}` : umaLinha(texto);
-      md += `| ${esc(v.data)} `;
+      md += `| ${esc(dataHumana(v.data))} `;
       md += `| [${esc(nome.slice(0, 80))}](./votacoes/${v.idExterno}/) `;
       md += `| <span class="escopo">${v.casa === "camara" ? "Câmara" : "Senado"}</span> |\n`;
     }
@@ -1873,7 +1896,7 @@ function gerarHome(
     md += `[Todas as ${milhar(votacoes.length)} votações com chamada nominal →](./votacoes/)\n\n`;
     md += `O acervo é atualizado **duas vezes por semana**, automaticamente. A\n`;
     md += `última sessão com votação registrada aqui é de\n`;
-    md += `**${recentes[0]!.data}**.\n\n`;
+    md += `**${dataHumana(recentes[0]!.data)}**.\n\n`;
   }
 
   md += `## [Deputados federais do Rio Grande do Sul →](./parlamentares/)\n\n`;
@@ -2092,8 +2115,12 @@ function escreverMeta() {
   writeFileSync(
     join(SAIDA, "_data", "meta.yml"),
     `# Gerado por 'npm run site' a partir do acervo. Não editar à mão.\n` +
+      // ISO para máquina, e a forma humana pronta para o rodapé: o layout é
+      // Liquid e não tem como formatar data sem plugin.
       `periodo_inicio: "${periodo.ini}"\n` +
       `periodo_fim: "${periodo.fim}"\n` +
+      `periodo_inicio_br: "${dataHumana(periodo.ini)}"\n` +
+      `periodo_fim_br: "${dataHumana(periodo.fim)}"\n` +
       `legislatura: ${legislatura}\n` +
       `metodologia_versao: "${metodologia.versao}"\n` +
       `metodologia_url: "${metodologia.url}"\n`,

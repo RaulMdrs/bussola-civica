@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1847/2024 — Mantido o texto. (2024-09-11)"
-description: "Como a bancada gaúcha votou em 2024-09-11: Mantido o texto. Sim: 200; Não: 80; Abstenção: 1; Total: 281."
+title: "PL 1847/2024 — Mantido o texto. (11 set 2024)"
+description: "Como a bancada gaúcha votou em 11 set 2024: Mantido o texto. Sim: 200; Não: 80; Abstenção: 1; Total: 281."
 ---
 
 # PL 1847/2024
 
-<p class="subtitulo"><b>2024-09-11</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>11 set 2024</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

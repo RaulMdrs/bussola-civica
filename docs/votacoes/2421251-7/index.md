@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 719/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-03-26)"
-description: "Como a bancada gaúcha votou em 2024-03-26: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 349; não: 23; total: 372."
+title: "PL 719/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (26 mar 2024)"
+description: "Como a bancada gaúcha votou em 26 mar 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 349; não: 23; total: 372."
 ---
 
 # PL 719/2024
 
-<p class="subtitulo"><b>2024-03-26</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>26 mar 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

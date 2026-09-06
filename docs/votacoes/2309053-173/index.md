@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4188/2021 — Rejeitado o Requerimento. (2023-10-03)"
-description: "Como a bancada gaúcha votou em 2023-10-03: Rejeitado o Requerimento. Sim: 26; não: 291; abstenção: 6; total: 323."
+title: "PL 4188/2021 — Rejeitado o Requerimento. (03 out 2023)"
+description: "Como a bancada gaúcha votou em 03 out 2023: Rejeitado o Requerimento. Sim: 26; não: 291; abstenção: 6; total: 323."
 ---
 
 # PL 4188/2021
 
-<p class="subtitulo"><b>2023-10-03</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>03 out 2023</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

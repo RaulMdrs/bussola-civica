@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 175/2023 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Comple (2024-02-21)"
-description: "Como a bancada gaúcha votou em 2024-02-21: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 175, de 2023, adotada pelo relator "
+title: "PLP 175/2023 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Comple (21 fev 2024)"
+description: "Como a bancada gaúcha votou em 21 fev 2024: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 175, de 2023, adotada pelo relator "
 ---
 
 # PLP 175/2023
 
-<p class="subtitulo"><b>2024-02-21</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 175, de 2023, adotada pelo relator da Comissão de Saúde.</p>
+<p class="subtitulo"><b>21 fev 2024</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 175, de 2023, adotada pelo relator da Comissão de Saúde.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1548/2022 — Aprovado o Substitutivo ao Projeto de Lei nº 1.548, de 2022, adot (2024-04-16)"
-description: "Como a bancada gaúcha votou em 2024-04-16: Aprovado o Substitutivo ao Projeto de Lei nº 1.548, de 2022, adotado pelo relator da Comissão de Finanças e Tr"
+title: "PL 1548/2022 — Aprovado o Substitutivo ao Projeto de Lei nº 1.548, de 2022, adot (16 abr 2024)"
+description: "Como a bancada gaúcha votou em 16 abr 2024: Aprovado o Substitutivo ao Projeto de Lei nº 1.548, de 2022, adotado pelo relator da Comissão de Finanças e Tr"
 ---
 
 # PL 1548/2022
 
-<p class="subtitulo"><b>2024-04-16</b> · Aprovado o Substitutivo ao Projeto de Lei nº 1.548, de 2022, adotado pelo relator da Comissão de Finanças e Tributação.</p>
+<p class="subtitulo"><b>16 abr 2024</b> · Aprovado o Substitutivo ao Projeto de Lei nº 1.548, de 2022, adotado pelo relator da Comissão de Finanças e Tributação.</p>
 
 | | |
 |---|---|

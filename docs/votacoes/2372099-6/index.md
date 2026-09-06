@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 45/2019 — Aprovado o Requerimento nº 2.150/2023, dos Senhores Líderes, que s (2023-07-06)"
-description: "Como a bancada gaúcha votou em 2023-07-06: Aprovado o Requerimento nº 2.150/2023, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões"
+title: "PEC 45/2019 — Aprovado o Requerimento nº 2.150/2023, dos Senhores Líderes, que s (06 jul 2023)"
+description: "Como a bancada gaúcha votou em 06 jul 2023: Aprovado o Requerimento nº 2.150/2023, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões"
 ---
 
 # PEC 45/2019
 
-<p class="subtitulo"><b>2023-07-06</b> · Aprovado o Requerimento nº 2.150/2023, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões previsto no § 6º do art. 202 do RICD, para apreciação do segundo turno da PEC 45, de 2019.</p>
+<p class="subtitulo"><b>06 jul 2023</b> · Aprovado o Requerimento nº 2.150/2023, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões previsto no § 6º do art. 202 do RICD, para apreciação do segundo turno da PEC 45, de 2019.</p>
 
 | | |
 |---|---|

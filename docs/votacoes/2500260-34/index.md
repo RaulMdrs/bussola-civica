@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1856/2025 — Aprovado o Projeto de Lei nº 1.856, de 2025. (2025-08-12)"
-description: "Como a bancada gaúcha votou em 2025-08-12: Aprovado o Projeto de Lei nº 1.856, de 2025. Sim: 424; Não: 4; Abstenção: 2; Total: 430."
+title: "PL 1856/2025 — Aprovado o Projeto de Lei nº 1.856, de 2025. (12 ago 2025)"
+description: "Como a bancada gaúcha votou em 12 ago 2025: Aprovado o Projeto de Lei nº 1.856, de 2025. Sim: 424; Não: 4; Abstenção: 2; Total: 430."
 ---
 
 # PL 1856/2025
 
-<p class="subtitulo"><b>2025-08-12</b> · Aprovado o Projeto de Lei nº 1.856, de 2025.</p>
+<p class="subtitulo"><b>12 ago 2025</b> · Aprovado o Projeto de Lei nº 1.856, de 2025.</p>
 
 | | |
 |---|---|

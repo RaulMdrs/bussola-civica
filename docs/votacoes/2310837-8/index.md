@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2630/2020 — Aprovado o Requerimento de Urgência (Art. 154 do RICD). (2023-04-25)"
-description: "Como a bancada gaúcha votou em 2023-04-25: Aprovado o Requerimento de Urgência (Art. 154 do RICD). Sim: 238; não: 192; total: 430."
+title: "PL 2630/2020 — Aprovado o Requerimento de Urgência (Art. 154 do RICD). (25 abr 2023)"
+description: "Como a bancada gaúcha votou em 25 abr 2023: Aprovado o Requerimento de Urgência (Art. 154 do RICD). Sim: 238; não: 192; total: 430."
 ---
 
 # PL 2630/2020
 
-<p class="subtitulo"><b>2023-04-25</b> · Aprovado o Requerimento de Urgência (Art. 154 do RICD).</p>
+<p class="subtitulo"><b>25 abr 2023</b> · Aprovado o Requerimento de Urgência (Art. 154 do RICD).</p>
 
 | | |
 |---|---|

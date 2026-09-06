@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1172/2023 — Aprovada a Medida Provisória nº 1.172, de 2023, na forma do Proj (2023-08-23)"
-description: "Como a bancada gaúcha votou em 2023-08-23: Aprovada a Medida Provisória nº 1.172, de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaq"
+title: "MPV 1172/2023 — Aprovada a Medida Provisória nº 1.172, de 2023, na forma do Proj (23 ago 2023)"
+description: "Como a bancada gaúcha votou em 23 ago 2023: Aprovada a Medida Provisória nº 1.172, de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaq"
 ---
 
 # MPV 1172/2023
 
-<p class="subtitulo"><b>2023-08-23</b> · Aprovada a Medida Provisória nº 1.172, de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques.</p>
+<p class="subtitulo"><b>23 ago 2023</b> · Aprovada a Medida Provisória nº 1.172, de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques.</p>
 
 | | |
 |---|---|

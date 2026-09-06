@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4750/2025 — Rejeitado o Requerimento. (2025-11-04)"
-description: "Como a bancada gaúcha votou em 2025-11-04: Rejeitado o Requerimento. Sim: 125; Não: 287; Total: 412."
+title: "PL 4750/2025 — Rejeitado o Requerimento. (04 nov 2025)"
+description: "Como a bancada gaúcha votou em 04 nov 2025: Rejeitado o Requerimento. Sim: 125; Não: 287; Total: 412."
 ---
 
 # PL 4750/2025
 
-<p class="subtitulo"><b>2025-11-04</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>04 nov 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 68/2024 — Aprovados os dispositivos do Substitutivo do Senado Federal ao Pro (2024-12-17)"
-description: "Como a bancada gaúcha votou em 2024-12-17: Aprovados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com"
+title: "PLP 68/2024 — Aprovados os dispositivos do Substitutivo do Senado Federal ao Pro (17 dez 2024)"
+description: "Como a bancada gaúcha votou em 17 dez 2024: Aprovados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com"
 ---
 
 # PLP 68/2024
 
-<p class="subtitulo"><b>2024-12-17</b> · Aprovados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela aprovação.</p>
+<p class="subtitulo"><b>17 dez 2024</b> · Aprovados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela aprovação.</p>
 
 | | |
 |---|---|

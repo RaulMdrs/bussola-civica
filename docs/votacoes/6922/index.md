@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Substitutivo da Câmara dos Deputados ao PLP nº 22/2025, nos t (2025-03-19)"
-description: "Como os senadores gaúchos votou em 2025-03-19: Votação nominal do Substitutivo da Câmara dos Deputados ao PLP nº 22/2025, nos termos do parecer."
+title: "Votação nominal do Substitutivo da Câmara dos Deputados ao PLP nº 22/2025, nos t (19 mar 2025)"
+description: "Como os senadores gaúchos votou em 19 mar 2025: Votação nominal do Substitutivo da Câmara dos Deputados ao PLP nº 22/2025, nos termos do parecer."
 ---
 
-# Votação de 2025-03-19
+# Votação de 19 mar 2025
 
-<p class="subtitulo"><b>2025-03-19</b> · Votação nominal do Substitutivo da Câmara dos Deputados ao PLP nº 22/2025, nos termos do parecer.</p>
+<p class="subtitulo"><b>19 mar 2025</b> · Votação nominal do Substitutivo da Câmara dos Deputados ao PLP nº 22/2025, nos termos do parecer.</p>
 
 | | |
 |---|---|

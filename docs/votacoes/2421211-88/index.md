@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 769/2024 — Aprovado o Substitutivo ao Projeto de Lei nº 769, de 2024, adotado (2025-07-08)"
-description: "Como a bancada gaúcha votou em 2025-07-08: Aprovado o Substitutivo ao Projeto de Lei nº 769, de 2024, adotado pelo relator da Comissão de Finanças e Trib"
+title: "PL 769/2024 — Aprovado o Substitutivo ao Projeto de Lei nº 769, de 2024, adotado (08 jul 2025)"
+description: "Como a bancada gaúcha votou em 08 jul 2025: Aprovado o Substitutivo ao Projeto de Lei nº 769, de 2024, adotado pelo relator da Comissão de Finanças e Trib"
 ---
 
 # PL 769/2024
 
-<p class="subtitulo"><b>2025-07-08</b> · Aprovado o Substitutivo ao Projeto de Lei nº 769, de 2024, adotado pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques.</p>
+<p class="subtitulo"><b>08 jul 2025</b> · Aprovado o Substitutivo ao Projeto de Lei nº 769, de 2024, adotado pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques.</p>
 
 | | |
 |---|---|

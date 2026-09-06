@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5900/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2026-05-19)"
-description: "Como a bancada gaúcha votou em 2026-05-19: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 317; Não: 123; Total: 440."
+title: "PL 5900/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (19 mai 2026)"
+description: "Como a bancada gaúcha votou em 19 mai 2026: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 317; Não: 123; Total: 440."
 ---
 
 # PL 5900/2025
 
-<p class="subtitulo"><b>2026-05-19</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>19 mai 2026</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

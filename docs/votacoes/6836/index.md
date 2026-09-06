@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei nº 914, de 2024, nos termos do parecer, ressal (2024-06-05)"
-description: "Como os senadores gaúchos votou em 2024-06-05: Votação nominal do Projeto de Lei nº 914, de 2024, nos termos do parecer, ressalvados os destaques."
+title: "Votação nominal do Projeto de Lei nº 914, de 2024, nos termos do parecer, ressal (05 jun 2024)"
+description: "Como os senadores gaúchos votou em 05 jun 2024: Votação nominal do Projeto de Lei nº 914, de 2024, nos termos do parecer, ressalvados os destaques."
 ---
 
-# Votação de 2024-06-05
+# Votação de 05 jun 2024
 
-<p class="subtitulo"><b>2024-06-05</b> · Votação nominal do Projeto de Lei nº 914, de 2024, nos termos do parecer, ressalvados os destaques.</p>
+<p class="subtitulo"><b>05 jun 2024</b> · Votação nominal do Projeto de Lei nº 914, de 2024, nos termos do parecer, ressalvados os destaques.</p>
 
 | | |
 |---|---|

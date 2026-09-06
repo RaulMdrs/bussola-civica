@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1016/2023 — Rejeitada a Emenda de Plenário nº 8. (2023-08-30)"
-description: "Como a bancada gaúcha votou em 2023-08-30: Rejeitada a Emenda de Plenário nº 8. Sim: 116; não: 325; total: 441."
+title: "PL 1016/2023 — Rejeitada a Emenda de Plenário nº 8. (30 ago 2023)"
+description: "Como a bancada gaúcha votou em 30 ago 2023: Rejeitada a Emenda de Plenário nº 8. Sim: 116; não: 325; total: 441."
 ---
 
 # PL 1016/2023
 
-<p class="subtitulo"><b>2023-08-30</b> · Rejeitada a Emenda de Plenário nº 8.</p>
+<p class="subtitulo"><b>30 ago 2023</b> · Rejeitada a Emenda de Plenário nº 8.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Proposta de Emenda à Constituição nº 54, de 2024, nos termos  (2024-12-19)"
-description: "Como os senadores gaúchos votou em 2024-12-19: Votação nominal da Proposta de Emenda à Constituição nº 54, de 2024, nos termos do parecer (1º Turno), ressalv"
+title: "Votação nominal da Proposta de Emenda à Constituição nº 54, de 2024, nos termos  (19 dez 2024)"
+description: "Como os senadores gaúchos votou em 19 dez 2024: Votação nominal da Proposta de Emenda à Constituição nº 54, de 2024, nos termos do parecer (1º Turno), ressalv"
 ---
 
-# Votação de 2024-12-19
+# Votação de 19 dez 2024
 
-<p class="subtitulo"><b>2024-12-19</b> · Votação nominal da Proposta de Emenda à Constituição nº 54, de 2024, nos termos do parecer (1º Turno), ressalvado o destaque.</p>
+<p class="subtitulo"><b>19 dez 2024</b> · Votação nominal da Proposta de Emenda à Constituição nº 54, de 2024, nos termos do parecer (1º Turno), ressalvado o destaque.</p>
 
 | | |
 |---|---|

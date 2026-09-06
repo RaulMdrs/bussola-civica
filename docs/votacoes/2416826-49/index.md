@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3/2024 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 3, de  (2024-03-26)"
-description: "Como a bancada gaúcha votou em 2024-03-26: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 3, de 2024, adotada pela relatora da Comissão de"
+title: "PL 3/2024 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 3, de  (26 mar 2024)"
+description: "Como a bancada gaúcha votou em 26 mar 2024: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 3, de 2024, adotada pela relatora da Comissão de"
 ---
 
 # PL 3/2024
 
-<p class="subtitulo"><b>2024-03-26</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 3, de 2024, adotada pela relatora da Comissão de Indústria, Comércio e Serviços.</p>
+<p class="subtitulo"><b>26 mar 2024</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 3, de 2024, adotada pela relatora da Comissão de Indústria, Comércio e Serviços.</p>
 
 | | |
 |---|---|

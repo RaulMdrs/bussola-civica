@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5582/2025 — Aprovado o Requerimento. (2025-11-18)"
-description: "Como a bancada gaúcha votou em 2025-11-18: Aprovado o Requerimento. Sim: 335; Não: 111; Total: 446."
+title: "PL 5582/2025 — Aprovado o Requerimento. (18 nov 2025)"
+description: "Como a bancada gaúcha votou em 18 nov 2025: Aprovado o Requerimento. Sim: 335; Não: 111; Total: 446."
 ---
 
 # PL 5582/2025
 
-<p class="subtitulo"><b>2025-11-18</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>18 nov 2025</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

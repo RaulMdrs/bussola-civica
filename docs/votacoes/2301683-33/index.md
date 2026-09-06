@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3453/2021 — Rejeitado o Requerimento. (2023-03-22)"
-description: "Como a bancada gaúcha votou em 2023-03-22: Rejeitado o Requerimento. Sim: 56; não: 247; total: 303."
+title: "PL 3453/2021 — Rejeitado o Requerimento. (22 mar 2023)"
+description: "Como a bancada gaúcha votou em 22 mar 2023: Rejeitado o Requerimento. Sim: 56; não: 247; total: 303."
 ---
 
 # PL 3453/2021
 
-<p class="subtitulo"><b>2023-03-22</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>22 mar 2023</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

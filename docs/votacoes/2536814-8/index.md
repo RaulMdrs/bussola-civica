@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2859/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2025-08-12)"
-description: "Como a bancada gaúcha votou em 2025-08-12: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 431; Total: 431."
+title: "PL 2859/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (12 ago 2025)"
+description: "Como a bancada gaúcha votou em 12 ago 2025: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 431; Total: 431."
 ---
 
 # PL 2859/2023
 
-<p class="subtitulo"><b>2025-08-12</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>12 ago 2025</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

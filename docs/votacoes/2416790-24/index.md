@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1202/2023 — Rejeitado o Requerimento. (2024-05-07)"
-description: "Como a bancada gaúcha votou em 2024-05-07: Rejeitado o Requerimento. Sim: 17; Não: 304; total: 321."
+title: "MPV 1202/2023 — Rejeitado o Requerimento. (07 mai 2024)"
+description: "Como a bancada gaúcha votou em 07 mai 2024: Rejeitado o Requerimento. Sim: 17; Não: 304; total: 321."
 ---
 
 # MPV 1202/2023
 
-<p class="subtitulo"><b>2024-05-07</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>07 mai 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

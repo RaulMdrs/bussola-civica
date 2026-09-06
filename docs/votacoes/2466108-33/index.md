@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4187/2024 — Aprovado o Projeto de Lei nº 4.187, de 2024. (2025-02-25)"
-description: "Como a bancada gaúcha votou em 2025-02-25: Aprovado o Projeto de Lei nº 4.187, de 2024. Sim: 269; Não: 136; Abstenção: 2; Total: 407."
+title: "PL 4187/2024 — Aprovado o Projeto de Lei nº 4.187, de 2024. (25 fev 2025)"
+description: "Como a bancada gaúcha votou em 25 fev 2025: Aprovado o Projeto de Lei nº 4.187, de 2024. Sim: 269; Não: 136; Abstenção: 2; Total: 407."
 ---
 
 # PL 4187/2024
 
-<p class="subtitulo"><b>2025-02-25</b> · Aprovado o Projeto de Lei nº 4.187, de 2024.</p>
+<p class="subtitulo"><b>25 fev 2025</b> · Aprovado o Projeto de Lei nº 4.187, de 2024.</p>
 
 | | |
 |---|---|

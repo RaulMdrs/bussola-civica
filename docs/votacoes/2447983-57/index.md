@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 262/2019 — Aprovado o Projeto de Lei Complementar nº 262, de 2019. (2026-05-19)"
-description: "Como a bancada gaúcha votou em 2026-05-19: Aprovado o Projeto de Lei Complementar nº 262, de 2019. Sim: 442; Não: 2; Total: 444."
+title: "PLP 262/2019 — Aprovado o Projeto de Lei Complementar nº 262, de 2019. (19 mai 2026)"
+description: "Como a bancada gaúcha votou em 19 mai 2026: Aprovado o Projeto de Lei Complementar nº 262, de 2019. Sim: 442; Não: 2; Total: 444."
 ---
 
 # PLP 262/2019
 
-<p class="subtitulo"><b>2026-05-19</b> · Aprovado o Projeto de Lei Complementar nº 262, de 2019.</p>
+<p class="subtitulo"><b>19 mai 2026</b> · Aprovado o Projeto de Lei Complementar nº 262, de 2019.</p>
 
 | | |
 |---|---|

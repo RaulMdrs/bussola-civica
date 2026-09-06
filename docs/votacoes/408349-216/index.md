@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3935/2008 — Mantido o texto. (2025-11-04)"
-description: "Como a bancada gaúcha votou em 2025-11-04: Mantido o texto. Sim: 377; Não: 50; Abstenção: 2; Total: 429."
+title: "PL 3935/2008 — Mantido o texto. (04 nov 2025)"
+description: "Como a bancada gaúcha votou em 04 nov 2025: Mantido o texto. Sim: 377; Não: 50; Abstenção: 2; Total: 429."
 ---
 
 # PL 3935/2008
 
-<p class="subtitulo"><b>2025-11-04</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>04 nov 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

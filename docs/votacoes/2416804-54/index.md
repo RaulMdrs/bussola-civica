@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2/2024 — Rejeitada a Emenda de Plenário nº 12. (2024-03-19)"
-description: "Como a bancada gaúcha votou em 2024-03-19: Rejeitada a Emenda de Plenário nº 12. Sim: 142; não: 287; total: 429."
+title: "PL 2/2024 — Rejeitada a Emenda de Plenário nº 12. (19 mar 2024)"
+description: "Como a bancada gaúcha votou em 19 mar 2024: Rejeitada a Emenda de Plenário nº 12. Sim: 142; não: 287; total: 429."
 ---
 
 # PL 2/2024
 
-<p class="subtitulo"><b>2024-03-19</b> · Rejeitada a Emenda de Plenário nº 12.</p>
+<p class="subtitulo"><b>19 mar 2024</b> · Rejeitada a Emenda de Plenário nº 12.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4497/2024 — Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 4. (2025-12-09)"
-description: "Como a bancada gaúcha votou em 2025-12-09: Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 4.497, de 2024, ressalvados os destaques. Sim: "
+title: "PL 4497/2024 — Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 4. (09 dez 2025)"
+description: "Como a bancada gaúcha votou em 09 dez 2025: Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 4.497, de 2024, ressalvados os destaques. Sim: "
 ---
 
 # PL 4497/2024
 
-<p class="subtitulo"><b>2025-12-09</b> · Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 4.497, de 2024, ressalvados os destaques.</p>
+<p class="subtitulo"><b>09 dez 2025</b> · Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 4.497, de 2024, ressalvados os destaques.</p>
 
 | | |
 |---|---|

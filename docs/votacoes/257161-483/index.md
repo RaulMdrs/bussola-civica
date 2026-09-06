@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2159/2021 — Aprovada a Redação Final assinada pelo Relator, Dep. Zé Vitor (PL (2025-07-16)"
-description: "Como a bancada gaúcha votou em 2025-07-16: Aprovada a Redação Final assinada pelo Relator, Dep. Zé Vitor (PL-MG). Sim: 231; Não: 87; Total: 318."
+title: "PL 2159/2021 — Aprovada a Redação Final assinada pelo Relator, Dep. Zé Vitor (PL (16 jul 2025)"
+description: "Como a bancada gaúcha votou em 16 jul 2025: Aprovada a Redação Final assinada pelo Relator, Dep. Zé Vitor (PL-MG). Sim: 231; Não: 87; Total: 318."
 ---
 
 # PL 2159/2021
 
-<p class="subtitulo"><b>2025-07-16</b> · Aprovada a Redação Final assinada pelo Relator, Dep. Zé Vitor (PL-MG).</p>
+<p class="subtitulo"><b>16 jul 2025</b> · Aprovada a Redação Final assinada pelo Relator, Dep. Zé Vitor (PL-MG).</p>
 
 | | |
 |---|---|

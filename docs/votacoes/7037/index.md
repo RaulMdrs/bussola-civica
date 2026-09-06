@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Emenda nº 117 (Substitutivo) ao Projeto de Lei nº 5.582, de 2 (2025-12-10)"
-description: "Como os senadores gaúchos votou em 2025-12-10: Votação nominal da Emenda nº 117 (Substitutivo) ao Projeto de Lei nº 5.582, de 2025, nos termos do parecer."
+title: "Votação nominal da Emenda nº 117 (Substitutivo) ao Projeto de Lei nº 5.582, de 2 (10 dez 2025)"
+description: "Como os senadores gaúchos votou em 10 dez 2025: Votação nominal da Emenda nº 117 (Substitutivo) ao Projeto de Lei nº 5.582, de 2025, nos termos do parecer."
 ---
 
-# Votação de 2025-12-10
+# Votação de 10 dez 2025
 
-<p class="subtitulo"><b>2025-12-10</b> · Votação nominal da Emenda nº 117 (Substitutivo) ao Projeto de Lei nº 5.582, de 2025, nos termos do parecer.</p>
+<p class="subtitulo"><b>10 dez 2025</b> · Votação nominal da Emenda nº 117 (Substitutivo) ao Projeto de Lei nº 5.582, de 2025, nos termos do parecer.</p>
 
 | | |
 |---|---|

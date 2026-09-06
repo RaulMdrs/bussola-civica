@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1147/2022 — Mantido o texto. (2023-04-25)"
-description: "Como a bancada gaúcha votou em 2023-04-25: Mantido o texto. Sim: 289; não: 108; total: 397."
+title: "MPV 1147/2022 — Mantido o texto. (25 abr 2023)"
+description: "Como a bancada gaúcha votou em 25 abr 2023: Mantido o texto. Sim: 289; não: 108; total: 397."
 ---
 
 # MPV 1147/2022
 
-<p class="subtitulo"><b>2023-04-25</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>25 abr 2023</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

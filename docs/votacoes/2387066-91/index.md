@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4438/2023 — Suprimido o texto. (2023-09-14)"
-description: "Como a bancada gaúcha votou em 2023-09-14: Suprimido o texto. Sim: 207; não: 215; abstenção: 2; total: 424."
+title: "PL 4438/2023 — Suprimido o texto. (14 set 2023)"
+description: "Como a bancada gaúcha votou em 14 set 2023: Suprimido o texto. Sim: 207; não: 215; abstenção: 2; total: 424."
 ---
 
 # PL 4438/2023
 
-<p class="subtitulo"><b>2023-09-14</b> · Suprimido o texto.</p>
+<p class="subtitulo"><b>14 set 2023</b> · Suprimido o texto.</p>
 
 | | |
 |---|---|

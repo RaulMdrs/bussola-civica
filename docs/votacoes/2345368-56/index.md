@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1150/2022 — Rejeitada a Emenda de Comissão nº 15. (2023-03-30)"
-description: "Como a bancada gaúcha votou em 2023-03-30: Rejeitada a Emenda de Comissão nº 15. Sim: 143; não: 195; total: 338."
+title: "MPV 1150/2022 — Rejeitada a Emenda de Comissão nº 15. (30 mar 2023)"
+description: "Como a bancada gaúcha votou em 30 mar 2023: Rejeitada a Emenda de Comissão nº 15. Sim: 143; não: 195; total: 338."
 ---
 
 # MPV 1150/2022
 
-<p class="subtitulo"><b>2023-03-30</b> · Rejeitada a Emenda de Comissão nº 15.</p>
+<p class="subtitulo"><b>30 mar 2023</b> · Rejeitada a Emenda de Comissão nº 15.</p>
 
 | | |
 |---|---|

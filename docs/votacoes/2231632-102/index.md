@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6256/2019 — Aprovada a Emenda de Plenário n° 1. (2023-12-05)"
-description: "Como a bancada gaúcha votou em 2023-12-05: Aprovada a Emenda de Plenário n° 1. Sim: 257; não: 144; abstenção: 2; total: 403."
+title: "PL 6256/2019 — Aprovada a Emenda de Plenário n° 1. (05 dez 2023)"
+description: "Como a bancada gaúcha votou em 05 dez 2023: Aprovada a Emenda de Plenário n° 1. Sim: 257; não: 144; abstenção: 2; total: 403."
 ---
 
 # PL 6256/2019
 
-<p class="subtitulo"><b>2023-12-05</b> · Aprovada a Emenda de Plenário n° 1.</p>
+<p class="subtitulo"><b>05 dez 2023</b> · Aprovada a Emenda de Plenário n° 1.</p>
 
 | | |
 |---|---|

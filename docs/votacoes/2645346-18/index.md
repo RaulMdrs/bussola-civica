@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 995/2026 — Aprovado o Projeto de Decreto Legislativo nº 995, de 2026 (Aprova (2026-09-02)"
-description: "Como a bancada gaúcha votou em 2026-09-02: Aprovado o Projeto de Decreto Legislativo nº 995, de 2026 (Aprova a indicação do Sr. Rodrigo Otávio Soares Pac"
+title: "PDL 995/2026 — Aprovado o Projeto de Decreto Legislativo nº 995, de 2026 (Aprova (02 set 2026)"
+description: "Como a bancada gaúcha votou em 02 set 2026: Aprovado o Projeto de Decreto Legislativo nº 995, de 2026 (Aprova a indicação do Sr. Rodrigo Otávio Soares Pac"
 ---
 
 # PDL 995/2026
 
-<p class="subtitulo"><b>2026-09-02</b> · Aprovado o Projeto de Decreto Legislativo nº 995, de 2026 (Aprova a indicação do Sr. Rodrigo Otávio Soares Pacheco para o cargo de Ministro do Tribunal de Contas da União).</p>
+<p class="subtitulo"><b>02 set 2026</b> · Aprovado o Projeto de Decreto Legislativo nº 995, de 2026 (Aprova a indicação do Sr. Rodrigo Otávio Soares Pacheco para o cargo de Ministro do Tribunal de Contas da União).</p>
 
 | | |
 |---|---|

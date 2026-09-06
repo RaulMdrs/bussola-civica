@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3965/2021 — Aprovada a parte da Emenda nº 3. (2025-05-29)"
-description: "Como a bancada gaúcha votou em 2025-05-29: Aprovada a parte da Emenda nº 3. Sim: 285; Não: 116; Abstenção: 3; Total: 404."
+title: "PL 3965/2021 — Aprovada a parte da Emenda nº 3. (29 mai 2025)"
+description: "Como a bancada gaúcha votou em 29 mai 2025: Aprovada a parte da Emenda nº 3. Sim: 285; Não: 116; Abstenção: 3; Total: 404."
 ---
 
 # PL 3965/2021
 
-<p class="subtitulo"><b>2025-05-29</b> · Aprovada a parte da Emenda nº 3.</p>
+<p class="subtitulo"><b>29 mai 2025</b> · Aprovada a parte da Emenda nº 3.</p>
 
 | | |
 |---|---|

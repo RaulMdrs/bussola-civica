@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Requerimento nº 31, de 2023, da CCJ - Solicita urgência para  (2023-09-27)"
-description: "Como os senadores gaúchos votou em 2023-09-27: Votação nominal do Requerimento nº 31, de 2023, da CCJ - Solicita urgência para o PL nº 2.903/2023."
+title: "Votação nominal do Requerimento nº 31, de 2023, da CCJ - Solicita urgência para  (27 set 2023)"
+description: "Como os senadores gaúchos votou em 27 set 2023: Votação nominal do Requerimento nº 31, de 2023, da CCJ - Solicita urgência para o PL nº 2.903/2023."
 ---
 
-# Votação de 2023-09-27
+# Votação de 27 set 2023
 
-<p class="subtitulo"><b>2023-09-27</b> · Votação nominal do Requerimento nº 31, de 2023, da CCJ - Solicita urgência para o PL nº 2.903/2023.</p>
+<p class="subtitulo"><b>27 set 2023</b> · Votação nominal do Requerimento nº 31, de 2023, da CCJ - Solicita urgência para o PL nº 2.903/2023.</p>
 
 | | |
 |---|---|

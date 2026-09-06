@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2342/2022 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.3 (2023-05-10)"
-description: "Como a bancada gaúcha votou em 2023-05-10: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.342, de 2022, adotada pela relatora da Comissã"
+title: "PL 2342/2022 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.3 (10 mai 2023)"
+description: "Como a bancada gaúcha votou em 10 mai 2023: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.342, de 2022, adotada pela relatora da Comissã"
 ---
 
 # PL 2342/2022
 
-<p class="subtitulo"><b>2023-05-10</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.342, de 2022, adotada pela relatora da Comissão de Administração e Serviço Público.</p>
+<p class="subtitulo"><b>10 mai 2023</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.342, de 2022, adotada pela relatora da Comissão de Administração e Serviço Público.</p>
 
 | | |
 |---|---|

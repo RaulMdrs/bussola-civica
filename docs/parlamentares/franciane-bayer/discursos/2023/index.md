@@ -19,7 +19,7 @@ description: "Os discursos de Franciane Bayer em 2023, com o sumário oficial e 
 ## Substantivos — 5
 
 <blockquote class="evidencia discurso" id="d-4329">
-<span class="data">2023-11-08 · 17:00</span>
+<span class="data">08 nov 2023 · 17:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>A Deputada abordou a importância da igualdade e tratamento isonômico, especialmente no contexto das deficiências. Ela destacou a necessidade de considerar as limitações específicas de pessoas com surdez unilateral, ressaltando que essa condição também apresenta desafios significativos. Alertou sobre a urgência de derrubar o Veto nº 58, de 2022, para garantir aos surdos unilaterais os mesmos direitos concedidos a outros deficientes auditivos. Enfatizou a discriminação existente e instou os Parlamentares a mobilizarem-se para corrigir essa situação.</p>
@@ -28,7 +28,7 @@ description: "Os discursos de Franciane Bayer em 2023, com o sumário oficial e 
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4328">
-<span class="data">2023-09-20 · 14:48</span>
+<span class="data">20 set 2023 · 14:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>A Deputada informou sobre a comemoração do Dia do Gaúcho e aproveitou a data para reafirmar que a maioria da população do Estado do Rio Grande do Sul é contra o aborto e a favor da vida. Criticou a declaração da Ministra das Mulheres do Governo Lula, em tom de lamentação, sobre a dificuldade de aprovar a pauta do aborto no Congresso. Afirmou que o Governo desrespeita a vontade do povo brasileiro e articula, junto com partidos da Esquerda, o julgamento do tema pelo Supremo Tribunal Federal. Ressaltou que a Corte extrapola sua competência ao pretender legislar no lugar do Parlamento pautando o julgamento da ADPF 442, que trata da descriminalização do aborto. A oradora convocou o povo brasileiro, em particular o gaúcho, para defender a vida e não aceitar a cultura da morte.</p>
@@ -37,7 +37,7 @@ description: "Os discursos de Franciane Bayer em 2023, com o sumário oficial e 
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4327">
-<span class="data">2023-06-07 · 12:12</span>
+<span class="data">07 jun 2023 · 12:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>Apelo por maior atenção do poder público e da sociedade em geral para com os incentivos da mídia à sexualização precoce de crianças e adolescentes.</p>
@@ -46,7 +46,7 @@ description: "Os discursos de Franciane Bayer em 2023, com o sumário oficial e 
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4326">
-<span class="data">2023-05-31 · 17:12</span>
+<span class="data">31 mai 2023 · 17:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>Transcurso do Dia Internacional da Família e do Dia Nacional de Combate ao Abuso e à Exploração Sexual de Crianças e Adolescentes. Realização, pela Comissão de Previdência, Assistência Social, Infância, Adolescência e Família, de audiência pública para debate do tema Família e educação parental. Criação, pela Casa, da Frente Parlamentar contra a Sexualização Precoce de Crianças e Adolescentes. Fortalecimento da célula familiar.</p>
@@ -55,7 +55,7 @@ description: "Os discursos de Franciane Bayer em 2023, com o sumário oficial e 
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4325">
-<span class="data">2023-03-30 · 09:36</span>
+<span class="data">30 mar 2023 · 09:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>Apelo aos Governadores Estaduais de elevação do teto de isenção do ICMS na aquisição de veículos por portadores de deficiência.</p>
@@ -75,7 +75,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
 <blockquote class="evidencia discurso" id="d-4330">
-<span class="data">2023-12-13 · 15:12</span>
+<span class="data">13 dez 2023 · 15:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>A Deputada registrou a presença de uma comitiva de mulheres do partido Republicanos do Rio Grande do Sul, que participaram de uma imersão em capacitação política.</p>

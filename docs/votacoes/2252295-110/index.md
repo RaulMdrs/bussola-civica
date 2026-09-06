@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2583/2020 — Rejeitado o Requerimento. (2025-07-08)"
-description: "Como a bancada gaúcha votou em 2025-07-08: Rejeitado o Requerimento. Sim: 55; Não: 212; Total: 267."
+title: "PL 2583/2020 — Rejeitado o Requerimento. (08 jul 2025)"
+description: "Como a bancada gaúcha votou em 08 jul 2025: Rejeitado o Requerimento. Sim: 55; Não: 212; Total: 267."
 ---
 
 # PL 2583/2020
 
-<p class="subtitulo"><b>2025-07-08</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>08 jul 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

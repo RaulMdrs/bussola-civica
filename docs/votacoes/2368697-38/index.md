@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3025/2023 — Rejeitado o Requerimento. (2026-04-22)"
-description: "Como a bancada gaúcha votou em 2026-04-22: Rejeitado o Requerimento. Sim: 117; Não: 278; Total: 395."
+title: "PL 3025/2023 — Rejeitado o Requerimento. (22 abr 2026)"
+description: "Como a bancada gaúcha votou em 22 abr 2026: Rejeitado o Requerimento. Sim: 117; Não: 278; Total: 395."
 ---
 
 # PL 3025/2023
 
-<p class="subtitulo"><b>2026-04-22</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>22 abr 2026</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

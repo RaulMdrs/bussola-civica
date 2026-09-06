@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3072/2022 — Mantido o texto. (2023-11-06)"
-description: "Como a bancada gaúcha votou em 2023-11-06: Mantido o texto. Sim: 284 ; não: 106; total: .390."
+title: "PL 3072/2022 — Mantido o texto. (06 nov 2023)"
+description: "Como a bancada gaúcha votou em 06 nov 2023: Mantido o texto. Sim: 284 ; não: 106; total: .390."
 ---
 
 # PL 3072/2022
 
-<p class="subtitulo"><b>2023-11-06</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>06 nov 2023</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

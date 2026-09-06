@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1317/2025 — Aprovada a Medida Provisória nº 1.317, de 2025, na forma do Proj (2026-02-09)"
-description: "Como a bancada gaúcha votou em 2026-02-09: Aprovada a Medida Provisória nº 1.317, de 2025, na forma do Projeto de Lei de Conversão. Sim: 271; Não: 127; T"
+title: "MPV 1317/2025 — Aprovada a Medida Provisória nº 1.317, de 2025, na forma do Proj (09 fev 2026)"
+description: "Como a bancada gaúcha votou em 09 fev 2026: Aprovada a Medida Provisória nº 1.317, de 2025, na forma do Projeto de Lei de Conversão. Sim: 271; Não: 127; T"
 ---
 
 # MPV 1317/2025
 
-<p class="subtitulo"><b>2026-02-09</b> · Aprovada a Medida Provisória nº 1.317, de 2025, na forma do Projeto de Lei de Conversão.</p>
+<p class="subtitulo"><b>09 fev 2026</b> · Aprovada a Medida Provisória nº 1.317, de 2025, na forma do Projeto de Lei de Conversão.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4994/2023 — Mantido o texto. (2023-12-19)"
-description: "Como a bancada gaúcha votou em 2023-12-19: Mantido o texto. Sim: 288; não: 114; total: 402."
+title: "PL 4994/2023 — Mantido o texto. (19 dez 2023)"
+description: "Como a bancada gaúcha votou em 19 dez 2023: Mantido o texto. Sim: 288; não: 114; total: 402."
 ---
 
 # PL 4994/2023
 
-<p class="subtitulo"><b>2023-12-19</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>19 dez 2023</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

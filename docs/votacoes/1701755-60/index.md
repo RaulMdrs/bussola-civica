@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 153/2015 — Aprovado o Projeto de Lei Complementar nº 116, de 2023. (2023-12-05)"
-description: "Como a bancada gaúcha votou em 2023-12-05: Aprovado o Projeto de Lei Complementar nº 116, de 2023. Sim: 395; não: 20; abstenção: 1; total:416."
+title: "PLP 153/2015 — Aprovado o Projeto de Lei Complementar nº 116, de 2023. (05 dez 2023)"
+description: "Como a bancada gaúcha votou em 05 dez 2023: Aprovado o Projeto de Lei Complementar nº 116, de 2023. Sim: 395; não: 20; abstenção: 1; total:416."
 ---
 
 # PLP 153/2015
 
-<p class="subtitulo"><b>2023-12-05</b> · Aprovado o Projeto de Lei Complementar nº 116, de 2023.</p>
+<p class="subtitulo"><b>05 dez 2023</b> · Aprovado o Projeto de Lei Complementar nº 116, de 2023.</p>
 
 | | |
 |---|---|

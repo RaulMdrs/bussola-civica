@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1268/2024 — Aprovado, em apreciação preliminar, o Parecer da Comissão Mista  (2025-04-01)"
-description: "Como a bancada gaúcha votou em 2025-04-01: Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização,"
+title: "MPV 1268/2024 — Aprovado, em apreciação preliminar, o Parecer da Comissão Mista  (01 abr 2025)"
+description: "Como a bancada gaúcha votou em 01 abr 2025: Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização,"
 ---
 
 # MPV 1268/2024
 
-<p class="subtitulo"><b>2025-04-01</b> · Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN.</p>
+<p class="subtitulo"><b>01 abr 2025</b> · Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN.</p>
 
 | | |
 |---|---|

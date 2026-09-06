@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 68/2024 — Rejeitada a Emenda de Plenário nº 747. (2024-07-10)"
-description: "Como a bancada gaúcha votou em 2024-07-10: Rejeitada a Emenda de Plenário nº 747. Sim: 229; não: 233; abstenção: 1; total: 463."
+title: "PLP 68/2024 — Rejeitada a Emenda de Plenário nº 747. (10 jul 2024)"
+description: "Como a bancada gaúcha votou em 10 jul 2024: Rejeitada a Emenda de Plenário nº 747. Sim: 229; não: 233; abstenção: 1; total: 463."
 ---
 
 # PLP 68/2024
 
-<p class="subtitulo"><b>2024-07-10</b> · Rejeitada a Emenda de Plenário nº 747.</p>
+<p class="subtitulo"><b>10 jul 2024</b> · Rejeitada a Emenda de Plenário nº 747.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3626/2023 — Rejeitado o Requerimento. (2023-12-21)"
-description: "Como a bancada gaúcha votou em 2023-12-21: Rejeitado o Requerimento. Sim: 106; não: 281; total: 387."
+title: "PL 3626/2023 — Rejeitado o Requerimento. (21 dez 2023)"
+description: "Como a bancada gaúcha votou em 21 dez 2023: Rejeitado o Requerimento. Sim: 106; não: 281; total: 387."
 ---
 
 # PL 3626/2023
 
-<p class="subtitulo"><b>2023-12-21</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>21 dez 2023</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

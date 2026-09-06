@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 769/2024 — Mantido o texto. (2025-07-09)"
-description: "Como a bancada gaúcha votou em 2025-07-09: Mantido o texto. Sim: 208; Não: 174; Total: 382."
+title: "PL 769/2024 — Mantido o texto. (09 jul 2025)"
+description: "Como a bancada gaúcha votou em 09 jul 2025: Mantido o texto. Sim: 208; Não: 174; Total: 382."
 ---
 
 # PL 769/2024
 
-<p class="subtitulo"><b>2025-07-09</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>09 jul 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

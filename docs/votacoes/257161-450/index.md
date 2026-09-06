@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2159/2021 — Aprovado o Requerimento. (2025-07-16)"
-description: "Como a bancada gaúcha votou em 2025-07-16: Aprovado o Requerimento. Sim: 256; Não: 109; Total: 365."
+title: "PL 2159/2021 — Aprovado o Requerimento. (16 jul 2025)"
+description: "Como a bancada gaúcha votou em 16 jul 2025: Aprovado o Requerimento. Sim: 256; Não: 109; Total: 365."
 ---
 
 # PL 2159/2021
 
-<p class="subtitulo"><b>2025-07-16</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>16 jul 2025</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

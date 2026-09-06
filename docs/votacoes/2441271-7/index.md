@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1956/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-06-19)"
-description: "Como a bancada gaúcha votou em 2024-06-19: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 277; não: 138; total: 415."
+title: "PL 1956/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (19 jun 2024)"
+description: "Como a bancada gaúcha votou em 19 jun 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 277; não: 138; total: 415."
 ---
 
 # PL 1956/2024
 
-<p class="subtitulo"><b>2024-06-19</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>19 jun 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

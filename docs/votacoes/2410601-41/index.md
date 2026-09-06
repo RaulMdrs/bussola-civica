@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 478/2023 — Rejeitado o Requerimento. (2025-03-27)"
-description: "Como a bancada gaúcha votou em 2025-03-27: Rejeitado o Requerimento. Sim: 54; Não: 318; Total: 372."
+title: "PDL 478/2023 — Rejeitado o Requerimento. (27 mar 2025)"
+description: "Como a bancada gaúcha votou em 27 mar 2025: Rejeitado o Requerimento. Sim: 54; Não: 318; Total: 372."
 ---
 
 # PDL 478/2023
 
-<p class="subtitulo"><b>2025-03-27</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>27 mar 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

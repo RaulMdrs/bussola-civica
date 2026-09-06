@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2159/2021 — Aprovada a Emenda do Senado Federal nº 4. (2025-07-16)"
-description: "Como a bancada gaúcha votou em 2025-07-16: Aprovada a Emenda do Senado Federal nº 4. Sim: 234; Não: 101; Total: 335."
+title: "PL 2159/2021 — Aprovada a Emenda do Senado Federal nº 4. (16 jul 2025)"
+description: "Como a bancada gaúcha votou em 16 jul 2025: Aprovada a Emenda do Senado Federal nº 4. Sim: 234; Não: 101; Total: 335."
 ---
 
 # PL 2159/2021
 
-<p class="subtitulo"><b>2025-07-16</b> · Aprovada a Emenda do Senado Federal nº 4.</p>
+<p class="subtitulo"><b>16 jul 2025</b> · Aprovada a Emenda do Senado Federal nº 4.</p>
 
 | | |
 |---|---|

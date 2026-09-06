@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 709/2023 — Mantido o texto. (2024-05-22)"
-description: "Como a bancada gaúcha votou em 2024-05-22: Mantido o texto. Sim: 320; não: 113; total: 433."
+title: "PL 709/2023 — Mantido o texto. (22 mai 2024)"
+description: "Como a bancada gaúcha votou em 22 mai 2024: Mantido o texto. Sim: 320; não: 113; total: 433."
 ---
 
 # PL 709/2023
 
-<p class="subtitulo"><b>2024-05-22</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>22 mai 2024</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

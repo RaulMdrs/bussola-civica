@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2672/2025 — Mantido o texto. (2025-05-27)"
-description: "Como a bancada gaúcha votou em 2025-05-27: Mantido o texto. Sim: 310; Não: 105; Abstenção: 1; Total: 416."
+title: "PL 2672/2025 — Mantido o texto. (27 mai 2025)"
+description: "Como a bancada gaúcha votou em 27 mai 2025: Mantido o texto. Sim: 310; Não: 105; Abstenção: 1; Total: 416."
 ---
 
 # PL 2672/2025
 
-<p class="subtitulo"><b>2025-05-27</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>27 mai 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

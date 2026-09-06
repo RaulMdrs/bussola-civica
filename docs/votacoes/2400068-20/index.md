@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3905/2021 — Rejeitado o Requerimento. (2023-12-19)"
-description: "Como a bancada gaúcha votou em 2023-12-19: Rejeitado o Requerimento. Sim: 155; não: 259; abstenção: 1; total: 415"
+title: "PL 3905/2021 — Rejeitado o Requerimento. (19 dez 2023)"
+description: "Como a bancada gaúcha votou em 19 dez 2023: Rejeitado o Requerimento. Sim: 155; não: 259; abstenção: 1; total: 415"
 ---
 
 # PL 3905/2021
 
-<p class="subtitulo"><b>2023-12-19</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>19 dez 2023</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

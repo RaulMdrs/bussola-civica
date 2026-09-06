@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 31/2007 — Aprovado o Requerimento nº 4.990/2024, dos Senhores Líderes, que s (2024-12-19)"
-description: "Como a bancada gaúcha votou em 2024-12-19: Aprovado o Requerimento nº 4.990/2024, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões"
+title: "PEC 31/2007 — Aprovado o Requerimento nº 4.990/2024, dos Senhores Líderes, que s (19 dez 2024)"
+description: "Como a bancada gaúcha votou em 19 dez 2024: Aprovado o Requerimento nº 4.990/2024, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões"
 ---
 
 # PEC 31/2007
 
-<p class="subtitulo"><b>2024-12-19</b> · Aprovado o Requerimento nº 4.990/2024, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões previsto no § 6º do art. 202 do RICD, para apreciação do segundo turno da PEC nº 31, de 2007.</p>
+<p class="subtitulo"><b>19 dez 2024</b> · Aprovado o Requerimento nº 4.990/2024, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões previsto no § 6º do art. 202 do RICD, para apreciação do segundo turno da PEC nº 31, de 2007.</p>
 
 | | |
 |---|---|

@@ -7,7 +7,7 @@ description: "Como Bibo Nunes vota: alinhamento com o governo federal e coesão 
 
 # Bibo Nunes
 
-<p class="subtitulo"><b>PL</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>PL</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. <span class="placar">Sim: 318; Não: 113; Abstenção: 1; Total: 432.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Rejeitadas as Emendas de Plenário. <span class="placar">Sim: 108; Não: 275; Abstenção: 1; Total: 384.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Rejeitada a Emenda de Plenário nº 1. <span class="placar">Sim: 105; Não: 233; Total: 338.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-05-27</span>
+<span class="data">27 mai 2026</span>
 <div class="corpo">
 <p>Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 221, de 2019. <span class="placar">Sim: 472; Não: 22; Total: 494.</span></p>
 <p class="referencia">Maioria do partido: sim (83 sim / 10 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-05-27</span>
+<span class="data">27 mai 2026</span>
 <div class="corpo">
 <p>Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 221, de 2019. . <span class="placar">Sim: 461; Não: 19; Total: 480.</span></p>
 <p class="referencia">Maioria do partido: sim (81 sim / 8 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-03-18</span>
+<span class="data">18 mar 2026</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 278; Não: 114; Abstenção: 2; Total: 394.</span></p>
 <p class="referencia">Maioria do partido: sim (37 sim / 35 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -148,7 +148,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-3462">
-<span class="data">2026-05-27 · 19:44</span>
+<span class="data">27 mai 2026 · 19:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>O Deputado discutiu a Proposta de Emenda à Constituição (PEC) nº 221, de 2019, que reduz a jornada de trabalho e extingue a escala 6 por 1. Ademais, recriminou a exploração política da PEC em ano eleitoral e criticou o Presidente Lula, o Partido dos Trabalhadores (PT) e a Esquerda por políticas assistencialistas.</p>
@@ -157,7 +157,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-3461">
-<span class="data">2026-05-27 · 18:36</span>
+<span class="data">27 mai 2026 · 18:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado orientou a bancada na votação do substitutivo ao Projeto de Lei nº 2.951, de 2024, que altera a Lei nº 8.171, de 17 de janeiro de 1991, a Lei nº 10.823, de 19 de dezembro de 2003, e a Lei Complementar nº 137, de 26 de agosto de 2010, para aperfeiçoar os marcos legais do seguro rural. Também criticou a Proposta de Emenda à Constituição nº 221., de 2019, que altera o art. 7º da Constituição Federal para reduzir a duração máxima semanal do trabalho. Ademais, condenou a Esquerda por, segundo o orador, iludir trabalhadores com promessas de menor jornada sem redução salarial, e manifestou expectativa de que a proposta seja rejeitada pelo Senado.</p>
@@ -166,7 +166,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-3460">
-<span class="data">2026-05-27 · 18:20</span>
+<span class="data">27 mai 2026 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado orientou a bancada na votação do substitutivo ao Projeto de Lei nº 699, de 2023, que institui o Programa de Desenvolvimento da Indústria de Fertilizantes (Profert), altera as Leis nº 10.925, de 23 de julho de 2004, nº 9.430, de 27 de dezembro de 1996, e nº 12.431, de 24 de junho de 2011, e dá outras providências. Além disso, registrou protesto contra a PEC que propõe o fim da escala 6 por 1, classificando-a como &quot;tóxica e demagógica&quot;, e questionou a viabilidade econômica da proposta, argumentando que a redução da jornada sem redução salarial não encontra respaldo na realidade, uma vez que trabalhadores com menor renda não teriam condições de usufruir do tempo livre com tranquilidade.</p>
@@ -175,7 +175,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-3459">
-<span class="data">2026-05-27 · 18:12</span>
+<span class="data">27 mai 2026 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado questionou o conteúdo da Proposta de Emenda à Constituição nº 221, de 2019, em votação, argumentando que a proposta representa um equívoco para a classe trabalhadora, pois resultaria na redução de salários.</p>
@@ -184,7 +184,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-3458">
-<span class="data">2026-05-27 · 17:20</span>
+<span class="data">27 mai 2026 · 17:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado criticou a Proposta de Emenda à Constituição nº 221, de 2019, que altera o art. 7º da Constituição Federal para reduzir a duração máxima semanal do trabalho, classificando-a como enganosa para o trabalhador brasileiro. Também questionou a eficácia das políticas sociais do Governo Lula, como o Bolsa Família e o Valegas, argumentando que tais medidas não reduzem a pobreza. Por fim, declarou defender os trabalhadores contra o que chamou de engodo.</p>

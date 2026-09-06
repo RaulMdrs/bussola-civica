@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1248/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2026-04-15)"
-description: "Como a bancada gaúcha votou em 2026-04-15: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 355; Não: 29; Total: 384."
+title: "PL 1248/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (15 abr 2026)"
+description: "Como a bancada gaúcha votou em 15 abr 2026: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 355; Não: 29; Total: 384."
 ---
 
 # PL 1248/2024
 
-<p class="subtitulo"><b>2026-04-15</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>15 abr 2026</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 85/2024 — Mantido o texto. (2024-05-14)"
-description: "Como a bancada gaúcha votou em 2024-05-14: Mantido o texto. Sim: 277; não: 145; total: 422."
+title: "PLP 85/2024 — Mantido o texto. (14 mai 2024)"
+description: "Como a bancada gaúcha votou em 14 mai 2024: Mantido o texto. Sim: 277; não: 145; total: 422."
 ---
 
 # PLP 85/2024
 
-<p class="subtitulo"><b>2024-05-14</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>14 mai 2024</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

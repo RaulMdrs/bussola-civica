@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6233/2023 — Aprovado o Substitutivo ao Projeto de Lei nº 6.233, de 2023, adot (2024-03-19)"
-description: "Como a bancada gaúcha votou em 2024-03-19: Aprovado o Substitutivo ao Projeto de Lei nº 6.233, de 2023, adotado pelo relator da Comissão de Finanças e Tr"
+title: "PL 6233/2023 — Aprovado o Substitutivo ao Projeto de Lei nº 6.233, de 2023, adot (19 mar 2024)"
+description: "Como a bancada gaúcha votou em 19 mar 2024: Aprovado o Substitutivo ao Projeto de Lei nº 6.233, de 2023, adotado pelo relator da Comissão de Finanças e Tr"
 ---
 
 # PL 6233/2023
 
-<p class="subtitulo"><b>2024-03-19</b> · Aprovado o Substitutivo ao Projeto de Lei nº 6.233, de 2023, adotado pelo relator da Comissão de Finanças e Tributação.</p>
+<p class="subtitulo"><b>19 mar 2024</b> · Aprovado o Substitutivo ao Projeto de Lei nº 6.233, de 2023, adotado pelo relator da Comissão de Finanças e Tributação.</p>
 
 | | |
 |---|---|

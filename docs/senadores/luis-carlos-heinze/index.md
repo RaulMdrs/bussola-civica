@@ -7,7 +7,7 @@ description: "Como Luis Carlos Heinze vota no Senado: coesão com o próprio par
 
 # Luis Carlos Heinze
 
-<p class="subtitulo"><b>PP</b> · senador pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>PP</b> · senador pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 <div class="interrompe">
 <h4>Não compare estes números com os dos deputados</h4>
@@ -41,7 +41,7 @@ Amostra das votações em que o voto divergiu da maioria do próprio partido.
 As descrições são o texto original da fonte oficial.
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Votação nominal do Art. 13 do Projeto de Lei Complementar nº 114, de 2026, destacado.</p>
 <p class="referencia">Maioria do partido: sim (3 sim / 1 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -50,7 +50,7 @@ As descrições são o texto original da fonte oficial.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-09-30</span>
+<span class="data">30 set 2025</span>
 <div class="corpo">
 <p>Votação nominal da Emenda nº 721 (Substitutivo) ao PLP nº 108/2024, nos termos do parecer, ressalvado o destaque.</p>
 <p class="referencia">Maioria do partido: sim (5 sim / 0 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -59,7 +59,7 @@ As descrições são o texto original da fonte oficial.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-06-25</span>
+<span class="data">25 jun 2025</span>
 <div class="corpo">
 <p>Votação nominal do Requerimento nº 451, de 2025, que solicita urgência para o Projeto de Lei Complementar nº 177, de 2023</p>
 <p class="referencia">Maioria do partido: sim (4 sim / 2 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -83,7 +83,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-11766">
-<span class="data">2026-06-10</span>
+<span class="data">10 jun 2026</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
 <p>Discussão sobre o Projeto de Lei (PL) n° 5122, de 2023, que &quot;Autoriza a utilização do Fundo Social (FS) de que trata a Lei nº 12.351, de 22 de dezembro de 2010, como fonte de recursos para a disponibilização de linha especial de financiamento que especifica.&quot; Defesa da aprovação do projeto e relato das dificuldades enfrentadas durante sua tramitação.</p>
@@ -92,7 +92,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-11767">
-<span class="data">2026-04-28</span>
+<span class="data">28 abr 2026</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
 <p>Apoio à conclusão da BR-319, à Ferrogrão e à exploração de petróleo na Região Norte, com críticas à atuação de organizações ambientalistas e de grupos internacionais apontados como obstáculos ao desenvolvimento nacional.</p>
@@ -101,7 +101,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-11768">
-<span class="data">2026-04-08</span>
+<span class="data">08 abr 2026</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
 <p>Defesa dos Projetos de Lei nº 5122/2023 e nº 320/2025, que, respectivamente, destina recursos do Fundo Social do pré-sal ao financiamento de dívidas de produtores rurais do Rio Grande do Sul atingidos por estiagens e enchentes, e dispõe sobre a securitização das dívidas de produtores rurais cujos empreendimentos tenham sido impactados por eventos climáticos adversos a partir de 2021. Considerações sobre a necessidade de crescimento da irrigação na agricultura brasileira.</p>
@@ -110,7 +110,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-11769">
-<span class="data">2026-04-07</span>
+<span class="data">07 abr 2026</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
 <p>Considerações sobre a qualificação jurídica dos atos de 8 de janeiro de 2023. Avaliação negativa da atuação do STF, com menção a supostas irregularidades em julgados e à politização da instituição.</p>
@@ -119,7 +119,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-11770">
-<span class="data">2026-03-18</span>
+<span class="data">18 mar 2026</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
 <p>Questionamento sobre suposta omissão de autoridades nos atos de 8 de janeiro de 2023 e sobre a veracidade das acusações de tentativa de golpe de Estado. Defesa do ex-Presidente Jair Bolsonaro e de manifestantes presos, com alegação de desproporcionalidade nas sentenças. Necessidade de apuração das denúncias de corrupção relacionadas aos casos do INSS e do Banco Master.</p>

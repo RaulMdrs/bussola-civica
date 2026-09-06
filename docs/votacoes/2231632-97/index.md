@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6256/2019 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 6.2 (2023-12-05)"
-description: "Como a bancada gaúcha votou em 2023-12-05: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 6.256, de 2019, adotada pelo Relator da Comissão"
+title: "PL 6256/2019 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 6.2 (05 dez 2023)"
+description: "Como a bancada gaúcha votou em 05 dez 2023: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 6.256, de 2019, adotada pelo Relator da Comissão"
 ---
 
 # PL 6256/2019
 
-<p class="subtitulo"><b>2023-12-05</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 6.256, de 2019, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques.</p>
+<p class="subtitulo"><b>05 dez 2023</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 6.256, de 2019, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques.</p>
 
 | | |
 |---|---|

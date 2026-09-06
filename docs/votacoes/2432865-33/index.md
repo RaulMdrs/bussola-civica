@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1743/2024 — Rejeitado o Requerimento. (2024-10-17)"
-description: "Como a bancada gaúcha votou em 2024-10-17: Rejeitado o Requerimento. Sim: 106; Não: 262; Total: 368."
+title: "PL 1743/2024 — Rejeitado o Requerimento. (17 out 2024)"
+description: "Como a bancada gaúcha votou em 17 out 2024: Rejeitado o Requerimento. Sim: 106; Não: 262; Total: 368."
 ---
 
 # PL 1743/2024
 
-<p class="subtitulo"><b>2024-10-17</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>17 out 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

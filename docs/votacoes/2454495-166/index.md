@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 66/2023 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº (2025-07-15)"
-description: "Como a bancada gaúcha votou em 2025-07-15: Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 66, de 2023, ressalvado o destaque. Sim: 36"
+title: "PEC 66/2023 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº (15 jul 2025)"
+description: "Como a bancada gaúcha votou em 15 jul 2025: Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 66, de 2023, ressalvado o destaque. Sim: 36"
 ---
 
 # PEC 66/2023
 
-<p class="subtitulo"><b>2025-07-15</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 66, de 2023, ressalvado o destaque.</p>
+<p class="subtitulo"><b>15 jul 2025</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 66, de 2023, ressalvado o destaque.</p>
 
 | | |
 |---|---|

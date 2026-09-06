@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4822/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2026-05-19)"
-description: "Como a bancada gaúcha votou em 2026-05-19: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 284; Não: 127; Abstenção: 1; Total: 412."
+title: "PL 4822/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (19 mai 2026)"
+description: "Como a bancada gaúcha votou em 19 mai 2026: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 284; Não: 127; Abstenção: 1; Total: 412."
 ---
 
 # PL 4822/2025
 
-<p class="subtitulo"><b>2026-05-19</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>19 mai 2026</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

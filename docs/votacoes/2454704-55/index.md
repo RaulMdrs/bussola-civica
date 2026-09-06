@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1847/2024 — Rejeitadas as Emendas de Plenário. (2024-09-11)"
-description: "Como a bancada gaúcha votou em 2024-09-11: Rejeitadas as Emendas de Plenário. Sim: 57; Não: 228; Abstenção: 3; Total: 288."
+title: "PL 1847/2024 — Rejeitadas as Emendas de Plenário. (11 set 2024)"
+description: "Como a bancada gaúcha votou em 11 set 2024: Rejeitadas as Emendas de Plenário. Sim: 57; Não: 228; Abstenção: 3; Total: 288."
 ---
 
 # PL 1847/2024
 
-<p class="subtitulo"><b>2024-09-11</b> · Rejeitadas as Emendas de Plenário.</p>
+<p class="subtitulo"><b>11 set 2024</b> · Rejeitadas as Emendas de Plenário.</p>
 
 | | |
 |---|---|

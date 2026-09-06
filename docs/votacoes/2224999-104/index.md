@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5497/2019 — Rejeitada a Emenda de Plenário nº 4. (2023-10-03)"
-description: "Como a bancada gaúcha votou em 2023-10-03: Rejeitada a Emenda de Plenário nº 4. Sim: 57; não: 270; total: 327."
+title: "PL 5497/2019 — Rejeitada a Emenda de Plenário nº 4. (03 out 2023)"
+description: "Como a bancada gaúcha votou em 03 out 2023: Rejeitada a Emenda de Plenário nº 4. Sim: 57; não: 270; total: 327."
 ---
 
 # PL 5497/2019
 
-<p class="subtitulo"><b>2023-10-03</b> · Rejeitada a Emenda de Plenário nº 4.</p>
+<p class="subtitulo"><b>03 out 2023</b> · Rejeitada a Emenda de Plenário nº 4.</p>
 
 | | |
 |---|---|

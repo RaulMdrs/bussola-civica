@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5230/2023 — Rejeitado o Recurso nº 18/2024, contra apreciação terminativa do  (2024-07-09)"
-description: "Como a bancada gaúcha votou em 2024-07-09: Rejeitado o Recurso nº 18/2024, contra apreciação terminativa do inciso I do caput do art. 35-D, da Lei nº 939"
+title: "PL 5230/2023 — Rejeitado o Recurso nº 18/2024, contra apreciação terminativa do  (09 jul 2024)"
+description: "Como a bancada gaúcha votou em 09 jul 2024: Rejeitado o Recurso nº 18/2024, contra apreciação terminativa do inciso I do caput do art. 35-D, da Lei nº 939"
 ---
 
 # PL 5230/2023
 
-<p class="subtitulo"><b>2024-07-09</b> · Rejeitado o Recurso nº 18/2024, contra apreciação terminativa do inciso I do caput do art. 35-D, da Lei nº 9394/96, contida no art. 1º do Substitutivo do Senado Federal, apresentado ao PL nº 5230/23.</p>
+<p class="subtitulo"><b>09 jul 2024</b> · Rejeitado o Recurso nº 18/2024, contra apreciação terminativa do inciso I do caput do art. 35-D, da Lei nº 9394/96, contida no art. 1º do Substitutivo do Senado Federal, apresentado ao PL nº 5230/23.</p>
 
 | | |
 |---|---|

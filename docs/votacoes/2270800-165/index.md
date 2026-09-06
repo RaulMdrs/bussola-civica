@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 3/2021 — Suprimido o texto. (2025-09-16)"
-description: "Como a bancada gaúcha votou em 2025-09-16: Suprimido o texto. Sim: 296; Não: 174; Total: 470."
+title: "PEC 3/2021 — Suprimido o texto. (16 set 2025)"
+description: "Como a bancada gaúcha votou em 16 set 2025: Suprimido o texto. Sim: 296; Não: 174; Total: 470."
 ---
 
 # PEC 3/2021
 
-<p class="subtitulo"><b>2025-09-16</b> · Suprimido o texto.</p>
+<p class="subtitulo"><b>16 set 2025</b> · Suprimido o texto.</p>
 
 | | |
 |---|---|

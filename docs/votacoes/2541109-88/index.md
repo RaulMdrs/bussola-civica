@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 163/2025 — Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Compl (2025-12-15)"
-description: "Como a bancada gaúcha votou em 2025-12-15: Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 163, de 2025. Sim: 320; Não: 109; "
+title: "PLP 163/2025 — Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Compl (15 dez 2025)"
+description: "Como a bancada gaúcha votou em 15 dez 2025: Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 163, de 2025. Sim: 320; Não: 109; "
 ---
 
 # PLP 163/2025
 
-<p class="subtitulo"><b>2025-12-15</b> · Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 163, de 2025.</p>
+<p class="subtitulo"><b>15 dez 2025</b> · Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 163, de 2025.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6366/2019 — Mantido o texto. (2025-05-26)"
-description: "Como a bancada gaúcha votou em 2025-05-26: Mantido o texto. Sim: 231; Não: 202; Abstenção: 8; Total: 441."
+title: "PL 6366/2019 — Mantido o texto. (26 mai 2025)"
+description: "Como a bancada gaúcha votou em 26 mai 2025: Mantido o texto. Sim: 231; Não: 202; Abstenção: 8; Total: 441."
 ---
 
 # PL 6366/2019
 
-<p class="subtitulo"><b>2025-05-26</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>26 mai 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

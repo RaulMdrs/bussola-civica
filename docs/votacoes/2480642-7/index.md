@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3802/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-12-18)"
-description: "Como a bancada gaúcha votou em 2024-12-18: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 299; Não: 134; Abstenção: 3; Total: 436."
+title: "PL 3802/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (18 dez 2024)"
+description: "Como a bancada gaúcha votou em 18 dez 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 299; Não: 134; Abstenção: 3; Total: 436."
 ---
 
 # PL 3802/2024
 
-<p class="subtitulo"><b>2024-12-18</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>18 dez 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

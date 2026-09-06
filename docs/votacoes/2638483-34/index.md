@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3085/2026 — Rejeitada a Emenda de Plenário nº 2. (2026-07-14)"
-description: "Como a bancada gaúcha votou em 2026-07-14: Rejeitada a Emenda de Plenário nº 2. Sim: 134; Não: 285; Abstenção: 2; Total: 421."
+title: "PL 3085/2026 — Rejeitada a Emenda de Plenário nº 2. (14 jul 2026)"
+description: "Como a bancada gaúcha votou em 14 jul 2026: Rejeitada a Emenda de Plenário nº 2. Sim: 134; Não: 285; Abstenção: 2; Total: 421."
 ---
 
 # PL 3085/2026
 
-<p class="subtitulo"><b>2026-07-14</b> · Rejeitada a Emenda de Plenário nº 2.</p>
+<p class="subtitulo"><b>14 jul 2026</b> · Rejeitada a Emenda de Plenário nº 2.</p>
 
 | | |
 |---|---|

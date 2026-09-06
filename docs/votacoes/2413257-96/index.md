@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6020/2023 — Rejeitado o Requerimento. (2025-06-11)"
-description: "Como a bancada gaúcha votou em 2025-06-11: Rejeitado o Requerimento. Sim: 75; Não: 189; Abstenção: 2; Total: 266."
+title: "PL 6020/2023 — Rejeitado o Requerimento. (11 jun 2025)"
+description: "Como a bancada gaúcha votou em 11 jun 2025: Rejeitado o Requerimento. Sim: 75; Não: 189; Abstenção: 2; Total: 266."
 ---
 
 # PL 6020/2023
 
-<p class="subtitulo"><b>2025-06-11</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>11 jun 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

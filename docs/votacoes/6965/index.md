@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da PEC nº 66/2023, nos termos do parecer, ressalvados os destaqu (2025-07-16)"
-description: "Como os senadores gaúchos votou em 2025-07-16: Votação nominal da PEC nº 66/2023, nos termos do parecer, ressalvados os destaques (1º turno)."
+title: "Votação nominal da PEC nº 66/2023, nos termos do parecer, ressalvados os destaqu (16 jul 2025)"
+description: "Como os senadores gaúchos votou em 16 jul 2025: Votação nominal da PEC nº 66/2023, nos termos do parecer, ressalvados os destaques (1º turno)."
 ---
 
-# Votação de 2025-07-16
+# Votação de 16 jul 2025
 
-<p class="subtitulo"><b>2025-07-16</b> · Votação nominal da PEC nº 66/2023, nos termos do parecer, ressalvados os destaques (1º turno).</p>
+<p class="subtitulo"><b>16 jul 2025</b> · Votação nominal da PEC nº 66/2023, nos termos do parecer, ressalvados os destaques (1º turno).</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 311/2024 — Aprovado o Projeto de Decreto Legislativo nº 311, de 2024. (2025-03-27)"
-description: "Como a bancada gaúcha votou em 2025-03-27: Aprovado o Projeto de Decreto Legislativo nº 311, de 2024. Sim: 270; Não: 7; Abstenção: 5; Total: 282."
+title: "PDL 311/2024 — Aprovado o Projeto de Decreto Legislativo nº 311, de 2024. (27 mar 2025)"
+description: "Como a bancada gaúcha votou em 27 mar 2025: Aprovado o Projeto de Decreto Legislativo nº 311, de 2024. Sim: 270; Não: 7; Abstenção: 5; Total: 282."
 ---
 
 # PDL 311/2024
 
-<p class="subtitulo"><b>2025-03-27</b> · Aprovado o Projeto de Decreto Legislativo nº 311, de 2024.</p>
+<p class="subtitulo"><b>27 mar 2025</b> · Aprovado o Projeto de Decreto Legislativo nº 311, de 2024.</p>
 
 | | |
 |---|---|

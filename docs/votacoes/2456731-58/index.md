@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3469/2024 — Rejeitado o Requerimento. (2025-04-23)"
-description: "Como a bancada gaúcha votou em 2025-04-23: Rejeitado o Requerimento. Sim: 102; Não: 241; Total: 343."
+title: "PL 3469/2024 — Rejeitado o Requerimento. (23 abr 2025)"
+description: "Como a bancada gaúcha votou em 23 abr 2025: Rejeitado o Requerimento. Sim: 102; Não: 241; Total: 343."
 ---
 
 # PL 3469/2024
 
-<p class="subtitulo"><b>2025-04-23</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>23 abr 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

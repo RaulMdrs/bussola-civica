@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1663/2023 — Aprovada a Emenda de Plenário n° 1. (2025-06-10)"
-description: "Como a bancada gaúcha votou em 2025-06-10: Aprovada a Emenda de Plenário n° 1. Sim: 318; Não: 116; Total: 434."
+title: "PL 1663/2023 — Aprovada a Emenda de Plenário n° 1. (10 jun 2025)"
+description: "Como a bancada gaúcha votou em 10 jun 2025: Aprovada a Emenda de Plenário n° 1. Sim: 318; Não: 116; Total: 434."
 ---
 
 # PL 1663/2023
 
-<p class="subtitulo"><b>2025-06-10</b> · Aprovada a Emenda de Plenário n° 1.</p>
+<p class="subtitulo"><b>10 jun 2025</b> · Aprovada a Emenda de Plenário n° 1.</p>
 
 | | |
 |---|---|

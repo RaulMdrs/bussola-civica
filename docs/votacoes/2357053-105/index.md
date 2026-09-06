@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 93/2023 — Aprovado o Requerimento. (2023-08-22)"
-description: "Como a bancada gaúcha votou em 2023-08-22: Aprovado o Requerimento. Sim: 351; não: 92; total: 443."
+title: "PLP 93/2023 — Aprovado o Requerimento. (22 ago 2023)"
+description: "Como a bancada gaúcha votou em 22 ago 2023: Aprovado o Requerimento. Sim: 351; não: 92; total: 443."
 ---
 
 # PLP 93/2023
 
-<p class="subtitulo"><b>2023-08-22</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>22 ago 2023</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

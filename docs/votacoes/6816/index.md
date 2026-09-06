@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do PLV 20/2023 e Pressupostos Constitucionais da MPV 1.185/23, n (2023-12-20)"
-description: "Como os senadores gaúchos votou em 2023-12-20: Votação nominal do PLV 20/2023 e Pressupostos Constitucionais da MPV 1.185/23, nos termos do Parecer, ressalva"
+title: "Votação nominal do PLV 20/2023 e Pressupostos Constitucionais da MPV 1.185/23, n (20 dez 2023)"
+description: "Como os senadores gaúchos votou em 20 dez 2023: Votação nominal do PLV 20/2023 e Pressupostos Constitucionais da MPV 1.185/23, nos termos do Parecer, ressalva"
 ---
 
-# Votação de 2023-12-20
+# Votação de 20 dez 2023
 
-<p class="subtitulo"><b>2023-12-20</b> · Votação nominal do PLV 20/2023 e Pressupostos Constitucionais da MPV 1.185/23, nos termos do Parecer, ressalvado o destaque.</p>
+<p class="subtitulo"><b>20 dez 2023</b> · Votação nominal do PLV 20/2023 e Pressupostos Constitucionais da MPV 1.185/23, nos termos do Parecer, ressalvado o destaque.</p>
 
 | | |
 |---|---|

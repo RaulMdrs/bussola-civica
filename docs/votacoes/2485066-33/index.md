@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 22/2025 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 22, de 2 (2025-03-18)"
-description: "Como a bancada gaúcha votou em 2025-03-18: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 22, de 2025, adotado pelo relator da Comissão de Fin"
+title: "PLP 22/2025 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 22, de 2 (18 mar 2025)"
+description: "Como a bancada gaúcha votou em 18 mar 2025: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 22, de 2025, adotado pelo relator da Comissão de Fin"
 ---
 
 # PLP 22/2025
 
-<p class="subtitulo"><b>2025-03-18</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 22, de 2025, adotado pelo relator da Comissão de Finanças e Tributação.</p>
+<p class="subtitulo"><b>18 mar 2025</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 22, de 2025, adotado pelo relator da Comissão de Finanças e Tributação.</p>
 
 | | |
 |---|---|

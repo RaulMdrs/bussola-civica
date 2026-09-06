@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 5/2023 — Aprovada a preferência. (2026-05-28)"
-description: "Como a bancada gaúcha votou em 2026-05-28: Aprovada a preferência. Sim: 467; Não: 4; Abstenção: 1; Total: 472."
+title: "PEC 5/2023 — Aprovada a preferência. (28 mai 2026)"
+description: "Como a bancada gaúcha votou em 28 mai 2026: Aprovada a preferência. Sim: 467; Não: 4; Abstenção: 1; Total: 472."
 ---
 
 # PEC 5/2023
 
-<p class="subtitulo"><b>2026-05-28</b> · Aprovada a preferência.</p>
+<p class="subtitulo"><b>28 mai 2026</b> · Aprovada a preferência.</p>
 
 | | |
 |---|---|

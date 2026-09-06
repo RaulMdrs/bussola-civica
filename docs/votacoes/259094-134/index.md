@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 293/2004 — Aprovada a preferência. (2023-12-15)"
-description: "Como a bancada gaúcha votou em 2023-12-15: Aprovada a preferência. Sim: 309; não: 28; abstenção: 3; total: 340."
+title: "PEC 293/2004 — Aprovada a preferência. (15 dez 2023)"
+description: "Como a bancada gaúcha votou em 15 dez 2023: Aprovada a preferência. Sim: 309; não: 28; abstenção: 3; total: 340."
 ---
 
 # PEC 293/2004
 
-<p class="subtitulo"><b>2023-12-15</b> · Aprovada a preferência.</p>
+<p class="subtitulo"><b>15 dez 2023</b> · Aprovada a preferência.</p>
 
 | | |
 |---|---|

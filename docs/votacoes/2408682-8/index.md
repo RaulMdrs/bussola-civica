@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1732/2022 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-04-16)"
-description: "Como a bancada gaúcha votou em 2024-04-16: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 408; não: 1; total: 409."
+title: "PL 1732/2022 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (16 abr 2024)"
+description: "Como a bancada gaúcha votou em 16 abr 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 408; não: 1; total: 409."
 ---
 
 # PL 1732/2022
 
-<p class="subtitulo"><b>2024-04-16</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>16 abr 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

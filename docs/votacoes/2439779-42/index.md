@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1958/2021 — Rejeitado o Requerimento. (2024-11-19)"
-description: "Como a bancada gaúcha votou em 2024-11-19: Rejeitado o Requerimento. Sim: 99; Não: 232; Abstenção: 1; Total: 332."
+title: "PL 1958/2021 — Rejeitado o Requerimento. (19 nov 2024)"
+description: "Como a bancada gaúcha votou em 19 nov 2024: Rejeitado o Requerimento. Sim: 99; Não: 232; Abstenção: 1; Total: 332."
 ---
 
 # PL 1958/2021
 
-<p class="subtitulo"><b>2024-11-19</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>19 nov 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

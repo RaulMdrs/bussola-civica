@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3874/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-03-19)"
-description: "Como a bancada gaúcha votou em 2024-03-19: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 302; não: 82; abstenção: 1; total: 385."
+title: "PL 3874/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (19 mar 2024)"
+description: "Como a bancada gaúcha votou em 19 mar 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 302; não: 82; abstenção: 1; total: 385."
 ---
 
 # PL 3874/2023
 
-<p class="subtitulo"><b>2024-03-19</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>19 mar 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

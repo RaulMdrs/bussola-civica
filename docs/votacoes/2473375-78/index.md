@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4614/2024 — Mantido o texto. (2024-12-19)"
-description: "Como a bancada gaúcha votou em 2024-12-19: Mantido o texto. Sim: 277; Não: 174; Abstenção: 1; Total: 452."
+title: "PL 4614/2024 — Mantido o texto. (19 dez 2024)"
+description: "Como a bancada gaúcha votou em 19 dez 2024: Mantido o texto. Sim: 277; Não: 174; Abstenção: 1; Total: 452."
 ---
 
 # PL 4614/2024
 
-<p class="subtitulo"><b>2024-12-19</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>19 dez 2024</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

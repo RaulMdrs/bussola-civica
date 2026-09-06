@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei nº 769, de 2024, nos termos do parecer. (2025-10-21)"
-description: "Como os senadores gaúchos votou em 2025-10-21: Votação nominal do Projeto de Lei nº 769, de 2024, nos termos do parecer."
+title: "Votação nominal do Projeto de Lei nº 769, de 2024, nos termos do parecer. (21 out 2025)"
+description: "Como os senadores gaúchos votou em 21 out 2025: Votação nominal do Projeto de Lei nº 769, de 2024, nos termos do parecer."
 ---
 
-# Votação de 2025-10-21
+# Votação de 21 out 2025
 
-<p class="subtitulo"><b>2025-10-21</b> · Votação nominal do Projeto de Lei nº 769, de 2024, nos termos do parecer.</p>
+<p class="subtitulo"><b>21 out 2025</b> · Votação nominal do Projeto de Lei nº 769, de 2024, nos termos do parecer.</p>
 
 | | |
 |---|---|

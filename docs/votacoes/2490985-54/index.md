@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1312/2025 — Aprovado o Substitutivo ao Projeto de Lei nº 1.312, de 2025, adot (2025-09-10)"
-description: "Como a bancada gaúcha votou em 2025-09-10: Aprovado o Substitutivo ao Projeto de Lei nº 1.312, de 2025, adotado pelo relator da Comissão de Administração"
+title: "PL 1312/2025 — Aprovado o Substitutivo ao Projeto de Lei nº 1.312, de 2025, adot (10 set 2025)"
+description: "Como a bancada gaúcha votou em 10 set 2025: Aprovado o Substitutivo ao Projeto de Lei nº 1.312, de 2025, adotado pelo relator da Comissão de Administração"
 ---
 
 # PL 1312/2025
 
-<p class="subtitulo"><b>2025-09-10</b> · Aprovado o Substitutivo ao Projeto de Lei nº 1.312, de 2025, adotado pelo relator da Comissão de Administração e Serviço Público.</p>
+<p class="subtitulo"><b>10 set 2025</b> · Aprovado o Substitutivo ao Projeto de Lei nº 1.312, de 2025, adotado pelo relator da Comissão de Administração e Serviço Público.</p>
 
 | | |
 |---|---|

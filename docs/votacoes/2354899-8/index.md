@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 65/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2023-04-11)"
-description: "Como a bancada gaúcha votou em 2023-04-11: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 319; não: 106; total: 425."
+title: "PDL 65/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (11 abr 2023)"
+description: "Como a bancada gaúcha votou em 11 abr 2023: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 319; não: 106; total: 425."
 ---
 
 # PDL 65/2023
 
-<p class="subtitulo"><b>2023-04-11</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>11 abr 2023</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

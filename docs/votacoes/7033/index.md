@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Proposta de Emenda à Constituição nº 48, de 2023, nos termos  (2025-12-09)"
-description: "Como os senadores gaúchos votou em 2025-12-09: Votação nominal da Proposta de Emenda à Constituição nº 48, de 2023, nos termos do parecer da Comissão Diretor"
+title: "Votação nominal da Proposta de Emenda à Constituição nº 48, de 2023, nos termos  (09 dez 2025)"
+description: "Como os senadores gaúchos votou em 09 dez 2025: Votação nominal da Proposta de Emenda à Constituição nº 48, de 2023, nos termos do parecer da Comissão Diretor"
 ---
 
-# Votação de 2025-12-09
+# Votação de 09 dez 2025
 
-<p class="subtitulo"><b>2025-12-09</b> · Votação nominal da Proposta de Emenda à Constituição nº 48, de 2023, nos termos do parecer da Comissão Diretora (2º turno).</p>
+<p class="subtitulo"><b>09 dez 2025</b> · Votação nominal da Proposta de Emenda à Constituição nº 48, de 2023, nos termos do parecer da Comissão Diretora (2º turno).</p>
 
 | | |
 |---|---|

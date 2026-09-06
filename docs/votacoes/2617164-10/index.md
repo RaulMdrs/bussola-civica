@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 580/2023 — Rejeitado o Recurso nº 7/2026 (art. 58, § 1º c/c art. 132, § 2º, R (2026-04-29)"
-description: "Como a bancada gaúcha votou em 2026-04-29: Rejeitado o Recurso nº 7/2026 (art. 58, § 1º c/c art. 132, § 2º, RICD). Sim: 154; Não: 245; Abstenção: 3; Tota"
+title: "PL 580/2023 — Rejeitado o Recurso nº 7/2026 (art. 58, § 1º c/c art. 132, § 2º, R (29 abr 2026)"
+description: "Como a bancada gaúcha votou em 29 abr 2026: Rejeitado o Recurso nº 7/2026 (art. 58, § 1º c/c art. 132, § 2º, RICD). Sim: 154; Não: 245; Abstenção: 3; Tota"
 ---
 
 # PL 580/2023
 
-<p class="subtitulo"><b>2026-04-29</b> · Rejeitado o Recurso nº 7/2026 (art. 58, § 1º c/c art. 132, § 2º, RICD).</p>
+<p class="subtitulo"><b>29 abr 2026</b> · Rejeitado o Recurso nº 7/2026 (art. 58, § 1º c/c art. 132, § 2º, RICD).</p>
 
 | | |
 |---|---|

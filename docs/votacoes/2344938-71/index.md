@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1147/2022 — Rejeitada a Emenda de Comissão nº 9. (2023-04-25)"
-description: "Como a bancada gaúcha votou em 2023-04-25: Rejeitada a Emenda de Comissão nº 9. Sim: 132; não: 242; total: 374."
+title: "MPV 1147/2022 — Rejeitada a Emenda de Comissão nº 9. (25 abr 2023)"
+description: "Como a bancada gaúcha votou em 25 abr 2023: Rejeitada a Emenda de Comissão nº 9. Sim: 132; não: 242; total: 374."
 ---
 
 # MPV 1147/2022
 
-<p class="subtitulo"><b>2023-04-25</b> · Rejeitada a Emenda de Comissão nº 9.</p>
+<p class="subtitulo"><b>25 abr 2023</b> · Rejeitada a Emenda de Comissão nº 9.</p>
 
 | | |
 |---|---|

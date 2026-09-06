@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6139/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2025-08-27)"
-description: "Como a bancada gaúcha votou em 2025-08-27: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 349; Não: 11; Total: 360."
+title: "PL 6139/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (27 ago 2025)"
+description: "Como a bancada gaúcha votou em 27 ago 2025: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 349; Não: 11; Total: 360."
 ---
 
 # PL 6139/2023
 
-<p class="subtitulo"><b>2025-08-27</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>27 ago 2025</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

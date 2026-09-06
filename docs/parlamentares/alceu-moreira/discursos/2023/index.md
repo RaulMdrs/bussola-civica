@@ -19,7 +19,7 @@ description: "Os discursos de Alceu Moreira em 2023, com o sumário oficial e li
 ## Substantivos — 5
 
 <blockquote class="evidencia discurso" id="d-2253">
-<span class="data">2023-12-13 · 18:04</span>
+<span class="data">13 dez 2023 · 18:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado ressaltou a relevância da reforma tributária, especialmente a PEC 45, de 2019. Ele expressou preocupação com possíveis acréscimos no projeto, citando a Contribuição de Intervenção no Domínio Econômico (CIDE) em produtos isentos em Manaus, o incentivo fiscal para empresas automotivas e o impacto potencial na competição entre Estados. Enfatizou sua posição contrária a benefícios que não sejam de natureza orçamentária.</p>
@@ -28,7 +28,7 @@ description: "Os discursos de Alceu Moreira em 2023, com o sumário oficial e li
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2252">
-<span class="data">2023-10-24 · 17:24</span>
+<span class="data">24 out 2023 · 17:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado protestou contra o veto do Presidente Lula ao projeto sobre o marco temporal na demarcação de terras indígenas, destacando que isso prejudica o setor agropecuário, um ícone da economia brasileira. Ele considerou a decisão irresponsável e movida por caprichos ideológicos, afirmando que o Presidente deveria priorizar o bem do País e de sua população.</p>
@@ -37,7 +37,7 @@ description: "Os discursos de Alceu Moreira em 2023, com o sumário oficial e li
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2251">
-<span class="data">2023-10-17 · 14:52</span>
+<span class="data">17 out 2023 · 14:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado protestou contra a omissão da bancada do PT e do Governo Federal quanto à grave crise que afeta os produtores de leite do Brasil. Em seguida, o orador solicitou repasse direto de recursos, como previsto na Constituição para casos excepcionais, para auxílio à população gaúcha afetada pelas recentes catástrofes climáticas e a recuperação da engrenagem econômica do Estado do Rio Grande do Sul.</p>
@@ -46,7 +46,7 @@ description: "Os discursos de Alceu Moreira em 2023, com o sumário oficial e li
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2250">
-<span class="data">2023-08-15 · 17:04</span>
+<span class="data">15 ago 2023 · 17:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>Crítica à atenção excessiva dada ao suposto roubo de joias praticado pelo ex-Presidente Jair Bolsonaro em comparação com casos de corrupção de maior gravidade praticados durante a gestão petista.</p>
@@ -55,7 +55,7 @@ description: "Os discursos de Alceu Moreira em 2023, com o sumário oficial e li
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2249">
-<span class="data">2023-08-02 · 19:12</span>
+<span class="data">02 ago 2023 · 19:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>Defesa de votação, pela Comissão de Constituição e Justiça e de Cidadania, do Projeto de Lei nº 8.841, de 2017, acera da alteração da Lei nº 9.503, de 1997, relativa à instituição do Código de Trânsito Brasileiro, com vista à circulação de tratores e máquinas agrícolas sob condições específicas.</p>

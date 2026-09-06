@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei Complementar nº 128, de 2025, nos termos do pa (2025-12-17)"
-description: "Como os senadores gaúchos votou em 2025-12-17: Votação nominal do Projeto de Lei Complementar nº 128, de 2025, nos termos do parecer, ressalvado o destaque."
+title: "Votação nominal do Projeto de Lei Complementar nº 128, de 2025, nos termos do pa (17 dez 2025)"
+description: "Como os senadores gaúchos votou em 17 dez 2025: Votação nominal do Projeto de Lei Complementar nº 128, de 2025, nos termos do parecer, ressalvado o destaque."
 ---
 
-# Votação de 2025-12-17
+# Votação de 17 dez 2025
 
-<p class="subtitulo"><b>2025-12-17</b> · Votação nominal do Projeto de Lei Complementar nº 128, de 2025, nos termos do parecer, ressalvado o destaque.</p>
+<p class="subtitulo"><b>17 dez 2025</b> · Votação nominal do Projeto de Lei Complementar nº 128, de 2025, nos termos do parecer, ressalvado o destaque.</p>
 
 | | |
 |---|---|

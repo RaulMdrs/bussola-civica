@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 383/2017 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição n (2026-04-28)"
-description: "Como a bancada gaúcha votou em 2026-04-28: Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456"
+title: "PEC 383/2017 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição n (28 abr 2026)"
+description: "Como a bancada gaúcha votou em 28 abr 2026: Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456"
 ---
 
 # PEC 383/2017
 
-<p class="subtitulo"><b>2026-04-28</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017.</p>
+<p class="subtitulo"><b>28 abr 2026</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017.</p>
 
 | | |
 |---|---|

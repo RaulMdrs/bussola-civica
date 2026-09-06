@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Emenda nº 58 ao Substitutivo da Relatora ao Projeto de Lei nº (2024-11-12)"
-description: "Como os senadores gaúchos votou em 2024-11-12: Votação nominal da Emenda nº 58 ao Substitutivo da Relatora ao Projeto de Lei nº 182, de 2024, destacada."
+title: "Votação nominal da Emenda nº 58 ao Substitutivo da Relatora ao Projeto de Lei nº (12 nov 2024)"
+description: "Como os senadores gaúchos votou em 12 nov 2024: Votação nominal da Emenda nº 58 ao Substitutivo da Relatora ao Projeto de Lei nº 182, de 2024, destacada."
 ---
 
-# Votação de 2024-11-12
+# Votação de 12 nov 2024
 
-<p class="subtitulo"><b>2024-11-12</b> · Votação nominal da Emenda nº 58 ao Substitutivo da Relatora ao Projeto de Lei nº 182, de 2024, destacada.</p>
+<p class="subtitulo"><b>12 nov 2024</b> · Votação nominal da Emenda nº 58 ao Substitutivo da Relatora ao Projeto de Lei nº 182, de 2024, destacada.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 8262/2017 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2025-07-16)"
-description: "Como a bancada gaúcha votou em 2025-07-16: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 347; Não: 107; Total: 454."
+title: "PL 8262/2017 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (16 jul 2025)"
+description: "Como a bancada gaúcha votou em 16 jul 2025: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 347; Não: 107; Total: 454."
 ---
 
 # PL 8262/2017
 
-<p class="subtitulo"><b>2025-07-16</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>16 jul 2025</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

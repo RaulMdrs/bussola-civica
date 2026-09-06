@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2920/2023 — Mantido o texto. (2023-07-07)"
-description: "Como a bancada gaúcha votou em 2023-07-07: Mantido o texto. Sim: 242; não: 175; total: 417."
+title: "PL 2920/2023 — Mantido o texto. (07 jul 2023)"
+description: "Como a bancada gaúcha votou em 07 jul 2023: Mantido o texto. Sim: 242; não: 175; total: 417."
 ---
 
 # PL 2920/2023
 
-<p class="subtitulo"><b>2023-07-07</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>07 jul 2023</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

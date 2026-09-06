@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3469/2024 — Aprovado o Substitutivo ao Projeto de Lei nº 3.469, de 2024, adot (2025-04-29)"
-description: "Como a bancada gaúcha votou em 2025-04-29: Aprovado o Substitutivo ao Projeto de Lei nº 3.469, de 2024, adotado pelo relator da Comissão de Meio Ambiente"
+title: "PL 3469/2024 — Aprovado o Substitutivo ao Projeto de Lei nº 3.469, de 2024, adot (29 abr 2025)"
+description: "Como a bancada gaúcha votou em 29 abr 2025: Aprovado o Substitutivo ao Projeto de Lei nº 3.469, de 2024, adotado pelo relator da Comissão de Meio Ambiente"
 ---
 
 # PL 3469/2024
 
-<p class="subtitulo"><b>2025-04-29</b> · Aprovado o Substitutivo ao Projeto de Lei nº 3.469, de 2024, adotado pelo relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvados os destaques.</p>
+<p class="subtitulo"><b>29 abr 2025</b> · Aprovado o Substitutivo ao Projeto de Lei nº 3.469, de 2024, adotado pelo relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvados os destaques.</p>
 
 | | |
 |---|---|

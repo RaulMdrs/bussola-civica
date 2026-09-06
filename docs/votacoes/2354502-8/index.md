@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1292/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2023-05-10)"
-description: "Como a bancada gaúcha votou em 2023-05-10: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; não: 43; abstenção: 1; total: 374."
+title: "PL 1292/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (10 mai 2023)"
+description: "Como a bancada gaúcha votou em 10 mai 2023: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; não: 43; abstenção: 1; total: 374."
 ---
 
 # PL 1292/2023
 
-<p class="subtitulo"><b>2023-05-10</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>10 mai 2023</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

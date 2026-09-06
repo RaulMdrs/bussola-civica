@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 7082/2017 — Rejeitada a Emenda de Plenário nº 17. (2023-11-29)"
-description: "Como a bancada gaúcha votou em 2023-11-29: Rejeitada a Emenda de Plenário nº 17. Sim: 119; não: 278; total: 397."
+title: "PL 7082/2017 — Rejeitada a Emenda de Plenário nº 17. (29 nov 2023)"
+description: "Como a bancada gaúcha votou em 29 nov 2023: Rejeitada a Emenda de Plenário nº 17. Sim: 119; não: 278; total: 397."
 ---
 
 # PL 7082/2017
 
-<p class="subtitulo"><b>2023-11-29</b> · Rejeitada a Emenda de Plenário nº 17.</p>
+<p class="subtitulo"><b>29 nov 2023</b> · Rejeitada a Emenda de Plenário nº 17.</p>
 
 | | |
 |---|---|

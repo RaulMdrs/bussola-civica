@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1268/2024 — Aprovada a Medida Provisória nº 1.268, de 2024. (2025-04-01)"
-description: "Como a bancada gaúcha votou em 2025-04-01: Aprovada a Medida Provisória nº 1.268, de 2024. Sim: 317; Não: 92; Abstenção: 2; Total: 411."
+title: "MPV 1268/2024 — Aprovada a Medida Provisória nº 1.268, de 2024. (01 abr 2025)"
+description: "Como a bancada gaúcha votou em 01 abr 2025: Aprovada a Medida Provisória nº 1.268, de 2024. Sim: 317; Não: 92; Abstenção: 2; Total: 411."
 ---
 
 # MPV 1268/2024
 
-<p class="subtitulo"><b>2025-04-01</b> · Aprovada a Medida Provisória nº 1.268, de 2024.</p>
+<p class="subtitulo"><b>01 abr 2025</b> · Aprovada a Medida Provisória nº 1.268, de 2024.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "SAP 1/2025 — Aprovado o parecer da Comissão de Constituição e Justiça e de Cidad (2025-05-07)"
-description: "Como a bancada gaúcha votou em 2025-05-07: Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Sustação de Andamento de Ação Penal "
+title: "SAP 1/2025 — Aprovado o parecer da Comissão de Constituição e Justiça e de Cidad (07 mai 2025)"
+description: "Como a bancada gaúcha votou em 07 mai 2025: Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Sustação de Andamento de Ação Penal "
 ---
 
 # SAP 1/2025
 
-<p class="subtitulo"><b>2025-05-07</b> · Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Sustação de Andamento de Ação Penal nº 1, de 2025, pela sustação do andamento da Ação Penal. .</p>
+<p class="subtitulo"><b>07 mai 2025</b> · Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Sustação de Andamento de Ação Penal nº 1, de 2025, pela sustação do andamento da Ação Penal. .</p>
 
 | | |
 |---|---|

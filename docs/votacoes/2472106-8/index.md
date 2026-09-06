@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1707/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2025-08-12)"
-description: "Como a bancada gaúcha votou em 2025-08-12: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 371; Não: 49; Abstenção: 1; Total: 421."
+title: "PL 1707/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (12 ago 2025)"
+description: "Como a bancada gaúcha votou em 12 ago 2025: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 371; Não: 49; Abstenção: 1; Total: 421."
 ---
 
 # PL 1707/2024
 
-<p class="subtitulo"><b>2025-08-12</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>12 ago 2025</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

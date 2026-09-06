@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3946/2021 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2026-03-10)"
-description: "Como a bancada gaúcha votou em 2026-03-10: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 380; Não: 57; Abstenção: 1; Total: 438."
+title: "PL 3946/2021 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (10 mar 2026)"
+description: "Como a bancada gaúcha votou em 10 mar 2026: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 380; Não: 57; Abstenção: 1; Total: 438."
 ---
 
 # PL 3946/2021
 
-<p class="subtitulo"><b>2026-03-10</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>10 mar 2026</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

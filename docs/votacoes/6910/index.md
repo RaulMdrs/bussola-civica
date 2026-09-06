@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei Complementar nº 210, de 2024, nos termos do pa (2024-12-19)"
-description: "Como os senadores gaúchos votou em 2024-12-19: Votação nominal do Projeto de Lei Complementar nº 210, de 2024, nos termos do parecer, ressalvados os destaque"
+title: "Votação nominal do Projeto de Lei Complementar nº 210, de 2024, nos termos do pa (19 dez 2024)"
+description: "Como os senadores gaúchos votou em 19 dez 2024: Votação nominal do Projeto de Lei Complementar nº 210, de 2024, nos termos do parecer, ressalvados os destaque"
 ---
 
-# Votação de 2024-12-19
+# Votação de 19 dez 2024
 
-<p class="subtitulo"><b>2024-12-19</b> · Votação nominal do Projeto de Lei Complementar nº 210, de 2024, nos termos do parecer, ressalvados os destaques.</p>
+<p class="subtitulo"><b>19 dez 2024</b> · Votação nominal do Projeto de Lei Complementar nº 210, de 2024, nos termos do parecer, ressalvados os destaques.</p>
 
 | | |
 |---|---|

@@ -7,7 +7,7 @@ description: "Como Danrlei de Deus Hinterholz vota: alinhamento com o governo fe
 
 # Danrlei de Deus Hinterholz
 
-<p class="subtitulo"><b>PSD</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>PSD</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. <span class="placar">Sim: 318; Não: 113; Abstenção: 1; Total: 432.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Rejeitadas as Emendas de Plenário. <span class="placar">Sim: 108; Não: 275; Abstenção: 1; Total: 384.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Rejeitada a Emenda de Plenário nº 1. <span class="placar">Sim: 105; Não: 233; Total: 338.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. <span class="placar">Sim: 318; Não: 113; Abstenção: 1; Total: 432.</span></p>
 <p class="referencia">Maioria do partido: sim (38 sim / 1 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Rejeitadas as Emendas de Plenário. <span class="placar">Sim: 108; Não: 275; Abstenção: 1; Total: 384.</span></p>
 <p class="referencia">Maioria do partido: nao (0 sim / 33 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Rejeitada a Emenda de Plenário nº 1. <span class="placar">Sim: 105; Não: 233; Total: 338.</span></p>
 <p class="referencia">Maioria do partido: nao (4 sim / 24 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -146,7 +146,7 @@ fonte que o publicou.
 ### Os 2 mais recentes
 
 <blockquote class="evidencia discurso" id="d-2248">
-<span class="data">2026-05-26 · 14:24</span>
+<span class="data">26 mai 2026 · 14:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado convidou os Parlamentares para participarem de audiência pública da Comissão do Esporte destinada a debater a importância da prática esportiva no desenvolvimento de pessoas com Síndrome de Down e Transtorno do Espectro Autista (TEA). O encontro, previsto para o dia 10 de julho, às 14 horas, terá como foco os impactos positivos do esporte na inclusão, no desenvolvimento social e na qualidade de vida de crianças e jovens com TEA e outras condições. Também destacou a crescente relevância do tema e defendeu a ampliação do debate sobre políticas públicas voltadas à inclusão por meio do esporte.</p>
@@ -155,7 +155,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2247">
-<span class="data">2025-04-08 · 19:48</span>
+<span class="data">08 abr 2025 · 19:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado agradeceu ao Deputado Dr. Ismael Alexandrino pela relatoria do Projeto de lei nº 3.526, de 2019, voltado a crianças que necessitam de cirurgia específica, condição que atinge uma em cada 500 no País. Destacou a relevância da proposta e afirmou que sua aprovação representou um marco com potencial de transformar a vida de milhares de famílias brasileiras.</p>

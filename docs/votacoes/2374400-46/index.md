@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3626/2023 — Rejeitada a Emenda de Plenário nº 26. (2023-09-13)"
-description: "Como a bancada gaúcha votou em 2023-09-13: Rejeitada a Emenda de Plenário nº 26. Sim: 82; não: 342; abstenção: 8; total: 432."
+title: "PL 3626/2023 — Rejeitada a Emenda de Plenário nº 26. (13 set 2023)"
+description: "Como a bancada gaúcha votou em 13 set 2023: Rejeitada a Emenda de Plenário nº 26. Sim: 82; não: 342; abstenção: 8; total: 432."
 ---
 
 # PL 3626/2023
 
-<p class="subtitulo"><b>2023-09-13</b> · Rejeitada a Emenda de Plenário nº 26.</p>
+<p class="subtitulo"><b>13 set 2023</b> · Rejeitada a Emenda de Plenário nº 26.</p>
 
 | | |
 |---|---|

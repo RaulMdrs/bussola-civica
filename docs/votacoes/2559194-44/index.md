@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 125/2022 — Rejeitadas as Emendas de Plenário. (2025-12-09)"
-description: "Como a bancada gaúcha votou em 2025-12-09: Rejeitadas as Emendas de Plenário. Sim: 8; Não: 382; Total: 390."
+title: "PLP 125/2022 — Rejeitadas as Emendas de Plenário. (09 dez 2025)"
+description: "Como a bancada gaúcha votou em 09 dez 2025: Rejeitadas as Emendas de Plenário. Sim: 8; Não: 382; Total: 390."
 ---
 
 # PLP 125/2022
 
-<p class="subtitulo"><b>2025-12-09</b> · Rejeitadas as Emendas de Plenário.</p>
+<p class="subtitulo"><b>09 dez 2025</b> · Rejeitadas as Emendas de Plenário.</p>
 
 | | |
 |---|---|

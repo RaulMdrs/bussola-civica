@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PRC 131/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2023-12-20)"
-description: "Como a bancada gaúcha votou em 2023-12-20: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 370; não: 3; abstenção: 3 ; total: 376."
+title: "PRC 131/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (20 dez 2023)"
+description: "Como a bancada gaúcha votou em 20 dez 2023: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 370; não: 3; abstenção: 3 ; total: 376."
 ---
 
 # PRC 131/2023
 
-<p class="subtitulo"><b>2023-12-20</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>20 dez 2023</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

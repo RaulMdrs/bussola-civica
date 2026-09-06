@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 44/2023 — Aprovada a Emenda de Redação nº 1 à Proposta de Emenda à Constitui (2024-07-11)"
-description: "Como a bancada gaúcha votou em 2024-07-11: Aprovada a Emenda de Redação nº 1 à Proposta de Emenda à Constituição nº 44, de 2023. Sim: 361; não: 3; total:"
+title: "PEC 44/2023 — Aprovada a Emenda de Redação nº 1 à Proposta de Emenda à Constitui (11 jul 2024)"
+description: "Como a bancada gaúcha votou em 11 jul 2024: Aprovada a Emenda de Redação nº 1 à Proposta de Emenda à Constituição nº 44, de 2023. Sim: 361; não: 3; total:"
 ---
 
 # PEC 44/2023
 
-<p class="subtitulo"><b>2024-07-11</b> · Aprovada a Emenda de Redação nº 1 à Proposta de Emenda à Constituição nº 44, de 2023.</p>
+<p class="subtitulo"><b>11 jul 2024</b> · Aprovada a Emenda de Redação nº 1 à Proposta de Emenda à Constituição nº 44, de 2023.</p>
 
 | | |
 |---|---|

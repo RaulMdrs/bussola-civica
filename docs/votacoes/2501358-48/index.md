@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1924/2025 — Aprovada a Emenda de Plenário nº 2. (2025-10-14)"
-description: "Como a bancada gaúcha votou em 2025-10-14: Aprovada a Emenda de Plenário nº 2. Sim: 246; Não: 199; Total: 445."
+title: "PL 1924/2025 — Aprovada a Emenda de Plenário nº 2. (14 out 2025)"
+description: "Como a bancada gaúcha votou em 14 out 2025: Aprovada a Emenda de Plenário nº 2. Sim: 246; Não: 199; Total: 445."
 ---
 
 # PL 1924/2025
 
-<p class="subtitulo"><b>2025-10-14</b> · Aprovada a Emenda de Plenário nº 2.</p>
+<p class="subtitulo"><b>14 out 2025</b> · Aprovada a Emenda de Plenário nº 2.</p>
 
 | | |
 |---|---|

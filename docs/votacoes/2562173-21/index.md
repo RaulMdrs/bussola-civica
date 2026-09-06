@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1317/2025 — Rejeitado o Requerimento. (2026-02-09)"
-description: "Como a bancada gaúcha votou em 2026-02-09: Rejeitado o Requerimento. Sim: 126; Não: 296; Total: 422."
+title: "MPV 1317/2025 — Rejeitado o Requerimento. (09 fev 2026)"
+description: "Como a bancada gaúcha votou em 09 fev 2026: Rejeitado o Requerimento. Sim: 126; Não: 296; Total: 422."
 ---
 
 # MPV 1317/2025
 
-<p class="subtitulo"><b>2026-02-09</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>09 fev 2026</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

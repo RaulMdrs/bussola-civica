@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do PLV nº 12/2023 e Pressupostos Constitucionais da MPV nº 1.154 (2023-05-31)"
-description: "Como os senadores gaúchos votou em 2023-05-31: Votação nominal do PLV nº 12/2023 e Pressupostos Constitucionais da MPV nº 1.154/2023, nos termos do Parecer."
+title: "Votação nominal do PLV nº 12/2023 e Pressupostos Constitucionais da MPV nº 1.154 (31 mai 2023)"
+description: "Como os senadores gaúchos votou em 31 mai 2023: Votação nominal do PLV nº 12/2023 e Pressupostos Constitucionais da MPV nº 1.154/2023, nos termos do Parecer."
 ---
 
-# Votação de 2023-05-31
+# Votação de 31 mai 2023
 
-<p class="subtitulo"><b>2023-05-31</b> · Votação nominal do PLV nº 12/2023 e Pressupostos Constitucionais da MPV nº 1.154/2023, nos termos do Parecer.</p>
+<p class="subtitulo"><b>31 mai 2023</b> · Votação nominal do PLV nº 12/2023 e Pressupostos Constitucionais da MPV nº 1.154/2023, nos termos do Parecer.</p>
 
 | | |
 |---|---|

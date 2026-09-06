@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 344/2024 — Rejeitado o Requerimento. (2025-05-22)"
-description: "Como a bancada gaúcha votou em 2025-05-22: Rejeitado o Requerimento. Sim: 103; Não: 300; Total: 403."
+title: "PDL 344/2024 — Rejeitado o Requerimento. (22 mai 2025)"
+description: "Como a bancada gaúcha votou em 22 mai 2025: Rejeitado o Requerimento. Sim: 103; Não: 300; Total: 403."
 ---
 
 # PDL 344/2024
 
-<p class="subtitulo"><b>2025-05-22</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>22 mai 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

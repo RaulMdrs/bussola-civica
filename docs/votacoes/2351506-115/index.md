@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 5/2023 — Mantido o texto. (2026-05-28)"
-description: "Como a bancada gaúcha votou em 2026-05-28: Mantido o texto. Sim: 335; Não: 117; Abstenção: 5; Total: 457."
+title: "PEC 5/2023 — Mantido o texto. (28 mai 2026)"
+description: "Como a bancada gaúcha votou em 28 mai 2026: Mantido o texto. Sim: 335; Não: 117; Abstenção: 5; Total: 457."
 ---
 
 # PEC 5/2023
 
-<p class="subtitulo"><b>2026-05-28</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>28 mai 2026</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

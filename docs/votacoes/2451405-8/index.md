@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2597/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-10-15)"
-description: "Como a bancada gaúcha votou em 2024-10-15: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 140; Abstenção: 1; Total: 417."
+title: "PL 2597/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (15 out 2024)"
+description: "Como a bancada gaúcha votou em 15 out 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 140; Abstenção: 1; Total: 417."
 ---
 
 # PL 2597/2024
 
-<p class="subtitulo"><b>2024-10-15</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>15 out 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

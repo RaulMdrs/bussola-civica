@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 709/2023 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 709, (2024-05-21)"
-description: "Como a bancada gaúcha votou em 2024-05-21: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 709, de 2023, adotada pelo relator da Comissão d"
+title: "PL 709/2023 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 709, (21 mai 2024)"
+description: "Como a bancada gaúcha votou em 21 mai 2024: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 709, de 2023, adotada pelo relator da Comissão d"
 ---
 
 # PL 709/2023
 
-<p class="subtitulo"><b>2024-05-21</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 709, de 2023, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques.</p>
+<p class="subtitulo"><b>21 mai 2024</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 709, de 2023, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques.</p>
 
 | | |
 |---|---|

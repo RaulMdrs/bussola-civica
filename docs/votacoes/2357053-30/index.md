@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 93/2023 — Rejeitado o Requerimento. (2023-05-23)"
-description: "Como a bancada gaúcha votou em 2023-05-23: Rejeitado o Requerimento. Sim: 105; não: 342; abstenção: 2; total: 449."
+title: "PLP 93/2023 — Rejeitado o Requerimento. (23 mai 2023)"
+description: "Como a bancada gaúcha votou em 23 mai 2023: Rejeitado o Requerimento. Sim: 105; não: 342; abstenção: 2; total: 449."
 ---
 
 # PLP 93/2023
 
-<p class="subtitulo"><b>2023-05-23</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>23 mai 2023</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

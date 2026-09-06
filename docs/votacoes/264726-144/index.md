@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4149/2004 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.1 (2025-06-11)"
-description: "Como a bancada gaúcha votou em 2025-06-11: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.149, de 2004, adotada pelo relator da Comissão"
+title: "PL 4149/2004 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.1 (11 jun 2025)"
+description: "Como a bancada gaúcha votou em 11 jun 2025: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.149, de 2004, adotada pelo relator da Comissão"
 ---
 
 # PL 4149/2004
 
-<p class="subtitulo"><b>2025-06-11</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.149, de 2004, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques.</p>
+<p class="subtitulo"><b>11 jun 2025</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.149, de 2004, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques.</p>
 
 | | |
 |---|---|

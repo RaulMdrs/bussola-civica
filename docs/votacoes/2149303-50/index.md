@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDC 745/2017 — Aprovado o Projeto de Decreto Legislativo nº 745, de 2017. (2023-10-18)"
-description: "Como a bancada gaúcha votou em 2023-10-18: Aprovado o Projeto de Decreto Legislativo nº 745, de 2017. Sim: 323; não: 98; abstenção: 3; total: 424."
+title: "PDC 745/2017 — Aprovado o Projeto de Decreto Legislativo nº 745, de 2017. (18 out 2023)"
+description: "Como a bancada gaúcha votou em 18 out 2023: Aprovado o Projeto de Decreto Legislativo nº 745, de 2017. Sim: 323; não: 98; abstenção: 3; total: 424."
 ---
 
 # PDC 745/2017
 
-<p class="subtitulo"><b>2023-10-18</b> · Aprovado o Projeto de Decreto Legislativo nº 745, de 2017.</p>
+<p class="subtitulo"><b>18 out 2023</b> · Aprovado o Projeto de Decreto Legislativo nº 745, de 2017.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5490/2025 — Rejeitado o Requerimento. (2026-03-03)"
-description: "Como a bancada gaúcha votou em 2026-03-03: Rejeitado o Requerimento. Sim: 157; Não: 272; Abstenção: 3; Total: 432."
+title: "PL 5490/2025 — Rejeitado o Requerimento. (03 mar 2026)"
+description: "Como a bancada gaúcha votou em 03 mar 2026: Rejeitado o Requerimento. Sim: 157; Não: 272; Abstenção: 3; Total: 432."
 ---
 
 # PL 5490/2025
 
-<p class="subtitulo"><b>2026-03-03</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>03 mar 2026</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

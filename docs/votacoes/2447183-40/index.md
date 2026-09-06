@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 858/2024 — Rejeitado o Requerimento. (2024-07-11)"
-description: "Como a bancada gaúcha votou em 2024-07-11: Rejeitado o Requerimento. Sim: 119; não: 254; total: 373."
+title: "PL 858/2024 — Rejeitado o Requerimento. (11 jul 2024)"
+description: "Como a bancada gaúcha votou em 11 jul 2024: Rejeitado o Requerimento. Sim: 119; não: 254; total: 373."
 ---
 
 # PL 858/2024
 
-<p class="subtitulo"><b>2024-07-11</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>11 jul 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

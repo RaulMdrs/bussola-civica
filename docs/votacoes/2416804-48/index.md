@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2/2024 — Mantido o texto. (2024-03-19)"
-description: "Como a bancada gaúcha votou em 2024-03-19: Mantido o texto. Sim: 305; não: 107; total: 412."
+title: "PL 2/2024 — Mantido o texto. (19 mar 2024)"
+description: "Como a bancada gaúcha votou em 19 mar 2024: Mantido o texto. Sim: 305; não: 107; total: 412."
 ---
 
 # PL 2/2024
 
-<p class="subtitulo"><b>2024-03-19</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>19 mar 2024</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

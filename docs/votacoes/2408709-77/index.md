@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5813/2023 — Rejeitado o Requerimento. (2024-09-11)"
-description: "Como a bancada gaúcha votou em 2024-09-11: Rejeitado o Requerimento. Sim: 4; Não: 329; Total: 333."
+title: "PL 5813/2023 — Rejeitado o Requerimento. (11 set 2024)"
+description: "Como a bancada gaúcha votou em 11 set 2024: Rejeitado o Requerimento. Sim: 4; Não: 329; Total: 333."
 ---
 
 # PL 5813/2023
 
-<p class="subtitulo"><b>2024-09-11</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>11 set 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

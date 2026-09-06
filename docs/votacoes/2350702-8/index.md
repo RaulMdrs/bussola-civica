@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PRC 31/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2023-03-21)"
-description: "Como a bancada gaúcha votou em 2023-03-21: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 397; não: 1 ; total: 398."
+title: "PRC 31/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (21 mar 2023)"
+description: "Como a bancada gaúcha votou em 21 mar 2023: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 397; não: 1 ; total: 398."
 ---
 
 # PRC 31/2023
 
-<p class="subtitulo"><b>2023-03-21</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>21 mar 2023</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

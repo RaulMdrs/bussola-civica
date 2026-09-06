@@ -7,7 +7,7 @@ description: "Como Maria do Rosário vota: alinhamento com o governo federal e c
 
 # Maria do Rosário
 
-<p class="subtitulo"><b>PT</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>PT</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-07-14</span>
+<span class="data">14 jul 2026</span>
 <div class="corpo">
 <p>Rejeitada a Emenda de Plenário nº 2. <span class="placar">Sim: 134; Não: 285; Abstenção: 2; Total: 421.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-05-20</span>
+<span class="data">20 mai 2026</span>
 <div class="corpo">
 <p>Resultado. <span class="placar">Sim: 182; Não: 182; Abstenção: 2; Total: 366.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
 <p class="referencia">Maioria do partido: nao (11 sim / 41 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-05-20</span>
+<span class="data">20 mai 2026</span>
 <div class="corpo">
 <p>Resultado. <span class="placar">Sim: 182; Não: 182; Abstenção: 2; Total: 366.</span></p>
 <p class="referencia">Maioria do partido: nao (0 sim / 48 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-09-25</span>
+<span class="data">25 set 2025</span>
 <div class="corpo">
 <p>Aprovado o Projeto de Lei nº 358, de 2025. .</p>
 <p class="referencia">Maioria do partido: sim (42 sim / 0 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -148,7 +148,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-13187">
-<span class="data">2026-09-02 · 16:32</span>
+<span class="data">02 set 2026 · 16:32</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
 <p>A Deputada encaminhou a votação do requerimento de urgência ao Projeto de Lei Complementar nº 74, de 2026, que dispõe sobre regras relativas a benefícios tributários e despesas obrigatórias no exercício de 2026. Em seguida, comemorou a aprovação, pela Comissão de Justiça do Senado, da Proposta de Emenda à Constituição (PEC) nº 221, de 2019, sobre o fim da escala 6 por 1, com redução da jornada semanal de 44 para 40 horas, sem redução salarial. Além disso, destacou os benefícios da medida para trabalhadores, especialmente mulheres, atribuiu ao Presidente Lula papel na articulação política e criticou o Senador Flávio Bolsonaro. Por fim, pediu ao Presidente Davi Alcolumbre que submetesse a matéria ao Plenário do Senado.</p>
@@ -157,7 +157,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-13186">
-<span class="data">2026-09-02 · 15:52</span>
+<span class="data">02 set 2026 · 15:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>A Deputada registrou a aprovação do Projeto de Lei nº 241, de 2023, que altera o Decreto-Lei nº 667/1969, que reorganiza as Polícias Militares e os Corpos de Bombeiros Militares dos Estados, dos Territórios e do Distrito Federal, resgatando direitos previdenciários de policiais militares, com benefícios às mulheres. Por fim, defendeu a Proposta de Emenda à Constituição nº 31, de 2025, que altera os arts. 5º e 10 da Emenda Constitucional nº 103, de 2019, para reduzir a idade de aposentadoria da mulher ocupante de cargo de agente penitenciário, agente socioeducativo ou de policial dos órgãos referidos.</p>
@@ -166,7 +166,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-13185">
-<span class="data">2026-09-01 · 22:44</span>
+<span class="data">01 set 2026 · 22:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>A Deputada orientou favoravelmente a bancada do Partido dos Trabalhadores (PT) na votação do Projeto de Lei nº 4.921, de 2026, de autoria do Tribunal Superior do Trabalho (TST), que amplia a composição do Tribunal Regional do Trabalho (TRT) da 18ª Região mediante a transformação de sete cargos vagos de Juiz do Trabalho Substituto em quatro cargos de Desembargador do Trabalho. Além disso, defendeu o Presidente Lula de críticas de Parlamentares bolsonaristas e afirmou que a declaração do Presidente foi retirada de contexto para atribuir a ele desrespeito a garis e a outros trabalhadores.</p>
@@ -175,7 +175,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-13184">
-<span class="data">2026-09-01 · 22:32</span>
+<span class="data">01 set 2026 · 22:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>A Deputada criticou o Senador Flávio Bolsonaro por mentiras sobre o recebimento de recursos e sua relação com o empresário Daniel Vorcaro. Além disso, destacou que os valores envolvidos superam 70 milhões de reais e que recursos de trabalhadores, servidores públicos e aposentadorias do Estado do Rio de Janeiro teriam sido desviados para Vorcaro, para o Senador Flávio, para Eduardo Bolsonaro e, possivelmente, para o ex-Presidente Bolsonaro.</p>
@@ -184,7 +184,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-13183">
-<span class="data">2026-09-01 · 21:16</span>
+<span class="data">01 set 2026 · 21:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>A Deputada discutiu o Projeto de Lei nº 5.894, de 2025, que institui o Plano Nacional de Cultura para o decênio 2025-2035. Celebrou o retorno do Ministério da Cultura e elogiou o relatório do Deputado Pedro Uczai sobre o Plano Nacional de Cultura, que estabelece metas para os próximos dez anos. Argumentou que o governo anterior representou uma ameaça à identidade cultural do País e que iniciativas como a Lei Aldir Blanc e o programa Cultura Viva simbolizaram resistência a esse projeto. Por fim, destacou que o Plano Nacional de Cultura representa o coroamento de uma gestão vitoriosa e reafirmou o compromisso com uma Nação soberana, democrática e culturalmente valorizada.</p>

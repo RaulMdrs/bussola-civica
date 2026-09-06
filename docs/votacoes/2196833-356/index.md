@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 45/2019 — Mantido o texto. (2023-07-06)"
-description: "Como a bancada gaúcha votou em 2023-07-06: Mantido o texto. Sim: 383; não: 103; abstenção: 2; total: 488."
+title: "PEC 45/2019 — Mantido o texto. (06 jul 2023)"
+description: "Como a bancada gaúcha votou em 06 jul 2023: Mantido o texto. Sim: 383; não: 103; abstenção: 2; total: 488."
 ---
 
 # PEC 45/2019
 
-<p class="subtitulo"><b>2023-07-06</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>06 jul 2023</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

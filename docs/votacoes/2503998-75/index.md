@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 109/2025 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 109, de (2026-04-07)"
-description: "Como a bancada gaúcha votou em 2026-04-07: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 109, de 2025, adotado pelo relator da Comissão de Co"
+title: "PLP 109/2025 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 109, de (07 abr 2026)"
+description: "Como a bancada gaúcha votou em 07 abr 2026: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 109, de 2025, adotado pelo relator da Comissão de Co"
 ---
 
 # PLP 109/2025
 
-<p class="subtitulo"><b>2026-04-07</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 109, de 2025, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania.</p>
+<p class="subtitulo"><b>07 abr 2026</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 109, de 2025, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania.</p>
 
 | | |
 |---|---|

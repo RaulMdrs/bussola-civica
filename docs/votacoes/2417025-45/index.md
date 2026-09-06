@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 81/2024 — Rejeitado o Recurso nº 3/2024, contra Parecer Terminativo da Comiss (2024-03-12)"
-description: "Como a bancada gaúcha votou em 2024-03-12: Rejeitado o Recurso nº 3/2024, contra Parecer Terminativo da Comissão de Finanças e Tributação às Emendas de P"
+title: "PL 81/2024 — Rejeitado o Recurso nº 3/2024, contra Parecer Terminativo da Comiss (12 mar 2024)"
+description: "Como a bancada gaúcha votou em 12 mar 2024: Rejeitado o Recurso nº 3/2024, contra Parecer Terminativo da Comissão de Finanças e Tributação às Emendas de P"
 ---
 
 # PL 81/2024
 
-<p class="subtitulo"><b>2024-03-12</b> · Rejeitado o Recurso nº 3/2024, contra Parecer Terminativo da Comissão de Finanças e Tributação às Emendas de Plenário, de 2024.</p>
+<p class="subtitulo"><b>12 mar 2024</b> · Rejeitado o Recurso nº 3/2024, contra Parecer Terminativo da Comissão de Finanças e Tributação às Emendas de Plenário, de 2024.</p>
 
 | | |
 |---|---|

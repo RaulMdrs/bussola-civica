@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1637/2019 — Mantido o texto. (2024-12-12)"
-description: "Como a bancada gaúcha votou em 2024-12-12: Mantido o texto. Sim: 196; Não: 84; Total: 280."
+title: "PL 1637/2019 — Mantido o texto. (12 dez 2024)"
+description: "Como a bancada gaúcha votou em 12 dez 2024: Mantido o texto. Sim: 196; Não: 84; Total: 280."
 ---
 
 # PL 1637/2019
 
-<p class="subtitulo"><b>2024-12-12</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>12 dez 2024</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

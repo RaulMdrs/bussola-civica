@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4709/2025 — Rejeitado o Requerimento. (2026-03-17)"
-description: "Como a bancada gaúcha votou em 2026-03-17: Rejeitado o Requerimento. Sim: 97; Não: 258; Abstenção: 3; Total: 358."
+title: "PL 4709/2025 — Rejeitado o Requerimento. (17 mar 2026)"
+description: "Como a bancada gaúcha votou em 17 mar 2026: Rejeitado o Requerimento. Sim: 97; Não: 258; Abstenção: 3; Total: 358."
 ---
 
 # PL 4709/2025
 
-<p class="subtitulo"><b>2026-03-17</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>17 mar 2026</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 66/2023 — Mantido o texto. (2025-07-15)"
-description: "Como a bancada gaúcha votou em 2025-07-15: Mantido o texto. Sim: 318; Não: 144; Abstenção: 2; Total: 464."
+title: "PEC 66/2023 — Mantido o texto. (15 jul 2025)"
+description: "Como a bancada gaúcha votou em 15 jul 2025: Mantido o texto. Sim: 318; Não: 144; Abstenção: 2; Total: 464."
 ---
 
 # PEC 66/2023
 
-<p class="subtitulo"><b>2025-07-15</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>15 jul 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

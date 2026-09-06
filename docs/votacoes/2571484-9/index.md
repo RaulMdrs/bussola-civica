@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3640/2023 — Rejeitado o Requerimento. (2025-10-22)"
-description: "Como a bancada gaúcha votou em 2025-10-22: Rejeitado o Requerimento. Sim: 50; Não: 370; Total: 420."
+title: "PL 3640/2023 — Rejeitado o Requerimento. (22 out 2025)"
+description: "Como a bancada gaúcha votou em 22 out 2025: Rejeitado o Requerimento. Sim: 50; Não: 370; Total: 420."
 ---
 
 # PL 3640/2023
 
-<p class="subtitulo"><b>2025-10-22</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>22 out 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

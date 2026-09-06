@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 127/2024 — Rejeitado o Requerimento. (2025-04-09)"
-description: "Como a bancada gaúcha votou em 2025-04-09: Rejeitado o Requerimento. Sim: 80; Não: 251; Abstenção: 1; Total: 332."
+title: "PL 127/2024 — Rejeitado o Requerimento. (09 abr 2025)"
+description: "Como a bancada gaúcha votou em 09 abr 2025: Rejeitado o Requerimento. Sim: 80; Não: 251; Abstenção: 1; Total: 332."
 ---
 
 # PL 127/2024
 
-<p class="subtitulo"><b>2025-04-09</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>09 abr 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

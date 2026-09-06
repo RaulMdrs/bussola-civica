@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3181/2025 — Aprovado o Projeto de Lei nº 3.181, de 2025, ressalvados os desta (2025-08-19)"
-description: "Como a bancada gaúcha votou em 2025-08-19: Aprovado o Projeto de Lei nº 3.181, de 2025, ressalvados os destaques . Sim: 210; Não: 166; Total: 376."
+title: "PL 3181/2025 — Aprovado o Projeto de Lei nº 3.181, de 2025, ressalvados os desta (19 ago 2025)"
+description: "Como a bancada gaúcha votou em 19 ago 2025: Aprovado o Projeto de Lei nº 3.181, de 2025, ressalvados os destaques . Sim: 210; Não: 166; Total: 376."
 ---
 
 # PL 3181/2025
 
-<p class="subtitulo"><b>2025-08-19</b> · Aprovado o Projeto de Lei nº 3.181, de 2025, ressalvados os destaques .</p>
+<p class="subtitulo"><b>19 ago 2025</b> · Aprovado o Projeto de Lei nº 3.181, de 2025, ressalvados os destaques .</p>
 
 | | |
 |---|---|

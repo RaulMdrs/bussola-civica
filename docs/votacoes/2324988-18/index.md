@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 167/2022 — Rejeitado o Requerimento. (2025-05-29)"
-description: "Como a bancada gaúcha votou em 2025-05-29: Rejeitado o Requerimento. Sim: 121; Não: 270; Total: 391."
+title: "PDL 167/2022 — Rejeitado o Requerimento. (29 mai 2025)"
+description: "Como a bancada gaúcha votou em 29 mai 2025: Rejeitado o Requerimento. Sim: 121; Não: 270; Total: 391."
 ---
 
 # PDL 167/2022
 
-<p class="subtitulo"><b>2025-05-29</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>29 mai 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

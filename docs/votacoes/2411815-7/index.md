@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1269/2022 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-02-21)"
-description: "Como a bancada gaúcha votou em 2024-02-21: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 413; não: 13; abstenção: 1; total: 427."
+title: "PL 1269/2022 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (21 fev 2024)"
+description: "Como a bancada gaúcha votou em 21 fev 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 413; não: 13; abstenção: 1; total: 427."
 ---
 
 # PL 1269/2022
 
-<p class="subtitulo"><b>2024-02-21</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>21 fev 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3965/2021 — Rejeitado o Requerimento. (2025-05-29)"
-description: "Como a bancada gaúcha votou em 2025-05-29: Rejeitado o Requerimento. Sim: 48; Não: 322; Abstenção: 1; Total: 371."
+title: "PL 3965/2021 — Rejeitado o Requerimento. (29 mai 2025)"
+description: "Como a bancada gaúcha votou em 29 mai 2025: Rejeitado o Requerimento. Sim: 48; Não: 322; Abstenção: 1; Total: 371."
 ---
 
 # PL 3965/2021
 
-<p class="subtitulo"><b>2025-05-29</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>29 mai 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

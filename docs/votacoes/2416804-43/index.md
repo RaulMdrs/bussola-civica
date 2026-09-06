@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2/2024 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2, de  (2024-03-19)"
-description: "Como a bancada gaúcha votou em 2024-03-19: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2, de 2024, adotada pelo relator da Comissão de "
+title: "PL 2/2024 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2, de  (19 mar 2024)"
+description: "Como a bancada gaúcha votou em 19 mar 2024: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2, de 2024, adotada pelo relator da Comissão de "
 ---
 
 # PL 2/2024
 
-<p class="subtitulo"><b>2024-03-19</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2, de 2024, adotada pelo relator da Comissão de Indústria, Comércio e Serviços, ressalvados os destaques.</p>
+<p class="subtitulo"><b>19 mar 2024</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2, de 2024, adotada pelo relator da Comissão de Indústria, Comércio e Serviços, ressalvados os destaques.</p>
 
 | | |
 |---|---|

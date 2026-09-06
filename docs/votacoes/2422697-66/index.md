@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 914/2024 — Aprovada a Emenda de Plenário nº 26. (2024-05-28)"
-description: "Como a bancada gaúcha votou em 2024-05-28: Aprovada a Emenda de Plenário nº 26. Sim: 174; não: 159; abstenção: 1; total: 334."
+title: "PL 914/2024 — Aprovada a Emenda de Plenário nº 26. (28 mai 2024)"
+description: "Como a bancada gaúcha votou em 28 mai 2024: Aprovada a Emenda de Plenário nº 26. Sim: 174; não: 159; abstenção: 1; total: 334."
 ---
 
 # PL 914/2024
 
-<p class="subtitulo"><b>2024-05-28</b> · Aprovada a Emenda de Plenário nº 26.</p>
+<p class="subtitulo"><b>28 mai 2024</b> · Aprovada a Emenda de Plenário nº 26.</p>
 
 | | |
 |---|---|

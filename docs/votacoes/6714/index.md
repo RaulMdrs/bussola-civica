@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei Complementar nº 39, de 2023,e das emendas, nos (2023-06-21)"
-description: "Como os senadores gaúchos votou em 2023-06-21: Votação nominal do Projeto de Lei Complementar nº 39, de 2023,e das emendas, nos termos do parecer, ressalvado"
+title: "Votação nominal do Projeto de Lei Complementar nº 39, de 2023,e das emendas, nos (21 jun 2023)"
+description: "Como os senadores gaúchos votou em 21 jun 2023: Votação nominal do Projeto de Lei Complementar nº 39, de 2023,e das emendas, nos termos do parecer, ressalvado"
 ---
 
-# Votação de 2023-06-21
+# Votação de 21 jun 2023
 
-<p class="subtitulo"><b>2023-06-21</b> · Votação nominal do Projeto de Lei Complementar nº 39, de 2023,e das emendas, nos termos do parecer, ressalvados os destaques.</p>
+<p class="subtitulo"><b>21 jun 2023</b> · Votação nominal do Projeto de Lei Complementar nº 39, de 2023,e das emendas, nos termos do parecer, ressalvados os destaques.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 769/2024 — Aprovada a Redação Final assinada pelo relator, Dep. Defensor Stél (2025-07-09)"
-description: "Como a bancada gaúcha votou em 2025-07-09: Aprovada a Redação Final assinada pelo relator, Dep. Defensor Stélio Dener (REPUBLICANOS/RR). Sim: 178; Não: 1"
+title: "PL 769/2024 — Aprovada a Redação Final assinada pelo relator, Dep. Defensor Stél (09 jul 2025)"
+description: "Como a bancada gaúcha votou em 09 jul 2025: Aprovada a Redação Final assinada pelo relator, Dep. Defensor Stélio Dener (REPUBLICANOS/RR). Sim: 178; Não: 1"
 ---
 
 # PL 769/2024
 
-<p class="subtitulo"><b>2025-07-09</b> · Aprovada a Redação Final assinada pelo relator, Dep. Defensor Stélio Dener (REPUBLICANOS/RR).</p>
+<p class="subtitulo"><b>09 jul 2025</b> · Aprovada a Redação Final assinada pelo relator, Dep. Defensor Stélio Dener (REPUBLICANOS/RR).</p>
 
 | | |
 |---|---|

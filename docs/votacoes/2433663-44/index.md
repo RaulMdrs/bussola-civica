@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1822/2024 — Rejeitado o Requerimento. (2026-05-28)"
-description: "Como a bancada gaúcha votou em 2026-05-28: Rejeitado o Requerimento. Sim: 99; Não: 277; Total: 376."
+title: "PL 1822/2024 — Rejeitado o Requerimento. (28 mai 2026)"
+description: "Como a bancada gaúcha votou em 28 mai 2026: Rejeitado o Requerimento. Sim: 99; Não: 277; Total: 376."
 ---
 
 # PL 1822/2024
 
-<p class="subtitulo"><b>2026-05-28</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>28 mai 2026</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

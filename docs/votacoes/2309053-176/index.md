@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4188/2021 — Rejeitadas as Emendas do Senado Federal de nºs 4, 9, 10, 15, 24,  (2023-10-03)"
-description: "Como a bancada gaúcha votou em 2023-10-03: Rejeitadas as Emendas do Senado Federal de nºs 4, 9, 10, 15, 24, 25, 28, 29, 35, 38, 42 (apenas do § 7º do art"
+title: "PL 4188/2021 — Rejeitadas as Emendas do Senado Federal de nºs 4, 9, 10, 15, 24,  (03 out 2023)"
+description: "Como a bancada gaúcha votou em 03 out 2023: Rejeitadas as Emendas do Senado Federal de nºs 4, 9, 10, 15, 24, 25, 28, 29, 35, 38, 42 (apenas do § 7º do art"
 ---
 
 # PL 4188/2021
 
-<p class="subtitulo"><b>2023-10-03</b> · Rejeitadas as Emendas do Senado Federal de nºs 4, 9, 10, 15, 24, 25, 28, 29, 35, 38, 42 (apenas do § 7º do art. 37 da Lei nº 9.492, de 1997), 47 e 48 ao Projeto de Lei nº 4.188, de 2021.</p>
+<p class="subtitulo"><b>03 out 2023</b> · Rejeitadas as Emendas do Senado Federal de nºs 4, 9, 10, 15, 24, 25, 28, 29, 35, 38, 42 (apenas do § 7º do art. 37 da Lei nº 9.492, de 1997), 47 e 48 ao Projeto de Lei nº 4.188, de 2021.</p>
 
 | | |
 |---|---|

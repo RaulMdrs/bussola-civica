@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2384/2023 — Suprimido o texto. (2023-07-07)"
-description: "Como a bancada gaúcha votou em 2023-07-07: Suprimido o texto. Sim: 112; não: 284; abstenção: 1; total: 397."
+title: "PL 2384/2023 — Suprimido o texto. (07 jul 2023)"
+description: "Como a bancada gaúcha votou em 07 jul 2023: Suprimido o texto. Sim: 112; não: 284; abstenção: 1; total: 397."
 ---
 
 # PL 2384/2023
 
-<p class="subtitulo"><b>2023-07-07</b> · Suprimido o texto.</p>
+<p class="subtitulo"><b>07 jul 2023</b> · Suprimido o texto.</p>
 
 | | |
 |---|---|

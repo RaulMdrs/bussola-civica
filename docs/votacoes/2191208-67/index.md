@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 488/2019 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 488, (2026-05-12)"
-description: "Como a bancada gaúcha votou em 2026-05-12: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 488, de 2019, adotada pelo relator da Comissão d"
+title: "PL 488/2019 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 488, (12 mai 2026)"
+description: "Como a bancada gaúcha votou em 12 mai 2026: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 488, de 2019, adotada pelo relator da Comissão d"
 ---
 
 # PL 488/2019
 
-<p class="subtitulo"><b>2026-05-12</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 488, de 2019, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvado o destaque.</p>
+<p class="subtitulo"><b>12 mai 2026</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 488, de 2019, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvado o destaque.</p>
 
 | | |
 |---|---|

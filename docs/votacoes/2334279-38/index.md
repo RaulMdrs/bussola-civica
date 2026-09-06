@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2342/2022 — Rejeitado o Requerimento. (2023-05-10)"
-description: "Como a bancada gaúcha votou em 2023-05-10: Rejeitado o Requerimento. Sim: 54; não: 347; total: 401."
+title: "PL 2342/2022 — Rejeitado o Requerimento. (10 mai 2023)"
+description: "Como a bancada gaúcha votou em 10 mai 2023: Rejeitado o Requerimento. Sim: 54; não: 347; total: 401."
 ---
 
 # PL 2342/2022
 
-<p class="subtitulo"><b>2023-05-10</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>10 mai 2023</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

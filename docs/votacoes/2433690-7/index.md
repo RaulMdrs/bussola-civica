@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 85/2024 — Aprovado o Recurso. (2024-05-14)"
-description: "Como a bancada gaúcha votou em 2024-05-14: Aprovado o Recurso. Sim: 219; não: 209; total: 428."
+title: "PLP 85/2024 — Aprovado o Recurso. (14 mai 2024)"
+description: "Como a bancada gaúcha votou em 14 mai 2024: Aprovado o Recurso. Sim: 219; não: 209; total: 428."
 ---
 
 # PLP 85/2024
 
-<p class="subtitulo"><b>2024-05-14</b> · Aprovado o Recurso.</p>
+<p class="subtitulo"><b>14 mai 2024</b> · Aprovado o Recurso.</p>
 
 | | |
 |---|---|

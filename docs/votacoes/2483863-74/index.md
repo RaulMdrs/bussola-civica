@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 420/2025 — Mantido o texto. (2025-11-05)"
-description: "Como a bancada gaúcha votou em 2025-11-05: Mantido o texto. Sim: 382; Não: 17; Total: 399."
+title: "PL 420/2025 — Mantido o texto. (05 nov 2025)"
+description: "Como a bancada gaúcha votou em 05 nov 2025: Mantido o texto. Sim: 382; Não: 17; Total: 399."
 ---
 
 # PL 420/2025
 
-<p class="subtitulo"><b>2025-11-05</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>05 nov 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

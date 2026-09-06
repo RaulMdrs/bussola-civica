@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2685/2022 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2023-09-04)"
-description: "Como a bancada gaúcha votou em 2023-09-04: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 360; não: 18; total: 378."
+title: "PL 2685/2022 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (04 set 2023)"
+description: "Como a bancada gaúcha votou em 04 set 2023: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 360; não: 18; total: 378."
 ---
 
 # PL 2685/2022
 
-<p class="subtitulo"><b>2023-09-04</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>04 set 2023</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

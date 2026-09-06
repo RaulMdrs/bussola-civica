@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6359/2025 — Aprovado o Projeto de Lei nº 6.359, de 2025. (2026-03-25)"
-description: "Como a bancada gaúcha votou em 2026-03-25: Aprovado o Projeto de Lei nº 6.359, de 2025. Sim: 258; Não: 140; Abstenção: 1; Total: 399."
+title: "PL 6359/2025 — Aprovado o Projeto de Lei nº 6.359, de 2025. (25 mar 2026)"
+description: "Como a bancada gaúcha votou em 25 mar 2026: Aprovado o Projeto de Lei nº 6.359, de 2025. Sim: 258; Não: 140; Abstenção: 1; Total: 399."
 ---
 
 # PL 6359/2025
 
-<p class="subtitulo"><b>2026-03-25</b> · Aprovado o Projeto de Lei nº 6.359, de 2025.</p>
+<p class="subtitulo"><b>25 mar 2026</b> · Aprovado o Projeto de Lei nº 6.359, de 2025.</p>
 
 | | |
 |---|---|

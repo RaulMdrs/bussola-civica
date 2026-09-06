@@ -7,7 +7,7 @@ description: "Como Alceu Moreira vota: alinhamento com o governo federal e coes�
 
 # Alceu Moreira
 
-<p class="subtitulo"><b>MDB</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>MDB</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-05-20</span>
+<span class="data">20 mai 2026</span>
 <div class="corpo">
 <p>Resultado. <span class="placar">Sim: 182; Não: 182; Abstenção: 2; Total: 366.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-04-22</span>
+<span class="data">22 abr 2026</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 252; Não: 161; Total: 413.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-05-28</span>
+<span class="data">28 mai 2026</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 335; Não: 117; Abstenção: 5; Total: 457.</span></p>
 <p class="referencia">Maioria do partido: nao (14 sim / 17 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-05-20</span>
+<span class="data">20 mai 2026</span>
 <div class="corpo">
 <p>Rejeitada a Emenda de Plenário nº 2. <span class="placar">Sim: 196; Não: 200; Abstenção: 1; Total: 397.</span></p>
 <p class="referencia">Maioria do partido: nao (10 sim / 13 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-05-20</span>
+<span class="data">20 mai 2026</span>
 <div class="corpo">
 <p>Resultado. <span class="placar">Sim: 182; Não: 182; Abstenção: 2; Total: 366.</span></p>
 <p class="referencia">Maioria do partido: nao (10 sim / 11 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -148,7 +148,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-2275">
-<span class="data">2026-05-19 · 18:00</span>
+<span class="data">19 mai 2026 · 18:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado defendeu a aprovação do Projeto de Lei nº 364 de 2019, que dispõe sobre a utilização e proteção da vegetação nativa dos Campos de Altitude associados ou abrangidos pelo bioma Mata Atlântica. Argumentou que a proposta estabelece um corte de 1.500 metros de altitude, abaixo do qual os campos são considerados antropizados desde 1740, com histórico consolidado de uso agropecuário. Por fim, criticou a aplicação da legislação da Mata Atlântica sobre essas áreas em detrimento do Código Florestal.</p>
@@ -157,7 +157,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2274">
-<span class="data">2026-04-08 · 21:08</span>
+<span class="data">08 abr 2026 · 21:08</span>
 <div class="corpo">
 <p class="tipo">COMO RELATOR</p>
 <p>O Deputado agradeceu a aprovação do Projeto de Lei nº 399, de 2025, que altera a Lei nº 9.847, de 26 de outubro de 1999, para dispor sobre penalidades relativas à comercialização de combustíveis e biocombustíveis.</p>
@@ -166,7 +166,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2273">
-<span class="data">2026-04-08 · 20:56</span>
+<span class="data">08 abr 2026 · 20:56</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
 <p>O Deputado proferiu parecer às Emendas de Plenário apresentadas ao Projeto de lei nº 399, de 2025, que altera a Lei nº 9.847, de 26 de outubro de 1999, para dispor sobre penalidades relativas à comercialização de combustíveis e biocombustíveis.</p>
@@ -175,7 +175,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2272">
-<span class="data">2026-04-08 · 20:36</span>
+<span class="data">08 abr 2026 · 20:36</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
 <p>O Deputado proferiu parecer ao Projeto de lei nº 399, de 2025, que altera a Lei nº 9.847, de 26 de outubro de 1999, para dispor sobre penalidades relativas à comercialização de combustíveis e biocombustíveis.</p>
@@ -184,7 +184,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2271">
-<span class="data">2025-10-08 · 13:56</span>
+<span class="data">08 out 2025 · 13:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado criticou a postura do Governo em relação à arrecadação de impostos sobre produtos de alto consumo e risco, como bebidas alcoólicas, cigarro eletrônico e vapes. Destacou que enquanto fontes lícitas poderiam gerar cerca de R$ 50 bilhões, o Governo busca apenas R$ 20 bilhões, sem controlar efetivamente produtos que circulam pelo narcotráfico ou pelo mercado informal. Apontou que a falta de fiscalização sobre esses itens favorece a ilegalidade e agrava riscos à saúde pública, citando mortes por bebidas adulteradas. Questionou a lógica de não tributar produtos amplamente consumidos e facilmente controláveis, defendendo que a legalização e a tributação poderiam gerar receita e reduzir danos sociais.</p>

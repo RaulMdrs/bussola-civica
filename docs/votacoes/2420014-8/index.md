@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 545/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-03-12)"
-description: "Como a bancada gaúcha votou em 2024-03-12: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 270; não: 88; total: 358."
+title: "PL 545/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (12 mar 2024)"
+description: "Como a bancada gaúcha votou em 12 mar 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 270; não: 88; total: 358."
 ---
 
 # PL 545/2024
 
-<p class="subtitulo"><b>2024-03-12</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>12 mar 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

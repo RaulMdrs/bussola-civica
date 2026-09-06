@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3965/2021 — Aprovada a Emenda n° 2. (2025-05-29)"
-description: "Como a bancada gaúcha votou em 2025-05-29: Aprovada a Emenda n° 2. Sim: 214; Não: 204; Abstenção: 1; Total: 419."
+title: "PL 3965/2021 — Aprovada a Emenda n° 2. (29 mai 2025)"
+description: "Como a bancada gaúcha votou em 29 mai 2025: Aprovada a Emenda n° 2. Sim: 214; Não: 204; Abstenção: 1; Total: 419."
 ---
 
 # PL 3965/2021
 
-<p class="subtitulo"><b>2025-05-29</b> · Aprovada a Emenda n° 2.</p>
+<p class="subtitulo"><b>29 mai 2025</b> · Aprovada a Emenda n° 2.</p>
 
 | | |
 |---|---|

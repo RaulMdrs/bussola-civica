@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4015/2023 — Rejeitada a Emenda de Plenário nº 3. (2023-08-09)"
-description: "Como a bancada gaúcha votou em 2023-08-09: Rejeitada a Emenda de Plenário nº 3. Sim: 117; não: 264; abstenção: 1; total: 382."
+title: "PL 4015/2023 — Rejeitada a Emenda de Plenário nº 3. (09 ago 2023)"
+description: "Como a bancada gaúcha votou em 09 ago 2023: Rejeitada a Emenda de Plenário nº 3. Sim: 117; não: 264; abstenção: 1; total: 382."
 ---
 
 # PL 4015/2023
 
-<p class="subtitulo"><b>2023-08-09</b> · Rejeitada a Emenda de Plenário nº 3.</p>
+<p class="subtitulo"><b>09 ago 2023</b> · Rejeitada a Emenda de Plenário nº 3.</p>
 
 | | |
 |---|---|

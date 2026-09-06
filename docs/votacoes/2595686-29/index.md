@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PRC 86/2025 — Aprovada a Preferência. (2025-12-10)"
-description: "Como a bancada gaúcha votou em 2025-12-10: Aprovada a Preferência. Sim: 226; Não: 220; Abstenção: 3; Total: 449."
+title: "PRC 86/2025 — Aprovada a Preferência. (10 dez 2025)"
+description: "Como a bancada gaúcha votou em 10 dez 2025: Aprovada a Preferência. Sim: 226; Não: 220; Abstenção: 3; Total: 449."
 ---
 
 # PRC 86/2025
 
-<p class="subtitulo"><b>2025-12-10</b> · Aprovada a Preferência.</p>
+<p class="subtitulo"><b>10 dez 2025</b> · Aprovada a Preferência.</p>
 
 | | |
 |---|---|

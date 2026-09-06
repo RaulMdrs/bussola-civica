@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 3/2025 — Aprovado o Projeto de Decreto Legislativo nº 3, de 2025. (2025-11-05)"
-description: "Como a bancada gaúcha votou em 2025-11-05: Aprovado o Projeto de Decreto Legislativo nº 3, de 2025. Sim: 317; Não: 111; Abstenção: 1; Total: 429."
+title: "PDL 3/2025 — Aprovado o Projeto de Decreto Legislativo nº 3, de 2025. (05 nov 2025)"
+description: "Como a bancada gaúcha votou em 05 nov 2025: Aprovado o Projeto de Decreto Legislativo nº 3, de 2025. Sim: 317; Não: 111; Abstenção: 1; Total: 429."
 ---
 
 # PDL 3/2025
 
-<p class="subtitulo"><b>2025-11-05</b> · Aprovado o Projeto de Decreto Legislativo nº 3, de 2025.</p>
+<p class="subtitulo"><b>05 nov 2025</b> · Aprovado o Projeto de Decreto Legislativo nº 3, de 2025.</p>
 
 | | |
 |---|---|

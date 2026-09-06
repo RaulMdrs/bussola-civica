@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Emenda nº 1 (Substitutivo) ao PLP nº 252/2023, nos termos do  (2024-04-10)"
-description: "Como os senadores gaúchos votou em 2024-04-10: Votação nominal da Emenda nº 1 (Substitutivo) ao PLP nº 252/2023, nos termos do parecer de Plenário."
+title: "Votação nominal da Emenda nº 1 (Substitutivo) ao PLP nº 252/2023, nos termos do  (10 abr 2024)"
+description: "Como os senadores gaúchos votou em 10 abr 2024: Votação nominal da Emenda nº 1 (Substitutivo) ao PLP nº 252/2023, nos termos do parecer de Plenário."
 ---
 
-# Votação de 2024-04-10
+# Votação de 10 abr 2024
 
-<p class="subtitulo"><b>2024-04-10</b> · Votação nominal da Emenda nº 1 (Substitutivo) ao PLP nº 252/2023, nos termos do parecer de Plenário.</p>
+<p class="subtitulo"><b>10 abr 2024</b> · Votação nominal da Emenda nº 1 (Substitutivo) ao PLP nº 252/2023, nos termos do parecer de Plenário.</p>
 
 | | |
 |---|---|

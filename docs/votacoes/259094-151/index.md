@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 293/2004 — Mantido o texto. (2023-12-15)"
-description: "Como a bancada gaúcha votou em 2023-12-15: Mantido o texto. Sim: 437; não: 10; total: 447."
+title: "PEC 293/2004 — Mantido o texto. (15 dez 2023)"
+description: "Como a bancada gaúcha votou em 15 dez 2023: Mantido o texto. Sim: 437; não: 10; total: 447."
 ---
 
 # PEC 293/2004
 
-<p class="subtitulo"><b>2023-12-15</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>15 dez 2023</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

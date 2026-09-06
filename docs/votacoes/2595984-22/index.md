@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6359/2025 — Rejeitado o Requerimento. (2026-03-25)"
-description: "Como a bancada gaúcha votou em 2026-03-25: Rejeitado o Requerimento. Sim: 137; Não: 257; Total: 394."
+title: "PL 6359/2025 — Rejeitado o Requerimento. (25 mar 2026)"
+description: "Como a bancada gaúcha votou em 25 mar 2026: Rejeitado o Requerimento. Sim: 137; Não: 257; Total: 394."
 ---
 
 # PL 6359/2025
 
-<p class="subtitulo"><b>2026-03-25</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>25 mar 2026</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1707/2024 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.7 (2025-08-27)"
-description: "Como a bancada gaúcha votou em 2025-08-27: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.707, de 2024, adotada pelo relator da Comissão"
+title: "PL 1707/2024 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.7 (27 ago 2025)"
+description: "Como a bancada gaúcha votou em 27 ago 2025: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.707, de 2024, adotada pelo relator da Comissão"
 ---
 
 # PL 1707/2024
 
-<p class="subtitulo"><b>2025-08-27</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.707, de 2024, adotada pelo relator da Comissão de Minas e Energia, ressalvado o destaque.</p>
+<p class="subtitulo"><b>27 ago 2025</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.707, de 2024, adotada pelo relator da Comissão de Minas e Energia, ressalvado o destaque.</p>
 
 | | |
 |---|---|

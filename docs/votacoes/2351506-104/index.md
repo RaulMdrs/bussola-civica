@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 5/2023 — Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº (2026-05-28)"
-description: "Como a bancada gaúcha votou em 2026-05-28: Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 5, de 2023, na forma da Emenda Aglutinativ"
+title: "PEC 5/2023 — Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº (28 mai 2026)"
+description: "Como a bancada gaúcha votou em 28 mai 2026: Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 5, de 2023, na forma da Emenda Aglutinativ"
 ---
 
 # PEC 5/2023
 
-<p class="subtitulo"><b>2026-05-28</b> · Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 5, de 2023, na forma da Emenda Aglutinativa Substitutiva nº 3.</p>
+<p class="subtitulo"><b>28 mai 2026</b> · Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 5, de 2023, na forma da Emenda Aglutinativa Substitutiva nº 3.</p>
 
 | | |
 |---|---|

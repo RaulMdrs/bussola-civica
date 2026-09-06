@@ -7,7 +7,7 @@ description: "Como Mauricio Marcon vota: alinhamento com o governo federal e coe
 
 # Mauricio Marcon
 
-<p class="subtitulo"><b>PL</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>PL</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-09-03</span>
+<span class="data">03 set 2026</span>
 <div class="corpo">
 <p>Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 74, de 2026, adotada pelo relator da Comissão de Finanças e Tributação. <span class="placar">Sim: 346; Não: 46; Abstenção: 3; Total: 395.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. <span class="placar">Sim: 318; Não: 113; Abstenção: 1; Total: 432.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Rejeitadas as Emendas de Plenário. <span class="placar">Sim: 108; Não: 275; Abstenção: 1; Total: 384.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-09-03</span>
+<span class="data">03 set 2026</span>
 <div class="corpo">
 <p>Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 74, de 2026, adotada pelo relator da Comissão de Finanças e Tributação. <span class="placar">Sim: 346; Não: 46; Abstenção: 3; Total: 395.</span></p>
 <p class="referencia">Maioria do partido: sim (45 sim / 22 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-05-27</span>
+<span class="data">27 mai 2026</span>
 <div class="corpo">
 <p>Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 221, de 2019. <span class="placar">Sim: 472; Não: 22; Total: 494.</span></p>
 <p class="referencia">Maioria do partido: sim (83 sim / 10 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-05-27</span>
+<span class="data">27 mai 2026</span>
 <div class="corpo">
 <p>Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 221, de 2019. . <span class="placar">Sim: 461; Não: 19; Total: 480.</span></p>
 <p class="referencia">Maioria do partido: sim (81 sim / 8 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -148,7 +148,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-13171">
-<span class="data">2026-09-01 · 21:00</span>
+<span class="data">01 set 2026 · 21:00</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
 <p>O Deputado manifestou indignação com mensagens reveladas após a quebra de sigilo de Daniel Vorcaro, que indicariam envolvimento do Presidente da Câmara, Hugo Motta, em encontros com o banqueiro. Além disso, classificou o Ministro Alexandre de Moraes como corrupto, apontou supostos cartões de crédito de alto valor em nome de filhos do Ministro e afirmou que o Procurador-Geral da República, Paulo Gonet, teria trocado mensagens de cunho afetivo com Vorcaro e pedido para não ser investigado. Por fim, conclamou a população a pressionar por punições e alertou que, sem ação do povo, a corrupção permaneceria impune.</p>
@@ -157,7 +157,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4324">
-<span class="data">2026-07-01 · 17:40</span>
+<span class="data">01 jul 2026 · 17:40</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
 <p>O Deputado criticou o Projeto de Lei nº 896, de 2023, que altera a Lei nº 7.716, de 5 de janeiro de 1989, e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dispor sobre crimes praticados em razão de misoginia, o qual poderia criminalizar padres e pastores por citações bíblicas, além de punir falas sobre mulheres com pena elevada. Também afirmou que a pauta desviou a Câmara de temas como a renegociação das dívidas dos agricultores do Rio Grande do Sul e o aumento de pena para crimes sexuais. Ademais, acusou a Esquerda de atacar religião e família, contestou votos do PSOL e do PT em matéria penal e rejeitou apoio à proposta.</p>
@@ -166,7 +166,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4323">
-<span class="data">2026-06-30 · 16:20</span>
+<span class="data">30 jun 2026 · 16:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado contestou declarações do Presidente da República sobre inflação, preços dos combustíveis, desemprego, crescimento econômico e situação fiscal, ao afirmar que os indicadores econômicos e a percepção da população seriam incompatíveis com esse diagnóstico. Além disso, argumentou que o aumento da dívida pública, do déficit fiscal, da taxa Selic e das recuperações judiciais refletiria dificuldades na economia brasileira e criticou a condução do Governo Federal.</p>
@@ -175,7 +175,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4322">
-<span class="data">2026-06-16 · 18:44</span>
+<span class="data">16 jun 2026 · 18:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado criticou decisões e atuações de integrantes do Supremo Tribunal Federal (STF), mencionando processos relacionados ao Deputado Eduardo Bolsonaro e investigações envolvendo o Banco Master. Além disso, afirmou que houve divergências entre Ministros da Corte quanto a medidas judiciais ligadas ao caso de Daniel Vorcaro e citou informações divulgadas por veículos de comunicação sobre supostas pressões e contatos entre autoridades públicas e investigados. Na continuidade, sustentou que as apurações poderiam alcançar agentes políticos e integrantes de instituições de Estado. Por fim, elogiou a atuação de Ministros indicados pelo ex-Presidente Jair Bolsonaro e defendeu a continuidade das investigações para apuração de eventuais responsabilidades.</p>
@@ -184,7 +184,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4321">
-<span class="data">2026-06-10 · 17:52</span>
+<span class="data">10 jun 2026 · 17:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado criticou o Governo do PT e Lula, afirmando que houve cortina de fumaça para ocultar a deterioração da economia. Além disso, apontou aumento do endividamento das famílias, inflação dos alimentos, juros no maior nível em 17 anos e risco fiscal com déficit projetado de R$ 130 bilhões. Por fim, alertou a população para uma crise econômica grave.</p>

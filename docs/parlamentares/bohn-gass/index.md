@@ -7,7 +7,7 @@ description: "Como Bohn Gass vota: alinhamento com o governo federal e coesão p
 
 # Bohn Gass
 
-<p class="subtitulo"><b>PT</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>PT</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-07-14</span>
+<span class="data">14 jul 2026</span>
 <div class="corpo">
 <p>Rejeitada a Emenda de Plenário nº 2. <span class="placar">Sim: 134; Não: 285; Abstenção: 2; Total: 421.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-11-26</span>
+<span class="data">26 nov 2025</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 313; Não: 88; Abstenção: 2; Total: 403.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-09-03</span>
+<span class="data">03 set 2025</span>
 <div class="corpo">
 <p>Rejeitada a inclusão. <span class="placar">Sim: 119; Não: 310; Abstenção: 1; Total: 430.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2025-11-26</span>
+<span class="data">26 nov 2025</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 313; Não: 88; Abstenção: 2; Total: 403.</span></p>
 <p class="referencia">Maioria do partido: sim (51 sim / 1 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-10-28</span>
+<span class="data">28 out 2025</span>
 <div class="corpo">
 <p>Aprovada a Emenda de Plenário nº 4. <span class="placar">Sim: 361; Não: 77; Abstenção: 1; Total: 439.</span></p>
 <p class="referencia">Maioria do partido: sim (58 sim / 4 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-05-06</span>
+<span class="data">06 mai 2025</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 177, de 2023, adotado pelo relator da Comissão de Finanças e Tributação. <span class="placar">Sim: 270; Não: 207; Abstenção: 1; Total: 478.</span></p>
 <p class="referencia">Maioria do partido: sim (36 sim / 25 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -148,7 +148,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-13168">
-<span class="data">2026-09-02 · 16:20</span>
+<span class="data">02 set 2026 · 16:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado informou que o Partido dos Trabalhadores (PT), a Federação Brasil da Esperança (FE BRASIL) e a Federação PSOL REDE apresentaram petição ao Ministro Fachin, do Supremo Tribunal Federal (STF), para cobrar transparência e isonomia nos casos Dark Horse e Banco Master. Além disso, questionou a atuação do Ministro André Mendonça, mencionou tratamento distinto a envolvidos e reunião com Vorcaro. Por fim, defendeu a apuração dos fatos, inclusive quanto a eventual suspeição do Relator.</p>
@@ -157,7 +157,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-13167">
-<span class="data">2026-09-01 · 21:44</span>
+<span class="data">01 set 2026 · 21:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado orientou a bancada na votação do substitutivo oferecido ao Projeto de Lei nº 1.290, de 2022, que atualiza os valores de custas e emolumentos devidos no âmbito da Justiça do Trabalho. Além disso, rebateu críticas dirigidas ao Governo do Presidente Lula em relação a obras públicas. Contrastou o cenário atual com o de governos anteriores, em que rodovias precárias comprometiam o deslocamento de veículos, e destacou que o Brasil vivencia um período de reconstrução, com crescimento econômico, geração de empregos e aprovação de projetos culturais.</p>
@@ -166,7 +166,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-13166">
-<span class="data">2026-09-01 · 20:00</span>
+<span class="data">01 set 2026 · 20:00</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
 <p>O Deputado abordou novas revelações publicadas pela revista Piauí sobre o escândalo, segundo ele, denominado &quot;Bolsomaster&quot;, que envolve o Senador Flávio Bolsonaro e supostas solicitações de recursos ao empresário Daniel Vorcaro para financiar o filme Dark Horse. Apontou que o montante investigado teria passado de 61 milhões para até 72 milhões de reais, com o surgimento de parcelas até então desconhecidas. Também listou contradições e versões apresentadas pelo Senador ao longo do caso e informou que o PT formalizou três pedidos de inquérito para investigar os recursos, solicitar cooperação internacional e apurar possíveis desvios de emendas parlamentares. Por fim, cobrou explicações de Flávio Bolsonaro à população.</p>
@@ -175,7 +175,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-13165">
-<span class="data">2026-09-01 · 18:56</span>
+<span class="data">01 set 2026 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado rebateu críticas ao Projeto de Lei nº 287, de 2024, sobre a Estratégia Nacional de Controle e Avaliação da Qualidade da Assistência à Saúde no setor privado e defendeu a regulação estatal para coibir negligências e mortes em estabelecimentos de saúde. Nesse sentido, destacou o teor do art. 6º do texto para demonstrar que as exigências e os padrões de qualidade abrangem tanto os hospitais públicos quanto a rede privada.</p>
@@ -184,7 +184,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-13164">
-<span class="data">2026-09-01 · 18:16</span>
+<span class="data">01 set 2026 · 18:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado ressaltou a relevância da Convenção nº 156, de 1981, da Organização Internacional do Trabalho - OIT, contida na Mensagem nº 85, de 2023, para amparar mães de crianças com deficiência ou com autismo, as quais enfrentam dupla jornada de trabalho e cuidados familiares. Nesse contexto, defendeu a criação de uma política pública de cuidados voltada a esse segmento. Além disso, apontou medidas do Governo Federal voltadas à igualdade salarial entre mulheres e homens e ao enfrentamento da discriminação de gênero no mercado de trabalho.</p>

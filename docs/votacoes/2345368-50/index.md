@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1150/2022 — Aprovada a Emenda de Plenário nº 4. (2023-03-30)"
-description: "Como a bancada gaúcha votou em 2023-03-30: Aprovada a Emenda de Plenário nº 4. Sim: 150; não: 122; total: 272."
+title: "MPV 1150/2022 — Aprovada a Emenda de Plenário nº 4. (30 mar 2023)"
+description: "Como a bancada gaúcha votou em 30 mar 2023: Aprovada a Emenda de Plenário nº 4. Sim: 150; não: 122; total: 272."
 ---
 
 # MPV 1150/2022
 
-<p class="subtitulo"><b>2023-03-30</b> · Aprovada a Emenda de Plenário nº 4.</p>
+<p class="subtitulo"><b>30 mar 2023</b> · Aprovada a Emenda de Plenário nº 4.</p>
 
 | | |
 |---|---|

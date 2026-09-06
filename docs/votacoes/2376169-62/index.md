@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3780/2023 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 3.7 (2023-10-31)"
-description: "Como a bancada gaúcha votou em 2023-10-31: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 3.780, de 2023, adotada pelo Relator da Comissão"
+title: "PL 3780/2023 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 3.7 (31 out 2023)"
+description: "Como a bancada gaúcha votou em 31 out 2023: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 3.780, de 2023, adotada pelo Relator da Comissão"
 ---
 
 # PL 3780/2023
 
-<p class="subtitulo"><b>2023-10-31</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 3.780, de 2023, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques.</p>
+<p class="subtitulo"><b>31 out 2023</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 3.780, de 2023, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques.</p>
 
 | | |
 |---|---|

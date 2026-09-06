@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação, em primeiro turno, da PEC nº 72/2023, nos termos do Parecer com ajuste  (2024-03-13)"
-description: "Como os senadores gaúchos votou em 2024-03-13: Votação, em primeiro turno, da PEC nº 72/2023, nos termos do Parecer com ajuste redacional."
+title: "Votação, em primeiro turno, da PEC nº 72/2023, nos termos do Parecer com ajuste  (13 mar 2024)"
+description: "Como os senadores gaúchos votou em 13 mar 2024: Votação, em primeiro turno, da PEC nº 72/2023, nos termos do Parecer com ajuste redacional."
 ---
 
-# Votação de 2024-03-13
+# Votação de 13 mar 2024
 
-<p class="subtitulo"><b>2024-03-13</b> · Votação, em primeiro turno, da PEC nº 72/2023, nos termos do Parecer com ajuste redacional.</p>
+<p class="subtitulo"><b>13 mar 2024</b> · Votação, em primeiro turno, da PEC nº 72/2023, nos termos do Parecer com ajuste redacional.</p>
 
 | | |
 |---|---|

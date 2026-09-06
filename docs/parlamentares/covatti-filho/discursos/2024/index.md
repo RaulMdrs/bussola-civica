@@ -17,7 +17,7 @@ description: "Os discursos de Covatti Filho em 2024, com o sumário oficial e li
 ## Substantivos — 1
 
 <blockquote class="evidencia discurso" id="d-2506">
-<span class="data">2024-05-07 · 18:00</span>
+<span class="data">07 mai 2024 · 18:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado agradeceu o apoio às vítimas da catástrofe climática ocorrida no Estado do Rio Grande do Sul prestado pela bancada do Partido Progressista na Câmara dos Deputados, mediante destinação de recursos de emendas parlamentares, ressaltando também a ajuda proveniente de Deputados de outros Estados.</p>

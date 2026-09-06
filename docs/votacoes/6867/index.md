@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Emenda nº 7 (Substitutivo) à PEC nº 66/2023, nos termos dos p (2024-08-14)"
-description: "Como os senadores gaúchos votou em 2024-08-14: Votação nominal da Emenda nº 7 (Substitutivo) à PEC nº 66/2023, nos termos dos pareceres (1º Turno)."
+title: "Votação nominal da Emenda nº 7 (Substitutivo) à PEC nº 66/2023, nos termos dos p (14 ago 2024)"
+description: "Como os senadores gaúchos votou em 14 ago 2024: Votação nominal da Emenda nº 7 (Substitutivo) à PEC nº 66/2023, nos termos dos pareceres (1º Turno)."
 ---
 
-# Votação de 2024-08-14
+# Votação de 14 ago 2024
 
-<p class="subtitulo"><b>2024-08-14</b> · Votação nominal da Emenda nº 7 (Substitutivo) à PEC nº 66/2023, nos termos dos pareceres (1º Turno).</p>
+<p class="subtitulo"><b>14 ago 2024</b> · Votação nominal da Emenda nº 7 (Substitutivo) à PEC nº 66/2023, nos termos dos pareceres (1º Turno).</p>
 
 | | |
 |---|---|

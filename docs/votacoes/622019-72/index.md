@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 7906/2014 — Aprovada a Emenda. (2025-06-11)"
-description: "Como a bancada gaúcha votou em 2025-06-11: Aprovada a Emenda. Sim: 214; Não: 107; Total: 321."
+title: "PL 7906/2014 — Aprovada a Emenda. (11 jun 2025)"
+description: "Como a bancada gaúcha votou em 11 jun 2025: Aprovada a Emenda. Sim: 214; Não: 107; Total: 321."
 ---
 
 # PL 7906/2014
 
-<p class="subtitulo"><b>2025-06-11</b> · Aprovada a Emenda.</p>
+<p class="subtitulo"><b>11 jun 2025</b> · Aprovada a Emenda.</p>
 
 | | |
 |---|---|

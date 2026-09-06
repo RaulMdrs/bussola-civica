@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei Complementar nº 11, de 2026. (2026-05-27)"
-description: "Como os senadores gaúchos votou em 2026-05-27: Votação nominal do Projeto de Lei Complementar nº 11, de 2026."
+title: "Votação nominal do Projeto de Lei Complementar nº 11, de 2026. (27 mai 2026)"
+description: "Como os senadores gaúchos votou em 27 mai 2026: Votação nominal do Projeto de Lei Complementar nº 11, de 2026."
 ---
 
-# Votação de 2026-05-27
+# Votação de 27 mai 2026
 
-<p class="subtitulo"><b>2026-05-27</b> · Votação nominal do Projeto de Lei Complementar nº 11, de 2026.</p>
+<p class="subtitulo"><b>27 mai 2026</b> · Votação nominal do Projeto de Lei Complementar nº 11, de 2026.</p>
 
 | | |
 |---|---|

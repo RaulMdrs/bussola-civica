@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 163/2025 — Aprovado o Projeto de Lei Complementar nº 163, de 2025, ressalvad (2025-09-24)"
-description: "Como a bancada gaúcha votou em 2025-09-24: Aprovado o Projeto de Lei Complementar nº 163, de 2025, ressalvados os destaques. Sim: 296; Não: 145; Abstençã"
+title: "PLP 163/2025 — Aprovado o Projeto de Lei Complementar nº 163, de 2025, ressalvad (24 set 2025)"
+description: "Como a bancada gaúcha votou em 24 set 2025: Aprovado o Projeto de Lei Complementar nº 163, de 2025, ressalvados os destaques. Sim: 296; Não: 145; Abstençã"
 ---
 
 # PLP 163/2025
 
-<p class="subtitulo"><b>2025-09-24</b> · Aprovado o Projeto de Lei Complementar nº 163, de 2025, ressalvados os destaques.</p>
+<p class="subtitulo"><b>24 set 2025</b> · Aprovado o Projeto de Lei Complementar nº 163, de 2025, ressalvados os destaques.</p>
 
 | | |
 |---|---|

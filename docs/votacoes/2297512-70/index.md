@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 609/2021 — Aprovado o Projeto de Decreto Legislativo nº 609, de 2021. . (2025-05-29)"
-description: "Como a bancada gaúcha votou em 2025-05-29: Aprovado o Projeto de Decreto Legislativo nº 609, de 2021. . Sim: 392; Não: 7; Total: 399."
+title: "PDL 609/2021 — Aprovado o Projeto de Decreto Legislativo nº 609, de 2021. . (29 mai 2025)"
+description: "Como a bancada gaúcha votou em 29 mai 2025: Aprovado o Projeto de Decreto Legislativo nº 609, de 2021. . Sim: 392; Não: 7; Total: 399."
 ---
 
 # PDL 609/2021
 
-<p class="subtitulo"><b>2025-05-29</b> · Aprovado o Projeto de Decreto Legislativo nº 609, de 2021. .</p>
+<p class="subtitulo"><b>29 mai 2025</b> · Aprovado o Projeto de Decreto Legislativo nº 609, de 2021. .</p>
 
 | | |
 |---|---|

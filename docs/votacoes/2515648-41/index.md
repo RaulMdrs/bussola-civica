@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 214/2025 — Aprovado o Requerimento. (2025-06-25)"
-description: "Como a bancada gaúcha votou em 2025-06-25: Aprovado o Requerimento. Sim: 353; Não: 102; Total: 455."
+title: "PDL 214/2025 — Aprovado o Requerimento. (25 jun 2025)"
+description: "Como a bancada gaúcha votou em 25 jun 2025: Aprovado o Requerimento. Sim: 353; Não: 102; Total: 455."
 ---
 
 # PDL 214/2025
 
-<p class="subtitulo"><b>2025-06-25</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>25 jun 2025</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

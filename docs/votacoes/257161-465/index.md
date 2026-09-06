@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2159/2021 — Aprovada a Emenda do Senado Federal nº 3. (2025-07-16)"
-description: "Como a bancada gaúcha votou em 2025-07-16: Aprovada a Emenda do Senado Federal nº 3. Sim: 232; Não: 104; Total: 336."
+title: "PL 2159/2021 — Aprovada a Emenda do Senado Federal nº 3. (16 jul 2025)"
+description: "Como a bancada gaúcha votou em 16 jul 2025: Aprovada a Emenda do Senado Federal nº 3. Sim: 232; Não: 104; Total: 336."
 ---
 
 # PL 2159/2021
 
-<p class="subtitulo"><b>2025-07-16</b> · Aprovada a Emenda do Senado Federal nº 3.</p>
+<p class="subtitulo"><b>16 jul 2025</b> · Aprovada a Emenda do Senado Federal nº 3.</p>
 
 | | |
 |---|---|

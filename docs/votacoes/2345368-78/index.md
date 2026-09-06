@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1150/2022 — Rejeitada a Emenda nº 1 e restabelecidos os dispositivos aprovad (2023-05-24)"
-description: "Como a bancada gaúcha votou em 2023-05-24: Rejeitada a Emenda nº 1 e restabelecidos os dispositivos aprovados pela câmara consubstanciados no Projeto de "
+title: "MPV 1150/2022 — Rejeitada a Emenda nº 1 e restabelecidos os dispositivos aprovad (24 mai 2023)"
+description: "Como a bancada gaúcha votou em 24 mai 2023: Rejeitada a Emenda nº 1 e restabelecidos os dispositivos aprovados pela câmara consubstanciados no Projeto de "
 ---
 
 # MPV 1150/2022
 
-<p class="subtitulo"><b>2023-05-24</b> · Rejeitada a Emenda nº 1 e restabelecidos os dispositivos aprovados pela câmara consubstanciados no Projeto de Lei de Conversão nº 6, de 2023.</p>
+<p class="subtitulo"><b>24 mai 2023</b> · Rejeitada a Emenda nº 1 e restabelecidos os dispositivos aprovados pela câmara consubstanciados no Projeto de Lei de Conversão nº 6, de 2023.</p>
 
 | | |
 |---|---|

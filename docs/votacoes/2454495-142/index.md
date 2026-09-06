@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 66/2023 — Aprovado o Requerimento. (2025-07-15)"
-description: "Como a bancada gaúcha votou em 2025-07-15: Aprovado o Requerimento. Sim: 338; Não: 28; Total: 366."
+title: "PEC 66/2023 — Aprovado o Requerimento. (15 jul 2025)"
+description: "Como a bancada gaúcha votou em 15 jul 2025: Aprovado o Requerimento. Sim: 338; Não: 28; Total: 366."
 ---
 
 # PEC 66/2023
 
-<p class="subtitulo"><b>2025-07-15</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>15 jul 2025</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

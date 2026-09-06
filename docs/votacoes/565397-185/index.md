@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5010/2013 — Rejeitada a Emenda de Plenário nº 1. (2024-10-16)"
-description: "Como a bancada gaúcha votou em 2024-10-16: Rejeitada a Emenda de Plenário nº 1. Sim: 149; Não: 204; Total: 353."
+title: "PL 5010/2013 — Rejeitada a Emenda de Plenário nº 1. (16 out 2024)"
+description: "Como a bancada gaúcha votou em 16 out 2024: Rejeitada a Emenda de Plenário nº 1. Sim: 149; Não: 204; Total: 353."
 ---
 
 # PL 5010/2013
 
-<p class="subtitulo"><b>2024-10-16</b> · Rejeitada a Emenda de Plenário nº 1.</p>
+<p class="subtitulo"><b>16 out 2024</b> · Rejeitada a Emenda de Plenário nº 1.</p>
 
 | | |
 |---|---|

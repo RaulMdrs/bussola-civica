@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Emenda nº 1 (Substitutivo) ao PL nº 2.088/2023, com subemenda (2025-04-01)"
-description: "Como os senadores gaúchos votou em 2025-04-01: Votação nominal da Emenda nº 1 (Substitutivo) ao PL nº 2.088/2023, com subemendas, nos termos do parecer da CA"
+title: "Votação nominal da Emenda nº 1 (Substitutivo) ao PL nº 2.088/2023, com subemenda (01 abr 2025)"
+description: "Como os senadores gaúchos votou em 01 abr 2025: Votação nominal da Emenda nº 1 (Substitutivo) ao PL nº 2.088/2023, com subemendas, nos termos do parecer da CA"
 ---
 
-# Votação de 2025-04-01
+# Votação de 01 abr 2025
 
-<p class="subtitulo"><b>2025-04-01</b> · Votação nominal da Emenda nº 1 (Substitutivo) ao PL nº 2.088/2023, com subemendas, nos termos do parecer da CAE.</p>
+<p class="subtitulo"><b>01 abr 2025</b> · Votação nominal da Emenda nº 1 (Substitutivo) ao PL nº 2.088/2023, com subemendas, nos termos do parecer da CAE.</p>
 
 | | |
 |---|---|

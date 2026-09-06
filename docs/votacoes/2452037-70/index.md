@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3117/2024 — Rejeitado o Requerimento. (2024-09-18)"
-description: "Como a bancada gaúcha votou em 2024-09-18: Rejeitado o Requerimento. Sim: 22; Não: 342; Abstenção: 2; Total: 366."
+title: "PL 3117/2024 — Rejeitado o Requerimento. (18 set 2024)"
+description: "Como a bancada gaúcha votou em 18 set 2024: Rejeitado o Requerimento. Sim: 22; Não: 342; Abstenção: 2; Total: 366."
 ---
 
 # PL 3117/2024
 
-<p class="subtitulo"><b>2024-09-18</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>18 set 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

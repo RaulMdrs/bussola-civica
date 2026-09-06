@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3819/2024 — Rejeitado o Requerimento. (2024-11-27)"
-description: "Como a bancada gaúcha votou em 2024-11-27: Rejeitado o Requerimento. Sim: 44; Não: 321; Abstenção: 2; Total: 367."
+title: "PL 3819/2024 — Rejeitado o Requerimento. (27 nov 2024)"
+description: "Como a bancada gaúcha votou em 27 nov 2024: Rejeitado o Requerimento. Sim: 44; Não: 321; Abstenção: 2; Total: 367."
 ---
 
 # PL 3819/2024
 
-<p class="subtitulo"><b>2024-11-27</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>27 nov 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4364/2020 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-04-16)"
-description: "Como a bancada gaúcha votou em 2024-04-16: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 366; total: 366."
+title: "PL 4364/2020 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (16 abr 2024)"
+description: "Como a bancada gaúcha votou em 16 abr 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 366; total: 366."
 ---
 
 # PL 4364/2020
 
-<p class="subtitulo"><b>2024-04-16</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>16 abr 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5582/2025 — Rejeitado o Requerimento. (2025-11-18)"
-description: "Como a bancada gaúcha votou em 2025-11-18: Rejeitado o Requerimento. Sim: 114; Não: 335; Total: 449."
+title: "PL 5582/2025 — Rejeitado o Requerimento. (18 nov 2025)"
+description: "Como a bancada gaúcha votou em 18 nov 2025: Rejeitado o Requerimento. Sim: 114; Não: 335; Total: 449."
 ---
 
 # PL 5582/2025
 
-<p class="subtitulo"><b>2025-11-18</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>18 nov 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

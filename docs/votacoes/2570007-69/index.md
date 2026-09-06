@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5041/2025 — Aprovada a Emenda de Plenário nº 6. (2025-10-28)"
-description: "Como a bancada gaúcha votou em 2025-10-28: Aprovada a Emenda de Plenário nº 6. Sim: 426; Não: 17; Total: 443."
+title: "PL 5041/2025 — Aprovada a Emenda de Plenário nº 6. (28 out 2025)"
+description: "Como a bancada gaúcha votou em 28 out 2025: Aprovada a Emenda de Plenário nº 6. Sim: 426; Não: 17; Total: 443."
 ---
 
 # PL 5041/2025
 
-<p class="subtitulo"><b>2025-10-28</b> · Aprovada a Emenda de Plenário nº 6.</p>
+<p class="subtitulo"><b>28 out 2025</b> · Aprovada a Emenda de Plenário nº 6.</p>
 
 | | |
 |---|---|

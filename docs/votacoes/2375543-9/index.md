@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2245/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2023-08-09)"
-description: "Como a bancada gaúcha votou em 2023-08-09: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 300; não: 118; abstenção: 1; total: 419."
+title: "PL 2245/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (09 ago 2023)"
+description: "Como a bancada gaúcha votou em 09 ago 2023: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 300; não: 118; abstenção: 1; total: 419."
 ---
 
 # PL 2245/2023
 
-<p class="subtitulo"><b>2023-08-09</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>09 ago 2023</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

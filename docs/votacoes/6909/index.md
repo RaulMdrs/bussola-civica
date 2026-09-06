@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Emenda nº 1 ao Projeto de Lei nº 4.932, de 2024, destacada. (2024-12-18)"
-description: "Como os senadores gaúchos votou em 2024-12-18: Votação nominal da Emenda nº 1 ao Projeto de Lei nº 4.932, de 2024, destacada."
+title: "Votação nominal da Emenda nº 1 ao Projeto de Lei nº 4.932, de 2024, destacada. (18 dez 2024)"
+description: "Como os senadores gaúchos votou em 18 dez 2024: Votação nominal da Emenda nº 1 ao Projeto de Lei nº 4.932, de 2024, destacada."
 ---
 
-# Votação de 2024-12-18
+# Votação de 18 dez 2024
 
-<p class="subtitulo"><b>2024-12-18</b> · Votação nominal da Emenda nº 1 ao Projeto de Lei nº 4.932, de 2024, destacada.</p>
+<p class="subtitulo"><b>18 dez 2024</b> · Votação nominal da Emenda nº 1 ao Projeto de Lei nº 4.932, de 2024, destacada.</p>
 
 | | |
 |---|---|

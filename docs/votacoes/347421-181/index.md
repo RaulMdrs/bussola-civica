@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 31/2007 — Rejeitado o Requerimento. (2024-12-18)"
-description: "Como a bancada gaúcha votou em 2024-12-18: Rejeitado o Requerimento. Sim: 147; Não: 295; Total: 442."
+title: "PEC 31/2007 — Rejeitado o Requerimento. (18 dez 2024)"
+description: "Como a bancada gaúcha votou em 18 dez 2024: Rejeitado o Requerimento. Sim: 147; Não: 295; Total: 442."
 ---
 
 # PEC 31/2007
 
-<p class="subtitulo"><b>2024-12-18</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>18 dez 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

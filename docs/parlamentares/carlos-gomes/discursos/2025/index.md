@@ -19,7 +19,7 @@ description: "Os discursos de Carlos Gomes em 2025, com o sumário oficial e lin
 ## Substantivos — 1
 
 <blockquote class="evidencia discurso" id="d-2501">
-<span class="data">2025-05-27 · 11:56</span>
+<span class="data">27 mai 2025 · 11:56</span>
 <div class="corpo">
 <p class="tipo">HOMENAGEM</p>
 <p>O Deputado discursou na Sessão Solene em homenagem aos 65 anos da Confederação Nacional de Dirigentes Lojistas (CNDL) e ao Dia Livre de Impostos. Destacou a liderança do Presidente da CNDL, José César da Costa, elogiando sua postura discreta e eficaz na condução da entidade. Ressaltou o papel da CNDL na articulação nacional do setor varejista e celebrou a presença de representantes dos 27 Estados, considerando sinal de uma liderança que une e mobiliza. Destacou que a homenagem valorizou também o compromisso da base estadual e a importância da força coletiva para superar os desafios do Brasil. Encerrou prestando reconhecimento à resiliência e à dedicação dos lojistas.</p>

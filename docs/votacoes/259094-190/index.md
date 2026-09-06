@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 293/2004 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição n (2023-12-15)"
-description: "Como a bancada gaúcha votou em 2023-12-15: Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques. Sim:"
+title: "PEC 293/2004 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição n (15 dez 2023)"
+description: "Como a bancada gaúcha votou em 15 dez 2023: Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques. Sim:"
 ---
 
 # PEC 293/2004
 
-<p class="subtitulo"><b>2023-12-15</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques.</p>
+<p class="subtitulo"><b>15 dez 2023</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques.</p>
 
 | | |
 |---|---|

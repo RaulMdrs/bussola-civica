@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5230/2023 — Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 5. (2024-07-09)"
-description: "Como a bancada gaúcha votou em 2024-07-09: Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 5.230, de 2023,com parecer pela aprovação, ress"
+title: "PL 5230/2023 — Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 5. (09 jul 2024)"
+description: "Como a bancada gaúcha votou em 09 jul 2024: Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 5.230, de 2023,com parecer pela aprovação, ress"
 ---
 
 # PL 5230/2023
 
-<p class="subtitulo"><b>2024-07-09</b> · Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 5.230, de 2023,com parecer pela aprovação, ressalvados os dispositivos com parecer pela rejeição.</p>
+<p class="subtitulo"><b>09 jul 2024</b> · Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 5.230, de 2023,com parecer pela aprovação, ressalvados os dispositivos com parecer pela rejeição.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3880/2024 — Rejeitado o Recurso nº 6/2026 contra parecer terminativo da Comis (2026-03-18)"
-description: "Como a bancada gaúcha votou em 2026-03-18: Rejeitado o Recurso nº 6/2026 contra parecer terminativo da Comissão de Constituição e Justiça e de Cidadania "
+title: "PL 3880/2024 — Rejeitado o Recurso nº 6/2026 contra parecer terminativo da Comis (18 mar 2026)"
+description: "Como a bancada gaúcha votou em 18 mar 2026: Rejeitado o Recurso nº 6/2026 contra parecer terminativo da Comissão de Constituição e Justiça e de Cidadania "
 ---
 
 # PL 3880/2024
 
-<p class="subtitulo"><b>2026-03-18</b> · Rejeitado o Recurso nº 6/2026 contra parecer terminativo da Comissão de Constituição e Justiça e de Cidadania à Emenda de Plenário de nº 3 oferecida ao Projeto de Lei nº 3.880, de 2024 (Art. 132, § 2º C/C Art. 144, Caput, RICD).</p>
+<p class="subtitulo"><b>18 mar 2026</b> · Rejeitado o Recurso nº 6/2026 contra parecer terminativo da Comissão de Constituição e Justiça e de Cidadania à Emenda de Plenário de nº 3 oferecida ao Projeto de Lei nº 3.880, de 2024 (Art. 132, § 2º C/C Art. 144, Caput, RICD).</p>
 
 | | |
 |---|---|

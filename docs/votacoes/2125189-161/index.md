@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 7082/2017 — Rejeitado o Requerimento. (2023-11-29)"
-description: "Como a bancada gaúcha votou em 2023-11-29: Rejeitado o Requerimento. Sim: 98; não: 292; abstenção: 1; total: 391."
+title: "PL 7082/2017 — Rejeitado o Requerimento. (29 nov 2023)"
+description: "Como a bancada gaúcha votou em 29 nov 2023: Rejeitado o Requerimento. Sim: 98; não: 292; abstenção: 1; total: 391."
 ---
 
 # PL 7082/2017
 
-<p class="subtitulo"><b>2023-11-29</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>29 nov 2023</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

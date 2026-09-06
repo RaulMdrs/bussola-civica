@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei Complementar nº 205, de 2023, nos termos do Pa (2023-11-14)"
-description: "Como os senadores gaúchos votou em 2023-11-14: Votação nominal do Projeto de Lei Complementar nº 205, de 2023, nos termos do Parecer."
+title: "Votação nominal do Projeto de Lei Complementar nº 205, de 2023, nos termos do Pa (14 nov 2023)"
+description: "Como os senadores gaúchos votou em 14 nov 2023: Votação nominal do Projeto de Lei Complementar nº 205, de 2023, nos termos do Parecer."
 ---
 
-# Votação de 2023-11-14
+# Votação de 14 nov 2023
 
-<p class="subtitulo"><b>2023-11-14</b> · Votação nominal do Projeto de Lei Complementar nº 205, de 2023, nos termos do Parecer.</p>
+<p class="subtitulo"><b>14 nov 2023</b> · Votação nominal do Projeto de Lei Complementar nº 205, de 2023, nos termos do Parecer.</p>
 
 | | |
 |---|---|

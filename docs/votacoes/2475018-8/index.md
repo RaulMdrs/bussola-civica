@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 210/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-12-04)"
-description: "Como a bancada gaúcha votou em 2024-12-04: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 260; Não: 98; Abstenção: 2; Total: 360."
+title: "PLP 210/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (04 dez 2024)"
+description: "Como a bancada gaúcha votou em 04 dez 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 260; Não: 98; Abstenção: 2; Total: 360."
 ---
 
 # PLP 210/2024
 
-<p class="subtitulo"><b>2024-12-04</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>04 dez 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

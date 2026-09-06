@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1112/2023 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.1 (2025-07-02)"
-description: "Como a bancada gaúcha votou em 2025-07-02: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.112, de 2023, adotada pelo relator da Comissão"
+title: "PL 1112/2023 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.1 (02 jul 2025)"
+description: "Como a bancada gaúcha votou em 02 jul 2025: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.112, de 2023, adotada pelo relator da Comissão"
 ---
 
 # PL 1112/2023
 
-<p class="subtitulo"><b>2025-07-02</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.112, de 2023, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania.</p>
+<p class="subtitulo"><b>02 jul 2025</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.112, de 2023, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania.</p>
 
 | | |
 |---|---|

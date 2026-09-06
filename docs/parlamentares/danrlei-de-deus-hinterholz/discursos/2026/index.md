@@ -19,7 +19,7 @@ description: "Os discursos de Danrlei de Deus Hinterholz em 2026, com o sumário
 ## Substantivos — 1
 
 <blockquote class="evidencia discurso" id="d-2248">
-<span class="data">2026-05-26 · 14:24</span>
+<span class="data">26 mai 2026 · 14:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado convidou os Parlamentares para participarem de audiência pública da Comissão do Esporte destinada a debater a importância da prática esportiva no desenvolvimento de pessoas com Síndrome de Down e Transtorno do Espectro Autista (TEA). O encontro, previsto para o dia 10 de julho, às 14 horas, terá como foco os impactos positivos do esporte na inclusão, no desenvolvimento social e na qualidade de vida de crianças e jovens com TEA e outras condições. Também destacou a crescente relevância do tema e defendeu a ampliação do debate sobre políticas públicas voltadas à inclusão por meio do esporte.</p>

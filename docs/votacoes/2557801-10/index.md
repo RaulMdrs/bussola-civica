@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2213/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2025-10-29)"
-description: "Como a bancada gaúcha votou em 2025-10-29: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 382; Não: 33; Total: 415."
+title: "PL 2213/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (29 out 2025)"
+description: "Como a bancada gaúcha votou em 29 out 2025: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 382; Não: 33; Total: 415."
 ---
 
 # PL 2213/2025
 
-<p class="subtitulo"><b>2025-10-29</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>29 out 2025</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

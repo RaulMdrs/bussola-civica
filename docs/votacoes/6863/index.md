@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Emenda nº 76 (Substitutivo) ao PLP nº 121/2024, nos termos do (2024-08-14)"
-description: "Como os senadores gaúchos votou em 2024-08-14: Votação nominal da Emenda nº 76 (Substitutivo) ao PLP nº 121/2024, nos termos do parecer."
+title: "Votação nominal da Emenda nº 76 (Substitutivo) ao PLP nº 121/2024, nos termos do (14 ago 2024)"
+description: "Como os senadores gaúchos votou em 14 ago 2024: Votação nominal da Emenda nº 76 (Substitutivo) ao PLP nº 121/2024, nos termos do parecer."
 ---
 
-# Votação de 2024-08-14
+# Votação de 14 ago 2024
 
-<p class="subtitulo"><b>2024-08-14</b> · Votação nominal da Emenda nº 76 (Substitutivo) ao PLP nº 121/2024, nos termos do parecer.</p>
+<p class="subtitulo"><b>14 ago 2024</b> · Votação nominal da Emenda nº 76 (Substitutivo) ao PLP nº 121/2024, nos termos do parecer.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 175/2024 — Rejeitada a Emenda de Plenário n° 29. (2024-11-05)"
-description: "Como a bancada gaúcha votou em 2024-11-05: Rejeitada a Emenda de Plenário n° 29. Sim: 25; Não: 348; Abstenção: 1; Total: 374."
+title: "PLP 175/2024 — Rejeitada a Emenda de Plenário n° 29. (05 nov 2024)"
+description: "Como a bancada gaúcha votou em 05 nov 2024: Rejeitada a Emenda de Plenário n° 29. Sim: 25; Não: 348; Abstenção: 1; Total: 374."
 ---
 
 # PLP 175/2024
 
-<p class="subtitulo"><b>2024-11-05</b> · Rejeitada a Emenda de Plenário n° 29.</p>
+<p class="subtitulo"><b>05 nov 2024</b> · Rejeitada a Emenda de Plenário n° 29.</p>
 
 | | |
 |---|---|

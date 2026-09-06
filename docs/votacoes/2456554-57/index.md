@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3449/2024 — Aprovada a Emenda de Plenario n° 10. (2024-10-30)"
-description: "Como a bancada gaúcha votou em 2024-10-30: Aprovada a Emenda de Plenario n° 10. Sim: 227; Não: 198; Abstenção: 2; Total: 427."
+title: "PL 3449/2024 — Aprovada a Emenda de Plenario n° 10. (30 out 2024)"
+description: "Como a bancada gaúcha votou em 30 out 2024: Aprovada a Emenda de Plenario n° 10. Sim: 227; Não: 198; Abstenção: 2; Total: 427."
 ---
 
 # PL 3449/2024
 
-<p class="subtitulo"><b>2024-10-30</b> · Aprovada a Emenda de Plenario n° 10.</p>
+<p class="subtitulo"><b>30 out 2024</b> · Aprovada a Emenda de Plenario n° 10.</p>
 
 | | |
 |---|---|

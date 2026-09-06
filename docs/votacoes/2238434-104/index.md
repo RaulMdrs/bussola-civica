@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 528/2020 — Rejeitado o Art. 15 da Emenda de Plenário nº 4. (2024-03-13)"
-description: "Como a bancada gaúcha votou em 2024-03-13: Rejeitado o Art. 15 da Emenda de Plenário nº 4. Sim: 38; não: 376; abstenção: 1; total: 415."
+title: "PL 528/2020 — Rejeitado o Art. 15 da Emenda de Plenário nº 4. (13 mar 2024)"
+description: "Como a bancada gaúcha votou em 13 mar 2024: Rejeitado o Art. 15 da Emenda de Plenário nº 4. Sim: 38; não: 376; abstenção: 1; total: 415."
 ---
 
 # PL 528/2020
 
-<p class="subtitulo"><b>2024-03-13</b> · Rejeitado o Art. 15 da Emenda de Plenário nº 4.</p>
+<p class="subtitulo"><b>13 mar 2024</b> · Rejeitado o Art. 15 da Emenda de Plenário nº 4.</p>
 
 | | |
 |---|---|

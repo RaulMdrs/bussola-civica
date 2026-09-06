@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1087/2025 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.0 (2025-10-01)"
-description: "Como a bancada gaúcha votou em 2025-10-01: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.087, de 2025, adotada pelo relator da Comissão"
+title: "PL 1087/2025 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.0 (01 out 2025)"
+description: "Como a bancada gaúcha votou em 01 out 2025: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.087, de 2025, adotada pelo relator da Comissão"
 ---
 
 # PL 1087/2025
 
-<p class="subtitulo"><b>2025-10-01</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.087, de 2025, adotada pelo relator da Comissão Especial.</p>
+<p class="subtitulo"><b>01 out 2025</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.087, de 2025, adotada pelo relator da Comissão Especial.</p>
 
 | | |
 |---|---|

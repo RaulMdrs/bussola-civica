@@ -30,6 +30,19 @@
   var fragmentos = null; // preenchido na primeira busca
   var carregando = null;
 
+  /**
+   * `2026-09-03` → `03 set 2026`. Espelha `dataHumana()` no gerador.
+   *
+   * O fragmento guarda ISO porque é o que ordena; a forma humana é só de
+   * exibição, e por isso é feita aqui e não enviada pronta.
+   */
+  var MESES = ["jan","fev","mar","abr","mai","jun","jul","ago","set","out","nov","dez"];
+  function dataHumana(iso) {
+    var m = /^(\d{4})-(\d{2})-(\d{2})/.exec(iso);
+    if (!m) return iso;
+    return m[3] + " " + (MESES[Number(m[2]) - 1] || m[2]) + " " + m[1];
+  }
+
   /** Idêntica a `dobrar()` no gerador. Se divergirem, a busca mente. */
   function dobrar(s) {
     return s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
@@ -122,7 +135,7 @@
 
     var bq = elemento("blockquote", "evidencia discurso");
     var data = elemento("span", "data");
-    data.appendChild(texto(f.d[i]));
+    data.appendChild(texto(dataHumana(f.d[i])));
     bq.appendChild(data);
 
     var corpo = elemento("div", "corpo");

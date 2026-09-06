@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "CMC 1/2024 — Aprovado o parecer da Comissão de Constituição e Justiça e de Cidad (2024-04-10)"
-description: "Como a bancada gaúcha votou em 2024-04-10: Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Comunicação de Medida Cautelar nº 1/"
+title: "CMC 1/2024 — Aprovado o parecer da Comissão de Constituição e Justiça e de Cidad (10 abr 2024)"
+description: "Como a bancada gaúcha votou em 10 abr 2024: Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Comunicação de Medida Cautelar nº 1/"
 ---
 
 # CMC 1/2024
 
-<p class="subtitulo"><b>2024-04-10</b> · Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Comunicação de Medida Cautelar nº 1/2024.</p>
+<p class="subtitulo"><b>10 abr 2024</b> · Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Comunicação de Medida Cautelar nº 1/2024.</p>
 
 | | |
 |---|---|

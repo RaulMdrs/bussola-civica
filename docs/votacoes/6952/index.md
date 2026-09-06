@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Emenda nº 3 ao Projeto de Lei Complementar nº 177, de 2023, d (2025-06-25)"
-description: "Como os senadores gaúchos votou em 2025-06-25: Votação nominal da Emenda nº 3 ao Projeto de Lei Complementar nº 177, de 2023, destacada."
+title: "Votação nominal da Emenda nº 3 ao Projeto de Lei Complementar nº 177, de 2023, d (25 jun 2025)"
+description: "Como os senadores gaúchos votou em 25 jun 2025: Votação nominal da Emenda nº 3 ao Projeto de Lei Complementar nº 177, de 2023, destacada."
 ---
 
-# Votação de 2025-06-25
+# Votação de 25 jun 2025
 
-<p class="subtitulo"><b>2025-06-25</b> · Votação nominal da Emenda nº 3 ao Projeto de Lei Complementar nº 177, de 2023, destacada.</p>
+<p class="subtitulo"><b>25 jun 2025</b> · Votação nominal da Emenda nº 3 ao Projeto de Lei Complementar nº 177, de 2023, destacada.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 314/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2025-06-16)"
-description: "Como a bancada gaúcha votou em 2025-06-16: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 346; Não: 97; Total: 443."
+title: "PDL 314/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (16 jun 2025)"
+description: "Como a bancada gaúcha votou em 16 jun 2025: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 346; Não: 97; Total: 443."
 ---
 
 # PDL 314/2025
 
-<p class="subtitulo"><b>2025-06-16</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>16 jun 2025</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 7906/2014 — Mantido o texto. (2025-06-11)"
-description: "Como a bancada gaúcha votou em 2025-06-11: Mantido o texto. Sim: 225; Não: 117; Total: 342."
+title: "PL 7906/2014 — Mantido o texto. (11 jun 2025)"
+description: "Como a bancada gaúcha votou em 11 jun 2025: Mantido o texto. Sim: 225; Não: 117; Total: 342."
 ---
 
 # PL 7906/2014
 
-<p class="subtitulo"><b>2025-06-11</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>11 jun 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

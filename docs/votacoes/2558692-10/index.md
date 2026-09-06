@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2780/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2025-09-18)"
-description: "Como a bancada gaúcha votou em 2025-09-18: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 369; Não: 38; Total: 407."
+title: "PL 2780/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (18 set 2025)"
+description: "Como a bancada gaúcha votou em 18 set 2025: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 369; Não: 38; Total: 407."
 ---
 
 # PL 2780/2024
 
-<p class="subtitulo"><b>2025-09-18</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>18 set 2025</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

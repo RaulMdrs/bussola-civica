@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Emenda nº 2.171(Substitutivo) ao PLP 68/24 com Emendas e supr (2024-12-12)"
-description: "Como os senadores gaúchos votou em 2024-12-12: Votação nominal da Emenda nº 2.171(Substitutivo) ao PLP 68/24 com Emendas e supressão, nos termos dos parecere"
+title: "Votação nominal da Emenda nº 2.171(Substitutivo) ao PLP 68/24 com Emendas e supr (12 dez 2024)"
+description: "Como os senadores gaúchos votou em 12 dez 2024: Votação nominal da Emenda nº 2.171(Substitutivo) ao PLP 68/24 com Emendas e supressão, nos termos dos parecere"
 ---
 
-# Votação de 2024-12-12
+# Votação de 12 dez 2024
 
-<p class="subtitulo"><b>2024-12-12</b> · Votação nominal da Emenda nº 2.171(Substitutivo) ao PLP 68/24 com Emendas e supressão, nos termos dos pareceres, ressalvados os destaques.</p>
+<p class="subtitulo"><b>12 dez 2024</b> · Votação nominal da Emenda nº 2.171(Substitutivo) ao PLP 68/24 com Emendas e supressão, nos termos dos pareceres, ressalvados os destaques.</p>
 
 | | |
 |---|---|

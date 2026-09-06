@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1268/2024 — Aprovado o Requerimento. (2025-04-01)"
-description: "Como a bancada gaúcha votou em 2025-04-01: Aprovado o Requerimento. Sim: 308; Não: 88; Total: 396."
+title: "MPV 1268/2024 — Aprovado o Requerimento. (01 abr 2025)"
+description: "Como a bancada gaúcha votou em 01 abr 2025: Aprovado o Requerimento. Sim: 308; Não: 88; Total: 396."
 ---
 
 # MPV 1268/2024
 
-<p class="subtitulo"><b>2025-04-01</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>01 abr 2025</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

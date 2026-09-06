@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1185/2023 — Rejeitada a Emenda de Comissão nº 72. (2023-12-15)"
-description: "Como a bancada gaúcha votou em 2023-12-15: Rejeitada a Emenda de Comissão nº 72. Sim: 50; não: 320; total: 370."
+title: "MPV 1185/2023 — Rejeitada a Emenda de Comissão nº 72. (15 dez 2023)"
+description: "Como a bancada gaúcha votou em 15 dez 2023: Rejeitada a Emenda de Comissão nº 72. Sim: 50; não: 320; total: 370."
 ---
 
 # MPV 1185/2023
 
-<p class="subtitulo"><b>2023-12-15</b> · Rejeitada a Emenda de Comissão nº 72.</p>
+<p class="subtitulo"><b>15 dez 2023</b> · Rejeitada a Emenda de Comissão nº 72.</p>
 
 | | |
 |---|---|

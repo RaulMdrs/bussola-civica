@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Requerimento nº 369, de 2024, do Senador Flávio Bolsonaro, qu (2024-05-22)"
-description: "Como os senadores gaúchos votou em 2024-05-22: Votação nominal do Requerimento nº 369, de 2024, do Senador Flávio Bolsonaro, que solicita a preferência para "
+title: "Votação nominal do Requerimento nº 369, de 2024, do Senador Flávio Bolsonaro, qu (22 mai 2024)"
+description: "Como os senadores gaúchos votou em 22 mai 2024: Votação nominal do Requerimento nº 369, de 2024, do Senador Flávio Bolsonaro, que solicita a preferência para "
 ---
 
-# Votação de 2024-05-22
+# Votação de 22 mai 2024
 
-<p class="subtitulo"><b>2024-05-22</b> · Votação nominal do Requerimento nº 369, de 2024, do Senador Flávio Bolsonaro, que solicita a preferência para a votação da Emenda n° 23 (Substitutivo) em relação à Emenda nº 13 (Substitutivo).</p>
+<p class="subtitulo"><b>22 mai 2024</b> · Votação nominal do Requerimento nº 369, de 2024, do Senador Flávio Bolsonaro, que solicita a preferência para a votação da Emenda n° 23 (Substitutivo) em relação à Emenda nº 13 (Substitutivo).</p>
 
 | | |
 |---|---|

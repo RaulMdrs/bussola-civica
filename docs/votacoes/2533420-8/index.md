@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1881/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2025-07-15)"
-description: "Como a bancada gaúcha votou em 2025-07-15: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 323; Não: 55; Abstenção: 2; Total: 380."
+title: "PL 1881/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (15 jul 2025)"
+description: "Como a bancada gaúcha votou em 15 jul 2025: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 323; Não: 55; Abstenção: 2; Total: 380."
 ---
 
 # PL 1881/2025
 
-<p class="subtitulo"><b>2025-07-15</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>15 jul 2025</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 204/2021 — Rejeitado o Requerimento. (2025-04-10)"
-description: "Como a bancada gaúcha votou em 2025-04-10: Rejeitado o Requerimento. Sim: 37; Não: 278; Abstenção: 1; Total: 316."
+title: "PDL 204/2021 — Rejeitado o Requerimento. (10 abr 2025)"
+description: "Como a bancada gaúcha votou em 10 abr 2025: Rejeitado o Requerimento. Sim: 37; Não: 278; Abstenção: 1; Total: 316."
 ---
 
 # PDL 204/2021
 
-<p class="subtitulo"><b>2025-04-10</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>10 abr 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

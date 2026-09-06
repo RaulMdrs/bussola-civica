@@ -19,7 +19,7 @@ description: "Os discursos de Franciane Bayer em 2024, com o sumário oficial e 
 ## Substantivos — 5
 
 <blockquote class="evidencia discurso" id="d-4335">
-<span class="data">2024-06-12 · 15:00</span>
+<span class="data">12 jun 2024 · 15:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>A Deputada destacou a dor e a necessidade de reconstrução do Rio Grande do Sul após as enchentes. Ela criticou a insuficiência de ajuda prática apesar dos muitos anúncios do Governo e pediu mais apoio. Expressou esperança, citando trecho da Bíblia sobre a cura e restauração da cidade e do povo.</p>
@@ -28,7 +28,7 @@ description: "Os discursos de Franciane Bayer em 2024, com o sumário oficial e 
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4334">
-<span class="data">2024-04-24 · 14:12</span>
+<span class="data">24 abr 2024 · 14:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>A Deputada parabenizou a Igreja Assembleia de Deus Gideões, de Pelotas (RS), pelos 37 anos de fundação, a serem celebrados no dia 28 de abril. Destacou o alcance nacional e internacional da igreja, que mantém famílias missionárias em nove Estados brasileiros e seis países, realizando trabalhos de assistência espiritual e social. Também prestou homenagem ao Pastor Presidente Adão Madeira pelo seu compromisso em propagar o Evangelho e realizar atividades missionárias e sociais. Expressou votos de bênçãos e reconhecimento pelo trabalho realizado pela igreja ao longo desses anos.</p>
@@ -37,7 +37,7 @@ description: "Os discursos de Franciane Bayer em 2024, com o sumário oficial e 
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4333">
-<span class="data">2024-04-17 · 16:36</span>
+<span class="data">17 abr 2024 · 16:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>A Deputada celebrou uma vitória na defesa da vida ao registrar a aprovação, na Comissão da Família, de uma moção de apoio ao Conselho Federal de Medicina contra o aborto indiscriminado após 22 semanas de gestação. Destacou o posicionamento do povo brasileiro em defesa da vida e contra o aborto, reafirmando o compromisso de ser a voz das crianças indefesas e defender o direito à vida desde a concepção. Enfatizou que o direito à vida é fundamental e propôs a votação do Projeto de Lei nº 434, de 2021, que dispõe sobre a proteção integral do nascituro e dá outras providências.</p>
@@ -46,7 +46,7 @@ description: "Os discursos de Franciane Bayer em 2024, com o sumário oficial e 
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4332">
-<span class="data">2024-03-13 · 16:20</span>
+<span class="data">13 mar 2024 · 16:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>A Deputada expressou sua indignação com as declarações do Ministro do Supremo Tribunal Federal, Gilmar Mendes, que associaram os evangélicos ao narcotráfico. Ela destacou o papel das igrejas cristãs, incluindo os evangélicos, no combate às drogas e rejeitou qualquer estigma injusto sobre essa comunidade religiosa.</p>
@@ -55,7 +55,7 @@ description: "Os discursos de Franciane Bayer em 2024, com o sumário oficial e 
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4331">
-<span class="data">2024-03-13 · 16:04</span>
+<span class="data">13 mar 2024 · 16:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>A Deputada abordou a exploração sexual na Ilha do Marajó (PA), relembrando denúncias feitas pela ex-Ministra dos Direitos Humanos, Damares Alves em 2022. Ela questionou a descredibilização dessas denúncias e destacou a necessidade de investigar e proteger as vítimas. Mencionou também a repercussão de uma música que abordou o tema, reforçando a importância de não silenciar sobre esse assunto e de promover investigações através de Comissão Externa ou Comissão Parlamentar de Inquérito. Concluiu reafirmando o compromisso de proteger as crianças do Brasil e de continuar lutando contra essa forma de exploração.</p>

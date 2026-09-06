@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei nº 2.162, de 2023, nos termos do parecer. (2025-12-17)"
-description: "Como os senadores gaúchos votou em 2025-12-17: Votação nominal do Projeto de Lei nº 2.162, de 2023, nos termos do parecer."
+title: "Votação nominal do Projeto de Lei nº 2.162, de 2023, nos termos do parecer. (17 dez 2025)"
+description: "Como os senadores gaúchos votou em 17 dez 2025: Votação nominal do Projeto de Lei nº 2.162, de 2023, nos termos do parecer."
 ---
 
-# Votação de 2025-12-17
+# Votação de 17 dez 2025
 
-<p class="subtitulo"><b>2025-12-17</b> · Votação nominal do Projeto de Lei nº 2.162, de 2023, nos termos do parecer.</p>
+<p class="subtitulo"><b>17 dez 2025</b> · Votação nominal do Projeto de Lei nº 2.162, de 2023, nos termos do parecer.</p>
 
 | | |
 |---|---|

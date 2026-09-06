@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3453/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-09-11)"
-description: "Como a bancada gaúcha votou em 2024-09-11: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 296; Não: 104; Abstenção: 2; Total: 402."
+title: "PL 3453/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (11 set 2024)"
+description: "Como a bancada gaúcha votou em 11 set 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 296; Não: 104; Abstenção: 2; Total: 402."
 ---
 
 # PL 3453/2024
 
-<p class="subtitulo"><b>2024-09-11</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>11 set 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

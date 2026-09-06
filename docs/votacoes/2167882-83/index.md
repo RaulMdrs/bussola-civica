@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 9543/2018 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 9.5 (2024-02-28)"
-description: "Como a bancada gaúcha votou em 2024-02-28: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 9.543, de 2018, adotada pelo relator da Comissão"
+title: "PL 9543/2018 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 9.5 (28 fev 2024)"
+description: "Como a bancada gaúcha votou em 28 fev 2024: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 9.543, de 2018, adotada pelo relator da Comissão"
 ---
 
 # PL 9543/2018
 
-<p class="subtitulo"><b>2024-02-28</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 9.543, de 2018, adotada pelo relator da Comissão de Minas e Energia.</p>
+<p class="subtitulo"><b>28 fev 2024</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 9.543, de 2018, adotada pelo relator da Comissão de Minas e Energia.</p>
 
 | | |
 |---|---|

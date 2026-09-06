@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 331/2020 — Aprovado o Substitutivo ao Projeto de Lei nº 331, de 2020, adotado (2025-11-26)"
-description: "Como a bancada gaúcha votou em 2025-11-26: Aprovado o Substitutivo ao Projeto de Lei nº 331, de 2020, adotado pelo relator da Comissão de Constituição e "
+title: "PL 331/2020 — Aprovado o Substitutivo ao Projeto de Lei nº 331, de 2020, adotado (26 nov 2025)"
+description: "Como a bancada gaúcha votou em 26 nov 2025: Aprovado o Substitutivo ao Projeto de Lei nº 331, de 2020, adotado pelo relator da Comissão de Constituição e "
 ---
 
 # PL 331/2020
 
-<p class="subtitulo"><b>2025-11-26</b> · Aprovado o Substitutivo ao Projeto de Lei nº 331, de 2020, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania.</p>
+<p class="subtitulo"><b>26 nov 2025</b> · Aprovado o Substitutivo ao Projeto de Lei nº 331, de 2020, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania.</p>
 
 | | |
 |---|---|

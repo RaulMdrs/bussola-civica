@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3268/2021 — Aprovado o Projeto de Lei nº 3.268, de 2021. (2023-11-29)"
-description: "Como a bancada gaúcha votou em 2023-11-29: Aprovado o Projeto de Lei nº 3.268, de 2021. Sim: 286; não: 121; abstenção: 2; total: 409."
+title: "PL 3268/2021 — Aprovado o Projeto de Lei nº 3.268, de 2021. (29 nov 2023)"
+description: "Como a bancada gaúcha votou em 29 nov 2023: Aprovado o Projeto de Lei nº 3.268, de 2021. Sim: 286; não: 121; abstenção: 2; total: 409."
 ---
 
 # PL 3268/2021
 
-<p class="subtitulo"><b>2023-11-29</b> · Aprovado o Projeto de Lei nº 3.268, de 2021.</p>
+<p class="subtitulo"><b>29 nov 2023</b> · Aprovado o Projeto de Lei nº 3.268, de 2021.</p>
 
 | | |
 |---|---|

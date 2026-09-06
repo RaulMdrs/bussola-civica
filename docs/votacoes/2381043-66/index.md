@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4035/2023 — Mantido o texto. (2023-11-22)"
-description: "Como a bancada gaúcha votou em 2023-11-22: Mantido o texto. Sim: 205; não: 53; abstenção: 5; total: 263."
+title: "PL 4035/2023 — Mantido o texto. (22 nov 2023)"
+description: "Como a bancada gaúcha votou em 22 nov 2023: Mantido o texto. Sim: 205; não: 53; abstenção: 5; total: 263."
 ---
 
 # PL 4035/2023
 
-<p class="subtitulo"><b>2023-11-22</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>22 nov 2023</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

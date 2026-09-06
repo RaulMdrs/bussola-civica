@@ -7,7 +7,7 @@ description: "Como Luiz Carlos Busato vota: alinhamento com o governo federal e 
 
 # Luiz Carlos Busato
 
-<p class="subtitulo"><b>UNIÃO</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-01-31</b></p>
+<p class="subtitulo"><b>UNIÃO</b> · deputado federal pelo RS · titular · em exercício desde <b>31 jan 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-05-20</span>
+<span class="data">20 mai 2026</span>
 <div class="corpo">
 <p>Resultado. <span class="placar">Sim: 182; Não: 182; Abstenção: 2; Total: 366.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-03-18</span>
+<span class="data">18 mar 2026</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 232; Não: 151; Abstenção: 1; Total: 384.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-03-18</span>
+<span class="data">18 mar 2026</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 232; Não: 151; Abstenção: 1; Total: 384.</span></p>
 <p class="referencia">Maioria do partido: sim (22 sim / 19 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-03-03</span>
+<span class="data">03 mar 2026</span>
 <div class="corpo">
 <p>Aprovado o Projeto de Lei nº 5.490, de 2025. <span class="placar">Sim: 248; Não: 164; Abstenção: 2; Total: 414.</span></p>
 <p class="referencia">Maioria do partido: nao (20 sim / 23 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-12-16</span>
+<span class="data">16 dez 2025</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 286; Não: 116; Total: 402.</span></p>
 <p class="referencia">Maioria do partido: sim (32 sim / 16 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -148,7 +148,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-199">
-<span class="data">2026-02-24 · 15:44</span>
+<span class="data">24 fev 2026 · 15:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado destacou a visita da Prefeita de Estrela (RS), Carine Schwingel, ao plenário da Câmara. Afirmou que a Prefeita é parceira do União Brasil e aproveitou a oportunidade para apresentá-la à Casa. Fez homenagem à gestora, elogiando sua atuação à frente do Município e ressaltando sua importância como liderança feminina no Rio Grande do Sul.</p>
@@ -157,7 +157,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-198">
-<span class="data">2025-10-28 · 21:44</span>
+<span class="data">28 out 2025 · 21:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado afirmou que a função da Defensoria Pública é justamente atender as comunidades mais distantes e do interior, defendendo, por isso, a rejeição do destaque em discussão.</p>
@@ -166,7 +166,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-197">
-<span class="data">2025-10-28 · 21:12</span>
+<span class="data">28 out 2025 · 21:12</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
 <p>O Deputado proferiu parecer ao Projeto de Lei nº 1.881, de 2025, que cria&amp;nbsp;e estrutura o Fundo de Fortalecimento do Acesso à Justiça, Promoção dos Direitos Fundamentais e Estruturação da Defensoria Pública da União (FDPU). Além disso, ressaltou a importância da DPU na prestação de assistência jurídica gratuita à população vulnerável e relatou vínculo pessoal com a Defensoria por meio de seu pai, que foi defensor público estadual. Ainda, destacou que o fundo será composto por parte das custas judiciais, doações e emendas parlamentares, sem gerar aumento de despesa pública, e será aplicado na ampliação da estrutura, modernização tecnológica e expansão do atendimento, com prestação de contas em portal de transparência. Por fim, ressaltou que a medida contribui para a democratização do acesso à Justiça e está alinhada com esforços nacionais de modernização do Judiciário.</p>
@@ -175,7 +175,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-196">
-<span class="data">2025-05-28 · 15:24</span>
+<span class="data">28 mai 2025 · 15:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado alertou para o impacto das redes sociais na vida de crianças e adolescentes e defendeu o Projeto de Lei nº 2.387, de 2025, de sua autoria, que proíbe o acesso de menores de 16 anos a redes sociais e plataformas digitais como TikTok, Facebook, entre outras. Comparou o ambiente virtual à exposição de menores a espaços públicos sem supervisão, apontando os riscos da interação com desconhecidos nessas redes. Por fim, ressaltou que a proposição estabelece a obrigação das plataformas de verificar com eficácia a idade dos usuários como forma de proteção aos menores.</p>
@@ -184,7 +184,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-195">
-<span class="data">2025-05-06 · 14:24</span>
+<span class="data">06 mai 2025 · 14:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado defendeu a proibição da publicidade das chamadas &quot;bets&quot;, plataformas de apostas esportivas, por todos os meios de comunicação, incluindo redes sociais e plataformas digitais. Apresentou o Projeto de Lei nº 2.092, de 2025, com esse objetivo, argumentando que essas propagandas transformam o vício em entretenimento e atingem especialmente crianças e adolescentes, promovendo uma ilusão de dinheiro fácil que pode levar ao endividamento e sofrimento de famílias. Comparou a medida à proibição de propagandas de cigarro e bebidas alcoólicas, destacando a importância de proteger a saúde mental da juventude e colocar o interesse coletivo acima do lucro.</p>

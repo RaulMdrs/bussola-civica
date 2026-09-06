@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1303/2025 — Aprovado o Requerimento. (2025-10-08)"
-description: "Como a bancada gaúcha votou em 2025-10-08: Aprovado o Requerimento. Sim: 251; Não: 193; Total: 444."
+title: "MPV 1303/2025 — Aprovado o Requerimento. (08 out 2025)"
+description: "Como a bancada gaúcha votou em 08 out 2025: Aprovado o Requerimento. Sim: 251; Não: 193; Total: 444."
 ---
 
 # MPV 1303/2025
 
-<p class="subtitulo"><b>2025-10-08</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>08 out 2025</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

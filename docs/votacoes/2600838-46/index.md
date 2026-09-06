@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 278/2026 — Rejeitada a Emenda de Plenário nº 68. (2026-02-24)"
-description: "Como a bancada gaúcha votou em 2026-02-24: Rejeitada a Emenda de Plenário nº 68. Sim: 105; Não: 232; Total: 337."
+title: "PL 278/2026 — Rejeitada a Emenda de Plenário nº 68. (24 fev 2026)"
+description: "Como a bancada gaúcha votou em 24 fev 2026: Rejeitada a Emenda de Plenário nº 68. Sim: 105; Não: 232; Total: 337."
 ---
 
 # PL 278/2026
 
-<p class="subtitulo"><b>2026-02-24</b> · Rejeitada a Emenda de Plenário nº 68.</p>
+<p class="subtitulo"><b>24 fev 2026</b> · Rejeitada a Emenda de Plenário nº 68.</p>
 
 | | |
 |---|---|

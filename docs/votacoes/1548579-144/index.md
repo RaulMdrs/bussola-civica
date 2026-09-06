@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 182/2024 — Mantido o texto. (2023-12-21)"
-description: "Como a bancada gaúcha votou em 2023-12-21: Mantido o texto. Sim: 301; não: 81; total: 382."
+title: "PL 182/2024 — Mantido o texto. (21 dez 2023)"
+description: "Como a bancada gaúcha votou em 21 dez 2023: Mantido o texto. Sim: 301; não: 81; total: 382."
 ---
 
 # PL 182/2024
 
-<p class="subtitulo"><b>2023-12-21</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>21 dez 2023</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

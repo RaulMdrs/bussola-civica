@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Expressão do §19 do art. 165 da Constituição, constante do ar (2025-09-02)"
-description: "Como os senadores gaúchos votou em 2025-09-02: Votação nominal da Expressão do §19 do art. 165 da Constituição, constante do art. 1º da PEC nº 66/2023, desta"
+title: "Votação nominal da Expressão do §19 do art. 165 da Constituição, constante do ar (02 set 2025)"
+description: "Como os senadores gaúchos votou em 02 set 2025: Votação nominal da Expressão do §19 do art. 165 da Constituição, constante do art. 1º da PEC nº 66/2023, desta"
 ---
 
-# Votação de 2025-09-02
+# Votação de 02 set 2025
 
-<p class="subtitulo"><b>2025-09-02</b> · Votação nominal da Expressão do §19 do art. 165 da Constituição, constante do art. 1º da PEC nº 66/2023, destacada.</p>
+<p class="subtitulo"><b>02 set 2025</b> · Votação nominal da Expressão do §19 do art. 165 da Constituição, constante do art. 1º da PEC nº 66/2023, destacada.</p>
 
 | | |
 |---|---|

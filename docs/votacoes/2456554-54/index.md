@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3449/2024 — Rejeitada a Emenda de Plenário n° 9. (2024-10-30)"
-description: "Como a bancada gaúcha votou em 2024-10-30: Rejeitada a Emenda de Plenário n° 9. Sim: 135; Não: 229; Total: 364."
+title: "PL 3449/2024 — Rejeitada a Emenda de Plenário n° 9. (30 out 2024)"
+description: "Como a bancada gaúcha votou em 30 out 2024: Rejeitada a Emenda de Plenário n° 9. Sim: 135; Não: 229; Total: 364."
 ---
 
 # PL 3449/2024
 
-<p class="subtitulo"><b>2024-10-30</b> · Rejeitada a Emenda de Plenário n° 9.</p>
+<p class="subtitulo"><b>30 out 2024</b> · Rejeitada a Emenda de Plenário n° 9.</p>
 
 | | |
 |---|---|

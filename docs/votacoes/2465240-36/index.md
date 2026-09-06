@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3118/2024 — Mantido o texto. (2025-06-25)"
-description: "Como a bancada gaúcha votou em 2025-06-25: Mantido o texto. Sim: 295; Não: 80; Abstenção: 2; Total: 377."
+title: "PL 3118/2024 — Mantido o texto. (25 jun 2025)"
+description: "Como a bancada gaúcha votou em 25 jun 2025: Mantido o texto. Sim: 295; Não: 80; Abstenção: 2; Total: 377."
 ---
 
 # PL 3118/2024
 
-<p class="subtitulo"><b>2025-06-25</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>25 jun 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

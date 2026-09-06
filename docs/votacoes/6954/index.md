@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Art. 2º do Projeto de Lei de Conversão nº 2, de 2025, destaca (2025-07-01)"
-description: "Como os senadores gaúchos votou em 2025-07-01: Votação nominal do Art. 2º do Projeto de Lei de Conversão nº 2, de 2025, destacado."
+title: "Votação nominal do Art. 2º do Projeto de Lei de Conversão nº 2, de 2025, destaca (01 jul 2025)"
+description: "Como os senadores gaúchos votou em 01 jul 2025: Votação nominal do Art. 2º do Projeto de Lei de Conversão nº 2, de 2025, destacado."
 ---
 
-# Votação de 2025-07-01
+# Votação de 01 jul 2025
 
-<p class="subtitulo"><b>2025-07-01</b> · Votação nominal do Art. 2º do Projeto de Lei de Conversão nº 2, de 2025, destacado.</p>
+<p class="subtitulo"><b>01 jul 2025</b> · Votação nominal do Art. 2º do Projeto de Lei de Conversão nº 2, de 2025, destacado.</p>
 
 | | |
 |---|---|

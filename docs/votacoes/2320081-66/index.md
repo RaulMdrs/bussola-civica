@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 57/2022 — Aprovado o Projeto de Lei Complementar nº 57, de 2022. (2024-08-14)"
-description: "Como a bancada gaúcha votou em 2024-08-14: Aprovado o Projeto de Lei Complementar nº 57, de 2022. Sim: 423; não: 21; abstenção: 1; total: 445."
+title: "PLP 57/2022 — Aprovado o Projeto de Lei Complementar nº 57, de 2022. (14 ago 2024)"
+description: "Como a bancada gaúcha votou em 14 ago 2024: Aprovado o Projeto de Lei Complementar nº 57, de 2022. Sim: 423; não: 21; abstenção: 1; total: 445."
 ---
 
 # PLP 57/2022
 
-<p class="subtitulo"><b>2024-08-14</b> · Aprovado o Projeto de Lei Complementar nº 57, de 2022.</p>
+<p class="subtitulo"><b>14 ago 2024</b> · Aprovado o Projeto de Lei Complementar nº 57, de 2022.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 164/2012 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 164, de (2024-08-28)"
-description: "Como a bancada gaúcha votou em 2024-08-28: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 164, de 2012, adotado pela relatora da Comissão de F"
+title: "PLP 164/2012 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 164, de (28 ago 2024)"
+description: "Como a bancada gaúcha votou em 28 ago 2024: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 164, de 2012, adotado pela relatora da Comissão de F"
 ---
 
 # PLP 164/2012
 
-<p class="subtitulo"><b>2024-08-28</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 164, de 2012, adotado pela relatora da Comissão de Finanças e Tributação, ressalvados os destaques.</p>
+<p class="subtitulo"><b>28 ago 2024</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 164, de 2012, adotado pela relatora da Comissão de Finanças e Tributação, ressalvados os destaques.</p>
 
 | | |
 |---|---|

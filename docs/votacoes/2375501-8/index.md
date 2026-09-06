@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4015/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2023-08-08)"
-description: "Como a bancada gaúcha votou em 2023-08-08: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 346; não: 34; total: 380."
+title: "PL 4015/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (08 ago 2023)"
+description: "Como a bancada gaúcha votou em 08 ago 2023: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 346; não: 34; total: 380."
 ---
 
 # PL 4015/2023
 
-<p class="subtitulo"><b>2023-08-08</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>08 ago 2023</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

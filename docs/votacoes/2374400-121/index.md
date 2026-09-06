@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3626/2023 — Rejeitada a Emenda do Senado Federal nº 3. (2023-12-21)"
-description: "Como a bancada gaúcha votou em 2023-12-21: Rejeitada a Emenda do Senado Federal nº 3. Sim: 120; não: 261; abstenção: 1; total: 382."
+title: "PL 3626/2023 — Rejeitada a Emenda do Senado Federal nº 3. (21 dez 2023)"
+description: "Como a bancada gaúcha votou em 21 dez 2023: Rejeitada a Emenda do Senado Federal nº 3. Sim: 120; não: 261; abstenção: 1; total: 382."
 ---
 
 # PL 3626/2023
 
-<p class="subtitulo"><b>2023-12-21</b> · Rejeitada a Emenda do Senado Federal nº 3.</p>
+<p class="subtitulo"><b>21 dez 2023</b> · Rejeitada a Emenda do Senado Federal nº 3.</p>
 
 | | |
 |---|---|

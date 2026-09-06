@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 7906/2014 — Aprovada a Redação Final assinada pelo relator, Luiz Fernando Far (2025-06-11)"
-description: "Como a bancada gaúcha votou em 2025-06-11: Aprovada a Redação Final assinada pelo relator, Luiz Fernando Faria (PSD-MG). Sim: 204; Não: 108; Total: 312."
+title: "PL 7906/2014 — Aprovada a Redação Final assinada pelo relator, Luiz Fernando Far (11 jun 2025)"
+description: "Como a bancada gaúcha votou em 11 jun 2025: Aprovada a Redação Final assinada pelo relator, Luiz Fernando Faria (PSD-MG). Sim: 204; Não: 108; Total: 312."
 ---
 
 # PL 7906/2014
 
-<p class="subtitulo"><b>2025-06-11</b> · Aprovada a Redação Final assinada pelo relator, Luiz Fernando Faria (PSD-MG).</p>
+<p class="subtitulo"><b>11 jun 2025</b> · Aprovada a Redação Final assinada pelo relator, Luiz Fernando Faria (PSD-MG).</p>
 
 | | |
 |---|---|

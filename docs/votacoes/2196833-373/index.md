@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 45/2019 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº (2023-07-06)"
-description: "Como a bancada gaúcha votou em 2023-07-06: Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques. Sim:"
+title: "PEC 45/2019 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº (06 jul 2023)"
+description: "Como a bancada gaúcha votou em 06 jul 2023: Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques. Sim:"
 ---
 
 # PEC 45/2019
 
-<p class="subtitulo"><b>2023-07-06</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques.</p>
+<p class="subtitulo"><b>06 jul 2023</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 93/2023 — Rejeitadas as Emendas do Senado Federal ao Projeto de Lei Compleme (2023-08-22)"
-description: "Como a bancada gaúcha votou em 2023-08-22: Rejeitadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 93-B, de 2023, nºs 1, 2, 3, 5, 6, 7,"
+title: "PLP 93/2023 — Rejeitadas as Emendas do Senado Federal ao Projeto de Lei Compleme (22 ago 2023)"
+description: "Como a bancada gaúcha votou em 22 ago 2023: Rejeitadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 93-B, de 2023, nºs 1, 2, 3, 5, 6, 7,"
 ---
 
 # PLP 93/2023
 
-<p class="subtitulo"><b>2023-08-22</b> · Rejeitadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 93-B, de 2023, nºs 1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 13 e 15, ressalvados os destaques.</p>
+<p class="subtitulo"><b>22 ago 2023</b> · Rejeitadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 93-B, de 2023, nºs 1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 13 e 15, ressalvados os destaques.</p>
 
 | | |
 |---|---|

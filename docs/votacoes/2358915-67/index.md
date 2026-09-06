@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2245/2023 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.2 (2023-10-04)"
-description: "Como a bancada gaúcha votou em 2023-10-04: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.245, de 2023, adotada pelo Relator da Comissão"
+title: "PL 2245/2023 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.2 (04 out 2023)"
+description: "Como a bancada gaúcha votou em 04 out 2023: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.245, de 2023, adotada pelo Relator da Comissão"
 ---
 
 # PL 2245/2023
 
-<p class="subtitulo"><b>2023-10-04</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.245, de 2023, adotada pelo Relator da Comissão de Educação, ressalvados os destaques.</p>
+<p class="subtitulo"><b>04 out 2023</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.245, de 2023, adotada pelo Relator da Comissão de Educação, ressalvados os destaques.</p>
 
 | | |
 |---|---|

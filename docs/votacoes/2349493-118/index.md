@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 709/2023 — Rejeitado o Destaque. (2024-05-22)"
-description: "Como a bancada gaúcha votou em 2024-05-22: Rejeitado o Destaque. Sim: 148; não: 292; total: 440."
+title: "PL 709/2023 — Rejeitado o Destaque. (22 mai 2024)"
+description: "Como a bancada gaúcha votou em 22 mai 2024: Rejeitado o Destaque. Sim: 148; não: 292; total: 440."
 ---
 
 # PL 709/2023
 
-<p class="subtitulo"><b>2024-05-22</b> · Rejeitado o Destaque.</p>
+<p class="subtitulo"><b>22 mai 2024</b> · Rejeitado o Destaque.</p>
 
 | | |
 |---|---|

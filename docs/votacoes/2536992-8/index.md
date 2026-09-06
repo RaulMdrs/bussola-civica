@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 41/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2025-08-12)"
-description: "Como a bancada gaúcha votou em 2025-08-12: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 384; Não: 13; Total: 397."
+title: "PL 41/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (12 ago 2025)"
+description: "Como a bancada gaúcha votou em 12 ago 2025: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 384; Não: 13; Total: 397."
 ---
 
 # PL 41/2025
 
-<p class="subtitulo"><b>2025-08-12</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>12 ago 2025</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

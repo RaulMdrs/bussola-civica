@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6240/2013 — Rejeitada a Emenda de Plenário ao Substitutivo. (2026-03-02)"
-description: "Como a bancada gaúcha votou em 2026-03-02: Rejeitada a Emenda de Plenário ao Substitutivo. Sim: 194; Não: 207; Abstenção: 3; Total: 404."
+title: "PL 6240/2013 — Rejeitada a Emenda de Plenário ao Substitutivo. (02 mar 2026)"
+description: "Como a bancada gaúcha votou em 02 mar 2026: Rejeitada a Emenda de Plenário ao Substitutivo. Sim: 194; Não: 207; Abstenção: 3; Total: 404."
 ---
 
 # PL 6240/2013
 
-<p class="subtitulo"><b>2026-03-02</b> · Rejeitada a Emenda de Plenário ao Substitutivo.</p>
+<p class="subtitulo"><b>02 mar 2026</b> · Rejeitada a Emenda de Plenário ao Substitutivo.</p>
 
 | | |
 |---|---|

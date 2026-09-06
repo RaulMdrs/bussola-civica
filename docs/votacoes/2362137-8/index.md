@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 7687/2017 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2023-05-16)"
-description: "Como a bancada gaúcha votou em 2023-05-16: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 356; não: 89; abstenção: 1; total: 446."
+title: "PL 7687/2017 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (16 mai 2023)"
+description: "Como a bancada gaúcha votou em 16 mai 2023: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 356; não: 89; abstenção: 1; total: 446."
 ---
 
 # PL 7687/2017
 
-<p class="subtitulo"><b>2023-05-16</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>16 mai 2023</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1213/2024 — Rejeitada a Emenda de Plenário nº 26. (2024-05-21)"
-description: "Como a bancada gaúcha votou em 2024-05-21: Rejeitada a Emenda de Plenário nº 26. Sim: 179; não: 229; total: 408."
+title: "PL 1213/2024 — Rejeitada a Emenda de Plenário nº 26. (21 mai 2024)"
+description: "Como a bancada gaúcha votou em 21 mai 2024: Rejeitada a Emenda de Plenário nº 26. Sim: 179; não: 229; total: 408."
 ---
 
 # PL 1213/2024
 
-<p class="subtitulo"><b>2024-05-21</b> · Rejeitada a Emenda de Plenário nº 26.</p>
+<p class="subtitulo"><b>21 mai 2024</b> · Rejeitada a Emenda de Plenário nº 26.</p>
 
 | | |
 |---|---|

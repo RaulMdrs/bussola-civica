@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6132/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2026-02-10)"
-description: "Como a bancada gaúcha votou em 2026-02-10: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 277; Não: 119; Abstenção: 1; Total: 397."
+title: "PL 6132/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (10 fev 2026)"
+description: "Como a bancada gaúcha votou em 10 fev 2026: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 277; Não: 119; Abstenção: 1; Total: 397."
 ---
 
 # PL 6132/2025
 
-<p class="subtitulo"><b>2026-02-10</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>10 fev 2026</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

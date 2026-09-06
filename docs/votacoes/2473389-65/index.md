@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 210/2024 — Rejeitada a Emenda de Plenário nº 19. (2024-12-17)"
-description: "Como a bancada gaúcha votou em 2024-12-17: Rejeitada a Emenda de Plenário nº 19. Sim: 186; Não: 256; Total: 442."
+title: "PLP 210/2024 — Rejeitada a Emenda de Plenário nº 19. (17 dez 2024)"
+description: "Como a bancada gaúcha votou em 17 dez 2024: Rejeitada a Emenda de Plenário nº 19. Sim: 186; Não: 256; Total: 442."
 ---
 
 # PLP 210/2024
 
-<p class="subtitulo"><b>2024-12-17</b> · Rejeitada a Emenda de Plenário nº 19.</p>
+<p class="subtitulo"><b>17 dez 2024</b> · Rejeitada a Emenda de Plenário nº 19.</p>
 
 | | |
 |---|---|

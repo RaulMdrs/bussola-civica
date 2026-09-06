@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 3/2025 — Aprovado o Requerimento. (2025-11-05)"
-description: "Como a bancada gaúcha votou em 2025-11-05: Aprovado o Requerimento. Sim: 310; Não: 120; Abstenção: 1; Total: 431."
+title: "PDL 3/2025 — Aprovado o Requerimento. (05 nov 2025)"
+description: "Como a bancada gaúcha votou em 05 nov 2025: Aprovado o Requerimento. Sim: 310; Não: 120; Abstenção: 1; Total: 431."
 ---
 
 # PDL 3/2025
 
-<p class="subtitulo"><b>2025-11-05</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>05 nov 2025</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1343/2026 — Rejeitada a Emenda n° 102. (2026-06-17)"
-description: "Como a bancada gaúcha votou em 2026-06-17: Rejeitada a Emenda n° 102. Sim: 22; Não: 378; Abstenção: 1; Total: 401."
+title: "MPV 1343/2026 — Rejeitada a Emenda n° 102. (17 jun 2026)"
+description: "Como a bancada gaúcha votou em 17 jun 2026: Rejeitada a Emenda n° 102. Sim: 22; Não: 378; Abstenção: 1; Total: 401."
 ---
 
 # MPV 1343/2026
 
-<p class="subtitulo"><b>2026-06-17</b> · Rejeitada a Emenda n° 102.</p>
+<p class="subtitulo"><b>17 jun 2026</b> · Rejeitada a Emenda n° 102.</p>
 
 | | |
 |---|---|

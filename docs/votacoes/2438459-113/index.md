@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 108/2024 — Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Compl (2025-12-15)"
-description: "Como a bancada gaúcha votou em 2025-12-15: Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 108, de 2024, com parecer pela apr"
+title: "PLP 108/2024 — Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Compl (15 dez 2025)"
+description: "Como a bancada gaúcha votou em 15 dez 2025: Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 108, de 2024, com parecer pela apr"
 ---
 
 # PLP 108/2024
 
-<p class="subtitulo"><b>2025-12-15</b> · Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 108, de 2024, com parecer pela aprovação, excetuadas as modificações indicadas no Parecer da Comissão de Indústria, Comércio e Serviços.</p>
+<p class="subtitulo"><b>15 dez 2025</b> · Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 108, de 2024, com parecer pela aprovação, excetuadas as modificações indicadas no Parecer da Comissão de Indústria, Comércio e Serviços.</p>
 
 | | |
 |---|---|

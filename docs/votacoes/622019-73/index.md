@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 7906/2014 — Aprovado o Projeto de Lei nº 7.906, de 2014, ressalvados os desta (2025-06-11)"
-description: "Como a bancada gaúcha votou em 2025-06-11: Aprovado o Projeto de Lei nº 7.906, de 2014, ressalvados os destaques. Sim: 204; Não: 128; Total: 332."
+title: "PL 7906/2014 — Aprovado o Projeto de Lei nº 7.906, de 2014, ressalvados os desta (11 jun 2025)"
+description: "Como a bancada gaúcha votou em 11 jun 2025: Aprovado o Projeto de Lei nº 7.906, de 2014, ressalvados os destaques. Sim: 204; Não: 128; Total: 332."
 ---
 
 # PL 7906/2014
 
-<p class="subtitulo"><b>2025-06-11</b> · Aprovado o Projeto de Lei nº 7.906, de 2014, ressalvados os destaques.</p>
+<p class="subtitulo"><b>11 jun 2025</b> · Aprovado o Projeto de Lei nº 7.906, de 2014, ressalvados os destaques.</p>
 
 | | |
 |---|---|

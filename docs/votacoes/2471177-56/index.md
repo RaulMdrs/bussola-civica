@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4497/2024 — Aprovado o Substitutivo ao Projeto de Lei nº 4.497, de 2024, adot (2025-06-10)"
-description: "Como a bancada gaúcha votou em 2025-06-10: Aprovado o Substitutivo ao Projeto de Lei nº 4.497, de 2024, adotado pela relatora da Comissão de Relações Ext"
+title: "PL 4497/2024 — Aprovado o Substitutivo ao Projeto de Lei nº 4.497, de 2024, adot (10 jun 2025)"
+description: "Como a bancada gaúcha votou em 10 jun 2025: Aprovado o Substitutivo ao Projeto de Lei nº 4.497, de 2024, adotado pela relatora da Comissão de Relações Ext"
 ---
 
 # PL 4497/2024
 
-<p class="subtitulo"><b>2025-06-10</b> · Aprovado o Substitutivo ao Projeto de Lei nº 4.497, de 2024, adotado pela relatora da Comissão de Relações Exteriores e de Defesa Nacional, ressalvados os destaques.</p>
+<p class="subtitulo"><b>10 jun 2025</b> · Aprovado o Substitutivo ao Projeto de Lei nº 4.497, de 2024, adotado pela relatora da Comissão de Relações Exteriores e de Defesa Nacional, ressalvados os destaques.</p>
 
 | | |
 |---|---|

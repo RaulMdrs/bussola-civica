@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1924/2025 — Rejeitado o Requerimento. (2025-10-14)"
-description: "Como a bancada gaúcha votou em 2025-10-14: Rejeitado o Requerimento. Sim: 13; Não: 409; Total: 422."
+title: "PL 1924/2025 — Rejeitado o Requerimento. (14 out 2025)"
+description: "Como a bancada gaúcha votou em 14 out 2025: Rejeitado o Requerimento. Sim: 13; Não: 409; Total: 422."
 ---
 
 # PL 1924/2025
 
-<p class="subtitulo"><b>2025-10-14</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>14 out 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

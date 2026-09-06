@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1154/2023 — Rejeitada a Emenda de Comissão nº 14. (2023-05-31)"
-description: "Como a bancada gaúcha votou em 2023-05-31: Rejeitada a Emenda de Comissão nº 14. Sim: 182; não: ; 243; abstenção: 2; total: 427."
+title: "MPV 1154/2023 — Rejeitada a Emenda de Comissão nº 14. (31 mai 2023)"
+description: "Como a bancada gaúcha votou em 31 mai 2023: Rejeitada a Emenda de Comissão nº 14. Sim: 182; não: ; 243; abstenção: 2; total: 427."
 ---
 
 # MPV 1154/2023
 
-<p class="subtitulo"><b>2023-05-31</b> · Rejeitada a Emenda de Comissão nº 14.</p>
+<p class="subtitulo"><b>31 mai 2023</b> · Rejeitada a Emenda de Comissão nº 14.</p>
 
 | | |
 |---|---|

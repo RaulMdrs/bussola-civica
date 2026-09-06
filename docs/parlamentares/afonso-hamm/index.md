@@ -7,7 +7,7 @@ description: "Como Afonso Hamm vota: alinhamento com o governo federal e coesão
 
 # Afonso Hamm
 
-<p class="subtitulo"><b>PP</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>PP</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-05-20</span>
+<span class="data">20 mai 2026</span>
 <div class="corpo">
 <p>Resultado. <span class="placar">Sim: 182; Não: 182; Abstenção: 2; Total: 366.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-05-06</span>
+<span class="data">06 mai 2026</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 343; Não: 97; Abstenção: 1; Total: 441.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-04-22</span>
+<span class="data">22 abr 2026</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 252; Não: 161; Total: 413.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 80, de 2026, adotado pelo relator da Comissão de Finanças e Tributação. <span class="placar">Sim: 327; Não: 26; Total: 353.</span></p>
 <p class="referencia">Maioria do partido: sim (29 sim / 2 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
 <p class="referencia">Maioria do partido: sim (34 sim / 2 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-05-20</span>
+<span class="data">20 mai 2026</span>
 <div class="corpo">
 <p>Rejeitada a Emenda de Plenário nº 2. <span class="placar">Sim: 196; Não: 200; Abstenção: 1; Total: 397.</span></p>
 <p class="referencia">Maioria do partido: nao (13 sim / 14 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -148,7 +148,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-13137">
-<span class="data">2026-08-11 · 16:24</span>
+<span class="data">11 ago 2026 · 16:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado criticou a Medida Provisória nº 1.376, de 2026, destinada à renegociação de dívidas de produtores rurais afetados por eventos climáticos, por considerar que a regulamentação deixa a concessão do refinanciamento a critério das instituições financeiras, sem garantir o acesso dos agricultores que preencham os requisitos. Além disso, destacou a aprovação, pela Câmara dos Deputados e pelo Senado Federal, do Projeto de Lei nº 5.122, de 2023, do qual foi Relator, que prevê medidas para o alongamento das dívidas rurais, e informou ter apresentado nove emendas à medida provisória para aproximá-la do texto aprovado pelo Congresso Nacional. Ademais, ressaltou as perdas provocadas por sucessivas estiagens e pelas enchentes no Rio Grande do Sul e defendeu a renegociação como necessária à continuidade da produção agropecuária. Por fim, solicitou a instalação da Comissão Mista destinada a analisar a medida provisória e manifestou interesse em assumir sua relatoria.</p>
@@ -157,7 +157,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-179">
-<span class="data">2026-06-30 · 15:12</span>
+<span class="data">30 jun 2026 · 15:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado registrou a presença de lideranças do agro do Rio Grande do Sul em Brasília e defendeu a inclusão do Projeto de Lei nº 5.122, de 2023, na pauta do Colégio de Líderes, em reunião com o Presidente Hugo Motta. Além disso, saudou o Município de São Lourenço do Sul (RS) e os agricultores do Rio Grande do Sul e do País, ao sustentar que a proposta permitiria alongar a dívida rural, ampliar o prazo para pagamento e assegurar juros módicos, com uso de recursos de fundos e sem ônus ao Tesouro.</p>
@@ -166,7 +166,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-178">
-<span class="data">2026-06-16 · 20:52</span>
+<span class="data">16 jun 2026 · 20:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado informou que, em articulação com a Presidência da Casa e com a liderança do Progressistas, recebeu a designação para relatar o Projeto de Lei nº 5.122, de 2023, que alongava a dívida dos agricultores e buscava mitigar os efeitos climáticos sobre a produção. Além disso, afirmou que o texto havia sido aprovado no Senado na semana anterior e defendeu a inclusão da matéria na pauta de votação com urgência, em apoio ao agro brasileiro.</p>
@@ -175,7 +175,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-177">
-<span class="data">2026-05-27 · 18:44</span>
+<span class="data">27 mai 2026 · 18:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado defendeu o Projeto de Lei nº 2.951, de 2024, que altera a Lei nº 8.171, de 17 de janeiro de 1991, a Lei nº 10.823, de 19 de dezembro de 2003, e a Lei Complementar nº 137, de 26 de agosto de 2010, para aperfeiçoar os marcos legais do seguro rural, destacando as perdas de safras causadas por eventos climáticos extremos, como estiagens e enchentes no Rio Grande do Sul. Ressaltou que a proposta, iniciada pela Senadora Tereza Cristina e aprovada no Senado, amplia a cobertura do seguro rural para a pecuária, a pesca, a aquicultura e a agricultura. Por fim, conclamou o apoio dos colegas para a aprovação da matéria na Câmara.</p>
@@ -184,7 +184,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-176">
-<span class="data">2026-05-19 · 16:12</span>
+<span class="data">19 mai 2026 · 16:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado afirmou que houve equívoco do Parlamentar que o antecedeu ao tratar de temas relacionados ao agronegócio. Citou o movimento SOS Agro no Rio Grande do Sul e mencionou a situação de agricultores afetados por crises climáticas, incluindo registros de suicídios no setor. Destacou a securitização financiada pelo fundo social para mitigação de impactos climáticos e afirmou que não haveria anistia ou descontos, com pagamento pelos produtores. Também mencionou ações na área da saúde no Município de Estância Velha (RS), com destinação de recursos a hospital local e índice de 41% de participação no financiamento.</p>

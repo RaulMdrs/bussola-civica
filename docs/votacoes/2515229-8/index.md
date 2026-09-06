@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 7906/2014 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2025-05-26)"
-description: "Como a bancada gaúcha votou em 2025-05-26: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 286; Não: 144; Abstenção: 2; Total: 432."
+title: "PL 7906/2014 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (26 mai 2025)"
+description: "Como a bancada gaúcha votou em 26 mai 2025: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 286; Não: 144; Abstenção: 2; Total: 432."
 ---
 
 # PL 7906/2014
 
-<p class="subtitulo"><b>2025-05-26</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>26 mai 2025</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

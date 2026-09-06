@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 7082/2017 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 7.0 (2023-11-29)"
-description: "Como a bancada gaúcha votou em 2023-11-29: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 7.082, de 2017, adotada pelo relator da Comissão"
+title: "PL 7082/2017 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 7.0 (29 nov 2023)"
+description: "Como a bancada gaúcha votou em 29 nov 2023: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 7.082, de 2017, adotada pelo relator da Comissão"
 ---
 
 # PL 7082/2017
 
-<p class="subtitulo"><b>2023-11-29</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 7.082, de 2017, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques.</p>
+<p class="subtitulo"><b>29 nov 2023</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 7.082, de 2017, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques.</p>
 
 | | |
 |---|---|

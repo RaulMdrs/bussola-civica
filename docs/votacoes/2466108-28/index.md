@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4187/2024 — Rejeitado o Requerimento. (2025-02-25)"
-description: "Como a bancada gaúcha votou em 2025-02-25: Rejeitado o Requerimento. Sim: 138; Não: 266; Total: 404."
+title: "PL 4187/2024 — Rejeitado o Requerimento. (25 fev 2025)"
+description: "Como a bancada gaúcha votou em 25 fev 2025: Rejeitado o Requerimento. Sim: 138; Não: 266; Total: 404."
 ---
 
 # PL 4187/2024
 
-<p class="subtitulo"><b>2025-02-25</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>25 fev 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

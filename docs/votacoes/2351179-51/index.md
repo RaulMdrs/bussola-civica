@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1085/2023 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.0 (2023-05-04)"
-description: "Como a bancada gaúcha votou em 2023-05-04: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.085, de 2023, adotada pela relatora da Comissã"
+title: "PL 1085/2023 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.0 (04 mai 2023)"
+description: "Como a bancada gaúcha votou em 04 mai 2023: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.085, de 2023, adotada pela relatora da Comissã"
 ---
 
 # PL 1085/2023
 
-<p class="subtitulo"><b>2023-05-04</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.085, de 2023, adotada pela relatora da Comissão de Defesa dos Direitos da Mulher, ressalvados os destaques.</p>
+<p class="subtitulo"><b>04 mai 2023</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.085, de 2023, adotada pela relatora da Comissão de Defesa dos Direitos da Mulher, ressalvados os destaques.</p>
 
 | | |
 |---|---|

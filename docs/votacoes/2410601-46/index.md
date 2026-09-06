@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 478/2023 — Aprovado o Projeto de Decreto Legislativo nº 478, de 2023. (2025-03-27)"
-description: "Como a bancada gaúcha votou em 2025-03-27: Aprovado o Projeto de Decreto Legislativo nº 478, de 2023. Sim: 310; Não: 5; Abstenção: 10; Total: 325."
+title: "PDL 478/2023 — Aprovado o Projeto de Decreto Legislativo nº 478, de 2023. (27 mar 2025)"
+description: "Como a bancada gaúcha votou em 27 mar 2025: Aprovado o Projeto de Decreto Legislativo nº 478, de 2023. Sim: 310; Não: 5; Abstenção: 10; Total: 325."
 ---
 
 # PDL 478/2023
 
-<p class="subtitulo"><b>2025-03-27</b> · Aprovado o Projeto de Decreto Legislativo nº 478, de 2023.</p>
+<p class="subtitulo"><b>27 mar 2025</b> · Aprovado o Projeto de Decreto Legislativo nº 478, de 2023.</p>
 
 | | |
 |---|---|

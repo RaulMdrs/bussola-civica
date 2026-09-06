@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 327/2021 — Mantido o texto. (2024-03-20)"
-description: "Como a bancada gaúcha votou em 2024-03-20: Mantido o texto. Sim: 283; não: 135; total: 418."
+title: "PL 327/2021 — Mantido o texto. (20 mar 2024)"
+description: "Como a bancada gaúcha votou em 20 mar 2024: Mantido o texto. Sim: 283; não: 135; total: 418."
 ---
 
 # PL 327/2021
 
-<p class="subtitulo"><b>2024-03-20</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>20 mar 2024</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

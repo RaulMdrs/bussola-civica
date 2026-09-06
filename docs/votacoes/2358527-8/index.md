@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1987/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2023-05-09)"
-description: "Como a bancada gaúcha votou em 2023-05-09: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 346; não: 53; abstenção: 3; total: 402."
+title: "PL 1987/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (09 mai 2023)"
+description: "Como a bancada gaúcha votou em 09 mai 2023: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 346; não: 53; abstenção: 3; total: 402."
 ---
 
 # PL 1987/2023
 
-<p class="subtitulo"><b>2023-05-09</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>09 mai 2023</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

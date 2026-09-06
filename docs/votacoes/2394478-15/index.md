@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "REQ 3458/2023 — Aprovado o Requerimento. (2023-10-10)"
-description: "Como a bancada gaúcha votou em 2023-10-10: Aprovado o Requerimento. Sim: 312; total: 312."
+title: "REQ 3458/2023 — Aprovado o Requerimento. (10 out 2023)"
+description: "Como a bancada gaúcha votou em 10 out 2023: Aprovado o Requerimento. Sim: 312; total: 312."
 ---
 
 # REQ 3458/2023
 
-<p class="subtitulo"><b>2023-10-10</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>10 out 2023</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

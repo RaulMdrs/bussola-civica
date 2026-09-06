@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2162/2023 — Aprovado o Substitutivo ao Projeto de Lei nº 2.162, de 2023, adot (2025-12-09)"
-description: "Como a bancada gaúcha votou em 2025-12-09: Aprovado o Substitutivo ao Projeto de Lei nº 2.162, de 2023, adotado pelo relator da Comissão Especial, ressal"
+title: "PL 2162/2023 — Aprovado o Substitutivo ao Projeto de Lei nº 2.162, de 2023, adot (09 dez 2025)"
+description: "Como a bancada gaúcha votou em 09 dez 2025: Aprovado o Substitutivo ao Projeto de Lei nº 2.162, de 2023, adotado pelo relator da Comissão Especial, ressal"
 ---
 
 # PL 2162/2023
 
-<p class="subtitulo"><b>2025-12-09</b> · Aprovado o Substitutivo ao Projeto de Lei nº 2.162, de 2023, adotado pelo relator da Comissão Especial, ressalvados os destaques.</p>
+<p class="subtitulo"><b>09 dez 2025</b> · Aprovado o Substitutivo ao Projeto de Lei nº 2.162, de 2023, adotado pelo relator da Comissão Especial, ressalvados os destaques.</p>
 
 | | |
 |---|---|

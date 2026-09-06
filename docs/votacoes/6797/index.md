@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Emenda nº 139 ao Projeto de Lei nº 3.626, de 2023, destacada. (2023-12-12)"
-description: "Como os senadores gaúchos votou em 2023-12-12: Votação nominal da Emenda nº 139 ao Projeto de Lei nº 3.626, de 2023, destacada."
+title: "Votação nominal da Emenda nº 139 ao Projeto de Lei nº 3.626, de 2023, destacada. (12 dez 2023)"
+description: "Como os senadores gaúchos votou em 12 dez 2023: Votação nominal da Emenda nº 139 ao Projeto de Lei nº 3.626, de 2023, destacada."
 ---
 
-# Votação de 2023-12-12
+# Votação de 12 dez 2023
 
-<p class="subtitulo"><b>2023-12-12</b> · Votação nominal da Emenda nº 139 ao Projeto de Lei nº 3.626, de 2023, destacada.</p>
+<p class="subtitulo"><b>12 dez 2023</b> · Votação nominal da Emenda nº 139 ao Projeto de Lei nº 3.626, de 2023, destacada.</p>
 
 | | |
 |---|---|

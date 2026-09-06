@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 397/2024 — Aprovado o Projeto de Lei nº 397, de 2024, ressalvados os destaque (2024-08-14)"
-description: "Como a bancada gaúcha votou em 2024-08-14: Aprovado o Projeto de Lei nº 397, de 2024, ressalvados os destaques. Sim: 318; não: 76; total: 394."
+title: "PL 397/2024 — Aprovado o Projeto de Lei nº 397, de 2024, ressalvados os destaque (14 ago 2024)"
+description: "Como a bancada gaúcha votou em 14 ago 2024: Aprovado o Projeto de Lei nº 397, de 2024, ressalvados os destaques. Sim: 318; não: 76; total: 394."
 ---
 
 # PL 397/2024
 
-<p class="subtitulo"><b>2024-08-14</b> · Aprovado o Projeto de Lei nº 397, de 2024, ressalvados os destaques.</p>
+<p class="subtitulo"><b>14 ago 2024</b> · Aprovado o Projeto de Lei nº 397, de 2024, ressalvados os destaques.</p>
 
 | | |
 |---|---|

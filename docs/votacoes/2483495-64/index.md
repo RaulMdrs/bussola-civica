@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 363/2025 — Aprovada a Redação Final assinada pela relatora, Dep. Jandira Fegh (2025-04-28)"
-description: "Como a bancada gaúcha votou em 2025-04-28: Aprovada a Redação Final assinada pela relatora, Dep. Jandira Feghali (PCdoB-RJ). Sim: 225; Não: 100; Total: 3"
+title: "PL 363/2025 — Aprovada a Redação Final assinada pela relatora, Dep. Jandira Fegh (28 abr 2025)"
+description: "Como a bancada gaúcha votou em 28 abr 2025: Aprovada a Redação Final assinada pela relatora, Dep. Jandira Feghali (PCdoB-RJ). Sim: 225; Não: 100; Total: 3"
 ---
 
 # PL 363/2025
 
-<p class="subtitulo"><b>2025-04-28</b> · Aprovada a Redação Final assinada pela relatora, Dep. Jandira Feghali (PCdoB-RJ).</p>
+<p class="subtitulo"><b>28 abr 2025</b> · Aprovada a Redação Final assinada pela relatora, Dep. Jandira Feghali (PCdoB-RJ).</p>
 
 | | |
 |---|---|

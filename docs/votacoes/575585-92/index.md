@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5496/2013 — Aprovado o Substitutivo ao Projeto de Lei nº 5.228, de 2019, apen (2023-11-21)"
-description: "Como a bancada gaúcha votou em 2023-11-21: Aprovado o Substitutivo ao Projeto de Lei nº 5.228, de 2019, apensado, adotado pela relatora da Comissão de Pr"
+title: "PL 5496/2013 — Aprovado o Substitutivo ao Projeto de Lei nº 5.228, de 2019, apen (21 nov 2023)"
+description: "Como a bancada gaúcha votou em 21 nov 2023: Aprovado o Substitutivo ao Projeto de Lei nº 5.228, de 2019, apensado, adotado pela relatora da Comissão de Pr"
 ---
 
 # PL 5496/2013
 
-<p class="subtitulo"><b>2023-11-21</b> · Aprovado o Substitutivo ao Projeto de Lei nº 5.228, de 2019, apensado, adotado pela relatora da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família, ressalvados os destaques.</p>
+<p class="subtitulo"><b>21 nov 2023</b> · Aprovado o Substitutivo ao Projeto de Lei nº 5.228, de 2019, apensado, adotado pela relatora da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família, ressalvados os destaques.</p>
 
 | | |
 |---|---|

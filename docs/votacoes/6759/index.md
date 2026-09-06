@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei Complementar nº 136, de 2023, nos termos dos p (2023-10-04)"
-description: "Como os senadores gaúchos votou em 2023-10-04: Votação nominal do Projeto de Lei Complementar nº 136, de 2023, nos termos dos pareceres."
+title: "Votação nominal do Projeto de Lei Complementar nº 136, de 2023, nos termos dos p (04 out 2023)"
+description: "Como os senadores gaúchos votou em 04 out 2023: Votação nominal do Projeto de Lei Complementar nº 136, de 2023, nos termos dos pareceres."
 ---
 
-# Votação de 2023-10-04
+# Votação de 04 out 2023
 
-<p class="subtitulo"><b>2023-10-04</b> · Votação nominal do Projeto de Lei Complementar nº 136, de 2023, nos termos dos pareceres.</p>
+<p class="subtitulo"><b>04 out 2023</b> · Votação nominal do Projeto de Lei Complementar nº 136, de 2023, nos termos dos pareceres.</p>
 
 | | |
 |---|---|

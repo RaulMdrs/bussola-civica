@@ -7,7 +7,7 @@ description: "Como Heitor Schuch vota: alinhamento com o governo federal e coes�
 
 # Heitor Schuch
 
-<p class="subtitulo"><b>PSD</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>PSD</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-11-12</span>
+<span class="data">12 nov 2025</span>
 <div class="corpo">
 <p>Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 18, de 2021, adotada pelo relator da Comissão de Saúde, ressalvado o destaque. <span class="placar">Sim: 348; Não: 100; Abstenção: 1; Total: 449.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-11-05</span>
+<span class="data">05 nov 2025</span>
 <div class="corpo">
 <p>Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.357, de 2023, adotada pelo relator da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, ressalvados os destaques. <span class="placar">Sim: 287; Não: 113; Total: 400.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2025-12-02</span>
+<span class="data">02 dez 2025</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 300; Não: 123; Total: 423.</span></p>
 <p class="referencia">Maioria do partido: nao (0 sim / 10 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-11-05</span>
+<span class="data">05 nov 2025</span>
 <div class="corpo">
 <p>Aprovado o Projeto de Decreto Legislativo nº 3, de 2025. <span class="placar">Sim: 317; Não: 111; Abstenção: 1; Total: 429.</span></p>
 <p class="referencia">Maioria do partido: nao (3 sim / 9 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-11-05</span>
+<span class="data">05 nov 2025</span>
 <div class="corpo">
 <p>Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.357, de 2023, adotada pelo relator da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, ressalvados os destaques. <span class="placar">Sim: 287; Não: 113; Total: 400.</span></p>
 <p class="referencia">Maioria do partido: nao (3 sim / 10 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -148,7 +148,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-13170">
-<span class="data">2026-09-01 · 16:16</span>
+<span class="data">01 set 2026 · 16:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado destacou a importância da produção de tabaco para a economia do Rio Grande do Sul e para a geração de renda e empregos em diferentes atividades da cadeia produtiva. Além disso, criticou a elevada carga tributária sobre o setor e sustentou que a tributação excessiva favorece o contrabando e o mercado ilegal. Ademais, defendeu a regulamentação e a produção, em território nacional, dos dispositivos eletrônicos para fumar (DEFs), com fiscalização e controle pela Agência Nacional de Vigilância Sanitária (Anvisa). Por fim, ressaltou que a regulamentação poderia combater o mercado ilegal, ampliar a arrecadação, gerar empregos e atrair fábricas, inclusive para o Rio Grande do Sul.</p>
@@ -157,7 +157,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-13169">
-<span class="data">2026-09-01 · 15:28</span>
+<span class="data">01 set 2026 · 15:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado saudou a presença do Presidente do Conselho Estadual de Trânsito do Rio Grande do Sul (Cetran-RS), Vilnei Sessim, e dos Vice-Presidentes do Sindicato dos Centros de Formação de Condutores do Estado (SindiCFC), Eduardo Oliveira e Rodimar Dallagnol. Além disso, destacou a importância do Projeto de Lei nº 8.085, de 2014, que propõe alterações no Código de Trânsito Brasileiro, e defendeu a continuidade da atuação dos centros de formação de condutores na educação para o trânsito e na prevenção de acidentes.</p>
@@ -166,7 +166,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-13144">
-<span class="data">2026-08-12 · 19:00</span>
+<span class="data">12 ago 2026 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
 <p>O Deputado apresentou parecer pela rejeição da Emenda de Plenário nº 1 ao Projeto de Lei Complementar nº 80, de 2026, que prorroga a isenção do AFRMM para garantir a manutenção da Marinha Mercante e dar segurança à indústria salineira do Rio Grande do Norte, por falta de pertinência temática com o objeto da proposição, nos termos da Lei Complementar nº 95, de 1998. Além disso, registrou, nas Comissões de Integração Nacional e Desenvolvimento Regional e de Viação e Transportes, a rejeição da emenda; na Comissão de Finanças e Tributação, a adequação financeira e orçamentária, mas a rejeição no mérito; e, na Comissão de Constituição e Justiça e de Cidadania, a constitucionalidade, a injuridicidade e a má técnica legislativa da proposta.</p>
@@ -175,7 +175,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-13143">
-<span class="data">2026-08-12 · 18:40</span>
+<span class="data">12 ago 2026 · 18:40</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
 <p>O Deputado apresentou parecer favorável ao Projeto de Lei Complementar nº 80, de 2026, que altera a Lei nº 14.301, de 7 de janeiro de 2022, para prorrogar o prazo de vigência da não incidência do Adicional ao Frete para Renovação da Marinha Mercante (AFRMM) prevista no art. 17 da Lei nº 9.432, de 8 de janeiro de 1997, nas navegações de cabotagem, interior fluvial e lacustre, desde que a origem ou o destino seja porto localizado na Região Norte ou Nordeste do País. Defendeu a medida como instrumento de desenvolvimento regional, redução de custos logísticos e preservação da competitividade econômica.</p>
@@ -184,7 +184,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-13142">
-<span class="data">2026-08-11 · 16:44</span>
+<span class="data">11 ago 2026 · 16:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado alertou que os agricultores estão enfrentando dificuldades para atender aos critérios da Medida Provisória (MPV) nº 1.376, de 2026, destinada à renegociação de dívidas rurais, o que pode restringir o acesso ao crédito e resultar em sobra de recursos do Plano Safra. Além disso, solicitou ao Ministro da Fazenda a revisão e a ampliação do alcance da MPV, a fim de permitir o enquadramento de maior número de produtores. Por fim, requereu a publicação, nos Anais da Câmara dos Deputados, de documento elaborado pela Federação dos Trabalhadores na Agricultura no Rio Grande do Sul — Fetag-RS com propostas para ampliar o acesso dos agricultores ao crédito e viabilizar a próxima safra.</p>

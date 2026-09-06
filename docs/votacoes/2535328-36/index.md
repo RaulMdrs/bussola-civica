@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1304/2025 — Suprimido o texto. (2025-10-30)"
-description: "Como a bancada gaúcha votou em 2025-10-30: Suprimido o texto. Sim: 148; Não: 233; Abstenção: 1; Total: 382."
+title: "MPV 1304/2025 — Suprimido o texto. (30 out 2025)"
+description: "Como a bancada gaúcha votou em 30 out 2025: Suprimido o texto. Sim: 148; Não: 233; Abstenção: 1; Total: 382."
 ---
 
 # MPV 1304/2025
 
-<p class="subtitulo"><b>2025-10-30</b> · Suprimido o texto.</p>
+<p class="subtitulo"><b>30 out 2025</b> · Suprimido o texto.</p>
 
 | | |
 |---|---|

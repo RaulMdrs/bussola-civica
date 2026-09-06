@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5582/2025 — Mantido o texto. (2025-11-18)"
-description: "Como a bancada gaúcha votou em 2025-11-18: Mantido o texto. Sim: 298; Não: 109; Abstenção: 1; Total: 408."
+title: "PL 5582/2025 — Mantido o texto. (18 nov 2025)"
+description: "Como a bancada gaúcha votou em 18 nov 2025: Mantido o texto. Sim: 298; Não: 109; Abstenção: 1; Total: 408."
 ---
 
 # PL 5582/2025
 
-<p class="subtitulo"><b>2025-11-18</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>18 nov 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

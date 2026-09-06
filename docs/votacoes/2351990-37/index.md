@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1165/2023 — Aprovada a Medida Provisória nº 1.165 de 2023, na forma do Proje (2023-06-14)"
-description: "Como a bancada gaúcha votou em 2023-06-14: Aprovada a Medida Provisória nº 1.165 de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaqu"
+title: "MPV 1165/2023 — Aprovada a Medida Provisória nº 1.165 de 2023, na forma do Proje (14 jun 2023)"
+description: "Como a bancada gaúcha votou em 14 jun 2023: Aprovada a Medida Provisória nº 1.165 de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaqu"
 ---
 
 # MPV 1165/2023
 
-<p class="subtitulo"><b>2023-06-14</b> · Aprovada a Medida Provisória nº 1.165 de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques.</p>
+<p class="subtitulo"><b>14 jun 2023</b> · Aprovada a Medida Provisória nº 1.165 de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques.</p>
 
 | | |
 |---|---|

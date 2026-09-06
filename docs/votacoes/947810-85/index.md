@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 424/2015 — Mantido o texto. (2026-06-17)"
-description: "Como a bancada gaúcha votou em 2026-06-17: Mantido o texto. Sim: 285; Não: 106; Abstenção: 1; Total: 392."
+title: "PL 424/2015 — Mantido o texto. (17 jun 2026)"
+description: "Como a bancada gaúcha votou em 17 jun 2026: Mantido o texto. Sim: 285; Não: 106; Abstenção: 1; Total: 392."
 ---
 
 # PL 424/2015
 
-<p class="subtitulo"><b>2026-06-17</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>17 jun 2026</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

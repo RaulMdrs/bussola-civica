@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 226/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2025-09-09)"
-description: "Como a bancada gaúcha votou em 2025-09-09: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 350; Não: 94; Total: 444."
+title: "PL 226/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (09 set 2025)"
+description: "Como a bancada gaúcha votou em 09 set 2025: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 350; Não: 94; Total: 444."
 ---
 
 # PL 226/2024
 
-<p class="subtitulo"><b>2025-09-09</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>09 set 2025</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3010/2019 — Rejeitado o Requerimento. (2024-09-09)"
-description: "Como a bancada gaúcha votou em 2024-09-09: Rejeitado o Requerimento. Sim: 14; Não: 348; Abstenção: 1; Total: 363."
+title: "PL 3010/2019 — Rejeitado o Requerimento. (09 set 2024)"
+description: "Como a bancada gaúcha votou em 09 set 2024: Rejeitado o Requerimento. Sim: 14; Não: 348; Abstenção: 1; Total: 363."
 ---
 
 # PL 3010/2019
 
-<p class="subtitulo"><b>2024-09-09</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>09 set 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

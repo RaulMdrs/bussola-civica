@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4438/2023 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.4 (2023-09-13)"
-description: "Como a bancada gaúcha votou em 2023-09-13: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.438, de 2023, adotada pelo Relator da Comissão"
+title: "PL 4438/2023 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.4 (13 set 2023)"
+description: "Como a bancada gaúcha votou em 13 set 2023: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.438, de 2023, adotada pelo Relator da Comissão"
 ---
 
 # PL 4438/2023
 
-<p class="subtitulo"><b>2023-09-13</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.438, de 2023, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques.</p>
+<p class="subtitulo"><b>13 set 2023</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.438, de 2023, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques.</p>
 
 | | |
 |---|---|

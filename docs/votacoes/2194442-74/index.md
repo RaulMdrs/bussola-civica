@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1565/2019 — Rejeitado o requerimento. (2023-11-21)"
-description: "Como a bancada gaúcha votou em 2023-11-21: Rejeitado o requerimento. Sim:63; não: 349; abstenção: 1; total: 413"
+title: "PL 1565/2019 — Rejeitado o requerimento. (21 nov 2023)"
+description: "Como a bancada gaúcha votou em 21 nov 2023: Rejeitado o requerimento. Sim:63; não: 349; abstenção: 1; total: 413"
 ---
 
 # PL 1565/2019
 
-<p class="subtitulo"><b>2023-11-21</b> · Rejeitado o requerimento.</p>
+<p class="subtitulo"><b>21 nov 2023</b> · Rejeitado o requerimento.</p>
 
 | | |
 |---|---|

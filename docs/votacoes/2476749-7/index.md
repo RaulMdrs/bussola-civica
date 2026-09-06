@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3034/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-12-10)"
-description: "Como a bancada gaúcha votou em 2024-12-10: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 317; Não: 66; Abstenção: 2; Total: 385."
+title: "PL 3034/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (10 dez 2024)"
+description: "Como a bancada gaúcha votou em 10 dez 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 317; Não: 66; Abstenção: 2; Total: 385."
 ---
 
 # PL 3034/2024
 
-<p class="subtitulo"><b>2024-12-10</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>10 dez 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

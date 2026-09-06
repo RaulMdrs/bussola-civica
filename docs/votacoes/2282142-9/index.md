@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1520/2021 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2023-09-20)"
-description: "Como a bancada gaúcha votou em 2023-09-20: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 285; não: 113; abstenção: 2; total: 400."
+title: "PL 1520/2021 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (20 set 2023)"
+description: "Como a bancada gaúcha votou em 20 set 2023: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 285; não: 113; abstenção: 2; total: 400."
 ---
 
 # PL 1520/2021
 
-<p class="subtitulo"><b>2023-09-20</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>20 set 2023</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

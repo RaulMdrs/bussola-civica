@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "REP 2/2025 — Rejeitado o Parecer da Comissão de Constituição e Justiça e de Cida (2025-12-10)"
-description: "Como a bancada gaúcha votou em 2025-12-10: Rejeitado o Parecer da Comissão de Constituição e Justiça e de Cidadania à Representação nº 2, de 2025, que co"
+title: "REP 2/2025 — Rejeitado o Parecer da Comissão de Constituição e Justiça e de Cida (10 dez 2025)"
+description: "Como a bancada gaúcha votou em 10 dez 2025: Rejeitado o Parecer da Comissão de Constituição e Justiça e de Cidadania à Representação nº 2, de 2025, que co"
 ---
 
 # REP 2/2025
 
-<p class="subtitulo"><b>2025-12-10</b> · Rejeitado o Parecer da Comissão de Constituição e Justiça e de Cidadania à Representação nº 2, de 2025, que conclui pela procedência da representação e pela perda do mandato da Dep. Carla Zambelli.</p>
+<p class="subtitulo"><b>10 dez 2025</b> · Rejeitado o Parecer da Comissão de Constituição e Justiça e de Cidadania à Representação nº 2, de 2025, que conclui pela procedência da representação e pela perda do mandato da Dep. Carla Zambelli.</p>
 
 | | |
 |---|---|

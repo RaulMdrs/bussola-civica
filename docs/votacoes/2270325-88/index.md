@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 18/2021 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complem (2025-11-12)"
-description: "Como a bancada gaúcha votou em 2025-11-12: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 18, de 2021, adotada pelo relator d"
+title: "PLP 18/2021 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complem (12 nov 2025)"
+description: "Como a bancada gaúcha votou em 12 nov 2025: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 18, de 2021, adotada pelo relator d"
 ---
 
 # PLP 18/2021
 
-<p class="subtitulo"><b>2025-11-12</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 18, de 2021, adotada pelo relator da Comissão de Saúde, ressalvado o destaque.</p>
+<p class="subtitulo"><b>12 nov 2025</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 18, de 2021, adotada pelo relator da Comissão de Saúde, ressalvado o destaque.</p>
 
 | | |
 |---|---|

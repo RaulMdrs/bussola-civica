@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1299/2025 — Rejeitado o Requerimento. (2025-07-01)"
-description: "Como a bancada gaúcha votou em 2025-07-01: Rejeitado o Requerimento. Sim: 69; Não: 221; Total: 290."
+title: "MPV 1299/2025 — Rejeitado o Requerimento. (01 jul 2025)"
+description: "Como a bancada gaúcha votou em 01 jul 2025: Rejeitado o Requerimento. Sim: 69; Não: 221; Total: 290."
 ---
 
 # MPV 1299/2025
 
-<p class="subtitulo"><b>2025-07-01</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>01 jul 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

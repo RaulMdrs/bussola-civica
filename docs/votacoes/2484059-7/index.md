@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4187/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2025-02-18)"
-description: "Como a bancada gaúcha votou em 2025-02-18: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 266; Não: 140; Abstenção: 2; Total: 408."
+title: "PL 4187/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (18 fev 2025)"
+description: "Como a bancada gaúcha votou em 18 fev 2025: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 266; Não: 140; Abstenção: 2; Total: 408."
 ---
 
 # PL 4187/2024
 
-<p class="subtitulo"><b>2025-02-18</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>18 fev 2025</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

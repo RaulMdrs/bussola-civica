@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4497/2024 — Mantido o texto. (2025-06-10)"
-description: "Como a bancada gaúcha votou em 2025-06-10: Mantido o texto. Sim: 257; Não: 88; Total: 345."
+title: "PL 4497/2024 — Mantido o texto. (10 jun 2025)"
+description: "Como a bancada gaúcha votou em 10 jun 2025: Mantido o texto. Sim: 257; Não: 88; Total: 345."
 ---
 
 # PL 4497/2024
 
-<p class="subtitulo"><b>2025-06-10</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>10 jun 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

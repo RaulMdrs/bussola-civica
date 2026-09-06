@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4287/2023 — Aprovado o Projeto de Lei nº 4.287, de 2023. (2023-11-08)"
-description: "Como a bancada gaúcha votou em 2023-11-08: Aprovado o Projeto de Lei nº 4.287, de 2023. Sim: 369; não: 5; total: 374."
+title: "PL 4287/2023 — Aprovado o Projeto de Lei nº 4.287, de 2023. (08 nov 2023)"
+description: "Como a bancada gaúcha votou em 08 nov 2023: Aprovado o Projeto de Lei nº 4.287, de 2023. Sim: 369; não: 5; total: 374."
 ---
 
 # PL 4287/2023
 
-<p class="subtitulo"><b>2023-11-08</b> · Aprovado o Projeto de Lei nº 4.287, de 2023.</p>
+<p class="subtitulo"><b>08 nov 2023</b> · Aprovado o Projeto de Lei nº 4.287, de 2023.</p>
 
 | | |
 |---|---|

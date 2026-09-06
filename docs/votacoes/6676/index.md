@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Resolução nº 46, de 2023, nos termos do Parecer. (2023-04-19)"
-description: "Como os senadores gaúchos votou em 2023-04-19: Votação nominal do Projeto de Resolução nº 46, de 2023, nos termos do Parecer."
+title: "Votação nominal do Projeto de Resolução nº 46, de 2023, nos termos do Parecer. (19 abr 2023)"
+description: "Como os senadores gaúchos votou em 19 abr 2023: Votação nominal do Projeto de Resolução nº 46, de 2023, nos termos do Parecer."
 ---
 
-# Votação de 2023-04-19
+# Votação de 19 abr 2023
 
-<p class="subtitulo"><b>2023-04-19</b> · Votação nominal do Projeto de Resolução nº 46, de 2023, nos termos do Parecer.</p>
+<p class="subtitulo"><b>19 abr 2023</b> · Votação nominal do Projeto de Resolução nº 46, de 2023, nos termos do Parecer.</p>
 
 | | |
 |---|---|

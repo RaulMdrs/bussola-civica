@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 128/2022 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Comple (2025-09-03)"
-description: "Como a bancada gaúcha votou em 2025-09-03: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 128, de 2022, adotada pelo relator "
+title: "PLP 128/2022 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Comple (03 set 2025)"
+description: "Como a bancada gaúcha votou em 03 set 2025: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 128, de 2022, adotada pelo relator "
 ---
 
 # PLP 128/2022
 
-<p class="subtitulo"><b>2025-09-03</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 128, de 2022, adotada pelo relator da Comissão de Segurança Pública e Combate ao Crime Organizado.</p>
+<p class="subtitulo"><b>03 set 2025</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 128, de 2022, adotada pelo relator da Comissão de Segurança Pública e Combate ao Crime Organizado.</p>
 
 | | |
 |---|---|

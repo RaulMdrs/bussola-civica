@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1218/2024 — Mantido o texto. (2024-08-26)"
-description: "Como a bancada gaúcha votou em 2024-08-26: Mantido o texto. Sim: 257; não: 150; abstenção: 1; total: 408."
+title: "MPV 1218/2024 — Mantido o texto. (26 ago 2024)"
+description: "Como a bancada gaúcha votou em 26 ago 2024: Mantido o texto. Sim: 257; não: 150; abstenção: 1; total: 408."
 ---
 
 # MPV 1218/2024
 
-<p class="subtitulo"><b>2024-08-26</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>26 ago 2024</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

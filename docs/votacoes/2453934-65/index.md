@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3224/2024 — Mantido o texto. (2025-05-28)"
-description: "Como a bancada gaúcha votou em 2025-05-28: Mantido o texto. Sim: 264; Não: 110; Abstenção: 1; Total: 375."
+title: "PL 3224/2024 — Mantido o texto. (28 mai 2025)"
+description: "Como a bancada gaúcha votou em 28 mai 2025: Mantido o texto. Sim: 264; Não: 110; Abstenção: 1; Total: 375."
 ---
 
 # PL 3224/2024
 
-<p class="subtitulo"><b>2025-05-28</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>28 mai 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

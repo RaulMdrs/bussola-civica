@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3626/2023 — Aprovadas as Emendas do Senado Federal nº 1 (na parte em que alte (2023-12-21)"
-description: "Como a bancada gaúcha votou em 2023-12-21: Aprovadas as Emendas do Senado Federal nº 1 (na parte em que altera os arts. 1º e 14 do PL 3.626, de 2023); e "
+title: "PL 3626/2023 — Aprovadas as Emendas do Senado Federal nº 1 (na parte em que alte (21 dez 2023)"
+description: "Como a bancada gaúcha votou em 21 dez 2023: Aprovadas as Emendas do Senado Federal nº 1 (na parte em que altera os arts. 1º e 14 do PL 3.626, de 2023); e "
 ---
 
 # PL 3626/2023
 
-<p class="subtitulo"><b>2023-12-21</b> · Aprovadas as Emendas do Senado Federal nº 1 (na parte em que altera os arts. 1º e 14 do PL 3.626, de 2023); e das Emendas nºs 2, 4 a 7, 10 a 15, 18 a 22, 25 a 28, 30, 31, 35, 37, 39, 41 e 42.</p>
+<p class="subtitulo"><b>21 dez 2023</b> · Aprovadas as Emendas do Senado Federal nº 1 (na parte em que altera os arts. 1º e 14 do PL 3.626, de 2023); e das Emendas nºs 2, 4 a 7, 10 a 15, 18 a 22, 25 a 28, 30, 31, 35, 37, 39, 41 e 42.</p>
 
 | | |
 |---|---|

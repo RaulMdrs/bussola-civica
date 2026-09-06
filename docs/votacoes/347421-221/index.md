@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 31/2007 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° (2024-12-19)"
-description: "Como a bancada gaúcha votou em 2024-12-19: Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 31, de 2007, ressalvado o destaque. Sim: 34"
+title: "PEC 31/2007 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° (19 dez 2024)"
+description: "Como a bancada gaúcha votou em 19 dez 2024: Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 31, de 2007, ressalvado o destaque. Sim: 34"
 ---
 
 # PEC 31/2007
 
-<p class="subtitulo"><b>2024-12-19</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 31, de 2007, ressalvado o destaque.</p>
+<p class="subtitulo"><b>19 dez 2024</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 31, de 2007, ressalvado o destaque.</p>
 
 | | |
 |---|---|

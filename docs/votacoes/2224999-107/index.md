@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5497/2019 — Aprovada a Redação Final assinada pela Relatora Dep. Jandira Fegh (2023-10-03)"
-description: "Como a bancada gaúcha votou em 2023-10-03: Aprovada a Redação Final assinada pela Relatora Dep. Jandira Feghali (PCdoB-RJ). Sim: 301; não: 15; abstenção:"
+title: "PL 5497/2019 — Aprovada a Redação Final assinada pela Relatora Dep. Jandira Fegh (03 out 2023)"
+description: "Como a bancada gaúcha votou em 03 out 2023: Aprovada a Redação Final assinada pela Relatora Dep. Jandira Feghali (PCdoB-RJ). Sim: 301; não: 15; abstenção:"
 ---
 
 # PL 5497/2019
 
-<p class="subtitulo"><b>2023-10-03</b> · Aprovada a Redação Final assinada pela Relatora Dep. Jandira Feghali (PCdoB-RJ).</p>
+<p class="subtitulo"><b>03 out 2023</b> · Aprovada a Redação Final assinada pela Relatora Dep. Jandira Feghali (PCdoB-RJ).</p>
 
 | | |
 |---|---|

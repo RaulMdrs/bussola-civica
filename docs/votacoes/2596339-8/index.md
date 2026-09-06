@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3278/2021 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2026-02-09)"
-description: "Como a bancada gaúcha votou em 2026-02-09: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 304; Não: 113; Total: 417."
+title: "PL 3278/2021 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (09 fev 2026)"
+description: "Como a bancada gaúcha votou em 09 fev 2026: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 304; Não: 113; Total: 417."
 ---
 
 # PL 3278/2021
 
-<p class="subtitulo"><b>2026-02-09</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>09 fev 2026</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

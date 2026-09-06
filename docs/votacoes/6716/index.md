@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Emenda nº 89 ao Projeto de Lei Complementar nº 93, de 2023, d (2023-06-21)"
-description: "Como os senadores gaúchos votou em 2023-06-21: Votação nominal da Emenda nº 89 ao Projeto de Lei Complementar nº 93, de 2023, destacada."
+title: "Votação nominal da Emenda nº 89 ao Projeto de Lei Complementar nº 93, de 2023, d (21 jun 2023)"
+description: "Como os senadores gaúchos votou em 21 jun 2023: Votação nominal da Emenda nº 89 ao Projeto de Lei Complementar nº 93, de 2023, destacada."
 ---
 
-# Votação de 2023-06-21
+# Votação de 21 jun 2023
 
-<p class="subtitulo"><b>2023-06-21</b> · Votação nominal da Emenda nº 89 ao Projeto de Lei Complementar nº 93, de 2023, destacada.</p>
+<p class="subtitulo"><b>21 jun 2023</b> · Votação nominal da Emenda nº 89 ao Projeto de Lei Complementar nº 93, de 2023, destacada.</p>
 
 | | |
 |---|---|

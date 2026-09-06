@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4932/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-02-27)"
-description: "Como a bancada gaúcha votou em 2024-02-27: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 285; não: 103; abstenção: 1; total: 389."
+title: "PL 4932/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (27 fev 2024)"
+description: "Como a bancada gaúcha votou em 27 fev 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 285; não: 103; abstenção: 1; total: 389."
 ---
 
 # PL 4932/2023
 
-<p class="subtitulo"><b>2024-02-27</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>27 fev 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3899/2012 — Aprovado o Substitutivo ao Projeto de Lei nº 3.899, de 2012, adot (2025-10-29)"
-description: "Como a bancada gaúcha votou em 2025-10-29: Aprovado o Substitutivo ao Projeto de Lei nº 3.899, de 2012, adotado pelo relator da Comissão Especial, ressal"
+title: "PL 3899/2012 — Aprovado o Substitutivo ao Projeto de Lei nº 3.899, de 2012, adot (29 out 2025)"
+description: "Como a bancada gaúcha votou em 29 out 2025: Aprovado o Substitutivo ao Projeto de Lei nº 3.899, de 2012, adotado pelo relator da Comissão Especial, ressal"
 ---
 
 # PL 3899/2012
 
-<p class="subtitulo"><b>2025-10-29</b> · Aprovado o Substitutivo ao Projeto de Lei nº 3.899, de 2012, adotado pelo relator da Comissão Especial, ressalvados os destaques.</p>
+<p class="subtitulo"><b>29 out 2025</b> · Aprovado o Substitutivo ao Projeto de Lei nº 3.899, de 2012, adotado pelo relator da Comissão Especial, ressalvados os destaques.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 108/2024 — Aprovada a Emenda Aglutinativa n° 1. (2024-10-30)"
-description: "Como a bancada gaúcha votou em 2024-10-30: Aprovada a Emenda Aglutinativa n° 1. Sim: 403; Total: 403."
+title: "PLP 108/2024 — Aprovada a Emenda Aglutinativa n° 1. (30 out 2024)"
+description: "Como a bancada gaúcha votou em 30 out 2024: Aprovada a Emenda Aglutinativa n° 1. Sim: 403; Total: 403."
 ---
 
 # PLP 108/2024
 
-<p class="subtitulo"><b>2024-10-30</b> · Aprovada a Emenda Aglutinativa n° 1.</p>
+<p class="subtitulo"><b>30 out 2024</b> · Aprovada a Emenda Aglutinativa n° 1.</p>
 
 | | |
 |---|---|

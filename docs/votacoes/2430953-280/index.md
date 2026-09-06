@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1546/2024 — Rejeitada a Emenda de Plenário nº 14. (2025-09-03)"
-description: "Como a bancada gaúcha votou em 2025-09-03: Rejeitada a Emenda de Plenário nº 14. Sim: 108; Não: 241; Abstenção: 1; Total: 350."
+title: "PL 1546/2024 — Rejeitada a Emenda de Plenário nº 14. (03 set 2025)"
+description: "Como a bancada gaúcha votou em 03 set 2025: Rejeitada a Emenda de Plenário nº 14. Sim: 108; Não: 241; Abstenção: 1; Total: 350."
 ---
 
 # PL 1546/2024
 
-<p class="subtitulo"><b>2025-09-03</b> · Rejeitada a Emenda de Plenário nº 14.</p>
+<p class="subtitulo"><b>03 set 2025</b> · Rejeitada a Emenda de Plenário nº 14.</p>
 
 | | |
 |---|---|

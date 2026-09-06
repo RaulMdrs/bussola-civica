@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4614/2024 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.6 (2024-12-19)"
-description: "Como a bancada gaúcha votou em 2024-12-19: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.614, de 2024, adotada pelo relator da Comissão"
+title: "PL 4614/2024 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.6 (19 dez 2024)"
+description: "Como a bancada gaúcha votou em 19 dez 2024: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.614, de 2024, adotada pelo relator da Comissão"
 ---
 
 # PL 4614/2024
 
-<p class="subtitulo"><b>2024-12-19</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.614, de 2024, adotada pelo relator da Comissão Especial, ressalvado o destaque.</p>
+<p class="subtitulo"><b>19 dez 2024</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.614, de 2024, adotada pelo relator da Comissão Especial, ressalvado o destaque.</p>
 
 | | |
 |---|---|

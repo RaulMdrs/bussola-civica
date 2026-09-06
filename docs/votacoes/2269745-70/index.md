@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 327/2021 — Rejeitado o Requerimento. (2024-03-19)"
-description: "Como a bancada gaúcha votou em 2024-03-19: Rejeitado o Requerimento. Sim: 51; não: 350; abstenção: 3; total: 404."
+title: "PL 327/2021 — Rejeitado o Requerimento. (19 mar 2024)"
+description: "Como a bancada gaúcha votou em 19 mar 2024: Rejeitado o Requerimento. Sim: 51; não: 350; abstenção: 3; total: 404."
 ---
 
 # PL 327/2021
 
-<p class="subtitulo"><b>2024-03-19</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>19 mar 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

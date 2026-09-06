@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 490/2007 — Mantido o texto. (2023-05-30)"
-description: "Como a bancada gaúcha votou em 2023-05-30: Mantido o texto. Sim: 288; não: 148; abstenção: 2; total: 438."
+title: "PL 490/2007 — Mantido o texto. (30 mai 2023)"
+description: "Como a bancada gaúcha votou em 30 mai 2023: Mantido o texto. Sim: 288; não: 148; abstenção: 2; total: 438."
 ---
 
 # PL 490/2007
 
-<p class="subtitulo"><b>2023-05-30</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>30 mai 2023</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 128/2025 — Aprovado o Requerimento. (2025-12-16)"
-description: "Como a bancada gaúcha votou em 2025-12-16: Aprovado o Requerimento. Sim: 276; Não: 67; Total: 343."
+title: "PLP 128/2025 — Aprovado o Requerimento. (16 dez 2025)"
+description: "Como a bancada gaúcha votou em 16 dez 2025: Aprovado o Requerimento. Sim: 276; Não: 67; Total: 343."
 ---
 
 # PLP 128/2025
 
-<p class="subtitulo"><b>2025-12-16</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>16 dez 2025</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

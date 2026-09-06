@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 31/2007 — Aprovada, em primeiro turno, a Emenda Aglutinativa Substitutiva à  (2024-12-19)"
-description: "Como a bancada gaúcha votou em 2024-12-19: Aprovada, em primeiro turno, a Emenda Aglutinativa Substitutiva à Proposta de Emenda à Constituição nº 31, de "
+title: "PEC 31/2007 — Aprovada, em primeiro turno, a Emenda Aglutinativa Substitutiva à  (19 dez 2024)"
+description: "Como a bancada gaúcha votou em 19 dez 2024: Aprovada, em primeiro turno, a Emenda Aglutinativa Substitutiva à Proposta de Emenda à Constituição nº 31, de "
 ---
 
 # PEC 31/2007
 
-<p class="subtitulo"><b>2024-12-19</b> · Aprovada, em primeiro turno, a Emenda Aglutinativa Substitutiva à Proposta de Emenda à Constituição nº 31, de 2007.</p>
+<p class="subtitulo"><b>19 dez 2024</b> · Aprovada, em primeiro turno, a Emenda Aglutinativa Substitutiva à Proposta de Emenda à Constituição nº 31, de 2007.</p>
 
 | | |
 |---|---|

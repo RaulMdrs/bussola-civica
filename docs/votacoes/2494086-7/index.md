@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2088/2023 — Aprovado o Requerimento. (2025-04-02)"
-description: "Como a bancada gaúcha votou em 2025-04-02: Aprovado o Requerimento. Sim: 361; Não: 10; Abstenção: 2; Total: 373."
+title: "PL 2088/2023 — Aprovado o Requerimento. (02 abr 2025)"
+description: "Como a bancada gaúcha votou em 02 abr 2025: Aprovado o Requerimento. Sim: 361; Não: 10; Abstenção: 2; Total: 373."
 ---
 
 # PL 2088/2023
 
-<p class="subtitulo"><b>2025-04-02</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>02 abr 2025</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 702/2023 — Aprovado o Recurso nº 38/2023 (art. 58, § 1º c/c art. 132, § 2º, R (2025-07-16)"
-description: "Como a bancada gaúcha votou em 2025-07-16: Aprovado o Recurso nº 38/2023 (art. 58, § 1º c/c art. 132, § 2º, RICD). Sim: 291; Não: 173; Total: 464."
+title: "PL 702/2023 — Aprovado o Recurso nº 38/2023 (art. 58, § 1º c/c art. 132, § 2º, R (16 jul 2025)"
+description: "Como a bancada gaúcha votou em 16 jul 2025: Aprovado o Recurso nº 38/2023 (art. 58, § 1º c/c art. 132, § 2º, RICD). Sim: 291; Não: 173; Total: 464."
 ---
 
 # PL 702/2023
 
-<p class="subtitulo"><b>2025-07-16</b> · Aprovado o Recurso nº 38/2023 (art. 58, § 1º c/c art. 132, § 2º, RICD).</p>
+<p class="subtitulo"><b>16 jul 2025</b> · Aprovado o Recurso nº 38/2023 (art. 58, § 1º c/c art. 132, § 2º, RICD).</p>
 
 | | |
 |---|---|

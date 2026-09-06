@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 77/2026 — Mantido o texto. (2026-03-25)"
-description: "Como a bancada gaúcha votou em 2026-03-25: Mantido o texto. Sim: 284; Não: 86; Abstenção: 3; Total: 373."
+title: "PLP 77/2026 — Mantido o texto. (25 mar 2026)"
+description: "Como a bancada gaúcha votou em 25 mar 2026: Mantido o texto. Sim: 284; Não: 86; Abstenção: 3; Total: 373."
 ---
 
 # PLP 77/2026
 
-<p class="subtitulo"><b>2026-03-25</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>25 mar 2026</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

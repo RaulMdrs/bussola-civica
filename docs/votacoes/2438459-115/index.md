@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 108/2024 — Rejeitados os dispositivos do Substitutivo do Senado Federal ao P (2025-12-15)"
-description: "Como a bancada gaúcha votou em 2025-12-15: Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei complementar nº 108, de 2024, c"
+title: "PLP 108/2024 — Rejeitados os dispositivos do Substitutivo do Senado Federal ao P (15 dez 2025)"
+description: "Como a bancada gaúcha votou em 15 dez 2025: Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei complementar nº 108, de 2024, c"
 ---
 
 # PLP 108/2024
 
-<p class="subtitulo"><b>2025-12-15</b> · Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei complementar nº 108, de 2024, com parecer pela rejeição, indicados no Parecer da Comissão de Indústria, Comércio e Serviços.</p>
+<p class="subtitulo"><b>15 dez 2025</b> · Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei complementar nº 108, de 2024, com parecer pela rejeição, indicados no Parecer da Comissão de Indústria, Comércio e Serviços.</p>
 
 | | |
 |---|---|

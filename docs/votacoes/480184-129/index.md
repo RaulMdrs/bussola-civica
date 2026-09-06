@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 7452/2010 — Aprovada a Emenda de Plenário nº 1. (2024-11-27)"
-description: "Como a bancada gaúcha votou em 2024-11-27: Aprovada a Emenda de Plenário nº 1. Sim: 266; Não: 78; Abstenção: 4; Total: 348."
+title: "PL 7452/2010 — Aprovada a Emenda de Plenário nº 1. (27 nov 2024)"
+description: "Como a bancada gaúcha votou em 27 nov 2024: Aprovada a Emenda de Plenário nº 1. Sim: 266; Não: 78; Abstenção: 4; Total: 348."
 ---
 
 # PL 7452/2010
 
-<p class="subtitulo"><b>2024-11-27</b> · Aprovada a Emenda de Plenário nº 1.</p>
+<p class="subtitulo"><b>27 nov 2024</b> · Aprovada a Emenda de Plenário nº 1.</p>
 
 | | |
 |---|---|

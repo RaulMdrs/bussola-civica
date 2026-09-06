@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 125/2022 — Aprovado o Projeto de Lei Complementar nº 125, de 2022. (2025-12-09)"
-description: "Como a bancada gaúcha votou em 2025-12-09: Aprovado o Projeto de Lei Complementar nº 125, de 2022. Sim: 436; Não: 2; Total: 438."
+title: "PLP 125/2022 — Aprovado o Projeto de Lei Complementar nº 125, de 2022. (09 dez 2025)"
+description: "Como a bancada gaúcha votou em 09 dez 2025: Aprovado o Projeto de Lei Complementar nº 125, de 2022. Sim: 436; Não: 2; Total: 438."
 ---
 
 # PLP 125/2022
 
-<p class="subtitulo"><b>2025-12-09</b> · Aprovado o Projeto de Lei Complementar nº 125, de 2022.</p>
+<p class="subtitulo"><b>09 dez 2025</b> · Aprovado o Projeto de Lei Complementar nº 125, de 2022.</p>
 
 | | |
 |---|---|

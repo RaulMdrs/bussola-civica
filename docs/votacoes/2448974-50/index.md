@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 397/2024 — Mantido o texto. (2024-08-14)"
-description: "Como a bancada gaúcha votou em 2024-08-14: Mantido o texto. Sim: 283; não: 64; abstenção: 2; total: 349."
+title: "PL 397/2024 — Mantido o texto. (14 ago 2024)"
+description: "Como a bancada gaúcha votou em 14 ago 2024: Mantido o texto. Sim: 283; não: 64; abstenção: 2; total: 349."
 ---
 
 # PL 397/2024
 
-<p class="subtitulo"><b>2024-08-14</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>14 ago 2024</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

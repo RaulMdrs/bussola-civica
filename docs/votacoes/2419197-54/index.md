@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 545/2024 — Rejeitada a Emenda de Plenário n° 4. (2024-04-09)"
-description: "Como a bancada gaúcha votou em 2024-04-09: Rejeitada a Emenda de Plenário n° 4. Sim: 86; não: 178; total: 264."
+title: "PL 545/2024 — Rejeitada a Emenda de Plenário n° 4. (09 abr 2024)"
+description: "Como a bancada gaúcha votou em 09 abr 2024: Rejeitada a Emenda de Plenário n° 4. Sim: 86; não: 178; total: 264."
 ---
 
 # PL 545/2024
 
-<p class="subtitulo"><b>2024-04-09</b> · Rejeitada a Emenda de Plenário n° 4.</p>
+<p class="subtitulo"><b>09 abr 2024</b> · Rejeitada a Emenda de Plenário n° 4.</p>
 
 | | |
 |---|---|

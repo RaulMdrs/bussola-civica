@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4438/2023 — Rejeitada a Emenda de Plenário nº 21. (2023-09-14)"
-description: "Como a bancada gaúcha votou em 2023-09-14: Rejeitada a Emenda de Plenário nº 21. Sim: 122; não: 304; abstenção: 4; total: 430."
+title: "PL 4438/2023 — Rejeitada a Emenda de Plenário nº 21. (14 set 2023)"
+description: "Como a bancada gaúcha votou em 14 set 2023: Rejeitada a Emenda de Plenário nº 21. Sim: 122; não: 304; abstenção: 4; total: 430."
 ---
 
 # PL 4438/2023
 
-<p class="subtitulo"><b>2023-09-14</b> · Rejeitada a Emenda de Plenário nº 21.</p>
+<p class="subtitulo"><b>14 set 2023</b> · Rejeitada a Emenda de Plenário nº 21.</p>
 
 | | |
 |---|---|

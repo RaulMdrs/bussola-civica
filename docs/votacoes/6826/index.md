@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei Complementar nº 175, de 2023, nos termos do pa (2024-04-17)"
-description: "Como os senadores gaúchos votou em 2024-04-17: Votação nominal do Projeto de Lei Complementar nº 175, de 2023, nos termos do parecer."
+title: "Votação nominal do Projeto de Lei Complementar nº 175, de 2023, nos termos do pa (17 abr 2024)"
+description: "Como os senadores gaúchos votou em 17 abr 2024: Votação nominal do Projeto de Lei Complementar nº 175, de 2023, nos termos do parecer."
 ---
 
-# Votação de 2024-04-17
+# Votação de 17 abr 2024
 
-<p class="subtitulo"><b>2024-04-17</b> · Votação nominal do Projeto de Lei Complementar nº 175, de 2023, nos termos do parecer.</p>
+<p class="subtitulo"><b>17 abr 2024</b> · Votação nominal do Projeto de Lei Complementar nº 175, de 2023, nos termos do parecer.</p>
 
 | | |
 |---|---|

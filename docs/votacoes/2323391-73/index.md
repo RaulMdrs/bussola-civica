@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1269/2022 — Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 1. (2024-02-28)"
-description: "Como a bancada gaúcha votou em 2024-02-28: Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 1.269, de 2022. Sim: 343; não: 11; abstenção: 1"
+title: "PL 1269/2022 — Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 1. (28 fev 2024)"
+description: "Como a bancada gaúcha votou em 28 fev 2024: Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 1.269, de 2022. Sim: 343; não: 11; abstenção: 1"
 ---
 
 # PL 1269/2022
 
-<p class="subtitulo"><b>2024-02-28</b> · Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 1.269, de 2022.</p>
+<p class="subtitulo"><b>28 fev 2024</b> · Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 1.269, de 2022.</p>
 
 | | |
 |---|---|

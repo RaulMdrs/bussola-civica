@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 383/2017 — Aprovada, em primeiro turno, a Proposta de Emenda à Constituição  (2026-04-08)"
-description: "Como a bancada gaúcha votou em 2026-04-08: Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinat"
+title: "PEC 383/2017 — Aprovada, em primeiro turno, a Proposta de Emenda à Constituição  (08 abr 2026)"
+description: "Como a bancada gaúcha votou em 08 abr 2026: Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinat"
 ---
 
 # PEC 383/2017
 
-<p class="subtitulo"><b>2026-04-08</b> · Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2.</p>
+<p class="subtitulo"><b>08 abr 2026</b> · Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2.</p>
 
 | | |
 |---|---|

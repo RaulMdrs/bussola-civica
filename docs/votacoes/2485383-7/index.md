@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4183/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2026-03-03)"
-description: "Como a bancada gaúcha votou em 2026-03-03: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 317; Não: 117; Total: 434."
+title: "PL 4183/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (03 mar 2026)"
+description: "Como a bancada gaúcha votou em 03 mar 2026: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 317; Não: 117; Total: 434."
 ---
 
 # PL 4183/2024
 
-<p class="subtitulo"><b>2026-03-03</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>03 mar 2026</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

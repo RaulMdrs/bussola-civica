@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 717/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2026-06-17)"
-description: "Como a bancada gaúcha votou em 2026-06-17: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 273; Não: 160; Abstenção: 4; Total: 437."
+title: "PDL 717/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (17 jun 2026)"
+description: "Como a bancada gaúcha votou em 17 jun 2026: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 273; Não: 160; Abstenção: 4; Total: 437."
 ---
 
 # PDL 717/2024
 
-<p class="subtitulo"><b>2026-06-17</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>17 jun 2026</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

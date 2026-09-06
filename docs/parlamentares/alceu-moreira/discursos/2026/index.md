@@ -19,7 +19,7 @@ description: "Os discursos de Alceu Moreira em 2026, com o sumário oficial e li
 ## Substantivos — 4
 
 <blockquote class="evidencia discurso" id="d-2275">
-<span class="data">2026-05-19 · 18:00</span>
+<span class="data">19 mai 2026 · 18:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado defendeu a aprovação do Projeto de Lei nº 364 de 2019, que dispõe sobre a utilização e proteção da vegetação nativa dos Campos de Altitude associados ou abrangidos pelo bioma Mata Atlântica. Argumentou que a proposta estabelece um corte de 1.500 metros de altitude, abaixo do qual os campos são considerados antropizados desde 1740, com histórico consolidado de uso agropecuário. Por fim, criticou a aplicação da legislação da Mata Atlântica sobre essas áreas em detrimento do Código Florestal.</p>
@@ -28,7 +28,7 @@ description: "Os discursos de Alceu Moreira em 2026, com o sumário oficial e li
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2274">
-<span class="data">2026-04-08 · 21:08</span>
+<span class="data">08 abr 2026 · 21:08</span>
 <div class="corpo">
 <p class="tipo">COMO RELATOR</p>
 <p>O Deputado agradeceu a aprovação do Projeto de Lei nº 399, de 2025, que altera a Lei nº 9.847, de 26 de outubro de 1999, para dispor sobre penalidades relativas à comercialização de combustíveis e biocombustíveis.</p>
@@ -37,7 +37,7 @@ description: "Os discursos de Alceu Moreira em 2026, com o sumário oficial e li
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2273">
-<span class="data">2026-04-08 · 20:56</span>
+<span class="data">08 abr 2026 · 20:56</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
 <p>O Deputado proferiu parecer às Emendas de Plenário apresentadas ao Projeto de lei nº 399, de 2025, que altera a Lei nº 9.847, de 26 de outubro de 1999, para dispor sobre penalidades relativas à comercialização de combustíveis e biocombustíveis.</p>
@@ -46,7 +46,7 @@ description: "Os discursos de Alceu Moreira em 2026, com o sumário oficial e li
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2272">
-<span class="data">2026-04-08 · 20:36</span>
+<span class="data">08 abr 2026 · 20:36</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
 <p>O Deputado proferiu parecer ao Projeto de lei nº 399, de 2025, que altera a Lei nº 9.847, de 26 de outubro de 1999, para dispor sobre penalidades relativas à comercialização de combustíveis e biocombustíveis.</p>

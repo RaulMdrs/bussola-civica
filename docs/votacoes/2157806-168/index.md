@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 8889/2017 — Aprovada a Emenda Aglutinativa nº 1. (2025-11-05)"
-description: "Como a bancada gaúcha votou em 2025-11-05: Aprovada a Emenda Aglutinativa nº 1. Sim: 325; Não: 94; Total: 419."
+title: "PL 8889/2017 — Aprovada a Emenda Aglutinativa nº 1. (05 nov 2025)"
+description: "Como a bancada gaúcha votou em 05 nov 2025: Aprovada a Emenda Aglutinativa nº 1. Sim: 325; Não: 94; Total: 419."
 ---
 
 # PL 8889/2017
 
-<p class="subtitulo"><b>2025-11-05</b> · Aprovada a Emenda Aglutinativa nº 1.</p>
+<p class="subtitulo"><b>05 nov 2025</b> · Aprovada a Emenda Aglutinativa nº 1.</p>
 
 | | |
 |---|---|

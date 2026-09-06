@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 327/2021 — Aprovada a Emenda de Plenário nº 20. (2024-03-20)"
-description: "Como a bancada gaúcha votou em 2024-03-20: Aprovada a Emenda de Plenário nº 20. Sim: 306; não: 121; abstenção: 1; total: 428."
+title: "PL 327/2021 — Aprovada a Emenda de Plenário nº 20. (20 mar 2024)"
+description: "Como a bancada gaúcha votou em 20 mar 2024: Aprovada a Emenda de Plenário nº 20. Sim: 306; não: 121; abstenção: 1; total: 428."
 ---
 
 # PL 327/2021
 
-<p class="subtitulo"><b>2024-03-20</b> · Aprovada a Emenda de Plenário nº 20.</p>
+<p class="subtitulo"><b>20 mar 2024</b> · Aprovada a Emenda de Plenário nº 20.</p>
 
 | | |
 |---|---|

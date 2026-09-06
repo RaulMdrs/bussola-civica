@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 204/2025 — Mantido o texto. (2025-11-03)"
-description: "Como a bancada gaúcha votou em 2025-11-03: Mantido o texto. Sim: 387; Não: 30; Abstenção: 1; Total: 418."
+title: "PLP 204/2025 — Mantido o texto. (03 nov 2025)"
+description: "Como a bancada gaúcha votou em 03 nov 2025: Mantido o texto. Sim: 387; Não: 30; Abstenção: 1; Total: 418."
 ---
 
 # PLP 204/2025
 
-<p class="subtitulo"><b>2025-11-03</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>03 nov 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

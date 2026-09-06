@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6969/2013 — Mantido o texto. (2025-05-27)"
-description: "Como a bancada gaúcha votou em 2025-05-27: Mantido o texto. Sim: 351; Não: 68; Abstenção: 1; Total: 420."
+title: "PL 6969/2013 — Mantido o texto. (27 mai 2025)"
+description: "Como a bancada gaúcha votou em 27 mai 2025: Mantido o texto. Sim: 351; Não: 68; Abstenção: 1; Total: 420."
 ---
 
 # PL 6969/2013
 
-<p class="subtitulo"><b>2025-05-27</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>27 mai 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

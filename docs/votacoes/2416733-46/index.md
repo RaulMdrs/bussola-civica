@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6235/2023 — Mantido o texto. (2024-05-14)"
-description: "Como a bancada gaúcha votou em 2024-05-14: Mantido o texto. Sim: 402; não: 10; total: 412."
+title: "PL 6235/2023 — Mantido o texto. (14 mai 2024)"
+description: "Como a bancada gaúcha votou em 14 mai 2024: Mantido o texto. Sim: 402; não: 10; total: 412."
 ---
 
 # PL 6235/2023
 
-<p class="subtitulo"><b>2024-05-14</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>14 mai 2024</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

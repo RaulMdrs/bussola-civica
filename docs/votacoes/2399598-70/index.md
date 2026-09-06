@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5230/2023 — Rejeitada a Emenda de Plenário nº 40. (2024-03-20)"
-description: "Como a bancada gaúcha votou em 2024-03-20: Rejeitada a Emenda de Plenário nº 40. Sim: 35; não: 375; total: 410."
+title: "PL 5230/2023 — Rejeitada a Emenda de Plenário nº 40. (20 mar 2024)"
+description: "Como a bancada gaúcha votou em 20 mar 2024: Rejeitada a Emenda de Plenário nº 40. Sim: 35; não: 375; total: 410."
 ---
 
 # PL 5230/2023
 
-<p class="subtitulo"><b>2024-03-20</b> · Rejeitada a Emenda de Plenário nº 40.</p>
+<p class="subtitulo"><b>20 mar 2024</b> · Rejeitada a Emenda de Plenário nº 40.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 223/2023 — Rejeitado o Substitutivo ao Projeto de Lei Complementar nº 223, d (2025-02-18)"
-description: "Como a bancada gaúcha votou em 2025-02-18: Rejeitado o Substitutivo ao Projeto de Lei Complementar nº 223, de 2023, da Comissão de Indústria, Comércio e "
+title: "PLP 223/2023 — Rejeitado o Substitutivo ao Projeto de Lei Complementar nº 223, d (18 fev 2025)"
+description: "Como a bancada gaúcha votou em 18 fev 2025: Rejeitado o Substitutivo ao Projeto de Lei Complementar nº 223, de 2023, da Comissão de Indústria, Comércio e "
 ---
 
 # PLP 223/2023
 
-<p class="subtitulo"><b>2025-02-18</b> · Rejeitado o Substitutivo ao Projeto de Lei Complementar nº 223, de 2023, da Comissão de Indústria, Comércio e Serviços.</p>
+<p class="subtitulo"><b>18 fev 2025</b> · Rejeitado o Substitutivo ao Projeto de Lei Complementar nº 223, de 2023, da Comissão de Indústria, Comércio e Serviços.</p>
 
 | | |
 |---|---|

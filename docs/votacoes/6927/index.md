@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei Complementar nº 48, de 2023, nos termos do par (2025-04-29)"
-description: "Como os senadores gaúchos votou em 2025-04-29: Votação nominal do Projeto de Lei Complementar nº 48, de 2023, nos termos do parecer de Plenário."
+title: "Votação nominal do Projeto de Lei Complementar nº 48, de 2023, nos termos do par (29 abr 2025)"
+description: "Como os senadores gaúchos votou em 29 abr 2025: Votação nominal do Projeto de Lei Complementar nº 48, de 2023, nos termos do parecer de Plenário."
 ---
 
-# Votação de 2025-04-29
+# Votação de 29 abr 2025
 
-<p class="subtitulo"><b>2025-04-29</b> · Votação nominal do Projeto de Lei Complementar nº 48, de 2023, nos termos do parecer de Plenário.</p>
+<p class="subtitulo"><b>29 abr 2025</b> · Votação nominal do Projeto de Lei Complementar nº 48, de 2023, nos termos do parecer de Plenário.</p>
 
 | | |
 |---|---|

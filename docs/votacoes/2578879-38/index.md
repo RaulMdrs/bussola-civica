@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5490/2025 — Aprovado o Projeto de Lei nº 5.490, de 2025. (2026-03-03)"
-description: "Como a bancada gaúcha votou em 2026-03-03: Aprovado o Projeto de Lei nº 5.490, de 2025. Sim: 248; Não: 164; Abstenção: 2; Total: 414."
+title: "PL 5490/2025 — Aprovado o Projeto de Lei nº 5.490, de 2025. (03 mar 2026)"
+description: "Como a bancada gaúcha votou em 03 mar 2026: Aprovado o Projeto de Lei nº 5.490, de 2025. Sim: 248; Não: 164; Abstenção: 2; Total: 414."
 ---
 
 # PL 5490/2025
 
-<p class="subtitulo"><b>2026-03-03</b> · Aprovado o Projeto de Lei nº 5.490, de 2025.</p>
+<p class="subtitulo"><b>03 mar 2026</b> · Aprovado o Projeto de Lei nº 5.490, de 2025.</p>
 
 | | |
 |---|---|

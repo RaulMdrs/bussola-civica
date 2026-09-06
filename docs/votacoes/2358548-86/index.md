@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2162/2023 — Mantido o texto. (2025-12-09)"
-description: "Como a bancada gaúcha votou em 2025-12-09: Mantido o texto. Sim: 208; Não: 121; Total: 329."
+title: "PL 2162/2023 — Mantido o texto. (09 dez 2025)"
+description: "Como a bancada gaúcha votou em 09 dez 2025: Mantido o texto. Sim: 208; Não: 121; Total: 329."
 ---
 
 # PL 2162/2023
 
-<p class="subtitulo"><b>2025-12-09</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>09 dez 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4120/2024 — Aprovado o Substitutivo ao Projeto de Lei nº 4.120, de 2024, adot (2024-12-12)"
-description: "Como a bancada gaúcha votou em 2024-12-12: Aprovado o Substitutivo ao Projeto de Lei nº 4.120, de 2024, adotado pela relatora da Comissão de Segurança Pú"
+title: "PL 4120/2024 — Aprovado o Substitutivo ao Projeto de Lei nº 4.120, de 2024, adot (12 dez 2024)"
+description: "Como a bancada gaúcha votou em 12 dez 2024: Aprovado o Substitutivo ao Projeto de Lei nº 4.120, de 2024, adotado pela relatora da Comissão de Segurança Pú"
 ---
 
 # PL 4120/2024
 
-<p class="subtitulo"><b>2024-12-12</b> · Aprovado o Substitutivo ao Projeto de Lei nº 4.120, de 2024, adotado pela relatora da Comissão de Segurança Pública e Combate ao Crime Organizado.</p>
+<p class="subtitulo"><b>12 dez 2024</b> · Aprovado o Substitutivo ao Projeto de Lei nº 4.120, de 2024, adotado pela relatora da Comissão de Segurança Pública e Combate ao Crime Organizado.</p>
 
 | | |
 |---|---|

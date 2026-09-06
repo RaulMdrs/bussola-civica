@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 171/2026 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2026-07-14)"
-description: "Como a bancada gaúcha votou em 2026-07-14: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 139; Abstenção: 1; Total: 416."
+title: "PDL 171/2026 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (14 jul 2026)"
+description: "Como a bancada gaúcha votou em 14 jul 2026: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 139; Abstenção: 1; Total: 416."
 ---
 
 # PDL 171/2026
 
-<p class="subtitulo"><b>2026-07-14</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>14 jul 2026</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

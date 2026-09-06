@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3904/2023 — Rejeitado o Requerimento de Urgência (Art. 155 do RICD). (2025-11-03)"
-description: "Como a bancada gaúcha votou em 2025-11-03: Rejeitado o Requerimento de Urgência (Art. 155 do RICD). Sim: 236; Não: 178; Total: 414."
+title: "PL 3904/2023 — Rejeitado o Requerimento de Urgência (Art. 155 do RICD). (03 nov 2025)"
+description: "Como a bancada gaúcha votou em 03 nov 2025: Rejeitado o Requerimento de Urgência (Art. 155 do RICD). Sim: 236; Não: 178; Total: 414."
 ---
 
 # PL 3904/2023
 
-<p class="subtitulo"><b>2025-11-03</b> · Rejeitado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>03 nov 2025</b> · Rejeitado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 11247/2018 — Aprovada a Emenda de Plenário nº 7. (2023-11-29)"
-description: "Como a bancada gaúcha votou em 2023-11-29: Aprovada a Emenda de Plenário nº 7. Sim: 253; não: 160; abstenção: 1; total: 414."
+title: "PL 11247/2018 — Aprovada a Emenda de Plenário nº 7. (29 nov 2023)"
+description: "Como a bancada gaúcha votou em 29 nov 2023: Aprovada a Emenda de Plenário nº 7. Sim: 253; não: 160; abstenção: 1; total: 414."
 ---
 
 # PL 11247/2018
 
-<p class="subtitulo"><b>2023-11-29</b> · Aprovada a Emenda de Plenário nº 7.</p>
+<p class="subtitulo"><b>29 nov 2023</b> · Aprovada a Emenda de Plenário nº 7.</p>
 
 | | |
 |---|---|

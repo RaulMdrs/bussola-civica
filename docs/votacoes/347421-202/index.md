@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 31/2007 — Suprimido o texto. (2024-12-19)"
-description: "Como a bancada gaúcha votou em 2024-12-19: Suprimido o texto. Sim: 4; Não: 360; Total: 364."
+title: "PEC 31/2007 — Suprimido o texto. (19 dez 2024)"
+description: "Como a bancada gaúcha votou em 19 dez 2024: Suprimido o texto. Sim: 4; Não: 360; Total: 364."
 ---
 
 # PEC 31/2007
 
-<p class="subtitulo"><b>2024-12-19</b> · Suprimido o texto.</p>
+<p class="subtitulo"><b>19 dez 2024</b> · Suprimido o texto.</p>
 
 | | |
 |---|---|

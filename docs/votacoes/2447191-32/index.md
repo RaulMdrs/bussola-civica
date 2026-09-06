@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 72/2024 — Rejeitado o Requerimento. (2024-09-10)"
-description: "Como a bancada gaúcha votou em 2024-09-10: Rejeitado o Requerimento. Sim: 20; Não: 350; Abstenção: 2; Total: 372."
+title: "PLP 72/2024 — Rejeitado o Requerimento. (10 set 2024)"
+description: "Como a bancada gaúcha votou em 10 set 2024: Rejeitado o Requerimento. Sim: 20; Não: 350; Abstenção: 2; Total: 372."
 ---
 
 # PLP 72/2024
 
-<p class="subtitulo"><b>2024-09-10</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>10 set 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

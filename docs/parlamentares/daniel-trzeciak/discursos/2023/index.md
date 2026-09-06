@@ -19,7 +19,7 @@ description: "Os discursos de Daniel Trzeciak em 2023, com o sumário oficial e 
 ## Substantivos — 6
 
 <blockquote class="evidencia discurso" id="d-3834">
-<span class="data">2023-11-22 · 15:00</span>
+<span class="data">22 nov 2023 · 15:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado elogiou o Vereador Jone Soares de Pelotas, no Rio Grande do Sul, por buscar recursos em Brasília, especialmente os 5 milhões de reais para hospitais filantrópicos. Destacou a importância de descentralizar recursos para aprimorar a saúde local.</p>
@@ -28,7 +28,7 @@ description: "Os discursos de Daniel Trzeciak em 2023, com o sumário oficial e 
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-3833">
-<span class="data">2023-10-24 · 18:32</span>
+<span class="data">24 out 2023 · 18:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado destacou a importância das obras de infraestrutura para o desenvolvimento e competitividade do Brasil. Criticou a longa duração da duplicação da BR-116 no Rio Grande do Sul, iniciada em 2009 e que ainda está em andamento, apesar de quatro governos e presidentes terem passado. Enfatizou a necessidade de contínua mobilização para concluir a obra, pois obras paradas representam prejuízo. Além disso, abordou a questão dos pedágios na região sul do Rio Grande do Sul, onde as tarifas são consideravelmente altas em relação à realidade socioeconômica da região. Por fim, prometeu lutar por um sistema de pedágios mais justo que promova o crescimento, o emprego e a competitividade na região.</p>
@@ -37,7 +37,7 @@ description: "Os discursos de Daniel Trzeciak em 2023, com o sumário oficial e 
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-3832">
-<span class="data">2023-09-20 · 18:32</span>
+<span class="data">20 set 2023 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
 <p>O Deputado proferiu parecer ao Projeto de Decreto Legislativo nº 321, de 2023, que reconhece, para os fins do art. 65, § 1º, da Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), a ocorrência do estado de calamidade pública no Estado do Rio Grande do Sul em decorrência dos eventos climáticos de chuvas intensas.</p>
@@ -46,7 +46,7 @@ description: "Os discursos de Daniel Trzeciak em 2023, com o sumário oficial e 
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-3831">
-<span class="data">2023-05-31 · 11:36</span>
+<span class="data">31 mai 2023 · 11:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>Presença, na Casa, da Prefeita Paula Mascarenhas e do Vice-Prefeito e Secretário Municipal de Desenvolvimento Rural, Idemar Barz, do Município de Pelotas, Estado do Rio Grande do Sul. Realização da Feira Nacional do Doce — FENADOCE, em Pelotas.</p>
@@ -55,7 +55,7 @@ description: "Os discursos de Daniel Trzeciak em 2023, com o sumário oficial e 
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-3830">
-<span class="data">2023-04-19 · 15:04</span>
+<span class="data">19 abr 2023 · 15:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>Desespero da Esquerda diante da participação do Ministro-Chefe do Gabinete de Segurança Institucional da Presidência da República, general Marco Edson Gonçalves Dias, nos atos de vandalismo praticados contra as sedes dos Poderes da República. Defesa de instalação da CPMI destinada à investigação do caso.</p>
@@ -64,7 +64,7 @@ description: "Os discursos de Daniel Trzeciak em 2023, com o sumário oficial e 
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-3829">
-<span class="data">2023-04-13 · 11:44</span>
+<span class="data">13 abr 2023 · 11:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>Prioridade dos Parlamentares nas contendas político-partidárias em detrimento da discussão de matérias de sumo interesse do País e do povo brasileiro.</p>

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 10273/2018 — Rejeitado o Recurso nº 7/2024 (art. 58, § 1º c/c art. 132, § 2º, (2025-09-02)"
-description: "Como a bancada gaúcha votou em 2025-09-02: Rejeitado o Recurso nº 7/2024 (art. 58, § 1º c/c art. 132, § 2º, RICD). Sim: 120; Não: 249; Total: 369."
+title: "PL 10273/2018 — Rejeitado o Recurso nº 7/2024 (art. 58, § 1º c/c art. 132, § 2º, (02 set 2025)"
+description: "Como a bancada gaúcha votou em 02 set 2025: Rejeitado o Recurso nº 7/2024 (art. 58, § 1º c/c art. 132, § 2º, RICD). Sim: 120; Não: 249; Total: 369."
 ---
 
 # PL 10273/2018
 
-<p class="subtitulo"><b>2025-09-02</b> · Rejeitado o Recurso nº 7/2024 (art. 58, § 1º c/c art. 132, § 2º, RICD).</p>
+<p class="subtitulo"><b>02 set 2025</b> · Rejeitado o Recurso nº 7/2024 (art. 58, § 1º c/c art. 132, § 2º, RICD).</p>
 
 | | |
 |---|---|

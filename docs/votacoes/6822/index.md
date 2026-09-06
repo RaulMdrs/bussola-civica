@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação, em segundo turno, da PEC nº 72/2023. (2024-03-13)"
-description: "Como os senadores gaúchos votou em 2024-03-13: Votação, em segundo turno, da PEC nº 72/2023."
+title: "Votação, em segundo turno, da PEC nº 72/2023. (13 mar 2024)"
+description: "Como os senadores gaúchos votou em 13 mar 2024: Votação, em segundo turno, da PEC nº 72/2023."
 ---
 
-# Votação de 2024-03-13
+# Votação de 13 mar 2024
 
-<p class="subtitulo"><b>2024-03-13</b> · Votação, em segundo turno, da PEC nº 72/2023.</p>
+<p class="subtitulo"><b>13 mar 2024</b> · Votação, em segundo turno, da PEC nº 72/2023.</p>
 
 | | |
 |---|---|

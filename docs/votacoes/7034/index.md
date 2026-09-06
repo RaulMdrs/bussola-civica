@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Requerimento nº 911, de 2025, de iniciativa de Líderes, que s (2025-12-09)"
-description: "Como os senadores gaúchos votou em 2025-12-09: Votação nominal do Requerimento nº 911, de 2025, de iniciativa de Líderes, que solicita calendário especial pa"
+title: "Votação nominal do Requerimento nº 911, de 2025, de iniciativa de Líderes, que s (09 dez 2025)"
+description: "Como os senadores gaúchos votou em 09 dez 2025: Votação nominal do Requerimento nº 911, de 2025, de iniciativa de Líderes, que solicita calendário especial pa"
 ---
 
-# Votação de 2025-12-09
+# Votação de 09 dez 2025
 
-<p class="subtitulo"><b>2025-12-09</b> · Votação nominal do Requerimento nº 911, de 2025, de iniciativa de Líderes, que solicita calendário especial para a Proposta de Emenda à Constituição nº 48, de 2023.</p>
+<p class="subtitulo"><b>09 dez 2025</b> · Votação nominal do Requerimento nº 911, de 2025, de iniciativa de Líderes, que solicita calendário especial para a Proposta de Emenda à Constituição nº 48, de 2023.</p>
 
 | | |
 |---|---|

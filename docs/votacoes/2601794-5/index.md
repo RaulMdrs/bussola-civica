@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1743/2024 — Rejeitado o Recurso nº 2, de 2026, contra parecer terminativo da  (2026-02-09)"
-description: "Como a bancada gaúcha votou em 2026-02-09: Rejeitado o Recurso nº 2, de 2026, contra parecer terminativo da Comissão de Constituição e Justiça e de Cidad"
+title: "PL 1743/2024 — Rejeitado o Recurso nº 2, de 2026, contra parecer terminativo da  (09 fev 2026)"
+description: "Como a bancada gaúcha votou em 09 fev 2026: Rejeitado o Recurso nº 2, de 2026, contra parecer terminativo da Comissão de Constituição e Justiça e de Cidad"
 ---
 
 # PL 1743/2024
 
-<p class="subtitulo"><b>2026-02-09</b> · Rejeitado o Recurso nº 2, de 2026, contra parecer terminativo da Comissão de Constituição e Justiça e de Cidadania à Emenda de Plenário nº 3 oferecida ao Projeto de Lei nº 1.743, de 2024.</p>
+<p class="subtitulo"><b>09 fev 2026</b> · Rejeitado o Recurso nº 2, de 2026, contra parecer terminativo da Comissão de Constituição e Justiça e de Cidadania à Emenda de Plenário nº 3 oferecida ao Projeto de Lei nº 1.743, de 2024.</p>
 
 | | |
 |---|---|

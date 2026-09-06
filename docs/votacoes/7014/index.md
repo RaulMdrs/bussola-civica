@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Emenda nº 587 ao Projeto de Lei Complementar nº 108, de 2024, (2025-09-30)"
-description: "Como os senadores gaúchos votou em 2025-09-30: Votação nominal da Emenda nº 587 ao Projeto de Lei Complementar nº 108, de 2024, destacada."
+title: "Votação nominal da Emenda nº 587 ao Projeto de Lei Complementar nº 108, de 2024, (30 set 2025)"
+description: "Como os senadores gaúchos votou em 30 set 2025: Votação nominal da Emenda nº 587 ao Projeto de Lei Complementar nº 108, de 2024, destacada."
 ---
 
-# Votação de 2025-09-30
+# Votação de 30 set 2025
 
-<p class="subtitulo"><b>2025-09-30</b> · Votação nominal da Emenda nº 587 ao Projeto de Lei Complementar nº 108, de 2024, destacada.</p>
+<p class="subtitulo"><b>30 set 2025</b> · Votação nominal da Emenda nº 587 ao Projeto de Lei Complementar nº 108, de 2024, destacada.</p>
 
 | | |
 |---|---|

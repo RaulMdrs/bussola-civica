@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5582/2025 — Aprovado o Substitutivo ao Projeto de Lei nº 5.582, de 2025, adot (2025-11-18)"
-description: "Como a bancada gaúcha votou em 2025-11-18: Aprovado o Substitutivo ao Projeto de Lei nº 5.582, de 2025, adotado pelo relator da Comissão de Segurança Púb"
+title: "PL 5582/2025 — Aprovado o Substitutivo ao Projeto de Lei nº 5.582, de 2025, adot (18 nov 2025)"
+description: "Como a bancada gaúcha votou em 18 nov 2025: Aprovado o Substitutivo ao Projeto de Lei nº 5.582, de 2025, adotado pelo relator da Comissão de Segurança Púb"
 ---
 
 # PL 5582/2025
 
-<p class="subtitulo"><b>2025-11-18</b> · Aprovado o Substitutivo ao Projeto de Lei nº 5.582, de 2025, adotado pelo relator da Comissão de Segurança Pública e Combate ao Crime Organizado, ressalvados os destaques.</p>
+<p class="subtitulo"><b>18 nov 2025</b> · Aprovado o Substitutivo ao Projeto de Lei nº 5.582, de 2025, adotado pelo relator da Comissão de Segurança Pública e Combate ao Crime Organizado, ressalvados os destaques.</p>
 
 | | |
 |---|---|

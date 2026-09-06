@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei Complementar n° 6, de 2024. (2026-03-25)"
-description: "Como os senadores gaúchos votou em 2026-03-25: Votação nominal do Projeto de Lei Complementar n° 6, de 2024."
+title: "Votação nominal do Projeto de Lei Complementar n° 6, de 2024. (25 mar 2026)"
+description: "Como os senadores gaúchos votou em 25 mar 2026: Votação nominal do Projeto de Lei Complementar n° 6, de 2024."
 ---
 
-# Votação de 2026-03-25
+# Votação de 25 mar 2026
 
-<p class="subtitulo"><b>2026-03-25</b> · Votação nominal do Projeto de Lei Complementar n° 6, de 2024.</p>
+<p class="subtitulo"><b>25 mar 2026</b> · Votação nominal do Projeto de Lei Complementar n° 6, de 2024.</p>
 
 | | |
 |---|---|

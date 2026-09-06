@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3117/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-08-28)"
-description: "Como a bancada gaúcha votou em 2024-08-28: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 350; não: 60; total: 410."
+title: "PL 3117/2024 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (28 ago 2024)"
+description: "Como a bancada gaúcha votou em 28 ago 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 350; não: 60; total: 410."
 ---
 
 # PL 3117/2024
 
-<p class="subtitulo"><b>2024-08-28</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>28 ago 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

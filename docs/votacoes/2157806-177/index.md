@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 8889/2017 — Mantido o texto. (2025-11-05)"
-description: "Como a bancada gaúcha votou em 2025-11-05: Mantido o texto. Sim: 327; Não: 98; Total: 425."
+title: "PL 8889/2017 — Mantido o texto. (05 nov 2025)"
+description: "Como a bancada gaúcha votou em 05 nov 2025: Mantido o texto. Sim: 327; Não: 98; Total: 425."
 ---
 
 # PL 8889/2017
 
-<p class="subtitulo"><b>2025-11-05</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>05 nov 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

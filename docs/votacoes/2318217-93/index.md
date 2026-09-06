@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 235/2019 — Rejeitada a Emenda de Plenário nº 10. (2025-09-03)"
-description: "Como a bancada gaúcha votou em 2025-09-03: Rejeitada a Emenda de Plenário nº 10. Sim: 165; Não: 276; Total: 441."
+title: "PLP 235/2019 — Rejeitada a Emenda de Plenário nº 10. (03 set 2025)"
+description: "Como a bancada gaúcha votou em 03 set 2025: Rejeitada a Emenda de Plenário nº 10. Sim: 165; Não: 276; Total: 441."
 ---
 
 # PLP 235/2019
 
-<p class="subtitulo"><b>2025-09-03</b> · Rejeitada a Emenda de Plenário nº 10.</p>
+<p class="subtitulo"><b>03 set 2025</b> · Rejeitada a Emenda de Plenário nº 10.</p>
 
 | | |
 |---|---|

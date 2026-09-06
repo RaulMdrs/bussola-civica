@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 125/2022 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2025-10-30)"
-description: "Como a bancada gaúcha votou em 2025-10-30: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 336; Não: 50; Total: 386."
+title: "PLP 125/2022 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (30 out 2025)"
+description: "Como a bancada gaúcha votou em 30 out 2025: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 336; Não: 50; Total: 386."
 ---
 
 # PLP 125/2022
 
-<p class="subtitulo"><b>2025-10-30</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>30 out 2025</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

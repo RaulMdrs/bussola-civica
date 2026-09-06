@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1313/2025 — Aprovada a Medida Provisória nº 1.313 de 2025, na forma do Proje (2026-02-02)"
-description: "Como a bancada gaúcha votou em 2026-02-02: Aprovada a Medida Provisória nº 1.313 de 2025, na forma do Projeto de Lei de Conversão, ressalvados os destaqu"
+title: "MPV 1313/2025 — Aprovada a Medida Provisória nº 1.313 de 2025, na forma do Proje (02 fev 2026)"
+description: "Como a bancada gaúcha votou em 02 fev 2026: Aprovada a Medida Provisória nº 1.313 de 2025, na forma do Projeto de Lei de Conversão, ressalvados os destaqu"
 ---
 
 # MPV 1313/2025
 
-<p class="subtitulo"><b>2026-02-02</b> · Aprovada a Medida Provisória nº 1.313 de 2025, na forma do Projeto de Lei de Conversão, ressalvados os destaques.</p>
+<p class="subtitulo"><b>02 fev 2026</b> · Aprovada a Medida Provisória nº 1.313 de 2025, na forma do Projeto de Lei de Conversão, ressalvados os destaques.</p>
 
 | | |
 |---|---|

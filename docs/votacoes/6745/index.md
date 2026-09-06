@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei nº 2.384/2023 e das Emendas nºs 23 e 26, de re (2023-08-30)"
-description: "Como os senadores gaúchos votou em 2023-08-30: Votação nominal do Projeto de Lei nº 2.384/2023 e das Emendas nºs 23 e 26, de redação."
+title: "Votação nominal do Projeto de Lei nº 2.384/2023 e das Emendas nºs 23 e 26, de re (30 ago 2023)"
+description: "Como os senadores gaúchos votou em 30 ago 2023: Votação nominal do Projeto de Lei nº 2.384/2023 e das Emendas nºs 23 e 26, de redação."
 ---
 
-# Votação de 2023-08-30
+# Votação de 30 ago 2023
 
-<p class="subtitulo"><b>2023-08-30</b> · Votação nominal do Projeto de Lei nº 2.384/2023 e das Emendas nºs 23 e 26, de redação.</p>
+<p class="subtitulo"><b>30 ago 2023</b> · Votação nominal do Projeto de Lei nº 2.384/2023 e das Emendas nºs 23 e 26, de redação.</p>
 
 | | |
 |---|---|

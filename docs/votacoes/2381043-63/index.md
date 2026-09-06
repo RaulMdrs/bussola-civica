@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4035/2023 — Aprovado o Projeto de Lei nº 4.035, de 2023, ressalvados os desta (2023-11-22)"
-description: "Como a bancada gaúcha votou em 2023-11-22: Aprovado o Projeto de Lei nº 4.035, de 2023, ressalvados os destaques. Sim: 235; não: 110; abstenção: 1; total"
+title: "PL 4035/2023 — Aprovado o Projeto de Lei nº 4.035, de 2023, ressalvados os desta (22 nov 2023)"
+description: "Como a bancada gaúcha votou em 22 nov 2023: Aprovado o Projeto de Lei nº 4.035, de 2023, ressalvados os destaques. Sim: 235; não: 110; abstenção: 1; total"
 ---
 
 # PL 4035/2023
 
-<p class="subtitulo"><b>2023-11-22</b> · Aprovado o Projeto de Lei nº 4.035, de 2023, ressalvados os destaques.</p>
+<p class="subtitulo"><b>22 nov 2023</b> · Aprovado o Projeto de Lei nº 4.035, de 2023, ressalvados os destaques.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6235/2023 — Rejeitado o Requerimento. (2024-05-14)"
-description: "Como a bancada gaúcha votou em 2024-05-14: Rejeitado o Requerimento. Sim: 44; não: 364; total: 408."
+title: "PL 6235/2023 — Rejeitado o Requerimento. (14 mai 2024)"
+description: "Como a bancada gaúcha votou em 14 mai 2024: Rejeitado o Requerimento. Sim: 44; não: 364; total: 408."
 ---
 
 # PL 6235/2023
 
-<p class="subtitulo"><b>2024-05-14</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>14 mai 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

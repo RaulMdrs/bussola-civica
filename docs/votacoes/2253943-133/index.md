@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 143/2020 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 143, de (2025-08-26)"
-description: "Como a bancada gaúcha votou em 2025-08-26: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 143, de 2020, da Comissão de Finanças e Tributação. "
+title: "PLP 143/2020 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 143, de (26 ago 2025)"
+description: "Como a bancada gaúcha votou em 26 ago 2025: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 143, de 2020, da Comissão de Finanças e Tributação. "
 ---
 
 # PLP 143/2020
 
-<p class="subtitulo"><b>2025-08-26</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 143, de 2020, da Comissão de Finanças e Tributação.</p>
+<p class="subtitulo"><b>26 ago 2025</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 143, de 2020, da Comissão de Finanças e Tributação.</p>
 
 | | |
 |---|---|

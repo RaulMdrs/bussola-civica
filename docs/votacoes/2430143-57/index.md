@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 68/2024 — Rejeitado o Requerimento. (2024-07-10)"
-description: "Como a bancada gaúcha votou em 2024-07-10: Rejeitado o Requerimento. Sim: 134; não: 309; abstenção: 4; total: 447."
+title: "PLP 68/2024 — Rejeitado o Requerimento. (10 jul 2024)"
+description: "Como a bancada gaúcha votou em 10 jul 2024: Rejeitado o Requerimento. Sim: 134; não: 309; abstenção: 4; total: 447."
 ---
 
 # PLP 68/2024
 
-<p class="subtitulo"><b>2024-07-10</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>10 jul 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

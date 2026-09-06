@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do PLP nº 192/2023, nos termos dos pareceres, com adequações red (2025-09-02)"
-description: "Como os senadores gaúchos votou em 2025-09-02: Votação nominal do PLP nº 192/2023, nos termos dos pareceres, com adequações redacionais do Relator."
+title: "Votação nominal do PLP nº 192/2023, nos termos dos pareceres, com adequações red (02 set 2025)"
+description: "Como os senadores gaúchos votou em 02 set 2025: Votação nominal do PLP nº 192/2023, nos termos dos pareceres, com adequações redacionais do Relator."
 ---
 
-# Votação de 2025-09-02
+# Votação de 02 set 2025
 
-<p class="subtitulo"><b>2025-09-02</b> · Votação nominal do PLP nº 192/2023, nos termos dos pareceres, com adequações redacionais do Relator.</p>
+<p class="subtitulo"><b>02 set 2025</b> · Votação nominal do PLP nº 192/2023, nos termos dos pareceres, com adequações redacionais do Relator.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1301/2025 — Aprovada a Medida Provisória, na forma da Emenda Aglutinativa nº (2025-09-24)"
-description: "Como a bancada gaúcha votou em 2025-09-24: Aprovada a Medida Provisória, na forma da Emenda Aglutinativa nº 1, ressalvados os destaques. Sim: 403; Não: 6"
+title: "MPV 1301/2025 — Aprovada a Medida Provisória, na forma da Emenda Aglutinativa nº (24 set 2025)"
+description: "Como a bancada gaúcha votou em 24 set 2025: Aprovada a Medida Provisória, na forma da Emenda Aglutinativa nº 1, ressalvados os destaques. Sim: 403; Não: 6"
 ---
 
 # MPV 1301/2025
 
-<p class="subtitulo"><b>2025-09-24</b> · Aprovada a Medida Provisória, na forma da Emenda Aglutinativa nº 1, ressalvados os destaques.</p>
+<p class="subtitulo"><b>24 set 2025</b> · Aprovada a Medida Provisória, na forma da Emenda Aglutinativa nº 1, ressalvados os destaques.</p>
 
 | | |
 |---|---|

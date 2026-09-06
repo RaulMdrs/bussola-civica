@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Emenda nº 2 (Substitutivo) ao Projeto de Lei Complementar nº 204, de 2025, nos t (2025-10-22)"
-description: "Como os senadores gaúchos votou em 2025-10-22: Emenda nº 2 (Substitutivo) ao Projeto de Lei Complementar nº 204, de 2025, nos termos do parecer."
+title: "Emenda nº 2 (Substitutivo) ao Projeto de Lei Complementar nº 204, de 2025, nos t (22 out 2025)"
+description: "Como os senadores gaúchos votou em 22 out 2025: Emenda nº 2 (Substitutivo) ao Projeto de Lei Complementar nº 204, de 2025, nos termos do parecer."
 ---
 
-# Votação de 2025-10-22
+# Votação de 22 out 2025
 
-<p class="subtitulo"><b>2025-10-22</b> · Emenda nº 2 (Substitutivo) ao Projeto de Lei Complementar nº 204, de 2025, nos termos do parecer.</p>
+<p class="subtitulo"><b>22 out 2025</b> · Emenda nº 2 (Substitutivo) ao Projeto de Lei Complementar nº 204, de 2025, nos termos do parecer.</p>
 
 | | |
 |---|---|

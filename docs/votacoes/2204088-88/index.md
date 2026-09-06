@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3010/2019 — Aprovado o Substitutivo ao Projeto de Lei nº 3.010, de 2019, adot (2024-09-09)"
-description: "Como a bancada gaúcha votou em 2024-09-09: Aprovado o Substitutivo ao Projeto de Lei nº 3.010, de 2019, adotado pelo Relator da Comissão de Saúde. Sim: 4"
+title: "PL 3010/2019 — Aprovado o Substitutivo ao Projeto de Lei nº 3.010, de 2019, adot (09 set 2024)"
+description: "Como a bancada gaúcha votou em 09 set 2024: Aprovado o Substitutivo ao Projeto de Lei nº 3.010, de 2019, adotado pelo Relator da Comissão de Saúde. Sim: 4"
 ---
 
 # PL 3010/2019
 
-<p class="subtitulo"><b>2024-09-09</b> · Aprovado o Substitutivo ao Projeto de Lei nº 3.010, de 2019, adotado pelo Relator da Comissão de Saúde.</p>
+<p class="subtitulo"><b>09 set 2024</b> · Aprovado o Substitutivo ao Projeto de Lei nº 3.010, de 2019, adotado pelo Relator da Comissão de Saúde.</p>
 
 | | |
 |---|---|

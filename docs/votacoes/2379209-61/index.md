@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3914/2023 — Mantido o texto. (2025-03-25)"
-description: "Como a bancada gaúcha votou em 2025-03-25: Mantido o texto. Sim: 300; Não: 99; Total: 399."
+title: "PL 3914/2023 — Mantido o texto. (25 mar 2025)"
+description: "Como a bancada gaúcha votou em 25 mar 2025: Mantido o texto. Sim: 300; Não: 99; Total: 399."
 ---
 
 # PL 3914/2023
 
-<p class="subtitulo"><b>2025-03-25</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>25 mar 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

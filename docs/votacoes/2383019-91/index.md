@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 177/2023 — Aprovadas as Emendas do Senado Federal ao Projeto de Lei Compleme (2025-06-25)"
-description: "Como a bancada gaúcha votou em 2025-06-25: Aprovadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 177, de 2023. Sim: 361; Não: 36; Abst"
+title: "PLP 177/2023 — Aprovadas as Emendas do Senado Federal ao Projeto de Lei Compleme (25 jun 2025)"
+description: "Como a bancada gaúcha votou em 25 jun 2025: Aprovadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 177, de 2023. Sim: 361; Não: 36; Abst"
 ---
 
 # PLP 177/2023
 
-<p class="subtitulo"><b>2025-06-25</b> · Aprovadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 177, de 2023.</p>
+<p class="subtitulo"><b>25 jun 2025</b> · Aprovadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 177, de 2023.</p>
 
 | | |
 |---|---|

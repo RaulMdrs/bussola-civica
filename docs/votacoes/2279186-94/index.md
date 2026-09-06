@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 458/2021 — Mantido o texto. (2025-10-29)"
-description: "Como a bancada gaúcha votou em 2025-10-29: Mantido o texto. Sim: 276; Não: 125; Total: 401."
+title: "PL 458/2021 — Mantido o texto. (29 out 2025)"
+description: "Como a bancada gaúcha votou em 29 out 2025: Mantido o texto. Sim: 276; Não: 125; Total: 401."
 ---
 
 # PL 458/2021
 
-<p class="subtitulo"><b>2025-10-29</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>29 out 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

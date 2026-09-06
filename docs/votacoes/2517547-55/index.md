@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 242/2025 — Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 242, (2025-10-14)"
-description: "Como a bancada gaúcha votou em 2025-10-14: Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 242, de 2025, da Comissão de Finanças e Tributaçã"
+title: "PDL 242/2025 — Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 242, (14 out 2025)"
+description: "Como a bancada gaúcha votou em 14 out 2025: Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 242, de 2025, da Comissão de Finanças e Tributaçã"
 ---
 
 # PDL 242/2025
 
-<p class="subtitulo"><b>2025-10-14</b> · Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 242, de 2025, da Comissão de Finanças e Tributação.</p>
+<p class="subtitulo"><b>14 out 2025</b> · Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 242, de 2025, da Comissão de Finanças e Tributação.</p>
 
 | | |
 |---|---|

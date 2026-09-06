@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1847/2024 — Aprovada a Emenda de Redação n° 1 (2024-09-12)"
-description: "Como a bancada gaúcha votou em 2024-09-12: Aprovada a Emenda de Redação n° 1 Sim: 231; Não: 54; Abstenção: 1; Total: 286."
+title: "PL 1847/2024 — Aprovada a Emenda de Redação n° 1 (12 set 2024)"
+description: "Como a bancada gaúcha votou em 12 set 2024: Aprovada a Emenda de Redação n° 1 Sim: 231; Não: 54; Abstenção: 1; Total: 286."
 ---
 
 # PL 1847/2024
 
-<p class="subtitulo"><b>2024-09-12</b> · Aprovada a Emenda de Redação n° 1</p>
+<p class="subtitulo"><b>12 set 2024</b> · Aprovada a Emenda de Redação n° 1</p>
 
 | | |
 |---|---|

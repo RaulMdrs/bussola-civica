@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do PLV nº 4, de 2025 e dos pressupostos constitucionais da MPV n (2025-09-17)"
-description: "Como os senadores gaúchos votou em 2025-09-17: Votação nominal do PLV nº 4, de 2025 e dos pressupostos constitucionais da MPV nº 1.300, de 2025, nos termos d"
+title: "Votação nominal do PLV nº 4, de 2025 e dos pressupostos constitucionais da MPV n (17 set 2025)"
+description: "Como os senadores gaúchos votou em 17 set 2025: Votação nominal do PLV nº 4, de 2025 e dos pressupostos constitucionais da MPV nº 1.300, de 2025, nos termos d"
 ---
 
-# Votação de 2025-09-17
+# Votação de 17 set 2025
 
-<p class="subtitulo"><b>2025-09-17</b> · Votação nominal do PLV nº 4, de 2025 e dos pressupostos constitucionais da MPV nº 1.300, de 2025, nos termos do parecer, ressalvados os destaques.</p>
+<p class="subtitulo"><b>17 set 2025</b> · Votação nominal do PLV nº 4, de 2025 e dos pressupostos constitucionais da MPV nº 1.300, de 2025, nos termos do parecer, ressalvados os destaques.</p>
 
 | | |
 |---|---|

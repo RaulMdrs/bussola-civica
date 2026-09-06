@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1694/2025 — Aprovado o Projeto de Lei nº 1.694, de 2025, ressalvados os desta (2025-06-11)"
-description: "Como a bancada gaúcha votou em 2025-06-11: Aprovado o Projeto de Lei nº 1.694, de 2025, ressalvados os destaques. Sim: 256; Não: 136; Abstenção: 2; Total"
+title: "PL 1694/2025 — Aprovado o Projeto de Lei nº 1.694, de 2025, ressalvados os desta (11 jun 2025)"
+description: "Como a bancada gaúcha votou em 11 jun 2025: Aprovado o Projeto de Lei nº 1.694, de 2025, ressalvados os destaques. Sim: 256; Não: 136; Abstenção: 2; Total"
 ---
 
 # PL 1694/2025
 
-<p class="subtitulo"><b>2025-06-11</b> · Aprovado o Projeto de Lei nº 1.694, de 2025, ressalvados os destaques.</p>
+<p class="subtitulo"><b>11 jun 2025</b> · Aprovado o Projeto de Lei nº 1.694, de 2025, ressalvados os destaques.</p>
 
 | | |
 |---|---|

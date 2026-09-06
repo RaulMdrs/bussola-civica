@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 169/2019 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição n (2025-10-30)"
-description: "Como a bancada gaúcha votou em 2025-10-30: Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 169, de 2019. Sim: 417; Não: 17; Abstenção:"
+title: "PEC 169/2019 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição n (30 out 2025)"
+description: "Como a bancada gaúcha votou em 30 out 2025: Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 169, de 2019. Sim: 417; Não: 17; Abstenção:"
 ---
 
 # PEC 169/2019
 
-<p class="subtitulo"><b>2025-10-30</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 169, de 2019.</p>
+<p class="subtitulo"><b>30 out 2025</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 169, de 2019.</p>
 
 | | |
 |---|---|

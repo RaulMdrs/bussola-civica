@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4381/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-04-24)"
-description: "Como a bancada gaúcha votou em 2024-04-24: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 297; não: 108; total:.405"
+title: "PL 4381/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (24 abr 2024)"
+description: "Como a bancada gaúcha votou em 24 abr 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 297; não: 108; total:.405"
 ---
 
 # PL 4381/2023
 
-<p class="subtitulo"><b>2024-04-24</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>24 abr 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

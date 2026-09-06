@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1768/2023 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.7 (2023-11-22)"
-description: "Como a bancada gaúcha votou em 2023-11-22: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.768, de 2023, adotada pela Relatora da Comissã"
+title: "PL 1768/2023 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.7 (22 nov 2023)"
+description: "Como a bancada gaúcha votou em 22 nov 2023: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.768, de 2023, adotada pela Relatora da Comissã"
 ---
 
 # PL 1768/2023
 
-<p class="subtitulo"><b>2023-11-22</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.768, de 2023, adotada pela Relatora da Comissão de Indústria, Comércio e Serviços, ressalvados os destaques.</p>
+<p class="subtitulo"><b>22 nov 2023</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.768, de 2023, adotada pela Relatora da Comissão de Indústria, Comércio e Serviços, ressalvados os destaques.</p>
 
 | | |
 |---|---|

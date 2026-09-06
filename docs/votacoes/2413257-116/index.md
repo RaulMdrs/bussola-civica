@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6020/2023 — Aprovado o Substitutivo ao Projeto de Lei nº 6.020, de 2023, adot (2025-07-08)"
-description: "Como a bancada gaúcha votou em 2025-07-08: Aprovado o Substitutivo ao Projeto de Lei nº 6.020, de 2023, adotado pela relatora da Comissão de Constituição"
+title: "PL 6020/2023 — Aprovado o Substitutivo ao Projeto de Lei nº 6.020, de 2023, adot (08 jul 2025)"
+description: "Como a bancada gaúcha votou em 08 jul 2025: Aprovado o Substitutivo ao Projeto de Lei nº 6.020, de 2023, adotado pela relatora da Comissão de Constituição"
 ---
 
 # PL 6020/2023
 
-<p class="subtitulo"><b>2025-07-08</b> · Aprovado o Substitutivo ao Projeto de Lei nº 6.020, de 2023, adotado pela relatora da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques.</p>
+<p class="subtitulo"><b>08 jul 2025</b> · Aprovado o Substitutivo ao Projeto de Lei nº 6.020, de 2023, adotado pela relatora da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques.</p>
 
 | | |
 |---|---|

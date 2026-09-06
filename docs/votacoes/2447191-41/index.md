@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 72/2024 — Aprovado o Projeto de Lei Complementar nº 72, de 2024. (2024-09-10)"
-description: "Como a bancada gaúcha votou em 2024-09-10: Aprovado o Projeto de Lei Complementar nº 72, de 2024. Sim: 432; Não: 2; Abstenção: 1; Total: 435."
+title: "PLP 72/2024 — Aprovado o Projeto de Lei Complementar nº 72, de 2024. (10 set 2024)"
+description: "Como a bancada gaúcha votou em 10 set 2024: Aprovado o Projeto de Lei Complementar nº 72, de 2024. Sim: 432; Não: 2; Abstenção: 1; Total: 435."
 ---
 
 # PLP 72/2024
 
-<p class="subtitulo"><b>2024-09-10</b> · Aprovado o Projeto de Lei Complementar nº 72, de 2024.</p>
+<p class="subtitulo"><b>10 set 2024</b> · Aprovado o Projeto de Lei Complementar nº 72, de 2024.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1151/2022 — Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, (2023-03-30)"
-description: "Como a bancada gaúcha votou em 2023-03-30: Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião favorável q"
+title: "MPV 1151/2022 — Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, (30 mar 2023)"
+description: "Como a bancada gaúcha votou em 30 mar 2023: Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião favorável q"
 ---
 
 # MPV 1151/2022
 
-<p class="subtitulo"><b>2023-03-30</b> · Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e à adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN.</p>
+<p class="subtitulo"><b>30 mar 2023</b> · Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e à adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2969/2022 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2023-03-14)"
-description: "Como a bancada gaúcha votou em 2023-03-14: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 374; não: 27; abstenção: 2; total: 403."
+title: "PL 2969/2022 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (14 mar 2023)"
+description: "Como a bancada gaúcha votou em 14 mar 2023: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 374; não: 27; abstenção: 2; total: 403."
 ---
 
 # PL 2969/2022
 
-<p class="subtitulo"><b>2023-03-14</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>14 mar 2023</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

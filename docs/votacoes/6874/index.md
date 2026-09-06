@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Proposta de Emenda à Constituição nº 9, de 2023 (2º turno). (2024-08-14)"
-description: "Como os senadores gaúchos votou em 2024-08-14: Votação nominal da Proposta de Emenda à Constituição nº 9, de 2023 (2º turno)."
+title: "Votação nominal da Proposta de Emenda à Constituição nº 9, de 2023 (2º turno). (14 ago 2024)"
+description: "Como os senadores gaúchos votou em 14 ago 2024: Votação nominal da Proposta de Emenda à Constituição nº 9, de 2023 (2º turno)."
 ---
 
-# Votação de 2024-08-14
+# Votação de 14 ago 2024
 
-<p class="subtitulo"><b>2024-08-14</b> · Votação nominal da Proposta de Emenda à Constituição nº 9, de 2023 (2º turno).</p>
+<p class="subtitulo"><b>14 ago 2024</b> · Votação nominal da Proposta de Emenda à Constituição nº 9, de 2023 (2º turno).</p>
 
 | | |
 |---|---|

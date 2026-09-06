@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 22/2025 — Rejeitado o Requerimento. (2025-03-18)"
-description: "Como a bancada gaúcha votou em 2025-03-18: Rejeitado o Requerimento. Sim: 46; Não: 372; Total: 418."
+title: "PLP 22/2025 — Rejeitado o Requerimento. (18 mar 2025)"
+description: "Como a bancada gaúcha votou em 18 mar 2025: Rejeitado o Requerimento. Sim: 46; Não: 372; Total: 418."
 ---
 
 # PLP 22/2025
 
-<p class="subtitulo"><b>2025-03-18</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>18 mar 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

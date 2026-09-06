@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei Complementar nº 185, de 2024, nos termos dos p (2025-11-25)"
-description: "Como os senadores gaúchos votou em 2025-11-25: Votação nominal do Projeto de Lei Complementar nº 185, de 2024, nos termos dos pareceres."
+title: "Votação nominal do Projeto de Lei Complementar nº 185, de 2024, nos termos dos p (25 nov 2025)"
+description: "Como os senadores gaúchos votou em 25 nov 2025: Votação nominal do Projeto de Lei Complementar nº 185, de 2024, nos termos dos pareceres."
 ---
 
-# Votação de 2025-11-25
+# Votação de 25 nov 2025
 
-<p class="subtitulo"><b>2025-11-25</b> · Votação nominal do Projeto de Lei Complementar nº 185, de 2024, nos termos dos pareceres.</p>
+<p class="subtitulo"><b>25 nov 2025</b> · Votação nominal do Projeto de Lei Complementar nº 185, de 2024, nos termos dos pareceres.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 3/2021 — Aprovado o Requerimento. (2025-09-16)"
-description: "Como a bancada gaúcha votou em 2025-09-16: Aprovado o Requerimento. Sim: 346; Não: 122; Total: 468."
+title: "PEC 3/2021 — Aprovado o Requerimento. (16 set 2025)"
+description: "Como a bancada gaúcha votou em 16 set 2025: Aprovado o Requerimento. Sim: 346; Não: 122; Total: 468."
 ---
 
 # PEC 3/2021
 
-<p class="subtitulo"><b>2025-09-16</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>16 set 2025</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

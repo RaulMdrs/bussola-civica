@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 114/2026 — Rejeitada a Emenda de Plenário nº 1. (2026-08-12)"
-description: "Como a bancada gaúcha votou em 2026-08-12: Rejeitada a Emenda de Plenário nº 1. Sim: 105; Não: 233; Total: 338."
+title: "PLP 114/2026 — Rejeitada a Emenda de Plenário nº 1. (12 ago 2026)"
+description: "Como a bancada gaúcha votou em 12 ago 2026: Rejeitada a Emenda de Plenário nº 1. Sim: 105; Não: 233; Total: 338."
 ---
 
 # PLP 114/2026
 
-<p class="subtitulo"><b>2026-08-12</b> · Rejeitada a Emenda de Plenário nº 1.</p>
+<p class="subtitulo"><b>12 ago 2026</b> · Rejeitada a Emenda de Plenário nº 1.</p>
 
 | | |
 |---|---|

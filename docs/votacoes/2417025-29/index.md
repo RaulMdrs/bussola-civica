@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 81/2024 — Rejeitado o Requerimento. (2024-03-12)"
-description: "Como a bancada gaúcha votou em 2024-03-12: Rejeitado o Requerimento. Sim: 97; não: 293; total: 390."
+title: "PL 81/2024 — Rejeitado o Requerimento. (12 mar 2024)"
+description: "Como a bancada gaúcha votou em 12 mar 2024: Rejeitado o Requerimento. Sim: 97; não: 293; total: 390."
 ---
 
 # PL 81/2024
 
-<p class="subtitulo"><b>2024-03-12</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>12 mar 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

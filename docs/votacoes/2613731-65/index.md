@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1625/2026 — Resultado. (2026-05-20)"
-description: "Como a bancada gaúcha votou em 2026-05-20: Resultado. Sim: 182; Não: 182; Abstenção: 2; Total: 366."
+title: "PL 1625/2026 — Resultado. (20 mai 2026)"
+description: "Como a bancada gaúcha votou em 20 mai 2026: Resultado. Sim: 182; Não: 182; Abstenção: 2; Total: 366."
 ---
 
 # PL 1625/2026
 
-<p class="subtitulo"><b>2026-05-20</b> · Resultado.</p>
+<p class="subtitulo"><b>20 mai 2026</b> · Resultado.</p>
 
 | | |
 |---|---|

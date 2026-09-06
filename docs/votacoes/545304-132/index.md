@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3899/2012 — Rejeitada a preferência. (2025-10-29)"
-description: "Como a bancada gaúcha votou em 2025-10-29: Rejeitada a preferência. Sim: 162; Não: 234; Total: 396."
+title: "PL 3899/2012 — Rejeitada a preferência. (29 out 2025)"
+description: "Como a bancada gaúcha votou em 29 out 2025: Rejeitada a preferência. Sim: 162; Não: 234; Total: 396."
 ---
 
 # PL 3899/2012
 
-<p class="subtitulo"><b>2025-10-29</b> · Rejeitada a preferência.</p>
+<p class="subtitulo"><b>29 out 2025</b> · Rejeitada a preferência.</p>
 
 | | |
 |---|---|

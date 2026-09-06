@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 58/2025 — Aprovado o Projeto de Lei Complementar nº 58, de 2025, ressalvado  (2025-03-18)"
-description: "Como a bancada gaúcha votou em 2025-03-18: Aprovado o Projeto de Lei Complementar nº 58, de 2025, ressalvado o destaque. Sim: 413; Não: 1; Total: 414."
+title: "PLP 58/2025 — Aprovado o Projeto de Lei Complementar nº 58, de 2025, ressalvado  (18 mar 2025)"
+description: "Como a bancada gaúcha votou em 18 mar 2025: Aprovado o Projeto de Lei Complementar nº 58, de 2025, ressalvado o destaque. Sim: 413; Não: 1; Total: 414."
 ---
 
 # PLP 58/2025
 
-<p class="subtitulo"><b>2025-03-18</b> · Aprovado o Projeto de Lei Complementar nº 58, de 2025, ressalvado o destaque.</p>
+<p class="subtitulo"><b>18 mar 2025</b> · Aprovado o Projeto de Lei Complementar nº 58, de 2025, ressalvado o destaque.</p>
 
 | | |
 |---|---|

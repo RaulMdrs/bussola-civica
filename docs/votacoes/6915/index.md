@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do §11 do art. 37 da CF, constante da Emenda nº1 à Proposta de E (2024-12-19)"
-description: "Como os senadores gaúchos votou em 2024-12-19: Votação nominal do §11 do art. 37 da CF, constante da Emenda nº1 à Proposta de Emenda à Constituição 54/2024, "
+title: "Votação nominal do §11 do art. 37 da CF, constante da Emenda nº1 à Proposta de E (19 dez 2024)"
+description: "Como os senadores gaúchos votou em 19 dez 2024: Votação nominal do §11 do art. 37 da CF, constante da Emenda nº1 à Proposta de Emenda à Constituição 54/2024, "
 ---
 
-# Votação de 2024-12-19
+# Votação de 19 dez 2024
 
-<p class="subtitulo"><b>2024-12-19</b> · Votação nominal do §11 do art. 37 da CF, constante da Emenda nº1 à Proposta de Emenda à Constituição 54/2024, destacado.</p>
+<p class="subtitulo"><b>19 dez 2024</b> · Votação nominal do §11 do art. 37 da CF, constante da Emenda nº1 à Proposta de Emenda à Constituição 54/2024, destacado.</p>
 
 | | |
 |---|---|

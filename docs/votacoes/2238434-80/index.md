@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 528/2020 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 528, (2024-03-13)"
-description: "Como a bancada gaúcha votou em 2024-03-13: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 528, de 2020, adotada pelo relator da Comissão d"
+title: "PL 528/2020 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 528, (13 mar 2024)"
+description: "Como a bancada gaúcha votou em 13 mar 2024: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 528, de 2020, adotada pelo relator da Comissão d"
 ---
 
 # PL 528/2020
 
-<p class="subtitulo"><b>2024-03-13</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 528, de 2020, adotada pelo relator da Comissão de Minas e Energia, ressalvados os destaques.</p>
+<p class="subtitulo"><b>13 mar 2024</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 528, de 2020, adotada pelo relator da Comissão de Minas e Energia, ressalvados os destaques.</p>
 
 | | |
 |---|---|

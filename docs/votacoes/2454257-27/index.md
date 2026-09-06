@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 136/2024 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 136, de (2024-12-05)"
-description: "Como a bancada gaúcha votou em 2024-12-05: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 136, de 2024, adotado pela relatora da Comissão de S"
+title: "PLP 136/2024 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 136, de (05 dez 2024)"
+description: "Como a bancada gaúcha votou em 05 dez 2024: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 136, de 2024, adotado pela relatora da Comissão de S"
 ---
 
 # PLP 136/2024
 
-<p class="subtitulo"><b>2024-12-05</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 136, de 2024, adotado pela relatora da Comissão de Segurança Pública e Combate ao Crime Organizado.</p>
+<p class="subtitulo"><b>05 dez 2024</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 136, de 2024, adotado pela relatora da Comissão de Segurança Pública e Combate ao Crime Organizado.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2950/2019 — Rejeitado o Requerimento. (2024-10-16)"
-description: "Como a bancada gaúcha votou em 2024-10-16: Rejeitado o Requerimento. Sim: 105; Não: 292; Total: 397."
+title: "PL 2950/2019 — Rejeitado o Requerimento. (16 out 2024)"
+description: "Como a bancada gaúcha votou em 16 out 2024: Rejeitado o Requerimento. Sim: 105; Não: 292; Total: 397."
 ---
 
 # PL 2950/2019
 
-<p class="subtitulo"><b>2024-10-16</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>16 out 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

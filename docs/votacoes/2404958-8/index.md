@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3268/2021 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2023-11-21)"
-description: "Como a bancada gaúcha votou em 2023-11-21: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim:303; não: 115; abstenção: 2; total: 420."
+title: "PL 3268/2021 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (21 nov 2023)"
+description: "Como a bancada gaúcha votou em 21 nov 2023: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim:303; não: 115; abstenção: 2; total: 420."
 ---
 
 # PL 3268/2021
 
-<p class="subtitulo"><b>2023-11-21</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>21 nov 2023</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

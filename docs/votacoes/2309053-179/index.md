@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4188/2021 — Rejeitada a Emenda nº 33 do Senado Federal. (2023-10-03)"
-description: "Como a bancada gaúcha votou em 2023-10-03: Rejeitada a Emenda nº 33 do Senado Federal. Sim: 159; não: 251; abstenção: 6; total: 416."
+title: "PL 4188/2021 — Rejeitada a Emenda nº 33 do Senado Federal. (03 out 2023)"
+description: "Como a bancada gaúcha votou em 03 out 2023: Rejeitada a Emenda nº 33 do Senado Federal. Sim: 159; não: 251; abstenção: 6; total: 416."
 ---
 
 # PL 4188/2021
 
-<p class="subtitulo"><b>2023-10-03</b> · Rejeitada a Emenda nº 33 do Senado Federal.</p>
+<p class="subtitulo"><b>03 out 2023</b> · Rejeitada a Emenda nº 33 do Senado Federal.</p>
 
 | | |
 |---|---|

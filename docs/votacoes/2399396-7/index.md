@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4287/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2023-11-07)"
-description: "Como a bancada gaúcha votou em 2023-11-07: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 309; não: 35; total: 344."
+title: "PL 4287/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (07 nov 2023)"
+description: "Como a bancada gaúcha votou em 07 nov 2023: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 309; não: 35; total: 344."
 ---
 
 # PL 4287/2023
 
-<p class="subtitulo"><b>2023-11-07</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>07 nov 2023</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

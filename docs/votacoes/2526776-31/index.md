@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2947/2025 — Rejeitado o Requerimento. (2025-11-05)"
-description: "Como a bancada gaúcha votou em 2025-11-05: Rejeitado o Requerimento. Sim: 134; Não: 267; Total: 401."
+title: "PL 2947/2025 — Rejeitado o Requerimento. (05 nov 2025)"
+description: "Como a bancada gaúcha votou em 05 nov 2025: Rejeitado o Requerimento. Sim: 134; Não: 267; Total: 401."
 ---
 
 # PL 2947/2025
 
-<p class="subtitulo"><b>2025-11-05</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>05 nov 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

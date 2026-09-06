@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 459/2017 — Rejeitadas as Emendas de Plenário. (2024-06-04)"
-description: "Como a bancada gaúcha votou em 2024-06-04: Rejeitadas as Emendas de Plenário. Sim: 2; não: 413; abstenção: 1; total: 416."
+title: "PLP 459/2017 — Rejeitadas as Emendas de Plenário. (04 jun 2024)"
+description: "Como a bancada gaúcha votou em 04 jun 2024: Rejeitadas as Emendas de Plenário. Sim: 2; não: 413; abstenção: 1; total: 416."
 ---
 
 # PLP 459/2017
 
-<p class="subtitulo"><b>2024-06-04</b> · Rejeitadas as Emendas de Plenário.</p>
+<p class="subtitulo"><b>04 jun 2024</b> · Rejeitadas as Emendas de Plenário.</p>
 
 | | |
 |---|---|

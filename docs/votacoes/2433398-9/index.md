@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4724/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-05-15)"
-description: "Como a bancada gaúcha votou em 2024-05-15: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 388; não: 23; abstenção: 2 ; total: 413."
+title: "PL 4724/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (15 mai 2024)"
+description: "Como a bancada gaúcha votou em 15 mai 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 388; não: 23; abstenção: 2 ; total: 413."
 ---
 
 # PL 4724/2023
 
-<p class="subtitulo"><b>2024-05-15</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>15 mai 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

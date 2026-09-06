@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do RQS 988/2023, que solicita calendário especial para a Propost (2023-11-07)"
-description: "Como os senadores gaúchos votou em 2023-11-07: Votação nominal do RQS 988/2023, que solicita calendário especial para a Proposta de Emenda à Constituição nº "
+title: "Votação nominal do RQS 988/2023, que solicita calendário especial para a Propost (07 nov 2023)"
+description: "Como os senadores gaúchos votou em 07 nov 2023: Votação nominal do RQS 988/2023, que solicita calendário especial para a Proposta de Emenda à Constituição nº "
 ---
 
-# Votação de 2023-11-07
+# Votação de 07 nov 2023
 
-<p class="subtitulo"><b>2023-11-07</b> · Votação nominal do RQS 988/2023, que solicita calendário especial para a Proposta de Emenda à Constituição nº 45, de 2019.</p>
+<p class="subtitulo"><b>07 nov 2023</b> · Votação nominal do RQS 988/2023, que solicita calendário especial para a Proposta de Emenda à Constituição nº 45, de 2019.</p>
 
 | | |
 |---|---|

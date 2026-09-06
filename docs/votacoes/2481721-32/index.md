@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 92/2024 — Aprovado o Projeto de Lei Complementar nº 92, de 2024. (2025-09-09)"
-description: "Como a bancada gaúcha votou em 2025-09-09: Aprovado o Projeto de Lei Complementar nº 92, de 2024. Sim: 425; Não: 1; Total: 426."
+title: "PLP 92/2024 — Aprovado o Projeto de Lei Complementar nº 92, de 2024. (09 set 2025)"
+description: "Como a bancada gaúcha votou em 09 set 2025: Aprovado o Projeto de Lei Complementar nº 92, de 2024. Sim: 425; Não: 1; Total: 426."
 ---
 
 # PLP 92/2024
 
-<p class="subtitulo"><b>2025-09-09</b> · Aprovado o Projeto de Lei Complementar nº 92, de 2024.</p>
+<p class="subtitulo"><b>09 set 2025</b> · Aprovado o Projeto de Lei Complementar nº 92, de 2024.</p>
 
 | | |
 |---|---|

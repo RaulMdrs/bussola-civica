@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Emenda nº 8 (Substitutivo) ao Projeto de Lei nº 896, de 2023, (2026-03-24)"
-description: "Como os senadores gaúchos votou em 2026-03-24: Votação nominal da Emenda nº 8 (Substitutivo) ao Projeto de Lei nº 896, de 2023, nos termos do parecer, ressal"
+title: "Votação nominal da Emenda nº 8 (Substitutivo) ao Projeto de Lei nº 896, de 2023, (24 mar 2026)"
+description: "Como os senadores gaúchos votou em 24 mar 2026: Votação nominal da Emenda nº 8 (Substitutivo) ao Projeto de Lei nº 896, de 2023, nos termos do parecer, ressal"
 ---
 
-# Votação de 2026-03-24
+# Votação de 24 mar 2026
 
-<p class="subtitulo"><b>2026-03-24</b> · Votação nominal da Emenda nº 8 (Substitutivo) ao Projeto de Lei nº 896, de 2023, nos termos do parecer, ressalvado o destaque.</p>
+<p class="subtitulo"><b>24 mar 2026</b> · Votação nominal da Emenda nº 8 (Substitutivo) ao Projeto de Lei nº 896, de 2023, nos termos do parecer, ressalvado o destaque.</p>
 
 | | |
 |---|---|

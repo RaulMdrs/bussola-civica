@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1987/2023 — Aprovado o Projeto de Lei nº 1.987, de 2023. (2023-05-10)"
-description: "Como a bancada gaúcha votou em 2023-05-10: Aprovado o Projeto de Lei nº 1.987, de 2023. Sim: 346; não: 72; abstenção: 3; total: 421."
+title: "PL 1987/2023 — Aprovado o Projeto de Lei nº 1.987, de 2023. (10 mai 2023)"
+description: "Como a bancada gaúcha votou em 10 mai 2023: Aprovado o Projeto de Lei nº 1.987, de 2023. Sim: 346; não: 72; abstenção: 3; total: 421."
 ---
 
 # PL 1987/2023
 
-<p class="subtitulo"><b>2023-05-10</b> · Aprovado o Projeto de Lei nº 1.987, de 2023.</p>
+<p class="subtitulo"><b>10 mai 2023</b> · Aprovado o Projeto de Lei nº 1.987, de 2023.</p>
 
 | | |
 |---|---|

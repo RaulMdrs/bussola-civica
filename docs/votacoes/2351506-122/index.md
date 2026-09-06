@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 5/2023 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição n°  (2026-05-28)"
-description: "Como a bancada gaúcha votou em 2026-05-28: Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 5, de 2023. Sim: 368; Não: 96; Abstenção: 7"
+title: "PEC 5/2023 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição n°  (28 mai 2026)"
+description: "Como a bancada gaúcha votou em 28 mai 2026: Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 5, de 2023. Sim: 368; Não: 96; Abstenção: 7"
 ---
 
 # PEC 5/2023
 
-<p class="subtitulo"><b>2026-05-28</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 5, de 2023.</p>
+<p class="subtitulo"><b>28 mai 2026</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 5, de 2023.</p>
 
 | | |
 |---|---|

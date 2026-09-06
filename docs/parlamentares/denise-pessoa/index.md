@@ -7,7 +7,7 @@ description: "Como Denise Pessôa vota: alinhamento com o governo federal e coes
 
 # Denise Pessôa
 
-<p class="subtitulo"><b>PT</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>PT</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-07-14</span>
+<span class="data">14 jul 2026</span>
 <div class="corpo">
 <p>Rejeitada a Emenda de Plenário nº 2. <span class="placar">Sim: 134; Não: 285; Abstenção: 2; Total: 421.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-11-18</span>
+<span class="data">18 nov 2025</span>
 <div class="corpo">
 <p>Aprovada a Emenda de Plenário nº 25. <span class="placar">Sim: 349; Não: 40; Abstenção: 1; Total: 390.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-10-30</span>
+<span class="data">30 out 2025</span>
 <div class="corpo">
 <p>Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 169, de 2019. <span class="placar">Sim: 386; Não: 15; Abstenção: 1; Total: 402.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2025-10-30</span>
+<span class="data">30 out 2025</span>
 <div class="corpo">
 <p>Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 169, de 2019. <span class="placar">Sim: 386; Não: 15; Abstenção: 1; Total: 402.</span></p>
 <p class="referencia">Maioria do partido: sim (49 sim / 1 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-10-30</span>
+<span class="data">30 out 2025</span>
 <div class="corpo">
 <p>Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 169, de 2019. <span class="placar">Sim: 417; Não: 17; Abstenção: 1; Total: 435.</span></p>
 <p class="referencia">Maioria do partido: sim (58 sim / 2 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-10-29</span>
+<span class="data">29 out 2025</span>
 <div class="corpo">
 <p>Rejeitada a preferência. <span class="placar">Sim: 162; Não: 234; Total: 396.</span></p>
 <p class="referencia">Maioria do partido: nao (4 sim / 52 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -148,7 +148,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-4516">
-<span class="data">2026-06-10 · 16:32</span>
+<span class="data">10 jun 2026 · 16:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>A Deputada defendeu o Projeto de Lei nº 2.307, de 2026, de sua autoria, que institui medidas de acolhimento e retenção das trabalhadoras após o encerramento da licença-maternidade. Em seguida, destacou que muitas mulheres enfrentam dificuldades para retornar ao mercado de trabalho, incluindo perda de espaço profissional, redução de oportunidades e desligamentos após o período de estabilidade. Diante desse cenário, explicou que a proposta prevê a adoção de programas estruturados de reintegração em empresas com vinte ou mais empregados, contemplando acolhimento, atualização profissional e preservação das condições de trabalho anteriores ao afastamento. Concluiu afirmando que a iniciativa buscava promover igualdade de oportunidades, proteção às trabalhadoras e segurança econômica para as famílias, sem prejuízo ao desenvolvimento econômico.</p>
@@ -157,7 +157,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4515">
-<span class="data">2026-05-27 · 17:08</span>
+<span class="data">27 mai 2026 · 17:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>A Deputada defendeu a aprovação da Proposta de Emenda à Constituição nº 221, de 2019, que altera o art. 7º da Constituição Federal para reduzir a duração máxima semanal do trabalho, apresentando a medida como reparação histórica às mulheres negras, que trabalham mais e ganham menos no País. Homenageou os Deputados Alencar, Léo, Reginaldo e a Deputada Erika pelo trabalho na proposta e criticou a Extrema Direita por atacar direitos trabalhistas e tentar, de última hora, apropriar-se da pauta. Além disso, citou exemplos de países como França, Chile e México, que reduziram jornadas sem perda de produtividade, e concluiu que trabalhadores descansados produzem mais e vivem melhor.</p>
@@ -166,7 +166,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4514">
-<span class="data">2026-04-15 · 15:16</span>
+<span class="data">15 abr 2026 · 15:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>A Deputada celebrou a mobilização dos trabalhadores na Conferência da Classe Trabalhadora, destacando a participação de movimentos sindicais de todo o País. Ademais, elogiou a iniciativa do Presidente Lula de encaminhar o Projeto de Lei nº 1.838, de 2026, em regime de urgência constitucional, para o fim da jornada de trabalho 6 por 1, com redução da carga semanal para 40 horas sem diminuição salarial, ampliação do descanso remunerado e possibilidade de ajustes por acordo. Ademais, destacou que a proposta busca melhorar a qualidade de vida dos trabalhadores e apontou a sobrecarga enfrentada pelas mulheres. Ao final, defendeu a aprovação da proposição.</p>
@@ -175,7 +175,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4513">
-<span class="data">2026-03-10 · 16:40</span>
+<span class="data">10 mar 2026 · 16:40</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
 <p>A Deputada proferiu parecer ao Projeto de Lei nº 4.638, de 2023, que institui o Dia Nacional das Mulheres na Construção Civil, a ser celebrado no dia 25 de março de cada ano.</p>
@@ -184,7 +184,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4512">
-<span class="data">2026-02-03 · 15:40</span>
+<span class="data">03 fev 2026 · 15:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>A Deputada registrou reconhecimento ao Ministério da Cultura pela apresentação do Projeto de Lei nº 6.170, de 2025, que cria o plano de carreira dos servidores da área cultural. Afirmou que a iniciativa promoveu a valorização de trabalhadores que aguardavam a medida há mais de duas décadas. Destacou a atuação do Ministério e o envolvimento de sindicatos estaduais na construção do projeto. Apontou a aprovação do plano de carreira como marco no encerramento de sua gestão à frente da Comissão. Elogiou o Governo Lula e aos profissionais e defensores da cultura no País.</p>

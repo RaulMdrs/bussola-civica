@@ -7,7 +7,7 @@ description: "Como Hamilton Mourão vota no Senado: coesão com o próprio parti
 
 # Hamilton Mourão
 
-<p class="subtitulo"><b>REPUBLICANOS</b> · senador pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>REPUBLICANOS</b> · senador pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 <div class="interrompe">
 <h4>Não compare estes números com os dos deputados</h4>
@@ -41,7 +41,7 @@ Amostra das votações em que o voto divergiu da maioria do próprio partido.
 As descrições são o texto original da fonte oficial.
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Votação nominal do Art. 13 do Projeto de Lei Complementar nº 114, de 2026, destacado.</p>
 <p class="referencia">Maioria do partido: nao (0 sim / 3 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -50,7 +50,7 @@ As descrições são o texto original da fonte oficial.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-12-17</span>
+<span class="data">17 dez 2025</span>
 <div class="corpo">
 <p>Votação nominal do Art. 7º do Projeto de Lei Complementar nº 128, de 2025, destacado.</p>
 <p class="referencia">Maioria do partido: sim (2 sim / 1 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -59,7 +59,7 @@ As descrições são o texto original da fonte oficial.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-12-03</span>
+<span class="data">03 dez 2025</span>
 <div class="corpo">
 <p>Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei Complementar nº 163, de 2025, nos termos do parecer.</p>
 <p class="referencia">Maioria do partido: sim (2 sim / 1 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -83,7 +83,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-11898">
-<span class="data">2026-07-07</span>
+<span class="data">07 jul 2026</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
 <p>Defesa da Lei nº 15402/2026, conhecida por Lei da Dosimetria, que permite a redução de penas relacionadas aos atos antidemocráticos de 8 de janeiro de 2023. Crítica à atuação do STF, pela suspensão da norma e por alegada demora na solução definitiva da controvérsia.</p>
@@ -92,7 +92,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-11899">
-<span class="data">2026-06-30</span>
+<span class="data">30 jun 2026</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
 <p>Pela ordem sobre o Projeto de Lei (PL) n° 2239, de 2022, que &quot;Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para estabelecer critérios para a concessão de gratuidade da justiça.&quot;</p>
@@ -101,7 +101,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-11901">
-<span class="data">2026-06-17</span>
+<span class="data">17 jun 2026</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
 <p>Discussão sobre o Projeto de Lei (PL) n° 4088, de 2023, que &quot;Altera o art. 26 da Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para incluir educação política e direitos da cidadania como componente curricular obrigatório da educação básica.&quot; Crítica à corrente ideológica que predomina nas instituições de Ensino Superior.</p>
@@ -110,7 +110,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-11900">
-<span class="data">2026-06-17</span>
+<span class="data">17 jun 2026</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
 <p>Pela ordem sobre a Proposta de Emenda à Constituição (PEC) n° 65, de 2023, que &quot;Dispõe sobre o regime jurídico aplicável ao Banco Central.&quot; Defesa da instrumentalização do Banco Central do Brasil com a finalidade de cumprir sua missão institucional.</p>
@@ -119,7 +119,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-11903">
-<span class="data">2026-06-16</span>
+<span class="data">16 jun 2026</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
 <p>Solidariedade ao Presidente do Senado, Davi Alcolumbre, em razão de reportagem que atribuiu ao parlamentar o recebimento de valores em conta no exterior, destacando os impactos institucionais e pessoais de acusações dessa natureza. Afirmação de que, caso as alegações tenham origem em procedimento oficial ou acordo de colaboração premiada, caberá ao Presidente exercer seu direito de defesa pelos meios jurídicos adequados. Acréscimo de que, se as informações divulgadas não constarem de documentos oficiais, será necessária apuração específica sobre sua origem, por considerar que eventual divulgação de fatos inexistentes comprometeria não apenas a imagem do Presidente do Senado, mas também a credibilidade das instituições públicas e do sistema de justiça.</p>

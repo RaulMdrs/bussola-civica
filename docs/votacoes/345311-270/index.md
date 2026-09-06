@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 490/2007 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 490, (2023-05-30)"
-description: "Como a bancada gaúcha votou em 2023-05-30: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 490, de 2007, adotada pelo relator da Comissão d"
+title: "PL 490/2007 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 490, (30 mai 2023)"
+description: "Como a bancada gaúcha votou em 30 mai 2023: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 490, de 2007, adotada pelo relator da Comissão d"
 ---
 
 # PL 490/2007
 
-<p class="subtitulo"><b>2023-05-30</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 490, de 2007, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques.</p>
+<p class="subtitulo"><b>30 mai 2023</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 490, de 2007, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques.</p>
 
 | | |
 |---|---|

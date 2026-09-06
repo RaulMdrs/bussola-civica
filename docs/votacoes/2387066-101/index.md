@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4438/2023 — Rejeitada a Emenda nº 38. (2023-09-14)"
-description: "Como a bancada gaúcha votou em 2023-09-14: Rejeitada a Emenda nº 38. Sim: 38; não: 329; abstenção: 1; total: 368."
+title: "PL 4438/2023 — Rejeitada a Emenda nº 38. (14 set 2023)"
+description: "Como a bancada gaúcha votou em 14 set 2023: Rejeitada a Emenda nº 38. Sim: 38; não: 329; abstenção: 1; total: 368."
 ---
 
 # PL 4438/2023
 
-<p class="subtitulo"><b>2023-09-14</b> · Rejeitada a Emenda nº 38.</p>
+<p class="subtitulo"><b>14 set 2023</b> · Rejeitada a Emenda nº 38.</p>
 
 | | |
 |---|---|

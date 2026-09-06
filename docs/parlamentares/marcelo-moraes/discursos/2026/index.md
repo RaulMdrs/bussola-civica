@@ -19,7 +19,7 @@ description: "Os discursos de Marcelo Moraes em 2026, com o sumário oficial e l
 ## Substantivos — 3
 
 <blockquote class="evidencia discurso" id="d-42">
-<span class="data">2026-07-08 · 16:08</span>
+<span class="data">08 jul 2026 · 16:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado condenou o Supremo Tribunal Federal — STF e o Ministro Alexandre de Moraes pela determinação de busca e apreensão na residência do ex-Presidente Bolsonaro, classificando a medida como perseguição política. Além disso, criticou a Polícia Federal pela omissão na apuração de denúncias envolvendo familiares do Presidente Lula, o Ministro Alexandre de Moraes e o Ministro Dias Toffoli. Ademais, recriminou o Presidente do Senado Federal, Davi Alcolumbre, por não pautar os pedidos de impeachment de Ministros do STF. Por fim, manifestou solidariedade ao ex-Presidente Bolsonaro.</p>
@@ -28,7 +28,7 @@ description: "Os discursos de Marcelo Moraes em 2026, com o sumário oficial e l
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-41">
-<span class="data">2026-06-30 · 17:44</span>
+<span class="data">30 jun 2026 · 17:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado relatou a mobilização do SOS Agro no Rio Grande do Sul e defendeu a aprovação urgente do Projeto de Lei nº 5.122, de 2023, que dispõe sobre a liquidação, anistia, renegociação e rebate de dívidas originárias de crédito rural para agricultores, pecuaristas, piscicultores, pescadores e carcinicultores, em geral, e dá outras providências, bem como altera a Lei no 14.554, de 20 de abril de 2023, que altera as Leis nos 13.999, de 18 de maio de 2020, 14.166, de 10 de junho de 2021, 11.540, de 12 de novembro de 2007, e 14.042, de 19 de agosto de 2020, para tratar do refinanciamento de dívidas e altera a Lei no 7.827, de 27 de setembro de 1989, a fim de sanar omissão legislativa. Além disso, afirmou que a demora do Governo Federal e do Senado agravou a crise, mencionou 44 suicídios de agricultores e rebateu a ????ação de perdão das dívidas, sustentando que haverá pagamento com juros e correção. Por fim, cobrou votação imediata na Câmara para preservar a economia gaúcha.</p>
@@ -37,7 +37,7 @@ description: "Os discursos de Marcelo Moraes em 2026, com o sumário oficial e l
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-40">
-<span class="data">2026-04-28 · 18:12</span>
+<span class="data">28 abr 2026 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado registrou a presença dos Vereadores Cleon e Maninho, do Município de Lagoa Vermelha (RS) na Câmara dos Deputados. Em seguida, destacou a parceria institucional que resultou na destinação de recursos ao Município e mencionou a realização de evento local que ampliou a visibilidade regional da cidade e gerou promoção cultural e econômica. Também registrou a visita do Vereador Mateus, Presidente da Câmara Municipal de Passo do Sobrado (RS), e ressaltou a articulação voltada à captação de recursos públicos. Ademais, acrescentou preocupação apresentada pelo líder local quanto ao valor pago aos produtores de tabaco. Ao finalizar, ressaltou a continuidade das parcerias como instrumento de apoio ao desenvolvimento municipal.</p>
@@ -57,7 +57,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
 <blockquote class="evidencia discurso" id="d-39">
-<span class="data">2026-03-18 · 15:40</span>
+<span class="data">18 mar 2026 · 15:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado registrou a visita de Vereadores (Tamara Dal Ri, Mauricio Munarotto, Marcelo Secretti, Marciano Knirsc e Fernando Puntel) do Município de Ibarama, no Rio Grande do Sul, a Brasília. Ressaltou a importância da fumicultura para a economia da região Centro Serra. Além disso, o mencionou o envio de recursos para equipamentos agrícolas e obras locais. Por fim, assinalou a entrega de um rolo compactador e cumprimentou as autoridades municipais.</p>

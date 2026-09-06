@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1625/2026 — Rejeitada a Emenda de Plenário nº 2. (2026-05-20)"
-description: "Como a bancada gaúcha votou em 2026-05-20: Rejeitada a Emenda de Plenário nº 2. Sim: 196; Não: 200; Abstenção: 1; Total: 397."
+title: "PL 1625/2026 — Rejeitada a Emenda de Plenário nº 2. (20 mai 2026)"
+description: "Como a bancada gaúcha votou em 20 mai 2026: Rejeitada a Emenda de Plenário nº 2. Sim: 196; Não: 200; Abstenção: 1; Total: 397."
 ---
 
 # PL 1625/2026
 
-<p class="subtitulo"><b>2026-05-20</b> · Rejeitada a Emenda de Plenário nº 2.</p>
+<p class="subtitulo"><b>20 mai 2026</b> · Rejeitada a Emenda de Plenário nº 2.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MSC 112/2026 — Aprovado o Projeto de Decreto Legislativo nº 50, de 2026, adotado (2026-02-25)"
-description: "Como a bancada gaúcha votou em 2026-02-25: Aprovado o Projeto de Decreto Legislativo nº 50, de 2026, adotado pelo relator da Comissão de Relações Exterio"
+title: "MSC 112/2026 — Aprovado o Projeto de Decreto Legislativo nº 50, de 2026, adotado (25 fev 2026)"
+description: "Como a bancada gaúcha votou em 25 fev 2026: Aprovado o Projeto de Decreto Legislativo nº 50, de 2026, adotado pelo relator da Comissão de Relações Exterio"
 ---
 
 # MSC 112/2026
 
-<p class="subtitulo"><b>2026-02-25</b> · Aprovado o Projeto de Decreto Legislativo nº 50, de 2026, adotado pelo relator da Comissão de Relações Exteriores e de Defesa Nacional.</p>
+<p class="subtitulo"><b>25 fev 2026</b> · Aprovado o Projeto de Decreto Legislativo nº 50, de 2026, adotado pelo relator da Comissão de Relações Exteriores e de Defesa Nacional.</p>
 
 | | |
 |---|---|

@@ -7,7 +7,7 @@ description: "Como Paulo Paim vota no Senado: coesão com o próprio partido, a 
 
 # Paulo Paim
 
-<p class="subtitulo"><b>PT</b> · senador pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>PT</b> · senador pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 <div class="interrompe">
 <h4>Não compare estes números com os dos deputados</h4>
@@ -41,7 +41,7 @@ Amostra das votações em que o voto divergiu da maioria do próprio partido.
 As descrições são o texto original da fonte oficial.
 
 <blockquote class="evidencia">
-<span class="data">2025-06-25</span>
+<span class="data">25 jun 2025</span>
 <div class="corpo">
 <p>Votação nominal do Projeto de Lei Complementar nº 177, de 2023, nos termos do parecer, ressalvado o destaque</p>
 <p class="referencia">Maioria do partido: sim (5 sim / 3 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -50,7 +50,7 @@ As descrições são o texto original da fonte oficial.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-06-25</span>
+<span class="data">25 jun 2025</span>
 <div class="corpo">
 <p>Votação nominal da Emenda nº 3 ao Projeto de Lei Complementar nº 177, de 2023, destacada.</p>
 <p class="referencia">Maioria do partido: nao (1 sim / 3 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -59,7 +59,7 @@ As descrições são o texto original da fonte oficial.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-06-25</span>
+<span class="data">25 jun 2025</span>
 <div class="corpo">
 <p>Votação nominal do Requerimento nº 451, de 2025, que solicita urgência para o Projeto de Lei Complementar nº 177, de 2023</p>
 <p class="referencia">Maioria do partido: sim (5 sim / 3 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -83,7 +83,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-12355">
-<span class="data">2026-07-14</span>
+<span class="data">14 jul 2026</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
 <p>Defesa do fortalecimento do financiamento da previdência social, com críticas às perdas de arrecadação decorrentes de benefícios fiscais, sonegação e inadimplência, e apoio à revisão do modelo contributivo.</p>
@@ -92,7 +92,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-12357">
-<span class="data">2026-07-08</span>
+<span class="data">08 jul 2026</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
 <p>Registro da realização de audiência pública da CDH sobre a construção do Memorial dos Lanceiros Negros no Município de Pinheiro Machado-RS, que ocorrerá no dia 14 de julho de 2026, na Assembleia Legislativa do Rio Grande do Sul.</p>
@@ -101,7 +101,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-12356">
-<span class="data">2026-07-08</span>
+<span class="data">08 jul 2026</span>
 <div class="corpo">
 <p class="tipo">Como Relator - Para proferir parecer</p>
 <p>Como Relator - Para proferir parecer sobre o Projeto de Lei (PL) n° 3455, de 2023 (Substitutivo da Câmara dos Deputados), que &quot;Dispõe sobre a criação da Universidade Federal da Fronteira Norte (Unifron), no Município de Oiapoque, no Estado do Amapá.&quot; Afirmação de que a instituição contribuirá para a expansão da educação superior, a formação de profissionais para o desenvolvimento do Amapá, o atendimento às metas do Plano Nacional de Educação e o fortalecimento da cooperação científica entre Brasil e Guiana Francesa.</p>
@@ -110,7 +110,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-12358">
-<span class="data">2026-07-07</span>
+<span class="data">07 jul 2026</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
 <p>Preocupação com o avanço de grupos supremacistas, neonazistas e de discursos de ódio no Brasil e no mundo. Defesa da democracia, dos direitos humanos e do combate ao racismo, ao fascismo, ao antissemitismo, à xenofobia e à discriminação. Repúdio a declarações consideradas racistas e xenófobas da Senadora paraguaia Celeste Amarilla contra o jogador francês Kylian Mbappé.</p>
@@ -119,7 +119,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-12359">
-<span class="data">2026-07-06</span>
+<span class="data">06 jul 2026</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
 <p>Defesa da PEC nº 221/2019, que propõe a redução da jornada semanal de trabalho para 40 horas, sem redução salarial.</p>

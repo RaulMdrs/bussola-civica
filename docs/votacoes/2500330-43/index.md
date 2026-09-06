@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1872/2025 — Aprovado o Substitutivo ao Projeto de Lei nº 1.872, de 2025, adot (2025-07-16)"
-description: "Como a bancada gaúcha votou em 2025-07-16: Aprovado o Substitutivo ao Projeto de Lei nº 1.872, de 2025, adotado pela relatora da Comissão de Finanças e T"
+title: "PL 1872/2025 — Aprovado o Substitutivo ao Projeto de Lei nº 1.872, de 2025, adot (16 jul 2025)"
+description: "Como a bancada gaúcha votou em 16 jul 2025: Aprovado o Substitutivo ao Projeto de Lei nº 1.872, de 2025, adotado pela relatora da Comissão de Finanças e T"
 ---
 
 # PL 1872/2025
 
-<p class="subtitulo"><b>2025-07-16</b> · Aprovado o Substitutivo ao Projeto de Lei nº 1.872, de 2025, adotado pela relatora da Comissão de Finanças e Tributação, ressalvado o destaque. .</p>
+<p class="subtitulo"><b>16 jul 2025</b> · Aprovado o Substitutivo ao Projeto de Lei nº 1.872, de 2025, adotado pela relatora da Comissão de Finanças e Tributação, ressalvado o destaque. .</p>
 
 | | |
 |---|---|

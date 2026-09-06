@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3780/2023 — Mantido o texto. (2026-03-18)"
-description: "Como a bancada gaúcha votou em 2026-03-18: Mantido o texto. Sim: 278; Não: 114; Abstenção: 2; Total: 394."
+title: "PL 3780/2023 — Mantido o texto. (18 mar 2026)"
+description: "Como a bancada gaúcha votou em 18 mar 2026: Mantido o texto. Sim: 278; Não: 114; Abstenção: 2; Total: 394."
 ---
 
 # PL 3780/2023
 
-<p class="subtitulo"><b>2026-03-18</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>18 mar 2026</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

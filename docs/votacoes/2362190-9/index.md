@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 490/2007 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2023-05-24)"
-description: "Como a bancada gaúcha votou em 2023-05-24: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 324; não: 131; abstenção: 1; total: 456."
+title: "PL 490/2007 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (24 mai 2023)"
+description: "Como a bancada gaúcha votou em 24 mai 2023: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 324; não: 131; abstenção: 1; total: 456."
 ---
 
 # PL 490/2007
 
-<p class="subtitulo"><b>2023-05-24</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>24 mai 2023</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

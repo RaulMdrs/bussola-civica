@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PRC 32/2024 — Aprovada a Subemenda Substitutiva Global ao Projeto de Resolução n (2024-06-12)"
-description: "Como a bancada gaúcha votou em 2024-06-12: Aprovada a Subemenda Substitutiva Global ao Projeto de Resolução nº 32, de 2024, adotada pelo relator da Mesa "
+title: "PRC 32/2024 — Aprovada a Subemenda Substitutiva Global ao Projeto de Resolução n (12 jun 2024)"
+description: "Como a bancada gaúcha votou em 12 jun 2024: Aprovada a Subemenda Substitutiva Global ao Projeto de Resolução nº 32, de 2024, adotada pelo relator da Mesa "
 ---
 
 # PRC 32/2024
 
-<p class="subtitulo"><b>2024-06-12</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Resolução nº 32, de 2024, adotada pelo relator da Mesa Diretora.</p>
+<p class="subtitulo"><b>12 jun 2024</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Resolução nº 32, de 2024, adotada pelo relator da Mesa Diretora.</p>
 
 | | |
 |---|---|

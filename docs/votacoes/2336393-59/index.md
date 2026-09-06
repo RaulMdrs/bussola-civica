@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2685/2022 — Rejeitada a Emenda de Plenário nº 1. (2023-09-05)"
-description: "Como a bancada gaúcha votou em 2023-09-05: Rejeitada a Emenda de Plenário nº 1. Sim: 101; não: 301; total: 402."
+title: "PL 2685/2022 — Rejeitada a Emenda de Plenário nº 1. (05 set 2023)"
+description: "Como a bancada gaúcha votou em 05 set 2023: Rejeitada a Emenda de Plenário nº 1. Sim: 101; não: 301; total: 402."
 ---
 
 # PL 2685/2022
 
-<p class="subtitulo"><b>2023-09-05</b> · Rejeitada a Emenda de Plenário nº 1.</p>
+<p class="subtitulo"><b>05 set 2023</b> · Rejeitada a Emenda de Plenário nº 1.</p>
 
 | | |
 |---|---|

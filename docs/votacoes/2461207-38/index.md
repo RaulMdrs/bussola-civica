@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3819/2024 — Aprovado o Projeto de Lei nº 3.819, de 2024. (2024-11-27)"
-description: "Como a bancada gaúcha votou em 2024-11-27: Aprovado o Projeto de Lei nº 3.819, de 2024. Sim: 364; Não: 47; Abstenção: 1; Total: 412."
+title: "PL 3819/2024 — Aprovado o Projeto de Lei nº 3.819, de 2024. (27 nov 2024)"
+description: "Como a bancada gaúcha votou em 27 nov 2024: Aprovado o Projeto de Lei nº 3.819, de 2024. Sim: 364; Não: 47; Abstenção: 1; Total: 412."
 ---
 
 # PL 3819/2024
 
-<p class="subtitulo"><b>2024-11-27</b> · Aprovado o Projeto de Lei nº 3.819, de 2024.</p>
+<p class="subtitulo"><b>27 nov 2024</b> · Aprovado o Projeto de Lei nº 3.819, de 2024.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1944/2026 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2026-04-28)"
-description: "Como a bancada gaúcha votou em 2026-04-28: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; Não: 104; Total: 434."
+title: "PL 1944/2026 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (28 abr 2026)"
+description: "Como a bancada gaúcha votou em 28 abr 2026: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; Não: 104; Total: 434."
 ---
 
 # PL 1944/2026
 
-<p class="subtitulo"><b>2026-04-28</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>28 abr 2026</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

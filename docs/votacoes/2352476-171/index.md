@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 9/2023 — Mantido o texto. (2024-07-11)"
-description: "Como a bancada gaúcha votou em 2024-07-11: Mantido o texto. Sim: 379; não: 23; abstenção: 1; total: 403."
+title: "PEC 9/2023 — Mantido o texto. (11 jul 2024)"
+description: "Como a bancada gaúcha votou em 11 jul 2024: Mantido o texto. Sim: 379; não: 23; abstenção: 1; total: 403."
 ---
 
 # PEC 9/2023
 
-<p class="subtitulo"><b>2024-07-11</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>11 jul 2024</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 98/2023 — Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 98, d (2023-05-03)"
-description: "Como a bancada gaúcha votou em 2023-05-03: Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 98, de 2023, adotado pelo relator da Comissão de "
+title: "PDL 98/2023 — Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 98, d (03 mai 2023)"
+description: "Como a bancada gaúcha votou em 03 mai 2023: Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 98, de 2023, adotado pelo relator da Comissão de "
 ---
 
 # PDL 98/2023
 
-<p class="subtitulo"><b>2023-05-03</b> · Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 98, de 2023, adotado pelo relator da Comissão de Desenvolvimento Urbano.</p>
+<p class="subtitulo"><b>03 mai 2023</b> · Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 98, de 2023, adotado pelo relator da Comissão de Desenvolvimento Urbano.</p>
 
 | | |
 |---|---|

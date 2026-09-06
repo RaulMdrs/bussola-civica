@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2757/2022 — Aprovada a Emenda de Plenário n° 3. (2023-11-07)"
-description: "Como a bancada gaúcha votou em 2023-11-07: Aprovada a Emenda de Plenário n° 3. Sim: 311; Não: 107; total: 418."
+title: "PL 2757/2022 — Aprovada a Emenda de Plenário n° 3. (07 nov 2023)"
+description: "Como a bancada gaúcha votou em 07 nov 2023: Aprovada a Emenda de Plenário n° 3. Sim: 311; Não: 107; total: 418."
 ---
 
 # PL 2757/2022
 
-<p class="subtitulo"><b>2023-11-07</b> · Aprovada a Emenda de Plenário n° 3.</p>
+<p class="subtitulo"><b>07 nov 2023</b> · Aprovada a Emenda de Plenário n° 3.</p>
 
 | | |
 |---|---|

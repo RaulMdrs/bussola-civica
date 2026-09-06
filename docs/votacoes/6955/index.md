@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei Complementar nº 167, de 2024, nos termos do pa (2025-07-02)"
-description: "Como os senadores gaúchos votou em 2025-07-02: Votação nominal do Projeto de Lei Complementar nº 167, de 2024, nos termos do parecer de Plenário."
+title: "Votação nominal do Projeto de Lei Complementar nº 167, de 2024, nos termos do pa (02 jul 2025)"
+description: "Como os senadores gaúchos votou em 02 jul 2025: Votação nominal do Projeto de Lei Complementar nº 167, de 2024, nos termos do parecer de Plenário."
 ---
 
-# Votação de 2025-07-02
+# Votação de 02 jul 2025
 
-<p class="subtitulo"><b>2025-07-02</b> · Votação nominal do Projeto de Lei Complementar nº 167, de 2024, nos termos do parecer de Plenário.</p>
+<p class="subtitulo"><b>02 jul 2025</b> · Votação nominal do Projeto de Lei Complementar nº 167, de 2024, nos termos do parecer de Plenário.</p>
 
 | | |
 |---|---|

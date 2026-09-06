@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 358/2025 — Aprovado o Projeto de Lei nº 358, de 2025. . (2025-09-25)"
-description: "Como a bancada gaúcha votou em 2025-09-25: Aprovado o Projeto de Lei nº 358, de 2025. ."
+title: "PL 358/2025 — Aprovado o Projeto de Lei nº 358, de 2025. . (25 set 2025)"
+description: "Como a bancada gaúcha votou em 25 set 2025: Aprovado o Projeto de Lei nº 358, de 2025. ."
 ---
 
 # PL 358/2025
 
-<p class="subtitulo"><b>2025-09-25</b> · Aprovado o Projeto de Lei nº 358, de 2025. .</p>
+<p class="subtitulo"><b>25 set 2025</b> · Aprovado o Projeto de Lei nº 358, de 2025. .</p>
 
 | | |
 |---|---|

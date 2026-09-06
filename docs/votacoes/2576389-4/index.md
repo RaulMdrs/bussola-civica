@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votos: Sra. Daiane Nogueira de Lira: (2025-10-29)"
-description: "Como a bancada gaúcha votou em 2025-10-29: Votos: Sra. Daiane Nogueira de Lira: Sim: 388; Não: 22; Abstenção: 11; Total: 421."
+title: "Votos: Sra. Daiane Nogueira de Lira: (29 out 2025)"
+description: "Como a bancada gaúcha votou em 29 out 2025: Votos: Sra. Daiane Nogueira de Lira: Sim: 388; Não: 22; Abstenção: 11; Total: 421."
 ---
 
-# Votação de 2025-10-29
+# Votação de 29 out 2025
 
-<p class="subtitulo"><b>2025-10-29</b> · Votos: Sra. Daiane Nogueira de Lira:</p>
+<p class="subtitulo"><b>29 out 2025</b> · Votos: Sra. Daiane Nogueira de Lira:</p>
 
 | | |
 |---|---|

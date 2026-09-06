@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1153/2022 — Aprovado o Requerimento. (2023-04-26)"
-description: "Como a bancada gaúcha votou em 2023-04-26: Aprovado o Requerimento. Sim: 204; não: 202; abstenção: 1; total: 407."
+title: "MPV 1153/2022 — Aprovado o Requerimento. (26 abr 2023)"
+description: "Como a bancada gaúcha votou em 26 abr 2023: Aprovado o Requerimento. Sim: 204; não: 202; abstenção: 1; total: 407."
 ---
 
 # MPV 1153/2022
 
-<p class="subtitulo"><b>2023-04-26</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>26 abr 2023</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

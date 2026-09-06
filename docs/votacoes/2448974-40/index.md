@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 397/2024 — Rejeitado o Requerimento. (2024-08-14)"
-description: "Como a bancada gaúcha votou em 2024-08-14: Rejeitado o Requerimento. Sim: 81; não: 296; abstenção: 1; total: 378."
+title: "PL 397/2024 — Rejeitado o Requerimento. (14 ago 2024)"
+description: "Como a bancada gaúcha votou em 14 ago 2024: Rejeitado o Requerimento. Sim: 81; não: 296; abstenção: 1; total: 378."
 ---
 
 # PL 397/2024
 
-<p class="subtitulo"><b>2024-08-14</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>14 ago 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

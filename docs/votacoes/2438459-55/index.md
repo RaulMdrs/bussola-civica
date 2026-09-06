@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 108/2024 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Comple (2024-08-13)"
-description: "Como a bancada gaúcha votou em 2024-08-13: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 108, de 2024, adotada pelo relator "
+title: "PLP 108/2024 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Comple (13 ago 2024)"
+description: "Como a bancada gaúcha votou em 13 ago 2024: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 108, de 2024, adotada pelo relator "
 ---
 
 # PLP 108/2024
 
-<p class="subtitulo"><b>2024-08-13</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 108, de 2024, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques.</p>
+<p class="subtitulo"><b>13 ago 2024</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 108, de 2024, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques.</p>
 
 | | |
 |---|---|

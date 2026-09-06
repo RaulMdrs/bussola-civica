@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4357/2023 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.3 (2025-11-05)"
-description: "Como a bancada gaúcha votou em 2025-11-05: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.357, de 2023, adotada pelo relator da Comissão"
+title: "PL 4357/2023 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.3 (05 nov 2025)"
+description: "Como a bancada gaúcha votou em 05 nov 2025: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.357, de 2023, adotada pelo relator da Comissão"
 ---
 
 # PL 4357/2023
 
-<p class="subtitulo"><b>2025-11-05</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.357, de 2023, adotada pelo relator da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, ressalvados os destaques.</p>
+<p class="subtitulo"><b>05 nov 2025</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.357, de 2023, adotada pelo relator da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, ressalvados os destaques.</p>
 
 | | |
 |---|---|

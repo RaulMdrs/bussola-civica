@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2809/2024 — Mantido o texto. (2025-11-05)"
-description: "Como a bancada gaúcha votou em 2025-11-05: Mantido o texto. Sim: 295; Não: 118; Total: 413."
+title: "PL 2809/2024 — Mantido o texto. (05 nov 2025)"
+description: "Como a bancada gaúcha votou em 05 nov 2025: Mantido o texto. Sim: 295; Não: 118; Total: 413."
 ---
 
 # PL 2809/2024
 
-<p class="subtitulo"><b>2025-11-05</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>05 nov 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei Complementar nº 72, de 2024, e Emenda nº 2. (2024-07-02)"
-description: "Como os senadores gaúchos votou em 2024-07-02: Votação nominal do Projeto de Lei Complementar nº 72, de 2024, e Emenda nº 2."
+title: "Votação nominal do Projeto de Lei Complementar nº 72, de 2024, e Emenda nº 2. (02 jul 2024)"
+description: "Como os senadores gaúchos votou em 02 jul 2024: Votação nominal do Projeto de Lei Complementar nº 72, de 2024, e Emenda nº 2."
 ---
 
-# Votação de 2024-07-02
+# Votação de 02 jul 2024
 
-<p class="subtitulo"><b>2024-07-02</b> · Votação nominal do Projeto de Lei Complementar nº 72, de 2024, e Emenda nº 2.</p>
+<p class="subtitulo"><b>02 jul 2024</b> · Votação nominal do Projeto de Lei Complementar nº 72, de 2024, e Emenda nº 2.</p>
 
 | | |
 |---|---|

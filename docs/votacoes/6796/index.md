@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Requerimento nº 1.103, de 2023 - Solicita o encerramento da d (2023-12-12)"
-description: "Como os senadores gaúchos votou em 2023-12-12: Votação nominal do Requerimento nº 1.103, de 2023 - Solicita o encerramento da discussão do PL nº 3.626/2023."
+title: "Votação nominal do Requerimento nº 1.103, de 2023 - Solicita o encerramento da d (12 dez 2023)"
+description: "Como os senadores gaúchos votou em 12 dez 2023: Votação nominal do Requerimento nº 1.103, de 2023 - Solicita o encerramento da discussão do PL nº 3.626/2023."
 ---
 
-# Votação de 2023-12-12
+# Votação de 12 dez 2023
 
-<p class="subtitulo"><b>2023-12-12</b> · Votação nominal do Requerimento nº 1.103, de 2023 - Solicita o encerramento da discussão do PL nº 3.626/2023.</p>
+<p class="subtitulo"><b>12 dez 2023</b> · Votação nominal do Requerimento nº 1.103, de 2023 - Solicita o encerramento da discussão do PL nº 3.626/2023.</p>
 
 | | |
 |---|---|

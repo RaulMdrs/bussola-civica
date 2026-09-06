@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal dos dispositivos do art. 12 do Substitutivo do Relator ao PLP nº (2024-11-18)"
-description: "Como os senadores gaúchos votou em 2024-11-18: Votação nominal dos dispositivos do art. 12 do Substitutivo do Relator ao PLP nº 175/2024, destacados."
+title: "Votação nominal dos dispositivos do art. 12 do Substitutivo do Relator ao PLP nº (18 nov 2024)"
+description: "Como os senadores gaúchos votou em 18 nov 2024: Votação nominal dos dispositivos do art. 12 do Substitutivo do Relator ao PLP nº 175/2024, destacados."
 ---
 
-# Votação de 2024-11-18
+# Votação de 18 nov 2024
 
-<p class="subtitulo"><b>2024-11-18</b> · Votação nominal dos dispositivos do art. 12 do Substitutivo do Relator ao PLP nº 175/2024, destacados.</p>
+<p class="subtitulo"><b>18 nov 2024</b> · Votação nominal dos dispositivos do art. 12 do Substitutivo do Relator ao PLP nº 175/2024, destacados.</p>
 
 | | |
 |---|---|

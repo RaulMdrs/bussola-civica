@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 169/2019 — Aprovada, em primeiro turno, a Proposta de Emenda à Constituição  (2025-10-30)"
-description: "Como a bancada gaúcha votou em 2025-10-30: Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 169, de 2019. Sim: 386; Não: 15; Abstenção"
+title: "PEC 169/2019 — Aprovada, em primeiro turno, a Proposta de Emenda à Constituição  (30 out 2025)"
+description: "Como a bancada gaúcha votou em 30 out 2025: Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 169, de 2019. Sim: 386; Não: 15; Abstenção"
 ---
 
 # PEC 169/2019
 
-<p class="subtitulo"><b>2025-10-30</b> · Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 169, de 2019.</p>
+<p class="subtitulo"><b>30 out 2025</b> · Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 169, de 2019.</p>
 
 | | |
 |---|---|

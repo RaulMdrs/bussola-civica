@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 14/2021 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° (2025-10-07)"
-description: "Como a bancada gaúcha votou em 2025-10-07: Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 14, de 2021. Sim: 426; Não: 10; Total: 436."
+title: "PEC 14/2021 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° (07 out 2025)"
+description: "Como a bancada gaúcha votou em 07 out 2025: Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 14, de 2021. Sim: 426; Não: 10; Total: 436."
 ---
 
 # PEC 14/2021
 
-<p class="subtitulo"><b>2025-10-07</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 14, de 2021.</p>
+<p class="subtitulo"><b>07 out 2025</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 14, de 2021.</p>
 
 | | |
 |---|---|

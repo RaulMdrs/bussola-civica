@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 175/2024 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Comple (2024-11-05)"
-description: "Como a bancada gaúcha votou em 2024-11-05: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 175, de 2024, adotada pelo relator "
+title: "PLP 175/2024 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Comple (05 nov 2024)"
+description: "Como a bancada gaúcha votou em 05 nov 2024: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 175, de 2024, adotada pelo relator "
 ---
 
 # PLP 175/2024
 
-<p class="subtitulo"><b>2024-11-05</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 175, de 2024, adotada pelo relator da Comissão de Administração e Serviço Público, ressalvados os destaques.</p>
+<p class="subtitulo"><b>05 nov 2024</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 175, de 2024, adotada pelo relator da Comissão de Administração e Serviço Público, ressalvados os destaques.</p>
 
 | | |
 |---|---|

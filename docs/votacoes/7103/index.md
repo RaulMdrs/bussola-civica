@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Art. 13 do Projeto de Lei Complementar nº 114, de 2026, desta (2026-08-12)"
-description: "Como os senadores gaúchos votou em 2026-08-12: Votação nominal do Art. 13 do Projeto de Lei Complementar nº 114, de 2026, destacado."
+title: "Votação nominal do Art. 13 do Projeto de Lei Complementar nº 114, de 2026, desta (12 ago 2026)"
+description: "Como os senadores gaúchos votou em 12 ago 2026: Votação nominal do Art. 13 do Projeto de Lei Complementar nº 114, de 2026, destacado."
 ---
 
-# Votação de 2026-08-12
+# Votação de 12 ago 2026
 
-<p class="subtitulo"><b>2026-08-12</b> · Votação nominal do Art. 13 do Projeto de Lei Complementar nº 114, de 2026, destacado.</p>
+<p class="subtitulo"><b>12 ago 2026</b> · Votação nominal do Art. 13 do Projeto de Lei Complementar nº 114, de 2026, destacado.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 519/2018 — Mantido o texto. (2024-08-28)"
-description: "Como a bancada gaúcha votou em 2024-08-28: Mantido o texto. Sim: 305; não: 132; abstenção: 1; total: 438."
+title: "PLP 519/2018 — Mantido o texto. (28 ago 2024)"
+description: "Como a bancada gaúcha votou em 28 ago 2024: Mantido o texto. Sim: 305; não: 132; abstenção: 1; total: 438."
 ---
 
 # PLP 519/2018
 
-<p class="subtitulo"><b>2024-08-28</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>28 ago 2024</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

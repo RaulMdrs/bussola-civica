@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1847/2024 — Aprovado o Projeto de Lei nº 1.847, de 2024, ressalvados os desta (2024-09-11)"
-description: "Como a bancada gaúcha votou em 2024-09-11: Aprovado o Projeto de Lei nº 1.847, de 2024, ressalvados os destaques. Sim: 253; Não: 67; Abstenção: 4; Total:"
+title: "PL 1847/2024 — Aprovado o Projeto de Lei nº 1.847, de 2024, ressalvados os desta (11 set 2024)"
+description: "Como a bancada gaúcha votou em 11 set 2024: Aprovado o Projeto de Lei nº 1.847, de 2024, ressalvados os destaques. Sim: 253; Não: 67; Abstenção: 4; Total:"
 ---
 
 # PL 1847/2024
 
-<p class="subtitulo"><b>2024-09-11</b> · Aprovado o Projeto de Lei nº 1.847, de 2024, ressalvados os destaques.</p>
+<p class="subtitulo"><b>11 set 2024</b> · Aprovado o Projeto de Lei nº 1.847, de 2024, ressalvados os destaques.</p>
 
 | | |
 |---|---|

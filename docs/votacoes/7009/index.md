@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Proposta de Emenda à Constituição nº 66, de 2023 (2º turno). (2025-09-02)"
-description: "Como os senadores gaúchos votou em 2025-09-02: Votação nominal da Proposta de Emenda à Constituição nº 66, de 2023 (2º turno)."
+title: "Votação nominal da Proposta de Emenda à Constituição nº 66, de 2023 (2º turno). (02 set 2025)"
+description: "Como os senadores gaúchos votou em 02 set 2025: Votação nominal da Proposta de Emenda à Constituição nº 66, de 2023 (2º turno)."
 ---
 
-# Votação de 2025-09-02
+# Votação de 02 set 2025
 
-<p class="subtitulo"><b>2025-09-02</b> · Votação nominal da Proposta de Emenda à Constituição nº 66, de 2023 (2º turno).</p>
+<p class="subtitulo"><b>02 set 2025</b> · Votação nominal da Proposta de Emenda à Constituição nº 66, de 2023 (2º turno).</p>
 
 | | |
 |---|---|

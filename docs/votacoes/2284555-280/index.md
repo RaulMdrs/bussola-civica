@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 14/2021 — Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à (2025-10-07)"
-description: "Como a bancada gaúcha votou em 2025-10-07: Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à Constituição nº 14, de 2021, da Comissão Es"
+title: "PEC 14/2021 — Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à (07 out 2025)"
+description: "Como a bancada gaúcha votou em 07 out 2025: Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à Constituição nº 14, de 2021, da Comissão Es"
 ---
 
 # PEC 14/2021
 
-<p class="subtitulo"><b>2025-10-07</b> · Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à Constituição nº 14, de 2021, da Comissão Especial.</p>
+<p class="subtitulo"><b>07 out 2025</b> · Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à Constituição nº 14, de 2021, da Comissão Especial.</p>
 
 | | |
 |---|---|

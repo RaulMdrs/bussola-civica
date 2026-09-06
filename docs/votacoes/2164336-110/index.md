@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 453/2017 — Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementa (2025-11-26)"
-description: "Como a bancada gaúcha votou em 2025-11-26: Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 453, de 2017, adotado pelo relator da Co"
+title: "PLP 453/2017 — Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementa (26 nov 2025)"
+description: "Como a bancada gaúcha votou em 26 nov 2025: Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 453, de 2017, adotado pelo relator da Co"
 ---
 
 # PLP 453/2017
 
-<p class="subtitulo"><b>2025-11-26</b> · Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 453, de 2017, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania.</p>
+<p class="subtitulo"><b>26 nov 2025</b> · Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 453, de 2017, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania.</p>
 
 | | |
 |---|---|

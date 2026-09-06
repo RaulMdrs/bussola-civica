@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5086/2023 — Rejeitado o Requerimento. (2023-11-07)"
-description: "Como a bancada gaúcha votou em 2023-11-07: Rejeitado o Requerimento. Sim: 94; não: 279; total: 373."
+title: "PL 5086/2023 — Rejeitado o Requerimento. (07 nov 2023)"
+description: "Como a bancada gaúcha votou em 07 nov 2023: Rejeitado o Requerimento. Sim: 94; não: 279; total: 373."
 ---
 
 # PL 5086/2023
 
-<p class="subtitulo"><b>2023-11-07</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>07 nov 2023</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

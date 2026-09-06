@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 177/2023 — Rejeitado o Requerimento. (2025-06-25)"
-description: "Como a bancada gaúcha votou em 2025-06-25: Rejeitado o Requerimento. Sim: 200; Não: 254; Abstenção: 1; Total: 455."
+title: "PLP 177/2023 — Rejeitado o Requerimento. (25 jun 2025)"
+description: "Como a bancada gaúcha votou em 25 jun 2025: Rejeitado o Requerimento. Sim: 200; Não: 254; Abstenção: 1; Total: 455."
 ---
 
 # PLP 177/2023
 
-<p class="subtitulo"><b>2025-06-25</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>25 jun 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2307/2007 — Mantido o texto. (2025-10-28)"
-description: "Como a bancada gaúcha votou em 2025-10-28: Mantido o texto. Sim: 409; Não: 21; Total: 430."
+title: "PL 2307/2007 — Mantido o texto. (28 out 2025)"
+description: "Como a bancada gaúcha votou em 28 out 2025: Mantido o texto. Sim: 409; Não: 21; Total: 430."
 ---
 
 # PL 2307/2007
 
-<p class="subtitulo"><b>2025-10-28</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>28 out 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

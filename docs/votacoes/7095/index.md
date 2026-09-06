@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei Complementar nº 73, de 2025, nos termos dos pa (2026-06-16)"
-description: "Como os senadores gaúchos votou em 2026-06-16: Votação nominal do Projeto de Lei Complementar nº 73, de 2025, nos termos dos pareceres."
+title: "Votação nominal do Projeto de Lei Complementar nº 73, de 2025, nos termos dos pa (16 jun 2026)"
+description: "Como os senadores gaúchos votou em 16 jun 2026: Votação nominal do Projeto de Lei Complementar nº 73, de 2025, nos termos dos pareceres."
 ---
 
-# Votação de 2026-06-16
+# Votação de 16 jun 2026
 
-<p class="subtitulo"><b>2026-06-16</b> · Votação nominal do Projeto de Lei Complementar nº 73, de 2025, nos termos dos pareceres.</p>
+<p class="subtitulo"><b>16 jun 2026</b> · Votação nominal do Projeto de Lei Complementar nº 73, de 2025, nos termos dos pareceres.</p>
 
 | | |
 |---|---|

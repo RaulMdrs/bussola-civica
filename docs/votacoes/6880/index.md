@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do §4º do art. 4º do Substitutivo do Relator ao PLP nº 175/2024, (2024-11-18)"
-description: "Como os senadores gaúchos votou em 2024-11-18: Votação nominal do §4º do art. 4º do Substitutivo do Relator ao PLP nº 175/2024, destacado."
+title: "Votação nominal do §4º do art. 4º do Substitutivo do Relator ao PLP nº 175/2024, (18 nov 2024)"
+description: "Como os senadores gaúchos votou em 18 nov 2024: Votação nominal do §4º do art. 4º do Substitutivo do Relator ao PLP nº 175/2024, destacado."
 ---
 
-# Votação de 2024-11-18
+# Votação de 18 nov 2024
 
-<p class="subtitulo"><b>2024-11-18</b> · Votação nominal do §4º do art. 4º do Substitutivo do Relator ao PLP nº 175/2024, destacado.</p>
+<p class="subtitulo"><b>18 nov 2024</b> · Votação nominal do §4º do art. 4º do Substitutivo do Relator ao PLP nº 175/2024, destacado.</p>
 
 | | |
 |---|---|

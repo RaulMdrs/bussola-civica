@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 914/2024 — Rejeitada a Emenda de Plenário n° 7. (2024-05-28)"
-description: "Como a bancada gaúcha votou em 2024-05-28: Rejeitada a Emenda de Plenário n° 7. Sim: 187; não: 202; abstenção: 1; total: 390."
+title: "PL 914/2024 — Rejeitada a Emenda de Plenário n° 7. (28 mai 2024)"
+description: "Como a bancada gaúcha votou em 28 mai 2024: Rejeitada a Emenda de Plenário n° 7. Sim: 187; não: 202; abstenção: 1; total: 390."
 ---
 
 # PL 914/2024
 
-<p class="subtitulo"><b>2024-05-28</b> · Rejeitada a Emenda de Plenário n° 7.</p>
+<p class="subtitulo"><b>28 mai 2024</b> · Rejeitada a Emenda de Plenário n° 7.</p>
 
 | | |
 |---|---|

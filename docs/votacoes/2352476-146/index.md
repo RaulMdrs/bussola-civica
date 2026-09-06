@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 9/2023 — Rejeitado o Requerimento. (2024-07-11)"
-description: "Como a bancada gaúcha votou em 2024-07-11: Rejeitado o Requerimento. Sim: 83; não: 323; abstenção: 1; total: 407."
+title: "PEC 9/2023 — Rejeitado o Requerimento. (11 jul 2024)"
+description: "Como a bancada gaúcha votou em 11 jul 2024: Rejeitado o Requerimento. Sim: 83; não: 323; abstenção: 1; total: 407."
 ---
 
 # PEC 9/2023
 
-<p class="subtitulo"><b>2024-07-11</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>11 jul 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

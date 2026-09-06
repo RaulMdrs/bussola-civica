@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1366/2022 — Aprovado o Projeto de Lei nº 1.366, de 2022. (2024-05-08)"
-description: "Como a bancada gaúcha votou em 2024-05-08: Aprovado o Projeto de Lei nº 1.366, de 2022. Sim: 309; não: 131; abstenção: 2; total: 442."
+title: "PL 1366/2022 — Aprovado o Projeto de Lei nº 1.366, de 2022. (08 mai 2024)"
+description: "Como a bancada gaúcha votou em 08 mai 2024: Aprovado o Projeto de Lei nº 1.366, de 2022. Sim: 309; não: 131; abstenção: 2; total: 442."
 ---
 
 # PL 1366/2022
 
-<p class="subtitulo"><b>2024-05-08</b> · Aprovado o Projeto de Lei nº 1.366, de 2022.</p>
+<p class="subtitulo"><b>08 mai 2024</b> · Aprovado o Projeto de Lei nº 1.366, de 2022.</p>
 
 | | |
 |---|---|

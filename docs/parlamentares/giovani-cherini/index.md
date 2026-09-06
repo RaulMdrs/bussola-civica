@@ -7,7 +7,7 @@ description: "Como Giovani Cherini vota: alinhamento com o governo federal e coe
 
 # Giovani Cherini
 
-<p class="subtitulo"><b>PL</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>PL</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-09-03</span>
+<span class="data">03 set 2026</span>
 <div class="corpo">
 <p>Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 74, de 2026, adotada pelo relator da Comissão de Finanças e Tributação. <span class="placar">Sim: 346; Não: 46; Abstenção: 3; Total: 395.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. <span class="placar">Sim: 318; Não: 113; Abstenção: 1; Total: 432.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Rejeitadas as Emendas de Plenário. <span class="placar">Sim: 108; Não: 275; Abstenção: 1; Total: 384.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-09-03</span>
+<span class="data">03 set 2026</span>
 <div class="corpo">
 <p>Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 74, de 2026, adotada pelo relator da Comissão de Finanças e Tributação. <span class="placar">Sim: 346; Não: 46; Abstenção: 3; Total: 395.</span></p>
 <p class="referencia">Maioria do partido: sim (45 sim / 22 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-12-09</span>
+<span class="data">09 dez 2025</span>
 <div class="corpo">
 <p>Rejeitadas as Emendas de Plenário. <span class="placar">Sim: 8; Não: 382; Total: 390.</span></p>
 <p class="referencia">Maioria do partido: nao (1 sim / 65 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-11-05</span>
+<span class="data">05 nov 2025</span>
 <div class="corpo">
 <p>Aprovada a Emenda Aglutinativa nº 1. <span class="placar">Sim: 325; Não: 94; Total: 419.</span></p>
 <p class="referencia">Maioria do partido: nao (23 sim / 38 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -148,7 +148,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-2401">
-<span class="data">2025-10-14 · 16:00</span>
+<span class="data">14 out 2025 · 16:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado acusou o Governo Lula de adotar práticas autoritárias semelhantes às da Venezuela, China e Nicarágua, chamando-o de “Governo da mentira”. Criticou a influência da Primeira-Dama Janja, comparando-a à esposa do ditador nicaraguense Ortega, e atacou Lula por indicar amigos ao Supremo Tribunal Federal (STF) e impor sigilos de até 100 anos, contradizendo o discurso de transparência. Por fim, disse que o país vive sob um “Governo da gastança e do segredo”.</p>
@@ -157,7 +157,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2400">
-<span class="data">2025-10-07 · 15:20</span>
+<span class="data">07 out 2025 · 15:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado criticou o Supremo Tribunal Federal (STF) e o Governo Federal, afirmando que o Brasil vive uma “ditadura disfarçada” e que o tribunal extrapolou suas funções ao limitar ações do ex-Presidente Jair Bolsonaro. Mencionou que o Ministro do Supremo Tribunal Federal, Luís Roberto Barroso, supostamente reconheceu possíveis excessos do Supremo e a força política de Bolsonaro. Também acusou o Partido dos Trabalhadores (PT) de “comprar tudo, até o Fundação Instituto Brasileiro de Geografia e Estatística (IBGE)”, e afirmou que o partido substituiu a fome pela miséria, culpando o Governo pela crise social e pela violência do crime organizado.</p>
@@ -166,7 +166,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2399">
-<span class="data">2025-10-01 · 16:16</span>
+<span class="data">01 out 2025 · 16:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado criticou a política fiscal do Governo ao afirmar que novos impostos estavam sendo criados para sustentar o aumento de gastos públicos. Mencionou os recursos destinados ao Bolsa Família, no valor de 94 milhões de reais, e ao Vale Gás, de 10 milhões, apontando que a conta seria paga pela população que gera empregos e já enfrenta elevada carga tributária. Destacou que trabalhadores e empresários arcam com 27,5% de Imposto de Renda, mais de 40% sobre empresas e agora mais 10% sobre lucros e dividendos. Também mencionou os altos valores de bens utilizados pelo Presidente Lula e pela Primeira-dama, em contraste com o discurso de proximidade com a população de baixa renda.</p>
@@ -175,7 +175,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2398">
-<span class="data">2025-10-01 · 14:32</span>
+<span class="data">01 out 2025 · 14:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado comentou a prisão na Itália de Tagliaferro, acusado de envolvimento na chamada &quot;vaza-toga&quot;. Afirmou que, em vez de apurar os fatos, o regime petista tenta silenciar vozes críticas, forçando adversários a deixarem o Brasil. Também defendeu que Tagliaferro seja chamado a depor no País para esclarecer os acontecimentos.</p>
@@ -184,7 +184,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2397">
-<span class="data">2025-09-30 · 17:24</span>
+<span class="data">30 set 2025 · 17:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado criticou o Ministro Edson Fachin, do Supremo Tribunal Federal (STF), afirmando que sua decisão de anular condenações e “descondenar” o Presidente Lula em 2021 teria aprofundado a divisão no País e agravado a criminalidade. Ademais, disse que o Brasil afundou economicamente, citando os 94 milhões de beneficiários do Bolsa Família como exemplo do aumento da miséria. Também questionou quem arcaria com as chamadas benesses aprovadas no Congresso, alegando que empresários estariam fechando empresas diante da alta carga tributária. Por fim, acusou o STF de desrespeitar a Constituição desde 2019 e defendeu a necessidade de restabelecer sua observância, citando a aplicação da Lei Magnitsky pelo governo dos Estados Unidos.</p>

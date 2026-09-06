@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 11247/2018 — Mantido o texto. (2023-11-29)"
-description: "Como a bancada gaúcha votou em 2023-11-29: Mantido o texto. Sim: 387; não: 38; total: 425."
+title: "PL 11247/2018 — Mantido o texto. (29 nov 2023)"
+description: "Como a bancada gaúcha votou em 29 nov 2023: Mantido o texto. Sim: 387; não: 38; total: 425."
 ---
 
 # PL 11247/2018
 
-<p class="subtitulo"><b>2023-11-29</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>29 nov 2023</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

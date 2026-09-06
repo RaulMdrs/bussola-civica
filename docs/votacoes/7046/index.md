@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Solicita urgência para o Projeto de Lei nº 2.234, de 2022 (2025-12-17)"
-description: "Como os senadores gaúchos votou em 2025-12-17: Solicita urgência para o Projeto de Lei nº 2.234, de 2022"
+title: "Solicita urgência para o Projeto de Lei nº 2.234, de 2022 (17 dez 2025)"
+description: "Como os senadores gaúchos votou em 17 dez 2025: Solicita urgência para o Projeto de Lei nº 2.234, de 2022"
 ---
 
-# Votação de 2025-12-17
+# Votação de 17 dez 2025
 
-<p class="subtitulo"><b>2025-12-17</b> · Solicita urgência para o Projeto de Lei nº 2.234, de 2022</p>
+<p class="subtitulo"><b>17 dez 2025</b> · Solicita urgência para o Projeto de Lei nº 2.234, de 2022</p>
 
 | | |
 |---|---|

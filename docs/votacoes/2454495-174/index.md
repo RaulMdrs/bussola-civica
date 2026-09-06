@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 66/2023 — Aprovada a Redação Final assinada pelo Relator, Dep. Baleia Rossi  (2025-07-15)"
-description: "Como a bancada gaúcha votou em 2025-07-15: Aprovada a Redação Final assinada pelo Relator, Dep. Baleia Rossi (MDB/SP). Sim: 353; Não: 76; Abstenção: 3; T"
+title: "PEC 66/2023 — Aprovada a Redação Final assinada pelo Relator, Dep. Baleia Rossi  (15 jul 2025)"
+description: "Como a bancada gaúcha votou em 15 jul 2025: Aprovada a Redação Final assinada pelo Relator, Dep. Baleia Rossi (MDB/SP). Sim: 353; Não: 76; Abstenção: 3; T"
 ---
 
 # PEC 66/2023
 
-<p class="subtitulo"><b>2025-07-15</b> · Aprovada a Redação Final assinada pelo Relator, Dep. Baleia Rossi (MDB/SP).</p>
+<p class="subtitulo"><b>15 jul 2025</b> · Aprovada a Redação Final assinada pelo Relator, Dep. Baleia Rossi (MDB/SP).</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3890/2020 — Rejeitado o Requerimento de Urgência (Art. 155 do RICD). (2024-05-21)"
-description: "Como a bancada gaúcha votou em 2024-05-21: Rejeitado o Requerimento de Urgência (Art. 155 do RICD). Sim: 243; Não: 170; Abstenção: 1; Total: 414."
+title: "PL 3890/2020 — Rejeitado o Requerimento de Urgência (Art. 155 do RICD). (21 mai 2024)"
+description: "Como a bancada gaúcha votou em 21 mai 2024: Rejeitado o Requerimento de Urgência (Art. 155 do RICD). Sim: 243; Não: 170; Abstenção: 1; Total: 414."
 ---
 
 # PL 3890/2020
 
-<p class="subtitulo"><b>2024-05-21</b> · Rejeitado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>21 mai 2024</b> · Rejeitado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

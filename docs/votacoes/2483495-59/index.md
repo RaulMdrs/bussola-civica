@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 363/2025 — Mantido o texto. (2025-04-28)"
-description: "Como a bancada gaúcha votou em 2025-04-28: Mantido o texto. Sim: 251; Não: 117; Total: 368."
+title: "PL 363/2025 — Mantido o texto. (28 abr 2025)"
+description: "Como a bancada gaúcha votou em 28 abr 2025: Mantido o texto. Sim: 251; Não: 117; Total: 368."
 ---
 
 # PL 363/2025
 
-<p class="subtitulo"><b>2025-04-28</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>28 abr 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

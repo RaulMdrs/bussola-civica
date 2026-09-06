@@ -7,7 +7,7 @@ description: "Como Pompeo de Mattos vota: alinhamento com o governo federal e co
 
 # Pompeo de Mattos
 
-<p class="subtitulo"><b>PDT</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>PDT</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-07-14</span>
+<span class="data">14 jul 2026</span>
 <div class="corpo">
 <p>Rejeitada a Emenda de Plenário nº 2. <span class="placar">Sim: 134; Não: 285; Abstenção: 2; Total: 421.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-12-09</span>
+<span class="data">09 dez 2025</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 4.497, de 2024, ressalvados os destaques. <span class="placar">Sim: 310; Não: 115; Total: 425.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2025-12-09</span>
+<span class="data">09 dez 2025</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 4.497, de 2024, ressalvados os destaques. <span class="placar">Sim: 310; Não: 115; Total: 425.</span></p>
 <p class="referencia">Maioria do partido: nao (3 sim / 9 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-12-09</span>
+<span class="data">09 dez 2025</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 283; Não: 116; Total: 399.</span></p>
 <p class="referencia">Maioria do partido: nao (2 sim / 10 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-12-09</span>
+<span class="data">09 dez 2025</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 302; Não: 124; Total: 426.</span></p>
 <p class="referencia">Maioria do partido: nao (2 sim / 11 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -148,7 +148,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-5392">
-<span class="data">2026-07-08 · 18:32</span>
+<span class="data">08 jul 2026 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado fez um alerta sobre o risco de uma grande catástrofe climática associada ao Super El Niño, com impactos especialmente graves no Rio Grande do Sul. Recordou as enchentes de 2023 e 2024, mencionou a atuação como Relator da Comissão Externa que acompanhou a recuperação do Estado e cobrou mais rapidez nas obras de diques em Eldorado do Sul (RS), Canoas (RS) e Porto Alegre (RS). Além disso, defendeu a prevenção imediata para salvar vidas e evitar novas perdas humanas e materiais.</p>
@@ -157,7 +157,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-5391">
-<span class="data">2026-07-08 · 18:16</span>
+<span class="data">08 jul 2026 · 18:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>O Deputado discutiu o Projeto de Lei nº 1.361, que altera a Lei nº 14.260, de 2021, para tornar permanentes os incentivos à indústria da reciclagem. Afirmou que a reciclagem de resíduos sólidos é essencial para a preservação ambiental, a geração de emprego e renda e a melhoria da qualidade de vida. Além disso, sustentou que a transformação do incentivo fiscal em medida permanente estimularia investimentos, tecnologia e ampliação da reciclagem no País, ao destacar que apenas pequena parcela dos resíduos produzidos era reciclada. Por fim, assinalou que o fortalecimento da economia da reciclagem traria benefícios ambientais, sociais e econômicos.</p>
@@ -166,7 +166,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-5390">
-<span class="data">2026-07-08 · 17:36</span>
+<span class="data">08 jul 2026 · 17:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>O Deputado discutiu o Projeto de Lei nº 1.845, de 2025, que altera a Lei nº 11.445, de 5 de janeiro de 2007, para dispor sobre o cálculo da tarifa do serviço de abastecimento de água em condomínios com múltiplas unidades imobiliárias e medidor único.</p>
@@ -175,7 +175,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-5389">
-<span class="data">2026-07-08 · 17:12</span>
+<span class="data">08 jul 2026 · 17:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado criticou a atuação da Aegea, empresa que assumiu os serviços da Companhia Riograndense de Saneamento após a privatização no Rio Grande do Sul, e contestou a cobrança individualizada da tarifa de água em condomínios. Além disso, afirmou que a prática seria injusta e defendeu que a cobrança permanecesse vinculada a um único hidrômetro, com divisão do valor entre os condôminos. Também questionou a cobrança de tarifas de água e esgoto em imóveis sem ligação às redes ou sem disponibilidade efetiva do serviço, reiterando sua oposição à privatização do abastecimento de água.</p>
@@ -184,7 +184,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-5388">
-<span class="data">2026-07-08 · 15:08</span>
+<span class="data">08 jul 2026 · 15:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado Pompeo de Mattos fez apelo para que a Câmara votasse o Projeto de Lei nº 5.583, de 2025, que altera a Lei nº 13.986, de 7 de abril de 2020, para suspender, em caso de calamidade pública, a execução de garantias reais constituídas sobre imóveis rurais e estabelecer prazo mínimo para consolidação da propriedade ou do bem dado em garantia. Além disso, criticou a alienação fiduciária no crédito agrícola, afirmando que o mecanismo retirava máquinas e terras dos agricultores sem ação judicial e favorecia bancos em prejuízo do agro. Por fim, defendeu que o financiamento rural usasse penhor ou hipoteca, mas não fidúcia, para proteger o produtor e a continuidade da produção.</p>

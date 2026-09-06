@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1707/2024 — Mantido o texto. (2025-08-27)"
-description: "Como a bancada gaúcha votou em 2025-08-27: Mantido o texto. Sim: 243; Não: 133; Total: 376."
+title: "PL 1707/2024 — Mantido o texto. (27 ago 2025)"
+description: "Como a bancada gaúcha votou em 27 ago 2025: Mantido o texto. Sim: 243; Não: 133; Total: 376."
 ---
 
 # PL 1707/2024
 
-<p class="subtitulo"><b>2025-08-27</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>27 ago 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

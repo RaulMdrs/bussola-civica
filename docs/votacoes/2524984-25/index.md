@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2829/2025 — Rejeitado o Requerimento. (2025-11-26)"
-description: "Como a bancada gaúcha votou em 2025-11-26: Rejeitado o Requerimento. Sim: 127; Não: 270; Total: 397."
+title: "PL 2829/2025 — Rejeitado o Requerimento. (26 nov 2025)"
+description: "Como a bancada gaúcha votou em 26 nov 2025: Rejeitado o Requerimento. Sim: 127; Não: 270; Total: 397."
 ---
 
 # PL 2829/2025
 
-<p class="subtitulo"><b>2025-11-26</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>26 nov 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

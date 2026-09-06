@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4416/2021 — Rejeitada a Emenda do Senado Federal ao Projeto de Lei nº 4.416,  (2023-11-22)"
-description: "Como a bancada gaúcha votou em 2023-11-22: Rejeitada a Emenda do Senado Federal ao Projeto de Lei nº 4.416, de 2023. Sim: 31, não: 375, abstenção: 2, tot"
+title: "PL 4416/2021 — Rejeitada a Emenda do Senado Federal ao Projeto de Lei nº 4.416,  (22 nov 2023)"
+description: "Como a bancada gaúcha votou em 22 nov 2023: Rejeitada a Emenda do Senado Federal ao Projeto de Lei nº 4.416, de 2023. Sim: 31, não: 375, abstenção: 2, tot"
 ---
 
 # PL 4416/2021
 
-<p class="subtitulo"><b>2023-11-22</b> · Rejeitada a Emenda do Senado Federal ao Projeto de Lei nº 4.416, de 2023.</p>
+<p class="subtitulo"><b>22 nov 2023</b> · Rejeitada a Emenda do Senado Federal ao Projeto de Lei nº 4.416, de 2023.</p>
 
 | | |
 |---|---|

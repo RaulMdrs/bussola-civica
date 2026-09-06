@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 68/2024 — Aprovada a Emenda de Plenário nº 766. (2024-07-10)"
-description: "Como a bancada gaúcha votou em 2024-07-10: Aprovada a Emenda de Plenário nº 766. Sim: 477; não: 3; abstenção: 2; total: 482."
+title: "PLP 68/2024 — Aprovada a Emenda de Plenário nº 766. (10 jul 2024)"
+description: "Como a bancada gaúcha votou em 10 jul 2024: Aprovada a Emenda de Plenário nº 766. Sim: 477; não: 3; abstenção: 2; total: 482."
 ---
 
 # PLP 68/2024
 
-<p class="subtitulo"><b>2024-07-10</b> · Aprovada a Emenda de Plenário nº 766.</p>
+<p class="subtitulo"><b>10 jul 2024</b> · Aprovada a Emenda de Plenário nº 766.</p>
 
 | | |
 |---|---|

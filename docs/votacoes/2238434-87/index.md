@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 528/2020 — Mantido o texto. (2024-03-13)"
-description: "Como a bancada gaúcha votou em 2024-03-13: Mantido o texto. Sim: 288; não: 62; abstenção: 1; total: 351."
+title: "PL 528/2020 — Mantido o texto. (13 mar 2024)"
+description: "Como a bancada gaúcha votou em 13 mar 2024: Mantido o texto. Sim: 288; não: 62; abstenção: 1; total: 351."
 ---
 
 # PL 528/2020
 
-<p class="subtitulo"><b>2024-03-13</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>13 mar 2024</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

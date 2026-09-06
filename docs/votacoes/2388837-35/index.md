@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1188/2023 — Aprovado, em apreciação preliminar, o Parecer da Comissão Mista  (2024-02-21)"
-description: "Como a bancada gaúcha votou em 2024-02-21: Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização,"
+title: "MPV 1188/2023 — Aprovado, em apreciação preliminar, o Parecer da Comissão Mista  (21 fev 2024)"
+description: "Como a bancada gaúcha votou em 21 fev 2024: Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização,"
 ---
 
 # MPV 1188/2023
 
-<p class="subtitulo"><b>2024-02-21</b> · Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN.</p>
+<p class="subtitulo"><b>21 fev 2024</b> · Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN.</p>
 
 | | |
 |---|---|

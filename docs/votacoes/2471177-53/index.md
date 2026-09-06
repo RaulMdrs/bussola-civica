@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4497/2024 — Rejeitado o Requerimento. (2025-06-10)"
-description: "Como a bancada gaúcha votou em 2025-06-10: Rejeitado o Requerimento. Sim: 101; Não: 307; Total: 408."
+title: "PL 4497/2024 — Rejeitado o Requerimento. (10 jun 2025)"
+description: "Como a bancada gaúcha votou em 10 jun 2025: Rejeitado o Requerimento. Sim: 101; Não: 307; Total: 408."
 ---
 
 # PL 4497/2024
 
-<p class="subtitulo"><b>2025-06-10</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>10 jun 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

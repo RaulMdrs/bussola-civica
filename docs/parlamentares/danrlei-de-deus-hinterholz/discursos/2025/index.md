@@ -19,7 +19,7 @@ description: "Os discursos de Danrlei de Deus Hinterholz em 2025, com o sumário
 ## Substantivos — 1
 
 <blockquote class="evidencia discurso" id="d-2247">
-<span class="data">2025-04-08 · 19:48</span>
+<span class="data">08 abr 2025 · 19:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado agradeceu ao Deputado Dr. Ismael Alexandrino pela relatoria do Projeto de lei nº 3.526, de 2019, voltado a crianças que necessitam de cirurgia específica, condição que atinge uma em cada 500 no País. Destacou a relevância da proposta e afirmou que sua aprovação representou um marco com potencial de transformar a vida de milhares de famílias brasileiras.</p>

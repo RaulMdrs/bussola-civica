@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1154/2023 — Mantido o texto. (2023-05-31)"
-description: "Como a bancada gaúcha votou em 2023-05-31: Mantido o texto. Sim: 260; não: 186; abstenção: 2; total: 448."
+title: "MPV 1154/2023 — Mantido o texto. (31 mai 2023)"
+description: "Como a bancada gaúcha votou em 31 mai 2023: Mantido o texto. Sim: 260; não: 186; abstenção: 2; total: 448."
 ---
 
 # MPV 1154/2023
 
-<p class="subtitulo"><b>2023-05-31</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>31 mai 2023</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

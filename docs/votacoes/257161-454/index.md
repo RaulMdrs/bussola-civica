@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2159/2021 — Aprovadas. (2025-07-16)"
-description: "Como a bancada gaúcha votou em 2025-07-16: Aprovadas. Sim: 267; Não: 116; Total: 383."
+title: "PL 2159/2021 — Aprovadas. (16 jul 2025)"
+description: "Como a bancada gaúcha votou em 16 jul 2025: Aprovadas. Sim: 267; Não: 116; Total: 383."
 ---
 
 # PL 2159/2021
 
-<p class="subtitulo"><b>2025-07-16</b> · Aprovadas.</p>
+<p class="subtitulo"><b>16 jul 2025</b> · Aprovadas.</p>
 
 | | |
 |---|---|

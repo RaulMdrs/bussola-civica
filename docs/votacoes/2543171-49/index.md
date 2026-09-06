@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6139/2023 — Aprovado o Projeto de Lei nº 6.139, de 2023, ressalvado o destaqu (2026-03-02)"
-description: "Como a bancada gaúcha votou em 2026-03-02: Aprovado o Projeto de Lei nº 6.139, de 2023, ressalvado o destaque. Sim: 340; Não: 108; Abstenção: 1; Total: 4"
+title: "PL 6139/2023 — Aprovado o Projeto de Lei nº 6.139, de 2023, ressalvado o destaqu (02 mar 2026)"
+description: "Como a bancada gaúcha votou em 02 mar 2026: Aprovado o Projeto de Lei nº 6.139, de 2023, ressalvado o destaque. Sim: 340; Não: 108; Abstenção: 1; Total: 4"
 ---
 
 # PL 6139/2023
 
-<p class="subtitulo"><b>2026-03-02</b> · Aprovado o Projeto de Lei nº 6.139, de 2023, ressalvado o destaque.</p>
+<p class="subtitulo"><b>02 mar 2026</b> · Aprovado o Projeto de Lei nº 6.139, de 2023, ressalvado o destaque.</p>
 
 | | |
 |---|---|

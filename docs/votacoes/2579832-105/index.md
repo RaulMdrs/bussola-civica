@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5582/2025 — Aprovada a Emenda de Plenário nº 25. (2025-11-18)"
-description: "Como a bancada gaúcha votou em 2025-11-18: Aprovada a Emenda de Plenário nº 25. Sim: 349; Não: 40; Abstenção: 1; Total: 390."
+title: "PL 5582/2025 — Aprovada a Emenda de Plenário nº 25. (18 nov 2025)"
+description: "Como a bancada gaúcha votou em 18 nov 2025: Aprovada a Emenda de Plenário nº 25. Sim: 349; Não: 40; Abstenção: 1; Total: 390."
 ---
 
 # PL 5582/2025
 
-<p class="subtitulo"><b>2025-11-18</b> · Aprovada a Emenda de Plenário nº 25.</p>
+<p class="subtitulo"><b>18 nov 2025</b> · Aprovada a Emenda de Plenário nº 25.</p>
 
 | | |
 |---|---|

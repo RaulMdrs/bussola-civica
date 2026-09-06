@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5041/2025 — Aprovada a Emenda de Plenário nº 4. (2025-10-28)"
-description: "Como a bancada gaúcha votou em 2025-10-28: Aprovada a Emenda de Plenário nº 4. Sim: 361; Não: 77; Abstenção: 1; Total: 439."
+title: "PL 5041/2025 — Aprovada a Emenda de Plenário nº 4. (28 out 2025)"
+description: "Como a bancada gaúcha votou em 28 out 2025: Aprovada a Emenda de Plenário nº 4. Sim: 361; Não: 77; Abstenção: 1; Total: 439."
 ---
 
 # PL 5041/2025
 
-<p class="subtitulo"><b>2025-10-28</b> · Aprovada a Emenda de Plenário nº 4.</p>
+<p class="subtitulo"><b>28 out 2025</b> · Aprovada a Emenda de Plenário nº 4.</p>
 
 | | |
 |---|---|

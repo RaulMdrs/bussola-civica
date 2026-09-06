@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4968/2020 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2023-10-30)"
-description: "Como a bancada gaúcha votou em 2023-10-30: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 358; não: 55; total: 413."
+title: "PL 4968/2020 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (30 out 2023)"
+description: "Como a bancada gaúcha votou em 30 out 2023: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 358; não: 55; total: 413."
 ---
 
 # PL 4968/2020
 
-<p class="subtitulo"><b>2023-10-30</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>30 out 2023</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

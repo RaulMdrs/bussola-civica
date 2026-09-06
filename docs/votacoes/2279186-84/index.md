@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 458/2021 — Rejeitado o Requerimento. (2025-10-29)"
-description: "Como a bancada gaúcha votou em 2025-10-29: Rejeitado o Requerimento. Sim: 148; Não: 276; Total: 424."
+title: "PL 458/2021 — Rejeitado o Requerimento. (29 out 2025)"
+description: "Como a bancada gaúcha votou em 29 out 2025: Rejeitado o Requerimento. Sim: 148; Não: 276; Total: 424."
 ---
 
 # PL 458/2021
 
-<p class="subtitulo"><b>2025-10-29</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>29 out 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

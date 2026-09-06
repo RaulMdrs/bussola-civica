@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4149/2004 — Aprovado o Requerimento. (2025-06-11)"
-description: "Como a bancada gaúcha votou em 2025-06-11: Aprovado o Requerimento. Sim: 235; Não: 142; Total: 377."
+title: "PL 4149/2004 — Aprovado o Requerimento. (11 jun 2025)"
+description: "Como a bancada gaúcha votou em 11 jun 2025: Aprovado o Requerimento. Sim: 235; Não: 142; Total: 377."
 ---
 
 # PL 4149/2004
 
-<p class="subtitulo"><b>2025-06-11</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>11 jun 2025</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

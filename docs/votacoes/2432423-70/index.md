@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1707/2024 — Rejeitado o Requerimento. (2025-08-27)"
-description: "Como a bancada gaúcha votou em 2025-08-27: Rejeitado o Requerimento. Sim: 115; Não: 275; Total: 390."
+title: "PL 1707/2024 — Rejeitado o Requerimento. (27 ago 2025)"
+description: "Como a bancada gaúcha votou em 27 ago 2025: Rejeitado o Requerimento. Sim: 115; Não: 275; Total: 390."
 ---
 
 # PL 1707/2024
 
-<p class="subtitulo"><b>2025-08-27</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>27 ago 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

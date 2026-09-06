@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 383/2017 — Aprovada a Emenda de Redação nº 4. (2026-04-28)"
-description: "Como a bancada gaúcha votou em 2026-04-28: Aprovada a Emenda de Redação nº 4. Sim: 386; Não: 1; Total: 387."
+title: "PEC 383/2017 — Aprovada a Emenda de Redação nº 4. (28 abr 2026)"
+description: "Como a bancada gaúcha votou em 28 abr 2026: Aprovada a Emenda de Redação nº 4. Sim: 386; Não: 1; Total: 387."
 ---
 
 # PEC 383/2017
 
-<p class="subtitulo"><b>2026-04-28</b> · Aprovada a Emenda de Redação nº 4.</p>
+<p class="subtitulo"><b>28 abr 2026</b> · Aprovada a Emenda de Redação nº 4.</p>
 
 | | |
 |---|---|

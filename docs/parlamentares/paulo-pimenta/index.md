@@ -7,7 +7,7 @@ description: "Como Paulo Pimenta vota: alinhamento com o governo federal e coes�
 
 # Paulo Pimenta
 
-<p class="subtitulo"><b>PT</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>PT</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-07-14</span>
+<span class="data">14 jul 2026</span>
 <div class="corpo">
 <p>Rejeitada a Emenda de Plenário nº 2. <span class="placar">Sim: 134; Não: 285; Abstenção: 2; Total: 421.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-12-16</span>
+<span class="data">16 dez 2025</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 286; Não: 116; Total: 402.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
 <p class="referencia">Maioria do partido: nao (11 sim / 41 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-12-16</span>
+<span class="data">16 dez 2025</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 286; Não: 116; Total: 402.</span></p>
 <p class="referencia">Maioria do partido: sim (59 sim / 0 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-09-10</span>
+<span class="data">10 set 2025</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei nº 1.312, de 2025, adotado pelo relator da Comissão de Administração e Serviço Público. <span class="placar">Sim: 310; Não: 116; Total: 426.</span></p>
 <p class="referencia">Maioria do partido: sim (57 sim / 0 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -148,7 +148,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-13152">
-<span class="data">2026-08-12 · 17:12</span>
+<span class="data">12 ago 2026 · 17:12</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
 <p>O Deputado informou que tem acompanhado, junto ao Ministério da Fazenda e a representantes do setor agropecuário, a implementação da Medida Provisória (MPV) nº 1.376, de 2026, que autoriza a criação de linhas de crédito para composição de dívidas para liquidação ou amortização de operações de crédito rural e de Cédulas de Produto Rural e autoriza a participação da União em fundo garantidor destinado à cobertura de operações de crédito rural contratadas por produtores rurais afetados por eventos climáticos adversos. Além disso, comunicou sua indicação como Relator da matéria na Comissão Mista e criticou as dificuldades impostas pelos bancos à renegociação das dívidas pelos produtores rurais. Ademais, defendeu a redução da taxa de juros e alertou para a situação dos agricultores do Rio Grande do Sul, atingidos por sucessivas estiagens e enchentes. Por fim, destacou que acompanhará a aplicação da MPV para assegurar a renegociação das dívidas, com carência, alongamento dos prazos, juros mais baixos e flexibilização das garantias.</p>
@@ -157,7 +157,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-5850">
-<span class="data">2026-05-27 · 22:20</span>
+<span class="data">27 mai 2026 · 22:20</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
 <p>O Deputado celebrou a aprovação da Proposta de Emenda à Constituição nº 221, de 2019, que altera o art. 7º da Constituição Federal para reduzir a duração máxima semanal do trabalho.&amp;nbsp;Além disso, associou a votação à atuação do Governo Federal e à liderança do Presidente Lula na defesa de direitos sociais e trabalhistas. Também criticou adversários políticos ao relacioná-los a denúncias envolvendo o Banco Master, o banqueiro Daniel Vorcaro e fraudes do Instituto Nacional do Seguro Social (INSS). Ademais, afirmou que a nova jornada garantiria mais dignidade aos trabalhadores sem redução salarial e destacou a conquista da jornada de 40 horas semanais. Por fim, reafirmou apoio às pautas trabalhistas e comemorou o resultado da votação como um marco para os trabalhadores brasileiros.</p>
@@ -166,7 +166,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-5849">
-<span class="data">2026-05-27 · 20:20</span>
+<span class="data">27 mai 2026 · 20:20</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
 <p>O Deputado defendeu a aprovação da Proposta de Emenda à Constituição (PEC) nº 221, de 2019, que reduz a jornada de trabalho e extingue a escala 6 por 1. Ademais, associou a proposta à ampliação da qualidade de vida, do convívio familiar e da dignidade dos trabalhadores, especialmente das mulheres submetidas a jornadas mais extensas e salários mais baixos. Além disso, relembrou a atuação da Deputada Benedita da Silva na aprovação da PEC nº 478, de 2010, que ampliou os direitos das trabalhadoras domésticas e criticou o ex-Presidente Bolsonaro por ter sido o único Parlamentar a votar contra a medida. Ao final, celebrou a aprovação da PEC nº 221, de 2019, como conquista histórica da classe trabalhadora e do Governo do Presidente Lula.</p>
@@ -175,7 +175,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-5848">
-<span class="data">2026-05-19 · 18:28</span>
+<span class="data">19 mai 2026 · 18:28</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
 <p>O Deputado criticou o Senador Flávio Bolsonaro ao afirmar que houve contradições em declarações relacionadas ao empresário Daniel Vorcaro e a supostos repasses financeiros vinculados ao Banco Master e a um projeto cinematográfico. Além disso, mencionou investigação envolvendo recursos de consignados do Instituto Nacional do Seguro Social (INSS) e apontou que Flávio Bolsonaro teria visitado Vorcaro após a prisão do empresário. Ademais, ironizou a coletiva de imprensa realizada pelo Senador e manifestou constrangimento com a participação de Parlamentares no ato. Por fim, afirmou que os aliados políticos deveriam se afastar do Senador diante das denúncias e da repercussão do caso.</p>
@@ -184,7 +184,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-5847">
-<span class="data">2026-05-13 · 18:20</span>
+<span class="data">13 mai 2026 · 18:20</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
 <p>O Deputado fez acusações à família Bolsonaro, referindo-se ao banqueiro Daniel Vorcaro como o &quot;filho 05&quot; do ex-Presidente, em alusão ao financiamento de R$ 134 milhões para um filme sobre Bolsonaro. Citou documentos que comprovariam a relação entre Vorcaro e o clã Bolsonaro, incluindo: portaria ampliando percentual de consignado para o Banco Master; depósitos na campanha de Bolsonaro feitos pelo cunhado de Vorcaro; e depósitos na campanha do Governador de São Paulo, Tarcísio de Freitas. Além disso, mencionou revelações do portal The Intercept sobre depósito de mais de R$ 60 bilhões em conta no Texas vinculada a pessoas próximas a Eduardo Bolsonaro, informando que os dados já estariam com o Ministro André Mendonça, o Banco Central e o Conselho de Controle de Atividades Financeiras (COAF). Por fim, anunciou três medidas que seriam formalizadas junto ao Ministério Público Federal (MPF), à Polícia Federal (PF) e ao Ministro do Supremo Tribunal Federal (STF), André Mendonça: o bloqueio imediato de R$ 65 milhões para ressarcimento ao Fundo Garantidor de Crédito (FGC);o bloqueio da mansão do Senador Flávio Bolsonaro em Brasília (DF), financiada pelo Banco de Brasília (BRB), como garantia adicional de ressarcimento; e o uso imediato de tornozeleira eletrônica pelo Senador Flávio Bolsonaro, alegando risco real de fuga.</p>

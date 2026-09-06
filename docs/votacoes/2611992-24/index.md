@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 80/2026 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 80, de 2 (2026-08-12)"
-description: "Como a bancada gaúcha votou em 2026-08-12: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 80, de 2026, adotado pelo relator da Comissão de Fin"
+title: "PLP 80/2026 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 80, de 2 (12 ago 2026)"
+description: "Como a bancada gaúcha votou em 12 ago 2026: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 80, de 2026, adotado pelo relator da Comissão de Fin"
 ---
 
 # PLP 80/2026
 
-<p class="subtitulo"><b>2026-08-12</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 80, de 2026, adotado pelo relator da Comissão de Finanças e Tributação.</p>
+<p class="subtitulo"><b>12 ago 2026</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 80, de 2026, adotado pelo relator da Comissão de Finanças e Tributação.</p>
 
 | | |
 |---|---|

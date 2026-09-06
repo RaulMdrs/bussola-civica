@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4527/2025 — Rejeitado o Requerimento de Urgência (Art. 155 do RICD). (2025-11-12)"
-description: "Como a bancada gaúcha votou em 2025-11-12: Rejeitado o Requerimento de Urgência (Art. 155 do RICD). Sim: 72; Não: 350; Abstenção: 4; Total: 426."
+title: "PL 4527/2025 — Rejeitado o Requerimento de Urgência (Art. 155 do RICD). (12 nov 2025)"
+description: "Como a bancada gaúcha votou em 12 nov 2025: Rejeitado o Requerimento de Urgência (Art. 155 do RICD). Sim: 72; Não: 350; Abstenção: 4; Total: 426."
 ---
 
 # PL 4527/2025
 
-<p class="subtitulo"><b>2025-11-12</b> · Rejeitado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>12 nov 2025</b> · Rejeitado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

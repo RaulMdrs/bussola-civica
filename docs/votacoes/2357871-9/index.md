@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 111/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2023-05-03)"
-description: "Como a bancada gaúcha votou em 2023-05-03: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 322; não: 136; abstenção: 2; total: 460."
+title: "PDL 111/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (03 mai 2023)"
+description: "Como a bancada gaúcha votou em 03 mai 2023: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 322; não: 136; abstenção: 2; total: 460."
 ---
 
 # PDL 111/2023
 
-<p class="subtitulo"><b>2023-05-03</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>03 mai 2023</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

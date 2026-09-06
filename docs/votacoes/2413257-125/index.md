@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6020/2023 — Rejeitado o Destaque. (2025-07-08)"
-description: "Como a bancada gaúcha votou em 2025-07-08: Rejeitado o Destaque. Sim: 159; Não: 243; Total: 402."
+title: "PL 6020/2023 — Rejeitado o Destaque. (08 jul 2025)"
+description: "Como a bancada gaúcha votou em 08 jul 2025: Rejeitado o Destaque. Sim: 159; Não: 243; Total: 402."
 ---
 
 # PL 6020/2023
 
-<p class="subtitulo"><b>2025-07-08</b> · Rejeitado o Destaque.</p>
+<p class="subtitulo"><b>08 jul 2025</b> · Rejeitado o Destaque.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Subemenda ao Substitutivo do Relator ao PLP nº 175/2024, dest (2024-11-18)"
-description: "Como os senadores gaúchos votou em 2024-11-18: Votação nominal da Subemenda ao Substitutivo do Relator ao PLP nº 175/2024, destacada."
+title: "Votação nominal da Subemenda ao Substitutivo do Relator ao PLP nº 175/2024, dest (18 nov 2024)"
+description: "Como os senadores gaúchos votou em 18 nov 2024: Votação nominal da Subemenda ao Substitutivo do Relator ao PLP nº 175/2024, destacada."
 ---
 
-# Votação de 2024-11-18
+# Votação de 18 nov 2024
 
-<p class="subtitulo"><b>2024-11-18</b> · Votação nominal da Subemenda ao Substitutivo do Relator ao PLP nº 175/2024, destacada.</p>
+<p class="subtitulo"><b>18 nov 2024</b> · Votação nominal da Subemenda ao Substitutivo do Relator ao PLP nº 175/2024, destacada.</p>
 
 | | |
 |---|---|

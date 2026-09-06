@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 308/2024 — Aprovado o Projeto de Decreto Legislativo nº 308, de 2024. (2025-05-22)"
-description: "Como a bancada gaúcha votou em 2025-05-22: Aprovado o Projeto de Decreto Legislativo nº 308, de 2024. Sim: 363; Não: 11; Abstenção: 1; Total: 375."
+title: "PDL 308/2024 — Aprovado o Projeto de Decreto Legislativo nº 308, de 2024. (22 mai 2025)"
+description: "Como a bancada gaúcha votou em 22 mai 2025: Aprovado o Projeto de Decreto Legislativo nº 308, de 2024. Sim: 363; Não: 11; Abstenção: 1; Total: 375."
 ---
 
 # PDL 308/2024
 
-<p class="subtitulo"><b>2025-05-22</b> · Aprovado o Projeto de Decreto Legislativo nº 308, de 2024.</p>
+<p class="subtitulo"><b>22 mai 2025</b> · Aprovado o Projeto de Decreto Legislativo nº 308, de 2024.</p>
 
 | | |
 |---|---|

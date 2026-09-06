@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do art. 34 do Projeto de Lei nº 4.426, de 2023, destacado. (2023-11-01)"
-description: "Como os senadores gaúchos votou em 2023-11-01: Votação nominal do art. 34 do Projeto de Lei nº 4.426, de 2023, destacado."
+title: "Votação nominal do art. 34 do Projeto de Lei nº 4.426, de 2023, destacado. (01 nov 2023)"
+description: "Como os senadores gaúchos votou em 01 nov 2023: Votação nominal do art. 34 do Projeto de Lei nº 4.426, de 2023, destacado."
 ---
 
-# Votação de 2023-11-01
+# Votação de 01 nov 2023
 
-<p class="subtitulo"><b>2023-11-01</b> · Votação nominal do art. 34 do Projeto de Lei nº 4.426, de 2023, destacado.</p>
+<p class="subtitulo"><b>01 nov 2023</b> · Votação nominal do art. 34 do Projeto de Lei nº 4.426, de 2023, destacado.</p>
 
 | | |
 |---|---|

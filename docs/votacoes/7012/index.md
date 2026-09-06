@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei Complementar nº 168, de 2025, nos termos dos p (2025-09-24)"
-description: "Como os senadores gaúchos votou em 2025-09-24: Votação nominal do Projeto de Lei Complementar nº 168, de 2025, nos termos dos pareceres, ressalvados os desta"
+title: "Votação nominal do Projeto de Lei Complementar nº 168, de 2025, nos termos dos p (24 set 2025)"
+description: "Como os senadores gaúchos votou em 24 set 2025: Votação nominal do Projeto de Lei Complementar nº 168, de 2025, nos termos dos pareceres, ressalvados os desta"
 ---
 
-# Votação de 2025-09-24
+# Votação de 24 set 2025
 
-<p class="subtitulo"><b>2025-09-24</b> · Votação nominal do Projeto de Lei Complementar nº 168, de 2025, nos termos dos pareceres, ressalvados os destaques.</p>
+<p class="subtitulo"><b>24 set 2025</b> · Votação nominal do Projeto de Lei Complementar nº 168, de 2025, nos termos dos pareceres, ressalvados os destaques.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1300/2025 — Aprovada a Redação Final, assinada pelo Relator, Dep. Fernando C (2025-09-17)"
-description: "Como a bancada gaúcha votou em 2025-09-17: Aprovada a Redação Final, assinada pelo Relator, Dep. Fernando Coelho Filho (UNIÃO/PE). Sim: 352; Não: 93; Tot"
+title: "MPV 1300/2025 — Aprovada a Redação Final, assinada pelo Relator, Dep. Fernando C (17 set 2025)"
+description: "Como a bancada gaúcha votou em 17 set 2025: Aprovada a Redação Final, assinada pelo Relator, Dep. Fernando Coelho Filho (UNIÃO/PE). Sim: 352; Não: 93; Tot"
 ---
 
 # MPV 1300/2025
 
-<p class="subtitulo"><b>2025-09-17</b> · Aprovada a Redação Final, assinada pelo Relator, Dep. Fernando Coelho Filho (UNIÃO/PE).</p>
+<p class="subtitulo"><b>17 set 2025</b> · Aprovada a Redação Final, assinada pelo Relator, Dep. Fernando Coelho Filho (UNIÃO/PE).</p>
 
 | | |
 |---|---|

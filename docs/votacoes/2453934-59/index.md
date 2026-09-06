@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3224/2024 — Aprovado o Substitutivo ao Projeto de Lei nº 3.224, de 2024, adot (2025-05-28)"
-description: "Como a bancada gaúcha votou em 2025-05-28: Aprovado o Substitutivo ao Projeto de Lei nº 3.224, de 2024, adotado pela relatora da Comissão de Previdência,"
+title: "PL 3224/2024 — Aprovado o Substitutivo ao Projeto de Lei nº 3.224, de 2024, adot (28 mai 2025)"
+description: "Como a bancada gaúcha votou em 28 mai 2025: Aprovado o Substitutivo ao Projeto de Lei nº 3.224, de 2024, adotado pela relatora da Comissão de Previdência,"
 ---
 
 # PL 3224/2024
 
-<p class="subtitulo"><b>2025-05-28</b> · Aprovado o Substitutivo ao Projeto de Lei nº 3.224, de 2024, adotado pela relatora da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família, ressalvados os destaques.</p>
+<p class="subtitulo"><b>28 mai 2025</b> · Aprovado o Substitutivo ao Projeto de Lei nº 3.224, de 2024, adotado pela relatora da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família, ressalvados os destaques.</p>
 
 | | |
 |---|---|

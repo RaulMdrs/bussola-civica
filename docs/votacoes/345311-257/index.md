@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 490/2007 — Aprovado o Requerimento. (2023-05-30)"
-description: "Como a bancada gaúcha votou em 2023-05-30: Aprovado o Requerimento. Sim: 311; não: 137; abstenção: 1; total: 449."
+title: "PL 490/2007 — Aprovado o Requerimento. (30 mai 2023)"
+description: "Como a bancada gaúcha votou em 30 mai 2023: Aprovado o Requerimento. Sim: 311; não: 137; abstenção: 1; total: 449."
 ---
 
 # PL 490/2007
 
-<p class="subtitulo"><b>2023-05-30</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>30 mai 2023</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

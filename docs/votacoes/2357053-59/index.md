@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 93/2023 — Mantido o texto. (2023-05-24)"
-description: "Como a bancada gaúcha votou em 2023-05-24: Mantido o texto. Sim: 326; não: 138; total: 464."
+title: "PLP 93/2023 — Mantido o texto. (24 mai 2023)"
+description: "Como a bancada gaúcha votou em 24 mai 2023: Mantido o texto. Sim: 326; não: 138; total: 464."
 ---
 
 # PLP 93/2023
 
-<p class="subtitulo"><b>2023-05-24</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>24 mai 2023</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

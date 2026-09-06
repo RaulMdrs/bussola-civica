@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PRC 86/2025 — Aprovado o Requerimento. (2025-12-10)"
-description: "Como a bancada gaúcha votou em 2025-12-10: Aprovado o Requerimento. Sim: 242; Não: 181; Abstenção: 1; Total: 424."
+title: "PRC 86/2025 — Aprovado o Requerimento. (10 dez 2025)"
+description: "Como a bancada gaúcha votou em 10 dez 2025: Aprovado o Requerimento. Sim: 242; Não: 181; Abstenção: 1; Total: 424."
 ---
 
 # PRC 86/2025
 
-<p class="subtitulo"><b>2025-12-10</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>10 dez 2025</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

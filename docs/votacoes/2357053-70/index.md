@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 93/2023 — Rejeitada a Emenda de Plenário nº 85. (2023-05-24)"
-description: "Como a bancada gaúcha votou em 2023-05-24: Rejeitada a Emenda de Plenário nº 85. Sim: 126; não: 335; total: 461."
+title: "PLP 93/2023 — Rejeitada a Emenda de Plenário nº 85. (24 mai 2023)"
+description: "Como a bancada gaúcha votou em 24 mai 2023: Rejeitada a Emenda de Plenário nº 85. Sim: 126; não: 335; total: 461."
 ---
 
 # PLP 93/2023
 
-<p class="subtitulo"><b>2023-05-24</b> · Rejeitada a Emenda de Plenário nº 85.</p>
+<p class="subtitulo"><b>24 mai 2023</b> · Rejeitada a Emenda de Plenário nº 85.</p>
 
 | | |
 |---|---|

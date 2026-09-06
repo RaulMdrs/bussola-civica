@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Emenda nº 2.223 ao Substitutivo do Relator ao Projeto de Lei  (2024-12-12)"
-description: "Como os senadores gaúchos votou em 2024-12-12: Votação nominal da Emenda nº 2.223 ao Substitutivo do Relator ao Projeto de Lei Complementar nº 68, de 2024, d"
+title: "Votação nominal da Emenda nº 2.223 ao Substitutivo do Relator ao Projeto de Lei  (12 dez 2024)"
+description: "Como os senadores gaúchos votou em 12 dez 2024: Votação nominal da Emenda nº 2.223 ao Substitutivo do Relator ao Projeto de Lei Complementar nº 68, de 2024, d"
 ---
 
-# Votação de 2024-12-12
+# Votação de 12 dez 2024
 
-<p class="subtitulo"><b>2024-12-12</b> · Votação nominal da Emenda nº 2.223 ao Substitutivo do Relator ao Projeto de Lei Complementar nº 68, de 2024, destacada.</p>
+<p class="subtitulo"><b>12 dez 2024</b> · Votação nominal da Emenda nº 2.223 ao Substitutivo do Relator ao Projeto de Lei Complementar nº 68, de 2024, destacada.</p>
 
 | | |
 |---|---|

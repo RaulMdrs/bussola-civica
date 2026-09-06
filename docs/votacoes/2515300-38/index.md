@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1300/2025 — Aprovada a Medida Provisória nº 1.300, de 2025, na forma da Emen (2025-09-17)"
-description: "Como a bancada gaúcha votou em 2025-09-17: Aprovada a Medida Provisória nº 1.300, de 2025, na forma da Emenda Aglutinativa nº 1, ressalvados os destaques"
+title: "MPV 1300/2025 — Aprovada a Medida Provisória nº 1.300, de 2025, na forma da Emen (17 set 2025)"
+description: "Como a bancada gaúcha votou em 17 set 2025: Aprovada a Medida Provisória nº 1.300, de 2025, na forma da Emenda Aglutinativa nº 1, ressalvados os destaques"
 ---
 
 # MPV 1300/2025
 
-<p class="subtitulo"><b>2025-09-17</b> · Aprovada a Medida Provisória nº 1.300, de 2025, na forma da Emenda Aglutinativa nº 1, ressalvados os destaques.</p>
+<p class="subtitulo"><b>17 set 2025</b> · Aprovada a Medida Provisória nº 1.300, de 2025, na forma da Emenda Aglutinativa nº 1, ressalvados os destaques.</p>
 
 | | |
 |---|---|

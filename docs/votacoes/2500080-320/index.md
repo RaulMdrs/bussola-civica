@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 18/2025 — Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à (2026-03-04)"
-description: "Como a bancada gaúcha votou em 2026-03-04: Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à Constituição nº 18, de 2025, adotado pelo r"
+title: "PEC 18/2025 — Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à (04 mar 2026)"
+description: "Como a bancada gaúcha votou em 04 mar 2026: Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à Constituição nº 18, de 2025, adotado pelo r"
 ---
 
 # PEC 18/2025
 
-<p class="subtitulo"><b>2026-03-04</b> · Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à Constituição nº 18, de 2025, adotado pelo relator da Comissão Especial.</p>
+<p class="subtitulo"><b>04 mar 2026</b> · Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à Constituição nº 18, de 2025, adotado pelo relator da Comissão Especial.</p>
 
 | | |
 |---|---|

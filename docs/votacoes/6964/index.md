@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei Complementar nº 234, de 2024, nos termos do pa (2025-07-16)"
-description: "Como os senadores gaúchos votou em 2025-07-16: Votação nominal do Projeto de Lei Complementar nº 234, de 2024, nos termos do parecer."
+title: "Votação nominal do Projeto de Lei Complementar nº 234, de 2024, nos termos do pa (16 jul 2025)"
+description: "Como os senadores gaúchos votou em 16 jul 2025: Votação nominal do Projeto de Lei Complementar nº 234, de 2024, nos termos do parecer."
 ---
 
-# Votação de 2025-07-16
+# Votação de 16 jul 2025
 
-<p class="subtitulo"><b>2025-07-16</b> · Votação nominal do Projeto de Lei Complementar nº 234, de 2024, nos termos do parecer.</p>
+<p class="subtitulo"><b>16 jul 2025</b> · Votação nominal do Projeto de Lei Complementar nº 234, de 2024, nos termos do parecer.</p>
 
 | | |
 |---|---|

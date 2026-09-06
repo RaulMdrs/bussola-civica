@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2829/2025 — Aprovado o Substitutivo ao Projeto de Lei nº 2.829, de 2025, adot (2025-11-26)"
-description: "Como a bancada gaúcha votou em 2025-11-26: Aprovado o Substitutivo ao Projeto de Lei nº 2.829, de 2025, adotado pelo relator da Comissão de Administração"
+title: "PL 2829/2025 — Aprovado o Substitutivo ao Projeto de Lei nº 2.829, de 2025, adot (26 nov 2025)"
+description: "Como a bancada gaúcha votou em 26 nov 2025: Aprovado o Substitutivo ao Projeto de Lei nº 2.829, de 2025, adotado pelo relator da Comissão de Administração"
 ---
 
 # PL 2829/2025
 
-<p class="subtitulo"><b>2025-11-26</b> · Aprovado o Substitutivo ao Projeto de Lei nº 2.829, de 2025, adotado pelo relator da Comissão de Administração e Serviço Público, ressalvado o destaque.</p>
+<p class="subtitulo"><b>26 nov 2025</b> · Aprovado o Substitutivo ao Projeto de Lei nº 2.829, de 2025, adotado pelo relator da Comissão de Administração e Serviço Público, ressalvado o destaque.</p>
 
 | | |
 |---|---|

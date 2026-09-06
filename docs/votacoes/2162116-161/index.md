@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 383/2017 — Rejeitado o Requerimento. (2026-04-08)"
-description: "Como a bancada gaúcha votou em 2026-04-08: Rejeitado o Requerimento. Sim: 36; Não: 409; Total: 445."
+title: "PEC 383/2017 — Rejeitado o Requerimento. (08 abr 2026)"
+description: "Como a bancada gaúcha votou em 08 abr 2026: Rejeitado o Requerimento. Sim: 36; Não: 409; Total: 445."
 ---
 
 # PEC 383/2017
 
-<p class="subtitulo"><b>2026-04-08</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>08 abr 2026</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

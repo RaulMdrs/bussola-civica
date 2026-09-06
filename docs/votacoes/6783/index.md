@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei Complementar nº 243, de 2023, nos termos dos P (2023-11-29)"
-description: "Como os senadores gaúchos votou em 2023-11-29: Votação nominal do Projeto de Lei Complementar nº 243, de 2023, nos termos dos Pareceres."
+title: "Votação nominal do Projeto de Lei Complementar nº 243, de 2023, nos termos dos P (29 nov 2023)"
+description: "Como os senadores gaúchos votou em 29 nov 2023: Votação nominal do Projeto de Lei Complementar nº 243, de 2023, nos termos dos Pareceres."
 ---
 
-# Votação de 2023-11-29
+# Votação de 29 nov 2023
 
-<p class="subtitulo"><b>2023-11-29</b> · Votação nominal do Projeto de Lei Complementar nº 243, de 2023, nos termos dos Pareceres.</p>
+<p class="subtitulo"><b>29 nov 2023</b> · Votação nominal do Projeto de Lei Complementar nº 243, de 2023, nos termos dos Pareceres.</p>
 
 | | |
 |---|---|

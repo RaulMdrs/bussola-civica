@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4438/2023 — Rejeitada a Emenda de Plenário nº 45. (2023-09-14)"
-description: "Como a bancada gaúcha votou em 2023-09-14: Rejeitada a Emenda de Plenário nº 45. Sim: 90; não: 316; abstenção: 1; total: 407."
+title: "PL 4438/2023 — Rejeitada a Emenda de Plenário nº 45. (14 set 2023)"
+description: "Como a bancada gaúcha votou em 14 set 2023: Rejeitada a Emenda de Plenário nº 45. Sim: 90; não: 316; abstenção: 1; total: 407."
 ---
 
 # PL 4438/2023
 
-<p class="subtitulo"><b>2023-09-14</b> · Rejeitada a Emenda de Plenário nº 45.</p>
+<p class="subtitulo"><b>14 set 2023</b> · Rejeitada a Emenda de Plenário nº 45.</p>
 
 | | |
 |---|---|

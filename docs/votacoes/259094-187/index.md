@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 293/2004 — Rejeitado o Requerimento. (2023-12-15)"
-description: "Como a bancada gaúcha votou em 2023-12-15: Rejeitado o Requerimento. Sim: 49; não: 323; abstenção: 1; total: 373."
+title: "PEC 293/2004 — Rejeitado o Requerimento. (15 dez 2023)"
+description: "Como a bancada gaúcha votou em 15 dez 2023: Rejeitado o Requerimento. Sim: 49; não: 323; abstenção: 1; total: 373."
 ---
 
 # PEC 293/2004
 
-<p class="subtitulo"><b>2023-12-15</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>15 dez 2023</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

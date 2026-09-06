@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 210/2024 — Aprovado o Requerimento. (2024-12-17)"
-description: "Como a bancada gaúcha votou em 2024-12-17: Aprovado o Requerimento. Sim: 308; Não: 148; Total: 456."
+title: "PLP 210/2024 — Aprovado o Requerimento. (17 dez 2024)"
+description: "Como a bancada gaúcha votou em 17 dez 2024: Aprovado o Requerimento. Sim: 308; Não: 148; Total: 456."
 ---
 
 # PLP 210/2024
 
-<p class="subtitulo"><b>2024-12-17</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>17 dez 2024</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

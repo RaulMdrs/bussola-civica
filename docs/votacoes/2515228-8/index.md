@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1694/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2025-05-26)"
-description: "Como a bancada gaúcha votou em 2025-05-26: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 297; Não: 133; Total: 430."
+title: "PL 1694/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (26 mai 2025)"
+description: "Como a bancada gaúcha votou em 26 mai 2025: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 297; Não: 133; Total: 430."
 ---
 
 # PL 1694/2025
 
-<p class="subtitulo"><b>2025-05-26</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>26 mai 2025</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

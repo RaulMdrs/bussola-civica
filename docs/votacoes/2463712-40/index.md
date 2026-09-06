@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 167/2024 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Comple (2025-02-25)"
-description: "Como a bancada gaúcha votou em 2025-02-25: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 167, de 2024, adotada pelo relator "
+title: "PLP 167/2024 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Comple (25 fev 2025)"
+description: "Como a bancada gaúcha votou em 25 fev 2025: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 167, de 2024, adotada pelo relator "
 ---
 
 # PLP 167/2024
 
-<p class="subtitulo"><b>2025-02-25</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 167, de 2024, adotada pelo relator da Comissão de Indústria, Comércio e Serviços.</p>
+<p class="subtitulo"><b>25 fev 2025</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 167, de 2024, adotada pelo relator da Comissão de Indústria, Comércio e Serviços.</p>
 
 | | |
 |---|---|

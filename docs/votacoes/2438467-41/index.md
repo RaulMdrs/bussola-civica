@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2215/2024 — Rejeitado o Requerimento. (2025-02-12)"
-description: "Como a bancada gaúcha votou em 2025-02-12: Rejeitado o Requerimento. Sim: 125; Não: 236; Abstenção: 2; Total: 363."
+title: "PL 2215/2024 — Rejeitado o Requerimento. (12 fev 2025)"
+description: "Como a bancada gaúcha votou em 12 fev 2025: Rejeitado o Requerimento. Sim: 125; Não: 236; Abstenção: 2; Total: 363."
 ---
 
 # PL 2215/2024
 
-<p class="subtitulo"><b>2025-02-12</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>12 fev 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

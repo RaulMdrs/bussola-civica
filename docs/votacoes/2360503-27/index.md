@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2384/2023 — Rejeitado o Requerimento. (2023-07-07)"
-description: "Como a bancada gaúcha votou em 2023-07-07: Rejeitado o Requerimento. Sim: 118; não: 298; total: 416."
+title: "PL 2384/2023 — Rejeitado o Requerimento. (07 jul 2023)"
+description: "Como a bancada gaúcha votou em 07 jul 2023: Rejeitado o Requerimento. Sim: 118; não: 298; total: 416."
 ---
 
 # PL 2384/2023
 
-<p class="subtitulo"><b>2023-07-07</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>07 jul 2023</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

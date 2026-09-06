@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1016/2023 — Aprovado o Substitutivo ao Projeto de Lei nº 334, de 2023, adotad (2023-08-30)"
-description: "Como a bancada gaúcha votou em 2023-08-30: Aprovado o Substitutivo ao Projeto de Lei nº 334, de 2023, adotado pela Relatora da Comissão de Finanças e Tri"
+title: "PL 1016/2023 — Aprovado o Substitutivo ao Projeto de Lei nº 334, de 2023, adotad (30 ago 2023)"
+description: "Como a bancada gaúcha votou em 30 ago 2023: Aprovado o Substitutivo ao Projeto de Lei nº 334, de 2023, adotado pela Relatora da Comissão de Finanças e Tri"
 ---
 
 # PL 1016/2023
 
-<p class="subtitulo"><b>2023-08-30</b> · Aprovado o Substitutivo ao Projeto de Lei nº 334, de 2023, adotado pela Relatora da Comissão de Finanças e Tributação, ressalvados os destaques.</p>
+<p class="subtitulo"><b>30 ago 2023</b> · Aprovado o Substitutivo ao Projeto de Lei nº 334, de 2023, adotado pela Relatora da Comissão de Finanças e Tributação, ressalvados os destaques.</p>
 
 | | |
 |---|---|

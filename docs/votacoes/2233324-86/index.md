@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6366/2019 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 6.3 (2025-05-05)"
-description: "Como a bancada gaúcha votou em 2025-05-05: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 6.366, de 2019, adotada pela relatora da Comissã"
+title: "PL 6366/2019 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 6.3 (05 mai 2025)"
+description: "Como a bancada gaúcha votou em 05 mai 2025: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 6.366, de 2019, adotada pela relatora da Comissã"
 ---
 
 # PL 6366/2019
 
-<p class="subtitulo"><b>2025-05-05</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 6.366, de 2019, adotada pela relatora da Comissão de Cultura, ressalvados os destaques.</p>
+<p class="subtitulo"><b>05 mai 2025</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 6.366, de 2019, adotada pela relatora da Comissão de Cultura, ressalvados os destaques.</p>
 
 | | |
 |---|---|

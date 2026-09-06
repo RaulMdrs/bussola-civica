@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 892/2025 — Rejeitado o Requerimento. (2025-10-29)"
-description: "Como a bancada gaúcha votou em 2025-10-29: Rejeitado o Requerimento. Sim: 88; Não: 270; Total: 358."
+title: "PL 892/2025 — Rejeitado o Requerimento. (29 out 2025)"
+description: "Como a bancada gaúcha votou em 29 out 2025: Rejeitado o Requerimento. Sim: 88; Não: 270; Total: 358."
 ---
 
 # PL 892/2025
 
-<p class="subtitulo"><b>2025-10-29</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>29 out 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

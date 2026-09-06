@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3083/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2023-06-20)"
-description: "Como a bancada gaúcha votou em 2023-06-20: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 278; não: 88; abstenção: 4; total: 370."
+title: "PL 3083/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (20 jun 2023)"
+description: "Como a bancada gaúcha votou em 20 jun 2023: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 278; não: 88; abstenção: 4; total: 370."
 ---
 
 # PL 3083/2023
 
-<p class="subtitulo"><b>2023-06-20</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>20 jun 2023</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

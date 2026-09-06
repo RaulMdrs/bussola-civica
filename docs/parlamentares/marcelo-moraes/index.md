@@ -7,7 +7,7 @@ description: "Como Marcelo Moraes vota: alinhamento com o governo federal e coes
 
 # Marcelo Moraes
 
-<p class="subtitulo"><b>PL</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>PL</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. <span class="placar">Sim: 318; Não: 113; Abstenção: 1; Total: 432.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Rejeitadas as Emendas de Plenário. <span class="placar">Sim: 108; Não: 275; Abstenção: 1; Total: 384.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2025-11-26</span>
+<span class="data">26 nov 2025</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei nº 2.829, de 2025, adotado pelo relator da Comissão de Administração e Serviço Público, ressalvado o destaque. <span class="placar">Sim: 350; Não: 77; Abstenção: 2; Total: 429.</span></p>
 <p class="referencia">Maioria do partido: sim (43 sim / 28 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-11-26</span>
+<span class="data">26 nov 2025</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 313; Não: 88; Abstenção: 2; Total: 403.</span></p>
 <p class="referencia">Maioria do partido: sim (43 sim / 28 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-11-05</span>
+<span class="data">05 nov 2025</span>
 <div class="corpo">
 <p>Aprovado o Projeto de Lei nº 3.292, de 2025. <span class="placar">Sim: 265; Não: 33; Total: 298.</span></p>
 <p class="referencia">Maioria do partido: sim (35 sim / 13 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -148,7 +148,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-42">
-<span class="data">2026-07-08 · 16:08</span>
+<span class="data">08 jul 2026 · 16:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado condenou o Supremo Tribunal Federal — STF e o Ministro Alexandre de Moraes pela determinação de busca e apreensão na residência do ex-Presidente Bolsonaro, classificando a medida como perseguição política. Além disso, criticou a Polícia Federal pela omissão na apuração de denúncias envolvendo familiares do Presidente Lula, o Ministro Alexandre de Moraes e o Ministro Dias Toffoli. Ademais, recriminou o Presidente do Senado Federal, Davi Alcolumbre, por não pautar os pedidos de impeachment de Ministros do STF. Por fim, manifestou solidariedade ao ex-Presidente Bolsonaro.</p>
@@ -157,7 +157,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-41">
-<span class="data">2026-06-30 · 17:44</span>
+<span class="data">30 jun 2026 · 17:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado relatou a mobilização do SOS Agro no Rio Grande do Sul e defendeu a aprovação urgente do Projeto de Lei nº 5.122, de 2023, que dispõe sobre a liquidação, anistia, renegociação e rebate de dívidas originárias de crédito rural para agricultores, pecuaristas, piscicultores, pescadores e carcinicultores, em geral, e dá outras providências, bem como altera a Lei no 14.554, de 20 de abril de 2023, que altera as Leis nos 13.999, de 18 de maio de 2020, 14.166, de 10 de junho de 2021, 11.540, de 12 de novembro de 2007, e 14.042, de 19 de agosto de 2020, para tratar do refinanciamento de dívidas e altera a Lei no 7.827, de 27 de setembro de 1989, a fim de sanar omissão legislativa. Além disso, afirmou que a demora do Governo Federal e do Senado agravou a crise, mencionou 44 suicídios de agricultores e rebateu a ????ação de perdão das dívidas, sustentando que haverá pagamento com juros e correção. Por fim, cobrou votação imediata na Câmara para preservar a economia gaúcha.</p>
@@ -166,7 +166,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-40">
-<span class="data">2026-04-28 · 18:12</span>
+<span class="data">28 abr 2026 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado registrou a presença dos Vereadores Cleon e Maninho, do Município de Lagoa Vermelha (RS) na Câmara dos Deputados. Em seguida, destacou a parceria institucional que resultou na destinação de recursos ao Município e mencionou a realização de evento local que ampliou a visibilidade regional da cidade e gerou promoção cultural e econômica. Também registrou a visita do Vereador Mateus, Presidente da Câmara Municipal de Passo do Sobrado (RS), e ressaltou a articulação voltada à captação de recursos públicos. Ademais, acrescentou preocupação apresentada pelo líder local quanto ao valor pago aos produtores de tabaco. Ao finalizar, ressaltou a continuidade das parcerias como instrumento de apoio ao desenvolvimento municipal.</p>
@@ -175,7 +175,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-38">
-<span class="data">2025-10-14 · 14:48</span>
+<span class="data">14 out 2025 · 14:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado registrou a visita do Vice-Prefeito de Santa Cruz do Sul (RS), Alex Knak, à Câmara dos Deputados, parabenizando sua atuação e destacando sua defesa da relevância econômica da cultura do tabaco para a região, conhecida como Capital Nacional do Fumo. Além disso, assinalou que o Vice-Prefeito esteve em Brasília (DF) em busca de recursos para o Município e apresentou proposta de emenda visando à pavimentação de trecho viário na localidade de Alto Paredão, que conecta Santa Cruz do Sul (RS) a Boqueirão do Leão (RS), interligando o Vale do Rio Pardo ao Vale do Taquari.</p>
@@ -184,7 +184,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-37">
-<span class="data">2025-09-24 · 14:00</span>
+<span class="data">24 set 2025 · 14:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado registrou a visita da Vereadora Carolina Mux, de Salvador do Sul (RS), destacando seu primeiro mandato e sua atuação em diferentes áreas. Lembrou que, por meio de seu mandato, já foram destinados recursos para o hospital local e para a Apae, reforçando a parceria com o Município. Informou ainda que esteve empenhado em buscar soluções junto à Defesa Civil para demandas represadas e que seguirá discutindo a destinação de verbas para o próximo ano. Ressaltou a iniciativa da Vereadora em buscar recursos para infraestrutura e afirmou que continuará contribuindo para o desenvolvimento de Salvador do Sul, reconhecendo o trabalho realizado pela representante municipal.</p>

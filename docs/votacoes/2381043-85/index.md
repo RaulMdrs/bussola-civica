@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4035/2023 — Rejeitado o Requerimento. (2025-06-26)"
-description: "Como a bancada gaúcha votou em 2025-06-26: Rejeitado o Requerimento. Sim: 79; Não: 225; Total: 304."
+title: "PL 4035/2023 — Rejeitado o Requerimento. (26 jun 2025)"
+description: "Como a bancada gaúcha votou em 26 jun 2025: Rejeitado o Requerimento. Sim: 79; Não: 225; Total: 304."
 ---
 
 # PL 4035/2023
 
-<p class="subtitulo"><b>2025-06-26</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>26 jun 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

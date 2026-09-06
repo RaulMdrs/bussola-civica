@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1177/2023 — Aprovada a Medida Provisória nº 1.177, de 2023. (2023-09-27)"
-description: "Como a bancada gaúcha votou em 2023-09-27: Aprovada a Medida Provisória nº 1.177, de 2023. Sim: 270; não: 1; abstenção: 1; total: 272."
+title: "MPV 1177/2023 — Aprovada a Medida Provisória nº 1.177, de 2023. (27 set 2023)"
+description: "Como a bancada gaúcha votou em 27 set 2023: Aprovada a Medida Provisória nº 1.177, de 2023. Sim: 270; não: 1; abstenção: 1; total: 272."
 ---
 
 # MPV 1177/2023
 
-<p class="subtitulo"><b>2023-09-27</b> · Aprovada a Medida Provisória nº 1.177, de 2023.</p>
+<p class="subtitulo"><b>27 set 2023</b> · Aprovada a Medida Provisória nº 1.177, de 2023.</p>
 
 | | |
 |---|---|

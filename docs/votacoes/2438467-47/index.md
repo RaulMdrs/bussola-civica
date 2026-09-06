@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2215/2024 — Aprovado o Projeto de Lei nº 2.215, de 2024. (2025-02-12)"
-description: "Como a bancada gaúcha votou em 2025-02-12: Aprovado o Projeto de Lei nº 2.215, de 2024. Sim: 273; Não: 136; Total: 409."
+title: "PL 2215/2024 — Aprovado o Projeto de Lei nº 2.215, de 2024. (12 fev 2025)"
+description: "Como a bancada gaúcha votou em 12 fev 2025: Aprovado o Projeto de Lei nº 2.215, de 2024. Sim: 273; Não: 136; Total: 409."
 ---
 
 # PL 2215/2024
 
-<p class="subtitulo"><b>2025-02-12</b> · Aprovado o Projeto de Lei nº 2.215, de 2024.</p>
+<p class="subtitulo"><b>12 fev 2025</b> · Aprovado o Projeto de Lei nº 2.215, de 2024.</p>
 
 | | |
 |---|---|

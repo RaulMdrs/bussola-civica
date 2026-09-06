@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4591/2012 — Aprovado o Requerimento de Urgência (Art. 154 do RICD). (2023-03-14)"
-description: "Como a bancada gaúcha votou em 2023-03-14: Aprovado o Requerimento de Urgência (Art. 154 do RICD). Sim: 366; não: 41; abstenção: 1; total: 408."
+title: "PL 4591/2012 — Aprovado o Requerimento de Urgência (Art. 154 do RICD). (14 mar 2023)"
+description: "Como a bancada gaúcha votou em 14 mar 2023: Aprovado o Requerimento de Urgência (Art. 154 do RICD). Sim: 366; não: 41; abstenção: 1; total: 408."
 ---
 
 # PL 4591/2012
 
-<p class="subtitulo"><b>2023-03-14</b> · Aprovado o Requerimento de Urgência (Art. 154 do RICD).</p>
+<p class="subtitulo"><b>14 mar 2023</b> · Aprovado o Requerimento de Urgência (Art. 154 do RICD).</p>
 
 | | |
 |---|---|

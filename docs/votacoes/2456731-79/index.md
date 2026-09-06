@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3469/2024 — Mantido o texto. (2025-04-29)"
-description: "Como a bancada gaúcha votou em 2025-04-29: Mantido o texto. Sim: 269; Não: 124; Total: 393."
+title: "PL 3469/2024 — Mantido o texto. (29 abr 2025)"
+description: "Como a bancada gaúcha votou em 29 abr 2025: Mantido o texto. Sim: 269; Não: 124; Total: 393."
 ---
 
 # PL 3469/2024
 
-<p class="subtitulo"><b>2025-04-29</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>29 abr 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

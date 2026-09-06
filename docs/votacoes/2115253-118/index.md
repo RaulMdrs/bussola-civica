@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2721/2023 — Aprovado o Substitutivo ao Projeto de Lei nº 6.385, de 2016, da C (2023-05-17)"
-description: "Como a bancada gaúcha votou em 2023-05-17: Aprovado o Substitutivo ao Projeto de Lei nº 6.385, de 2016, da Comissão de Ciência e Tecnologia, Comunicação "
+title: "PL 2721/2023 — Aprovado o Substitutivo ao Projeto de Lei nº 6.385, de 2016, da C (17 mai 2023)"
+description: "Como a bancada gaúcha votou em 17 mai 2023: Aprovado o Substitutivo ao Projeto de Lei nº 6.385, de 2016, da Comissão de Ciência e Tecnologia, Comunicação "
 ---
 
 # PL 2721/2023
 
-<p class="subtitulo"><b>2023-05-17</b> · Aprovado o Substitutivo ao Projeto de Lei nº 6.385, de 2016, da Comissão de Ciência e Tecnologia, Comunicação e Informática.</p>
+<p class="subtitulo"><b>17 mai 2023</b> · Aprovado o Substitutivo ao Projeto de Lei nº 6.385, de 2016, da Comissão de Ciência e Tecnologia, Comunicação e Informática.</p>
 
 | | |
 |---|---|

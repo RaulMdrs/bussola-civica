@@ -7,7 +7,7 @@ description: "Como Márcio Biolchi vota: alinhamento com o governo federal e coe
 
 # Márcio Biolchi
 
-<p class="subtitulo"><b>MDB</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>MDB</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-05-20</span>
+<span class="data">20 mai 2026</span>
 <div class="corpo">
 <p>Resultado. <span class="placar">Sim: 182; Não: 182; Abstenção: 2; Total: 366.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-03-18</span>
+<span class="data">18 mar 2026</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 232; Não: 151; Abstenção: 1; Total: 384.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-03-03</span>
+<span class="data">03 mar 2026</span>
 <div class="corpo">
 <p>Aprovado o Projeto de Lei nº 5.490, de 2025. <span class="placar">Sim: 248; Não: 164; Abstenção: 2; Total: 414.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-05-28</span>
+<span class="data">28 mai 2026</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 342; Não: 113; Abstenção: 5; Total: 460.</span></p>
 <p class="referencia">Maioria do partido: sim (17 sim / 14 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-05-20</span>
+<span class="data">20 mai 2026</span>
 <div class="corpo">
 <p>Rejeitada a Emenda de Plenário nº 2. <span class="placar">Sim: 196; Não: 200; Abstenção: 1; Total: 397.</span></p>
 <p class="referencia">Maioria do partido: nao (10 sim / 13 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-05-20</span>
+<span class="data">20 mai 2026</span>
 <div class="corpo">
 <p>Resultado. <span class="placar">Sim: 182; Não: 182; Abstenção: 2; Total: 366.</span></p>
 <p class="referencia">Maioria do partido: nao (10 sim / 11 não entre os pares) — voto registrado: <b>sim</b>.</p>

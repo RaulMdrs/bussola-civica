@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6969/2013 — Aprovado o Substitutivo ao Projeto de Lei nº 6.969, de 2013, adot (2025-05-27)"
-description: "Como a bancada gaúcha votou em 2025-05-27: Aprovado o Substitutivo ao Projeto de Lei nº 6.969, de 2013, adotado pelo relator da Comissão de Constituição "
+title: "PL 6969/2013 — Aprovado o Substitutivo ao Projeto de Lei nº 6.969, de 2013, adot (27 mai 2025)"
+description: "Como a bancada gaúcha votou em 27 mai 2025: Aprovado o Substitutivo ao Projeto de Lei nº 6.969, de 2013, adotado pelo relator da Comissão de Constituição "
 ---
 
 # PL 6969/2013
 
-<p class="subtitulo"><b>2025-05-27</b> · Aprovado o Substitutivo ao Projeto de Lei nº 6.969, de 2013, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvado o destaque.</p>
+<p class="subtitulo"><b>27 mai 2025</b> · Aprovado o Substitutivo ao Projeto de Lei nº 6.969, de 2013, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvado o destaque.</p>
 
 | | |
 |---|---|

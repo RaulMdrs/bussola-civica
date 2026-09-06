@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1466/2025 — Mantido o texto. (2025-05-21)"
-description: "Como a bancada gaúcha votou em 2025-05-21: Mantido o texto. Sim: 290; Não: 134; Total: 424."
+title: "PL 1466/2025 — Mantido o texto. (21 mai 2025)"
+description: "Como a bancada gaúcha votou em 21 mai 2025: Mantido o texto. Sim: 290; Não: 134; Total: 424."
 ---
 
 # PL 1466/2025
 
-<p class="subtitulo"><b>2025-05-21</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>21 mai 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6366/2019 — Rejeitado o Requerimento. (2025-05-26)"
-description: "Como a bancada gaúcha votou em 2025-05-26: Rejeitado o Requerimento. Sim: 139; Não: 302; Abstenção: 1; Total: 442."
+title: "PL 6366/2019 — Rejeitado o Requerimento. (26 mai 2025)"
+description: "Como a bancada gaúcha votou em 26 mai 2025: Rejeitado o Requerimento. Sim: 139; Não: 302; Abstenção: 1; Total: 442."
 ---
 
 # PL 6366/2019
 
-<p class="subtitulo"><b>2025-05-26</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>26 mai 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

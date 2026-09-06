@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4921/2026 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2026-09-01)"
-description: "Como a bancada gaúcha votou em 2026-09-01: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 320; Não: 67; Abstenção: 1; Total: 388."
+title: "PL 4921/2026 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (01 set 2026)"
+description: "Como a bancada gaúcha votou em 01 set 2026: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 320; Não: 67; Abstenção: 1; Total: 388."
 ---
 
 # PL 4921/2026
 
-<p class="subtitulo"><b>2026-09-01</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>01 set 2026</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2721/2023 — Rejeitado o Requerimento. (2023-11-08)"
-description: "Como a bancada gaúcha votou em 2023-11-08: Rejeitado o Requerimento.Sim: 49; não: 288; abstenção: 2; total: 339."
+title: "PL 2721/2023 — Rejeitado o Requerimento. (08 nov 2023)"
+description: "Como a bancada gaúcha votou em 08 nov 2023: Rejeitado o Requerimento.Sim: 49; não: 288; abstenção: 2; total: 339."
 ---
 
 # PL 2721/2023
 
-<p class="subtitulo"><b>2023-11-08</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>08 nov 2023</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

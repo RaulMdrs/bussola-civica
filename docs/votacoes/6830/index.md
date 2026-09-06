@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Emenda nº 4 ao Projeto de Lei Complementar nº 233, de 2023, d (2024-05-08)"
-description: "Como os senadores gaúchos votou em 2024-05-08: Votação nominal da Emenda nº 4 ao Projeto de Lei Complementar nº 233, de 2023, destacada."
+title: "Votação nominal da Emenda nº 4 ao Projeto de Lei Complementar nº 233, de 2023, d (08 mai 2024)"
+description: "Como os senadores gaúchos votou em 08 mai 2024: Votação nominal da Emenda nº 4 ao Projeto de Lei Complementar nº 233, de 2023, destacada."
 ---
 
-# Votação de 2024-05-08
+# Votação de 08 mai 2024
 
-<p class="subtitulo"><b>2024-05-08</b> · Votação nominal da Emenda nº 4 ao Projeto de Lei Complementar nº 233, de 2023, destacada.</p>
+<p class="subtitulo"><b>08 mai 2024</b> · Votação nominal da Emenda nº 4 ao Projeto de Lei Complementar nº 233, de 2023, destacada.</p>
 
 | | |
 |---|---|

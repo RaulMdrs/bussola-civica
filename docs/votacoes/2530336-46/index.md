@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3181/2025 — Mantido o texto. (2025-08-19)"
-description: "Como a bancada gaúcha votou em 2025-08-19: Mantido o texto. Sim: 230; Não: 143; Total: 373."
+title: "PL 3181/2025 — Mantido o texto. (19 ago 2025)"
+description: "Como a bancada gaúcha votou em 19 ago 2025: Mantido o texto. Sim: 230; Não: 143; Total: 373."
 ---
 
 # PL 3181/2025
 
-<p class="subtitulo"><b>2025-08-19</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>19 ago 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

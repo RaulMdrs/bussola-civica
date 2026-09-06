@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1185/2023 — Aprovada a Medida Provisória nº 1.185 de 2023, na forma do Proje (2023-12-15)"
-description: "Como a bancada gaúcha votou em 2023-12-15: Aprovada a Medida Provisória nº 1.185 de 2023, na forma do Projeto de Lei de Conversão, ressalvado o destaque."
+title: "MPV 1185/2023 — Aprovada a Medida Provisória nº 1.185 de 2023, na forma do Proje (15 dez 2023)"
+description: "Como a bancada gaúcha votou em 15 dez 2023: Aprovada a Medida Provisória nº 1.185 de 2023, na forma do Projeto de Lei de Conversão, ressalvado o destaque."
 ---
 
 # MPV 1185/2023
 
-<p class="subtitulo"><b>2023-12-15</b> · Aprovada a Medida Provisória nº 1.185 de 2023, na forma do Projeto de Lei de Conversão, ressalvado o destaque.</p>
+<p class="subtitulo"><b>15 dez 2023</b> · Aprovada a Medida Provisória nº 1.185 de 2023, na forma do Projeto de Lei de Conversão, ressalvado o destaque.</p>
 
 | | |
 |---|---|

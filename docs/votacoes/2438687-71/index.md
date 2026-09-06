@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2225/2024 — Aprovado o Substitutivo ao Projeto de Lei nº 2.225, de 2024, adot (2025-10-15)"
-description: "Como a bancada gaúcha votou em 2025-10-15: Aprovado o Substitutivo ao Projeto de Lei nº 2.225, de 2024, adotado pela relatora da Comissão de Meio Ambient"
+title: "PL 2225/2024 — Aprovado o Substitutivo ao Projeto de Lei nº 2.225, de 2024, adot (15 out 2025)"
+description: "Como a bancada gaúcha votou em 15 out 2025: Aprovado o Substitutivo ao Projeto de Lei nº 2.225, de 2024, adotado pela relatora da Comissão de Meio Ambient"
 ---
 
 # PL 2225/2024
 
-<p class="subtitulo"><b>2025-10-15</b> · Aprovado o Substitutivo ao Projeto de Lei nº 2.225, de 2024, adotado pela relatora da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvado o destaque.</p>
+<p class="subtitulo"><b>15 out 2025</b> · Aprovado o Substitutivo ao Projeto de Lei nº 2.225, de 2024, adotado pela relatora da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvado o destaque.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 21/2026 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 21, de 2 (2026-05-13)"
-description: "Como a bancada gaúcha votou em 2026-05-13: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 21, de 2026, adotado pelo relator da Comissão de Fin"
+title: "PLP 21/2026 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 21, de 2 (13 mai 2026)"
+description: "Como a bancada gaúcha votou em 13 mai 2026: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 21, de 2026, adotado pelo relator da Comissão de Fin"
 ---
 
 # PLP 21/2026
 
-<p class="subtitulo"><b>2026-05-13</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 21, de 2026, adotado pelo relator da Comissão de Finanças e Tributação.</p>
+<p class="subtitulo"><b>13 mai 2026</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 21, de 2026, adotado pelo relator da Comissão de Finanças e Tributação.</p>
 
 | | |
 |---|---|

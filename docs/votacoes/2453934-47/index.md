@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3224/2024 — Rejeitado o Requerimento. (2025-05-28)"
-description: "Como a bancada gaúcha votou em 2025-05-28: Rejeitado o Requerimento. Sim: 64; Não: 197; Abstenção: 1; Total: 262."
+title: "PL 3224/2024 — Rejeitado o Requerimento. (28 mai 2025)"
+description: "Como a bancada gaúcha votou em 28 mai 2025: Rejeitado o Requerimento. Sim: 64; Não: 197; Abstenção: 1; Total: 262."
 ---
 
 # PL 3224/2024
 
-<p class="subtitulo"><b>2025-05-28</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>28 mai 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "(Votação nominal do Requerimento nº 451, de 2025, que solicita urgência para o P (2025-06-25)"
-description: "Como os senadores gaúchos votou em 2025-06-25: (Votação nominal do Requerimento nº 451, de 2025, que solicita urgência para o Projeto de Lei Complementar nº "
+title: "(Votação nominal do Requerimento nº 451, de 2025, que solicita urgência para o P (25 jun 2025)"
+description: "Como os senadores gaúchos votou em 25 jun 2025: (Votação nominal do Requerimento nº 451, de 2025, que solicita urgência para o Projeto de Lei Complementar nº "
 ---
 
-# Votação de 2025-06-25
+# Votação de 25 jun 2025
 
-<p class="subtitulo"><b>2025-06-25</b> · (Votação nominal do Requerimento nº 451, de 2025, que solicita urgência para o Projeto de Lei Complementar nº 177, de 2023).</p>
+<p class="subtitulo"><b>25 jun 2025</b> · (Votação nominal do Requerimento nº 451, de 2025, que solicita urgência para o Projeto de Lei Complementar nº 177, de 2023).</p>
 
 | | |
 |---|---|

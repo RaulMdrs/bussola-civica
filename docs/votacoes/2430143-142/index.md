@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 68/2024 — Rejeitados os dispositivos do Substitutivo do Senado Federal ao Pr (2024-12-17)"
-description: "Como a bancada gaúcha votou em 2024-12-17: Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, co"
+title: "PLP 68/2024 — Rejeitados os dispositivos do Substitutivo do Senado Federal ao Pr (17 dez 2024)"
+description: "Como a bancada gaúcha votou em 17 dez 2024: Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, co"
 ---
 
 # PLP 68/2024
 
-<p class="subtitulo"><b>2024-12-17</b> · Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela rejeição.</p>
+<p class="subtitulo"><b>17 dez 2024</b> · Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela rejeição.</p>
 
 | | |
 |---|---|

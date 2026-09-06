@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6020/2023 — Rejeitada a Preferência. (2025-07-08)"
-description: "Como a bancada gaúcha votou em 2025-07-08: Rejeitada a Preferência. Sim: 103; Não: 281; Total: 384."
+title: "PL 6020/2023 — Rejeitada a Preferência. (08 jul 2025)"
+description: "Como a bancada gaúcha votou em 08 jul 2025: Rejeitada a Preferência. Sim: 103; Não: 281; Total: 384."
 ---
 
 # PL 6020/2023
 
-<p class="subtitulo"><b>2025-07-08</b> · Rejeitada a Preferência.</p>
+<p class="subtitulo"><b>08 jul 2025</b> · Rejeitada a Preferência.</p>
 
 | | |
 |---|---|

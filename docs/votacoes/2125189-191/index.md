@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 7082/2017 — Mantido o texto. (2023-11-29)"
-description: "Como a bancada gaúcha votou em 2023-11-29: Mantido o texto. Sim: 276; não: 105; total: 381."
+title: "PL 7082/2017 — Mantido o texto. (29 nov 2023)"
+description: "Como a bancada gaúcha votou em 29 nov 2023: Mantido o texto. Sim: 276; não: 105; total: 381."
 ---
 
 # PL 7082/2017
 
-<p class="subtitulo"><b>2023-11-29</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>29 nov 2023</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

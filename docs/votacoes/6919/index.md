@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Proposta de Emenda à Constituição nº 18, de 2024, nos termos  (2025-03-11)"
-description: "Como os senadores gaúchos votou em 2025-03-11: Votação nominal da Proposta de Emenda à Constituição nº 18, de 2024, nos termos do parecer (1º Turno)."
+title: "Votação nominal da Proposta de Emenda à Constituição nº 18, de 2024, nos termos  (11 mar 2025)"
+description: "Como os senadores gaúchos votou em 11 mar 2025: Votação nominal da Proposta de Emenda à Constituição nº 18, de 2024, nos termos do parecer (1º Turno)."
 ---
 
-# Votação de 2025-03-11
+# Votação de 11 mar 2025
 
-<p class="subtitulo"><b>2025-03-11</b> · Votação nominal da Proposta de Emenda à Constituição nº 18, de 2024, nos termos do parecer (1º Turno).</p>
+<p class="subtitulo"><b>11 mar 2025</b> · Votação nominal da Proposta de Emenda à Constituição nº 18, de 2024, nos termos do parecer (1º Turno).</p>
 
 | | |
 |---|---|

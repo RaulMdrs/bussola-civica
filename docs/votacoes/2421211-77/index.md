@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 769/2024 — Rejeitado o Requerimento. (2025-07-08)"
-description: "Como a bancada gaúcha votou em 2025-07-08: Rejeitado o Requerimento. Sim: 158; Não: 239; Abstenção: 3; Total: 400."
+title: "PL 769/2024 — Rejeitado o Requerimento. (08 jul 2025)"
+description: "Como a bancada gaúcha votou em 08 jul 2025: Rejeitado o Requerimento. Sim: 158; Não: 239; Abstenção: 3; Total: 400."
 ---
 
 # PL 769/2024
 
-<p class="subtitulo"><b>2025-07-08</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>08 jul 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

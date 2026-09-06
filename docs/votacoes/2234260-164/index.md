@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6461/2019 — Mantido o texto. (2026-04-22)"
-description: "Como a bancada gaúcha votou em 2026-04-22: Mantido o texto. Sim: 252; Não: 161; Total: 413."
+title: "PL 6461/2019 — Mantido o texto. (22 abr 2026)"
+description: "Como a bancada gaúcha votou em 22 abr 2026: Mantido o texto. Sim: 252; Não: 161; Total: 413."
 ---
 
 # PL 6461/2019
 
-<p class="subtitulo"><b>2026-04-22</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>22 abr 2026</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

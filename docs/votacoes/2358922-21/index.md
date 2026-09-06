@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2250/2023 — Aprovado o Projeto de Lei nº 2.250, de 2023. (2023-06-13)"
-description: "Como a bancada gaúcha votou em 2023-06-13: Aprovado o Projeto de Lei nº 2.250, de 2023. Sim: 318; não: 31; total: 349."
+title: "PL 2250/2023 — Aprovado o Projeto de Lei nº 2.250, de 2023. (13 jun 2023)"
+description: "Como a bancada gaúcha votou em 13 jun 2023: Aprovado o Projeto de Lei nº 2.250, de 2023. Sim: 318; não: 31; total: 349."
 ---
 
 # PL 2250/2023
 
-<p class="subtitulo"><b>2023-06-13</b> · Aprovado o Projeto de Lei nº 2.250, de 2023.</p>
+<p class="subtitulo"><b>13 jun 2023</b> · Aprovado o Projeto de Lei nº 2.250, de 2023.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2780/2024 — Mantido o texto. (2026-05-06)"
-description: "Como a bancada gaúcha votou em 2026-05-06: Mantido o texto. Sim: 343; Não: 97; Abstenção: 1; Total: 441."
+title: "PL 2780/2024 — Mantido o texto. (06 mai 2026)"
+description: "Como a bancada gaúcha votou em 06 mai 2026: Mantido o texto. Sim: 343; Não: 97; Abstenção: 1; Total: 441."
 ---
 
 # PL 2780/2024
 
-<p class="subtitulo"><b>2026-05-06</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>06 mai 2026</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

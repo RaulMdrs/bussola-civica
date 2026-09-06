@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 361/2024 — Aprovado o Projeto de Decreto Legislativo nº 361, de 2024. (2024-12-03)"
-description: "Como a bancada gaúcha votou em 2024-12-03: Aprovado o Projeto de Decreto Legislativo nº 361, de 2024. Sim: 296; Não: 108; Total: 404."
+title: "PDL 361/2024 — Aprovado o Projeto de Decreto Legislativo nº 361, de 2024. (03 dez 2024)"
+description: "Como a bancada gaúcha votou em 03 dez 2024: Aprovado o Projeto de Decreto Legislativo nº 361, de 2024. Sim: 296; Não: 108; Total: 404."
 ---
 
 # PDL 361/2024
 
-<p class="subtitulo"><b>2024-12-03</b> · Aprovado o Projeto de Decreto Legislativo nº 361, de 2024.</p>
+<p class="subtitulo"><b>03 dez 2024</b> · Aprovado o Projeto de Decreto Legislativo nº 361, de 2024.</p>
 
 | | |
 |---|---|

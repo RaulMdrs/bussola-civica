@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4173/2023 — Rejeitada a Emenda de Plenário nº 12. (2023-10-25)"
-description: "Como a bancada gaúcha votou em 2023-10-25: Rejeitada a Emenda de Plenário nº 12. Sim: 116; não: 303; abstenção: 1; total: 420."
+title: "PL 4173/2023 — Rejeitada a Emenda de Plenário nº 12. (25 out 2023)"
+description: "Como a bancada gaúcha votou em 25 out 2023: Rejeitada a Emenda de Plenário nº 12. Sim: 116; não: 303; abstenção: 1; total: 420."
 ---
 
 # PL 4173/2023
 
-<p class="subtitulo"><b>2023-10-25</b> · Rejeitada a Emenda de Plenário nº 12.</p>
+<p class="subtitulo"><b>25 out 2023</b> · Rejeitada a Emenda de Plenário nº 12.</p>
 
 | | |
 |---|---|

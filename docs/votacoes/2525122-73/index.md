@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "REP 2/2025 — Rejeitado o Requerimento. (2025-12-10)"
-description: "Como a bancada gaúcha votou em 2025-12-10: Rejeitado o Requerimento. Sim: 151; Não: 236; Abstenção: 3; Total: 390."
+title: "REP 2/2025 — Rejeitado o Requerimento. (10 dez 2025)"
+description: "Como a bancada gaúcha votou em 10 dez 2025: Rejeitado o Requerimento. Sim: 151; Não: 236; Abstenção: 3; Total: 390."
 ---
 
 # REP 2/2025
 
-<p class="subtitulo"><b>2025-12-10</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>10 dez 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

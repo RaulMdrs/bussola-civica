@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2664/2003 — Aprovado o Substitutivo da Comissão de Trabalho, de Administração (2025-08-12)"
-description: "Como a bancada gaúcha votou em 2025-08-12: Aprovado o Substitutivo da Comissão de Trabalho, de Administração e Serviço Público ao Projeto de Lei nº 2.664"
+title: "PL 2664/2003 — Aprovado o Substitutivo da Comissão de Trabalho, de Administração (12 ago 2025)"
+description: "Como a bancada gaúcha votou em 12 ago 2025: Aprovado o Substitutivo da Comissão de Trabalho, de Administração e Serviço Público ao Projeto de Lei nº 2.664"
 ---
 
 # PL 2664/2003
 
-<p class="subtitulo"><b>2025-08-12</b> · Aprovado o Substitutivo da Comissão de Trabalho, de Administração e Serviço Público ao Projeto de Lei nº 2.664 de 2003.</p>
+<p class="subtitulo"><b>12 ago 2025</b> · Aprovado o Substitutivo da Comissão de Trabalho, de Administração e Serviço Público ao Projeto de Lei nº 2.664 de 2003.</p>
 
 | | |
 |---|---|

@@ -7,7 +7,7 @@ description: "Como Zucco vota: alinhamento com o governo federal e coesão parti
 
 # Zucco
 
-<p class="subtitulo"><b>PL</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>PL</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. <span class="placar">Sim: 318; Não: 113; Abstenção: 1; Total: 432.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Rejeitadas as Emendas de Plenário. <span class="placar">Sim: 108; Não: 275; Abstenção: 1; Total: 384.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Rejeitada a Emenda de Plenário nº 1. <span class="placar">Sim: 105; Não: 233; Total: 338.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-04-15</span>
+<span class="data">15 abr 2026</span>
 <div class="corpo">
 <p>Aprovado o Projeto de Lei Complementar nº 55, de 2026. <span class="placar">Sim: 342; Não: 39; Total: 381.</span></p>
 <p class="referencia">Maioria do partido: sim (54 sim / 19 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-12-16</span>
+<span class="data">16 dez 2025</span>
 <div class="corpo">
 <p>Suprimido o texto. <span class="placar">Sim: 63; Não: 373; Abstenção: 1; Total: 437.</span></p>
 <p class="referencia">Maioria do partido: nao (21 sim / 48 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-11-26</span>
+<span class="data">26 nov 2025</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei nº 2.829, de 2025, adotado pelo relator da Comissão de Administração e Serviço Público, ressalvado o destaque. <span class="placar">Sim: 350; Não: 77; Abstenção: 2; Total: 429.</span></p>
 <p class="referencia">Maioria do partido: sim (43 sim / 28 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -148,7 +148,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-4483">
-<span class="data">2026-06-09 · 15:28</span>
+<span class="data">09 jun 2026 · 15:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado defendeu a aprovação do projeto de securitização das dívidas rurais, com alongamento do prazo, juros menores e ampliação do crédito para produtores endividados. Ainda sobre o assunto, criticou a falta de apoio da Esquerda e a ausência do Governo Estadual em Brasília para articulação em favor da proposta. Além disso, afirmou que muitos produtores enfrentavam dificuldades até para despesas básicas e ressaltou que o agro não tinha bandeira partidária. Por fim, mencionou que 43 produtores gaúchos tiraram a própria vida em razão do endividamento.</p>
@@ -157,7 +157,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4482">
-<span class="data">2026-04-30 · 14:48</span>
+<span class="data">30 abr 2026 · 14:48</span>
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
 <p>O Deputado orientou a bancada na votação do Veto Total nº 3, de 2026, aposto ao Projeto de Lei nº 2.162, de 2023, que trata da dosimetria da pena.</p>
@@ -166,7 +166,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4481">
-<span class="data">2026-04-07 · 19:24</span>
+<span class="data">07 abr 2026 · 19:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado informou a realização de evento político no Rio Grande do Sul, previsto para o dia 11, no Parque Harmonia, com a presença de lideranças da Direita. Destacou a participação do Senador Flávio Bolsonaro como pré-candidato à Presidência da República e anunciou o lançamento de pré-candidaturas ao Governo estadual e ao Senado, incluindo nomes para a Câmara e outras funções. Informou que o encontro teve como objetivo mobilizar apoiadores e apresentar propostas para o estado. Também fez convite à população gaúcha para participação no evento.</p>
@@ -175,7 +175,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4479">
-<span class="data">2025-12-10 · 01:00</span>
+<span class="data">10 dez 2025 · 01:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>O Deputado discutiu o Projeto de Lei nº&amp;nbsp;2.162, de 2023, que dispõe sobre a dosimetria das penas.</p>
@@ -184,7 +184,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-4477">
-<span class="data">2025-11-18 · 21:08</span>
+<span class="data">18 nov 2025 · 21:08</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
 <p>O Deputado afirmou que o Projeto de Lei nº 5.582, de 2025, que altera a Lei nº 12.850, de 2013, o Código Penal, o Código de Processo Penal, a Lei nº 8.072, de 1990, a Lei nº 7.960, de 1989, e a Lei nº 7.210, de 1984, para dispor sobre o combate às organizações criminosas no País, representa “a primeira grande ofensiva do Parlamento contra o crime organizado”. Disse que a proposta estabelece penas mais duras para integrantes e líderes de organizações criminosas, incluindo reclusão que pode ultrapassar 60 anos em casos de comando territorial, uso de explosivos ou ataques a agentes públicos. Em seguida, criticou a esquerda política, alegando que se opõe à votação e ao endurecimento penal. Argumentou que o texto relatado por Guilherme Derrite fortalece polícias militares e civis e devolve ao Estado o controle sobre áreas dominadas por grupos criminosos; e lembrou que facções atuam exercendo cobranças irregulares, impondo restrições de circulação e controlando serviços essenciais. Por fim, ao destacar o papel do Presidente da Câmara, Hugo Motta, na decisão de pautar o tema, disse que a aprovação da matéria enviaria um recado de que “o Estado, e não as facções, define as regras”.</p>

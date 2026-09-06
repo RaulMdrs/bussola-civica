@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4278/2025 — Aprovado o Projeto de Lei nº 4.278, de 2025, ressalvado o destaqu (2025-12-15)"
-description: "Como a bancada gaúcha votou em 2025-12-15: Aprovado o Projeto de Lei nº 4.278, de 2025, ressalvado o destaque. Sim: 325; Não: 119; Abstenção: 3; Total: 4"
+title: "PL 4278/2025 — Aprovado o Projeto de Lei nº 4.278, de 2025, ressalvado o destaqu (15 dez 2025)"
+description: "Como a bancada gaúcha votou em 15 dez 2025: Aprovado o Projeto de Lei nº 4.278, de 2025, ressalvado o destaque. Sim: 325; Não: 119; Abstenção: 3; Total: 4"
 ---
 
 # PL 4278/2025
 
-<p class="subtitulo"><b>2025-12-15</b> · Aprovado o Projeto de Lei nº 4.278, de 2025, ressalvado o destaque.</p>
+<p class="subtitulo"><b>15 dez 2025</b> · Aprovado o Projeto de Lei nº 4.278, de 2025, ressalvado o destaque.</p>
 
 | | |
 |---|---|

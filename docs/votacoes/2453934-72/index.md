@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3224/2024 — Suprimido o texto. (2025-05-28)"
-description: "Como a bancada gaúcha votou em 2025-05-28: Suprimido o texto. Sim: 152; Não: 220; Abstenção: 1; Total: 373."
+title: "PL 3224/2024 — Suprimido o texto. (28 mai 2025)"
+description: "Como a bancada gaúcha votou em 28 mai 2025: Suprimido o texto. Sim: 152; Não: 220; Abstenção: 1; Total: 373."
 ---
 
 # PL 3224/2024
 
-<p class="subtitulo"><b>2025-05-28</b> · Suprimido o texto.</p>
+<p class="subtitulo"><b>28 mai 2025</b> · Suprimido o texto.</p>
 
 | | |
 |---|---|

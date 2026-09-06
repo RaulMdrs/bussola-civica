@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 57/2022 — Aprovada a Emenda da Comissão de Finanças e Tributação. (2024-08-14)"
-description: "Como a bancada gaúcha votou em 2024-08-14: Aprovada a Emenda da Comissão de Finanças e Tributação. Sim: 421; não: 12; total: 433."
+title: "PLP 57/2022 — Aprovada a Emenda da Comissão de Finanças e Tributação. (14 ago 2024)"
+description: "Como a bancada gaúcha votou em 14 ago 2024: Aprovada a Emenda da Comissão de Finanças e Tributação. Sim: 421; não: 12; total: 433."
 ---
 
 # PLP 57/2022
 
-<p class="subtitulo"><b>2024-08-14</b> · Aprovada a Emenda da Comissão de Finanças e Tributação.</p>
+<p class="subtitulo"><b>14 ago 2024</b> · Aprovada a Emenda da Comissão de Finanças e Tributação.</p>
 
 | | |
 |---|---|

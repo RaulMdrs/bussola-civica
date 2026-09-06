@@ -7,7 +7,7 @@ description: "Como Afonso Motta vota: alinhamento com o governo federal e coesã
 
 # Afonso Motta
 
-<p class="subtitulo"><b>PDT</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>PDT</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2025-12-09</span>
+<span class="data">09 dez 2025</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 4.497, de 2024, ressalvados os destaques. <span class="placar">Sim: 310; Não: 115; Total: 425.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-12-09</span>
+<span class="data">09 dez 2025</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 283; Não: 116; Total: 399.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-12-09</span>
+<span class="data">09 dez 2025</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 302; Não: 124; Total: 426.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2025-12-09</span>
+<span class="data">09 dez 2025</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 4.497, de 2024, ressalvados os destaques. <span class="placar">Sim: 310; Não: 115; Total: 425.</span></p>
 <p class="referencia">Maioria do partido: nao (3 sim / 9 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-12-09</span>
+<span class="data">09 dez 2025</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 283; Não: 116; Total: 399.</span></p>
 <p class="referencia">Maioria do partido: nao (2 sim / 10 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2025-12-09</span>
+<span class="data">09 dez 2025</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 302; Não: 124; Total: 426.</span></p>
 <p class="referencia">Maioria do partido: nao (2 sim / 11 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -148,7 +148,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-2496">
-<span class="data">2026-02-10 · 21:24</span>
+<span class="data">10 fev 2026 · 21:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado agradeceu ao Presidente da Câmara dos Deputados pelo apoio ao Projeto de Lei Complementar nº 14, de 2026, que dispõe sobre a redução das alíquotas da Contribuição para o PIS/Pasep e da Cofins incidentes sobre a indústria química e petroquímica e altera a Lei nº 11.196, de 2005, e a Lei nº 10.865, de 2004. Ademais, destacou que a aprovação da matéria contribuirá para o desenvolvimento da indústria nacional, especialmente dos polos petroquímicos, e para o progresso do País.</p>
@@ -157,7 +157,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2494">
-<span class="data">2026-02-10 · 20:36</span>
+<span class="data">10 fev 2026 · 20:36</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
 <p>O Deputado proferiu parecer ao Projeto de Lei Complementar nº 14, de 2026, que dispõe sobre a redução de alíquotas da Contribuição para o PIS/Pasep e da Cofins incidentes sobre a indústria química e petroquímica, e altera a Lei nº 11.196, de 21 de novembro de 2005, e a Lei nº 10.865, de 30 de abril de 2004.</p>
@@ -166,7 +166,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2490">
-<span class="data">2025-11-25 · 18:20</span>
+<span class="data">25 nov 2025 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado orientou a bancada na votação do Projeto de Lei nº 1.496, de 2021, que altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), e a Lei nº 12.037, de 1º de outubro de 2009, para dispor sobre a obtenção do perfil genético na identificação criminal. Ademais, destacou a autoria da proposição da Senadora Leila Barros, do Partido Democrático Trabalhista (PDT).</p>
@@ -175,7 +175,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2488">
-<span class="data">2025-11-04 · 13:00</span>
+<span class="data">04 nov 2025 · 13:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado destacou a presença de uma delegação do Município de Caiçara (RS), liderada pela Vereadora Josanete, que levou a Brasília demandas locais. Reafirmou seu compromisso com o Município e com a melhoria da qualidade de vida da população.</p>
@@ -184,7 +184,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-2487">
-<span class="data">2025-10-29 · 12:56</span>
+<span class="data">29 out 2025 · 12:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado agradeceu aos Deputados Carlos Zarattini e Julio Lopes pelas contribuições ao Projeto de Lei nº 892, de 2025, que trata da prorrogação e fortalecimento do Regime Especial da Indústria Química. Ressaltou que a proposta tem impacto direto na industrialização, na geração de empregos e no crescimento do PIB nacional, sendo essencial para o desenvolvimento da economia brasileira. Ademais, destacou a importância da união dos partidos, inclusive da Oposição, em torno de uma agenda de fortalecimento da indústria nacional e reafirmou que a medida representa um avanço estratégico para o setor químico do País.</p>

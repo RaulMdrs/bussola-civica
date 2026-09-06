@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3914/2023 — Rejeitado o Requerimento. (2025-03-25)"
-description: "Como a bancada gaúcha votou em 2025-03-25: Rejeitado o Requerimento. Sim: 93; Não: 292; Total: 385."
+title: "PL 3914/2023 — Rejeitado o Requerimento. (25 mar 2025)"
+description: "Como a bancada gaúcha votou em 25 mar 2025: Rejeitado o Requerimento. Sim: 93; Não: 292; Total: 385."
 ---
 
 # PL 3914/2023
 
-<p class="subtitulo"><b>2025-03-25</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>25 mar 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

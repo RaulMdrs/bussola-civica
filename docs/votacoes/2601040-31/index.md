@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 14/2026 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 14, de 2 (2026-02-10)"
-description: "Como a bancada gaúcha votou em 2026-02-10: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 14, de 2026, adotado pelo relator da Comissão de Ind"
+title: "PLP 14/2026 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 14, de 2 (10 fev 2026)"
+description: "Como a bancada gaúcha votou em 10 fev 2026: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 14, de 2026, adotado pelo relator da Comissão de Ind"
 ---
 
 # PLP 14/2026
 
-<p class="subtitulo"><b>2026-02-10</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 14, de 2026, adotado pelo relator da Comissão de Indústria, Comércio e Serviços.</p>
+<p class="subtitulo"><b>10 fev 2026</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 14, de 2026, adotado pelo relator da Comissão de Indústria, Comércio e Serviços.</p>
 
 | | |
 |---|---|

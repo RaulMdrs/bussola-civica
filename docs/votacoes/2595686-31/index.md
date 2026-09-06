@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PRC 86/2025 — Aprovada a Emenda de Plenário nº 1. (2025-12-10)"
-description: "Como a bancada gaúcha votou em 2025-12-10: Aprovada a Emenda de Plenário nº 1. Sim: 318; Não: 141; Abstenção: 3; Total: 462."
+title: "PRC 86/2025 — Aprovada a Emenda de Plenário nº 1. (10 dez 2025)"
+description: "Como a bancada gaúcha votou em 10 dez 2025: Aprovada a Emenda de Plenário nº 1. Sim: 318; Não: 141; Abstenção: 3; Total: 462."
 ---
 
 # PRC 86/2025
 
-<p class="subtitulo"><b>2025-12-10</b> · Aprovada a Emenda de Plenário nº 1.</p>
+<p class="subtitulo"><b>10 dez 2025</b> · Aprovada a Emenda de Plenário nº 1.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1300/2025 — Aprovada a Preferência. (2025-09-17)"
-description: "Como a bancada gaúcha votou em 2025-09-17: Aprovada a Preferência. Sim: 436; Não: 14; Total: 450."
+title: "MPV 1300/2025 — Aprovada a Preferência. (17 set 2025)"
+description: "Como a bancada gaúcha votou em 17 set 2025: Aprovada a Preferência. Sim: 436; Não: 14; Total: 450."
 ---
 
 # MPV 1300/2025
 
-<p class="subtitulo"><b>2025-09-17</b> · Aprovada a Preferência.</p>
+<p class="subtitulo"><b>17 set 2025</b> · Aprovada a Preferência.</p>
 
 | | |
 |---|---|

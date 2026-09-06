@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2829/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2025-09-09)"
-description: "Como a bancada gaúcha votou em 2025-09-09: Aprovado o Requerimento de Urgência (Art. 155 do RICD)."
+title: "PL 2829/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (09 set 2025)"
+description: "Como a bancada gaúcha votou em 09 set 2025: Aprovado o Requerimento de Urgência (Art. 155 do RICD)."
 ---
 
 # PL 2829/2025
 
-<p class="subtitulo"><b>2025-09-09</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>09 set 2025</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 44/2023 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° (2024-07-11)"
-description: "Como a bancada gaúcha votou em 2024-07-11: Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 44, de 2023. Sim: 378; não: 7; total: 385."
+title: "PEC 44/2023 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° (11 jul 2024)"
+description: "Como a bancada gaúcha votou em 11 jul 2024: Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 44, de 2023. Sim: 378; não: 7; total: 385."
 ---
 
 # PEC 44/2023
 
-<p class="subtitulo"><b>2024-07-11</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 44, de 2023.</p>
+<p class="subtitulo"><b>11 jul 2024</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 44, de 2023.</p>
 
 | | |
 |---|---|

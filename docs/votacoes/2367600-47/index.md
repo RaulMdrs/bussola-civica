@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1177/2023 — Aprovado, em apreciação preliminar, o Parecer da Comissão Mista  (2023-09-27)"
-description: "Como a bancada gaúcha votou em 2023-09-27: Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização,"
+title: "MPV 1177/2023 — Aprovado, em apreciação preliminar, o Parecer da Comissão Mista  (27 set 2023)"
+description: "Como a bancada gaúcha votou em 27 set 2023: Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização,"
 ---
 
 # MPV 1177/2023
 
-<p class="subtitulo"><b>2023-09-27</b> · Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em que manifesta opinião pelo não atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN.</p>
+<p class="subtitulo"><b>27 set 2023</b> · Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em que manifesta opinião pelo não atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN.</p>
 
 | | |
 |---|---|

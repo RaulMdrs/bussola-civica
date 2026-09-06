@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 81/2024 — Rejeitada a preferência. (2024-03-12)"
-description: "Como a bancada gaúcha votou em 2024-03-12: Rejeitada a preferência. Sim: 130; não: 303; total: 433."
+title: "PL 81/2024 — Rejeitada a preferência. (12 mar 2024)"
+description: "Como a bancada gaúcha votou em 12 mar 2024: Rejeitada a preferência. Sim: 130; não: 303; total: 433."
 ---
 
 # PL 81/2024
 
-<p class="subtitulo"><b>2024-03-12</b> · Rejeitada a preferência.</p>
+<p class="subtitulo"><b>12 mar 2024</b> · Rejeitada a preferência.</p>
 
 | | |
 |---|---|

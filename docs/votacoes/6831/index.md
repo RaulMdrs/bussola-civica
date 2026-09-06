@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei Complementar nº 85, de 2024, nos termos do par (2024-05-15)"
-description: "Como os senadores gaúchos votou em 2024-05-15: Votação nominal do Projeto de Lei Complementar nº 85, de 2024, nos termos do parecer, ressalvado o destaque."
+title: "Votação nominal do Projeto de Lei Complementar nº 85, de 2024, nos termos do par (15 mai 2024)"
+description: "Como os senadores gaúchos votou em 15 mai 2024: Votação nominal do Projeto de Lei Complementar nº 85, de 2024, nos termos do parecer, ressalvado o destaque."
 ---
 
-# Votação de 2024-05-15
+# Votação de 15 mai 2024
 
-<p class="subtitulo"><b>2024-05-15</b> · Votação nominal do Projeto de Lei Complementar nº 85, de 2024, nos termos do parecer, ressalvado o destaque.</p>
+<p class="subtitulo"><b>15 mai 2024</b> · Votação nominal do Projeto de Lei Complementar nº 85, de 2024, nos termos do parecer, ressalvado o destaque.</p>
 
 | | |
 |---|---|

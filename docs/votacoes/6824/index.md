@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Proposta de Emenda à Constituição nº 45, de 2023, nos termos  (2024-04-16)"
-description: "Como os senadores gaúchos votou em 2024-04-16: Votação nominal da Proposta de Emenda à Constituição nº 45, de 2023, nos termos do parecer (1º Turno)."
+title: "Votação nominal da Proposta de Emenda à Constituição nº 45, de 2023, nos termos  (16 abr 2024)"
+description: "Como os senadores gaúchos votou em 16 abr 2024: Votação nominal da Proposta de Emenda à Constituição nº 45, de 2023, nos termos do parecer (1º Turno)."
 ---
 
-# Votação de 2024-04-16
+# Votação de 16 abr 2024
 
-<p class="subtitulo"><b>2024-04-16</b> · Votação nominal da Proposta de Emenda à Constituição nº 45, de 2023, nos termos do parecer (1º Turno).</p>
+<p class="subtitulo"><b>16 abr 2024</b> · Votação nominal da Proposta de Emenda à Constituição nº 45, de 2023, nos termos do parecer (1º Turno).</p>
 
 | | |
 |---|---|

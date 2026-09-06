@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1037/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2023-08-01)"
-description: "Como a bancada gaúcha votou em 2023-08-01: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 328; não: 48; total: 376."
+title: "PL 1037/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (01 ago 2023)"
+description: "Como a bancada gaúcha votou em 01 ago 2023: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 328; não: 48; total: 376."
 ---
 
 # PL 1037/2023
 
-<p class="subtitulo"><b>2023-08-01</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>01 ago 2023</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

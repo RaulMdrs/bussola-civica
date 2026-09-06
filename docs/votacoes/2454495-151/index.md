@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 66/2023 — Rejeitada a Emenda nº 5. (2025-07-15)"
-description: "Como a bancada gaúcha votou em 2025-07-15: Rejeitada a Emenda nº 5. Sim: 117; Não: 335; Abstenção: 3; Total: 455."
+title: "PEC 66/2023 — Rejeitada a Emenda nº 5. (15 jul 2025)"
+description: "Como a bancada gaúcha votou em 15 jul 2025: Rejeitada a Emenda nº 5. Sim: 117; Não: 335; Abstenção: 3; Total: 455."
 ---
 
 # PEC 66/2023
 
-<p class="subtitulo"><b>2025-07-15</b> · Rejeitada a Emenda nº 5.</p>
+<p class="subtitulo"><b>15 jul 2025</b> · Rejeitada a Emenda nº 5.</p>
 
 | | |
 |---|---|

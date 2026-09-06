@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei Complementar nº 177, de 2023, nos termos do pa (2025-06-25)"
-description: "Como os senadores gaúchos votou em 2025-06-25: Votação nominal do Projeto de Lei Complementar nº 177, de 2023, nos termos do parecer, ressalvado o destaque"
+title: "Votação nominal do Projeto de Lei Complementar nº 177, de 2023, nos termos do pa (25 jun 2025)"
+description: "Como os senadores gaúchos votou em 25 jun 2025: Votação nominal do Projeto de Lei Complementar nº 177, de 2023, nos termos do parecer, ressalvado o destaque"
 ---
 
-# Votação de 2025-06-25
+# Votação de 25 jun 2025
 
-<p class="subtitulo"><b>2025-06-25</b> · Votação nominal do Projeto de Lei Complementar nº 177, de 2023, nos termos do parecer, ressalvado o destaque</p>
+<p class="subtitulo"><b>25 jun 2025</b> · Votação nominal do Projeto de Lei Complementar nº 177, de 2023, nos termos do parecer, ressalvado o destaque</p>
 
 | | |
 |---|---|

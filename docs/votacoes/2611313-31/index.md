@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 74/2026 — Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar n (2026-09-03)"
-description: "Como a bancada gaúcha votou em 2026-09-03: Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 74, de 2026, adotada pelo relator da Comis"
+title: "PLP 74/2026 — Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar n (03 set 2026)"
+description: "Como a bancada gaúcha votou em 03 set 2026: Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 74, de 2026, adotada pelo relator da Comis"
 ---
 
 # PLP 74/2026
 
-<p class="subtitulo"><b>2026-09-03</b> · Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 74, de 2026, adotada pelo relator da Comissão de Finanças e Tributação.</p>
+<p class="subtitulo"><b>03 set 2026</b> · Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 74, de 2026, adotada pelo relator da Comissão de Finanças e Tributação.</p>
 
 | | |
 |---|---|

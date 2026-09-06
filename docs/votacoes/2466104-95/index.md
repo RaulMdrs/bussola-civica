@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 175/2024 — Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Compl (2024-11-19)"
-description: "Como a bancada gaúcha votou em 2024-11-19: Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 175, de 2024, com exceção dos arti"
+title: "PLP 175/2024 — Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Compl (19 nov 2024)"
+description: "Como a bancada gaúcha votou em 19 nov 2024: Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 175, de 2024, com exceção dos arti"
 ---
 
 # PLP 175/2024
 
-<p class="subtitulo"><b>2024-11-19</b> · Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 175, de 2024, com exceção dos artigos 3º e 7º, da supressão do § 4º do art. 4º aprovado pela Câmara e do § 2º do art. 8º.</p>
+<p class="subtitulo"><b>19 nov 2024</b> · Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 175, de 2024, com exceção dos artigos 3º e 7º, da supressão do § 4º do art. 4º aprovado pela Câmara e do § 2º do art. 8º.</p>
 
 | | |
 |---|---|

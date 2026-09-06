@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2694/2015 — Rejeitado o Requerimento. (2025-10-02)"
-description: "Como a bancada gaúcha votou em 2025-10-02: Rejeitado o Requerimento. Sim: 19; Não: 296; Total: 315."
+title: "PL 2694/2015 — Rejeitado o Requerimento. (02 out 2025)"
+description: "Como a bancada gaúcha votou em 02 out 2025: Rejeitado o Requerimento. Sim: 19; Não: 296; Total: 315."
 ---
 
 # PL 2694/2015
 
-<p class="subtitulo"><b>2025-10-02</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>02 out 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

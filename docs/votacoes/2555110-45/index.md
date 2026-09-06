@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4333/2025 — Mantido o texto. (2025-11-26)"
-description: "Como a bancada gaúcha votou em 2025-11-26: Mantido o texto. Sim: 278; Não: 107; Total: 385."
+title: "PL 4333/2025 — Mantido o texto. (26 nov 2025)"
+description: "Como a bancada gaúcha votou em 26 nov 2025: Mantido o texto. Sim: 278; Não: 107; Total: 385."
 ---
 
 # PL 4333/2025
 
-<p class="subtitulo"><b>2025-11-26</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>26 nov 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

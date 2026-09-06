@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3557/2023 — Rejeitado o Requerimento de Urgência (Art. 155 do RICD). (2023-11-08)"
-description: "Como a bancada gaúcha votou em 2023-11-08: Rejeitado o Requerimento de Urgência (Art. 155 do RICD). Sim: 240; não: 159; abstenção: 1; total: 400."
+title: "PL 3557/2023 — Rejeitado o Requerimento de Urgência (Art. 155 do RICD). (08 nov 2023)"
+description: "Como a bancada gaúcha votou em 08 nov 2023: Rejeitado o Requerimento de Urgência (Art. 155 do RICD). Sim: 240; não: 159; abstenção: 1; total: 400."
 ---
 
 # PL 3557/2023
 
-<p class="subtitulo"><b>2023-11-08</b> · Rejeitado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>08 nov 2023</b> · Rejeitado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

@@ -19,7 +19,7 @@ description: "Os discursos de Luiz Carlos Busato em 2023, com o sumário oficial
 ## Substantivos — 7
 
 <blockquote class="evidencia discurso" id="d-186">
-<span class="data">2023-10-17 · 16:24</span>
+<span class="data">17 out 2023 · 16:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado abordou o conflito entre Israel e o grupo Hamas na Palestina, destacando a escalada de violência que se estende também ao Líbano com os ataques do Hezbollah. Enfatizou os horrores infligidos aos civis em Israel, como a queima de pessoas vivas, o estupro e assassinato de inocentes. Criticou nota do PT comparando as ações do Hamas e de Israel no conflito, afirmando que não há equiparação no modus operandi. Afirmou que as mortes em ambos os lados são inaceitáveis, mas os israelenses reagiram a um ataque terrorista. O orador fez apelo à compaixão e à necessidade de repensar o rumo da humanidade diante do sofrimento generalizado.</p>
@@ -28,7 +28,7 @@ description: "Os discursos de Luiz Carlos Busato em 2023, com o sumário oficial
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-185">
-<span class="data">2023-09-26 · 17:04</span>
+<span class="data">26 set 2023 · 17:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado trouxe ao plenário a discussão sobre a liberação do aborto, tema que também está sendo debatido no Supremo Tribunal Federal. Questionou a argumentação de que um feto com 12 semanas não tem vida, citando o caso de Manushi, uma menina indiana que nasceu prematuramente com 12 semanas e sobreviveu. O Parlamentar criticou a Ministra Rosa Weber por sua posição sobre o assunto e apelou para a reflexão sobre a valorização da vida. Utilizou o caso da menina para demonstrar que há vida em um feto de 12 semanas e comparou a situação com o esforço coletivo que seria feito para salvar uma tartaruga.</p>
@@ -37,7 +37,7 @@ description: "Os discursos de Luiz Carlos Busato em 2023, com o sumário oficial
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-184">
-<span class="data">2023-09-05 · 16:00</span>
+<span class="data">05 set 2023 · 16:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado expressou sua preocupação com a série de desastres que afetaram o Rio Grande do Sul nos últimos anos. Ele destacou a estiagem que atingiu a maioria dos municípios do estado, seguida por um ciclone extratropical que causou mortes e danos significativos. Agora, o Rio Grande do Sul enfrenta outra tragédia, com inundações e seis mortes. O orador pediu ajuda imediata, incluindo resgates com helicópteros e recursos financeiros para reconstrução e prevenção.</p>
@@ -46,7 +46,7 @@ description: "Os discursos de Luiz Carlos Busato em 2023, com o sumário oficial
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-183">
-<span class="data">2023-07-05 · 14:04</span>
+<span class="data">05 jul 2023 · 14:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>Conveniência de adiamento da votação da Proposta de Emenda à Constituição nº 45, de 2019, a sobre a alteração do Sistema Tributário Nacional, com vista à ampliação do debate em torno da propositura.</p>
@@ -55,7 +55,7 @@ description: "Os discursos de Luiz Carlos Busato em 2023, com o sumário oficial
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-182">
-<span class="data">2023-06-14 · 15:00</span>
+<span class="data">14 jun 2023 · 15:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>Fatores determinantes do fechamento de empresas no Estado do Rio Grande do Sul. Necessidade de adoção, pelo Governo Federal, de medidas de estabilidade da economia brasileira. Revisão das taxas de juros vigentes no País.</p>
@@ -64,7 +64,7 @@ description: "Os discursos de Luiz Carlos Busato em 2023, com o sumário oficial
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-181">
-<span class="data">2023-05-16 · 17:52</span>
+<span class="data">16 mai 2023 · 17:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>Paralisação de obras públicas no País. Realização, pela Assembleia Legislativa do Estado do Rio Grande do Sul, de audiência pública para debate do tema.</p>
@@ -73,7 +73,7 @@ description: "Os discursos de Luiz Carlos Busato em 2023, com o sumário oficial
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-180">
-<span class="data">2023-02-15 · 15:24</span>
+<span class="data">15 fev 2023 · 15:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>Agradecimento aos eleitores do Estado do Rio Grande do Sul pela recondução do orador ao mandato parlamentar. Resultado de reunião do Deputado com o Superintendente Regional do Departamento Nacional de Infraestrutura de Transportes - DNIT no Estado do Rio Grande do Sul, Hiratan Pinheiro, destinada ao debate sobre a realização das obras das alças de acesso à nova Ponte do Guaíba, em Porto Alegre, e sobre a necessidade do reassentamento de famílias das comunidades ocupantes da área em questão.</p>

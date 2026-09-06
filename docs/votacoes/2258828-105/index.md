@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3976/2020 — Aprovada a Emenda de Plenário n° 1. (2024-12-12)"
-description: "Como a bancada gaúcha votou em 2024-12-12: Aprovada a Emenda de Plenário n° 1. Sim: 267; Não: 85; Abstenção: 14; Total: 366."
+title: "PL 3976/2020 — Aprovada a Emenda de Plenário n° 1. (12 dez 2024)"
+description: "Como a bancada gaúcha votou em 12 dez 2024: Aprovada a Emenda de Plenário n° 1. Sim: 267; Não: 85; Abstenção: 14; Total: 366."
 ---
 
 # PL 3976/2020
 
-<p class="subtitulo"><b>2024-12-12</b> · Aprovada a Emenda de Plenário n° 1.</p>
+<p class="subtitulo"><b>12 dez 2024</b> · Aprovada a Emenda de Plenário n° 1.</p>
 
 | | |
 |---|---|

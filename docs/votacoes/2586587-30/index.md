@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5900/2025 — Rejeitado o Requerimento. (2026-05-21)"
-description: "Como a bancada gaúcha votou em 2026-05-21: Rejeitado o Requerimento. Sim: 94; Não: 228; Total: 322."
+title: "PL 5900/2025 — Rejeitado o Requerimento. (21 mai 2026)"
+description: "Como a bancada gaúcha votou em 21 mai 2026: Rejeitado o Requerimento. Sim: 94; Não: 228; Total: 322."
 ---
 
 # PL 5900/2025
 
-<p class="subtitulo"><b>2026-05-21</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>21 mai 2026</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

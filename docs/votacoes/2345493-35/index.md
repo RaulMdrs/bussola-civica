@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1154/2023 — Aprovado o Requerimento. (2023-05-31)"
-description: "Como a bancada gaúcha votou em 2023-05-31: Aprovado o Requerimento. Sim: 324; não: 114; abstenção: 1; total: 439."
+title: "MPV 1154/2023 — Aprovado o Requerimento. (31 mai 2023)"
+description: "Como a bancada gaúcha votou em 31 mai 2023: Aprovado o Requerimento. Sim: 324; não: 114; abstenção: 1; total: 439."
 ---
 
 # MPV 1154/2023
 
-<p class="subtitulo"><b>2023-05-31</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>31 mai 2023</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

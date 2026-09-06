@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 16/2021 — Aprovada, em primeiro turno, a Proposta de Emenda à Constituição n (2023-09-12)"
-description: "Como a bancada gaúcha votou em 2023-09-12: Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 16, de 2021. Sim: 464; não: 3; abstenção: "
+title: "PEC 16/2021 — Aprovada, em primeiro turno, a Proposta de Emenda à Constituição n (12 set 2023)"
+description: "Como a bancada gaúcha votou em 12 set 2023: Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 16, de 2021. Sim: 464; não: 3; abstenção: "
 ---
 
 # PEC 16/2021
 
-<p class="subtitulo"><b>2023-09-12</b> · Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 16, de 2021.</p>
+<p class="subtitulo"><b>12 set 2023</b> · Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 16, de 2021.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 5/2023 — Rejeitado o Requerimento. (2026-05-28)"
-description: "Como a bancada gaúcha votou em 2026-05-28: Rejeitado o Requerimento. Sim: 102; Não: 322; Abstenção: 1; Total: 425."
+title: "PEC 5/2023 — Rejeitado o Requerimento. (28 mai 2026)"
+description: "Como a bancada gaúcha votou em 28 mai 2026: Rejeitado o Requerimento. Sim: 102; Não: 322; Abstenção: 1; Total: 425."
 ---
 
 # PEC 5/2023
 
-<p class="subtitulo"><b>2026-05-28</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>28 mai 2026</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

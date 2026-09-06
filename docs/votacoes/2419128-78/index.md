@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 533/2024 — Rejeitado o Requerimento. (2026-04-22)"
-description: "Como a bancada gaúcha votou em 2026-04-22: Rejeitado o Requerimento. Sim: 127; Não: 268; Total: 395."
+title: "PL 533/2024 — Rejeitado o Requerimento. (22 abr 2026)"
+description: "Como a bancada gaúcha votou em 22 abr 2026: Rejeitado o Requerimento. Sim: 127; Não: 268; Total: 395."
 ---
 
 # PL 533/2024
 
-<p class="subtitulo"><b>2026-04-22</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>22 abr 2026</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1027/2024 — Aprovado o Requerimento. (2024-04-09)"
-description: "Como a bancada gaúcha votou em 2024-04-09: Aprovado o Requerimento. Sim: 275; não: 139; abstenção: 1; total: 415."
+title: "PL 1027/2024 — Aprovado o Requerimento. (09 abr 2024)"
+description: "Como a bancada gaúcha votou em 09 abr 2024: Aprovado o Requerimento. Sim: 275; não: 139; abstenção: 1; total: 415."
 ---
 
 # PL 1027/2024
 
-<p class="subtitulo"><b>2024-04-09</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>09 abr 2024</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 128/2025 — Mantido o texto. (2025-12-16)"
-description: "Como a bancada gaúcha votou em 2025-12-16: Mantido o texto. Sim: 286; Não: 116; Total: 402."
+title: "PLP 128/2025 — Mantido o texto. (16 dez 2025)"
+description: "Como a bancada gaúcha votou em 16 dez 2025: Mantido o texto. Sim: 286; Não: 116; Total: 402."
 ---
 
 # PLP 128/2025
 
-<p class="subtitulo"><b>2025-12-16</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>16 dez 2025</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 363/2025 — Aprovado o Requerimento. (2025-04-28)"
-description: "Como a bancada gaúcha votou em 2025-04-28: Aprovado o Requerimento. Sim: 274; Não: 122; Total: 396."
+title: "PL 363/2025 — Aprovado o Requerimento. (28 abr 2025)"
+description: "Como a bancada gaúcha votou em 28 abr 2025: Aprovado o Requerimento. Sim: 274; Não: 122; Total: 396."
 ---
 
 # PL 363/2025
 
-<p class="subtitulo"><b>2025-04-28</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>28 abr 2025</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

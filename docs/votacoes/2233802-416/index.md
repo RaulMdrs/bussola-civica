@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 221/2019 — Aprovado o Requerimento. (2026-05-27)"
-description: "Como a bancada gaúcha votou em 2026-05-27: Aprovado o Requerimento. Sim: 372; Não: 101; Total: 473."
+title: "PEC 221/2019 — Aprovado o Requerimento. (27 mai 2026)"
+description: "Como a bancada gaúcha votou em 27 mai 2026: Aprovado o Requerimento. Sim: 372; Não: 101; Total: 473."
 ---
 
 # PEC 221/2019
 
-<p class="subtitulo"><b>2026-05-27</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>27 mai 2026</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

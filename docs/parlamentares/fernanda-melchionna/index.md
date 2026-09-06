@@ -7,7 +7,7 @@ description: "Como Fernanda Melchionna vota: alinhamento com o governo federal e
 
 # Fernanda Melchionna
 
-<p class="subtitulo"><b>PSOL</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>PSOL</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-09-03</span>
+<span class="data">03 set 2026</span>
 <div class="corpo">
 <p>Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 74, de 2026, adotada pelo relator da Comissão de Finanças e Tributação. <span class="placar">Sim: 346; Não: 46; Abstenção: 3; Total: 395.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. <span class="placar">Sim: 318; Não: 113; Abstenção: 1; Total: 432.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-07-14</span>
+<span class="data">14 jul 2026</span>
 <div class="corpo">
 <p>Rejeitada a Emenda de Plenário nº 2. <span class="placar">Sim: 134; Não: 285; Abstenção: 2; Total: 421.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2025-12-16</span>
+<span class="data">16 dez 2025</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 423; Não: 23; Abstenção: 1; Total: 447.</span></p>
 <p class="referencia">Maioria do partido: sim (6 sim / 2 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2024-06-12</span>
+<span class="data">12 jun 2024</span>
 <div class="corpo">
 <p>Aprovada a Subemenda Substitutiva Global ao Projeto de Resolução nº 32, de 2024, adotada pelo relator da Mesa Diretora. <span class="placar">Sim: 400; não: 29; abstenção: 1; total: 430.</span></p>
 <p class="referencia">Maioria do partido: sim (9 sim / 2 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2024-05-14</span>
+<span class="data">14 mai 2024</span>
 <div class="corpo">
 <p>Rejeitada a Emenda de Plenário nº 3. <span class="placar">Sim: 215; não: 226; abstenção: 1; total: 442.</span></p>
 <p class="referencia">Maioria do partido: nao (0 sim / 9 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -148,7 +148,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-13148">
-<span class="data">2026-08-12 · 16:48</span>
+<span class="data">12 ago 2026 · 16:48</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
 <p>A Deputada discutiu o Projeto de Lei Complementar nº 114, de 2026, que dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio. Além disso, afirmou que o projeto sobre combustíveis surgiu em meio à alta dos preços e à manutenção da privatização do refino e da distribuição. Contudo, criticou a inclusão de “jabutis” de ajuste fiscal, apontou restrições ao investimento público e sustentou que a retirada da receita do petróleo da receita corrente líquida atacou os pisos da saúde e da educação, afetando Universidades, Institutos Federais e o SUS.</p>
@@ -157,7 +157,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-13147">
-<span class="data">2026-08-12 · 16:12</span>
+<span class="data">12 ago 2026 · 16:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>A Deputada registrou voto pela retirada de trechos incluídos de última hora no Projeto de Lei Complementar nº 114, de 2026, que dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio. Além disso, defendeu a revogação da Lei da Alienação Parental, citando o caso do menino Gustavo como exemplo de violência contra crianças e revitimização de mulheres, e pediu diálogo com a Presidência para enfrentar recurso regimental e proteger crianças e mulheres brasileiras.</p>
@@ -166,7 +166,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-13146">
-<span class="data">2026-08-11 · 18:28</span>
+<span class="data">11 ago 2026 · 18:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>A Deputada criticou o uso da Lei da Alienação Parental em casos envolvendo mulheres vítimas de violência e crianças. Ao comentar o assassinato de Gustavo, de 3 anos, afirmou que a legislação poderia contribuir para a revitimização de mulheres e crianças e defendeu a aprovação de projeto que propôs sua revogação. Também criticou recurso apresentado contra a proposta aprovada na Comissão de Constituição e Justiça e defendeu sua tramitação. Ao final, pediu a inclusão, na pauta, do projeto que criminalizava a misoginia.</p>
@@ -175,7 +175,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-3828">
-<span class="data">2026-07-14 · 18:20</span>
+<span class="data">14 jul 2026 · 18:20</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
 <p>A Deputada cobrou a votação do Projeto de Lei nº 896, de 2023, que criminaliza a misoginia como crime de ódio, afirmando que a Câmara precisava responder ao movimento de mulheres diante da epidemia de feminicídios. Além disso, criticou o Senado por adiar a análise da Proposta de Emenda à Constituição nº 221, de 2019, que trata do fim da escala 6 por 1 e apontou resistência de setores da extrema direita a avanços em direitos das mulheres. Também reprovou a Comissão de Segurança por aprovar emenda que enfraquecia a Lei de Racismo e por homenagear Gabriel Monteiro, e anunciou representação na Procuradoria-Geral da República.</p>
@@ -184,7 +184,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-3827">
-<span class="data">2026-06-30 · 18:16</span>
+<span class="data">30 jun 2026 · 18:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>A Deputada manifestou inconformidade com a obstrução da Extrema Direita ao Projeto de Lei nº 896, de 2023, que altera a Lei nº 7.716, de 5 de janeiro de 1989, para incluir os crimes praticados em razão de misoginia, afirmando que o reconhecimento legal era passo importante no enfrentamento ao discurso de ódio e à incitação à violência contra as mulheres. Além disso, associou a resistência ao PL do Bolsonaro e ao Novo a uma agenda machista e antifeminista, criticou conteúdos misóginos em redes sociais.</p>

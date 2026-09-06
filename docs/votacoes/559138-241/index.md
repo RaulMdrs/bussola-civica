@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6606/2019 — Rejeitado o Requerimento. (2024-11-27)"
-description: "Como a bancada gaúcha votou em 2024-11-27: Rejeitado o Requerimento. Sim: 116; Não: 274; Total: 390."
+title: "PL 6606/2019 — Rejeitado o Requerimento. (27 nov 2024)"
+description: "Como a bancada gaúcha votou em 27 nov 2024: Rejeitado o Requerimento. Sim: 116; Não: 274; Total: 390."
 ---
 
 # PL 6606/2019
 
-<p class="subtitulo"><b>2024-11-27</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>27 nov 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1154/2023 — Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, (2023-05-31)"
-description: "Como a bancada gaúcha votou em 2023-05-31: Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião pelo atendi"
+title: "MPV 1154/2023 — Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, (31 mai 2023)"
+description: "Como a bancada gaúcha votou em 31 mai 2023: Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião pelo atendi"
 ---
 
 # MPV 1154/2023
 
-<p class="subtitulo"><b>2023-05-31</b> · Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião pelo atendimento dos pressupostos constitucionais de relevância e urgência e pela inadequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN.</p>
+<p class="subtitulo"><b>31 mai 2023</b> · Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião pelo atendimento dos pressupostos constitucionais de relevância e urgência e pela inadequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN.</p>
 
 | | |
 |---|---|

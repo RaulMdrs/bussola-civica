@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4449/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2023-12-19)"
-description: "Como a bancada gaúcha votou em 2023-12-19: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 371; não: 60; total: 431."
+title: "PL 4449/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (19 dez 2023)"
+description: "Como a bancada gaúcha votou em 19 dez 2023: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 371; não: 60; total: 431."
 ---
 
 # PL 4449/2023
 
-<p class="subtitulo"><b>2023-12-19</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>19 dez 2023</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

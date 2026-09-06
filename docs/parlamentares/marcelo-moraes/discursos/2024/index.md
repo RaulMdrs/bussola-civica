@@ -19,7 +19,7 @@ description: "Os discursos de Marcelo Moraes em 2024, com o sumário oficial e l
 ## Substantivos — 3
 
 <blockquote class="evidencia discurso" id="d-21">
-<span class="data">2024-11-12 · 16:36</span>
+<span class="data">12 nov 2024 · 16:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado fez um registro de agradecimento e parabenização aos Vereadores Elisio e Mateus, do Município de Passo do Sobrado (RS), que visitaram Brasília naquela semana. Destacou o envio de recursos para o Município, incluindo uma motoniveladora para ajudar na recuperação das estradas após as enchentes. Mencionou, também, a importância da fumicultura para a economia local e reafirmou o compromisso de continuar buscando projetos e recursos para apoiar a região.</p>
@@ -28,7 +28,7 @@ description: "Os discursos de Marcelo Moraes em 2024, com o sumário oficial e l
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-20">
-<span class="data">2024-10-30 · 14:00</span>
+<span class="data">30 out 2024 · 14:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado saudou a presença na Câmara dos Deputados dos Vereadores Jorge Willian, Ilceu e Marcio Bataioli, responsáveis por viabilizar mais de 10 milhões de reais em recursos para o Município de Candelária (RS). Ademais, enfatizou o seu compromisso parlamentar em prol do desenvolvimento da cidade de Candelária (RS) e destacou a atuação de Mateusinho, suplente de Vereador e bombeiro voluntário, que prestou serviço essencial durante as enchentes no Estado do Rio Grande do Sul.</p>
@@ -37,7 +37,7 @@ description: "Os discursos de Marcelo Moraes em 2024, com o sumário oficial e l
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-19">
-<span class="data">2024-04-24 · 14:52</span>
+<span class="data">24 abr 2024 · 14:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado destacou a visita do Vereador Rodrigo Rabuske, de Santa Cruz do Sul (RS), à Câmara dos Deputados em Brasília. Ele elogiou as contribuições do Vereador em questões ligadas à fumicultura e à saúde na cidade. Além disso, o Vereador gaúcho também foi reconhecido como um dos mais preparados do Brasil, tendo apresentado um projeto sobre transparência na saúde que compete pelo prêmio de melhor projeto do ano na Marcha dos Prefeitos e Vereadores. Ele destacou a importância de lideranças capacitadas como Rabuske para o futuro da comunidade e da população.</p>

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PRC 27/2025 — Aprovado o Projeto de Resolução nº 27, de 2025. (2025-06-25)"
-description: "Como a bancada gaúcha votou em 2025-06-25: Aprovado o Projeto de Resolução nº 27, de 2025. Sim: 272; Não: 117; Abstenção: 1; Total: 390."
+title: "PRC 27/2025 — Aprovado o Projeto de Resolução nº 27, de 2025. (25 jun 2025)"
+description: "Como a bancada gaúcha votou em 25 jun 2025: Aprovado o Projeto de Resolução nº 27, de 2025. Sim: 272; Não: 117; Abstenção: 1; Total: 390."
 ---
 
 # PRC 27/2025
 
-<p class="subtitulo"><b>2025-06-25</b> · Aprovado o Projeto de Resolução nº 27, de 2025.</p>
+<p class="subtitulo"><b>25 jun 2025</b> · Aprovado o Projeto de Resolução nº 27, de 2025.</p>
 
 | | |
 |---|---|

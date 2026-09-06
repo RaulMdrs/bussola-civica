@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do art. 27 do Projeto de Lei Complementar nº 233, de 2023, desta (2024-05-08)"
-description: "Como os senadores gaúchos votou em 2024-05-08: Votação nominal do art. 27 do Projeto de Lei Complementar nº 233, de 2023, destacado."
+title: "Votação nominal do art. 27 do Projeto de Lei Complementar nº 233, de 2023, desta (08 mai 2024)"
+description: "Como os senadores gaúchos votou em 08 mai 2024: Votação nominal do art. 27 do Projeto de Lei Complementar nº 233, de 2023, destacado."
 ---
 
-# Votação de 2024-05-08
+# Votação de 08 mai 2024
 
-<p class="subtitulo"><b>2024-05-08</b> · Votação nominal do art. 27 do Projeto de Lei Complementar nº 233, de 2023, destacado.</p>
+<p class="subtitulo"><b>08 mai 2024</b> · Votação nominal do art. 27 do Projeto de Lei Complementar nº 233, de 2023, destacado.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4911/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-12-12)"
-description: "Como a bancada gaúcha votou em 2024-12-12: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 334; Não: 16; Total: 350."
+title: "PL 4911/2023 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (12 dez 2024)"
+description: "Como a bancada gaúcha votou em 12 dez 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 334; Não: 16; Total: 350."
 ---
 
 # PL 4911/2023
 
-<p class="subtitulo"><b>2024-12-12</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>12 dez 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

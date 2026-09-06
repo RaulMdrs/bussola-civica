@@ -7,7 +7,7 @@ description: "Como Pedro Westphalen vota: alinhamento com o governo federal e co
 
 # Pedro Westphalen
 
-<p class="subtitulo"><b>PP</b> · deputado federal pelo RS · titular · em exercício desde <b>2023-02-01</b></p>
+<p class="subtitulo"><b>PP</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
@@ -69,7 +69,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Rejeitada a Emenda de Plenário nº 1. <span class="placar">Sim: 105; Não: 233; Total: 338.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -78,7 +78,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
@@ -87,7 +87,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-06-17</span>
+<span class="data">17 jun 2026</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 285; Não: 106; Abstenção: 1; Total: 392.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
@@ -98,7 +98,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">2026-08-12</span>
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Rejeitada a Emenda de Plenário nº 1. <span class="placar">Sim: 105; Não: 233; Total: 338.</span></p>
 <p class="referencia">Maioria do partido: nao (4 sim / 24 não entre os pares) — voto registrado: <b>sim</b>.</p>
@@ -107,7 +107,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-06-17</span>
+<span class="data">17 jun 2026</span>
 <div class="corpo">
 <p>Mantido o texto. <span class="placar">Sim: 285; Não: 106; Abstenção: 1; Total: 392.</span></p>
 <p class="referencia">Maioria do partido: sim (25 sim / 7 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -116,7 +116,7 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">2026-06-17</span>
+<span class="data">17 jun 2026</span>
 <div class="corpo">
 <p>Aprovado o Substitutivo ao Projeto de Lei nº 4.133, de 2023, adotado pelo relator da Comissão de Ciência, Tecnologia e Inovação. <span class="placar">Sim: 308; Não: 129; Abstenção: 1; Total: 438.</span></p>
 <p class="referencia">Maioria do partido: sim (27 sim / 7 não entre os pares) — voto registrado: <b>nao</b>.</p>
@@ -148,7 +148,7 @@ fonte que o publicou.
 ### Os 5 mais recentes
 
 <blockquote class="evidencia discurso" id="d-3531">
-<span class="data">2026-06-10 · 17:28</span>
+<span class="data">10 jun 2026 · 17:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado agradeceu ao Presidente Davi Alcolumbre por receber uma delegação de Parlamentares e representantes do Governo para construir uma solução relacionada à securitização do agronegócio. Informou a presença de comitiva de Cruz Alta (RS), liderada pelo Vereador Airton Becker, e afirmou que a securitização constituiu o tema mais relevante para o Rio Grande do Sul no momento. Além disso, manifestou expectativa quanto à votação da matéria, defendeu celeridade na tramitação e ressaltou a urgência da discussão para os produtores gaúchos. Por fim, declarou confiança na construção de uma solução definitiva para o setor.</p>
@@ -157,7 +157,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-3530">
-<span class="data">2026-06-09 · 17:40</span>
+<span class="data">09 jun 2026 · 17:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado agradeceu ao Presidente, ao Colégio de Líderes e aos partidos pela aprovação da urgência do Projeto de Lei nº 5.478, de 2025, que institui a Política Nacional de Diagnóstico Laboratorial (PNDL), estabelece diretrizes para sua implementação no Sistema Único de Saúde (SUS) e dá outras providências, construído ao longo de dois anos pela frente parlamentar em defesa da saúde, em acordo com o Ministério da Saúde. Além disso, afirmou que a proposta daria visibilidade e qualificação aos serviços de diagnóstico, valorizando os profissionais que atuam de forma anônima para viabilizar tratamentos adequados, e manifestou expectativa de votação célere da matéria pela Casa.</p>
@@ -166,7 +166,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-3529">
-<span class="data">2026-05-12 · 17:04</span>
+<span class="data">12 mai 2026 · 17:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado destacou a importância da aprovação do Projeto de Lei nº 5.122, de 2023, que trata da securitização, e pediu apoio para que a proposta avance no Senado Federal, ao afirmar que a medida seria fundamental para o setor primário e para a economia nacional. Também informou a apresentação de projeto que institui a Política Nacional de Diagnóstico Laboratorial, com o objetivo de fortalecer e padronizar os serviços de diagnóstico no País. Ao final, registrou a presença de Vereadores do Município de Ibarama (RS), em visita à Câmara dos Deputados.</p>
@@ -175,7 +175,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-3528">
-<span class="data">2026-04-28 · 15:44</span>
+<span class="data">28 abr 2026 · 15:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado destacou a atuação parlamentar em projetos nas áreas de saúde e financiamento municipal, mas concentrou sua fala na crise enfrentada pelo Rio Grande do Sul após eventos climáticos extremos. Defendeu a aprovação de propostas para securitização de dívidas rurais e ampliação do crédito, apontando prejuízos ao setor produtivo. Também abordou a necessidade de políticas preventivas diante de desastres naturais, com investimentos em infraestrutura e planejamento urbano. Na saúde, mencionou a importância do fortalecimento do SUS e a criação de uma política nacional de diagnóstico laboratorial. Por fim, alertou para o aumento de casos de feminicídio e cobrou melhorias em rodovias estratégicas para a integração regional.</p>
@@ -184,7 +184,7 @@ fonte que o publicou.
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-3527">
-<span class="data">2026-04-07 · 16:36</span>
+<span class="data">07 abr 2026 · 16:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado destacou a posse do Deputado Sérgio Turra como um momento de relevância histórica, ressaltando sua trajetória e a herança política familiar. Também cumprimentou lideranças do Progressistas, citando o Deputado Covatti Filho e a Deputada Any Ortiz, e associou a chegada de Turra ao fortalecimento do partido em Brasília e no Rio Grande do Sul. Ao final, deu boas-vindas ao novo integrante da Câmara e relacionou sua atuação às demandas do Estado.</p>

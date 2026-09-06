@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2/2025 — Aprovado o Projeto de Lei nº 2, de 2025. . (2025-04-22)"
-description: "Como a bancada gaúcha votou em 2025-04-22: Aprovado o Projeto de Lei nº 2, de 2025. . Sim: 276; Não: 68; Total: 344."
+title: "PL 2/2025 — Aprovado o Projeto de Lei nº 2, de 2025. . (22 abr 2025)"
+description: "Como a bancada gaúcha votou em 22 abr 2025: Aprovado o Projeto de Lei nº 2, de 2025. . Sim: 276; Não: 68; Total: 344."
 ---
 
 # PL 2/2025
 
-<p class="subtitulo"><b>2025-04-22</b> · Aprovado o Projeto de Lei nº 2, de 2025. .</p>
+<p class="subtitulo"><b>22 abr 2025</b> · Aprovado o Projeto de Lei nº 2, de 2025. .</p>
 
 | | |
 |---|---|

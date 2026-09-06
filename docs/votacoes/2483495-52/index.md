@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 363/2025 — Aprovado o Substitutivo ao Projeto de Lei nº 363, de 2025, adotado (2025-04-28)"
-description: "Como a bancada gaúcha votou em 2025-04-28: Aprovado o Substitutivo ao Projeto de Lei nº 363, de 2025, adotado pela relatora da Comissão de Cultura, ressa"
+title: "PL 363/2025 — Aprovado o Substitutivo ao Projeto de Lei nº 363, de 2025, adotado (28 abr 2025)"
+description: "Como a bancada gaúcha votou em 28 abr 2025: Aprovado o Substitutivo ao Projeto de Lei nº 363, de 2025, adotado pela relatora da Comissão de Cultura, ressa"
 ---
 
 # PL 363/2025
 
-<p class="subtitulo"><b>2025-04-28</b> · Aprovado o Substitutivo ao Projeto de Lei nº 363, de 2025, adotado pela relatora da Comissão de Cultura, ressalvados os destaques.</p>
+<p class="subtitulo"><b>28 abr 2025</b> · Aprovado o Substitutivo ao Projeto de Lei nº 363, de 2025, adotado pela relatora da Comissão de Cultura, ressalvados os destaques.</p>
 
 | | |
 |---|---|

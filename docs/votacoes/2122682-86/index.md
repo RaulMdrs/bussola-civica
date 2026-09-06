@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 302/2017 — Aprovada, em primeiro turno, a Proposta de Emenda à Constituição  (2025-11-04)"
-description: "Como a bancada gaúcha votou em 2025-11-04: Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 39, de 2022. Sim: 417; Não: 6; Abstenção: "
+title: "PEC 302/2017 — Aprovada, em primeiro turno, a Proposta de Emenda à Constituição  (04 nov 2025)"
+description: "Como a bancada gaúcha votou em 04 nov 2025: Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 39, de 2022. Sim: 417; Não: 6; Abstenção: "
 ---
 
 # PEC 302/2017
 
-<p class="subtitulo"><b>2025-11-04</b> · Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 39, de 2022.</p>
+<p class="subtitulo"><b>04 nov 2025</b> · Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 39, de 2022.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 114/2026 — Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementa (2026-08-12)"
-description: "Como a bancada gaúcha votou em 2026-08-12: Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da C"
+title: "PLP 114/2026 — Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementa (12 ago 2026)"
+description: "Como a bancada gaúcha votou em 12 ago 2026: Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da C"
 ---
 
 # PLP 114/2026
 
-<p class="subtitulo"><b>2026-08-12</b> · Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque.</p>
+<p class="subtitulo"><b>12 ago 2026</b> · Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque.</p>
 
 | | |
 |---|---|

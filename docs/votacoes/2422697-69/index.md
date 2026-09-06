@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 914/2024 — Mantido o texto. (2024-05-28)"
-description: "Como a bancada gaúcha votou em 2024-05-28: Mantido o texto. Sim: 266; não: 139; abstenção: 1; total: 406."
+title: "PL 914/2024 — Mantido o texto. (28 mai 2024)"
+description: "Como a bancada gaúcha votou em 28 mai 2024: Mantido o texto. Sim: 266; não: 139; abstenção: 1; total: 406."
 ---
 
 # PL 914/2024
 
-<p class="subtitulo"><b>2024-05-28</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>28 mai 2024</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

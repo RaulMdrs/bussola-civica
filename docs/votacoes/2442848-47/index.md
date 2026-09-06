@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 311/2024 — Rejeitado o Requerimento. (2025-03-27)"
-description: "Como a bancada gaúcha votou em 2025-03-27: Rejeitado o Requerimento. Sim: 36; Não: 268; Abstenção: 6; Total: 310."
+title: "PDL 311/2024 — Rejeitado o Requerimento. (27 mar 2025)"
+description: "Como a bancada gaúcha votou em 27 mar 2025: Rejeitado o Requerimento. Sim: 36; Não: 268; Abstenção: 6; Total: 310."
 ---
 
 # PDL 311/2024
 
-<p class="subtitulo"><b>2025-03-27</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>27 mar 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

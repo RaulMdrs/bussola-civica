@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PEC 72/2023 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº (2025-12-02)"
-description: "Como a bancada gaúcha votou em 2025-12-02: Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 72, de 2023. Sim: 397; Não: 3; Total: 400."
+title: "PEC 72/2023 — Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº (02 dez 2025)"
+description: "Como a bancada gaúcha votou em 02 dez 2025: Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 72, de 2023. Sim: 397; Não: 3; Total: 400."
 ---
 
 # PEC 72/2023
 
-<p class="subtitulo"><b>2025-12-02</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 72, de 2023.</p>
+<p class="subtitulo"><b>02 dez 2025</b> · Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 72, de 2023.</p>
 
 | | |
 |---|---|

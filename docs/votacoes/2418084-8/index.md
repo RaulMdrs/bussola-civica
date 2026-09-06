@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5996/2023 — Rejeitado o Requerimento. (2024-02-27)"
-description: "Como a bancada gaúcha votou em 2024-02-27: Rejeitado o Requerimento. Sim: 237; não: 171; abstenção: 3; total: 411."
+title: "PL 5996/2023 — Rejeitado o Requerimento. (27 fev 2024)"
+description: "Como a bancada gaúcha votou em 27 fev 2024: Rejeitado o Requerimento. Sim: 237; não: 171; abstenção: 3; total: 411."
 ---
 
 # PL 5996/2023
 
-<p class="subtitulo"><b>2024-02-27</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>27 fev 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

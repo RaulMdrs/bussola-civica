@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 10106/2018 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2024-02-20)"
-description: "Como a bancada gaúcha votou em 2024-02-20: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 442; não: 2; total: 444."
+title: "PL 10106/2018 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (20 fev 2024)"
+description: "Como a bancada gaúcha votou em 20 fev 2024: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 442; não: 2; total: 444."
 ---
 
 # PL 10106/2018
 
-<p class="subtitulo"><b>2024-02-20</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>20 fev 2024</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

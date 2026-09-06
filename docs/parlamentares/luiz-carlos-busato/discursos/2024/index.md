@@ -19,7 +19,7 @@ description: "Os discursos de Luiz Carlos Busato em 2024, com o sumário oficial
 ## Substantivos — 2
 
 <blockquote class="evidencia discurso" id="d-189">
-<span class="data">2024-03-06 · 15:56</span>
+<span class="data">06 mar 2024 · 15:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado destacou a última reunião do Consórcio de Integração Sul e Sudeste (COSUD), abordando a questão da sustentabilidade fiscal dos Estados membros. Ele ressaltou a necessidade de revisão da metodologia de amortização das dívidas dos Estados com a União, visando evitar ônus excessivos nos orçamentos estaduais e prejudicar políticas públicas essenciais. Defendeu uma compensação justa para os Estados, considerando sua significativa contribuição para o PIB nacional.</p>
@@ -28,7 +28,7 @@ description: "Os discursos de Luiz Carlos Busato em 2024, com o sumário oficial
 </blockquote>
 
 <blockquote class="evidencia discurso" id="d-188">
-<span class="data">2024-03-05 · 18:12</span>
+<span class="data">05 mar 2024 · 18:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
 <p>O Deputado denunciou que uma escola de Santa Cruz do Sul&amp;nbsp;(RS) recebeu exemplares do livro &quot;O Avesso da Pele&quot; do Ministério da Educação. Criticou o conteúdo do livro, repleto de palavrões e descrições de abusos sexuais, e questionou os critérios de seleção. Solicitou ao Ministro da Educação informações sobre os critérios de avaliação, o processo de seleção e quem foi responsável pela escolha do livro. Expressou preocupação com a distribuição de conteúdo inadequado para crianças e prometeu agir para evitar que isso aconteça.</p>
@@ -48,7 +48,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
 <blockquote class="evidencia discurso" id="d-187">
-<span class="data">2024-02-28 · 17:56</span>
+<span class="data">28 fev 2024 · 17:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado orientou a bancada na votação do requerimento de urgência ao Projeto de Lei nº 5.671, de 2023, que institui diretrizes de implementação de equipamentos e de medidas de segurança voltadas à prevenção e ao combate à violência em âmbito escolar.</p>

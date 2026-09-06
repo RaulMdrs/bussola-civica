@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1177/2023 — Rejeitado o Requerimento. (2023-09-27)"
-description: "Como a bancada gaúcha votou em 2023-09-27: Rejeitado o Requerimento. Sim: 9; não: 286; abstenção: 3; total: 298."
+title: "MPV 1177/2023 — Rejeitado o Requerimento. (27 set 2023)"
+description: "Como a bancada gaúcha votou em 27 set 2023: Rejeitado o Requerimento. Sim: 9; não: 286; abstenção: 3; total: 298."
 ---
 
 # MPV 1177/2023
 
-<p class="subtitulo"><b>2023-09-27</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>27 set 2023</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

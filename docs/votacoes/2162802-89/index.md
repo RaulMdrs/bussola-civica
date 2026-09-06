@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 9133/2017 — Aprovado o Substitutivo ao Projeto de Lei nº 9.133, de 2017, adot (2025-02-11)"
-description: "Como a bancada gaúcha votou em 2025-02-11: Aprovado o Substitutivo ao Projeto de Lei nº 9.133, de 2017, adotado pela relatora da Comissão de Educação. Si"
+title: "PL 9133/2017 — Aprovado o Substitutivo ao Projeto de Lei nº 9.133, de 2017, adot (11 fev 2025)"
+description: "Como a bancada gaúcha votou em 11 fev 2025: Aprovado o Substitutivo ao Projeto de Lei nº 9.133, de 2017, adotado pela relatora da Comissão de Educação. Si"
 ---
 
 # PL 9133/2017
 
-<p class="subtitulo"><b>2025-02-11</b> · Aprovado o Substitutivo ao Projeto de Lei nº 9.133, de 2017, adotado pela relatora da Comissão de Educação.</p>
+<p class="subtitulo"><b>11 fev 2025</b> · Aprovado o Substitutivo ao Projeto de Lei nº 9.133, de 2017, adotado pela relatora da Comissão de Educação.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 545/2024 — Rejeitado o Requerimento. (2024-04-09)"
-description: "Como a bancada gaúcha votou em 2024-04-09: Rejeitado o Requerimento. Sim: 105; não: 292; total: 397."
+title: "PL 545/2024 — Rejeitado o Requerimento. (09 abr 2024)"
+description: "Como a bancada gaúcha votou em 09 abr 2024: Rejeitado o Requerimento. Sim: 105; não: 292; total: 397."
 ---
 
 # PL 545/2024
 
-<p class="subtitulo"><b>2024-04-09</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>09 abr 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

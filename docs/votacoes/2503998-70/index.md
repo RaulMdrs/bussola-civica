@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 109/2025 — Rejeitado o Requerimento. (2026-04-07)"
-description: "Como a bancada gaúcha votou em 2026-04-07: Rejeitado o Requerimento. Sim: 60; Não: 306; Total: 366."
+title: "PLP 109/2025 — Rejeitado o Requerimento. (07 abr 2026)"
+description: "Como a bancada gaúcha votou em 07 abr 2026: Rejeitado o Requerimento. Sim: 60; Não: 306; Total: 366."
 ---
 
 # PLP 109/2025
 
-<p class="subtitulo"><b>2026-04-07</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>07 abr 2026</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

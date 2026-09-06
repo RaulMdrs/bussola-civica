@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 55/2026 — Aprovado o Projeto de Lei Complementar nº 55, de 2026. (2026-04-15)"
-description: "Como a bancada gaúcha votou em 2026-04-15: Aprovado o Projeto de Lei Complementar nº 55, de 2026. Sim: 342; Não: 39; Total: 381."
+title: "PLP 55/2026 — Aprovado o Projeto de Lei Complementar nº 55, de 2026. (15 abr 2026)"
+description: "Como a bancada gaúcha votou em 15 abr 2026: Aprovado o Projeto de Lei Complementar nº 55, de 2026. Sim: 342; Não: 39; Total: 381."
 ---
 
 # PLP 55/2026
 
-<p class="subtitulo"><b>2026-04-15</b> · Aprovado o Projeto de Lei Complementar nº 55, de 2026.</p>
+<p class="subtitulo"><b>15 abr 2026</b> · Aprovado o Projeto de Lei Complementar nº 55, de 2026.</p>
 
 | | |
 |---|---|

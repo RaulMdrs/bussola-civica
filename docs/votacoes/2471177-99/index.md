@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4497/2024 — Aprovado o Requerimento. (2025-12-09)"
-description: "Como a bancada gaúcha votou em 2025-12-09: Aprovado o Requerimento. Sim: 311; Não: 114; Total: 425."
+title: "PL 4497/2024 — Aprovado o Requerimento. (09 dez 2025)"
+description: "Como a bancada gaúcha votou em 09 dez 2025: Aprovado o Requerimento. Sim: 311; Não: 114; Total: 425."
 ---
 
 # PL 4497/2024
 
-<p class="subtitulo"><b>2025-12-09</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>09 dez 2025</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "MPV 1210/2024 — Aprovada a Medida Provisória nº 1.210, de 2024. (2024-07-03)"
-description: "Como a bancada gaúcha votou em 2024-07-03: Aprovada a Medida Provisória nº 1.210, de 2024. Sim: 336; total: 336."
+title: "MPV 1210/2024 — Aprovada a Medida Provisória nº 1.210, de 2024. (03 jul 2024)"
+description: "Como a bancada gaúcha votou em 03 jul 2024: Aprovada a Medida Provisória nº 1.210, de 2024. Sim: 336; total: 336."
 ---
 
 # MPV 1210/2024
 
-<p class="subtitulo"><b>2024-07-03</b> · Aprovada a Medida Provisória nº 1.210, de 2024.</p>
+<p class="subtitulo"><b>03 jul 2024</b> · Aprovada a Medida Provisória nº 1.210, de 2024.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 136/2023 — Mantido o texto. (2023-09-14)"
-description: "Como a bancada gaúcha votou em 2023-09-14: Mantido o texto. Sim: 270; não: 146; abstenção: 1; total: 417."
+title: "PLP 136/2023 — Mantido o texto. (14 set 2023)"
+description: "Como a bancada gaúcha votou em 14 set 2023: Mantido o texto. Sim: 270; não: 146; abstenção: 1; total: 417."
 ---
 
 # PLP 136/2023
 
-<p class="subtitulo"><b>2023-09-14</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>14 set 2023</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

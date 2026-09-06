@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1637/2019 — Aprovado o Substitutivo Reformulado ao Projeto de Lei nº 1.637, d (2024-12-12)"
-description: "Como a bancada gaúcha votou em 2024-12-12: Aprovado o Substitutivo Reformulado ao Projeto de Lei nº 1.637, de 2019, adotado pelo relator da Comissão de C"
+title: "PL 1637/2019 — Aprovado o Substitutivo Reformulado ao Projeto de Lei nº 1.637, d (12 dez 2024)"
+description: "Como a bancada gaúcha votou em 12 dez 2024: Aprovado o Substitutivo Reformulado ao Projeto de Lei nº 1.637, de 2019, adotado pelo relator da Comissão de C"
 ---
 
 # PL 1637/2019
 
-<p class="subtitulo"><b>2024-12-12</b> · Aprovado o Substitutivo Reformulado ao Projeto de Lei nº 1.637, de 2019, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques.</p>
+<p class="subtitulo"><b>12 dez 2024</b> · Aprovado o Substitutivo Reformulado ao Projeto de Lei nº 1.637, de 2019, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques.</p>
 
 | | |
 |---|---|

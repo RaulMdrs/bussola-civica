@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5496/2013 — Mantido o texto. (2023-11-21)"
-description: "Como a bancada gaúcha votou em 2023-11-21: Mantido o texto. Sim: 312; não: 104; total: 416."
+title: "PL 5496/2013 — Mantido o texto. (21 nov 2023)"
+description: "Como a bancada gaúcha votou em 21 nov 2023: Mantido o texto. Sim: 312; não: 104; total: 416."
 ---
 
 # PL 5496/2013
 
-<p class="subtitulo"><b>2023-11-21</b> · Mantido o texto.</p>
+<p class="subtitulo"><b>21 nov 2023</b> · Mantido o texto.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1637/2019 — Rejeitado o Requerimento. (2024-12-12)"
-description: "Como a bancada gaúcha votou em 2024-12-12: Rejeitado o Requerimento. Sim: 90; Não: 247; Total: 337."
+title: "PL 1637/2019 — Rejeitado o Requerimento. (12 dez 2024)"
+description: "Como a bancada gaúcha votou em 12 dez 2024: Rejeitado o Requerimento. Sim: 90; Não: 247; Total: 337."
 ---
 
 # PL 1637/2019
 
-<p class="subtitulo"><b>2024-12-12</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>12 dez 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Emenda nº 721 (Substitutivo) ao PLP nº 108/2024, nos termos d (2025-09-30)"
-description: "Como os senadores gaúchos votou em 2025-09-30: Votação nominal da Emenda nº 721 (Substitutivo) ao PLP nº 108/2024, nos termos do parecer, ressalvado o destaq"
+title: "Votação nominal da Emenda nº 721 (Substitutivo) ao PLP nº 108/2024, nos termos d (30 set 2025)"
+description: "Como os senadores gaúchos votou em 30 set 2025: Votação nominal da Emenda nº 721 (Substitutivo) ao PLP nº 108/2024, nos termos do parecer, ressalvado o destaq"
 ---
 
-# Votação de 2025-09-30
+# Votação de 30 set 2025
 
-<p class="subtitulo"><b>2025-09-30</b> · Votação nominal da Emenda nº 721 (Substitutivo) ao PLP nº 108/2024, nos termos do parecer, ressalvado o destaque.</p>
+<p class="subtitulo"><b>30 set 2025</b> · Votação nominal da Emenda nº 721 (Substitutivo) ao PLP nº 108/2024, nos termos do parecer, ressalvado o destaque.</p>
 
 | | |
 |---|---|

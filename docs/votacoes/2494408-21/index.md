@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1466/2025 — Rejeitado o Requerimento. (2025-05-21)"
-description: "Como a bancada gaúcha votou em 2025-05-21: Rejeitado o Requerimento. Sim: 93; Não: 242; Total: 335."
+title: "PL 1466/2025 — Rejeitado o Requerimento. (21 mai 2025)"
+description: "Como a bancada gaúcha votou em 21 mai 2025: Rejeitado o Requerimento. Sim: 93; Não: 242; Total: 335."
 ---
 
 # PL 1466/2025
 
-<p class="subtitulo"><b>2025-05-21</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>21 mai 2025</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

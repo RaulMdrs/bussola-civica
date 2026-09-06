@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 402/2011 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2023-12-05)"
-description: "Como a bancada gaúcha votou em 2023-12-05: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 411; não: 2; abstenção: 1; total: 414.."
+title: "PL 402/2011 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (05 dez 2023)"
+description: "Como a bancada gaúcha votou em 05 dez 2023: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 411; não: 2; abstenção: 1; total: 414.."
 ---
 
 # PL 402/2011
 
-<p class="subtitulo"><b>2023-12-05</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>05 dez 2023</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

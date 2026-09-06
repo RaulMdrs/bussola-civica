@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 93/2023 — Aprovadas as Emendas do Senado Federal ao Projeto de Lei Complemen (2023-08-22)"
-description: "Como a bancada gaúcha votou em 2023-08-22: Aprovadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 93-B, de 2023, nºs 4, 10 e 14, ressal"
+title: "PLP 93/2023 — Aprovadas as Emendas do Senado Federal ao Projeto de Lei Complemen (22 ago 2023)"
+description: "Como a bancada gaúcha votou em 22 ago 2023: Aprovadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 93-B, de 2023, nºs 4, 10 e 14, ressal"
 ---
 
 # PLP 93/2023
 
-<p class="subtitulo"><b>2023-08-22</b> · Aprovadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 93-B, de 2023, nºs 4, 10 e 14, ressalvados os destaques.</p>
+<p class="subtitulo"><b>22 ago 2023</b> · Aprovadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 93-B, de 2023, nºs 4, 10 e 14, ressalvados os destaques.</p>
 
 | | |
 |---|---|

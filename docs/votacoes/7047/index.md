@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Emenda nº 5 (Substitutivo) à Proposta de Emenda à Constituiçã (2026-02-24)"
-description: "Como os senadores gaúchos votou em 2026-02-24: Votação nominal da Emenda nº 5 (Substitutivo) à Proposta de Emenda à Constituição nº 22, de 2025, nos termos d"
+title: "Votação nominal da Emenda nº 5 (Substitutivo) à Proposta de Emenda à Constituiçã (24 fev 2026)"
+description: "Como os senadores gaúchos votou em 24 fev 2026: Votação nominal da Emenda nº 5 (Substitutivo) à Proposta de Emenda à Constituição nº 22, de 2025, nos termos d"
 ---
 
-# Votação de 2026-02-24
+# Votação de 24 fev 2026
 
-<p class="subtitulo"><b>2026-02-24</b> · Votação nominal da Emenda nº 5 (Substitutivo) à Proposta de Emenda à Constituição nº 22, de 2025, nos termos do parecer de Plenário (1º Turno).</p>
+<p class="subtitulo"><b>24 fev 2026</b> · Votação nominal da Emenda nº 5 (Substitutivo) à Proposta de Emenda à Constituição nº 22, de 2025, nos termos do parecer de Plenário (1º Turno).</p>
 
 | | |
 |---|---|

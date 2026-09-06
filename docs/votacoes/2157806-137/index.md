@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 8889/2017 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 8.8 (2025-11-04)"
-description: "Como a bancada gaúcha votou em 2025-11-04: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 8.889, de 2017, adotada pelo relator da Comissão"
+title: "PL 8889/2017 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 8.8 (04 nov 2025)"
+description: "Como a bancada gaúcha votou em 04 nov 2025: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 8.889, de 2017, adotada pelo relator da Comissão"
 ---
 
 # PL 8889/2017
 
-<p class="subtitulo"><b>2025-11-04</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 8.889, de 2017, adotada pelo relator da Comissão Especial, ressalvados os destaques.</p>
+<p class="subtitulo"><b>04 nov 2025</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 8.889, de 2017, adotada pelo relator da Comissão Especial, ressalvados os destaques.</p>
 
 | | |
 |---|---|

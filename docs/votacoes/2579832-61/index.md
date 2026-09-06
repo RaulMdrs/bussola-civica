@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5582/2025 — Rejeitada a Preferência. (2025-11-18)"
-description: "Como a bancada gaúcha votou em 2025-11-18: Rejeitada a Preferência. Sim: 156; Não: 306; Total: 462."
+title: "PL 5582/2025 — Rejeitada a Preferência. (18 nov 2025)"
+description: "Como a bancada gaúcha votou em 18 nov 2025: Rejeitada a Preferência. Sim: 156; Não: 306; Total: 462."
 ---
 
 # PL 5582/2025
 
-<p class="subtitulo"><b>2025-11-18</b> · Rejeitada a Preferência.</p>
+<p class="subtitulo"><b>18 nov 2025</b> · Rejeitada a Preferência.</p>
 
 | | |
 |---|---|

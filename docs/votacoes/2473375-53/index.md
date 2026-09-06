@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4614/2024 — Aprovado o Requerimento. (2024-12-19)"
-description: "Como a bancada gaúcha votou em 2024-12-19: Aprovado o Requerimento. Sim: 290; Não: 170; Total: 460."
+title: "PL 4614/2024 — Aprovado o Requerimento. (19 dez 2024)"
+description: "Como a bancada gaúcha votou em 19 dez 2024: Aprovado o Requerimento. Sim: 290; Não: 170; Total: 460."
 ---
 
 # PL 4614/2024
 
-<p class="subtitulo"><b>2024-12-19</b> · Aprovado o Requerimento.</p>
+<p class="subtitulo"><b>19 dez 2024</b> · Aprovado o Requerimento.</p>
 
 | | |
 |---|---|

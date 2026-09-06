@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 1625/2026 — Rejeitado o Requerimento. (2026-05-20)"
-description: "Como a bancada gaúcha votou em 2026-05-20: Rejeitado o Requerimento. Sim: 115; Não: 313; Total: 428."
+title: "PL 1625/2026 — Rejeitado o Requerimento. (20 mai 2026)"
+description: "Como a bancada gaúcha votou em 20 mai 2026: Rejeitado o Requerimento. Sim: 115; Não: 313; Total: 428."
 ---
 
 # PL 1625/2026
 
-<p class="subtitulo"><b>2026-05-20</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>20 mai 2026</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

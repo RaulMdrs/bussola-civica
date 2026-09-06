@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3292/2025 — Aprovado o Projeto de Lei nº 3.292, de 2025. (2025-11-05)"
-description: "Como a bancada gaúcha votou em 2025-11-05: Aprovado o Projeto de Lei nº 3.292, de 2025. Sim: 265; Não: 33; Total: 298."
+title: "PL 3292/2025 — Aprovado o Projeto de Lei nº 3.292, de 2025. (05 nov 2025)"
+description: "Como a bancada gaúcha votou em 05 nov 2025: Aprovado o Projeto de Lei nº 3.292, de 2025. Sim: 265; Não: 33; Total: 298."
 ---
 
 # PL 3292/2025
 
-<p class="subtitulo"><b>2025-11-05</b> · Aprovado o Projeto de Lei nº 3.292, de 2025.</p>
+<p class="subtitulo"><b>05 nov 2025</b> · Aprovado o Projeto de Lei nº 3.292, de 2025.</p>
 
 | | |
 |---|---|

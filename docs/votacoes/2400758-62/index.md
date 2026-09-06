@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 233/2023 — Aprovada a Subemenda Substitutiva Global Reformulada ao Projeto d (2024-04-09)"
-description: "Como a bancada gaúcha votou em 2024-04-09: Aprovada a Subemenda Substitutiva Global Reformulada ao Projeto de Lei Complementar nº 233, de 2023, adotada p"
+title: "PLP 233/2023 — Aprovada a Subemenda Substitutiva Global Reformulada ao Projeto d (09 abr 2024)"
+description: "Como a bancada gaúcha votou em 09 abr 2024: Aprovada a Subemenda Substitutiva Global Reformulada ao Projeto de Lei Complementar nº 233, de 2023, adotada p"
 ---
 
 # PLP 233/2023
 
-<p class="subtitulo"><b>2024-04-09</b> · Aprovada a Subemenda Substitutiva Global Reformulada ao Projeto de Lei Complementar nº 233, de 2023, adotada pelo relator da Comissão de Viação e Transportes.</p>
+<p class="subtitulo"><b>09 abr 2024</b> · Aprovada a Subemenda Substitutiva Global Reformulada ao Projeto de Lei Complementar nº 233, de 2023, adotada pelo relator da Comissão de Viação e Transportes.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei Complementar nº 58, de 2025, nos termos do par (2025-08-20)"
-description: "Como os senadores gaúchos votou em 2025-08-20: Votação nominal do Projeto de Lei Complementar nº 58, de 2025, nos termos do parecer."
+title: "Votação nominal do Projeto de Lei Complementar nº 58, de 2025, nos termos do par (20 ago 2025)"
+description: "Como os senadores gaúchos votou em 20 ago 2025: Votação nominal do Projeto de Lei Complementar nº 58, de 2025, nos termos do parecer."
 ---
 
-# Votação de 2025-08-20
+# Votação de 20 ago 2025
 
-<p class="subtitulo"><b>2025-08-20</b> · Votação nominal do Projeto de Lei Complementar nº 58, de 2025, nos termos do parecer.</p>
+<p class="subtitulo"><b>20 ago 2025</b> · Votação nominal do Projeto de Lei Complementar nº 58, de 2025, nos termos do parecer.</p>
 
 | | |
 |---|---|

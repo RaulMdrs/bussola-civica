@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4438/2023 — Aprovada a Emenda de Plenário nº 30. (2023-09-14)"
-description: "Como a bancada gaúcha votou em 2023-09-14: Aprovada a Emenda de Plenário nº 30. Sim: 246; não: 172; abstenção: 1; total: 419."
+title: "PL 4438/2023 — Aprovada a Emenda de Plenário nº 30. (14 set 2023)"
+description: "Como a bancada gaúcha votou em 14 set 2023: Aprovada a Emenda de Plenário nº 30. Sim: 246; não: 172; abstenção: 1; total: 419."
 ---
 
 # PL 4438/2023
 
-<p class="subtitulo"><b>2023-09-14</b> · Aprovada a Emenda de Plenário nº 30.</p>
+<p class="subtitulo"><b>14 set 2023</b> · Aprovada a Emenda de Plenário nº 30.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4438/2023 — Rejeitado o Requerimento. (2023-09-14)"
-description: "Como a bancada gaúcha votou em 2023-09-14: Rejeitado o Requerimento. Sim: 48; não: 282; total: 330."
+title: "PL 4438/2023 — Rejeitado o Requerimento. (14 set 2023)"
+description: "Como a bancada gaúcha votou em 14 set 2023: Rejeitado o Requerimento. Sim: 48; não: 282; total: 330."
 ---
 
 # PL 4438/2023
 
-<p class="subtitulo"><b>2023-09-14</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>14 set 2023</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

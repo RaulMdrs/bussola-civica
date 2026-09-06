@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2720/2023 — Aprovado o Substitutivo ao Projeto de Lei nº 2.720, de 2023, adot (2023-06-14)"
-description: "Como a bancada gaúcha votou em 2023-06-14: Aprovado o Substitutivo ao Projeto de Lei nº 2.720, de 2023, adotado pelo relator da Constituição e Justiça e "
+title: "PL 2720/2023 — Aprovado o Substitutivo ao Projeto de Lei nº 2.720, de 2023, adot (14 jun 2023)"
+description: "Como a bancada gaúcha votou em 14 jun 2023: Aprovado o Substitutivo ao Projeto de Lei nº 2.720, de 2023, adotado pelo relator da Constituição e Justiça e "
 ---
 
 # PL 2720/2023
 
-<p class="subtitulo"><b>2023-06-14</b> · Aprovado o Substitutivo ao Projeto de Lei nº 2.720, de 2023, adotado pelo relator da Constituição e Justiça e de Cidadania.</p>
+<p class="subtitulo"><b>14 jun 2023</b> · Aprovado o Substitutivo ao Projeto de Lei nº 2.720, de 2023, adotado pelo relator da Constituição e Justiça e de Cidadania.</p>
 
 | | |
 |---|---|

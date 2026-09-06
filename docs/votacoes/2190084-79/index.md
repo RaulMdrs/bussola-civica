@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 11247/2018 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 11 (2023-11-29)"
-description: "Como a bancada gaúcha votou em 2023-11-29: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 11.247, de 2018, adotada pelo relator da Comissã"
+title: "PL 11247/2018 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 11 (29 nov 2023)"
+description: "Como a bancada gaúcha votou em 29 nov 2023: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 11.247, de 2018, adotada pelo relator da Comissã"
 ---
 
 # PL 11247/2018
 
-<p class="subtitulo"><b>2023-11-29</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 11.247, de 2018, adotada pelo relator da Comissão de Minas e Energia, ressalvados os destaques.</p>
+<p class="subtitulo"><b>29 nov 2023</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 11.247, de 2018, adotada pelo relator da Comissão de Minas e Energia, ressalvados os destaques.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 124/2022 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 124, de (2025-11-11)"
-description: "Como a bancada gaúcha votou em 2025-11-11: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 124, de 2022, adotado pelo relator da Comissão de Co"
+title: "PLP 124/2022 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 124, de (11 nov 2025)"
+description: "Como a bancada gaúcha votou em 11 nov 2025: Aprovado o Substitutivo ao Projeto de Lei Complementar nº 124, de 2022, adotado pelo relator da Comissão de Co"
 ---
 
 # PLP 124/2022
 
-<p class="subtitulo"><b>2025-11-11</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 124, de 2022, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania.</p>
+<p class="subtitulo"><b>11 nov 2025</b> · Aprovado o Substitutivo ao Projeto de Lei Complementar nº 124, de 2022, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania.</p>
 
 | | |
 |---|---|

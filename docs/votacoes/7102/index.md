@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal do Projeto de Lei Complementar nº 114, de 2026, nos termos do pa (2026-08-12)"
-description: "Como os senadores gaúchos votou em 2026-08-12: Votação nominal do Projeto de Lei Complementar nº 114, de 2026, nos termos do parecer, ressalvado o destaque."
+title: "Votação nominal do Projeto de Lei Complementar nº 114, de 2026, nos termos do pa (12 ago 2026)"
+description: "Como os senadores gaúchos votou em 12 ago 2026: Votação nominal do Projeto de Lei Complementar nº 114, de 2026, nos termos do parecer, ressalvado o destaque."
 ---
 
-# Votação de 2026-08-12
+# Votação de 12 ago 2026
 
-<p class="subtitulo"><b>2026-08-12</b> · Votação nominal do Projeto de Lei Complementar nº 114, de 2026, nos termos do parecer, ressalvado o destaque.</p>
+<p class="subtitulo"><b>12 ago 2026</b> · Votação nominal do Projeto de Lei Complementar nº 114, de 2026, nos termos do parecer, ressalvado o destaque.</p>
 
 | | |
 |---|---|

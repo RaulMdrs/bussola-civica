@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 2379/2023 — Aprovado o Projeto de Lei nº 2.379, de 2023. (2025-03-25)"
-description: "Como a bancada gaúcha votou em 2025-03-25: Aprovado o Projeto de Lei nº 2.379, de 2023. Sim: 275; Não: 113; Abstenção: 5; Total: 393."
+title: "PL 2379/2023 — Aprovado o Projeto de Lei nº 2.379, de 2023. (25 mar 2025)"
+description: "Como a bancada gaúcha votou em 25 mar 2025: Aprovado o Projeto de Lei nº 2.379, de 2023. Sim: 275; Não: 113; Abstenção: 5; Total: 393."
 ---
 
 # PL 2379/2023
 
-<p class="subtitulo"><b>2025-03-25</b> · Aprovado o Projeto de Lei nº 2.379, de 2023.</p>
+<p class="subtitulo"><b>25 mar 2025</b> · Aprovado o Projeto de Lei nº 2.379, de 2023.</p>
 
 | | |
 |---|---|

@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 3640/2023 — Rejeitado o Recurso nº 22, de 2025 (art. 58, § 1º c/c art. 132, § (2025-10-22)"
-description: "Como a bancada gaúcha votou em 2025-10-22: Rejeitado o Recurso nº 22, de 2025 (art. 58, § 1º c/c art. 132, § 2º, RICD). Sim: 95; Não: 344; Abstenção: 2; "
+title: "PL 3640/2023 — Rejeitado o Recurso nº 22, de 2025 (art. 58, § 1º c/c art. 132, § (22 out 2025)"
+description: "Como a bancada gaúcha votou em 22 out 2025: Rejeitado o Recurso nº 22, de 2025 (art. 58, § 1º c/c art. 132, § 2º, RICD). Sim: 95; Não: 344; Abstenção: 2; "
 ---
 
 # PL 3640/2023
 
-<p class="subtitulo"><b>2025-10-22</b> · Rejeitado o Recurso nº 22, de 2025 (art. 58, § 1º c/c art. 132, § 2º, RICD).</p>
+<p class="subtitulo"><b>22 out 2025</b> · Rejeitado o Recurso nº 22, de 2025 (art. 58, § 1º c/c art. 132, § 2º, RICD).</p>
 
 | | |
 |---|---|

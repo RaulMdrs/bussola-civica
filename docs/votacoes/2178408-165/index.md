@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 519/2018 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Comple (2024-08-28)"
-description: "Como a bancada gaúcha votou em 2024-08-28: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 519, de 2018, adotada pelo relator "
+title: "PLP 519/2018 — Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Comple (28 ago 2024)"
+description: "Como a bancada gaúcha votou em 28 ago 2024: Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 519, de 2018, adotada pelo relator "
 ---
 
 # PLP 519/2018
 
-<p class="subtitulo"><b>2024-08-28</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 519, de 2018, adotada pelo relator da Comissão Especial, ressalvado o destaque.</p>
+<p class="subtitulo"><b>28 ago 2024</b> · Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 519, de 2018, adotada pelo relator da Comissão Especial, ressalvado o destaque.</p>
 
 | | |
 |---|---|

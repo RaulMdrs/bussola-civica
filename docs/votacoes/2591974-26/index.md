@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 6133/2025 — Rejeitado o Requerimento. (2026-02-10)"
-description: "Como a bancada gaúcha votou em 2026-02-10: Rejeitado o Requerimento. Sim: 147; Não: 242; Abstenção: 1; Total: 390."
+title: "PL 6133/2025 — Rejeitado o Requerimento. (10 fev 2026)"
+description: "Como a bancada gaúcha votou em 10 fev 2026: Rejeitado o Requerimento. Sim: 147; Não: 242; Abstenção: 1; Total: 390."
 ---
 
 # PL 6133/2025
 
-<p class="subtitulo"><b>2026-02-10</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>10 fev 2026</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

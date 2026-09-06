@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 458/2021 — Rejeitada a Emenda de Plenário nº 1. (2025-10-29)"
-description: "Como a bancada gaúcha votou em 2025-10-29: Rejeitada a Emenda de Plenário nº 1. Sim: 143; Não: 263; Abstenção: 1; Total: 407."
+title: "PL 458/2021 — Rejeitada a Emenda de Plenário nº 1. (29 out 2025)"
+description: "Como a bancada gaúcha votou em 29 out 2025: Rejeitada a Emenda de Plenário nº 1. Sim: 143; Não: 263; Abstenção: 1; Total: 407."
 ---
 
 # PL 458/2021
 
-<p class="subtitulo"><b>2025-10-29</b> · Rejeitada a Emenda de Plenário nº 1.</p>
+<p class="subtitulo"><b>29 out 2025</b> · Rejeitada a Emenda de Plenário nº 1.</p>
 
 | | |
 |---|---|

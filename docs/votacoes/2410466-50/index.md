@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 4266/2023 — Rejeitado o Requerimento. (2024-09-11)"
-description: "Como a bancada gaúcha votou em 2024-09-11: Rejeitado o Requerimento. Sim: 2; Não: 377; Abstenção: 4; Total: 383."
+title: "PL 4266/2023 — Rejeitado o Requerimento. (11 set 2024)"
+description: "Como a bancada gaúcha votou em 11 set 2024: Rejeitado o Requerimento. Sim: 2; Não: 377; Abstenção: 4; Total: 383."
 ---
 
 # PL 4266/2023
 
-<p class="subtitulo"><b>2024-09-11</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>11 set 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

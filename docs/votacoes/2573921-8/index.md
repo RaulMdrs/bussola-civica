@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PRC 71/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (2025-10-22)"
-description: "Como a bancada gaúcha votou em 2025-10-22: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 398; Não: 30; Abstenção: 3; Total: 431."
+title: "PRC 71/2025 — Aprovado o Requerimento de Urgência (Art. 155 do RICD). (22 out 2025)"
+description: "Como a bancada gaúcha votou em 22 out 2025: Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 398; Não: 30; Abstenção: 3; Total: 431."
 ---
 
 # PRC 71/2025
 
-<p class="subtitulo"><b>2025-10-22</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
+<p class="subtitulo"><b>22 out 2025</b> · Aprovado o Requerimento de Urgência (Art. 155 do RICD).</p>
 
 | | |
 |---|---|

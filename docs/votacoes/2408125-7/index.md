@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PL 5711/2023 — Rejeitado o requerimento de urgência. (2023-12-06)"
-description: "Como a bancada gaúcha votou em 2023-12-06: Rejeitado o requerimento de urgência. Sim: 251; não: 17; abstenção: 4; total: 272."
+title: "PL 5711/2023 — Rejeitado o requerimento de urgência. (06 dez 2023)"
+description: "Como a bancada gaúcha votou em 06 dez 2023: Rejeitado o requerimento de urgência. Sim: 251; não: 17; abstenção: 4; total: 272."
 ---
 
 # PL 5711/2023
 
-<p class="subtitulo"><b>2023-12-06</b> · Rejeitado o requerimento de urgência.</p>
+<p class="subtitulo"><b>06 dez 2023</b> · Rejeitado o requerimento de urgência.</p>
 
 | | |
 |---|---|

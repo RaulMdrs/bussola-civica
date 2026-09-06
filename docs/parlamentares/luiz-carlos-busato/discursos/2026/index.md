@@ -19,7 +19,7 @@ description: "Os discursos de Luiz Carlos Busato em 2026, com o sumário oficial
 ## Substantivos — 1
 
 <blockquote class="evidencia discurso" id="d-199">
-<span class="data">2026-02-24 · 15:44</span>
+<span class="data">24 fev 2026 · 15:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p>O Deputado destacou a visita da Prefeita de Estrela (RS), Carine Schwingel, ao plenário da Câmara. Afirmou que a Prefeita é parceira do União Brasil e aproveitou a oportunidade para apresentá-la à Casa. Fez homenagem à gestora, elogiando sua atuação à frente do Município e ressaltando sua importância como liderança feminina no Rio Grande do Sul.</p>

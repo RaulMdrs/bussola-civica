@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei nº 2.721, de 202 (2023-10-10)"
-description: "Como os senadores gaúchos votou em 2023-10-10: Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei nº 2.721, de 2023, nos termos do Parecer."
+title: "Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei nº 2.721, de 202 (10 out 2023)"
+description: "Como os senadores gaúchos votou em 10 out 2023: Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei nº 2.721, de 2023, nos termos do Parecer."
 ---
 
-# Votação de 2023-10-10
+# Votação de 10 out 2023
 
-<p class="subtitulo"><b>2023-10-10</b> · Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei nº 2.721, de 2023, nos termos do Parecer.</p>
+<p class="subtitulo"><b>10 out 2023</b> · Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei nº 2.721, de 2023, nos termos do Parecer.</p>
 
 | | |
 |---|---|

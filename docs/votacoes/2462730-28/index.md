@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PDL 361/2024 — Rejeitado o Requerimento. (2024-12-03)"
-description: "Como a bancada gaúcha votou em 2024-12-03: Rejeitado o Requerimento. Sim: 38; Não: 357; Total: 395."
+title: "PDL 361/2024 — Rejeitado o Requerimento. (03 dez 2024)"
+description: "Como a bancada gaúcha votou em 03 dez 2024: Rejeitado o Requerimento. Sim: 38; Não: 357; Total: 395."
 ---
 
 # PDL 361/2024
 
-<p class="subtitulo"><b>2024-12-03</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>03 dez 2024</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|

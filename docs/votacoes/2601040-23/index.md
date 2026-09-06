@@ -1,13 +1,13 @@
 ---
 layout: default
 kind: votacao
-title: "PLP 14/2026 — Rejeitado o Requerimento. (2026-02-10)"
-description: "Como a bancada gaúcha votou em 2026-02-10: Rejeitado o Requerimento. Sim: 87; Não: 301; Total: 388."
+title: "PLP 14/2026 — Rejeitado o Requerimento. (10 fev 2026)"
+description: "Como a bancada gaúcha votou em 10 fev 2026: Rejeitado o Requerimento. Sim: 87; Não: 301; Total: 388."
 ---
 
 # PLP 14/2026
 
-<p class="subtitulo"><b>2026-02-10</b> · Rejeitado o Requerimento.</p>
+<p class="subtitulo"><b>10 fev 2026</b> · Rejeitado o Requerimento.</p>
 
 | | |
 |---|---|
