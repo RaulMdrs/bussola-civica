@@ -1,10 +1,11 @@
 # CHECKPOINT — Bússola Cívica
 
 **Data:** 2026-09-06 · **Fase:** 0 concluída · Fase 1 (Senado) integrada
-**Estado:** backend e site no ar, com design próprio, discursos das duas casas
-visíveis e buscáveis, todo número decomposto até a votação que o compõe, e a
-atualização **rodando sozinha** duas vezes por semana desde 2026-08-25. App
-mobile não iniciado.
+**Estado:** backend e site no ar — **1.553 páginas** —, com design próprio,
+discursos das duas casas buscáveis, todo número decomposto até a votação que o
+compõe, uma página por votação com a chamada nominal, e atualização **rodando
+sozinha** duas vezes por semana desde 2026-08-25. Publicação prevista para a
+semana de 2026-09-08. App mobile não iniciado.
 
 Site: <https://raulmdrs.github.io/bussola-civica/>
 
@@ -40,7 +41,9 @@ repositório, onde é `FONTES.md` que existe — nas páginas publicadas é `/FO
 | 20 | Atualização automatizada | `.github/workflows/acervo.yml` — 2×/semana, custo zero, valida antes de publicar. **Em produção desde 2026-08-25** (§6.8) |
 | 21 | Guarda contra retrocesso | O gerador se recusa a publicar acervo mais velho que o já publicado (§6.9) |
 | 22 | Visualização orbital | SVG estático, **sem JavaScript**, nas duas casas — desenhada para não conseguir expressar a comparação falsa (§6.10) |
-| 23 | Encontrabilidade | `sitemap.xml` de 308 URLs, `robots.txt` e etiquetas de compartilhamento (§6.11) |
+| 23 | Encontrabilidade | `sitemap.xml`, `robots.txt` e etiquetas de compartilhamento (§6.11) |
+| 24 | Página para jornalistas | Como citar, o CSV, e as cinco maneiras de errar com os números (§6.12) |
+| 25 | Votação como página | 1.242 páginas com a chamada nominal — a navegação do voto para as pessoas (§6.13) |
 
 Acervo em **2026-09-06** (banco de 79 MB): Câmara com 6.450 votações, 1.125
 nominais; Senado com 357, das quais 117 abertas. 484.460 votos, 6.619 discursos,
@@ -341,6 +344,22 @@ cartões do celular; e `--eixo-gov` a 0,02 de luminosidade e 5° de matiz do
 
 **Verificado:** `scrollWidth == clientWidth == 360` — nenhuma coluna escondida,
 nenhum scroll horizontal, em qualquer largura ≥ 320px.
+
+#### Data: português onde se lê, ISO onde é dado
+
+`2026-09-03` é ótimo para ordenar e péssimo para ler. Desde 2026-09-06 toda data
+exibida sai como **`03 set 2026`** — home, votações, decomposição, discursos,
+perfis, rodapé e resultados de busca.
+
+O ISO **permaneceu onde é máquina que lê**: `posicoes.csv`, `lastmod` do sitemap
+e os campos crus do `_data/meta.yml`. Trocar ali quebraria quem consome. O rodapé
+ganhou campos próprios já formatados, porque o layout é Liquid e não formata data
+sem plugin.
+
+Os doze meses têm três letras em português, então a coluna continua alinhando em
+fonte monoespaçada — a decomposição tem 545 linhas e depende disso. E
+`dataHumana()` devolve a entrada intacta quando o formato não casa, em vez de
+montar uma data errada com pedaços.
 
 #### Uma família de defeitos que reincide
 
@@ -874,6 +893,100 @@ saindo com o prefixo certo depois da mudança de config.
 
 ---
 
+### 6.12 Página de imprensa, e os dados tabulados
+
+Segundo passo da distribuição (§6.11 foi o primeiro): material para quem já tem
+audiência. O público decidido é **imprensa regional gaúcha**, dentro da janela
+eleitoral de outubro de 2026.
+
+**A seção mais longa da página é "cinco maneiras de errar com estes números"**,
+e ela vem antes de qualquer coisa sobre o que eles dizem. Não é modéstia: um
+repórter que publica "o deputado mais fiel do RS" a partir da coesão erra de um
+jeito que o site não desmente depois, e o erro sai com a assinatura dele. Editor
+decide se confia numa fonte pelo que ela admite.
+
+Os cinco, na ordem de frequência esperada: ler coesão como fidelidade (van
+Hattem 99%, Bohn Gass 98%, direções opostas); comparar coesão entre partidos;
+ler alinhamento como ideologia; comparar Senado com Câmara; usar percentual sem
+o `n`.
+
+A página também declara **o que o site não tem e por quê**, com o motivo de cada
+ausência sendo da fonte e não nossa. E fecha com a frase que resume o que
+oferece: *"um número que você não conseguiu refazer não deveria sair."* Nada de
+institucional — sem "sobre nós", sem missão, sem pedido de apoio.
+
+`dados/posicoes.csv` — 127 linhas, 26 KB, cada parlamentar, eixo e escopo com os
+dois denominadores e o link do perfil. Duas decisões:
+
+- **Sem recorte por tema.** São 744 linhas, várias com `n` pequeno, e num CSV
+  elas perdem o aviso de amostra pequena que a página carrega ao lado.
+- **Decimal com ponto**, não vírgula. Vírgula quebra leitura por script sem
+  garantir a planilha, que depende do idioma dela. A página declara o formato.
+
+#### O domínio virou uma constante
+
+O endereço público estava fixado em quatro lugares. Agora `SITE`, em
+`src/calc/posicoes.ts`, é o único do código: `METODOLOGIA` deriva dela,
+`eixo.metodologia_url` é gravado com o valor, e o gerador já tirava dali a base
+de sitemap, robots, CSV e etiquetas.
+
+O `_config.yml` carrega o roteiro dos três passos que precisam andar juntos —
+`url`/`baseurl`, a constante mais **recálculo das posições**, e o `CNAME`. Sem o
+recálculo, as linhas de `posicao` seguem apontando para o endereço velho; é o
+que a dívida do §11 sempre quis dizer, agora escrito onde alguém vai olhar.
+
+O contato da página é a constante `CONTATO`, vazia. Enquanto estiver, a página
+oferece o repositório e não finge ter canal que não tem.
+
+---
+
+### 6.13 Votação como página — a navegação do voto para as pessoas
+
+O site só ia **da pessoa para o voto**: abre-se o perfil e desce-se até as
+votações. O caminho inverso não existia — e é o que um repórter usa na semana em
+que uma matéria está no jornal, e o que um eleitor pergunta sobre a proposta de
+que ouviu falar.
+
+São **1.242 páginas**, uma por votação com voto individual recuperável: 1.125
+nominais da Câmara e 117 abertas do Senado. **Nada é calculado** — é a chamada
+nominal como a Casa registrou, com o voto normalizado ao lado do código
+original. Nenhuma versão de metodologia mudou, porque nada é derivado.
+
+Só entram votações com chamada. Nas simbólicas e secretas não há o que publicar,
+e uma página vazia afirmaria ausência de posição onde há ausência de registro.
+
+**A decomposição passou a apontar para cá**, não direto para a API: o leitor vê
+quem mais votou aquilo, e o endereço oficial está no alto da página. A cadeia até
+a fonte continua inteira, com um passo a mais que informa.
+
+Na home, as **cinco votações mais recentes**. Responde a primeira dúvida de quem
+chega por link: *isto está vivo?* Site de dados públicos sem data visível é
+indistinguível de um que parou em 2023.
+
+#### Dois defeitos que só a verificação pegou
+
+Ambos teriam ido ao ar na semana da publicação.
+
+**43% das votações tinham título inútil.** 533 de 1.242 com descrição do tipo
+"Mantido o texto." ou "Rejeitado o Requerimento." — o ato votado, não o assunto.
+Todas as 533 têm matéria vinculada, então a matéria foi para o título e o ato
+para o subtítulo, com a data, porque a mesma matéria é votada várias vezes. A
+ementa ganhou seção própria: ela descreve **a matéria**, e a descrição descreve
+**o ato** — quem chega pelo nome de um projeto procura a primeira.
+
+**642 links quebrados para temas sem página.** O site publica página só para os
+12 temas com votação suficiente para sustentar um recorte; os outros 20 da
+classificação oficial existem no acervo e não têm página. Agora só vira link o
+tema que tem página, e o resto fica como texto — a classificação é da fonte e
+continua exibida, só não leva a lugar nenhum.
+
+Uma limitação registrada: **as 117 votações do Senado não têm matéria
+vinculada**, porque a ingestão de lá não liga votação a proposição. A chamada
+nominal está correta; falta o nome da matéria. Recuperável, mas exige
+reconhecimento de fonte novo.
+
+---
+
 ---
 
 ## 7. Números medidos — ingestor × reconhecimento
@@ -1065,11 +1178,11 @@ declarado pela fonte, e há justificativa de voto ali dentro que é posição.
 ## 10. Estado do código
 
 ```
-src/                                    7.912 linhas TypeScript
+src/                                    8.462 linhas TypeScript
   db/schema.ts        872   20 tabelas, comentadas com o achado que as motivou
   db/client.ts         72   node:sqlite via sqlite-proxy + consultar() tipado
   db/migrar.ts         59   aplica migrations, controla em _migrations
-  db/validar.ts       890   83 verificações contra casos de borda reais
+  db/validar.ts       894   83 verificações contra casos de borda reais
   db/integridade.ts   111   5 invariantes do acervo (usados por validar e relatorio)
   lib/http.ts         148   retry, backoff, janelas de data
   lib/normalizar.ts   151   voto, CPF, sigla, data, hoje() em Brasília
@@ -1084,23 +1197,26 @@ src/                                    7.912 linhas TypeScript
   ingest/index.ts     125   CLI
   ingest/incremental.ts 154 CLI da retomada automática, Câmara e Senado
   ingest/horizonte.ts 132   de onde continuar, por etapa — testável, sem rede
-  calc/posicoes.ts    563   dois eixos + evidências, recorte por tema, regime por casa
-  site/gerar.ts      1746   gerador do site — 305 páginas, busca, órbita, sitemap e as três guardas
+  calc/posicoes.ts    576   dois eixos + evidências, recorte por tema, regime por casa, `SITE`
+  site/gerar.ts      2279   gerador do site — 1.553 páginas, busca, órbita, sitemap, CSV e as três guardas
   relatorio.ts        414   verificação do acervo + invariantes
 drizzle/                    8 migrations
 
 .github/workflows/acervo.yml         139  atualização 2×/semana, custo zero (§6.8)
 
-docs/                                    1113 linhas de camada web
-  _layouts/default.html 76  cabeçalho, conteúdo, rodapé e etiquetas de compartilhamento
-  assets/bussola.css   799  folha única, à mão, clara e escura (§6.3)
-  assets/busca.js      238  único script do site, à mão, sem dependência (§6.5)
+docs/                                    1142 linhas de camada web
+  _layouts/default.html 79  cabeçalho, conteúdo, rodapé e etiquetas de compartilhamento
+  assets/bussola.css   812  folha única, à mão, clara e escura (§6.3)
+  assets/busca.js      251  único script do site, à mão, sem dependência (§6.5)
 ```
 
-**305 páginas geradas** e 4 fragmentos de busca. `docs/` ocupa **24 MB** — 13,4
-MB de decomposição da evidência, 6,1 MB de páginas de discurso e 3,2 MB de
-fragmentos de busca. Tudo é reescrito a cada `npm run site`; por página o peso
-é baixo (23 KB pelo fio no pior caso), o volume está no número de páginas.
+**1.553 páginas geradas**, 4 fragmentos de busca e um CSV. `docs/` ocupa
+**32 MB**. Tudo é reescrito a cada `npm run site`; por página o peso é baixo
+(23 KB pelo fio no pior caso), o volume está no número de páginas.
+
+O build do Pages passou de ~2 para **~6 minutos** com as 1.242 páginas de
+votação. Longe de qualquer limite, mas é número novo para observar na próxima
+execução automática.
 
 **Stack:** TypeScript (type-stripping nativo, sem build), Drizzle ORM,
 SQLite via `node:sqlite`. Node **22.6+** (declarado em `engines`, com
@@ -1193,6 +1309,13 @@ se curou na execução seguinte.
 estava no plano desde a Fase 0 e a de maior risco, porque era a única em que o
 princípio podia ser violado por geometria em vez de por texto.
 
+**E a navegação que faltava entrou junto.** Até 2026-09-06 o site só ia da pessoa
+para o voto; agora cada votação tem página com a chamada nominal (§6.13). Não
+estava em nenhuma lista — apareceu ao perguntar o que faltava do ponto de vista
+de quem chega em outubro, e é a peça que mais serve à distribuição, porque um
+e-mail que diz "cada votação da legislatura tem página com a chamada nominal da
+bancada gaúcha" é concreto de um jeito que "temos dois eixos" não é.
+
 **Não sobra peça de trabalho.** Cobertura, rastreabilidade, operação e forma
 estão fechadas. O que resta são duas fases de escopo novo, o que a fonte não
 entrega, dívidas pequenas — e uma lacuna que este documento nunca registrou
@@ -1269,6 +1392,19 @@ conclusão medida, não uma intuição.
 avançam sozinhos —, mas deixou de ser silencioso: o gerador se recusa a
 publicar acervo mais velho que o já publicado.
 
+### Antes de publicar — duas decisões que são suas
+
+**1. O domínio.** `bussolacivica.org.br` e `bussolacivica.org` estavam livres em
+2026-09-06. A troca é uma linha (§6.12) mais o recálculo das posições, e leva
+minutos — mas trocar **depois** de mandar o link para redações é pior do que
+antes. Um `@gmail.com` num e-mail frio para editoria sinaliza projeto pessoal.
+
+**2. O contato.** A página de imprensa oferece só o repositório. Repórter em
+fechamento não abre issue no GitHub: vai desistir ou publicar sem falar. A
+constante `CONTATO` espera um endereço dedicado ao projeto — publicar o pessoal
+numa página enviada a redações traz contato que não é só jornalista, e não se
+despublica.
+
 ### Bloqueado pela fonte, não por nós
 
 Registrado para quando houver fonte — nenhum destes é "fazer depois":
@@ -1320,8 +1456,8 @@ que hoje não tem leitor.
   depende de `fetch` relativo (`../busca/<ano>.json`), que só é testável servindo
   a estrutura real de diretórios — foi preciso montá-la à mão no scratchpad para
   verificar.
-- **`dobrar()` existe em dois lugares** — `src/site/gerar.ts` e
-  `docs/assets/busca.js` — e precisa continuar idêntica nos dois. Não há como
+- **`dobrar()` e `dataHumana()` existem em dois lugares** — `src/site/gerar.ts`
+  e `docs/assets/busca.js` — e precisam continuar idênticas nos dois. Não há como
   compartilhá-la: um é TypeScript sob type-stripping, o outro é script servido
   ao navegador. Se divergirem, a busca deixa de achar o que existe e ninguém
   recebe erro. Está comentado nos dois arquivos; é a dívida mais silenciosa
