@@ -4,6 +4,12 @@
 # `_layouts/default.html` e `assets/bussola.css`. O tema `jekyll-theme-primer`
 # saiu daqui quando o design próprio entrou — manter os dois faria a folha do
 # tema disputar com a nossa.
+# `url` e `baseurl` explícitos: `absolute_url` precisa dos dois para montar o
+# endereço canônico e as etiquetas de compartilhamento. O baseurl é o mesmo que
+# o Pages já usava — conferido contra o HTML publicado antes de declarar.
+url: "https://raulmdrs.github.io"
+baseurl: "/bussola-civica"
+
 title: Bússola Cívica
 description: >-
   Como os números são calculados. Todo dado exibido deriva de fonte oficial

@@ -22,7 +22,9 @@
  * para a fonte.** É a tradução do princípio do projeto para HTML.
  */
 
-import { mkdirSync, writeFileSync, rmSync, readFileSync, existsSync } from "node:fs";
+import {
+  mkdirSync, writeFileSync, rmSync, readFileSync, existsSync, readdirSync,
+} from "node:fs";
 import { join } from "node:path";
 import { DatabaseSync } from "node:sqlite";
 import { gzipSync } from "node:zlib";
@@ -139,6 +141,17 @@ const acervo = um<{
   SELECT (SELECT SUM(nominal) FROM votacao WHERE casa='camara')  nominaisCamara,
          (SELECT COUNT(*)     FROM votacao WHERE casa='senado')  totalSenado,
          (SELECT SUM(secreta) FROM votacao WHERE casa='senado')  secretasSenado`);
+
+/**
+ * Base pública do site, derivada do acervo — não digitada.
+ *
+ * `eixo.metodologia_url` já guarda a URL absoluta da metodologia, gravada pelo
+ * cálculo das posições. A base do site é ela sem o último trecho. Assim o
+ * `sitemap.xml`, o `robots.txt` e as etiquetas de compartilhamento saem do
+ * mesmo lugar de onde sai o rodapé — e trocar de domínio continua sendo uma
+ * mudança só, como o CHECKPOINT registra nas dívidas.
+ */
+const BASE_SITE = metodologia.url.replace(/metodologia\/?$/, "").replace(/\/$/, "");
 
 const abertasSenado = acervo.totalSenado - acervo.secretasSenado;
 const sigiloSenado = Math.round((acervo.secretasSenado / acervo.totalSenado) * 100);
@@ -1419,6 +1432,57 @@ function escrever(caminho: string, conteudo: string) {
 }
 
 /**
+ * `sitemap.xml` e `robots.txt`.
+ *
+ * O sitemap é varrido do que foi escrito, não de uma lista à mão: são 305
+ * páginas e uma lista digitada envelheceria no primeiro parlamentar novo —
+ * o mesmo motivo pelo qual a home passou a ser gerada.
+ *
+ * `lastmod` é a data do acervo, não o mtime do arquivo. No CI todo arquivo é
+ * recém-escrito, e mtime diria "tudo mudou agora" em toda execução. A data do
+ * acervo é o que de fato determina o conteúdo.
+ */
+function escreverSitemap() {
+  const urls: string[] = [];
+  const varrer = (dir: string) => {
+    for (const item of readdirSync(join(SAIDA, dir), { withFileTypes: true })) {
+      if (item.name.startsWith("_") || item.name === "busca") continue;
+      const rel = dir ? `${dir}/${item.name}` : item.name;
+      if (item.isDirectory()) varrer(rel);
+      else if (item.name === "index.md") urls.push(dir ? `${dir}/` : "");
+      else if (item.name.endsWith(".md") && item.name !== "CHECKPOINT.md") {
+        urls.push(rel.replace(/\.md$/, ""));
+      }
+    }
+  };
+  varrer("");
+
+  const corpo =
+    `<?xml version="1.0" encoding="UTF-8"?>\n` +
+    `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n` +
+    urls
+      .sort()
+      .map(
+        (u) =>
+          `  <url><loc>${BASE_SITE}/${u}</loc>` +
+          `<lastmod>${periodo.fim}</lastmod></url>\n`,
+      )
+      .join("") +
+    `</urlset>\n`;
+  writeFileSync(join(SAIDA, "sitemap.xml"), corpo);
+
+  writeFileSync(
+    join(SAIDA, "robots.txt"),
+    `# Bússola Cívica — dados públicos, derivados de fontes oficiais.\n` +
+      `# Nada aqui é privado, e o acervo inteiro é reconstruível da origem.\n` +
+      `User-agent: *\n` +
+      `Allow: /\n\n` +
+      `Sitemap: ${BASE_SITE}/sitemap.xml\n`,
+  );
+  return urls.length;
+}
+
+/**
  * Metadados do rodapé, para o layout. Escritos aqui, a partir do banco, na
  * mesma execução que escreve as páginas: rodapé mantido à mão desvia em
  * silêncio, e o dia em que desviar o site vai afirmar que os números foram
@@ -1562,10 +1626,13 @@ for (const p of senadores) {
 escrever("temas", gerarIndiceTemas(temas));
 for (const t of temas) escrever(`temas/${slug(t.nome)}`, gerarTema(t.nome, t.id));
 
+const urlsNoSitemap = escreverSitemap();
+
 console.log(`site gerado em ${SAIDA}/`);
 console.log(`  ${parlamentares.length} deputados · ${senadores.length} senadores · ${temas.length} temas · 3 índices`);
 console.log(`  ${paginasDeDiscurso} páginas de discurso (uma por parlamentar e ano)`);
 console.log(`  ${paginasDeEvidencia} páginas de evidência (uma por parlamentar, eixo e escopo)`);
+console.log(`  sitemap: ${urlsNoSitemap} URLs · robots.txt · base ${BASE_SITE}`);
 console.log(`  busca: ${busca.anos.length} fragmentos, ${(busca.bytes / 1024 / 1024).toFixed(1)} MB antes do gzip`);
 console.log(`  período ${periodo.ini} → ${periodo.fim} · metodologia ${metodologia.versao}`);
 

@@ -6,7 +6,26 @@
 {% comment %} Na home o sufixo repetiria o próprio título. {% endcomment %}
 <title>{% if page.title == site.title %}{{ site.title }}{% else %}{{ page.title }} · {{ site.title }}{% endif %}</title>
 {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+<link rel="canonical" href="{{ page.url | absolute_url }}">
 <link rel="stylesheet" href="{{ '/assets/bussola.css' | relative_url }}">
+
+{% comment %}
+  Etiquetas de compartilhamento. Sem elas, um link colado no WhatsApp ou no
+  Slack aparece como URL crua — o que valia para as 305 páginas até aqui.
+
+  **Sem imagem, e é deliberado.** Cartão com imagem exige PNG ou JPEG; SVG não
+  é aceito pelas plataformas, e não há rasterizador no projeto nem vale trazer
+  um. `summary` mostra título, descrição e domínio, que é o que este site tem
+  a dizer de si. Imagem inventada seria enfeite; imagem com número seria número
+  sem `n` e sem link para a fonte, o que a regra do §6.3 proíbe.
+{% endcomment %}
+<meta property="og:type" content="{% if page.url == '/' %}website{% else %}article{% endif %}">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:title" content="{% if page.title == site.title %}{{ site.title }}{% else %}{{ page.title }}{% endif %}">
+{% if page.description %}<meta property="og:description" content="{{ page.description }}">{% endif %}
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta name="twitter:card" content="summary">
 </head>
 <body>
 <a class="pular" href="#conteudo">Pular para o conteúdo</a>

@@ -1,0 +1,6 @@
+# Bússola Cívica — dados públicos, derivados de fontes oficiais.
+# Nada aqui é privado, e o acervo inteiro é reconstruível da origem.
+User-agent: *
+Allow: /
+
+Sitemap: https://raulmdrs.github.io/bussola-civica/sitemap.xml
