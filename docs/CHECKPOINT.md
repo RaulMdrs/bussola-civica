@@ -1,6 +1,6 @@
 # CHECKPOINT — Bússola Cívica
 
-**Data:** 2026-08-19 · **Fase:** 0 concluída · Fase 1 (Senado) integrada
+**Data:** 2026-09-06 · **Fase:** 0 concluída · Fase 1 (Senado) integrada
 **Estado:** backend e site no ar, com design próprio, discursos das duas casas
 visíveis e buscáveis, todo número decomposto até a votação que o compõe, e a
 atualização **rodando sozinha** duas vezes por semana desde 2026-08-25. App
@@ -40,10 +40,16 @@ repositório, onde é `FONTES.md` que existe — nas páginas publicadas é `/FO
 | 20 | Atualização automatizada | `.github/workflows/acervo.yml` — 2×/semana, custo zero, valida antes de publicar. **Em produção desde 2026-08-25** (§6.8) |
 | 21 | Guarda contra retrocesso | O gerador se recusa a publicar acervo mais velho que o já publicado (§6.9) |
 
-Banco atual: **78 MB**. Câmara: 6.291 votações (1.117 nominais), 452.356 votos.
-Senado: 355 votações (116 abertas), 28.755 votos. 34 parlamentares com perfil
-completo — 31 deputados e 3 senadores —, 871 posições e 86.321 evidências.
-**6.568 discursos**: 5.851 da Câmara e 717 do Senado.
+Acervo em **2026-09-06** (banco de 79 MB): Câmara com 6.450 votações, 1.125
+nominais; Senado com 357, das quais 117 abertas. 484.460 votos, 6.619 discursos,
+871 posições e 87.244 evidências — 5.902 discursos da Câmara e 717 do Senado.
+34 parlamentares com perfil completo: 31 deputados e 3 senadores.
+
+> **Todo número deste documento é uma medição datada, não um fato corrente.**
+> Desde 2026-08-25 a Action atualiza o acervo duas vezes por semana, então
+> qualquer contagem escrita aqui envelhece em dias. O que não envelhece é a
+> forma de refazê-la: `npm run relatorio` recalcula tudo a partir do banco e
+> compara com o reconhecimento. **A fonte é o acervo; isto aqui é registro.**
 
 O acervo foi **reconstruído do zero** em 2026-08-07 (91 min, ~9.700 operações) e
 reproduziu exatamente os totais estruturais da coleta anterior — 1.112 nominais,
@@ -752,25 +758,23 @@ Validação original, no 1º semestre de 2025 (recorte do reconhecimento):
 
 | | |
 |---|---|
-| **Cobertura** (até onde se olhou) | 2023-02-01 → 2026-08-18 |
-| **Votações** (primeira → última sessão) | Câmara 2023-02-07 → 2026-07-15 · Senado → 2026-08-12 |
-| Votações — Câmara | 6.291 (1.117 nominais, 5.174 simbólicas) |
-| Votações — Senado | 355 (116 abertas, 239 secretas) |
+| **Cobertura** (até onde se olhou) | 2023-02-01 → 2026-09-06 |
+| **Votações** (primeira → última sessão) | Câmara 2023-02-07 → 2026-09-03 |
+| Votações — Câmara | 6.450 (1.125 nominais) |
+| Votações — Senado | 357 (117 abertas, 240 secretas) |
 | Taxa de nominais (Câmara) | **17,8%** |
 | Taxa de sigilo (Senado) | **67,3%** — só as abertas são apuráveis |
-| Votos individuais | 481.111, de 746 parlamentares (452.126 computáveis) |
+| Votos individuais | 484.460, de 746 parlamentares (454.900 computáveis) |
 | Natureza das nominais (Câmara) | mérito 571, procedimental 536, formal 10 |
-| Proposições / vínculos de tema | 646 / 906 |
+| Proposições / vínculos de tema | 653 / 923 |
 | Nominais vinculadas à matéria | 1.116/1.117 (99,9%); com tema 1.110 (99,4%) |
-| Discursos | **6.568** (5.601 substantivos) — 5.851 Câmara, 717 Senado |
+| Discursos | **6.619** (5.714 substantivos) |
 | Posições | 871 · destas 127 gerais (34 parlamentares × eixos × escopos) e 744 por tema |
-| Evidências | 86.321 |
-| Coleta | 10.582 operações (acumulado), 166 falhas |
+| Evidências | 87.244 |
+| Coleta | 11.058 operações (acumulado), 166 falhas |
 
-> Estes números são de 2026-08-19 e mudam a cada `ingerir:incremental`. O que
-> não muda é a forma de conferi-los: `npm run relatorio` os recalcula do acervo
-> e os compara com o reconhecimento. Número aqui é registro do que foi medido,
-> não fonte da verdade — a fonte é o banco.
+> Medidos em **2026-09-06**. A Action os move duas vezes por semana; conferir é
+> `npm run relatorio`. Ver a ressalva do §1.
 
 > **Cobertura e votação não são a mesma data.** O acervo foi varrido até
 > 2026-08-07, mas a última sessão com votação em plenário é de 2026-07-15 —
@@ -894,7 +898,7 @@ Honestamente: o que está no schema mas **não é populado**, e o que não foi f
 | ~~`proposicao` / `proposicao_tema`~~ | ✅ **resolvido e conferido contra a origem** (§7.2) — 646 proposições, 1.116/1.117 nominais vinculadas, 1.110 com tema, zero divergências | Eixos temáticos da Fase 2 destravados |
 | ~~`partido_alias`~~ | ✅ **populada** pela etapa `tse` | O caso previsto apareceu: "PC do B" (TSE) → "PCdoB" (Câmara), 1 alias |
 | ~~Integração TSE~~ | ✅ **implementada** — etapa `tse`, 546 candidaturas de 2022, 31/31 cruzadas | `identidade_externa` tem `SQ_CANDIDATO` por eleição. O CPF passou a ser guardado como HMAC (§8) |
-| ~~Senado~~ | ✅ **integrado** — 355 votações, 116 abertas, 3 senadores, 717 discursos | Só coesão partidária: não há orientação de bancada em dados abertos, então o eixo 1 não é calculável lá (§8). Sem CPF na origem, senador não cruza com o TSE |
+| ~~Senado~~ | ✅ **integrado** — 357 votações, 117 abertas, 3 senadores, 717 discursos | Só coesão partidária: não há orientação de bancada em dados abertos, então o eixo 1 não é calculável lá (§8). Sem CPF na origem, senador não cruza com o TSE |
 | ~~Discursos do Senado~~ | ✅ **coletados e exibidos** — 717, classificados pela própria fonte (§6.7) | Era a última lacuna "desconhecida". A janela de 12 meses da origem está mapeada e contornada |
 | ~~Período coletado~~ | ✅ **resolvido** — legislatura 57 varrida até 2026-08-08 | Restam as sessões até 2027-01-31, via `npm run ingerir:incremental` |
 | ~~Votação parcialmente escrita~~ | ✅ **resolvido** — transação em `ingerirVotacoes` (§8) | O invariante "nominal sem voto gravado" detecta o estado, caso volte a ocorrer |
@@ -920,7 +924,7 @@ declarado pela fonte, e há justificativa de voto ali dentro que é posição.
 ## 10. Estado do código
 
 ```
-src/                                    7.497 linhas TypeScript
+src/                                    7.563 linhas TypeScript
   db/schema.ts        872   20 tabelas, comentadas com o achado que as motivou
   db/client.ts         72   node:sqlite via sqlite-proxy + consultar() tipado
   db/migrar.ts         59   aplica migrations, controla em _migrations
@@ -933,7 +937,7 @@ src/                                    7.497 linhas TypeScript
   lib/zip.ts           83   leitor mínimo de ZIP, sem dependência
   lib/identidade.ts    64   HMAC do CPF — por que hash puro não serve
   ingest/camara.ts    271   cliente tipado da API (dataFim exclusivo)
-  ingest/senado.ts    538   cliente + ingestão; votação e discurso; janela de 1 ano
+  ingest/senado.ts    560   cliente + ingestão; votação e discurso; janela de 1 ano
   ingest/tse.ts       275   candidaturas 2022 via CSV, cruzadas por HMAC
   ingest/pipeline.ts 1042   7 etapas; votação+votos em transação; filiação substitui
   ingest/index.ts     125   CLI
@@ -946,10 +950,10 @@ drizzle/                    8 migrations
 
 .github/workflows/acervo.yml         139  atualização 2×/semana, custo zero (§6.8)
 
-docs/                                    1022 linhas de camada web
+docs/                                    1025 linhas de camada web
   _layouts/default.html 57  cabeçalho, conteúdo, rodapé lido de _data/meta.yml
-  assets/bussola.css   729  folha única, à mão, clara e escura (§6.3)
-  assets/busca.js      236  único script do site, à mão, sem dependência (§6.5)
+  assets/bussola.css   730  folha única, à mão, clara e escura (§6.3)
+  assets/busca.js      238  único script do site, à mão, sem dependência (§6.5)
 ```
 
 **305 páginas geradas** e 4 fragmentos de busca. `docs/` ocupa **24 MB** — 13,4
