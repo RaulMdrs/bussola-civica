@@ -940,7 +940,7 @@ src/                                    7.497 linhas TypeScript
   ingest/incremental.ts 154 CLI da retomada automática, Câmara e Senado
   ingest/horizonte.ts 132   de onde continuar, por etapa — testável, sem rede
   calc/posicoes.ts    563   dois eixos + evidências, recorte por tema, regime por casa
-  site/gerar.ts      1391   gerador do site — 305 páginas, busca, guarda da decomposição e do retrocesso
+  site/gerar.ts      1397   gerador do site — 305 páginas, busca, guarda da decomposição e do retrocesso
   relatorio.ts        414   verificação do acervo + invariantes
 drizzle/                    8 migrations
 
