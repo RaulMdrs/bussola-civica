@@ -1096,6 +1096,151 @@ function gerarTema(tema: string, temaId: number): string {
   return md;
 }
 
+
+// ---------------------------------------------------------------------------
+// Órbita — o panorama da bancada
+//
+// Estava no plano original como "visualização orbital", e o risco dela nunca
+// foi técnico: é a única forma de exibição em que o **eixo 2 mente sozinho**.
+//
+// Marcel van Hattem (NOVO) tem 99% de coesão; Bohn Gass (PT), 98%. Num
+// espalhamento 2D com coesão no eixo Y, os dois ficam colados — e proximidade
+// lê-se como semelhança, sem que ninguém tenha escrito uma frase falsa. São
+// 99% de fidelidade ao NOVO contra 98% ao PT: mesmo número, política oposta.
+//
+// A saída não foi avisar; foi **tornar a comparação inexprimível**:
+//
+//  1. **Uma faixa por partido.** Coesão só é comparável dentro da mesma
+//     legenda, porque a referência dela é a maioria daquele partido. Em faixas
+//     separadas, ninguém compara a coesão de dois partidos por acidente.
+//  2. **Coesão não ocupa eixo nenhum.** Vira o raio da órbita de cada corpo —
+//     atributo da marca, não posição num espaço compartilhado. Dois pontos com
+//     órbita do mesmo tamanho em faixas diferentes não sugerem nada.
+//  3. **Só o alinhamento é posição**, e essa comparação é legítima: a
+//     referência é a mesma para todos, a orientação declarada do Governo.
+//
+// SVG estático, gerado aqui. **Sem JavaScript** — funciona sem script, em
+// impressão e em leitor de tela, e cada corpo é um link para o perfil. A busca
+// precisou de script porque casar texto exige o texto do lado do leitor; um
+// panorama de 31 pontos, não.
+
+interface Corpo {
+  nome: string;
+  sigla: string;
+  alinhamento: number;
+  coesao: number;
+  n: number;
+}
+
+const corposDaBancada = () =>
+  todos<Corpo>(
+    `SELECT p.nome_parlamentar nome, COALESCE(pt.sigla, '—') sigla,
+            MAX(CASE WHEN e.chave = 'alinhamento_governo' THEN po.valor END) alinhamento,
+            MAX(CASE WHEN e.chave = 'coesao_partidaria'   THEN po.valor END) coesao,
+            MAX(CASE WHEN e.chave = 'alinhamento_governo' THEN po.n_observacoes END) n
+     FROM posicao po
+     JOIN eixo e ON e.id = po.eixo_id
+     JOIN politico p ON p.id = po.politico_id
+     JOIN mandato m ON m.politico_id = p.id AND m.casa = 'camara'
+     LEFT JOIN filiacao f ON f.politico_id = p.id AND f.data_fim IS NULL
+     LEFT JOIN partido pt ON pt.id = f.partido_id
+     WHERE po.tema_id IS NULL AND po.escopo = 'merito'
+       AND po.periodo_inicio = ? AND po.periodo_fim = ?
+     GROUP BY p.id`,
+    periodo.ini,
+    periodo.fim,
+  );
+
+/**
+ * O rótulo é o **nome parlamentar inteiro**, como a Câmara o publica.
+ *
+ * A primeira versão cortava para o sobrenome, e inventava dois problemas: o
+ * acervo tem "Mauricio Marcon" (PL) e "Marcon" (PT), que viravam o mesmo
+ * rótulo; e "Covatti Filho" virava "Filho", que não é sobrenome de ninguém.
+ * Como cada parlamentar tem sua própria linha, o nome cabe — e nome oficial
+ * não se abrevia por conveniência de layout.
+ */
+
+function gerarOrbita(): string {
+  const corpos = corposDaBancada().filter((c) => c.alinhamento != null && c.coesao != null);
+  if (!corpos.length) return "";
+
+  const porPartido = new Map<string, Corpo[]>();
+  for (const c of corpos) {
+    if (!porPartido.has(c.sigla)) porPartido.set(c.sigla, []);
+    porPartido.get(c.sigla)!.push(c);
+  }
+  // Ordem alfabética da sigla. Ordenar por valor faria ranking de partido, que
+  // este projeto não produz — e a média de duas pessoas não é posição de legenda.
+  const partidos = [...porPartido.entries()].sort((a, b) => a[0].localeCompare(b[0], "pt-BR"));
+
+  const ESQ = 104;   // calha da sigla
+  const DIR = 30;
+  const L = 900;
+  const x0 = ESQ;
+  const x1 = L - DIR;
+  const TOPO = 52;
+  const LINHA = 30;  // uma linha por parlamentar — nada se empilha
+  const GRUPO = 14;  // respiro entre partidos
+  const px = (v: number) => x0 + v * (x1 - x0);
+  /** Raio da órbita: o quanto o voto se afasta da maioria da própria bancada. */
+  const raio = (coesao: number) => 3.5 + (1 - coesao) * 24;
+
+  const H =
+    TOPO + partidos.reduce((n, [, m]) => n + m.length * LINHA + GRUPO, 0) + 16;
+
+  let svg = `<svg class="orbita" viewBox="0 0 ${L} ${H}" role="img" `;
+  svg += `aria-label="Panorama da bancada gaúcha: alinhamento com o governo na horizontal, `;
+  svg += `e a órbita de cada parlamentar em torno da maioria do próprio partido. `;
+  svg += `Os mesmos números estão na tabela abaixo.">\n`;
+
+  svg += `<g class="regua">\n`;
+  for (let v = 0; v <= 100; v += 25) {
+    const x = px(v / 100).toFixed(1);
+    svg += `<line x1="${x}" y1="${TOPO - 14}" x2="${x}" y2="${H - 12}" class="grade"/>\n`;
+    svg += `<text x="${x}" y="${TOPO - 22}" class="tick">${v}%</text>\n`;
+  }
+  svg += `<text x="${x0}" y="20" class="eixo-rot">alinhamento com o governo federal, no mérito →</text>\n`;
+  svg += `</g>\n`;
+
+  let y = TOPO + 6;
+  for (const [sigla, membros] of partidos) {
+    const ordenados = [...membros].sort((a, b) => b.alinhamento - a.alinhamento);
+    const yIni = y;
+
+    ordenados.forEach((c, k) => {
+      const cy = y + k * LINHA + LINHA / 2;
+      const cx = px(c.alinhamento);
+      const r = raio(c.coesao);
+      // Rótulo do lado que sobra: à direita de quem está à esquerda, e
+      // vice-versa. Assim nunca sai do quadro nem cobre o próprio corpo.
+      const aDireita = c.alinhamento < 0.62;
+      const lx = aDireita ? cx + r + 8 : cx - r - 8;
+      const ancora = aDireita ? "start" : "end";
+
+      svg += `<a href="${slug(c.nome)}/">\n`;
+      svg += `<title>${esc(c.nome)} (${esc(c.sigla)}) — alinhamento ${pct(c.alinhamento)}%, `;
+      svg += `coesão com o próprio partido ${pct(c.coesao)}%, apurados em ${c.n} votações</title>\n`;
+      svg += `<circle cx="${cx.toFixed(1)}" cy="${cy.toFixed(1)}" r="${r.toFixed(1)}" class="orbe"/>\n`;
+      svg += `<circle cx="${cx.toFixed(1)}" cy="${cy.toFixed(1)}" r="2.8" class="corpo"/>\n`;
+      svg += `<text x="${lx.toFixed(1)}" y="${(cy + 4).toFixed(1)}" `;
+      svg += `text-anchor="${ancora}" class="rotulo">${esc(c.nome)}</text>\n`;
+      svg += `</a>\n`;
+    });
+
+    const yFim = y + ordenados.length * LINHA;
+    // Chave do partido: agrupa sem sugerir posição de legenda.
+    svg += `<line x1="${ESQ - 14}" y1="${yIni + 6}" x2="${ESQ - 14}" y2="${yFim - 6}" class="chave"/>\n`;
+    svg += `<text x="${ESQ - 22}" y="${((yIni + yFim) / 2 + 4).toFixed(1)}" class="sigla-faixa">`;
+    svg += `${esc(sigla)}</text>\n`;
+
+    y = yFim + GRUPO;
+  }
+
+  svg += `</svg>\n`;
+  return svg;
+}
+
 function gerarIndiceParlamentares(): string {
   let md = frontMatter(
     "Deputados federais do Rio Grande do Sul",
@@ -1105,6 +1250,36 @@ function gerarIndiceParlamentares(): string {
   md += `# Deputados federais do Rio Grande do Sul\n\n`;
   md += `<p class="subtitulo">${parlamentares.length} parlamentares da legislatura 57, `;
   md += `em ordem alfabética. A ordem é navegação, não classificação.</p>\n\n`;
+
+  md += `<div class="orbita-quadro">\n${gerarOrbita()}</div>\n\n`;
+  md += `<p class="orbita-dica">O panorama acima rola para o lado — ou role a\n`;
+  md += `página até a tabela, que traz os mesmos números em texto.</p>\n\n`;
+  md += `**Como ler.** Cada corpo é um parlamentar; a posição horizontal é o\n`;
+  md += `alinhamento com o governo, e essa comparação vale entre todos, porque a\n`;
+  md += `referência é a mesma — a orientação declarada do Governo. **A órbita ao\n`;
+  md += `redor é outra coisa**: mede o quanto o voto se afasta da maioria da\n`;
+  md += `própria bancada. Órbita pequena é quem quase nunca destoa dos seus.\n\n`;
+
+  md += `> **Por isso cada partido tem sua faixa.** Coesão só significa alguma\n`;
+  md += `> coisa dentro da mesma legenda: a referência dela é a maioria daquele\n`;
+  md += `> partido, e são maiorias diferentes. Marcel van Hattem tem 99% de coesão\n`;
+  md += `> com o NOVO e Bohn Gass tem 98% com o PT — órbitas quase idênticas, e\n`;
+  md += `> política oposta. Num gráfico que pusesse coesão num eixo, os dois\n`;
+  md += `> ficariam colados, e a proximidade diria algo falso sem que ninguém\n`;
+  md += `> tivesse escrito uma frase falsa.\n\n`;
+
+  // A regra do §6.3 diz que o `n` nunca é tooltip. Num gráfico não há número
+  // impresso para acompanhar, então ele entra em prosa, com a amplitude real —
+  // e a tabela logo abaixo traz o de cada um, linha a linha.
+  const ns = corposDaBancada().map((c) => c.n).filter((n) => n != null);
+  if (ns.length) {
+    md += `**O gráfico não mostra o \`n\`**, e nenhum ponto deve ser lido sem\n`;
+    md += `ele: os denominadores vão de **${Math.min(...ns)} a ${Math.max(...ns)}\n`;
+    md += `votações**, porque cada parlamentar é medido só no seu período de\n`;
+    md += `exercício. O \`n\` de cada um está na tabela abaixo e no perfil — e\n`;
+    md += `aparece ao passar o cursor sobre o corpo, que é acréscimo, não\n`;
+    md += `substituto.\n\n`;
+  }
 
   md += `> **Estas duas colunas não se comparam entre si e não ordenam ninguém.**\n`;
   md += `> Alinhamento mede coincidência com a orientação declarada pela liderança do\n`;

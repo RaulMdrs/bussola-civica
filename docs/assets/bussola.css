@@ -586,6 +586,67 @@ tr:has(.aviso-n) td { background-image: repeating-linear-gradient(
   tr:has(.aviso-n) { border-color: var(--aviso-fio); border-width: 2px; }
 }
 
+/* ---------- Órbita — panorama da bancada --------------------- */
+/* Nenhuma cor identifica pessoa, partido ou valor: tudo é tinta e fio.
+   A única variação é o RAIO, e ele mede distância da própria bancada. */
+.orbita {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 0 var(--e5);
+  overflow: visible;
+}
+.orbita .grade { stroke: var(--fio); stroke-width: 1; }
+.orbita .chave { stroke: var(--fio-forte); stroke-width: 1.5; }
+.orbita .tick {
+  fill: var(--tinta-2); text-anchor: middle;
+  font: 500 13px var(--f-mono); font-variant-numeric: tabular-nums;
+}
+.orbita .eixo-rot {
+  fill: var(--tinta-2);
+  font: 600 13px var(--f-ui); letter-spacing: .04em; text-transform: uppercase;
+}
+.orbita .sigla-faixa {
+  fill: var(--tinta); text-anchor: end;
+  font: 600 13px var(--f-ui); letter-spacing: .04em;
+}
+/* A órbita: anel, não disco. Disco cheio pesaria como "quantidade". */
+.orbita .orbe {
+  fill: none; stroke: var(--fio-forte); stroke-width: 1.5;
+}
+.orbita .corpo { fill: var(--tinta); }
+/* Sem `text-anchor` aqui: cada rótulo declara o seu no atributo, e CSS
+   venceria o atributo de apresentação — foi o que punha o nome em cima do
+   próprio corpo. A âncora depende do lado em que o rótulo cabe. */
+.orbita .rotulo {
+  fill: var(--tinta-2);
+  font: 500 12px var(--f-ui);
+}
+.orbita a:hover .orbe,
+.orbita a:focus-visible .orbe { stroke: var(--tinta); stroke-width: 2.5; }
+.orbita a:hover .rotulo,
+.orbita a:focus-visible .rotulo { fill: var(--tinta); font-weight: 700; }
+.orbita a:focus-visible { outline: 2px solid var(--foco); outline-offset: 2px; }
+
+/* Abaixo de 700px o SVG fica ilegível encolhido; rola dentro do próprio
+   quadro, que é a exceção que a regra de "sem scroll horizontal" admite —
+   o documento não rola, o gráfico rola. */
+@media (max-width: 700px) {
+  .orbita-quadro {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    margin: 0 0 var(--e4);
+    border: 1px solid var(--fio);
+    padding: var(--e2) 0;
+  }
+  .orbita-quadro .orbita { width: 860px; }
+  .orbita-dica {
+    font: var(--t-peq)/1.5 var(--f-ui); color: var(--tinta-2);
+    margin: 0 0 var(--e5);
+  }
+}
+@media (min-width: 701px) { .orbita-dica { display: none; } }
+
 /* ---------- 8. Barras de proporção (páginas de tema) --------- */
 /* Substituem os caracteres █ e ·. Uma barra é proporção, não nota:
    um tom só, sem escala de cor, com marca de 50% para leitura. */
