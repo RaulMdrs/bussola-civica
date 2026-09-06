@@ -13,6 +13,23 @@ description: "Como parlamentares votam, a partir de fontes oficiais rastreáveis
 > Todo dado exibido deriva de fonte oficial e carrega link para ela. O
 > usuário tira a conclusão.
 
+## O que foi votado por último
+
+| Data | Votação | Casa |
+|---|---|---|
+| 2026-09-03 | [PLP 74/2026 — Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar n](./votacoes/2611313-31/) | <span class="escopo">Câmara</span> |
+| 2026-09-03 | [Votação nominal do Projeto de Lei Complementar nº 74, de 2026, nos termos do par](./votacoes/7105/) | <span class="escopo">Senado</span> |
+| 2026-09-02 | [PDL 995/2026 — Aprovado o Projeto de Decreto Legislativo nº 995, de 2026 (Aprova](./votacoes/2645346-18/) | <span class="escopo">Câmara</span> |
+| 2026-09-01 | [PL 4921/2026 — Aprovado o Requerimento de Urgência (Art. 155 do RICD).](./votacoes/2643915-8/) | <span class="escopo">Câmara</span> |
+| 2026-08-12 | [PLP 230/2025 — Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de](./votacoes/2580259-24/) | <span class="escopo">Câmara</span> |
+{: .t-recentes}
+
+[Todas as 1.242 votações com chamada nominal →](./votacoes/)
+
+O acervo é atualizado **duas vezes por semana**, automaticamente. A
+última sessão com votação registrada aqui é de
+**2026-09-03**.
+
 ## [Deputados federais do Rio Grande do Sul →](./parlamentares/)
 
 Os **31 deputados federais** da legislatura

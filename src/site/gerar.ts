@@ -1830,7 +1830,10 @@ function gerarIndiceParlamentares(): string {
  * Escritos à mão, ficariam certos no dia e errados na semana seguinte, sem
  * ninguém perceber. A prosa é fixa; só os números vêm do banco.
  */
-function gerarHome(temas: { id: number; nome: string }[]): string {
+function gerarHome(
+  temas: { id: number; nome: string }[],
+  votacoes: VotacaoPagina[],
+): string {
   let md = frontMatter(
     "Bússola Cívica",
     "Como parlamentares votam, a partir de fontes oficiais rastreáveis.",
@@ -1844,6 +1847,34 @@ function gerarHome(temas: { id: number; nome: string }[]): string {
   md += `> **Princípio inegociável:** nunca rotular político por conta própria.\n`;
   md += `> Todo dado exibido deriva de fonte oficial e carrega link para ela. O\n`;
   md += `> usuário tira a conclusão.\n\n`;
+
+  /**
+   * As últimas votações, no alto.
+   *
+   * Responde a primeira dúvida de quem chega por um link: **isto está vivo?**
+   * Um site de dados públicos sem data visível é indistinguível de um que
+   * parou em 2023, e a data mais recente é a única prova barata de que não.
+   *
+   * O acervo é atualizado duas vezes por semana, então este bloco se move
+   * sozinho — nada aqui é escrito à mão.
+   */
+  const recentes = votacoes.slice(0, 5);
+  if (recentes.length) {
+    md += `## O que foi votado por último\n\n`;
+    md += `| Data | Votação | Casa |\n|---|---|---|\n`;
+    for (const v of recentes) {
+      const { texto } = partirDescricao(v.descricao);
+      const nome = v.proposicao ? `${v.proposicao} — ${umaLinha(texto)}` : umaLinha(texto);
+      md += `| ${esc(v.data)} `;
+      md += `| [${esc(nome.slice(0, 80))}](./votacoes/${v.idExterno}/) `;
+      md += `| <span class="escopo">${v.casa === "camara" ? "Câmara" : "Senado"}</span> |\n`;
+    }
+    md += `{: .t-recentes}\n\n`;
+    md += `[Todas as ${milhar(votacoes.length)} votações com chamada nominal →](./votacoes/)\n\n`;
+    md += `O acervo é atualizado **duas vezes por semana**, automaticamente. A\n`;
+    md += `última sessão com votação registrada aqui é de\n`;
+    md += `**${recentes[0]!.data}**.\n\n`;
+  }
 
   md += `## [Deputados federais do Rio Grande do Sul →](./parlamentares/)\n\n`;
   md += `Os **${parlamentares.length} deputados federais** da legislatura\n`;
@@ -2154,13 +2185,14 @@ for (const t of temas) TEMAS_COM_PAGINA.add(t.nome);
 
 escreverMeta();
 
-escrever("", gerarHome(temas));
+const votacoes = votacoesApuraveis();
+
+escrever("", gerarHome(temas, votacoes));
 
 const busca = escreverFragmentosDeBusca();
 escrever("discursos", gerarBusca(busca));
 escrever("imprensa", gerarImprensa());
 
-const votacoes = votacoesApuraveis();
 escrever("votacoes", gerarIndiceVotacoes(votacoes, null));
 for (const ano of [...new Set(votacoes.map((v) => v.data.slice(0, 4)))]) {
   escrever(`votacoes/${ano}`, gerarIndiceVotacoes(votacoes, ano));
