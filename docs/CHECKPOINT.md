@@ -39,6 +39,7 @@ repositório, onde é `FONTES.md` que existe — nas páginas publicadas é `/FO
 | 19 | Discursos do Senado | etapa `senado` — 717 pronunciamentos, classificados **pela própria fonte** (§6.7) |
 | 20 | Atualização automatizada | `.github/workflows/acervo.yml` — 2×/semana, custo zero, valida antes de publicar. **Em produção desde 2026-08-25** (§6.8) |
 | 21 | Guarda contra retrocesso | O gerador se recusa a publicar acervo mais velho que o já publicado (§6.9) |
+| 22 | Visualização orbital | SVG estático, **sem JavaScript** — desenhada para não conseguir expressar a comparação falsa (§6.10) |
 
 Acervo em **2026-09-06** (banco de 79 MB): Câmara com 6.450 votações, 1.125
 nominais; Senado com 357, das quais 117 abertas. 484.460 votos, 6.619 discursos,
@@ -738,6 +739,60 @@ dispara (305 páginas no lugar) e que o determinismo se mantém depois dela.
 
 ---
 
+### 6.10 Órbita — desenhada para não conseguir mentir
+
+Estava no plano original desde a Fase 0, e era a peça de maior risco do
+projeto: **o eixo 2 é o único que mente sozinho.**
+
+Marcel van Hattem tem 99% de coesão com o NOVO; Bohn Gass, 98% com o PT. Num
+espalhamento 2D com coesão no eixo Y, os dois ficam colados — e proximidade
+lê-se como semelhança, sem que ninguém tenha escrito uma frase falsa. Mesmo
+número, política oposta. É a única forma de exibição em que o princípio do
+projeto pode ser violado **por geometria**, não por texto.
+
+A saída não foi avisar em legenda. Foi tornar a comparação **inexprimível**:
+
+| Decisão | O que ela impede |
+|---|---|
+| **Uma faixa por partido** | Coesão só significa algo dentro da mesma legenda, porque a referência é a maioria daquele partido. Em grupos separados, ninguém compara coesão entre partidos por acidente |
+| **Coesão não ocupa eixo** — vira o raio da órbita | Atributo da marca, não posição num espaço compartilhado. Órbitas iguais em faixas diferentes não sugerem nada |
+| **Só o alinhamento é posição** | É a comparação legítima: a referência é a mesma para todos, a orientação declarada do Governo |
+| **Uma linha por parlamentar** | Empilhar dentro da faixa não escala — sete deputados do PL entre 28% e 35% viram pilha ilegível |
+
+**SVG estático, sem uma linha de JavaScript.** A busca precisou de script porque
+casar texto exige o texto do lado do leitor (§6.5); um panorama de 31 pontos,
+não. Funciona sem script, em impressão e em leitor de tela — `aria-label` no
+conjunto, `<title>` por corpo —, e cada corpo é um link nativo para o perfil.
+
+Nenhuma cor no SVG, nem de partido nem avaliativa: verificado que não há um
+único atributo `fill` ou `stroke` embutido. Tudo vem da folha de estilo, e a
+única variação visual é o raio.
+
+**O `n` não ficou no tooltip.** A regra do §6.3 é que ele nunca é tooltip, e num
+gráfico não há número impresso para acompanhá-lo. Entrou em prosa, com a
+amplitude real — 102 a 432 votações —, e a tabela logo abaixo traz o de cada um.
+O `<title>` é acréscimo, não substituto.
+
+Em 360px o documento continua sem rolar lateralmente: só o quadro do gráfico
+rola por dentro, com a dica apontando a tabela como alternativa em texto. É a
+única exceção que a regra do §6.3 admite, e ela é declarada.
+
+#### Três defeitos que só apareceram ao olhar o resultado
+
+Nenhum apareceria em revisão de código:
+
+- **Empilhar não escalava.** O PL tem sete deputados entre 28% e 35%; a primeira
+  versão os sobrepunha com rótulos ilegíveis.
+- **O `text-anchor` de cada rótulo perdia para o CSS.** Atributo de apresentação
+  perde para folha de estilo, e o nome saía por cima do próprio corpo. A regra
+  antiga `text-anchor: middle` sobrevivera de uma versão anterior.
+- **Encurtar para sobrenome era invenção nossa**, e criava dois erros: o acervo
+  tem "Mauricio Marcon" (PL) e "Marcon" (PT), que viravam o mesmo rótulo, e
+  "Covatti Filho" virava "Filho". Nome oficial não se abrevia por conveniência
+  de layout.
+
+---
+
 ---
 
 ## 7. Números medidos — ingestor × reconhecimento
@@ -929,7 +984,7 @@ declarado pela fonte, e há justificativa de voto ali dentro que é posição.
 ## 10. Estado do código
 
 ```
-src/                                    7.563 linhas TypeScript
+src/                                    7.738 linhas TypeScript
   db/schema.ts        872   20 tabelas, comentadas com o achado que as motivou
   db/client.ts         72   node:sqlite via sqlite-proxy + consultar() tipado
   db/migrar.ts         59   aplica migrations, controla em _migrations
@@ -949,15 +1004,15 @@ src/                                    7.563 linhas TypeScript
   ingest/incremental.ts 154 CLI da retomada automática, Câmara e Senado
   ingest/horizonte.ts 132   de onde continuar, por etapa — testável, sem rede
   calc/posicoes.ts    563   dois eixos + evidências, recorte por tema, regime por casa
-  site/gerar.ts      1397   gerador do site — 305 páginas, busca, guarda da decomposição e do retrocesso
+  site/gerar.ts      1572   gerador do site — 305 páginas, busca, órbita e as duas guardas
   relatorio.ts        414   verificação do acervo + invariantes
 drizzle/                    8 migrations
 
 .github/workflows/acervo.yml         139  atualização 2×/semana, custo zero (§6.8)
 
-docs/                                    1025 linhas de camada web
+docs/                                    1086 linhas de camada web
   _layouts/default.html 57  cabeçalho, conteúdo, rodapé lido de _data/meta.yml
-  assets/bussola.css   730  folha única, à mão, clara e escura (§6.3)
+  assets/bussola.css   791  folha única, à mão, clara e escura (§6.3)
   assets/busca.js      238  único script do site, à mão, sem dependência (§6.5)
 ```
 
@@ -1053,14 +1108,24 @@ manual vinha carregando — inclusive um que congelava o Senado inteiro. Desde
 2026-08-25 ela roda sozinha, já sobreviveu a uma indisponibilidade da origem e
 se curou na execução seguinte.
 
-**Sobra uma peça de trabalho e duas fases.** Nenhuma é promessa aberta ao
-leitor: cobertura, rastreabilidade e operação estão fechadas, e o que resta é
-forma.
+**A forma fechou também.** A órbita entrou em 2026-09-06 (§6.10) — a peça que
+estava no plano desde a Fase 0 e a de maior risco, porque era a única em que o
+princípio podia ser violado por geometria em vez de por texto.
 
-E há uma lacuna que este documento nunca registrou porque não é código: **o site
-está completo e ninguém sabe que ele existe.** Não há caminho de chegada além de
-quem já tem o link. Para uma plataforma cívica, é hoje a maior distância entre o
-que foi construído e o que ele se propõe a fazer — maior que a órbita.
+**Não sobra peça de trabalho.** Cobertura, rastreabilidade, operação e forma
+estão fechadas. O que resta são duas fases de escopo novo, o que a fonte não
+entrega, dívidas pequenas — e uma lacuna que este documento nunca registrou
+porque não é código:
+
+> **O site está pronto e ninguém sabe que ele existe.** Não há caminho de
+> chegada além de quem já tem o link. Para uma plataforma cívica, essa é hoje a
+> maior distância entre o que foi construído e o que ele se propõe a fazer.
+> Nenhuma das fases seguintes a diminui: um app mobile e a expansão para o
+> estadual multiplicam o que já não é encontrado.
+
+É a única coisa nesta seção cuja solução não é escrever código, e por isso ela
+vinha ficando de fora. Fica registrada porque omiti-la fazia o estado do projeto
+parecer melhor do que é.
 
 ### Rotina — não é mais sua
 
@@ -1132,21 +1197,16 @@ Registrado para quando houver fonte — nenhum destes é "fazer depois":
 | Plano de governo | Não existe para deputado federal — interseção medida: zero (§5) |
 | Notícias por político | Sem fonte oficial (§5) |
 
-### Fases seguintes
+### Fases seguintes — escopo novo, não continuação
 
-**3. Visualização orbital.** Estava no plano original; o site hoje é tabela.
-Consome `posicao` + `posicao_evidencia` direto e roda no cliente, sem servidor,
-e as três condições da busca (§6.5) valem inteiras aqui — à mão, degrada sem
-script, custo declarado.
+**App mobile** (Fase 3) e **estadual/municipal** (Fase 4). Nenhuma das duas é
+continuação do que existe: a primeira é outra plataforma de entrega, a segunda é
+outro reconhecimento de fonte inteiro — 497 municípios no RS, e nada garante que
+câmara municipal publique voto nominal em dado aberto.
 
-**O argumento do "primeiro JavaScript" caiu** com a busca. O que resta é o
-problema de verdade, e é maior: dois parlamentares de partidos opostos com 100%
-de coesão ocupam **o mesmo ponto** e votam em direções contrárias. A órbita
-precisa deixar isso óbvio em vez de esconder atrás de uma imagem bonita — é a
-única forma de exibição em que o eixo 2 pode mentir por si mesmo, sem que
-ninguém tenha escrito uma frase falsa.
-
-**4. App mobile** (Fase 3) e **estadual/municipal** (Fase 4).
+Antes de qualquer uma, vale considerar se a resposta não é **distribuição**. Um
+app não resolve não ser encontrado; e a Fase 4 multiplicaria por 497 um acervo
+que hoje não tem leitor.
 
 ### Dívidas pequenas
 
