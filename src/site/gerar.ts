@@ -897,6 +897,135 @@ function gerarEvidencia(p: Parlamentar, x: Posicao): string {
   return md;
 }
 
+/**
+ * Página para imprensa.
+ *
+ * Escrita para editor com pressa, e por isso a seção mais longa é **como errar
+ * com estes números** — não o que eles dizem. Repórter que publica "o deputado
+ * mais fiel do RS" a partir da coesão erra de um jeito que o site não consegue
+ * desmentir depois, e o erro fica com a assinatura dele. Avisar antes é o que
+ * protege os dois lados.
+ *
+ * Nada aqui é institucional: não há "sobre nós", missão nem pedido de apoio.
+ * O que a página oferece é conferência.
+ */
+function gerarImprensa(): string {
+  const nCam = parlamentares.length;
+  const nSen = senadores.length;
+  const totalDiscursos = um<{ n: number }>(`SELECT COUNT(*) n FROM discurso`).n;
+  const evid = um<{ n: number }>(`SELECT COUNT(*) n FROM posicao_evidencia`).n;
+
+  let md = frontMatter(
+    "Para jornalistas",
+    "O que estes números dizem, como citá-los, e as cinco maneiras de errar com eles.",
+    "prosa",
+  );
+
+  md += `# Para jornalistas\n\n`;
+  md += `<p class="subtitulo">Como usar, como citar, e — principalmente — como\n`;
+  md += `<b>não</b> errar com estes números.</p>\n\n`;
+
+  md += `## O que este site é\n\n`;
+  md += `Um registro de **como ${nCam} deputados federais e ${nSen} senadores do\n`;
+  md += `Rio Grande do Sul votaram** na legislatura ${legislatura}, montado só a\n`;
+  md += `partir das APIs oficiais da Câmara e do Senado. Cada número exibido é\n`;
+  md += `decomponível até a votação que o compõe, com link para o registro na\n`;
+  md += `origem — são ${milhar(evid)} evidências e ${milhar(totalDiscursos)}\n`;
+  md += `discursos.\n\n`;
+
+  md += `> **O site não classifica ninguém.** Não há nota, ranking, selo ou\n`;
+  md += `> espectro ideológico. Os dois eixos medem coincidência de voto com\n`;
+  md += `> referências declaradas na fonte — a orientação da liderança do Governo\n`;
+  md += `> e a maioria do próprio partido. Nada aqui diz se um voto foi bom.\n\n`;
+
+  md += `Isso é limitação deliberada, não falta de ambição: não existe fonte\n`;
+  md += `oficial que classifique parlamentar em espectro ideológico, e atribuir\n`;
+  md += `um seria opinião nossa vestida de dado.\n\n`;
+
+  md += `## Cinco maneiras de errar com estes números\n\n`;
+  md += `Nesta ordem de frequência esperada.\n\n`;
+
+  md += `### 1. Ler coesão partidária como fidelidade, disciplina ou qualidade\n\n`;
+  md += `É o erro mais fácil e o mais grave. **Coesão alta não é virtude.**\n`;
+  md += `Marcel van Hattem (NOVO) tem 99% de coesão; Bohn Gass (PT), 98%. Os dois\n`;
+  md += `quase nunca destoam dos seus, e votam em direções opostas. Uma frase como\n`;
+  md += `"os mais fiéis da bancada" juntaria os dois numa lista que não significa\n`;
+  md += `nada.\n\n`;
+  md += `O eixo mede **quanto o voto coincidiu com a maioria do próprio partido**,\n`;
+  md += `e nada além disso.\n\n`;
+
+  md += `### 2. Comparar coesão entre partidos diferentes\n\n`;
+  md += `Cada coesão é medida contra a maioria de **um** partido, e são maiorias\n`;
+  md += `diferentes. Dizer que A é mais coeso que B, sendo de legendas distintas,\n`;
+  md += `compara distâncias de dois pontos de referência que não têm relação. É\n`;
+  md += `por isso que a visualização do site separa cada partido em sua faixa: a\n`;
+  md += `comparação inválida foi tornada impossível de desenhar.\n\n`;
+
+  md += `### 3. Ler alinhamento com o governo como ideologia\n\n`;
+  md += `O eixo mede coincidência com a orientação do Executivo **do momento**.\n`;
+  md += `Um partido troca de posição sem mudar uma vírgula do seu programa, e o\n`;
+  md += `mesmo parlamentar mudaria de ponta se o governo mudasse. "Alinhamento com\n`;
+  md += `o governo federal" é o rótulo correto; "esquerda" e "direita", não.\n\n`;
+
+  md += `### 4. Comparar número do Senado com número da Câmara\n\n`;
+  md += `Os universos não se comparam. **68% das votações do Senado são\n`;
+  md += `secretas** — nelas a origem confirma que o senador votou, não como —, e\n`;
+  md += `sobram ${abertasSenado} votações abertas contra\n`;
+  md += `${milhar(acervo.nominaisCamara)} nominais da Câmara. Além disso, no\n`;
+  md += `Senado **não existe o eixo de alinhamento com o governo**: a Casa não\n`;
+  md += `publica orientação de bancada em dados abertos.\n\n`;
+
+  md += `### 5. Usar um percentual sem o \`n\`\n\n`;
+  md += `Todo número vem de um número de votações, e os denominadores **variam\n`;
+  md += `entre parlamentares** porque cada um é medido só no seu período de\n`;
+  md += `exercício — suplente que assumiu em 2025 não é "ausente" nas votações de\n`;
+  md += `2023. Nos recortes por tema o \`n\` cai muito: 100% sobre 3 votações não\n`;
+  md += `é 100%, e o site marca esses casos como amostra pequena.\n\n`;
+
+  md += `## Como citar\n\n`;
+  md += `Uma frase citável tem quatro partes: o número, o que ele mede, o \`n\` e\n`;
+  md += `o período. Por exemplo:\n\n`;
+  md += `> O deputado X votou conforme a orientação da liderança do Governo em\n`;
+  md += `> **49,6% das 353 votações nominais de mérito** em que seu voto foi\n`;
+  md += `> computável, entre fevereiro de 2023 e ${periodo.fim}.\n\n`;
+  md += `Cada perfil traz esses quatro elementos, e cada percentual é um link\n`;
+  md += `para a decomposição completa — todas as votações que entraram na conta,\n`;
+  md += `uma por linha, com o voto registrado e o link para a fonte oficial.\n\n`;
+  md += `**Confira antes de publicar.** A decomposição existe justamente para\n`;
+  md += `isso, e um número que você não conseguiu refazer não deveria sair.\n\n`;
+
+  md += `## Os dados\n\n`;
+  md += `| | |\n|---|---|\n`;
+  md += `| [posicoes.csv](../dados/posicoes.csv) | Os números de manchete das duas casas, uma linha por parlamentar, eixo e escopo. Separador vírgula, **decimal com ponto**, UTF-8 |\n`;
+  md += `| [Metodologia](../metodologia/) | Como cada número é calculado, com o SQL. Versão \`${metodologia.versao}\` |\n`;
+  md += `| [Fontes](../FONTES) | Os endpoints oficiais usados, o que cada um entrega e onde falha |\n`;
+  md += `| [Repositório](https://github.com/RaulMdrs/bussola-civica) | Código sob MIT. O acervo inteiro é reconstruível com um comando |\n`;
+  md += `{: .t-docs}\n\n`;
+
+  md += `O acervo é atualizado automaticamente **duas vezes por semana**, e o\n`;
+  md += `período apurado aparece no rodapé de toda página. Números citados em\n`;
+  md += `matéria devem trazer a data.\n\n`;
+
+  md += `## O que o site não tem, e por quê\n\n`;
+  md += `Declarar limite é parte do método. Nenhum destes é "ainda não fizemos":\n\n`;
+  md += `| Não existe | Motivo |\n|---|---|\n`;
+  md += `| Alinhamento com o governo no Senado | A Casa não publica orientação de bancada em dados abertos. Nove endpoints testados |\n`;
+  md += `| Posição do parlamentar sobre um tema | A fonte diz que a matéria trata do assunto, não se aprová-la o favorece |\n`;
+  md += `| Plano de governo de deputado | Não existe: a exigência do TSE alcança candidatura majoritária |\n`;
+  md += `| Cruzamento de senador com o TSE | Não há CPF na API do Senado, e nome de urna não é chave |\n`;
+  md += `| Voto individual em votação simbólica ou secreta | A origem não o registra — são 82% do plenário da Câmara |\n`;
+  md += `{: .t-docs}\n\n`;
+
+  md += `## Contato\n\n`;
+  md += `Dúvida sobre um número, pedido de recorte ou correção:\n`;
+  md += `[abra uma questão no repositório](https://github.com/RaulMdrs/bussola-civica/issues).\n`;
+  md += `Erro apontado com a votação específica é o mais rápido de verificar —\n`;
+  md += `e, se o erro for nosso, a correção entra no acervo e no registro público\n`;
+  md += `de defeitos.\n\n`;
+
+  return md;
+}
+
 /** Uma página por parlamentar e ano. O porquê está no bloco no topo do arquivo. */
 function gerarDiscursosAno(p: Parlamentar, ano: string): string {
   const substantivos = discursosDoAno(p.id, ano, 1);
@@ -1485,6 +1614,7 @@ function gerarHome(temas: { id: number; nome: string }[]): string {
 
   md += `## Documentação técnica\n\n`;
   md += `| Documento | O que traz |\n|---|---|\n`;
+  md += `| [Para jornalistas](./imprensa/) | Como citar, os dados em CSV, e as cinco maneiras de errar com estes números |\n`;
   md += `| [FONTES](./FONTES) | Reconhecimento das APIs oficiais: o que cada endpoint entrega e onde falha |\n`;
   md += `| [MODELO-DADOS](./MODELO-DADOS) | Por que o schema tem a forma que tem — as formas de mentir que ele bloqueia |\n`;
   md += `| [INGESTOR](./INGESTOR) | Arquitetura de coleta: idempotência, auditoria, retomada incremental |\n`;
@@ -1536,6 +1666,68 @@ function gerarIndiceTemas(temas: { id: number; nome: string }[]): string {
 function escrever(caminho: string, conteudo: string) {
   mkdirSync(join(SAIDA, caminho), { recursive: true });
   writeFileSync(join(SAIDA, caminho, "index.md"), conteudo);
+}
+
+/**
+ * CSV dos números de manchete, para quem vai conferir numa planilha.
+ *
+ * O site inteiro é decomponível página a página, mas repórter em fechamento
+ * abre planilha, não 127 páginas. São ~130 linhas: cada parlamentar, cada eixo,
+ * cada escopo, com os dois denominadores e o link do perfil que sustenta a
+ * linha.
+ *
+ * Sem recorte por tema, de propósito: são 744 linhas de posições temáticas,
+ * várias com `n` pequeno, e num CSV elas perdem o aviso que a página carrega
+ * ao lado. Quem precisar delas tem o acervo inteiro no repositório.
+ */
+function escreverCsv(): number {
+  const linhas = todos<{
+    nome: string; casa: string; sigla: string | null; eixo: string;
+    escopo: string; valor: number; n: number; opo: number;
+  }>(
+    `SELECT p.nome_parlamentar nome, m.casa, pt.sigla, e.nome_exibicao eixo,
+            po.escopo, po.valor, po.n_observacoes n, po.n_oportunidades opo
+     FROM posicao po
+     JOIN eixo e ON e.id = po.eixo_id
+     JOIN politico p ON p.id = po.politico_id
+     JOIN mandato m ON m.politico_id = p.id
+     LEFT JOIN filiacao f ON f.politico_id = p.id AND f.data_fim IS NULL
+     LEFT JOIN partido pt ON pt.id = f.partido_id
+     WHERE po.tema_id IS NULL AND p.perfil_completo = 1
+       AND po.periodo_inicio = ? AND po.periodo_fim = ?
+     ORDER BY m.casa, p.nome_parlamentar, e.chave, po.escopo`,
+    periodo.ini,
+    periodo.fim,
+  );
+
+  /** Campo de CSV: aspas duplicadas, e aspas sempre — nome tem vírgula. */
+  const campo = (v: string | number | null) =>
+    `"${String(v ?? "").replace(/"/g, '""')}"`;
+
+  const cab = [
+    "nome", "casa", "partido", "eixo", "escopo", "valor_pct",
+    "n_observacoes", "n_oportunidades", "periodo_inicio", "periodo_fim",
+    "metodologia_versao", "url_perfil",
+  ];
+  const corpo =
+    cab.join(",") + "\n" +
+    linhas
+      .map((l) =>
+        [
+          campo(l.nome), campo(l.casa), campo(l.sigla ?? ""), campo(l.eixo),
+          // Ponto decimal, não vírgula: o CSV é para ser lido por planilha **e**
+          // por script, e vírgula decimal quebra a segunda sem garantir a
+          // primeira, que depende do idioma da planilha. A página declara.
+          campo(l.escopo), campo((l.valor * 100).toFixed(1)), campo(l.n), campo(l.opo),
+          campo(periodo.ini), campo(periodo.fim), campo(metodologia.versao),
+          campo(`${BASE_SITE}/${l.casa === "camara" ? "parlamentares" : "senadores"}/${slug(l.nome)}/`),
+        ].join(","),
+      )
+      .join("\n") + "\n";
+
+  mkdirSync(join(SAIDA, "dados"), { recursive: true });
+  writeFileSync(join(SAIDA, "dados", "posicoes.csv"), corpo);
+  return linhas.length;
 }
 
 /**
@@ -1695,6 +1887,7 @@ escrever("", gerarHome(temas));
 
 const busca = escreverFragmentosDeBusca();
 escrever("discursos", gerarBusca(busca));
+escrever("imprensa", gerarImprensa());
 
 escrever("parlamentares", gerarIndiceParlamentares());
 let paginasDeDiscurso = 0;
@@ -1733,6 +1926,7 @@ for (const p of senadores) {
 escrever("temas", gerarIndiceTemas(temas));
 for (const t of temas) escrever(`temas/${slug(t.nome)}`, gerarTema(t.nome, t.id));
 
+const linhasNoCsv = escreverCsv();
 const urlsNoSitemap = escreverSitemap();
 
 console.log(`site gerado em ${SAIDA}/`);
@@ -1740,6 +1934,7 @@ console.log(`  ${parlamentares.length} deputados · ${senadores.length} senadore
 console.log(`  ${paginasDeDiscurso} páginas de discurso (uma por parlamentar e ano)`);
 console.log(`  ${paginasDeEvidencia} páginas de evidência (uma por parlamentar, eixo e escopo)`);
 console.log(`  sitemap: ${urlsNoSitemap} URLs · robots.txt · base ${BASE_SITE}`);
+console.log(`  dados/posicoes.csv: ${linhasNoCsv} linhas`);
 console.log(`  busca: ${busca.anos.length} fragmentos, ${(busca.bytes / 1024 / 1024).toFixed(1)} MB antes do gzip`);
 console.log(`  período ${periodo.ini} → ${periodo.fim} · metodologia ${metodologia.versao}`);
 
