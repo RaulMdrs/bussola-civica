@@ -5,8 +5,15 @@
 # saiu daqui quando o design próprio entrou — manter os dois faria a folha do
 # tema disputar com a nossa.
 # `url` e `baseurl` explícitos: `absolute_url` precisa dos dois para montar o
-# endereço canônico e as etiquetas de compartilhamento. O baseurl é o mesmo que
-# o Pages já usava — conferido contra o HTML publicado antes de declarar.
+# endereço canônico e as etiquetas de compartilhamento.
+#
+# TROCA DE DOMÍNIO — os dois lados têm de mudar juntos:
+#   1. aqui: `url` vira o domínio e `baseurl` vira "" (o site passa a morar na
+#      raiz, não em /bussola-civica);
+#   2. `SITE` em src/calc/posicoes.ts, e então `npm run ingerir -- --etapas
+#      posicoes` para regravar `eixo.metodologia_url`;
+#   3. um arquivo `docs/CNAME` com o domínio, que é o que o Pages lê.
+# Mudar um sem os outros deixa metade dos links apontando para o endereço velho.
 url: "https://raulmdrs.github.io"
 baseurl: "/bussola-civica"
 

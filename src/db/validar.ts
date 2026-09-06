@@ -18,6 +18,7 @@ import {
 import { classificarNatureza, type NaturezaVotacao } from "../lib/natureza.ts";
 import { hoje } from "../lib/normalizar.ts";
 import { descobrirJanelas } from "../ingest/horizonte.ts";
+import { SITE } from "../calc/posicoes.ts";
 import { conferirIntegridade } from "./integridade.ts";
 import { abrirBanco, schema } from "./client.ts";
 import { METODOLOGIA_VERSAO, calcularPosicoes, urlDaVersao } from "../calc/posicoes.ts";
@@ -648,7 +649,10 @@ console.log("\nMetodologia — a versão resolve para o documento que a descreve
   checar(
     "versão antiga aponta para o arquivo, com o nome da versão",
     urlDaVersao("2026-08-11.1"),
-    "https://raulmdrs.github.io/bussola-civica/metodologia/versoes/2026-08-11.1/",
+    // Derivado de `SITE`, não digitado: o teste deve seguir a troca de domínio
+    // em vez de quebrar por ela. O que ele prova é a **forma** da URL — o nome
+    // da versão como diretório, com barra final —, não o endereço.
+    `${SITE}/metodologia/versoes/2026-08-11.1/`,
   );
   checar("a URL é absoluta", viva.startsWith("https://"), true);
   // Nome de versão é todo ponto: a URL não pode depender de resolução de extensão.

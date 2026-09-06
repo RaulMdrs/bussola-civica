@@ -96,9 +96,22 @@ const REGIME: Record<Casa, { eixos: readonly string[]; recortes: Recorte[]; tema
  * `metodologia_versao`, e `urlDaVersao()` resolve o endereço a partir dela.
  * Sem isso a rastreabilidade quebraria na primeira mudança de regra.
  */
+/**
+ * **O único lugar onde o endereço público do site é escrito.**
+ *
+ * Tudo o mais deriva daqui: `eixo.metodologia_url` é gravado com este valor, e
+ * o gerador do site tira dele a base para sitemap, robots, CSV e etiquetas de
+ * compartilhamento. Trocar de domínio é mudar esta linha e **recalcular as
+ * posições** — sem o recálculo, as linhas antigas seguem apontando para o
+ * endereço velho, e é isso que a dívida do §11 quer dizer.
+ *
+ * Sem barra no fim: as duas constantes abaixo a acrescentam onde precisam.
+ */
+export const SITE = "https://raulmdrs.github.io/bussola-civica";
+
 const METODOLOGIA = {
-  VIVA: "https://raulmdrs.github.io/bussola-civica/metodologia/",
-  ARQUIVO: "https://raulmdrs.github.io/bussola-civica/metodologia/versoes",
+  VIVA: `${SITE}/metodologia/`,
+  ARQUIVO: `${SITE}/metodologia/versoes`,
 } as const;
 
 /**
