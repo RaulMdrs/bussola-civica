@@ -40,6 +40,7 @@ repositório, onde é `FONTES.md` que existe — nas páginas publicadas é `/FO
 | 20 | Atualização automatizada | `.github/workflows/acervo.yml` — 2×/semana, custo zero, valida antes de publicar. **Em produção desde 2026-08-25** (§6.8) |
 | 21 | Guarda contra retrocesso | O gerador se recusa a publicar acervo mais velho que o já publicado (§6.9) |
 | 22 | Visualização orbital | SVG estático, **sem JavaScript** — desenhada para não conseguir expressar a comparação falsa (§6.10) |
+| 23 | Encontrabilidade | `sitemap.xml` de 308 URLs, `robots.txt` e etiquetas de compartilhamento (§6.11) |
 
 Acervo em **2026-09-06** (banco de 79 MB): Câmara com 6.450 votações, 1.125
 nominais; Senado com 357, das quais 117 abertas. 484.460 votos, 6.619 discursos,
@@ -793,6 +794,45 @@ Nenhum apareceria em revisão de código:
 
 ---
 
+### 6.11 Encontrabilidade — o que dependia só de código
+
+O §11 registra que **o site está pronto e ninguém sabe que ele existe**. Isto
+não resolve a lacuna; resolve a parte dela que era código.
+
+**Etiquetas de compartilhamento.** Até 2026-09-06, um link colado no WhatsApp,
+no Telegram ou no Slack aparecia como URL crua — nas 305 páginas. Agora cada uma
+carrega título, descrição e endereço canônico próprios, derivados do acervo.
+
+**Sem imagem, e é decisão, não omissão.** Cartão com imagem exige PNG ou JPEG;
+SVG não é aceito pelas plataformas, e não há rasterizador no projeto nem vale
+trazer um por isto. `summary` mostra título, descrição e domínio. Os dois
+caminhos com imagem foram descartados pelo mesmo motivo: imagem decorativa seria
+enfeite, e imagem com número seria **número sem `n` e sem link para a fonte**,
+que o §6.3 proíbe na tela e não passa a valer fora dela.
+
+**O sitemap é varrido, não digitado** — 308 URLs, do que foi realmente escrito.
+Lista à mão envelheceria no primeiro parlamentar novo, pelo mesmo motivo que
+levou a home a ser gerada (§6.8). `lastmod` é a data do acervo e não o mtime do
+arquivo: no CI todo arquivo é recém-escrito, e mtime diria "tudo mudou agora" em
+toda execução, o que é falso e treina o buscador a ignorar o campo.
+
+**A base pública sai do acervo.** `eixo.metodologia_url` já guardava a URL
+absoluta; a base é ela sem o último trecho. Rodapé, sitemap, robots e etiquetas
+passaram a sair do mesmo lugar, então trocar de domínio continua sendo a
+mudança única que as dívidas do §11 descrevem — não virou quatro.
+
+`url` e `baseurl` entraram no `_config.yml` porque `absolute_url` precisa dos
+dois. O `baseurl` declarado é o que o Pages já usava, **conferido contra o HTML
+publicado antes de escrever** — declará-lo errado quebraria todos os links do
+site de uma vez.
+
+Verificado em produção: 308 URLs no sitemap contra 305 páginas mais os 3
+documentos técnicos; XML válido; 8 URLs sorteadas, todas 200; nem o CHECKPOINT,
+nem `_data`, nem os fragmentos de busca entram; e os links internos continuam
+saindo com o prefixo certo depois da mudança de config.
+
+---
+
 ---
 
 ## 7. Números medidos — ingestor × reconhecimento
@@ -984,7 +1024,7 @@ declarado pela fonte, e há justificativa de voto ali dentro que é posição.
 ## 10. Estado do código
 
 ```
-src/                                    7.738 linhas TypeScript
+src/                                    7.805 linhas TypeScript
   db/schema.ts        872   20 tabelas, comentadas com o achado que as motivou
   db/client.ts         72   node:sqlite via sqlite-proxy + consultar() tipado
   db/migrar.ts         59   aplica migrations, controla em _migrations
@@ -1004,14 +1044,14 @@ src/                                    7.738 linhas TypeScript
   ingest/incremental.ts 154 CLI da retomada automática, Câmara e Senado
   ingest/horizonte.ts 132   de onde continuar, por etapa — testável, sem rede
   calc/posicoes.ts    563   dois eixos + evidências, recorte por tema, regime por casa
-  site/gerar.ts      1572   gerador do site — 305 páginas, busca, órbita e as duas guardas
+  site/gerar.ts      1639   gerador do site — 305 páginas, busca, órbita, sitemap e as duas guardas
   relatorio.ts        414   verificação do acervo + invariantes
 drizzle/                    8 migrations
 
 .github/workflows/acervo.yml         139  atualização 2×/semana, custo zero (§6.8)
 
-docs/                                    1086 linhas de camada web
-  _layouts/default.html 57  cabeçalho, conteúdo, rodapé lido de _data/meta.yml
+docs/                                    1105 linhas de camada web
+  _layouts/default.html 76  cabeçalho, conteúdo, rodapé e etiquetas de compartilhamento
   assets/bussola.css   791  folha única, à mão, clara e escura (§6.3)
   assets/busca.js      238  único script do site, à mão, sem dependência (§6.5)
 ```
@@ -1117,15 +1157,19 @@ estão fechadas. O que resta são duas fases de escopo novo, o que a fonte não
 entrega, dívidas pequenas — e uma lacuna que este documento nunca registrou
 porque não é código:
 
-> **O site está pronto e ninguém sabe que ele existe.** Não há caminho de
-> chegada além de quem já tem o link. Para uma plataforma cívica, essa é hoje a
-> maior distância entre o que foi construído e o que ele se propõe a fazer.
-> Nenhuma das fases seguintes a diminui: um app mobile e a expansão para o
-> estadual multiplicam o que já não é encontrado.
+> **O site está pronto e quase ninguém sabe que ele existe.** Para uma
+> plataforma cívica, essa é hoje a maior distância entre o que foi construído e
+> o que ele se propõe a fazer. Nenhuma das fases seguintes a diminui: um app
+> mobile e a expansão para o estadual multiplicam o que já não é encontrado.
 
-É a única coisa nesta seção cuja solução não é escrever código, e por isso ela
-vinha ficando de fora. Fica registrada porque omiti-la fazia o estado do projeto
-parecer melhor do que é.
+Em 2026-09-06 saiu dela **a parte que era código** (§6.11): sitemap, robots e
+etiquetas de compartilhamento. Um link colado numa conversa deixou de aparecer
+como URL crua, e o buscador passou a ter como percorrer as 308 páginas.
+
+O que sobra não é código, e por isso não tem item nesta lista: **decidir para
+quem este site é, e onde essas pessoas estão.** Sitemap diz ao buscador que o
+site existe; não faz ninguém procurar por ele. Fica registrado porque omitir
+isso faria o estado do projeto parecer melhor do que é.
 
 ### Rotina — não é mais sua
 
@@ -1246,6 +1290,10 @@ que hoje não tem leitor.
   **não aparecem no site** — o gerador só lê `perfil_completo = 1`. A barreira
   está funcionando; ela precisa continuar sendo respeitada por qualquer página
   nova.
+- **Cartão de compartilhamento sem imagem** (§6.11). Resolver exigiria gerar
+  PNG, e gerar PNG com texto exige rasterizar fonte — dependência que o projeto
+  não tem e que não se justifica por um enfeite. Fica registrado como escolha,
+  não como esquecimento.
 - **Domínio próprio.** O site está em `raulmdrs.github.io`. Trocar é uma linha
   na constante `METODOLOGIA` mais o CNAME, mas invalida as URLs já gravadas em
   `eixo.metodologia_url` — recalcular `posicoes` resolve.
