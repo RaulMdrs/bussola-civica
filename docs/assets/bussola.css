@@ -598,6 +598,14 @@ tr:has(.aviso-n) td { background-image: repeating-linear-gradient(
 }
 .orbita .grade { stroke: var(--fio); stroke-width: 1; }
 .orbita .chave { stroke: var(--fio-forte); stroke-width: 1.5; }
+/* Onde não há eixo, o espaço fica vazio e hachurado — a dimensão que falta
+   é desenhada, não só escrita. Mesmo princípio do bloco `.ausencia`. */
+.orbita .vazio {
+  fill: none;
+  stroke: var(--fio);
+  stroke-width: 1;
+  stroke-dasharray: 3 5;
+}
 .orbita .tick {
   fill: var(--tinta-2); text-anchor: middle;
   font: 500 13px var(--f-mono); font-variant-numeric: tabular-nums;

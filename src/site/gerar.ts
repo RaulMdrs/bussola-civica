@@ -1044,6 +1044,38 @@ function gerarIndiceSenadores(senadores: Parlamentar[]): string {
   md += `A ordem é navegação, não classificação.</p>\n\n`;
   md += AVISO_SENADO;
   md += AUSENCIA_SENADO;
+
+  const doSenado = corposDaCasa("senado");
+  if (doSenado.length) {
+    // Sem eixo, de propósito: os três senadores são de três partidos, e coesão
+    // medida contra três maiorias diferentes não vira posição num eixo comum.
+    // Pô-los numa régua diria "Paim > Heinze > Mourão", que é ranking de
+    // grandezas incomparáveis — o erro que a §6.10 impede na Câmara e que aqui
+    // seria mais fácil de cometer, porque só há um eixo para desenhar.
+    md += `<div class="orbita-quadro">\n`;
+    md += gerarOrbita(
+      doSenado,
+      null,
+      "sem eixo horizontal: o alinhamento com o governo não é calculável no Senado",
+    );
+    md += `</div>\n\n`;
+
+    md += `**Como ler.** A órbita mede o quanto o voto se afasta da maioria da\n`;
+    md += `própria bancada — órbita pequena é quem quase nunca destoa dos seus.\n`;
+    md += `**Não há posição horizontal**, e o vazio à direita é isso mesmo: o eixo\n`;
+    md += `de alinhamento com o governo existe na Câmara e não existe aqui.\n\n`;
+
+    md += `> **As órbitas destes três não se comparam entre si.** Cada uma é medida\n`;
+    md += `> contra a maioria do próprio partido, e são três partidos. Órbita menor\n`;
+    md += `> não é mais disciplina que a do vizinho — é menos distância de outra\n`;
+    md += `> referência. Por isso cada um tem sua faixa, e não há régua ligando\n`;
+    md += `> uma à outra.\n\n`;
+
+    const ns = doSenado.map((c) => c.n).filter((n) => n != null);
+    md += `O \`n\` não está no gráfico: vai de **${Math.min(...ns)} a\n`;
+    md += `${Math.max(...ns)} votações abertas**, e está na tabela abaixo.\n\n`;
+  }
+
   md += `| Senador | Partido | Coesão partidária | Votações (n) |\n|---|---|---:|---:|\n`;
   for (const p of senadores) {
     const x = posicoesDe(p.id).find((y) => !y.tema);
@@ -1137,6 +1169,8 @@ function gerarTema(tema: string, temaId: number): string {
 // precisou de script porque casar texto exige o texto do lado do leitor; um
 // panorama de 31 pontos, não.
 
+type Casa = "camara" | "senado";
+
 interface Corpo {
   nome: string;
   sigla: string;
@@ -1145,21 +1179,32 @@ interface Corpo {
   n: number;
 }
 
-const corposDaBancada = () =>
+/**
+ * Corpos de uma casa. `escopo` difere porque o Senado não tem recorte entre
+ * mérito e procedimental — a regra que os separa foi calibrada contra texto da
+ * Câmara e não foi validada lá (§6.1).
+ *
+ * `alinhamento` volta NULL no Senado, e é assim que deve ser: não há orientação
+ * de bancada em dados abertos, então o eixo não existe. `COALESCE` aqui
+ * inventaria zero, que é uma posição — e posição inventada é rótulo nosso.
+ */
+const corposDaCasa = (casa: Casa) =>
   todos<Corpo>(
     `SELECT p.nome_parlamentar nome, COALESCE(pt.sigla, '—') sigla,
             MAX(CASE WHEN e.chave = 'alinhamento_governo' THEN po.valor END) alinhamento,
             MAX(CASE WHEN e.chave = 'coesao_partidaria'   THEN po.valor END) coesao,
-            MAX(CASE WHEN e.chave = 'alinhamento_governo' THEN po.n_observacoes END) n
+            MAX(po.n_observacoes) n
      FROM posicao po
      JOIN eixo e ON e.id = po.eixo_id
      JOIN politico p ON p.id = po.politico_id
-     JOIN mandato m ON m.politico_id = p.id AND m.casa = 'camara'
+     JOIN mandato m ON m.politico_id = p.id AND m.casa = ?
      LEFT JOIN filiacao f ON f.politico_id = p.id AND f.data_fim IS NULL
      LEFT JOIN partido pt ON pt.id = f.partido_id
-     WHERE po.tema_id IS NULL AND po.escopo = 'merito'
+     WHERE po.tema_id IS NULL AND po.escopo = ?
        AND po.periodo_inicio = ? AND po.periodo_fim = ?
      GROUP BY p.id`,
+    casa,
+    casa === "camara" ? "merito" : "unico",
     periodo.ini,
     periodo.fim,
   );
@@ -1174,12 +1219,53 @@ const corposDaBancada = () =>
  * não se abrevia por conveniência de layout.
  */
 
-function gerarOrbita(): string {
-  const corpos = corposDaBancada().filter((c) => c.alinhamento != null && c.coesao != null);
-  if (!corpos.length) return "";
+/**
+ * Eixo horizontal, quando existe. `null` quando a casa não o tem.
+ *
+ * Só entra aqui grandeza cuja **referência é a mesma para todos os corpos do
+ * gráfico** — hoje, o alinhamento com o governo, medido contra a orientação
+ * declarada do Governo. Coesão nunca pode entrar: são tantas referências
+ * quantos partidos, e pô-la num eixo é o erro que a §6.10 existe para impedir.
+ */
+interface EixoOrbita {
+  rotulo: string;
+  valor: (c: Corpo) => number | null;
+}
+
+/**
+ * Órbita de um conjunto de parlamentares.
+ *
+ * Recebe a lista pronta — não consulta o banco — para que o mesmo desenho sirva
+ * a uma casa, a uma bancada estadual ou a um recorte qualquer sem duplicar
+ * layout. É a preparação para a expansão nacional; o que ela ainda **não**
+ * resolve está anotado em `TETO_LEGIVEL`.
+ */
+const TETO_LEGIVEL = 60;
+/*
+ * Uma linha por parlamentar a 30px: 31 deputados dão 1.244px, o que se lê. Os
+ * 513 da Câmara dariam ~16.000px, que não se lê de jeito nenhum. Quando a
+ * expansão nacional vier, o recorte terá de vir junto — por UF é o corte que a
+ * fonte já traz e que o leitor já entende —, e este teto é o aviso de que
+ * chamar esta função com a bancada inteira não produz gráfico, produz rolo.
+ */
+
+function gerarOrbita(
+  corpos: Corpo[],
+  eixo: EixoOrbita | null,
+  semEixo?: string,
+): string {
+  const validos = corpos.filter((c) => c.coesao != null);
+  if (!validos.length) return "";
+  if (validos.length > TETO_LEGIVEL) {
+    throw new Error(
+      `órbita com ${validos.length} corpos — acima do teto de ${TETO_LEGIVEL}.\n` +
+        `Uma linha por parlamentar deixa de ser legível muito antes disso.\n` +
+        `Divida o conjunto (por UF, por casa) e gere um gráfico por recorte.`,
+    );
+  }
 
   const porPartido = new Map<string, Corpo[]>();
-  for (const c of corpos) {
+  for (const c of validos) {
     if (!porPartido.has(c.sigla)) porPartido.set(c.sigla, []);
     porPartido.get(c.sigla)!.push(c);
   }
@@ -1187,72 +1273,92 @@ function gerarOrbita(): string {
   // este projeto não produz — e a média de duas pessoas não é posição de legenda.
   const partidos = [...porPartido.entries()].sort((a, b) => a[0].localeCompare(b[0], "pt-BR"));
 
-  const ESQ = 104;   // calha da sigla
+  const ESQ = 104;
   const DIR = 30;
   const L = 900;
   const x0 = ESQ;
   const x1 = L - DIR;
-  const TOPO = 52;
+  const TOPO = eixo ? 52 : 60;
   const LINHA = 30;  // uma linha por parlamentar — nada se empilha
-  const GRUPO = 14;  // respiro entre partidos
+  const GRUPO = 14;
   const px = (v: number) => x0 + v * (x1 - x0);
   /** Raio da órbita: o quanto o voto se afasta da maioria da própria bancada. */
   const raio = (coesao: number) => 3.5 + (1 - coesao) * 24;
+  /** Sem eixo, todo corpo fica na mesma coluna: posição sem grandeza é ruído. */
+  const X_FIXO = x0 + 120;
 
-  const H =
-    TOPO + partidos.reduce((n, [, m]) => n + m.length * LINHA + GRUPO, 0) + 16;
+  const H = TOPO + partidos.reduce((n, [, m]) => n + m.length * LINHA + GRUPO, 0) + 16;
 
-  let svg = `<svg class="orbita" viewBox="0 0 ${L} ${H}" role="img" `;
-  svg += `aria-label="Panorama da bancada gaúcha: alinhamento com o governo na horizontal, `;
-  svg += `e a órbita de cada parlamentar em torno da maioria do próprio partido. `;
-  svg += `Os mesmos números estão na tabela abaixo.">\n`;
+  let svg = `<svg class="orbita" viewBox="0 0 ${L} ${H}" role="img" aria-label="`;
+  svg += eixo
+    ? `Panorama: ${esc(eixo.rotulo)} na horizontal, e a órbita de cada parlamentar em torno da maioria do próprio partido.`
+    : `Panorama: a órbita de cada parlamentar em torno da maioria do próprio partido. ${esc(semEixo ?? "")}`;
+  svg += ` Os mesmos números estão na tabela abaixo.">\n`;
 
-  svg += `<g class="regua">\n`;
-  for (let v = 0; v <= 100; v += 25) {
-    const x = px(v / 100).toFixed(1);
-    svg += `<line x1="${x}" y1="${TOPO - 14}" x2="${x}" y2="${H - 12}" class="grade"/>\n`;
-    svg += `<text x="${x}" y="${TOPO - 22}" class="tick">${v}%</text>\n`;
+  if (eixo) {
+    svg += `<g class="regua">\n`;
+    for (let v = 0; v <= 100; v += 25) {
+      const x = px(v / 100).toFixed(1);
+      svg += `<line x1="${x}" y1="${TOPO - 14}" x2="${x}" y2="${H - 12}" class="grade"/>\n`;
+      svg += `<text x="${x}" y="${TOPO - 22}" class="tick">${v}%</text>\n`;
+    }
+    svg += `<text x="${x0}" y="20" class="eixo-rot">${esc(eixo.rotulo)} →</text>\n`;
+    svg += `</g>\n`;
+  } else {
+    // A ausência do eixo é desenhada, não só escrita: o leitor vê a dimensão
+    // que falta em vez de ler que ela falta. Mesmo princípio do bloco
+    // `.ausencia` no perfil do senador (§6.4).
+    svg += `<g class="sem-eixo">\n`;
+    svg += `<rect x="${x0}" y="${TOPO - 34}" width="${x1 - x0}" height="${H - TOPO + 22}" `;
+    svg += `class="vazio"/>\n`;
+    svg += `<text x="${x0 + 12}" y="${TOPO - 16}" class="eixo-rot">`;
+    svg += `${esc(semEixo ?? "eixo horizontal não calculável nesta casa")}</text>\n`;
+    svg += `</g>\n`;
   }
-  svg += `<text x="${x0}" y="20" class="eixo-rot">alinhamento com o governo federal, no mérito →</text>\n`;
-  svg += `</g>\n`;
 
   let y = TOPO + 6;
   for (const [sigla, membros] of partidos) {
-    const ordenados = [...membros].sort((a, b) => b.alinhamento - a.alinhamento);
+    const ordenados = eixo
+      ? [...membros].sort((a, b) => (eixo.valor(b) ?? 0) - (eixo.valor(a) ?? 0))
+      : [...membros].sort((a, b) => a.nome.localeCompare(b.nome, "pt-BR"));
     const yIni = y;
 
     ordenados.forEach((c, k) => {
       const cy = y + k * LINHA + LINHA / 2;
-      const cx = px(c.alinhamento);
+      const v = eixo?.valor(c);
+      const cx = eixo && v != null ? px(v) : X_FIXO;
       const r = raio(c.coesao);
-      // Rótulo do lado que sobra: à direita de quem está à esquerda, e
-      // vice-versa. Assim nunca sai do quadro nem cobre o próprio corpo.
-      const aDireita = c.alinhamento < 0.62;
+      const aDireita = !eixo || (v ?? 0) < 0.62;
       const lx = aDireita ? cx + r + 8 : cx - r - 8;
-      const ancora = aDireita ? "start" : "end";
 
       svg += `<a href="${slug(c.nome)}/">\n`;
-      svg += `<title>${esc(c.nome)} (${esc(c.sigla)}) — alinhamento ${pct(c.alinhamento)}%, `;
-      svg += `coesão com o próprio partido ${pct(c.coesao)}%, apurados em ${c.n} votações</title>\n`;
+      svg += `<title>${esc(c.nome)} (${esc(c.sigla)})`;
+      if (eixo && v != null) svg += ` — ${esc(eixo.rotulo)} ${pct(v)}%,`;
+      else svg += ` —`;
+      svg += ` coesão com o próprio partido ${pct(c.coesao)}%, apurados em ${c.n} votações</title>\n`;
       svg += `<circle cx="${cx.toFixed(1)}" cy="${cy.toFixed(1)}" r="${r.toFixed(1)}" class="orbe"/>\n`;
       svg += `<circle cx="${cx.toFixed(1)}" cy="${cy.toFixed(1)}" r="2.8" class="corpo"/>\n`;
       svg += `<text x="${lx.toFixed(1)}" y="${(cy + 4).toFixed(1)}" `;
-      svg += `text-anchor="${ancora}" class="rotulo">${esc(c.nome)}</text>\n`;
+      svg += `text-anchor="${aDireita ? "start" : "end"}" class="rotulo">${esc(c.nome)}</text>\n`;
       svg += `</a>\n`;
     });
 
     const yFim = y + ordenados.length * LINHA;
-    // Chave do partido: agrupa sem sugerir posição de legenda.
     svg += `<line x1="${ESQ - 14}" y1="${yIni + 6}" x2="${ESQ - 14}" y2="${yFim - 6}" class="chave"/>\n`;
     svg += `<text x="${ESQ - 22}" y="${((yIni + yFim) / 2 + 4).toFixed(1)}" class="sigla-faixa">`;
     svg += `${esc(sigla)}</text>\n`;
-
     y = yFim + GRUPO;
   }
 
   svg += `</svg>\n`;
   return svg;
 }
+
+/** O eixo da Câmara. O Senado passa `null` — lá ele não existe. */
+const EIXO_GOVERNO: EixoOrbita = {
+  rotulo: "alinhamento com o governo federal, no mérito",
+  valor: (c) => c.alinhamento,
+};
 
 function gerarIndiceParlamentares(): string {
   let md = frontMatter(
@@ -1264,7 +1370,8 @@ function gerarIndiceParlamentares(): string {
   md += `<p class="subtitulo">${parlamentares.length} parlamentares da legislatura 57, `;
   md += `em ordem alfabética. A ordem é navegação, não classificação.</p>\n\n`;
 
-  md += `<div class="orbita-quadro">\n${gerarOrbita()}</div>\n\n`;
+  const daCamara = corposDaCasa("camara").filter((c) => c.alinhamento != null);
+  md += `<div class="orbita-quadro">\n${gerarOrbita(daCamara, EIXO_GOVERNO)}</div>\n\n`;
   md += `<p class="orbita-dica">O panorama acima rola para o lado — ou role a\n`;
   md += `página até a tabela, que traz os mesmos números em texto.</p>\n\n`;
   md += `**Como ler.** Cada corpo é um parlamentar; a posição horizontal é o\n`;
@@ -1284,7 +1391,7 @@ function gerarIndiceParlamentares(): string {
   // A regra do §6.3 diz que o `n` nunca é tooltip. Num gráfico não há número
   // impresso para acompanhar, então ele entra em prosa, com a amplitude real —
   // e a tabela logo abaixo traz o de cada um, linha a linha.
-  const ns = corposDaBancada().map((c) => c.n).filter((n) => n != null);
+  const ns = daCamara.map((c) => c.n).filter((n) => n != null);
   if (ns.length) {
     md += `**O gráfico não mostra o \`n\`**, e nenhum ponto deve ser lido sem\n`;
     md += `ele: os denominadores vão de **${Math.min(...ns)} a ${Math.max(...ns)}\n`;
