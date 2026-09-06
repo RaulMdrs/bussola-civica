@@ -677,6 +677,11 @@ período apurado avança com a data. O commit de 31/08 mudou exatamente uma linh
 É honesto — o período realmente avançou —, mas significa que o caminho "nada
 mudou, nenhum commit" nunca dispara na prática.
 
+**O custo no repositório foi medido e é desprezível:** ~0,3 MB por semana, com o
+`.git` inteiro em 4,5 MB contra 24 MB de árvore de trabalho (§11, item 1). A
+dúvida que a automação abriu — se valeria gerar no CI em vez de versionar — está
+encerrada pela medição, não por preferência.
+
 **Um passo continua humano:** `BUSSOLA_CPF_SEGREDO` precisa existir como segredo
 do repositório, porque a etapa `deputados` chama `hmacCpf()` toda semana. É uma
 ampliação real de exposição — hoje o segredo só vive no `.env` da máquina — e
@@ -1048,8 +1053,14 @@ manual vinha carregando — inclusive um que congelava o Senado inteiro. Desde
 2026-08-25 ela roda sozinha, já sobreviveu a uma indisponibilidade da origem e
 se curou na execução seguinte.
 
-**Sobra um item de trabalho e duas fases.** Nenhum é promessa aberta ao leitor:
-o que resta é forma, não cobertura nem confiabilidade.
+**Sobra uma peça de trabalho e duas fases.** Nenhuma é promessa aberta ao
+leitor: cobertura, rastreabilidade e operação estão fechadas, e o que resta é
+forma.
+
+E há uma lacuna que este documento nunca registrou porque não é código: **o site
+está completo e ninguém sabe que ele existe.** Não há caminho de chegada além de
+quem já tem o link. Para uma plataforma cívica, é hoje a maior distância entre o
+que foi construído e o que ele se propõe a fazer — maior que a órbita.
 
 ### Rotina — não é mais sua
 
@@ -1069,24 +1080,39 @@ O que **não** é opcional, nem à mão nem na Action: rodar `db:validar` e ler 
 invariantes antes de publicar. Os três defeitos de 2026-08-19 (§8) eram todos
 silenciosos, e um deles publicaria 35 deputados para 31 cadeiras.
 
-### O que sobrou para acompanhar
+### O que estava para acompanhar — os dois fecharam
 
-**1. O peso do repositório, sob observação.** `docs/` era 616 KB há quatro dias
-e é **24 MB** — 13,4 de decomposição, 6,1 de discursos, 3,2 de fragmentos de
-busca. Não trava nada: o Pages reconstrói e cada página pesa pouco pelo fio. Mas
-a Action agora transfere isso duas vezes por semana.
+As duas perguntas que a automatização deixou em aberto foram respondidas em
+2026-09-06. Ficam aqui como registro, não como pendência: uma foi medida, a
+outra virou guarda.
 
-A pergunta é se o delta semanal é pequeno — deveria ser: votação nova entra no
-topo de cada tabela e o resto não muda, e o gerador é determinístico, então
-execução sem dado novo não gera commit nenhum. **A resposta é observável, não
-estimável:** medir o crescimento do `.git` por duas ou três semanas de operação
-automática.
+**1. ~~O peso do repositório.~~** ✅ **medido em 2026-09-06 — não é problema.**
 
-Se incomodar, a saída não é publicar menos: é **gerar no CI em vez de
-versionar**. O acervo é a fonte da verdade e o site é derivado dele; nada se
-perde ao deixar de guardar o derivado. O que se perde é o diff legível de cada
-rebuild, que hoje é parte do registro auditável — e essa troca precisa ser
-decidida, não sofrida.
+A pergunta estava registrada como observável, não estimável. Três commits
+automáticos depois, a observação:
+
+| Commit da Action | Arquivos | Blobs novos |
+|---|---:|---:|
+| 2026-08-25 | 157 | 668 KB |
+| 2026-08-31 | 1 | ~0 KB |
+| 2026-09-03 | 99 | 170 KB |
+
+**O `.git` inteiro pesa 4,5 MB**, contra 24 MB de `docs/` na árvore de trabalho.
+O git delta-comprime exatamente como se supunha: votação nova entra no topo de
+cada tabela e o resto não muda. Ao ritmo atual, ~0,3 MB por semana.
+
+O commit de 31/08 mudou **uma linha** — só o `meta.yml`, porque o período
+apurado avança com a data. É a contrapartida prática do determinismo do gerador:
+execução sem dado novo não move as páginas.
+
+Com isso, **a saída de "gerar no CI em vez de versionar" fica descartada**. Ela
+custaria o diff legível de cada rebuild, que é parte do registro auditável, para
+economizar frações de megabyte. A troca não se justifica — e agora isso é uma
+conclusão medida, não uma intuição.
+
+> Nota de método: o `.git` chegou a marcar 19 MB numa medição intermediária.
+> Eram objetos soltos; um `git gc` compactou para 4,3 MiB de pack. Medir
+> repositório sem compactar antes superestima em 4×.
 
 **2. ~~Dois acervos, e eles divergem.~~** ✅ **resolvido por guarda** em
 2026-09-06 (§6.9). O risco continua existindo — a máquina e o cache do CI
