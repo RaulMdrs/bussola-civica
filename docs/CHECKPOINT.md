@@ -44,6 +44,7 @@ repositório, onde é `FONTES.md` que existe — nas páginas publicadas é `/FO
 | 23 | Encontrabilidade | `sitemap.xml`, `robots.txt` e etiquetas de compartilhamento (§6.11) |
 | 24 | Página para jornalistas | Como citar, o CSV, e as cinco maneiras de errar com os números (§6.12) |
 | 25 | Votação como página | 1.242 páginas com a chamada nominal — a navegação do voto para as pessoas (§6.13) |
+| 26 | Retratos oficiais | 34/34, baixados e versionados; pequenos, ao lado do nome (§6.14) |
 
 Acervo em **2026-09-06** (banco de 79 MB): Câmara com 6.450 votações, 1.125
 nominais; Senado com 357, das quais 117 abertas. 484.460 votos, 6.619 discursos,
@@ -987,6 +988,64 @@ reconhecimento de fonte novo.
 
 ---
 
+### 6.14 Retratos oficiais — o levantamento decidiu a forma
+
+Pedido como "adicionar a foto de cada político". O levantamento mediu antes de
+implementar, e **três achados definiram o resultado**.
+
+| Medição (2026-09-06, contra a origem) | |
+|---|---|
+| Latência da Câmara | 0,2 s na mediana, **22,7 s no pior caso** |
+| Cabeçalho da Câmara | `cache-control: no-cache` |
+| Dimensões | **354×472 em 19 fotos, 114×152 em 12** |
+| Peso | 25 KB mediano na Câmara, **~300 KB no Senado** |
+| Total | 34 retratos, 1,6 MB |
+
+**Hotlink foi descartado por dois motivos, e o segundo é o que decide.** O
+primeiro é desempenho: com `no-cache` e 22,7 s de cauda, uma página que espera o
+servidor da Câmara é uma página que às vezes trava. O segundo é que hotlink faz
+o navegador de quem lê pedir a imagem a `camara.leg.br`, **entregando o IP do
+leitor a quem ele está auditando**. Num site sobre voto parlamentar isso não é
+detalhe de desempenho.
+
+**Doze deputados só têm miniatura**, e não é escolha nossa: `-6.jpg` dá 404 e o
+`urlFoto` que a própria API devolve é a mesma miniatura de 114×152. Por isso o
+retrato sai a **76px no perfil e 34px na linha** — cabe dentro do menor, e
+ninguém aparece esticado por causa do vizinho.
+
+**Asset versionado, não BLOB no acervo.** Foto é asset, como `bussola.css`:
+entra no repositório, muda raramente, e não é fato apurado. A consequência é
+aceita e está escrita no código — `npm run site` não produz retrato, e **faltando
+o arquivo o gerador omite a imagem**. Nome sem foto é página completa; foto
+quebrada é defeito visível.
+
+`slug()` saiu de `gerar.ts` para módulo próprio, porque o baixador precisa da
+mesma função para o nome do arquivo casar com o da página — se divergirem, a
+foto some sem erro nenhum. Mesma razão que separou `horizonte.ts` (§8).
+
+#### O `|` do Liquid é o separador de coluna do Markdown
+
+A primeira versão usava `{{ '/assets/…' | relative_url }}`. Dentro da tabela do
+índice a célula **quebrava ao meio** e o `<img>` virava texto escapado — 31
+retratos sumiram sem erro.
+
+Caminho relativo resolve, e ficou melhor que o plano: dispensa o `baseurl` e
+sobrevive à troca de domínio sem virar mais um lugar onde o endereço está
+escrito.
+
+#### A pergunta que não era técnica
+
+O site existe para o leitor julgar **o voto, não a pessoa** — o design proíbe cor
+de partido, ranking e escala avaliativa por isso. Rosto é o elemento mais
+personalizante que uma página tem, e desloca a atenção do que a pessoa votou
+para quem ela é.
+
+A decisão foi entrar pequeno, ao lado do nome, nunca acima dos números, e sumir
+na impressão. **Isso está escrito na folha de estilo**, ao lado da regra, onde a
+próxima pessoa que for aumentar o retrato vai ler antes de aumentar.
+
+---
+
 ---
 
 ## 7. Números medidos — ingestor × reconhecimento
@@ -1178,7 +1237,7 @@ declarado pela fonte, e há justificativa de voto ali dentro que é posição.
 ## 10. Estado do código
 
 ```
-src/                                    8.462 linhas TypeScript
+src/                                    8.608 linhas TypeScript
   db/schema.ts        872   20 tabelas, comentadas com o achado que as motivou
   db/client.ts         72   node:sqlite via sqlite-proxy + consultar() tipado
   db/migrar.ts         59   aplica migrations, controla em _migrations
@@ -1191,27 +1250,29 @@ src/                                    8.462 linhas TypeScript
   lib/zip.ts           83   leitor mínimo de ZIP, sem dependência
   lib/identidade.ts    64   HMAC do CPF — por que hash puro não serve
   ingest/camara.ts    271   cliente tipado da API (dataFim exclusivo)
-  ingest/senado.ts    560   cliente + ingestão; votação e discurso; janela de 1 ano
+  ingest/senado.ts    573   cliente + ingestão; votação, discurso e foto; janela de 1 ano
   ingest/tse.ts       275   candidaturas 2022 via CSV, cruzadas por HMAC
   ingest/pipeline.ts 1042   7 etapas; votação+votos em transação; filiação substitui
   ingest/index.ts     125   CLI
   ingest/incremental.ts 154 CLI da retomada automática, Câmara e Senado
   ingest/horizonte.ts 132   de onde continuar, por etapa — testável, sem rede
   calc/posicoes.ts    576   dois eixos + evidências, recorte por tema, regime por casa, `SITE`
-  site/gerar.ts      2279   gerador do site — 1.553 páginas, busca, órbita, sitemap, CSV e as três guardas
+  site/gerar.ts      2304   gerador do site — 1.553 páginas, busca, órbita, sitemap, CSV e as três guardas
+  site/fotos.ts        90   baixa os retratos oficiais; falha de foto não derruba
+  site/slug.ts         18   nome → caminho; importável, porque gerar.ts é script
   relatorio.ts        414   verificação do acervo + invariantes
 drizzle/                    8 migrations
 
-.github/workflows/acervo.yml         139  atualização 2×/semana, custo zero (§6.8)
+.github/workflows/acervo.yml         146  atualização 2×/semana, custo zero (§6.8)
 
-docs/                                    1142 linhas de camada web
+docs/                                    1170 linhas de camada web
   _layouts/default.html 79  cabeçalho, conteúdo, rodapé e etiquetas de compartilhamento
-  assets/bussola.css   812  folha única, à mão, clara e escura (§6.3)
+  assets/bussola.css   841  folha única, à mão, clara e escura (§6.3)
   assets/busca.js      251  único script do site, à mão, sem dependência (§6.5)
 ```
 
-**1.553 páginas geradas**, 4 fragmentos de busca e um CSV. `docs/` ocupa
-**32 MB**. Tudo é reescrito a cada `npm run site`; por página o peso é baixo
+**1.553 páginas geradas**, 4 fragmentos de busca, um CSV e 34 retratos.
+`docs/` ocupa **34 MB**, dos quais 1,6 MB são as fotos. Tudo é reescrito a cada `npm run site`; por página o peso é baixo
 (23 KB pelo fio no pior caso), o volume está no número de páginas.
 
 O build do Pages passou de ~2 para **~6 minutos** com as 1.242 páginas de
@@ -1472,6 +1533,10 @@ que hoje não tem leitor.
   **não aparecem no site** — o gerador só lê `perfil_completo = 1`. A barreira
   está funcionando; ela precisa continuar sendo respeitada por qualquer página
   nova.
+- **Retratos do Senado a ~300 KB cada**, doze vezes os da Câmara. Reduzir
+  exigiria dependência de processamento de imagem, que o projeto não tem e que
+  não se justifica por três arquivos. Para 81 senadores seriam 24 MB, e aí a
+  conta muda — fica registrado para quem for expandir.
 - **Cartão de compartilhamento sem imagem** (§6.11). Resolver exigiria gerar
   PNG, e gerar PNG com texto exige rasterizar fonte — dependência que o projeto
   não tem e que não se justifica por um enfeite. Fica registrado como escolha,
