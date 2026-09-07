@@ -7,7 +7,7 @@ description: "Como Maria do Rosário vota: alinhamento com o governo federal e c
 
 # Maria do Rosário
 
-<p class="subtitulo"><b>PT</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
+<p class="subtitulo"><img class="retrato" src="../../assets/fotos/maria-do-rosario.jpg" width="114" height="152" alt="Retrato oficial de Maria do Rosário"><b>PT</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 

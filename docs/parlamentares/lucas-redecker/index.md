@@ -7,7 +7,7 @@ description: "Como Lucas Redecker vota: alinhamento com o governo federal e coes
 
 # Lucas Redecker
 
-<p class="subtitulo"><b>PSD</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
+<p class="subtitulo"><img class="retrato" src="../../assets/fotos/lucas-redecker.jpg" width="114" height="152" alt="Retrato oficial de Lucas Redecker"><b>PSD</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 

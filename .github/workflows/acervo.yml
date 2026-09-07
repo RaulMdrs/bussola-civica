@@ -120,6 +120,13 @@ jobs:
       - name: Conferir o acervo
         run: npm run relatorio
 
+      # Baixa só o que falta — suplente que assumiu desde a última execução.
+      # Não derruba a corrida se a origem estiver fora: perfil sem retrato é
+      # uma página completa, e as fotos já versionadas continuam no lugar.
+      - name: Buscar retratos novos
+        run: npm run fotos
+        continue-on-error: true
+
       - name: Gerar o site
         run: npm run site
 

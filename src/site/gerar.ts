@@ -29,6 +29,7 @@ import { join } from "node:path";
 import { DatabaseSync } from "node:sqlite";
 import { gzipSync } from "node:zlib";
 import { CAMINHO_DB } from "../db/client.ts";
+import { slug } from "./slug.ts";
 
 const SAIDA = "docs";
 const db = new DatabaseSync(process.env.BUSSOLA_DB ?? CAMINHO_DB, { readOnly: true });
@@ -37,14 +38,6 @@ const todos = <T>(sql: string, ...p: unknown[]): T[] =>
 const um = <T>(sql: string, ...p: unknown[]): T =>
   db.prepare(sql).get(...(p as never[])) as T;
 
-export function slug(s: string): string {
-  return s
-    .normalize("NFD")
-    .replace(/[̀-ͯ]/g, "")
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-|-$/g, "");
-}
 
 /**
  * Escape de HTML. Obrigatório: 73 votações trazem `<`, `>` ou `&` na descrição
@@ -110,6 +103,38 @@ const fonte = (url: string) =>
  * disponível. Preencher aqui é a única mudança necessária.
  */
 const CONTATO = "";
+
+/**
+ * Foto do parlamentar, se ela existir em disco.
+ *
+ * `npm run site` não baixa foto (ver `src/site/fotos.ts`), então o arquivo pode
+ * faltar — suplente que assumiu depois da última coleta, por exemplo. Faltando,
+ * o gerador **omite a imagem**: nome sem retrato é uma página completa; retrato
+ * quebrado é um defeito visível.
+ *
+ * `width`/`height` declarados porque a origem publica dois tamanhos — 354×472
+ * para 19 dos 31 deputados e 114×152 para os outros 12, e a miniatura é a única
+ * versão que existe para eles. Declarar reserva o espaço e evita o salto de
+ * layout enquanto a imagem carrega.
+ *
+ * `loading="lazy"` no índice: são 31 retratos abaixo da dobra.
+ */
+function foto(nome: string, tamanho: "perfil" | "linha", prefixo: string): string {
+  const arquivo = join(SAIDA, "assets", "fotos", `${slug(nome)}.jpg`);
+  if (!existsSync(arquivo)) return "";
+  const cls = tamanho === "perfil" ? "retrato" : "retrato retrato-linha";
+  const lazy = tamanho === "linha" ? ` loading="lazy"` : "";
+  // Caminho **relativo**, não `{{ … | relative_url }}`: o `|` do filtro Liquid
+  // é o separador de coluna do Markdown, e dentro de tabela a célula quebrava
+  // ao meio — o `<img>` virava texto escapado. Relativo também dispensa o
+  // `baseurl`, então sobrevive à troca de domínio sem virar mais um lugar onde
+  // o endereço está escrito.
+  return (
+    `<img class="${cls}" src="${prefixo}assets/fotos/${slug(nome)}.jpg"` +
+    ` width="114" height="152"${lazy}` +
+    ` alt="Retrato oficial de ${esc(nome)}">`
+  );
+}
 
 const ESCOPO_ROTULO: Record<string, string> = {
   merito: "Mérito",
@@ -478,7 +503,7 @@ function gerarPerfil(p: Parlamentar): string {
   );
 
   md += `# ${p.nome}\n\n`;
-  md += `<p class="subtitulo"><b>${esc(p.sigla ?? "sem filiação registrada")}</b> · `;
+  md += `<p class="subtitulo">${foto(p.nome, "perfil", "../../")}<b>${esc(p.sigla ?? "sem filiação registrada")}</b> · `;
   md += `deputado federal pelo RS · ${esc(p.condicao)}`;
   md += p.exercicio ? ` · em exercício desde <b>${esc(dataHumana(p.exercicio))}</b>` : "";
   md += `</p>\n\n`;
@@ -1410,7 +1435,7 @@ function gerarPerfilSenador(p: Parlamentar): string {
     "perfil",
   );
   md += `# ${p.nome}\n\n`;
-  md += `<p class="subtitulo"><b>${esc(p.sigla ?? "sem filiação registrada")}</b> · `;
+  md += `<p class="subtitulo">${foto(p.nome, "perfil", "../../")}<b>${esc(p.sigla ?? "sem filiação registrada")}</b> · `;
   md += `senador pelo RS · ${esc(p.condicao)}`;
   md += p.exercicio ? ` · em exercício desde <b>${esc(dataHumana(p.exercicio))}</b>` : "";
   md += `</p>\n\n`;
@@ -1499,7 +1524,7 @@ function gerarIndiceSenadores(senadores: Parlamentar[]): string {
   md += `| Senador | Partido | Coesão partidária | Votações (n) |\n|---|---|---:|---:|\n`;
   for (const p of senadores) {
     const x = posicoesDe(p.id).find((y) => !y.tema);
-    md += `| [${p.nome}](${slug(p.nome)}/) `;
+    md += `| ${foto(p.nome, "linha", "../")}[${p.nome}](${slug(p.nome)}/) `;
     md += `| <span class="sigla">${esc(p.sigla ?? "—")}</span> `;
     md += `| ${x ? `<span class="valor">${pct(x.valor)}%</span>` : "—"} `;
     md += `| ${x ? enne(x.n) + avisoN(x.n) : "—"} |\n`;
@@ -1834,7 +1859,7 @@ function gerarIndiceParlamentares(): string {
     const pos = posicoesDe(p.id).filter((x) => !x.tema && x.escopo === "merito");
     const al = pos.find((x) => x.eixo === "alinhamento_governo");
     const co = pos.find((x) => x.eixo === "coesao_partidaria");
-    md += `| [${p.nome}](${slug(p.nome)}/) `;
+    md += `| ${foto(p.nome, "linha", "../")}[${p.nome}](${slug(p.nome)}/) `;
     md += `| <span class="sigla">${esc(p.sigla ?? "—")}</span> `;
     md += `| ${al ? `<span class="valor">${pct(al.valor)}%</span>` : "—"} `;
     md += `| ${co ? `<span class="valor">${pct(co.valor)}%</span>` : "—"} `;

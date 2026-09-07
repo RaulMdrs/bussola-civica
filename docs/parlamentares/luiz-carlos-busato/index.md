@@ -7,7 +7,7 @@ description: "Como Luiz Carlos Busato vota: alinhamento com o governo federal e 
 
 # Luiz Carlos Busato
 
-<p class="subtitulo"><b>UNIÃO</b> · deputado federal pelo RS · titular · em exercício desde <b>31 jan 2023</b></p>
+<p class="subtitulo"><img class="retrato" src="../../assets/fotos/luiz-carlos-busato.jpg" width="114" height="152" alt="Retrato oficial de Luiz Carlos Busato"><b>UNIÃO</b> · deputado federal pelo RS · titular · em exercício desde <b>31 jan 2023</b></p>
 
 ## Os dois eixos
 

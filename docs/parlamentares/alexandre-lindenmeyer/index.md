@@ -7,7 +7,7 @@ description: "Como Alexandre Lindenmeyer vota: alinhamento com o governo federal
 
 # Alexandre Lindenmeyer
 
-<p class="subtitulo"><b>PT</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
+<p class="subtitulo"><img class="retrato" src="../../assets/fotos/alexandre-lindenmeyer.jpg" width="114" height="152" alt="Retrato oficial de Alexandre Lindenmeyer"><b>PT</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 

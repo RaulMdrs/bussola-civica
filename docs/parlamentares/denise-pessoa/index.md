@@ -7,7 +7,7 @@ description: "Como Denise Pessôa vota: alinhamento com o governo federal e coes
 
 # Denise Pessôa
 
-<p class="subtitulo"><b>PT</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
+<p class="subtitulo"><img class="retrato" src="../../assets/fotos/denise-pessoa.jpg" width="114" height="152" alt="Retrato oficial de Denise Pessôa"><b>PT</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 

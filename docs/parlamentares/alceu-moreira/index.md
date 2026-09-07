@@ -7,7 +7,7 @@ description: "Como Alceu Moreira vota: alinhamento com o governo federal e coes�
 
 # Alceu Moreira
 
-<p class="subtitulo"><b>MDB</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
+<p class="subtitulo"><img class="retrato" src="../../assets/fotos/alceu-moreira.jpg" width="114" height="152" alt="Retrato oficial de Alceu Moreira"><b>MDB</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 

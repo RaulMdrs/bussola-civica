@@ -7,7 +7,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Hamilton Mourão</a></b> · REPUBLICANOS · 16 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Hamilton Mourão</a></b> · REPUBLICANOS · 19 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
@@ -16,7 +16,16 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 > neste site: o link de cada discurso leva à página oficial do
 > **pronunciamento**, onde ele está publicado.
 
-## Substantivos — 16
+## Substantivos — 17
+
+<blockquote class="evidencia discurso" id="d-13383">
+<span class="data">15 jul 2026</span>
+<div class="corpo">
+<p class="tipo">Pela ordem</p>
+<p>Pela ordem sobre o Requerimento (RQS) n° 540, de 2026, que &quot;Requer urgência para o Substitutivo da Câmara dos Deputados ao Projeto de Lei nº 2.951/2024, nos termos dos arts. 336, III, e 338, III, do Regimento Interno do Senado Federal.&quot; Apelo para inclusão do requerimento em pauta.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523590">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-11898">
 <span class="data">07 jul 2026</span>
@@ -159,6 +168,35 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 <p class="tipo">Orientação à bancada</p>
 <p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 14, de 2026, que &quot;Dispõe sobre a redução de alíquotas da Contribuição para o PIS/Pasep e da Cofins incidentes sobre a indústria química e petroquímica, e altera as Leis nºs 11.196, de 21 de novembro de 2005, e 10.865, de 30 de abril de 2004”.</p>
 <a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/520333">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+## Classificados como protocolares — 2
+
+<div class="ausencia">
+<h4>Fora do perfil, dentro do acervo</h4>
+<p>Estes discursos não entram na seção do perfil porque são ato de
+procedimento, não posição: <b>orientação de bancada</b> (que já está
+estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
+<b>registro de presença</b>. A classificação separa; ela não exclui — por
+isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
+</div>
+
+<blockquote class="evidencia discurso" id="d-13385">
+<span class="data">15 jul 2026</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 18, de 2021, que &quot;Altera a Lei Complementar nº 141, de 13 de janeiro de 2012, para permitir que o serviço de atendimento pré-hospitalar dos corpos de bombeiros militares dos Estados e do Distrito Federal perceba emendas parlamentares destinadas às ações e serviços públicos de saúde.&quot;</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523570">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-13384">
+<span class="data">15 jul 2026</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o destaque para votação em separado constante do Requerimento nº 511, de 2026, (Requer, pela Liderança do Progressistas, destaque para votação em separado da Emenda nº 2 ao Projeto de Lei Complementar nº 18/2021.) ao Projeto de Lei Complementar (PLP) n° 18, de 2021, que &quot;Altera a Lei Complementar nº 141, de 13 de janeiro de 2012, para permitir que o serviço de atendimento pré-hospitalar dos corpos de bombeiros militares dos Estados e do Distrito Federal perceba emendas parlamentares destinadas às ações e serviços públicos de saúde.&quot;</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523584">Ver o pronunciamento no Senado</a>
 </div>
 </blockquote>
 

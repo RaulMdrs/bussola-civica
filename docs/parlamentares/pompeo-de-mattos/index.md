@@ -7,7 +7,7 @@ description: "Como Pompeo de Mattos vota: alinhamento com o governo federal e co
 
 # Pompeo de Mattos
 
-<p class="subtitulo"><b>PDT</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
+<p class="subtitulo"><img class="retrato" src="../../assets/fotos/pompeo-de-mattos.jpg" width="114" height="152" alt="Retrato oficial de Pompeo de Mattos"><b>PDT</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 

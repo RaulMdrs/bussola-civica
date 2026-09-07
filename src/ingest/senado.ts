@@ -54,6 +54,12 @@ interface SenadorApi {
     NomeParlamentar: string;
     SiglaPartidoParlamentar: string | null;
     UfParlamentar: string | null;
+    /**
+     * Vem em `http://www.senado...`, que redireciona para
+     * `https://legis.senado...`. Guardamos como a origem publica — normalizar
+     * URL de terceiro é inventar endereço —, e quem baixa segue o redirecionamento.
+     */
+    UrlFotoParlamentar?: string | null;
   };
   /**
    * O mandato do Senado cobre **duas** legislaturas (8 anos). Para Paulo Paim,
@@ -321,7 +327,9 @@ async function ingerirSenadores(ctx: Contexto) {
   for (const p of lista) {
     const i = p.IdentificacaoParlamentar;
     const noRecorte = i.UfParlamentar === ctx.uf;
-    const politicoId = await upsertSenador(ctx, i.CodigoParlamentar, i.NomeParlamentar, noRecorte, url);
+    const politicoId = await upsertSenador(
+      ctx, i.CodigoParlamentar, i.NomeParlamentar, noRecorte, url, i.UrlFotoParlamentar ?? null,
+    );
     if (!noRecorte) continue;
     doRecorte++;
 
@@ -430,6 +438,7 @@ async function upsertSenador(
   nome: string,
   noRecorte: boolean,
   url: string,
+  urlFoto: string | null,
 ): Promise<number> {
   const emCache = cacheSenadores.get(codigo);
   if (emCache && !noRecorte) return emCache;
@@ -447,7 +456,7 @@ async function upsertSenador(
     if (noRecorte) {
       await ctx.db
         .update(s.politico)
-        .set({ nomeParlamentar: nome, perfilCompleto: true })
+        .set({ nomeParlamentar: nome, perfilCompleto: true, urlFoto })
         .where(eq(s.politico.id, existente.politicoId));
     }
     cacheSenadores.set(codigo, existente.politicoId);
@@ -457,6 +466,7 @@ async function upsertSenador(
   await ctx.db.insert(s.politico).values({
     nomeParlamentar: nome,
     perfilCompleto: noRecorte,
+    urlFoto,
     fonteUrl: url,
   });
   /**
@@ -533,6 +543,9 @@ async function gravarVotacao(
       voto.nomeParlamentar,
       false,
       fonteVotacao(v.codigoSessaoVotacao),
+      // O endpoint de votação não traz foto, e `null` aqui não apaga a que já
+      // existe: `upsertSenador` só grava foto no ramo do recorte.
+      null,
     );
     const norm = normalizarVoto(voto.siglaVotoParlamentar, "senado", secreta);
     if (norm.desconhecido) {

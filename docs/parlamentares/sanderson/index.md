@@ -7,7 +7,7 @@ description: "Como Sanderson vota: alinhamento com o governo federal e coesão p
 
 # Sanderson
 
-<p class="subtitulo"><b>PL</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
+<p class="subtitulo"><img class="retrato" src="../../assets/fotos/sanderson.jpg" width="114" height="152" alt="Retrato oficial de Sanderson"><b>PL</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 

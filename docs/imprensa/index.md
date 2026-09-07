@@ -16,7 +16,7 @@ Um registro de **como 31 deputados federais e 3 senadores do
 Rio Grande do Sul votaram** na legislatura 57, montado só a
 partir das APIs oficiais da Câmara e do Senado. Cada número exibido é
 decomponível até a votação que o compõe, com link para o registro na
-origem — são 87.244 evidências e 6.619
+origem — são 87.244 evidências e 6.631
 discursos.
 
 > **O site não classifica ninguém.** Não há nota, ranking, selo ou

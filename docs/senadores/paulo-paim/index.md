@@ -7,7 +7,7 @@ description: "Como Paulo Paim vota no Senado: coesão com o próprio partido, a 
 
 # Paulo Paim
 
-<p class="subtitulo"><b>PT</b> · senador pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
+<p class="subtitulo"><img class="retrato" src="../../assets/fotos/paulo-paim.jpg" width="114" height="152" alt="Retrato oficial de Paulo Paim"><b>PT</b> · senador pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 <div class="interrompe">
 <h4>Não compare estes números com os dos deputados</h4>
@@ -74,7 +74,7 @@ As descrições são o texto original da fonte oficial.
 
 ## O que disse em plenário
 
-São **506 discursos** coletados no período, todos substantivos.
+São **515 discursos** coletados no período, todos substantivos.
 
 O que aparece abaixo é o sumário publicado pelo Senado.
 O texto integral não é reproduzido aqui — o link de cada discurso leva à
@@ -82,48 +82,48 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-12355">
-<span class="data">14 jul 2026</span>
+<blockquote class="evidencia discurso" id="d-13844">
+<span class="data">12 ago 2026</span>
 <div class="corpo">
-<p class="tipo">Discurso</p>
-<p>Defesa do fortalecimento do financiamento da previdência social, com críticas às perdas de arrecadação decorrentes de benefícios fiscais, sonegação e inadimplência, e apoio à revisão do modelo contributivo.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523662">Ver o pronunciamento no Senado</a>
+<p class="tipo">Fala da Presidência</p>
+<p>Abertura de sessão especial destinada a celebrar os 100 anos da Associação Brasileira de Enfermagem (ABEn Nacional).</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523786">Ver o pronunciamento no Senado</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12357">
-<span class="data">08 jul 2026</span>
+<blockquote class="evidencia discurso" id="d-13843">
+<span class="data">12 ago 2026</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
-<p>Registro da realização de audiência pública da CDH sobre a construção do Memorial dos Lanceiros Negros no Município de Pinheiro Machado-RS, que ocorrerá no dia 14 de julho de 2026, na Assembleia Legislativa do Rio Grande do Sul.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523448">Ver o pronunciamento no Senado</a>
+<p>Destaque para a importância dos auditores fiscais do trabalho na garantia dos direitos e da dignidade dos trabalhadores e para a necessidade de fortalecer a carreira no Brasil.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523802">Ver o pronunciamento no Senado</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12356">
-<span class="data">08 jul 2026</span>
+<blockquote class="evidencia discurso" id="d-13847">
+<span class="data">11 ago 2026</span>
 <div class="corpo">
-<p class="tipo">Como Relator - Para proferir parecer</p>
-<p>Como Relator - Para proferir parecer sobre o Projeto de Lei (PL) n° 3455, de 2023 (Substitutivo da Câmara dos Deputados), que &quot;Dispõe sobre a criação da Universidade Federal da Fronteira Norte (Unifron), no Município de Oiapoque, no Estado do Amapá.&quot; Afirmação de que a instituição contribuirá para a expansão da educação superior, a formação de profissionais para o desenvolvimento do Amapá, o atendimento às metas do Plano Nacional de Educação e o fortalecimento da cooperação científica entre Brasil e Guiana Francesa.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523468">Ver o pronunciamento no Senado</a>
+<p class="tipo">Discurso</p>
+<p>Lamento pelos danos em diversas cidades do Rio Grande do Sul resultantes dos desastres climáticos recentes e alerta aos governos municipais, estaduais e Federal sobre a necessidade de obras de prevenção contra cheias, além da ampliação dos sistemas de monitoramento e alerta climático. Defesa de investimentos permanentes em prevenção, fortalecimento da Defesa Civil e dos Corpos de Bombeiros e ampliação das obras de proteção, diante das projeções de intensificação do fenômeno El Niño e das mudanças climáticas.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523727">Ver o pronunciamento no Senado</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12358">
-<span class="data">07 jul 2026</span>
+<blockquote class="evidencia discurso" id="d-13846">
+<span class="data">11 ago 2026</span>
 <div class="corpo">
-<p class="tipo">Discurso</p>
-<p>Preocupação com o avanço de grupos supremacistas, neonazistas e de discursos de ódio no Brasil e no mundo. Defesa da democracia, dos direitos humanos e do combate ao racismo, ao fascismo, ao antissemitismo, à xenofobia e à discriminação. Repúdio a declarações consideradas racistas e xenófobas da Senadora paraguaia Celeste Amarilla contra o jogador francês Kylian Mbappé.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523383">Ver o pronunciamento no Senado</a>
+<p class="tipo">Pela ordem</p>
+<p>Pela ordem sobre solicitação de votação do Requerimento (RQS) n° 559, de 2026, que &quot;Requer a realização de Sessão Especial destinada a celebrar a criação da Frente Parlamentar pela Paz Mundial.&quot;</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523771">Ver o pronunciamento no Senado</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12359">
-<span class="data">06 jul 2026</span>
+<blockquote class="evidencia discurso" id="d-13845">
+<span class="data">11 ago 2026</span>
 <div class="corpo">
-<p class="tipo">Discurso</p>
-<p>Defesa da PEC nº 221/2019, que propõe a redução da jornada semanal de trabalho para 40 horas, sem redução salarial.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523329">Ver o pronunciamento no Senado</a>
+<p class="tipo">Pela ordem</p>
+<p>Pela ordem sobre o Requerimento (RQS) n° 580, de 2026, que &quot;Requer a tramitação conjunta do Projeto de Lei nº 74, de 2023, com os Projetos de Lei nºs 5.085 e 5.396, de 2023.&quot;</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523781">Ver o pronunciamento no Senado</a>
 </div>
 </blockquote>
 
@@ -131,7 +131,7 @@ fonte que o publicou.
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>65</b></span> | 65 |
+| [2026](discursos/2026/) | <span class="n"><b>74</b></span> | 74 |
 | [2025](discursos/2025/) | <span class="n"><b>135</b></span> | 135 |
 | [2024](discursos/2024/) | <span class="n"><b>138</b></span> | 138 |
 | [2023](discursos/2023/) | <span class="n"><b>168</b></span> | 168 |

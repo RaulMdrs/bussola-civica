@@ -17,7 +17,8 @@
     "ingerir:incremental": "node --env-file-if-exists=.env --experimental-strip-types src/ingest/incremental.ts",
     "relatorio": "node --env-file-if-exists=.env --experimental-strip-types src/relatorio.ts",
     "site": "node --experimental-strip-types src/site/gerar.ts",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "fotos": "node --experimental-strip-types src/site/fotos.ts"
   },
   "dependencies": {
     "drizzle-orm": "^0.45.2"

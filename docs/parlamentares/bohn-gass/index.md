@@ -7,7 +7,7 @@ description: "Como Bohn Gass vota: alinhamento com o governo federal e coesão p
 
 # Bohn Gass
 
-<p class="subtitulo"><b>PT</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
+<p class="subtitulo"><img class="retrato" src="../../assets/fotos/bohn-gass.jpg" width="114" height="152" alt="Retrato oficial de Bohn Gass"><b>PT</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 

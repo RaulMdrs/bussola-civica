@@ -599,6 +599,35 @@ tr:has(.aviso-n) td { background-image: repeating-linear-gradient(
   tr:has(.aviso-n) { border-color: var(--aviso-fio); border-width: 2px; }
 }
 
+/* ---------- Retrato oficial ---------------------------------- */
+/* Pequeno e ao lado do nome, nunca acima dos números.
+   O site existe para o leitor julgar o voto, não a pessoa, e rosto é o
+   elemento mais personalizante que uma página tem. Ele identifica; não
+   compete com o dado. */
+.retrato {
+  display: block;
+  width: 76px; height: auto;
+  border: 1px solid var(--fio);
+  border-radius: 2px;
+  float: left;
+  margin: 0 var(--e4) var(--e2) 0;
+  background: var(--papel-2);
+}
+/* 12 dos 31 retratos oficiais têm 114x152 e não existem em tamanho maior.
+   76px de largura cabe dentro do menor deles — nenhum aparece esticado. */
+.retrato-linha {
+  width: 34px;
+  float: none;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0 var(--e2) 0 0;
+}
+@media (max-width: 640px) {
+  .retrato { width: 60px; margin-right: var(--e3); }
+  .retrato-linha { width: 30px; }
+}
+@media print { .retrato { display: none; } }
+
 /* ---------- Órbita — panorama da bancada --------------------- */
 /* Nenhuma cor identifica pessoa, partido ou valor: tudo é tinta e fio.
    A única variação é o RAIO, e ele mede distância da própria bancada. */

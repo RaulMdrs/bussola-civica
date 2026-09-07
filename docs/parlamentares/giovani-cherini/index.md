@@ -7,7 +7,7 @@ description: "Como Giovani Cherini vota: alinhamento com o governo federal e coe
 
 # Giovani Cherini
 
-<p class="subtitulo"><b>PL</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
+<p class="subtitulo"><img class="retrato" src="../../assets/fotos/giovani-cherini.jpg" width="114" height="152" alt="Retrato oficial de Giovani Cherini"><b>PL</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 

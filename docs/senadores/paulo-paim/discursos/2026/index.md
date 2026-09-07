@@ -7,7 +7,7 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Paulo Paim</a></b> · PT · 65 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Paulo Paim</a></b> · PT · 74 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
@@ -16,7 +16,70 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 > neste site: o link de cada discurso leva à página oficial do
 > **pronunciamento**, onde ele está publicado.
 
-## Substantivos — 65
+## Substantivos — 74
+
+<blockquote class="evidencia discurso" id="d-13844">
+<span class="data">12 ago 2026</span>
+<div class="corpo">
+<p class="tipo">Fala da Presidência</p>
+<p>Abertura de sessão especial destinada a celebrar os 100 anos da Associação Brasileira de Enfermagem (ABEn Nacional).</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523786">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-13843">
+<span class="data">12 ago 2026</span>
+<div class="corpo">
+<p class="tipo">Discurso</p>
+<p>Destaque para a importância dos auditores fiscais do trabalho na garantia dos direitos e da dignidade dos trabalhadores e para a necessidade de fortalecer a carreira no Brasil.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523802">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-13847">
+<span class="data">11 ago 2026</span>
+<div class="corpo">
+<p class="tipo">Discurso</p>
+<p>Lamento pelos danos em diversas cidades do Rio Grande do Sul resultantes dos desastres climáticos recentes e alerta aos governos municipais, estaduais e Federal sobre a necessidade de obras de prevenção contra cheias, além da ampliação dos sistemas de monitoramento e alerta climático. Defesa de investimentos permanentes em prevenção, fortalecimento da Defesa Civil e dos Corpos de Bombeiros e ampliação das obras de proteção, diante das projeções de intensificação do fenômeno El Niño e das mudanças climáticas.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523727">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-13846">
+<span class="data">11 ago 2026</span>
+<div class="corpo">
+<p class="tipo">Pela ordem</p>
+<p>Pela ordem sobre solicitação de votação do Requerimento (RQS) n° 559, de 2026, que &quot;Requer a realização de Sessão Especial destinada a celebrar a criação da Frente Parlamentar pela Paz Mundial.&quot;</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523771">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-13845">
+<span class="data">11 ago 2026</span>
+<div class="corpo">
+<p class="tipo">Pela ordem</p>
+<p>Pela ordem sobre o Requerimento (RQS) n° 580, de 2026, que &quot;Requer a tramitação conjunta do Projeto de Lei nº 74, de 2023, com os Projetos de Lei nºs 5.085 e 5.396, de 2023.&quot;</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523781">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-13848">
+<span class="data">10 ago 2026</span>
+<div class="corpo">
+<p class="tipo">Discurso</p>
+<p>Defesa da PEC nº 221/2019, que prevê a redução da jornada de trabalho, sem redução salarial. Apelo ao Senado Federal para que aprecie a proposta antes das eleições gerais. Argumentação de que a matéria ampliará a qualidade de vida, fortalecerá a produtividade, favorecerá a geração de empregos e adequará as relações de trabalho às transformações econômicas e tecnológicas.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523692">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-13849">
+<span class="data">15 jul 2026</span>
+<div class="corpo">
+<p class="tipo">Discurso</p>
+<p>Defesa do fim da escala 6x1 e da redução da jornada de trabalho para 40 horas semanais, sem redução salarial, como medida para ampliar a produtividade, melhorar a qualidade de vida dos trabalhadores e fortalecer a competitividade da economia. Expectativa de aprovação, pelo Senado Federal, da PEC nº 221/2019, que trata sobre o tema, após o recesso parlamentar.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523509">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-12355">
 <span class="data">14 jul 2026</span>
@@ -24,6 +87,24 @@ description: "Os discursos de Paulo Paim em 2026, com o sumário oficial e link 
 <p class="tipo">Discurso</p>
 <p>Defesa do fortalecimento do financiamento da previdência social, com críticas às perdas de arrecadação decorrentes de benefícios fiscais, sonegação e inadimplência, e apoio à revisão do modelo contributivo.</p>
 <a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523662">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-13852">
+<span class="data">13 jul 2026</span>
+<div class="corpo">
+<p class="tipo">Discurso</p>
+<p>Sessão especial destinada a celebrar os 50 Anos da Associação Nacional das Magistradas e dos Magistrados da Justiça do Trabalho (Anamatra), destacando sua atuação na defesa da Justiça do Trabalho, dos direitos trabalhistas, da Constituição de 1988, da Previdência Social e do combate ao trabalho escravo. Comentários sobre desafios atuais como a uberização e a pejotização das relações de trabalho, reafirmando a importância da proteção social aos trabalhadores.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523479">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-13851">
+<span class="data">13 jul 2026</span>
+<div class="corpo">
+<p class="tipo">Discurso</p>
+<p>Manifestação favorável à PEC nº 221/2019, que dispõe sobre o fim da escala 6x1 e a redução da jornada de trabalho para 40 horas semanais sem redução salarial, com registro do início da campanha do Presidente Lula pela aprovação da proposta.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523497">Ver o pronunciamento no Senado</a>
 </div>
 </blockquote>
 

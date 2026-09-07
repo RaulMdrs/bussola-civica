@@ -7,7 +7,7 @@ description: "Como Afonso Motta vota: alinhamento com o governo federal e coesã
 
 # Afonso Motta
 
-<p class="subtitulo"><b>PDT</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
+<p class="subtitulo"><img class="retrato" src="../../assets/fotos/afonso-motta.jpg" width="114" height="152" alt="Retrato oficial de Afonso Motta"><b>PDT</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 

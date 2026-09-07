@@ -7,7 +7,7 @@ description: "Como Fernanda Melchionna vota: alinhamento com o governo federal e
 
 # Fernanda Melchionna
 
-<p class="subtitulo"><b>PSOL</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
+<p class="subtitulo"><img class="retrato" src="../../assets/fotos/fernanda-melchionna.jpg" width="114" height="152" alt="Retrato oficial de Fernanda Melchionna"><b>PSOL</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 

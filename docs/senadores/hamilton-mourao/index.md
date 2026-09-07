@@ -7,7 +7,7 @@ description: "Como Hamilton Mourão vota no Senado: coesão com o próprio parti
 
 # Hamilton Mourão
 
-<p class="subtitulo"><b>REPUBLICANOS</b> · senador pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
+<p class="subtitulo"><img class="retrato" src="../../assets/fotos/hamilton-mourao.jpg" width="114" height="152" alt="Retrato oficial de Hamilton Mourão"><b>REPUBLICANOS</b> · senador pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 <div class="interrompe">
 <h4>Não compare estes números com os dos deputados</h4>
@@ -74,13 +74,30 @@ As descrições são o texto original da fonte oficial.
 
 ## O que disse em plenário
 
-São **141 discursos** coletados no período, todos substantivos.
+São **144 discursos** coletados no período, dos quais **142 substantivos** — os outros 2 são
+orientação de bancada, que a classificação separa do perfil e
+**não descarta**: estão nas páginas por ano, na íntegra.
+
+> No Senado, quem separa é a **própria fonte**: cada pronunciamento vem
+> com o tipo de uso da palavra publicado pela Casa, e é dele que sai a
+> classificação — não de uma regra nossa. A regra da Câmara foi calibrada
+> contra texto da Câmara, e aplicá-la aqui repetiria o erro que este
+> projeto recusou no recorte entre mérito e procedimental.
 
 O que aparece abaixo é o sumário publicado pelo Senado.
 O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-13383">
+<span class="data">15 jul 2026</span>
+<div class="corpo">
+<p class="tipo">Pela ordem</p>
+<p>Pela ordem sobre o Requerimento (RQS) n° 540, de 2026, que &quot;Requer urgência para o Substitutivo da Câmara dos Deputados ao Projeto de Lei nº 2.951/2024, nos termos dos arts. 336, III, e 338, III, do Regimento Interno do Senado Federal.&quot; Apelo para inclusão do requerimento em pauta.</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523590">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-11898">
 <span class="data">07 jul 2026</span>
@@ -118,20 +135,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11903">
-<span class="data">16 jun 2026</span>
-<div class="corpo">
-<p class="tipo">Pela ordem</p>
-<p>Solidariedade ao Presidente do Senado, Davi Alcolumbre, em razão de reportagem que atribuiu ao parlamentar o recebimento de valores em conta no exterior, destacando os impactos institucionais e pessoais de acusações dessa natureza. Afirmação de que, caso as alegações tenham origem em procedimento oficial ou acordo de colaboração premiada, caberá ao Presidente exercer seu direito de defesa pelos meios jurídicos adequados. Acréscimo de que, se as informações divulgadas não constarem de documentos oficiais, será necessária apuração específica sobre sua origem, por considerar que eventual divulgação de fatos inexistentes comprometeria não apenas a imagem do Presidente do Senado, mas também a credibilidade das instituições públicas e do sistema de justiça.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/522918">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>16</b></span> | 16 |
+| [2026](discursos/2026/) | <span class="n"><b>19</b></span> | 17 |
 | [2025](discursos/2025/) | <span class="n"><b>25</b></span> | 25 |
 | [2024](discursos/2024/) | <span class="n"><b>58</b></span> | 58 |
 | [2023](discursos/2023/) | <span class="n"><b>42</b></span> | 42 |

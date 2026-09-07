@@ -7,7 +7,7 @@ description: "Como Pedro Westphalen vota: alinhamento com o governo federal e co
 
 # Pedro Westphalen
 
-<p class="subtitulo"><b>PP</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
+<p class="subtitulo"><img class="retrato" src="../../assets/fotos/pedro-westphalen.jpg" width="114" height="152" alt="Retrato oficial de Pedro Westphalen"><b>PP</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 

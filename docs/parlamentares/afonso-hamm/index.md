@@ -7,7 +7,7 @@ description: "Como Afonso Hamm vota: alinhamento com o governo federal e coesão
 
 # Afonso Hamm
 
-<p class="subtitulo"><b>PP</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
+<p class="subtitulo"><img class="retrato" src="../../assets/fotos/afonso-hamm.jpg" width="114" height="152" alt="Retrato oficial de Afonso Hamm"><b>PP</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 

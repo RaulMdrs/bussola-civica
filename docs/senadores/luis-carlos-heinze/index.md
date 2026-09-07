@@ -7,7 +7,7 @@ description: "Como Luis Carlos Heinze vota no Senado: coesão com o próprio par
 
 # Luis Carlos Heinze
 
-<p class="subtitulo"><b>PP</b> · senador pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
+<p class="subtitulo"><img class="retrato" src="../../assets/fotos/luis-carlos-heinze.jpg" width="114" height="152" alt="Retrato oficial de Luis Carlos Heinze"><b>PP</b> · senador pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 <div class="interrompe">
 <h4>Não compare estes números com os dos deputados</h4>

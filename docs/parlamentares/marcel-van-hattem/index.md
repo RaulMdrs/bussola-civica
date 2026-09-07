@@ -7,7 +7,7 @@ description: "Como Marcel van Hattem vota: alinhamento com o governo federal e c
 
 # Marcel van Hattem
 
-<p class="subtitulo"><b>NOVO</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
+<p class="subtitulo"><img class="retrato" src="../../assets/fotos/marcel-van-hattem.jpg" width="114" height="152" alt="Retrato oficial de Marcel van Hattem"><b>NOVO</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 

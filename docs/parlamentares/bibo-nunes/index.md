@@ -7,7 +7,7 @@ description: "Como Bibo Nunes vota: alinhamento com o governo federal e coesão 
 
 # Bibo Nunes
 
-<p class="subtitulo"><b>PL</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
+<p class="subtitulo"><img class="retrato" src="../../assets/fotos/bibo-nunes.jpg" width="114" height="152" alt="Retrato oficial de Bibo Nunes"><b>PL</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 

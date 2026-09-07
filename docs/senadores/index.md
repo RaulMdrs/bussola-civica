@@ -73,7 +73,7 @@ O `n` não está no gráfico: vai de **80 a
 
 | Senador | Partido | Coesão partidária | Votações (n) |
 |---|---|---:|---:|
-| [Hamilton Mourão](hamilton-mourao/) | <span class="sigla">REPUBLICANOS</span> | <span class="valor">85,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>105</b></span> |
-| [Luis Carlos Heinze](luis-carlos-heinze/) | <span class="sigla">PP</span> | <span class="valor">87,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>80</b></span> |
-| [Paulo Paim](paulo-paim/) | <span class="sigla">PT</span> | <span class="valor">93,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>107</b></span> |
+| <img class="retrato retrato-linha" src="../assets/fotos/hamilton-mourao.jpg" width="114" height="152" loading="lazy" alt="Retrato oficial de Hamilton Mourão">[Hamilton Mourão](hamilton-mourao/) | <span class="sigla">REPUBLICANOS</span> | <span class="valor">85,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>105</b></span> |
+| <img class="retrato retrato-linha" src="../assets/fotos/luis-carlos-heinze.jpg" width="114" height="152" loading="lazy" alt="Retrato oficial de Luis Carlos Heinze">[Luis Carlos Heinze](luis-carlos-heinze/) | <span class="sigla">PP</span> | <span class="valor">87,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>80</b></span> |
+| <img class="retrato retrato-linha" src="../assets/fotos/paulo-paim.jpg" width="114" height="152" loading="lazy" alt="Retrato oficial de Paulo Paim">[Paulo Paim](paulo-paim/) | <span class="sigla">PT</span> | <span class="valor">93,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>107</b></span> |
 {: .t-senado}

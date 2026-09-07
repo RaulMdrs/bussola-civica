@@ -7,7 +7,7 @@ description: "Como Danrlei de Deus Hinterholz vota: alinhamento com o governo fe
 
 # Danrlei de Deus Hinterholz
 
-<p class="subtitulo"><b>PSD</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
+<p class="subtitulo"><img class="retrato" src="../../assets/fotos/danrlei-de-deus-hinterholz.jpg" width="114" height="152" alt="Retrato oficial de Danrlei de Deus Hinterholz"><b>PSD</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 

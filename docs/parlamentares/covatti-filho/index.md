@@ -7,7 +7,7 @@ description: "Como Covatti Filho vota: alinhamento com o governo federal e coes�
 
 # Covatti Filho
 
-<p class="subtitulo"><b>PP</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
+<p class="subtitulo"><img class="retrato" src="../../assets/fotos/covatti-filho.jpg" width="114" height="152" alt="Retrato oficial de Covatti Filho"><b>PP</b> · deputado federal pelo RS · titular · em exercício desde <b>01 fev 2023</b></p>
 
 ## Os dois eixos
 
