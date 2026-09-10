@@ -18,7 +18,7 @@ description: "Os discursos de Heitor Schuch em 2026, com o sumário oficial e li
 
 ## Substantivos — 17
 
-<blockquote class="evidencia discurso" id="d-13170">
+<blockquote class="evidencia discurso" id="d-6609">
 <span class="data">01 set 2026 · 16:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Heitor Schuch em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-13169">
+<blockquote class="evidencia discurso" id="d-6608">
 <span class="data">01 set 2026 · 15:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Heitor Schuch em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-13144">
+<blockquote class="evidencia discurso" id="d-2637">
 <span class="data">12 ago 2026 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Heitor Schuch em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-13143">
+<blockquote class="evidencia discurso" id="d-2636">
 <span class="data">12 ago 2026 · 18:40</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Heitor Schuch em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-13142">
+<blockquote class="evidencia discurso" id="d-2635">
 <span class="data">11 ago 2026 · 16:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Heitor Schuch em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2629">
+<blockquote class="evidencia discurso" id="d-2634">
 <span class="data">01 jul 2026 · 15:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Heitor Schuch em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2627">
+<blockquote class="evidencia discurso" id="d-2632">
 <span class="data">17 jun 2026 · 17:24</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Heitor Schuch em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2626">
+<blockquote class="evidencia discurso" id="d-2631">
 <span class="data">16 jun 2026 · 15:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Heitor Schuch em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2625">
+<blockquote class="evidencia discurso" id="d-2630">
 <span class="data">09 jun 2026 · 14:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Heitor Schuch em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2624">
+<blockquote class="evidencia discurso" id="d-2629">
 <span class="data">26 mai 2026 · 14:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Heitor Schuch em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2623">
+<blockquote class="evidencia discurso" id="d-2628">
 <span class="data">12 mai 2026 · 14:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Heitor Schuch em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2622">
+<blockquote class="evidencia discurso" id="d-2627">
 <span class="data">15 abr 2026 · 15:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Heitor Schuch em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2621">
+<blockquote class="evidencia discurso" id="d-2626">
 <span class="data">07 abr 2026 · 16:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Heitor Schuch em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2620">
+<blockquote class="evidencia discurso" id="d-2625">
 <span class="data">18 mar 2026 · 14:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Heitor Schuch em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2619">
+<blockquote class="evidencia discurso" id="d-2624">
 <span class="data">03 mar 2026 · 16:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Heitor Schuch em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2618">
+<blockquote class="evidencia discurso" id="d-2623">
 <span class="data">25 fev 2026 · 20:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Heitor Schuch em 2026, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2616">
+<blockquote class="evidencia discurso" id="d-2621">
 <span class="data">11 fev 2026 · 17:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -182,7 +182,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-2628">
+<blockquote class="evidencia discurso" id="d-2633">
 <span class="data">17 jun 2026 · 18:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -191,7 +191,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2617">
+<blockquote class="evidencia discurso" id="d-2622">
 <span class="data">25 fev 2026 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

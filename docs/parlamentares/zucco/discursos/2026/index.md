@@ -18,7 +18,7 @@ description: "Os discursos de Zucco em 2026, com o sumário oficial e link para 
 
 ## Substantivos — 3
 
-<blockquote class="evidencia discurso" id="d-4483">
+<blockquote class="evidencia discurso" id="d-4495">
 <span class="data">09 jun 2026 · 15:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Zucco em 2026, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4482">
+<blockquote class="evidencia discurso" id="d-4494">
 <span class="data">30 abr 2026 · 14:48</span>
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Zucco em 2026, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4481">
+<blockquote class="evidencia discurso" id="d-4493">
 <span class="data">07 abr 2026 · 19:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

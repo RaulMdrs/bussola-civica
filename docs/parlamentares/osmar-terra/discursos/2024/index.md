@@ -18,7 +18,7 @@ description: "Os discursos de Osmar Terra em 2024, com o sumário oficial e link
 
 ## Substantivos — 20
 
-<blockquote class="evidencia discurso" id="d-5472">
+<blockquote class="evidencia discurso" id="d-5484">
 <span class="data">19 dez 2024 · 13:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Osmar Terra em 2024, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5471">
+<blockquote class="evidencia discurso" id="d-5483">
 <span class="data">19 dez 2024 · 11:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Osmar Terra em 2024, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5470">
+<blockquote class="evidencia discurso" id="d-5482">
 <span class="data">14 ago 2024 · 14:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Osmar Terra em 2024, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5469">
+<blockquote class="evidencia discurso" id="d-5481">
 <span class="data">02 jul 2024 · 14:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Osmar Terra em 2024, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5468">
+<blockquote class="evidencia discurso" id="d-5480">
 <span class="data">26 jun 2024 · 16:00</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Osmar Terra em 2024, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5467">
+<blockquote class="evidencia discurso" id="d-5479">
 <span class="data">25 jun 2024 · 17:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Osmar Terra em 2024, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5466">
+<blockquote class="evidencia discurso" id="d-5478">
 <span class="data">25 jun 2024 · 17:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Osmar Terra em 2024, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5465">
+<blockquote class="evidencia discurso" id="d-5477">
 <span class="data">25 jun 2024 · 16:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Osmar Terra em 2024, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5464">
+<blockquote class="evidencia discurso" id="d-5476">
 <span class="data">25 jun 2024 · 16:36</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Osmar Terra em 2024, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5463">
+<blockquote class="evidencia discurso" id="d-5475">
 <span class="data">05 jun 2024 · 15:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Osmar Terra em 2024, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5462">
+<blockquote class="evidencia discurso" id="d-5474">
 <span class="data">28 mai 2024 · 17:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Osmar Terra em 2024, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5461">
+<blockquote class="evidencia discurso" id="d-5473">
 <span class="data">09 mai 2024 · 14:58</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Osmar Terra em 2024, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5460">
+<blockquote class="evidencia discurso" id="d-5472">
 <span class="data">07 mai 2024 · 15:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Osmar Terra em 2024, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5459">
+<blockquote class="evidencia discurso" id="d-5471">
 <span class="data">06 mai 2024 · 21:08</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Osmar Terra em 2024, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5458">
+<blockquote class="evidencia discurso" id="d-5470">
 <span class="data">06 mai 2024 · 20:40</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Osmar Terra em 2024, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5457">
+<blockquote class="evidencia discurso" id="d-5469">
 <span class="data">10 abr 2024 · 17:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Osmar Terra em 2024, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5456">
+<blockquote class="evidencia discurso" id="d-5468">
 <span class="data">09 abr 2024 · 17:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Osmar Terra em 2024, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5455">
+<blockquote class="evidencia discurso" id="d-5467">
 <span class="data">09 abr 2024 · 17:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Osmar Terra em 2024, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5454">
+<blockquote class="evidencia discurso" id="d-5466">
 <span class="data">19 mar 2024 · 17:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Osmar Terra em 2024, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5452">
+<blockquote class="evidencia discurso" id="d-5464">
 <span class="data">29 fev 2024 · 12:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -209,7 +209,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-5453">
+<blockquote class="evidencia discurso" id="d-5465">
 <span class="data">12 mar 2024 · 19:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

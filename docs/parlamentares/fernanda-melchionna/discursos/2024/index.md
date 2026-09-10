@@ -18,7 +18,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 
 ## Substantivos — 46
 
-<blockquote class="evidencia discurso" id="d-3704">
+<blockquote class="evidencia discurso" id="d-3713">
 <span class="data">11 jul 2024 · 19:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3702">
+<blockquote class="evidencia discurso" id="d-3711">
 <span class="data">11 jul 2024 · 19:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3701">
+<blockquote class="evidencia discurso" id="d-3710">
 <span class="data">11 jul 2024 · 19:16</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3699">
+<blockquote class="evidencia discurso" id="d-3708">
 <span class="data">11 jul 2024 · 18:52</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3697">
+<blockquote class="evidencia discurso" id="d-3706">
 <span class="data">11 jul 2024 · 18:04</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3696">
+<blockquote class="evidencia discurso" id="d-3705">
 <span class="data">11 jul 2024 · 16:32</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3695">
+<blockquote class="evidencia discurso" id="d-3704">
 <span class="data">11 jul 2024 · 16:16</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3694">
+<blockquote class="evidencia discurso" id="d-3703">
 <span class="data">11 jul 2024 · 15:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3693">
+<blockquote class="evidencia discurso" id="d-3702">
 <span class="data">11 jul 2024 · 14:48</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3691">
+<blockquote class="evidencia discurso" id="d-3700">
 <span class="data">11 jul 2024 · 13:56</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3690">
+<blockquote class="evidencia discurso" id="d-3699">
 <span class="data">11 jul 2024 · 13:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3688">
+<blockquote class="evidencia discurso" id="d-3697">
 <span class="data">10 jul 2024 · 17:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3687">
+<blockquote class="evidencia discurso" id="d-3696">
 <span class="data">09 jul 2024 · 20:24</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3686">
+<blockquote class="evidencia discurso" id="d-3695">
 <span class="data">09 jul 2024 · 18:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3684">
+<blockquote class="evidencia discurso" id="d-3693">
 <span class="data">02 jul 2024 · 19:20</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3683">
+<blockquote class="evidencia discurso" id="d-3692">
 <span class="data">02 jul 2024 · 18:48</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3682">
+<blockquote class="evidencia discurso" id="d-3691">
 <span class="data">26 jun 2024 · 17:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3681">
+<blockquote class="evidencia discurso" id="d-3690">
 <span class="data">25 jun 2024 · 19:32</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3680">
+<blockquote class="evidencia discurso" id="d-3689">
 <span class="data">25 jun 2024 · 18:56</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3679">
+<blockquote class="evidencia discurso" id="d-3688">
 <span class="data">18 jun 2024 · 21:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3678">
+<blockquote class="evidencia discurso" id="d-3687">
 <span class="data">12 jun 2024 · 19:28</span>
 <div class="corpo">
 <p class="tipo">RECLAMAÇÃO</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3677">
+<blockquote class="evidencia discurso" id="d-3686">
 <span class="data">12 jun 2024 · 18:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3676">
+<blockquote class="evidencia discurso" id="d-3685">
 <span class="data">12 jun 2024 · 17:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3675">
+<blockquote class="evidencia discurso" id="d-3684">
 <span class="data">11 jun 2024 · 21:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3673">
+<blockquote class="evidencia discurso" id="d-3682">
 <span class="data">04 jun 2024 · 20:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3672">
+<blockquote class="evidencia discurso" id="d-3681">
 <span class="data">04 jun 2024 · 19:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3671">
+<blockquote class="evidencia discurso" id="d-3680">
 <span class="data">28 mai 2024 · 22:40</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3670">
+<blockquote class="evidencia discurso" id="d-3679">
 <span class="data">28 mai 2024 · 17:52</span>
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3669">
+<blockquote class="evidencia discurso" id="d-3678">
 <span class="data">22 mai 2024 · 19:48</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3667">
+<blockquote class="evidencia discurso" id="d-3676">
 <span class="data">21 mai 2024 · 22:36</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3666">
+<blockquote class="evidencia discurso" id="d-3675">
 <span class="data">21 mai 2024 · 21:12</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3665">
+<blockquote class="evidencia discurso" id="d-3674">
 <span class="data">14 mai 2024 · 23:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3664">
+<blockquote class="evidencia discurso" id="d-3673">
 <span class="data">14 mai 2024 · 21:52</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3663">
+<blockquote class="evidencia discurso" id="d-3672">
 <span class="data">14 mai 2024 · 17:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3662">
+<blockquote class="evidencia discurso" id="d-3671">
 <span class="data">08 mai 2024 · 19:20</span>
 <div class="corpo">
 <p class="tipo">RECLAMAÇÃO</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3661">
+<blockquote class="evidencia discurso" id="d-3670">
 <span class="data">08 mai 2024 · 18:08</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3660">
+<blockquote class="evidencia discurso" id="d-3669">
 <span class="data">26 mar 2024 · 18:56</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -351,7 +351,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3659">
+<blockquote class="evidencia discurso" id="d-3668">
 <span class="data">20 mar 2024 · 21:20</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -360,7 +360,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3655">
+<blockquote class="evidencia discurso" id="d-3664">
 <span class="data">19 mar 2024 · 21:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -369,7 +369,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3654">
+<blockquote class="evidencia discurso" id="d-3663">
 <span class="data">19 mar 2024 · 19:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -378,7 +378,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3652">
+<blockquote class="evidencia discurso" id="d-3661">
 <span class="data">13 mar 2024 · 18:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -387,7 +387,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3649">
+<blockquote class="evidencia discurso" id="d-3658">
 <span class="data">06 mar 2024 · 21:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -396,7 +396,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3648">
+<blockquote class="evidencia discurso" id="d-3657">
 <span class="data">05 mar 2024 · 19:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -405,7 +405,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3647">
+<blockquote class="evidencia discurso" id="d-3656">
 <span class="data">05 mar 2024 · 19:20</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -414,7 +414,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3646">
+<blockquote class="evidencia discurso" id="d-3655">
 <span class="data">05 mar 2024 · 19:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -423,7 +423,7 @@ description: "Os discursos de Fernanda Melchionna em 2024, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3645">
+<blockquote class="evidencia discurso" id="d-3654">
 <span class="data">21 fev 2024 · 18:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -443,7 +443,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-3703">
+<blockquote class="evidencia discurso" id="d-3712">
 <span class="data">11 jul 2024 · 19:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -452,7 +452,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3700">
+<blockquote class="evidencia discurso" id="d-3709">
 <span class="data">11 jul 2024 · 19:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -461,7 +461,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3698">
+<blockquote class="evidencia discurso" id="d-3707">
 <span class="data">11 jul 2024 · 18:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -470,7 +470,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3692">
+<blockquote class="evidencia discurso" id="d-3701">
 <span class="data">11 jul 2024 · 14:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -479,7 +479,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3689">
+<blockquote class="evidencia discurso" id="d-3698">
 <span class="data">11 jul 2024 · 12:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -488,7 +488,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3685">
+<blockquote class="evidencia discurso" id="d-3694">
 <span class="data">02 jul 2024 · 19:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -497,7 +497,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3674">
+<blockquote class="evidencia discurso" id="d-3683">
 <span class="data">04 jun 2024 · 20:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -506,7 +506,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3668">
+<blockquote class="evidencia discurso" id="d-3677">
 <span class="data">22 mai 2024 · 19:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -515,7 +515,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3658">
+<blockquote class="evidencia discurso" id="d-3667">
 <span class="data">20 mar 2024 · 19:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -524,7 +524,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3657">
+<blockquote class="evidencia discurso" id="d-3666">
 <span class="data">20 mar 2024 · 19:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -533,7 +533,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3656">
+<blockquote class="evidencia discurso" id="d-3665">
 <span class="data">20 mar 2024 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -542,7 +542,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3653">
+<blockquote class="evidencia discurso" id="d-3662">
 <span class="data">19 mar 2024 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -551,7 +551,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3651">
+<blockquote class="evidencia discurso" id="d-3660">
 <span class="data">13 mar 2024 · 17:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -560,7 +560,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3650">
+<blockquote class="evidencia discurso" id="d-3659">
 <span class="data">12 mar 2024 · 18:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

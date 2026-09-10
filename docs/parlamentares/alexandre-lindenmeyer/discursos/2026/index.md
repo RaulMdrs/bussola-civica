@@ -18,7 +18,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2026, com o sumário ofic
 
 ## Substantivos — 5
 
-<blockquote class="evidencia discurso" id="d-4583">
+<blockquote class="evidencia discurso" id="d-4595">
 <span class="data">16 jun 2026 · 16:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2026, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4582">
+<blockquote class="evidencia discurso" id="d-4594">
 <span class="data">10 jun 2026 · 18:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2026, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4581">
+<blockquote class="evidencia discurso" id="d-4593">
 <span class="data">09 jun 2026 · 16:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2026, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4580">
+<blockquote class="evidencia discurso" id="d-4592">
 <span class="data">26 mai 2026 · 15:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2026, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4579">
+<blockquote class="evidencia discurso" id="d-4591">
 <span class="data">12 mai 2026 · 14:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -74,7 +74,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-4578">
+<blockquote class="evidencia discurso" id="d-4590">
 <span class="data">12 mai 2026 · 14:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

@@ -18,7 +18,7 @@ description: "Os discursos de Luis Carlos Heinze em 2025, com o sumário oficial
 
 ## Substantivos — 21
 
-<blockquote class="evidencia discurso" id="d-11745">
+<blockquote class="evidencia discurso" id="d-5910">
 <span class="data">09 dez 2025</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Luis Carlos Heinze em 2025, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11746">
+<blockquote class="evidencia discurso" id="d-5911">
 <span class="data">03 dez 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Luis Carlos Heinze em 2025, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11747">
+<blockquote class="evidencia discurso" id="d-5912">
 <span class="data">02 dez 2025</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Luis Carlos Heinze em 2025, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11748">
+<blockquote class="evidencia discurso" id="d-5913">
 <span class="data">25 nov 2025</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Luis Carlos Heinze em 2025, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11750">
+<blockquote class="evidencia discurso" id="d-5915">
 <span class="data">11 nov 2025</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Luis Carlos Heinze em 2025, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11749">
+<blockquote class="evidencia discurso" id="d-5914">
 <span class="data">11 nov 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Luis Carlos Heinze em 2025, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11751">
+<blockquote class="evidencia discurso" id="d-5916">
 <span class="data">14 out 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Luis Carlos Heinze em 2025, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11752">
+<blockquote class="evidencia discurso" id="d-5917">
 <span class="data">24 set 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Luis Carlos Heinze em 2025, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11753">
+<blockquote class="evidencia discurso" id="d-5918">
 <span class="data">10 set 2025</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Luis Carlos Heinze em 2025, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11754">
+<blockquote class="evidencia discurso" id="d-5919">
 <span class="data">20 ago 2025</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Luis Carlos Heinze em 2025, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11755">
+<blockquote class="evidencia discurso" id="d-5920">
 <span class="data">19 ago 2025</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Luis Carlos Heinze em 2025, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11756">
+<blockquote class="evidencia discurso" id="d-5921">
 <span class="data">16 jul 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Luis Carlos Heinze em 2025, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11757">
+<blockquote class="evidencia discurso" id="d-5922">
 <span class="data">10 jun 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Luis Carlos Heinze em 2025, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11758">
+<blockquote class="evidencia discurso" id="d-5923">
 <span class="data">28 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Luis Carlos Heinze em 2025, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11759">
+<blockquote class="evidencia discurso" id="d-5924">
 <span class="data">21 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Luis Carlos Heinze em 2025, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11761">
+<blockquote class="evidencia discurso" id="d-5926">
 <span class="data">20 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Luis Carlos Heinze em 2025, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11760">
+<blockquote class="evidencia discurso" id="d-5925">
 <span class="data">20 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Como Relator - Para proferir parecer</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Luis Carlos Heinze em 2025, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11762">
+<blockquote class="evidencia discurso" id="d-5927">
 <span class="data">01 abr 2025</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Luis Carlos Heinze em 2025, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11763">
+<blockquote class="evidencia discurso" id="d-5928">
 <span class="data">26 mar 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Luis Carlos Heinze em 2025, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11764">
+<blockquote class="evidencia discurso" id="d-5929">
 <span class="data">25 mar 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Luis Carlos Heinze em 2025, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11765">
+<blockquote class="evidencia discurso" id="d-5930">
 <span class="data">19 fev 2025</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>

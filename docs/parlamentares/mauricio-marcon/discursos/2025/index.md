@@ -18,7 +18,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 
 ## Substantivos — 66
 
-<blockquote class="evidencia discurso" id="d-4305">
+<blockquote class="evidencia discurso" id="d-4317">
 <span class="data">10 dez 2025 · 19:52</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4304">
+<blockquote class="evidencia discurso" id="d-4316">
 <span class="data">09 dez 2025 · 21:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4303">
+<blockquote class="evidencia discurso" id="d-4315">
 <span class="data">26 nov 2025 · 15:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4302">
+<blockquote class="evidencia discurso" id="d-4314">
 <span class="data">25 nov 2025 · 15:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4301">
+<blockquote class="evidencia discurso" id="d-4313">
 <span class="data">18 nov 2025 · 19:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4300">
+<blockquote class="evidencia discurso" id="d-4312">
 <span class="data">18 nov 2025 · 18:00</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4299">
+<blockquote class="evidencia discurso" id="d-4311">
 <span class="data">18 nov 2025 · 17:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4298">
+<blockquote class="evidencia discurso" id="d-4310">
 <span class="data">11 nov 2025 · 16:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4297">
+<blockquote class="evidencia discurso" id="d-4309">
 <span class="data">05 nov 2025 · 17:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4296">
+<blockquote class="evidencia discurso" id="d-4308">
 <span class="data">28 out 2025 · 16:44</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4295">
+<blockquote class="evidencia discurso" id="d-4307">
 <span class="data">22 out 2025 · 15:16</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4294">
+<blockquote class="evidencia discurso" id="d-4306">
 <span class="data">30 set 2025 · 15:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4293">
+<blockquote class="evidencia discurso" id="d-4305">
 <span class="data">27 ago 2025 · 19:24</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4292">
+<blockquote class="evidencia discurso" id="d-4304">
 <span class="data">27 ago 2025 · 14:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4291">
+<blockquote class="evidencia discurso" id="d-4303">
 <span class="data">26 ago 2025 · 18:16</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4289">
+<blockquote class="evidencia discurso" id="d-4301">
 <span class="data">19 ago 2025 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4288">
+<blockquote class="evidencia discurso" id="d-4300">
 <span class="data">19 ago 2025 · 17:24</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4287">
+<blockquote class="evidencia discurso" id="d-4299">
 <span class="data">19 ago 2025 · 17:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4286">
+<blockquote class="evidencia discurso" id="d-4298">
 <span class="data">13 ago 2025 · 20:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4285">
+<blockquote class="evidencia discurso" id="d-4297">
 <span class="data">13 ago 2025 · 17:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4284">
+<blockquote class="evidencia discurso" id="d-4296">
 <span class="data">12 ago 2025 · 20:00</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4283">
+<blockquote class="evidencia discurso" id="d-4295">
 <span class="data">16 jul 2025 · 18:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4282">
+<blockquote class="evidencia discurso" id="d-4294">
 <span class="data">16 jul 2025 · 15:20</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4281">
+<blockquote class="evidencia discurso" id="d-4293">
 <span class="data">15 jul 2025 · 15:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4279">
+<blockquote class="evidencia discurso" id="d-4291">
 <span class="data">08 jul 2025 · 16:20</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4278">
+<blockquote class="evidencia discurso" id="d-4290">
 <span class="data">02 jul 2025 · 17:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4277">
+<blockquote class="evidencia discurso" id="d-4289">
 <span class="data">02 jul 2025 · 15:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4276">
+<blockquote class="evidencia discurso" id="d-4288">
 <span class="data">02 jul 2025 · 15:24</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4275">
+<blockquote class="evidencia discurso" id="d-4287">
 <span class="data">01 jul 2025 · 15:00</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4274">
+<blockquote class="evidencia discurso" id="d-4286">
 <span class="data">17 jun 2025 · 18:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4273">
+<blockquote class="evidencia discurso" id="d-4285">
 <span class="data">11 jun 2025 · 18:12</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4272">
+<blockquote class="evidencia discurso" id="d-4284">
 <span class="data">11 jun 2025 · 16:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4271">
+<blockquote class="evidencia discurso" id="d-4283">
 <span class="data">10 jun 2025 · 18:48</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4270">
+<blockquote class="evidencia discurso" id="d-4282">
 <span class="data">10 jun 2025 · 17:04</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4269">
+<blockquote class="evidencia discurso" id="d-4281">
 <span class="data">28 mai 2025 · 20:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4268">
+<blockquote class="evidencia discurso" id="d-4280">
 <span class="data">28 mai 2025 · 17:56</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4267">
+<blockquote class="evidencia discurso" id="d-4279">
 <span class="data">26 mai 2025 · 18:28</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -351,7 +351,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4266">
+<blockquote class="evidencia discurso" id="d-4278">
 <span class="data">21 mai 2025 · 16:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -360,7 +360,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4265">
+<blockquote class="evidencia discurso" id="d-4277">
 <span class="data">20 mai 2025 · 16:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -369,7 +369,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4264">
+<blockquote class="evidencia discurso" id="d-4276">
 <span class="data">07 mai 2025 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -378,7 +378,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4263">
+<blockquote class="evidencia discurso" id="d-4275">
 <span class="data">06 mai 2025 · 19:04</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -387,7 +387,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4262">
+<blockquote class="evidencia discurso" id="d-4274">
 <span class="data">06 mai 2025 · 15:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -396,7 +396,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4261">
+<blockquote class="evidencia discurso" id="d-4273">
 <span class="data">05 mai 2025 · 18:20</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -405,7 +405,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4260">
+<blockquote class="evidencia discurso" id="d-4272">
 <span class="data">29 abr 2025 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -414,7 +414,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4259">
+<blockquote class="evidencia discurso" id="d-4271">
 <span class="data">29 abr 2025 · 18:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -423,7 +423,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4258">
+<blockquote class="evidencia discurso" id="d-4270">
 <span class="data">28 abr 2025 · 18:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -432,7 +432,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4257">
+<blockquote class="evidencia discurso" id="d-4269">
 <span class="data">23 abr 2025 · 14:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -441,7 +441,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4254">
+<blockquote class="evidencia discurso" id="d-4266">
 <span class="data">22 abr 2025 · 14:12</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -450,7 +450,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4252">
+<blockquote class="evidencia discurso" id="d-4264">
 <span class="data">08 abr 2025 · 16:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -459,7 +459,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4251">
+<blockquote class="evidencia discurso" id="d-4263">
 <span class="data">02 abr 2025 · 16:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -468,7 +468,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4250">
+<blockquote class="evidencia discurso" id="d-4262">
 <span class="data">01 abr 2025 · 17:00</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -477,7 +477,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4249">
+<blockquote class="evidencia discurso" id="d-4261">
 <span class="data">26 mar 2025 · 17:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -486,7 +486,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4248">
+<blockquote class="evidencia discurso" id="d-4260">
 <span class="data">25 mar 2025 · 14:32</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -495,7 +495,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4247">
+<blockquote class="evidencia discurso" id="d-4259">
 <span class="data">19 mar 2025 · 20:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -504,7 +504,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4246">
+<blockquote class="evidencia discurso" id="d-4258">
 <span class="data">19 mar 2025 · 18:04</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -513,7 +513,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4245">
+<blockquote class="evidencia discurso" id="d-4257">
 <span class="data">18 mar 2025 · 14:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -522,7 +522,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4244">
+<blockquote class="evidencia discurso" id="d-4256">
 <span class="data">12 mar 2025 · 14:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -531,7 +531,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4243">
+<blockquote class="evidencia discurso" id="d-4255">
 <span class="data">11 mar 2025 · 15:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -540,7 +540,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4242">
+<blockquote class="evidencia discurso" id="d-4254">
 <span class="data">11 mar 2025 · 15:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -549,7 +549,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4241">
+<blockquote class="evidencia discurso" id="d-4253">
 <span class="data">26 fev 2025 · 15:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -558,7 +558,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4240">
+<blockquote class="evidencia discurso" id="d-4252">
 <span class="data">25 fev 2025 · 14:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -567,7 +567,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4239">
+<blockquote class="evidencia discurso" id="d-4251">
 <span class="data">19 fev 2025 · 14:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -576,7 +576,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4238">
+<blockquote class="evidencia discurso" id="d-4250">
 <span class="data">18 fev 2025 · 15:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -585,7 +585,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4237">
+<blockquote class="evidencia discurso" id="d-4249">
 <span class="data">12 fev 2025 · 14:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -594,7 +594,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4236">
+<blockquote class="evidencia discurso" id="d-4248">
 <span class="data">11 fev 2025 · 14:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -603,7 +603,7 @@ description: "Os discursos de Mauricio Marcon em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4235">
+<blockquote class="evidencia discurso" id="d-4247">
 <span class="data">04 fev 2025 · 14:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -623,7 +623,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-4290">
+<blockquote class="evidencia discurso" id="d-4302">
 <span class="data">19 ago 2025 · 19:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -632,7 +632,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4280">
+<blockquote class="evidencia discurso" id="d-4292">
 <span class="data">08 jul 2025 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -641,7 +641,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4256">
+<blockquote class="evidencia discurso" id="d-4268">
 <span class="data">22 abr 2025 · 20:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -650,7 +650,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4255">
+<blockquote class="evidencia discurso" id="d-4267">
 <span class="data">22 abr 2025 · 17:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -659,7 +659,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4253">
+<blockquote class="evidencia discurso" id="d-4265">
 <span class="data">08 abr 2025 · 17:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

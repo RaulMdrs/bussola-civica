@@ -51,7 +51,7 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">84,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>13</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">84,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>32</b></span> |
 | [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">75,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>33</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">74,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>91</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">74,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>90</b></span> |
 | [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">48,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>25</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">35,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>17</b></span> <span class="aviso-n">amostra pequena</span> |
 {: .t-temas}

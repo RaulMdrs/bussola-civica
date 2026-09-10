@@ -18,7 +18,7 @@ description: "Os discursos de Giovani Cherini em 2024, com o sumário oficial e 
 
 ## Substantivos — 23
 
-<blockquote class="evidencia discurso" id="d-2373">
+<blockquote class="evidencia discurso" id="d-2378">
 <span class="data">19 dez 2024 · 13:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Giovani Cherini em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2372">
+<blockquote class="evidencia discurso" id="d-2377">
 <span class="data">18 dez 2024 · 16:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Giovani Cherini em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2371">
+<blockquote class="evidencia discurso" id="d-2376">
 <span class="data">16 dez 2024 · 19:28</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Giovani Cherini em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2370">
+<blockquote class="evidencia discurso" id="d-2375">
 <span class="data">16 dez 2024 · 18:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Giovani Cherini em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2369">
+<blockquote class="evidencia discurso" id="d-2374">
 <span class="data">16 dez 2024 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Giovani Cherini em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2368">
+<blockquote class="evidencia discurso" id="d-2373">
 <span class="data">16 dez 2024 · 17:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Giovani Cherini em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2367">
+<blockquote class="evidencia discurso" id="d-2372">
 <span class="data">16 dez 2024 · 17:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Giovani Cherini em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2366">
+<blockquote class="evidencia discurso" id="d-2371">
 <span class="data">11 dez 2024 · 15:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Giovani Cherini em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2365">
+<blockquote class="evidencia discurso" id="d-2370">
 <span class="data">04 dez 2024 · 16:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Giovani Cherini em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2364">
+<blockquote class="evidencia discurso" id="d-2369">
 <span class="data">03 dez 2024 · 15:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Giovani Cherini em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2363">
+<blockquote class="evidencia discurso" id="d-2368">
 <span class="data">26 nov 2024 · 14:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Giovani Cherini em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2362">
+<blockquote class="evidencia discurso" id="d-2367">
 <span class="data">05 nov 2024 · 16:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Giovani Cherini em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2361">
+<blockquote class="evidencia discurso" id="d-2366">
 <span class="data">29 out 2024 · 17:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Giovani Cherini em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2360">
+<blockquote class="evidencia discurso" id="d-2365">
 <span class="data">12 ago 2024 · 18:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Giovani Cherini em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2359">
+<blockquote class="evidencia discurso" id="d-2364">
 <span class="data">11 jun 2024 · 15:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Giovani Cherini em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2358">
+<blockquote class="evidencia discurso" id="d-2363">
 <span class="data">11 jun 2024 · 15:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Giovani Cherini em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2357">
+<blockquote class="evidencia discurso" id="d-2362">
 <span class="data">05 jun 2024 · 16:24</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Giovani Cherini em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2356">
+<blockquote class="evidencia discurso" id="d-2361">
 <span class="data">05 jun 2024 · 15:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Giovani Cherini em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2355">
+<blockquote class="evidencia discurso" id="d-2360">
 <span class="data">05 jun 2024 · 15:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Giovani Cherini em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2354">
+<blockquote class="evidencia discurso" id="d-2359">
 <span class="data">04 jun 2024 · 16:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Giovani Cherini em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2353">
+<blockquote class="evidencia discurso" id="d-2358">
 <span class="data">04 jun 2024 · 16:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Giovani Cherini em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2352">
+<blockquote class="evidencia discurso" id="d-2357">
 <span class="data">24 abr 2024 · 16:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Giovani Cherini em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2351">
+<blockquote class="evidencia discurso" id="d-2356">
 <span class="data">09 abr 2024 · 15:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

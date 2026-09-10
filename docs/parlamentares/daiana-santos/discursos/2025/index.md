@@ -18,7 +18,7 @@ description: "Os discursos de Daiana Santos em 2025, com o sumário oficial e li
 
 ## Substantivos — 21
 
-<blockquote class="evidencia discurso" id="d-4662">
+<blockquote class="evidencia discurso" id="d-4674">
 <span class="data">25 nov 2025 · 16:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Daiana Santos em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4661">
+<blockquote class="evidencia discurso" id="d-4673">
 <span class="data">25 nov 2025 · 15:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Daiana Santos em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4660">
+<blockquote class="evidencia discurso" id="d-4672">
 <span class="data">15 out 2025 · 18:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Daiana Santos em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4659">
+<blockquote class="evidencia discurso" id="d-4671">
 <span class="data">15 out 2025 · 18:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Daiana Santos em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4658">
+<blockquote class="evidencia discurso" id="d-4670">
 <span class="data">07 out 2025 · 16:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Daiana Santos em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4657">
+<blockquote class="evidencia discurso" id="d-4669">
 <span class="data">01 out 2025 · 18:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Daiana Santos em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4656">
+<blockquote class="evidencia discurso" id="d-4668">
 <span class="data">01 out 2025 · 15:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Daiana Santos em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4655">
+<blockquote class="evidencia discurso" id="d-4667">
 <span class="data">23 set 2025 · 16:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Daiana Santos em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4654">
+<blockquote class="evidencia discurso" id="d-4666">
 <span class="data">27 ago 2025 · 15:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Daiana Santos em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4653">
+<blockquote class="evidencia discurso" id="d-4665">
 <span class="data">20 ago 2025 · 21:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Daiana Santos em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4652">
+<blockquote class="evidencia discurso" id="d-4664">
 <span class="data">20 ago 2025 · 16:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Daiana Santos em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4651">
+<blockquote class="evidencia discurso" id="d-4663">
 <span class="data">20 ago 2025 · 15:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Daiana Santos em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4650">
+<blockquote class="evidencia discurso" id="d-4662">
 <span class="data">19 ago 2025 · 14:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Daiana Santos em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4649">
+<blockquote class="evidencia discurso" id="d-4661">
 <span class="data">09 jul 2025 · 16:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Daiana Santos em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4647">
+<blockquote class="evidencia discurso" id="d-4659">
 <span class="data">29 abr 2025 · 14:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Daiana Santos em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4646">
+<blockquote class="evidencia discurso" id="d-4658">
 <span class="data">22 abr 2025 · 16:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Daiana Santos em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4645">
+<blockquote class="evidencia discurso" id="d-4657">
 <span class="data">15 abr 2025 · 17:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Daiana Santos em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4644">
+<blockquote class="evidencia discurso" id="d-4656">
 <span class="data">15 abr 2025 · 17:08</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Daiana Santos em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4643">
+<blockquote class="evidencia discurso" id="d-4655">
 <span class="data">26 mar 2025 · 17:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Daiana Santos em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4642">
+<blockquote class="evidencia discurso" id="d-4654">
 <span class="data">18 mar 2025 · 15:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Daiana Santos em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4641">
+<blockquote class="evidencia discurso" id="d-4653">
 <span class="data">19 fev 2025 · 17:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -218,7 +218,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-4648">
+<blockquote class="evidencia discurso" id="d-4660">
 <span class="data">01 jul 2025 · 18:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

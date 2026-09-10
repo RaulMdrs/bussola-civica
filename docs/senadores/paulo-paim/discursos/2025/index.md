@@ -18,7 +18,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 
 ## Substantivos — 135
 
-<blockquote class="evidencia discurso" id="d-12220">
+<blockquote class="evidencia discurso" id="d-6388">
 <span class="data">17 dez 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12224">
+<blockquote class="evidencia discurso" id="d-6392">
 <span class="data">16 dez 2025</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12223">
+<blockquote class="evidencia discurso" id="d-6391">
 <span class="data">16 dez 2025</span>
 <div class="corpo">
 <p class="tipo">Como Relator - Para proferir parecer</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12222">
+<blockquote class="evidencia discurso" id="d-6390">
 <span class="data">16 dez 2025</span>
 <div class="corpo">
 <p class="tipo">Como Relator - Para proferir parecer</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12221">
+<blockquote class="evidencia discurso" id="d-6389">
 <span class="data">16 dez 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12225">
+<blockquote class="evidencia discurso" id="d-6393">
 <span class="data">15 dez 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12226">
+<blockquote class="evidencia discurso" id="d-6394">
 <span class="data">10 dez 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12227">
+<blockquote class="evidencia discurso" id="d-6395">
 <span class="data">09 dez 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12232">
+<blockquote class="evidencia discurso" id="d-6400">
 <span class="data">08 dez 2025</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12231">
+<blockquote class="evidencia discurso" id="d-6399">
 <span class="data">08 dez 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso proferido da Presidência</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12230">
+<blockquote class="evidencia discurso" id="d-6398">
 <span class="data">08 dez 2025</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12229">
+<blockquote class="evidencia discurso" id="d-6397">
 <span class="data">08 dez 2025</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12228">
+<blockquote class="evidencia discurso" id="d-6396">
 <span class="data">08 dez 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12235">
+<blockquote class="evidencia discurso" id="d-6403">
 <span class="data">02 dez 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12234">
+<blockquote class="evidencia discurso" id="d-6402">
 <span class="data">02 dez 2025</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12233">
+<blockquote class="evidencia discurso" id="d-6401">
 <span class="data">02 dez 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12236">
+<blockquote class="evidencia discurso" id="d-6404">
 <span class="data">01 dez 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12237">
+<blockquote class="evidencia discurso" id="d-6405">
 <span class="data">18 nov 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12241">
+<blockquote class="evidencia discurso" id="d-6409">
 <span class="data">17 nov 2025</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12240">
+<blockquote class="evidencia discurso" id="d-6408">
 <span class="data">17 nov 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso proferido da Presidência</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12239">
+<blockquote class="evidencia discurso" id="d-6407">
 <span class="data">17 nov 2025</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12238">
+<blockquote class="evidencia discurso" id="d-6406">
 <span class="data">17 nov 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12242">
+<blockquote class="evidencia discurso" id="d-6410">
 <span class="data">10 nov 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12243">
+<blockquote class="evidencia discurso" id="d-6411">
 <span class="data">05 nov 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12244">
+<blockquote class="evidencia discurso" id="d-6412">
 <span class="data">04 nov 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12245">
+<blockquote class="evidencia discurso" id="d-6413">
 <span class="data">03 nov 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12246">
+<blockquote class="evidencia discurso" id="d-6414">
 <span class="data">29 out 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12247">
+<blockquote class="evidencia discurso" id="d-6415">
 <span class="data">28 out 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12249">
+<blockquote class="evidencia discurso" id="d-6417">
 <span class="data">22 out 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12248">
+<blockquote class="evidencia discurso" id="d-6416">
 <span class="data">22 out 2025</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12250">
+<blockquote class="evidencia discurso" id="d-6418">
 <span class="data">21 out 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12251">
+<blockquote class="evidencia discurso" id="d-6419">
 <span class="data">20 out 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12252">
+<blockquote class="evidencia discurso" id="d-6420">
 <span class="data">15 out 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12253">
+<blockquote class="evidencia discurso" id="d-6421">
 <span class="data">13 out 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12254">
+<blockquote class="evidencia discurso" id="d-6422">
 <span class="data">07 out 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12258">
+<blockquote class="evidencia discurso" id="d-6426">
 <span class="data">06 out 2025</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12257">
+<blockquote class="evidencia discurso" id="d-6425">
 <span class="data">06 out 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso proferido da Presidência</p>
@@ -351,7 +351,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12256">
+<blockquote class="evidencia discurso" id="d-6424">
 <span class="data">06 out 2025</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -360,7 +360,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12255">
+<blockquote class="evidencia discurso" id="d-6423">
 <span class="data">06 out 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -369,7 +369,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12260">
+<blockquote class="evidencia discurso" id="d-6428">
 <span class="data">30 set 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -378,7 +378,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12259">
+<blockquote class="evidencia discurso" id="d-6427">
 <span class="data">30 set 2025</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -387,7 +387,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12264">
+<blockquote class="evidencia discurso" id="d-6432">
 <span class="data">29 set 2025</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -396,7 +396,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12263">
+<blockquote class="evidencia discurso" id="d-6431">
 <span class="data">29 set 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso proferido da Presidência</p>
@@ -405,7 +405,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12262">
+<blockquote class="evidencia discurso" id="d-6430">
 <span class="data">29 set 2025</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -414,7 +414,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12261">
+<blockquote class="evidencia discurso" id="d-6429">
 <span class="data">29 set 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -423,7 +423,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12265">
+<blockquote class="evidencia discurso" id="d-6433">
 <span class="data">24 set 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -432,7 +432,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12266">
+<blockquote class="evidencia discurso" id="d-6434">
 <span class="data">23 set 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -441,7 +441,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12269">
+<blockquote class="evidencia discurso" id="d-6437">
 <span class="data">22 set 2025</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -450,7 +450,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12268">
+<blockquote class="evidencia discurso" id="d-6436">
 <span class="data">22 set 2025</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -459,7 +459,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12267">
+<blockquote class="evidencia discurso" id="d-6435">
 <span class="data">22 set 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -468,7 +468,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12270">
+<blockquote class="evidencia discurso" id="d-6438">
 <span class="data">17 set 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -477,7 +477,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12271">
+<blockquote class="evidencia discurso" id="d-6439">
 <span class="data">16 set 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -486,7 +486,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12272">
+<blockquote class="evidencia discurso" id="d-6440">
 <span class="data">02 set 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -495,7 +495,7 @@ description: "Os discursos de Paulo Paim em 2025, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12273">
+<blockquote class="evidencia discurso" id="d-6441">
 <span class="data">01 set 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -505,7 +505,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12276">
+<blockquote class="evidencia discurso" id="d-6444">
 <span class="data">29 ago 2025</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -514,7 +514,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12275">
+<blockquote class="evidencia discurso" id="d-6443">
 <span class="data">29 ago 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -523,7 +523,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12274">
+<blockquote class="evidencia discurso" id="d-6442">
 <span class="data">29 ago 2025</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -532,7 +532,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12277">
+<blockquote class="evidencia discurso" id="d-6445">
 <span class="data">27 ago 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -541,7 +541,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12285">
+<blockquote class="evidencia discurso" id="d-6453">
 <span class="data">26 ago 2025</span>
 <div class="corpo">
 <p class="tipo">Pela Liderança</p>
@@ -550,7 +550,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12284">
+<blockquote class="evidencia discurso" id="d-6452">
 <span class="data">26 ago 2025</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -559,7 +559,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12283">
+<blockquote class="evidencia discurso" id="d-6451">
 <span class="data">26 ago 2025</span>
 <div class="corpo">
 <p class="tipo">Como Relator</p>
@@ -568,7 +568,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12282">
+<blockquote class="evidencia discurso" id="d-6450">
 <span class="data">26 ago 2025</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -577,7 +577,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12281">
+<blockquote class="evidencia discurso" id="d-6449">
 <span class="data">26 ago 2025</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -586,7 +586,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12280">
+<blockquote class="evidencia discurso" id="d-6448">
 <span class="data">26 ago 2025</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -595,7 +595,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12279">
+<blockquote class="evidencia discurso" id="d-6447">
 <span class="data">26 ago 2025</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -604,7 +604,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12278">
+<blockquote class="evidencia discurso" id="d-6446">
 <span class="data">26 ago 2025</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -613,7 +613,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12286">
+<blockquote class="evidencia discurso" id="d-6454">
 <span class="data">20 ago 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -622,7 +622,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12287">
+<blockquote class="evidencia discurso" id="d-6455">
 <span class="data">19 ago 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -631,7 +631,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12288">
+<blockquote class="evidencia discurso" id="d-6456">
 <span class="data">18 ago 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -640,7 +640,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12289">
+<blockquote class="evidencia discurso" id="d-6457">
 <span class="data">13 ago 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -649,7 +649,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12290">
+<blockquote class="evidencia discurso" id="d-6458">
 <span class="data">12 ago 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -658,7 +658,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12291">
+<blockquote class="evidencia discurso" id="d-6459">
 <span class="data">11 ago 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -667,7 +667,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12293">
+<blockquote class="evidencia discurso" id="d-6461">
 <span class="data">16 jul 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -676,7 +676,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12292">
+<blockquote class="evidencia discurso" id="d-6460">
 <span class="data">16 jul 2025</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -685,7 +685,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12297">
+<blockquote class="evidencia discurso" id="d-6465">
 <span class="data">14 jul 2025</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -694,7 +694,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12296">
+<blockquote class="evidencia discurso" id="d-6464">
 <span class="data">14 jul 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso proferido da Presidência</p>
@@ -703,7 +703,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12295">
+<blockquote class="evidencia discurso" id="d-6463">
 <span class="data">14 jul 2025</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -712,7 +712,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12294">
+<blockquote class="evidencia discurso" id="d-6462">
 <span class="data">14 jul 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -721,7 +721,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12298">
+<blockquote class="evidencia discurso" id="d-6466">
 <span class="data">09 jul 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -730,7 +730,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12299">
+<blockquote class="evidencia discurso" id="d-6467">
 <span class="data">08 jul 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -739,7 +739,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12300">
+<blockquote class="evidencia discurso" id="d-6468">
 <span class="data">07 jul 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -748,7 +748,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12301">
+<blockquote class="evidencia discurso" id="d-6469">
 <span class="data">02 jul 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -757,7 +757,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12302">
+<blockquote class="evidencia discurso" id="d-6470">
 <span class="data">01 jul 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -766,7 +766,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12303">
+<blockquote class="evidencia discurso" id="d-6471">
 <span class="data">30 jun 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -775,7 +775,7 @@ progressista em apoio à reeleição do Presidente Lula.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12304">
+<blockquote class="evidencia discurso" id="d-6472">
 <span class="data">25 jun 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -785,7 +785,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12305">
+<blockquote class="evidencia discurso" id="d-6473">
 <span class="data">24 jun 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -794,7 +794,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12306">
+<blockquote class="evidencia discurso" id="d-6474">
 <span class="data">11 jun 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -803,7 +803,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12307">
+<blockquote class="evidencia discurso" id="d-6475">
 <span class="data">10 jun 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -812,7 +812,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12308">
+<blockquote class="evidencia discurso" id="d-6476">
 <span class="data">09 jun 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -821,7 +821,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12310">
+<blockquote class="evidencia discurso" id="d-6478">
 <span class="data">28 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -830,7 +830,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12309">
+<blockquote class="evidencia discurso" id="d-6477">
 <span class="data">28 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -839,7 +839,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12311">
+<blockquote class="evidencia discurso" id="d-6479">
 <span class="data">27 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -848,7 +848,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12312">
+<blockquote class="evidencia discurso" id="d-6480">
 <span class="data">26 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -857,7 +857,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12313">
+<blockquote class="evidencia discurso" id="d-6481">
 <span class="data">21 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -866,7 +866,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12314">
+<blockquote class="evidencia discurso" id="d-6482">
 <span class="data">20 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -875,7 +875,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12315">
+<blockquote class="evidencia discurso" id="d-6483">
 <span class="data">19 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -884,7 +884,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12318">
+<blockquote class="evidencia discurso" id="d-6486">
 <span class="data">14 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -893,7 +893,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12317">
+<blockquote class="evidencia discurso" id="d-6485">
 <span class="data">14 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -902,7 +902,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12316">
+<blockquote class="evidencia discurso" id="d-6484">
 <span class="data">14 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -911,7 +911,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12322">
+<blockquote class="evidencia discurso" id="d-6490">
 <span class="data">13 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -920,7 +920,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12321">
+<blockquote class="evidencia discurso" id="d-6489">
 <span class="data">13 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso proferido da Presidência</p>
@@ -929,7 +929,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12320">
+<blockquote class="evidencia discurso" id="d-6488">
 <span class="data">13 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -938,7 +938,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12319">
+<blockquote class="evidencia discurso" id="d-6487">
 <span class="data">13 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -947,7 +947,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12323">
+<blockquote class="evidencia discurso" id="d-6491">
 <span class="data">12 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -956,7 +956,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12326">
+<blockquote class="evidencia discurso" id="d-6494">
 <span class="data">09 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -965,7 +965,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12325">
+<blockquote class="evidencia discurso" id="d-6493">
 <span class="data">09 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso proferido da Presidência</p>
@@ -974,7 +974,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12324">
+<blockquote class="evidencia discurso" id="d-6492">
 <span class="data">09 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -983,7 +983,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12327">
+<blockquote class="evidencia discurso" id="d-6495">
 <span class="data">08 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -992,7 +992,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12330">
+<blockquote class="evidencia discurso" id="d-6498">
 <span class="data">07 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1001,7 +1001,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12329">
+<blockquote class="evidencia discurso" id="d-6497">
 <span class="data">07 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -1010,7 +1010,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12328">
+<blockquote class="evidencia discurso" id="d-6496">
 <span class="data">07 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -1019,7 +1019,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12331">
+<blockquote class="evidencia discurso" id="d-6499">
 <span class="data">05 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1028,7 +1028,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12332">
+<blockquote class="evidencia discurso" id="d-6500">
 <span class="data">30 abr 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1037,7 +1037,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12334">
+<blockquote class="evidencia discurso" id="d-6502">
 <span class="data">29 abr 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1046,7 +1046,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12333">
+<blockquote class="evidencia discurso" id="d-6501">
 <span class="data">29 abr 2025</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -1055,7 +1055,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12335">
+<blockquote class="evidencia discurso" id="d-6503">
 <span class="data">28 abr 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1064,7 +1064,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12336">
+<blockquote class="evidencia discurso" id="d-6504">
 <span class="data">09 abr 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1073,7 +1073,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12339">
+<blockquote class="evidencia discurso" id="d-6507">
 <span class="data">08 abr 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1082,7 +1082,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12338">
+<blockquote class="evidencia discurso" id="d-6506">
 <span class="data">08 abr 2025</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -1091,7 +1091,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12337">
+<blockquote class="evidencia discurso" id="d-6505">
 <span class="data">08 abr 2025</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -1100,7 +1100,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12340">
+<blockquote class="evidencia discurso" id="d-6508">
 <span class="data">07 abr 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1109,7 +1109,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12342">
+<blockquote class="evidencia discurso" id="d-6510">
 <span class="data">03 abr 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1118,7 +1118,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12341">
+<blockquote class="evidencia discurso" id="d-6509">
 <span class="data">03 abr 2025</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -1127,7 +1127,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12345">
+<blockquote class="evidencia discurso" id="d-6513">
 <span class="data">02 abr 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1136,7 +1136,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12344">
+<blockquote class="evidencia discurso" id="d-6512">
 <span class="data">02 abr 2025</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -1145,7 +1145,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12343">
+<blockquote class="evidencia discurso" id="d-6511">
 <span class="data">02 abr 2025</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -1154,7 +1154,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12346">
+<blockquote class="evidencia discurso" id="d-6514">
 <span class="data">01 abr 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1163,7 +1163,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12347">
+<blockquote class="evidencia discurso" id="d-6515">
 <span class="data">31 mar 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1172,7 +1172,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12350">
+<blockquote class="evidencia discurso" id="d-6518">
 <span class="data">26 mar 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1181,7 +1181,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12349">
+<blockquote class="evidencia discurso" id="d-6517">
 <span class="data">26 mar 2025</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -1190,7 +1190,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12348">
+<blockquote class="evidencia discurso" id="d-6516">
 <span class="data">26 mar 2025</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -1199,7 +1199,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12351">
+<blockquote class="evidencia discurso" id="d-6519">
 <span class="data">25 mar 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1208,7 +1208,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12352">
+<blockquote class="evidencia discurso" id="d-6520">
 <span class="data">24 mar 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1217,7 +1217,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12353">
+<blockquote class="evidencia discurso" id="d-6521">
 <span class="data">10 mar 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1226,7 +1226,7 @@ deficiência os direitos de prioridade especial, benefício mensal e gratuidade 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12354">
+<blockquote class="evidencia discurso" id="d-6522">
 <span class="data">19 fev 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>

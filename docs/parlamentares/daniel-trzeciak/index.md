@@ -52,7 +52,7 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">50,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>18</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">49,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>195</b></span> |
 | [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">48,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>31</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">38,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>118</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">37,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>117</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">28,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>25</b></span> |
 {: .t-temas}
 
@@ -147,7 +147,7 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-3884">
+<blockquote class="evidencia discurso" id="d-3896">
 <span class="data">08 jul 2026 · 15:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -156,7 +156,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3883">
+<blockquote class="evidencia discurso" id="d-3895">
 <span class="data">07 jul 2026 · 14:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -165,7 +165,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3882">
+<blockquote class="evidencia discurso" id="d-3894">
 <span class="data">09 jun 2026 · 14:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -174,7 +174,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3881">
+<blockquote class="evidencia discurso" id="d-3893">
 <span class="data">20 mai 2026 · 14:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -183,7 +183,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3880">
+<blockquote class="evidencia discurso" id="d-3892">
 <span class="data">20 mai 2026 · 14:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

@@ -18,7 +18,7 @@ description: "Os discursos de Sanderson em 2024, com o sumário oficial e link p
 
 ## Substantivos — 24
 
-<blockquote class="evidencia discurso" id="d-3915">
+<blockquote class="evidencia discurso" id="d-3927">
 <span class="data">19 dez 2024 · 11:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Sanderson em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3914">
+<blockquote class="evidencia discurso" id="d-3926">
 <span class="data">12 dez 2024 · 11:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Sanderson em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3913">
+<blockquote class="evidencia discurso" id="d-3925">
 <span class="data">11 dez 2024 · 22:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Sanderson em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3912">
+<blockquote class="evidencia discurso" id="d-3924">
 <span class="data">11 dez 2024 · 21:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Sanderson em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3911">
+<blockquote class="evidencia discurso" id="d-3923">
 <span class="data">11 dez 2024 · 14:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Sanderson em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3910">
+<blockquote class="evidencia discurso" id="d-3922">
 <span class="data">04 dez 2024 · 15:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Sanderson em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3909">
+<blockquote class="evidencia discurso" id="d-3921">
 <span class="data">03 dez 2024 · 17:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Sanderson em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3908">
+<blockquote class="evidencia discurso" id="d-3920">
 <span class="data">03 dez 2024 · 17:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Sanderson em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3907">
+<blockquote class="evidencia discurso" id="d-3919">
 <span class="data">12 nov 2024 · 16:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Sanderson em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3906">
+<blockquote class="evidencia discurso" id="d-3918">
 <span class="data">16 out 2024 · 18:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Sanderson em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3905">
+<blockquote class="evidencia discurso" id="d-3917">
 <span class="data">16 out 2024 · 18:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Sanderson em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3904">
+<blockquote class="evidencia discurso" id="d-3916">
 <span class="data">15 out 2024 · 17:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Sanderson em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3903">
+<blockquote class="evidencia discurso" id="d-3915">
 <span class="data">10 set 2024 · 17:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Sanderson em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3902">
+<blockquote class="evidencia discurso" id="d-3914">
 <span class="data">28 ago 2024 · 18:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Sanderson em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3901">
+<blockquote class="evidencia discurso" id="d-3913">
 <span class="data">15 ago 2024 · 11:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Sanderson em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3898">
+<blockquote class="evidencia discurso" id="d-3910">
 <span class="data">02 jul 2024 · 17:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Sanderson em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3897">
+<blockquote class="evidencia discurso" id="d-3909">
 <span class="data">25 jun 2024 · 17:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Sanderson em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3896">
+<blockquote class="evidencia discurso" id="d-3908">
 <span class="data">19 jun 2024 · 21:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Sanderson em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3895">
+<blockquote class="evidencia discurso" id="d-3907">
 <span class="data">18 jun 2024 · 17:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Sanderson em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3894">
+<blockquote class="evidencia discurso" id="d-3906">
 <span class="data">11 jun 2024 · 16:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Sanderson em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3893">
+<blockquote class="evidencia discurso" id="d-3905">
 <span class="data">28 mai 2024 · 23:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Sanderson em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3892">
+<blockquote class="evidencia discurso" id="d-3904">
 <span class="data">22 mai 2024 · 17:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Sanderson em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3891">
+<blockquote class="evidencia discurso" id="d-3903">
 <span class="data">27 mar 2024 · 12:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Sanderson em 2024, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3890">
+<blockquote class="evidencia discurso" id="d-3902">
 <span class="data">28 fev 2024 · 16:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -245,7 +245,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-3916">
+<blockquote class="evidencia discurso" id="d-3928">
 <span class="data">19 dez 2024 · 14:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -254,7 +254,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3900">
+<blockquote class="evidencia discurso" id="d-3912">
 <span class="data">08 jul 2024 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -263,7 +263,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3899">
+<blockquote class="evidencia discurso" id="d-3911">
 <span class="data">08 jul 2024 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

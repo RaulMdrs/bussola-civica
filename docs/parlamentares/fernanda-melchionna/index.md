@@ -48,7 +48,7 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">90,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>22</b></span> |
 | [Saúde](../../temas/saude/) | <span class="valor">88,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>26</b></span> |
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">88,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>17</b></span> <span class="aviso-n">amostra pequena</span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">85,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>110</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">85,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>109</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">82,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>45</b></span> |
 | [Economia](../../temas/economia/) | <span class="valor">80,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>52</b></span> |
 | [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | <span class="valor">80,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>26</b></span> |
@@ -147,7 +147,7 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-13148">
+<blockquote class="evidencia discurso" id="d-3840">
 <span class="data">12 ago 2026 · 16:48</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -156,7 +156,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-13147">
+<blockquote class="evidencia discurso" id="d-3839">
 <span class="data">12 ago 2026 · 16:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -165,7 +165,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-13146">
+<blockquote class="evidencia discurso" id="d-3838">
 <span class="data">11 ago 2026 · 18:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -174,7 +174,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3828">
+<blockquote class="evidencia discurso" id="d-3837">
 <span class="data">14 jul 2026 · 18:20</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -183,7 +183,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3827">
+<blockquote class="evidencia discurso" id="d-3836">
 <span class="data">30 jun 2026 · 18:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

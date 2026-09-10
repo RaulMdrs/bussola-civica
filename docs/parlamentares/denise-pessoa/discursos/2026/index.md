@@ -18,7 +18,7 @@ description: "Os discursos de Denise Pessôa em 2026, com o sumário oficial e l
 
 ## Substantivos — 5
 
-<blockquote class="evidencia discurso" id="d-4516">
+<blockquote class="evidencia discurso" id="d-4528">
 <span class="data">10 jun 2026 · 16:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Denise Pessôa em 2026, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4515">
+<blockquote class="evidencia discurso" id="d-4527">
 <span class="data">27 mai 2026 · 17:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Denise Pessôa em 2026, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4514">
+<blockquote class="evidencia discurso" id="d-4526">
 <span class="data">15 abr 2026 · 15:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Denise Pessôa em 2026, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4513">
+<blockquote class="evidencia discurso" id="d-4525">
 <span class="data">10 mar 2026 · 16:40</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Denise Pessôa em 2026, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4512">
+<blockquote class="evidencia discurso" id="d-4524">
 <span class="data">03 fev 2026 · 15:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

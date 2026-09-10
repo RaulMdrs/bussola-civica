@@ -18,7 +18,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 
 ## Substantivos — 177
 
-<blockquote class="evidencia discurso" id="d-2144">
+<blockquote class="evidencia discurso" id="d-2148">
 <span class="data">19 dez 2025 · 15:47</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2143">
+<blockquote class="evidencia discurso" id="d-2147">
 <span class="data">19 dez 2025 · 15:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2142">
+<blockquote class="evidencia discurso" id="d-2146">
 <span class="data">19 dez 2025 · 15:23</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2141">
+<blockquote class="evidencia discurso" id="d-2145">
 <span class="data">19 dez 2025 · 15:02</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2140">
+<blockquote class="evidencia discurso" id="d-2144">
 <span class="data">17 dez 2025 · 01:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2139">
+<blockquote class="evidencia discurso" id="d-2143">
 <span class="data">16 dez 2025 · 23:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2135">
+<blockquote class="evidencia discurso" id="d-2139">
 <span class="data">16 dez 2025 · 17:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2134">
+<blockquote class="evidencia discurso" id="d-2138">
 <span class="data">11 dez 2025 · 00:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2133">
+<blockquote class="evidencia discurso" id="d-2137">
 <span class="data">10 dez 2025 · 03:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2131">
+<blockquote class="evidencia discurso" id="d-2135">
 <span class="data">10 dez 2025 · 02:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2129">
+<blockquote class="evidencia discurso" id="d-2133">
 <span class="data">09 dez 2025 · 23:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2128">
+<blockquote class="evidencia discurso" id="d-2132">
 <span class="data">09 dez 2025 · 23:04</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2127">
+<blockquote class="evidencia discurso" id="d-2131">
 <span class="data">09 dez 2025 · 22:56</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2125">
+<blockquote class="evidencia discurso" id="d-2129">
 <span class="data">09 dez 2025 · 21:52</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2124">
+<blockquote class="evidencia discurso" id="d-2128">
 <span class="data">09 dez 2025 · 21:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2122">
+<blockquote class="evidencia discurso" id="d-2126">
 <span class="data">09 dez 2025 · 21:24</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2121">
+<blockquote class="evidencia discurso" id="d-2125">
 <span class="data">09 dez 2025 · 21:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2120">
+<blockquote class="evidencia discurso" id="d-2124">
 <span class="data">09 dez 2025 · 20:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2119">
+<blockquote class="evidencia discurso" id="d-2123">
 <span class="data">09 dez 2025 · 16:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2118">
+<blockquote class="evidencia discurso" id="d-2122">
 <span class="data">03 dez 2025 · 17:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2117">
+<blockquote class="evidencia discurso" id="d-2121">
 <span class="data">02 dez 2025 · 20:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2116">
+<blockquote class="evidencia discurso" id="d-2120">
 <span class="data">02 dez 2025 · 20:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2115">
+<blockquote class="evidencia discurso" id="d-2119">
 <span class="data">02 dez 2025 · 20:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2114">
+<blockquote class="evidencia discurso" id="d-2118">
 <span class="data">27 nov 2025 · 12:25</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2113">
+<blockquote class="evidencia discurso" id="d-2117">
 <span class="data">27 nov 2025 · 10:50</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2112">
+<blockquote class="evidencia discurso" id="d-2116">
 <span class="data">26 nov 2025 · 16:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2111">
+<blockquote class="evidencia discurso" id="d-2115">
 <span class="data">25 nov 2025 · 19:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2110">
+<blockquote class="evidencia discurso" id="d-2114">
 <span class="data">25 nov 2025 · 16:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2109">
+<blockquote class="evidencia discurso" id="d-2113">
 <span class="data">12 nov 2025 · 17:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2106">
+<blockquote class="evidencia discurso" id="d-2110">
 <span class="data">12 nov 2025 · 17:24</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2105">
+<blockquote class="evidencia discurso" id="d-2109">
 <span class="data">12 nov 2025 · 17:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2104">
+<blockquote class="evidencia discurso" id="d-2108">
 <span class="data">12 nov 2025 · 15:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2103">
+<blockquote class="evidencia discurso" id="d-2107">
 <span class="data">11 nov 2025 · 20:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2102">
+<blockquote class="evidencia discurso" id="d-2106">
 <span class="data">11 nov 2025 · 19:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2101">
+<blockquote class="evidencia discurso" id="d-2105">
 <span class="data">11 nov 2025 · 19:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2100">
+<blockquote class="evidencia discurso" id="d-2104">
 <span class="data">11 nov 2025 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2099">
+<blockquote class="evidencia discurso" id="d-2103">
 <span class="data">11 nov 2025 · 16:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -351,7 +351,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2098">
+<blockquote class="evidencia discurso" id="d-2102">
 <span class="data">11 nov 2025 · 16:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -360,7 +360,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2097">
+<blockquote class="evidencia discurso" id="d-2101">
 <span class="data">11 nov 2025 · 15:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -369,7 +369,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2096">
+<blockquote class="evidencia discurso" id="d-2100">
 <span class="data">11 nov 2025 · 14:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -378,7 +378,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2095">
+<blockquote class="evidencia discurso" id="d-2099">
 <span class="data">05 nov 2025 · 17:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -387,7 +387,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2094">
+<blockquote class="evidencia discurso" id="d-2098">
 <span class="data">05 nov 2025 · 12:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -396,7 +396,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2092">
+<blockquote class="evidencia discurso" id="d-2096">
 <span class="data">05 nov 2025 · 10:24</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -405,7 +405,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2091">
+<blockquote class="evidencia discurso" id="d-2095">
 <span class="data">05 nov 2025 · 10:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -414,7 +414,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2090">
+<blockquote class="evidencia discurso" id="d-2094">
 <span class="data">04 nov 2025 · 13:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -423,7 +423,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2089">
+<blockquote class="evidencia discurso" id="d-2093">
 <span class="data">04 nov 2025 · 13:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -432,7 +432,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2088">
+<blockquote class="evidencia discurso" id="d-2092">
 <span class="data">04 nov 2025 · 13:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -441,7 +441,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2087">
+<blockquote class="evidencia discurso" id="d-2091">
 <span class="data">04 nov 2025 · 10:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -450,7 +450,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2086">
+<blockquote class="evidencia discurso" id="d-2090">
 <span class="data">04 nov 2025 · 10:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -459,7 +459,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2085">
+<blockquote class="evidencia discurso" id="d-2089">
 <span class="data">29 out 2025 · 12:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -468,7 +468,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2084">
+<blockquote class="evidencia discurso" id="d-2088">
 <span class="data">28 out 2025 · 22:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -477,7 +477,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2080">
+<blockquote class="evidencia discurso" id="d-2084">
 <span class="data">28 out 2025 · 16:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -486,7 +486,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2079">
+<blockquote class="evidencia discurso" id="d-2083">
 <span class="data">15 out 2025 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -495,7 +495,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2078">
+<blockquote class="evidencia discurso" id="d-2082">
 <span class="data">15 out 2025 · 16:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -504,7 +504,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2077">
+<blockquote class="evidencia discurso" id="d-2081">
 <span class="data">14 out 2025 · 19:52</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -513,7 +513,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2076">
+<blockquote class="evidencia discurso" id="d-2080">
 <span class="data">14 out 2025 · 17:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -522,7 +522,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2075">
+<blockquote class="evidencia discurso" id="d-2079">
 <span class="data">08 out 2025 · 15:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -531,7 +531,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2074">
+<blockquote class="evidencia discurso" id="d-2078">
 <span class="data">07 out 2025 · 14:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -540,7 +540,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2073">
+<blockquote class="evidencia discurso" id="d-2077">
 <span class="data">01 out 2025 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -549,7 +549,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2072">
+<blockquote class="evidencia discurso" id="d-2076">
 <span class="data">30 set 2025 · 18:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -558,7 +558,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2071">
+<blockquote class="evidencia discurso" id="d-2075">
 <span class="data">30 set 2025 · 17:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -567,7 +567,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2070">
+<blockquote class="evidencia discurso" id="d-2074">
 <span class="data">30 set 2025 · 14:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -576,7 +576,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2069">
+<blockquote class="evidencia discurso" id="d-2073">
 <span class="data">24 set 2025 · 21:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -585,7 +585,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2067">
+<blockquote class="evidencia discurso" id="d-2071">
 <span class="data">24 set 2025 · 20:48</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -594,7 +594,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2064">
+<blockquote class="evidencia discurso" id="d-2068">
 <span class="data">23 set 2025 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -603,7 +603,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2063">
+<blockquote class="evidencia discurso" id="d-2067">
 <span class="data">23 set 2025 · 14:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -612,7 +612,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2062">
+<blockquote class="evidencia discurso" id="d-2066">
 <span class="data">18 set 2025 · 11:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -621,7 +621,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2061">
+<blockquote class="evidencia discurso" id="d-2065">
 <span class="data">17 set 2025 · 18:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -630,7 +630,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2060">
+<blockquote class="evidencia discurso" id="d-2064">
 <span class="data">17 set 2025 · 18:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -639,7 +639,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2057">
+<blockquote class="evidencia discurso" id="d-2061">
 <span class="data">17 set 2025 · 13:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -648,7 +648,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2056">
+<blockquote class="evidencia discurso" id="d-2060">
 <span class="data">16 set 2025 · 23:52</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -657,7 +657,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2053">
+<blockquote class="evidencia discurso" id="d-2057">
 <span class="data">16 set 2025 · 23:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -666,7 +666,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2050">
+<blockquote class="evidencia discurso" id="d-2054">
 <span class="data">16 set 2025 · 21:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -675,7 +675,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2048">
+<blockquote class="evidencia discurso" id="d-2052">
 <span class="data">16 set 2025 · 21:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -684,7 +684,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2047">
+<blockquote class="evidencia discurso" id="d-2051">
 <span class="data">16 set 2025 · 20:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -693,7 +693,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2045">
+<blockquote class="evidencia discurso" id="d-2049">
 <span class="data">16 set 2025 · 16:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -702,7 +702,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2044">
+<blockquote class="evidencia discurso" id="d-2048">
 <span class="data">10 set 2025 · 16:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -711,7 +711,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2043">
+<blockquote class="evidencia discurso" id="d-2047">
 <span class="data">09 set 2025 · 21:04</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -720,7 +720,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2042">
+<blockquote class="evidencia discurso" id="d-2046">
 <span class="data">09 set 2025 · 19:56</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -729,7 +729,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2041">
+<blockquote class="evidencia discurso" id="d-2045">
 <span class="data">09 set 2025 · 19:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -738,7 +738,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2040">
+<blockquote class="evidencia discurso" id="d-2044">
 <span class="data">02 set 2025 · 21:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -747,7 +747,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2039">
+<blockquote class="evidencia discurso" id="d-2043">
 <span class="data">02 set 2025 · 21:20</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -756,7 +756,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2038">
+<blockquote class="evidencia discurso" id="d-2042">
 <span class="data">02 set 2025 · 20:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -765,7 +765,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2036">
+<blockquote class="evidencia discurso" id="d-2040">
 <span class="data">02 set 2025 · 20:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -774,7 +774,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2035">
+<blockquote class="evidencia discurso" id="d-2039">
 <span class="data">02 set 2025 · 16:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -783,7 +783,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2034">
+<blockquote class="evidencia discurso" id="d-2038">
 <span class="data">02 set 2025 · 14:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -792,7 +792,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2033">
+<blockquote class="evidencia discurso" id="d-2037">
 <span class="data">02 set 2025 · 14:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -801,7 +801,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2032">
+<blockquote class="evidencia discurso" id="d-2036">
 <span class="data">20 ago 2025 · 20:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -810,7 +810,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2031">
+<blockquote class="evidencia discurso" id="d-2035">
 <span class="data">20 ago 2025 · 18:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -819,7 +819,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2030">
+<blockquote class="evidencia discurso" id="d-2034">
 <span class="data">20 ago 2025 · 15:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -828,7 +828,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2029">
+<blockquote class="evidencia discurso" id="d-2033">
 <span class="data">19 ago 2025 · 22:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -837,7 +837,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2028">
+<blockquote class="evidencia discurso" id="d-2032">
 <span class="data">19 ago 2025 · 22:04</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -846,7 +846,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2027">
+<blockquote class="evidencia discurso" id="d-2031">
 <span class="data">19 ago 2025 · 21:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -855,7 +855,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2026">
+<blockquote class="evidencia discurso" id="d-2030">
 <span class="data">19 ago 2025 · 20:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -864,7 +864,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2024">
+<blockquote class="evidencia discurso" id="d-2028">
 <span class="data">13 ago 2025 · 17:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -873,7 +873,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2023">
+<blockquote class="evidencia discurso" id="d-2027">
 <span class="data">13 ago 2025 · 14:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -882,7 +882,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2022">
+<blockquote class="evidencia discurso" id="d-2026">
 <span class="data">12 ago 2025 · 20:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -891,7 +891,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2021">
+<blockquote class="evidencia discurso" id="d-2025">
 <span class="data">12 ago 2025 · 20:04</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -900,7 +900,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2019">
+<blockquote class="evidencia discurso" id="d-2023">
 <span class="data">12 ago 2025 · 14:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -909,7 +909,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2016">
+<blockquote class="evidencia discurso" id="d-2020">
 <span class="data">16 jul 2025 · 23:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -918,7 +918,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2015">
+<blockquote class="evidencia discurso" id="d-2019">
 <span class="data">16 jul 2025 · 22:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -927,7 +927,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2013">
+<blockquote class="evidencia discurso" id="d-2017">
 <span class="data">16 jul 2025 · 19:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -936,7 +936,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2012">
+<blockquote class="evidencia discurso" id="d-2016">
 <span class="data">16 jul 2025 · 14:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -945,7 +945,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2011">
+<blockquote class="evidencia discurso" id="d-2015">
 <span class="data">16 jul 2025 · 13:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -954,7 +954,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2010">
+<blockquote class="evidencia discurso" id="d-2014">
 <span class="data">16 jul 2025 · 10:48</span>
 <div class="corpo">
 <p class="tipo">COMISSÃO GERAL</p>
@@ -963,7 +963,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2008">
+<blockquote class="evidencia discurso" id="d-2012">
 <span class="data">15 jul 2025 · 17:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -972,7 +972,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2007">
+<blockquote class="evidencia discurso" id="d-2011">
 <span class="data">15 jul 2025 · 16:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -981,7 +981,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2006">
+<blockquote class="evidencia discurso" id="d-2010">
 <span class="data">14 jul 2025 · 21:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -990,7 +990,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2005">
+<blockquote class="evidencia discurso" id="d-2009">
 <span class="data">14 jul 2025 · 18:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -999,7 +999,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2004">
+<blockquote class="evidencia discurso" id="d-2008">
 <span class="data">09 jul 2025 · 15:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1008,7 +1008,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2003">
+<blockquote class="evidencia discurso" id="d-2007">
 <span class="data">08 jul 2025 · 20:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1017,7 +1017,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2002">
+<blockquote class="evidencia discurso" id="d-2006">
 <span class="data">08 jul 2025 · 16:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1026,7 +1026,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2001">
+<blockquote class="evidencia discurso" id="d-2005">
 <span class="data">03 jul 2025 · 11:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1035,7 +1035,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2000">
+<blockquote class="evidencia discurso" id="d-2004">
 <span class="data">03 jul 2025 · 10:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1044,7 +1044,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1999">
+<blockquote class="evidencia discurso" id="d-2003">
 <span class="data">03 jul 2025 · 10:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1053,7 +1053,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1998">
+<blockquote class="evidencia discurso" id="d-2002">
 <span class="data">03 jul 2025 · 10:28</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -1062,7 +1062,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1996">
+<blockquote class="evidencia discurso" id="d-2000">
 <span class="data">03 jul 2025 · 10:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1071,7 +1071,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1995">
+<blockquote class="evidencia discurso" id="d-1999">
 <span class="data">02 jul 2025 · 18:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1080,7 +1080,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1994">
+<blockquote class="evidencia discurso" id="d-1998">
 <span class="data">02 jul 2025 · 14:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1089,7 +1089,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1993">
+<blockquote class="evidencia discurso" id="d-1997">
 <span class="data">02 jul 2025 · 14:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1098,7 +1098,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1991">
+<blockquote class="evidencia discurso" id="d-1995">
 <span class="data">01 jul 2025 · 16:28</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1107,7 +1107,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1989">
+<blockquote class="evidencia discurso" id="d-1993">
 <span class="data">01 jul 2025 · 15:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1116,7 +1116,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1988">
+<blockquote class="evidencia discurso" id="d-1992">
 <span class="data">17 jun 2025 · 20:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1125,7 +1125,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1987">
+<blockquote class="evidencia discurso" id="d-1991">
 <span class="data">17 jun 2025 · 17:24</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1134,7 +1134,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1986">
+<blockquote class="evidencia discurso" id="d-1990">
 <span class="data">17 jun 2025 · 13:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1143,7 +1143,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1985">
+<blockquote class="evidencia discurso" id="d-1989">
 <span class="data">11 jun 2025 · 20:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1152,7 +1152,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1984">
+<blockquote class="evidencia discurso" id="d-1988">
 <span class="data">10 jun 2025 · 20:28</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1161,7 +1161,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1983">
+<blockquote class="evidencia discurso" id="d-1987">
 <span class="data">10 jun 2025 · 20:00</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1170,7 +1170,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1981">
+<blockquote class="evidencia discurso" id="d-1985">
 <span class="data">10 jun 2025 · 18:40</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1179,7 +1179,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1980">
+<blockquote class="evidencia discurso" id="d-1984">
 <span class="data">29 mai 2025 · 12:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1188,7 +1188,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1978">
+<blockquote class="evidencia discurso" id="d-1982">
 <span class="data">29 mai 2025 · 11:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1197,7 +1197,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1977">
+<blockquote class="evidencia discurso" id="d-1981">
 <span class="data">29 mai 2025 · 09:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1206,7 +1206,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1976">
+<blockquote class="evidencia discurso" id="d-1980">
 <span class="data">27 mai 2025 · 22:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1215,7 +1215,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1975">
+<blockquote class="evidencia discurso" id="d-1979">
 <span class="data">27 mai 2025 · 22:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1224,7 +1224,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1974">
+<blockquote class="evidencia discurso" id="d-1978">
 <span class="data">27 mai 2025 · 22:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1233,7 +1233,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1973">
+<blockquote class="evidencia discurso" id="d-1977">
 <span class="data">27 mai 2025 · 15:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1242,7 +1242,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1972">
+<blockquote class="evidencia discurso" id="d-1976">
 <span class="data">07 mai 2025 · 17:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1251,7 +1251,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1971">
+<blockquote class="evidencia discurso" id="d-1975">
 <span class="data">06 mai 2025 · 19:32</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -1260,7 +1260,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1970">
+<blockquote class="evidencia discurso" id="d-1974">
 <span class="data">06 mai 2025 · 18:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1269,7 +1269,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1969">
+<blockquote class="evidencia discurso" id="d-1973">
 <span class="data">06 mai 2025 · 16:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1278,7 +1278,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1968">
+<blockquote class="evidencia discurso" id="d-1972">
 <span class="data">06 mai 2025 · 15:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1287,7 +1287,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1967">
+<blockquote class="evidencia discurso" id="d-1971">
 <span class="data">29 abr 2025 · 17:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1296,7 +1296,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1966">
+<blockquote class="evidencia discurso" id="d-1970">
 <span class="data">28 abr 2025 · 21:32</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1305,7 +1305,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1965">
+<blockquote class="evidencia discurso" id="d-1969">
 <span class="data">23 abr 2025 · 20:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1314,7 +1314,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1964">
+<blockquote class="evidencia discurso" id="d-1968">
 <span class="data">23 abr 2025 · 18:56</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1323,7 +1323,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1962">
+<blockquote class="evidencia discurso" id="d-1966">
 <span class="data">23 abr 2025 · 16:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1332,7 +1332,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1961">
+<blockquote class="evidencia discurso" id="d-1965">
 <span class="data">22 abr 2025 · 20:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1341,7 +1341,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1960">
+<blockquote class="evidencia discurso" id="d-1964">
 <span class="data">22 abr 2025 · 17:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1350,7 +1350,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1959">
+<blockquote class="evidencia discurso" id="d-1963">
 <span class="data">09 abr 2025 · 17:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1359,7 +1359,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1958">
+<blockquote class="evidencia discurso" id="d-1962">
 <span class="data">08 abr 2025 · 19:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1368,7 +1368,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1957">
+<blockquote class="evidencia discurso" id="d-1961">
 <span class="data">08 abr 2025 · 16:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1377,7 +1377,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1956">
+<blockquote class="evidencia discurso" id="d-1960">
 <span class="data">08 abr 2025 · 16:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1386,7 +1386,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1955">
+<blockquote class="evidencia discurso" id="d-1959">
 <span class="data">02 abr 2025 · 18:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1395,7 +1395,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1954">
+<blockquote class="evidencia discurso" id="d-1958">
 <span class="data">02 abr 2025 · 14:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1404,7 +1404,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1953">
+<blockquote class="evidencia discurso" id="d-1957">
 <span class="data">02 abr 2025 · 12:32</span>
 <div class="corpo">
 <p class="tipo">HOMENAGEM</p>
@@ -1413,7 +1413,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1952">
+<blockquote class="evidencia discurso" id="d-1956">
 <span class="data">26 mar 2025 · 19:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1422,7 +1422,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1950">
+<blockquote class="evidencia discurso" id="d-1954">
 <span class="data">18 mar 2025 · 15:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1431,7 +1431,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1949">
+<blockquote class="evidencia discurso" id="d-1953">
 <span class="data">12 mar 2025 · 19:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1440,7 +1440,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1948">
+<blockquote class="evidencia discurso" id="d-1952">
 <span class="data">12 mar 2025 · 15:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1449,7 +1449,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1947">
+<blockquote class="evidencia discurso" id="d-1951">
 <span class="data">11 mar 2025 · 20:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1458,7 +1458,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1946">
+<blockquote class="evidencia discurso" id="d-1950">
 <span class="data">11 mar 2025 · 15:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1467,7 +1467,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1945">
+<blockquote class="evidencia discurso" id="d-1949">
 <span class="data">26 fev 2025 · 14:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1476,7 +1476,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1944">
+<blockquote class="evidencia discurso" id="d-1948">
 <span class="data">25 fev 2025 · 14:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1485,7 +1485,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1943">
+<blockquote class="evidencia discurso" id="d-1947">
 <span class="data">19 fev 2025 · 19:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1494,7 +1494,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1942">
+<blockquote class="evidencia discurso" id="d-1946">
 <span class="data">18 fev 2025 · 20:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1503,7 +1503,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1941">
+<blockquote class="evidencia discurso" id="d-1945">
 <span class="data">18 fev 2025 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -1512,7 +1512,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1940">
+<blockquote class="evidencia discurso" id="d-1944">
 <span class="data">18 fev 2025 · 19:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1521,7 +1521,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1939">
+<blockquote class="evidencia discurso" id="d-1943">
 <span class="data">18 fev 2025 · 16:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1530,7 +1530,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1938">
+<blockquote class="evidencia discurso" id="d-1942">
 <span class="data">12 fev 2025 · 15:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1539,7 +1539,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1937">
+<blockquote class="evidencia discurso" id="d-1941">
 <span class="data">11 fev 2025 · 20:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1548,7 +1548,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1936">
+<blockquote class="evidencia discurso" id="d-1940">
 <span class="data">05 fev 2025 · 18:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1557,7 +1557,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1935">
+<blockquote class="evidencia discurso" id="d-1939">
 <span class="data">04 fev 2025 · 20:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1566,7 +1566,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1934">
+<blockquote class="evidencia discurso" id="d-1938">
 <span class="data">04 fev 2025 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1575,7 +1575,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1933">
+<blockquote class="evidencia discurso" id="d-1937">
 <span class="data">04 fev 2025 · 18:48</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1584,7 +1584,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1932">
+<blockquote class="evidencia discurso" id="d-1936">
 <span class="data">04 fev 2025 · 18:20</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1593,7 +1593,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1931">
+<blockquote class="evidencia discurso" id="d-1935">
 <span class="data">04 fev 2025 · 17:16</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -1602,7 +1602,7 @@ description: "Os discursos de Bohn Gass em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1930">
+<blockquote class="evidencia discurso" id="d-1934">
 <span class="data">04 fev 2025 · 16:52</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1622,7 +1622,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-2138">
+<blockquote class="evidencia discurso" id="d-2142">
 <span class="data">16 dez 2025 · 22:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1631,7 +1631,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2137">
+<blockquote class="evidencia discurso" id="d-2141">
 <span class="data">16 dez 2025 · 18:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1640,7 +1640,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2136">
+<blockquote class="evidencia discurso" id="d-2140">
 <span class="data">16 dez 2025 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1649,7 +1649,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2132">
+<blockquote class="evidencia discurso" id="d-2136">
 <span class="data">10 dez 2025 · 03:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1658,7 +1658,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2130">
+<blockquote class="evidencia discurso" id="d-2134">
 <span class="data">10 dez 2025 · 02:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1667,7 +1667,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2126">
+<blockquote class="evidencia discurso" id="d-2130">
 <span class="data">09 dez 2025 · 21:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1676,7 +1676,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2123">
+<blockquote class="evidencia discurso" id="d-2127">
 <span class="data">09 dez 2025 · 21:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1685,7 +1685,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2108">
+<blockquote class="evidencia discurso" id="d-2112">
 <span class="data">12 nov 2025 · 17:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1694,7 +1694,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2107">
+<blockquote class="evidencia discurso" id="d-2111">
 <span class="data">12 nov 2025 · 17:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1703,7 +1703,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2093">
+<blockquote class="evidencia discurso" id="d-2097">
 <span class="data">05 nov 2025 · 10:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1712,7 +1712,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2083">
+<blockquote class="evidencia discurso" id="d-2087">
 <span class="data">28 out 2025 · 21:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1721,7 +1721,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2082">
+<blockquote class="evidencia discurso" id="d-2086">
 <span class="data">28 out 2025 · 21:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1730,7 +1730,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2081">
+<blockquote class="evidencia discurso" id="d-2085">
 <span class="data">28 out 2025 · 21:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1739,7 +1739,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2068">
+<blockquote class="evidencia discurso" id="d-2072">
 <span class="data">24 set 2025 · 21:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1748,7 +1748,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2066">
+<blockquote class="evidencia discurso" id="d-2070">
 <span class="data">24 set 2025 · 20:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1757,7 +1757,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2065">
+<blockquote class="evidencia discurso" id="d-2069">
 <span class="data">24 set 2025 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1766,7 +1766,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2059">
+<blockquote class="evidencia discurso" id="d-2063">
 <span class="data">17 set 2025 · 18:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1775,7 +1775,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2058">
+<blockquote class="evidencia discurso" id="d-2062">
 <span class="data">17 set 2025 · 14:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1784,7 +1784,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2055">
+<blockquote class="evidencia discurso" id="d-2059">
 <span class="data">16 set 2025 · 23:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1793,7 +1793,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2054">
+<blockquote class="evidencia discurso" id="d-2058">
 <span class="data">16 set 2025 · 23:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1802,7 +1802,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2052">
+<blockquote class="evidencia discurso" id="d-2056">
 <span class="data">16 set 2025 · 23:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1811,7 +1811,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2051">
+<blockquote class="evidencia discurso" id="d-2055">
 <span class="data">16 set 2025 · 22:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1820,7 +1820,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2049">
+<blockquote class="evidencia discurso" id="d-2053">
 <span class="data">16 set 2025 · 21:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1829,7 +1829,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2046">
+<blockquote class="evidencia discurso" id="d-2050">
 <span class="data">16 set 2025 · 16:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1838,7 +1838,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2037">
+<blockquote class="evidencia discurso" id="d-2041">
 <span class="data">02 set 2025 · 20:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1847,7 +1847,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2025">
+<blockquote class="evidencia discurso" id="d-2029">
 <span class="data">19 ago 2025 · 20:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1856,7 +1856,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2020">
+<blockquote class="evidencia discurso" id="d-2024">
 <span class="data">12 ago 2025 · 19:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1865,7 +1865,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2018">
+<blockquote class="evidencia discurso" id="d-2022">
 <span class="data">17 jul 2025 · 03:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1874,7 +1874,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2017">
+<blockquote class="evidencia discurso" id="d-2021">
 <span class="data">17 jul 2025 · 02:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1883,7 +1883,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2014">
+<blockquote class="evidencia discurso" id="d-2018">
 <span class="data">16 jul 2025 · 21:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1892,7 +1892,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2009">
+<blockquote class="evidencia discurso" id="d-2013">
 <span class="data">15 jul 2025 · 21:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1901,7 +1901,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1997">
+<blockquote class="evidencia discurso" id="d-2001">
 <span class="data">03 jul 2025 · 10:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1910,7 +1910,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1992">
+<blockquote class="evidencia discurso" id="d-1996">
 <span class="data">01 jul 2025 · 16:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1919,7 +1919,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1990">
+<blockquote class="evidencia discurso" id="d-1994">
 <span class="data">01 jul 2025 · 16:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1928,7 +1928,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1982">
+<blockquote class="evidencia discurso" id="d-1986">
 <span class="data">10 jun 2025 · 18:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1937,7 +1937,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1979">
+<blockquote class="evidencia discurso" id="d-1983">
 <span class="data">29 mai 2025 · 11:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1946,7 +1946,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1963">
+<blockquote class="evidencia discurso" id="d-1967">
 <span class="data">23 abr 2025 · 17:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1955,7 +1955,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1951">
+<blockquote class="evidencia discurso" id="d-1955">
 <span class="data">25 mar 2025 · 20:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

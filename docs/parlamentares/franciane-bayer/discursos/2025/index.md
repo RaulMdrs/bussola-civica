@@ -18,7 +18,7 @@ description: "Os discursos de Franciane Bayer em 2025, com o sumário oficial e 
 
 ## Substantivos — 11
 
-<blockquote class="evidencia discurso" id="d-4350">
+<blockquote class="evidencia discurso" id="d-4362">
 <span class="data">11 nov 2025 · 17:32</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Franciane Bayer em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4349">
+<blockquote class="evidencia discurso" id="d-4361">
 <span class="data">11 nov 2025 · 14:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Franciane Bayer em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4348">
+<blockquote class="evidencia discurso" id="d-4360">
 <span class="data">05 nov 2025 · 19:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Franciane Bayer em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4346">
+<blockquote class="evidencia discurso" id="d-4358">
 <span class="data">14 out 2025 · 21:28</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Franciane Bayer em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4345">
+<blockquote class="evidencia discurso" id="d-4357">
 <span class="data">14 out 2025 · 21:24</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Franciane Bayer em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4342">
+<blockquote class="evidencia discurso" id="d-4354">
 <span class="data">08 out 2025 · 17:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Franciane Bayer em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4341">
+<blockquote class="evidencia discurso" id="d-4353">
 <span class="data">08 out 2025 · 14:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Franciane Bayer em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4340">
+<blockquote class="evidencia discurso" id="d-4352">
 <span class="data">27 ago 2025 · 14:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Franciane Bayer em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4339">
+<blockquote class="evidencia discurso" id="d-4351">
 <span class="data">20 ago 2025 · 14:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Franciane Bayer em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4337">
+<blockquote class="evidencia discurso" id="d-4349">
 <span class="data">18 fev 2025 · 20:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Franciane Bayer em 2025, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4336">
+<blockquote class="evidencia discurso" id="d-4348">
 <span class="data">18 fev 2025 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -128,7 +128,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-4351">
+<blockquote class="evidencia discurso" id="d-4363">
 <span class="data">11 nov 2025 · 18:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -137,7 +137,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4347">
+<blockquote class="evidencia discurso" id="d-4359">
 <span class="data">05 nov 2025 · 17:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -146,7 +146,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4344">
+<blockquote class="evidencia discurso" id="d-4356">
 <span class="data">14 out 2025 · 20:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -155,7 +155,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4343">
+<blockquote class="evidencia discurso" id="d-4355">
 <span class="data">14 out 2025 · 14:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -164,7 +164,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4338">
+<blockquote class="evidencia discurso" id="d-4350">
 <span class="data">20 ago 2025 · 14:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

@@ -50,7 +50,7 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Indústria, Comércio e Serviços](../../temas/industria-comercio-e-servicos/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>25</b></span> |
 | [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">98,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>204</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">97,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>45</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">97,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>124</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">97,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>123</b></span> |
 | [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | <span class="valor">96,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>29</b></span> |
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">95,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>20</b></span> |
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">93,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>15</b></span> <span class="aviso-n">amostra pequena</span> |
@@ -147,16 +147,16 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-13168">
+<blockquote class="evidencia discurso" id="d-6607">
 <span class="data">02 set 2026 · 16:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
-<p>O Deputado informou que o Partido dos Trabalhadores (PT), a Federação Brasil da Esperança (FE BRASIL) e a Federação PSOL REDE apresentaram petição ao Ministro Fachin, do Supremo Tribunal Federal (STF), para cobrar transparência e isonomia nos casos Dark Horse e Banco Master. Além disso, questionou a atuação do Ministro André Mendonça, mencionou tratamento distinto a envolvidos e reunião com Vorcaro. Por fim, defendeu a apuração dos fatos, inclusive quanto a eventual suspeição do Relator.</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-13167">
+<blockquote class="evidencia discurso" id="d-6606">
 <span class="data">01 set 2026 · 21:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -165,16 +165,16 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-13166">
+<blockquote class="evidencia discurso" id="d-6605">
 <span class="data">01 set 2026 · 20:00</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
-<p>O Deputado abordou novas revelações publicadas pela revista Piauí sobre o escândalo, segundo ele, denominado &quot;Bolsomaster&quot;, que envolve o Senador Flávio Bolsonaro e supostas solicitações de recursos ao empresário Daniel Vorcaro para financiar o filme Dark Horse. Apontou que o montante investigado teria passado de 61 milhões para até 72 milhões de reais, com o surgimento de parcelas até então desconhecidas. Também listou contradições e versões apresentadas pelo Senador ao longo do caso e informou que o PT formalizou três pedidos de inquérito para investigar os recursos, solicitar cooperação internacional e apurar possíveis desvios de emendas parlamentares. Por fim, cobrou explicações de Flávio Bolsonaro à população.</p>
+<p>O Deputado abordou novas revelações publicadas pela revista Piauí sobre o escândalo denominado &quot;Bolsomaster&quot;, que envolve o Senador Flávio Bolsonaro e supostas solicitações de recursos ao empresário Daniel Vorcaro para financiar o filme Dark Horse. Apontou que o montante investigado teria passado de 61 milhões para até 72 milhões de reais, com o surgimento de parcelas até então desconhecidas. Também listou contradições e versões apresentadas pelo Senador ao longo do caso e informou que o PT formalizou três pedidos de inquérito para investigar os recursos, solicitar cooperação internacional e apurar possíveis desvios de emendas parlamentares. Por fim, cobrou explicações de Flávio Bolsonaro à população.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-13165">
+<blockquote class="evidencia discurso" id="d-6604">
 <span class="data">01 set 2026 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -183,11 +183,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-13164">
+<blockquote class="evidencia discurso" id="d-6603">
 <span class="data">01 set 2026 · 18:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
-<p>O Deputado ressaltou a relevância da Convenção nº 156, de 1981, da Organização Internacional do Trabalho - OIT, contida na Mensagem nº 85, de 2023, para amparar mães de crianças com deficiência ou com autismo, as quais enfrentam dupla jornada de trabalho e cuidados familiares. Nesse contexto, defendeu a criação de uma política pública de cuidados voltada a esse segmento. Além disso, apontou medidas do Governo Federal voltadas à igualdade salarial entre mulheres e homens e ao enfrentamento da discriminação de gênero no mercado de trabalho.</p>
+<p>O Deputado ressaltou a relevância de convenção da OIT para amparar mães de crianças com deficiência ou com autismo, as quais enfrentam dupla jornada de trabalho e cuidados familiares. Nesse contexto, defendeu a criação de uma política pública de cuidados voltada a esse segmento. Além disso, apontou medidas do Governo Federal voltadas à igualdade salarial entre mulheres e homens e ao enfrentamento da discriminação de gênero no mercado de trabalho.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>

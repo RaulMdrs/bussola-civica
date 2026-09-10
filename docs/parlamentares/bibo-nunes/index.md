@@ -49,7 +49,7 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">34,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>193</b></span> |
 | [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">33,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>33</b></span> |
 | [Economia](../../temas/economia/) | <span class="valor">32,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>65</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">29,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>127</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">30,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>126</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">28,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>52</b></span> |
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">19,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>21</b></span> |
 | [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">13,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>45</b></span> |
@@ -147,7 +147,7 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-3462">
+<blockquote class="evidencia discurso" id="d-3470">
 <span class="data">27 mai 2026 · 19:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -156,7 +156,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3461">
+<blockquote class="evidencia discurso" id="d-3469">
 <span class="data">27 mai 2026 · 18:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -165,7 +165,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3460">
+<blockquote class="evidencia discurso" id="d-3468">
 <span class="data">27 mai 2026 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -174,7 +174,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3459">
+<blockquote class="evidencia discurso" id="d-3467">
 <span class="data">27 mai 2026 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -183,7 +183,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3458">
+<blockquote class="evidencia discurso" id="d-3466">
 <span class="data">27 mai 2026 · 17:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

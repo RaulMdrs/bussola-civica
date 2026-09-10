@@ -18,7 +18,7 @@ description: "Os discursos de Denise Pessôa em 2025, com o sumário oficial e l
 
 ## Substantivos — 10
 
-<blockquote class="evidencia discurso" id="d-4511">
+<blockquote class="evidencia discurso" id="d-4523">
 <span class="data">03 dez 2025 · 15:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Denise Pessôa em 2025, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4510">
+<blockquote class="evidencia discurso" id="d-4522">
 <span class="data">26 nov 2025 · 19:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Denise Pessôa em 2025, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4507">
+<blockquote class="evidencia discurso" id="d-4519">
 <span class="data">14 out 2025 · 19:36</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Denise Pessôa em 2025, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4506">
+<blockquote class="evidencia discurso" id="d-4518">
 <span class="data">16 set 2025 · 16:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Denise Pessôa em 2025, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4505">
+<blockquote class="evidencia discurso" id="d-4517">
 <span class="data">10 set 2025 · 15:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Denise Pessôa em 2025, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4504">
+<blockquote class="evidencia discurso" id="d-4516">
 <span class="data">01 jul 2025 · 18:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Denise Pessôa em 2025, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4503">
+<blockquote class="evidencia discurso" id="d-4515">
 <span class="data">11 jun 2025 · 15:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Denise Pessôa em 2025, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4502">
+<blockquote class="evidencia discurso" id="d-4514">
 <span class="data">21 mai 2025 · 13:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Denise Pessôa em 2025, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4498">
+<blockquote class="evidencia discurso" id="d-4510">
 <span class="data">23 abr 2025 · 17:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Denise Pessôa em 2025, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4497">
+<blockquote class="evidencia discurso" id="d-4509">
 <span class="data">22 abr 2025 · 16:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -119,7 +119,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-4509">
+<blockquote class="evidencia discurso" id="d-4521">
 <span class="data">05 nov 2025 · 15:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -128,7 +128,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4508">
+<blockquote class="evidencia discurso" id="d-4520">
 <span class="data">05 nov 2025 · 14:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -137,7 +137,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4501">
+<blockquote class="evidencia discurso" id="d-4513">
 <span class="data">28 abr 2025 · 23:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -146,7 +146,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4500">
+<blockquote class="evidencia discurso" id="d-4512">
 <span class="data">28 abr 2025 · 22:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -155,7 +155,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4499">
+<blockquote class="evidencia discurso" id="d-4511">
 <span class="data">28 abr 2025 · 22:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

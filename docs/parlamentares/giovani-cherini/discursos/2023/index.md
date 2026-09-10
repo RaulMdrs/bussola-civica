@@ -18,7 +18,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 
 ## Substantivos — 64
 
-<blockquote class="evidencia discurso" id="d-2350">
+<blockquote class="evidencia discurso" id="d-2355">
 <span class="data">19 dez 2023 · 17:24</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2345">
+<blockquote class="evidencia discurso" id="d-2350">
 <span class="data">15 dez 2023 · 20:00</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2344">
+<blockquote class="evidencia discurso" id="d-2349">
 <span class="data">15 dez 2023 · 19:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2340">
+<blockquote class="evidencia discurso" id="d-2345">
 <span class="data">15 dez 2023 · 17:40</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2338">
+<blockquote class="evidencia discurso" id="d-2343">
 <span class="data">15 dez 2023 · 16:28</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2336">
+<blockquote class="evidencia discurso" id="d-2341">
 <span class="data">15 dez 2023 · 14:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2335">
+<blockquote class="evidencia discurso" id="d-2340">
 <span class="data">21 nov 2023 · 15:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2334">
+<blockquote class="evidencia discurso" id="d-2339">
 <span class="data">21 nov 2023 · 14:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2333">
+<blockquote class="evidencia discurso" id="d-2338">
 <span class="data">08 nov 2023 · 14:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2332">
+<blockquote class="evidencia discurso" id="d-2337">
 <span class="data">07 nov 2023 · 17:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2331">
+<blockquote class="evidencia discurso" id="d-2336">
 <span class="data">07 nov 2023 · 16:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2330">
+<blockquote class="evidencia discurso" id="d-2335">
 <span class="data">31 out 2023 · 14:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2329">
+<blockquote class="evidencia discurso" id="d-2334">
 <span class="data">31 out 2023 · 14:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2328">
+<blockquote class="evidencia discurso" id="d-2333">
 <span class="data">25 out 2023 · 15:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2327">
+<blockquote class="evidencia discurso" id="d-2332">
 <span class="data">25 out 2023 · 14:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2326">
+<blockquote class="evidencia discurso" id="d-2331">
 <span class="data">24 out 2023 · 16:20</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2325">
+<blockquote class="evidencia discurso" id="d-2330">
 <span class="data">24 out 2023 · 15:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2324">
+<blockquote class="evidencia discurso" id="d-2329">
 <span class="data">18 out 2023 · 16:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2323">
+<blockquote class="evidencia discurso" id="d-2328">
 <span class="data">17 out 2023 · 16:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2322">
+<blockquote class="evidencia discurso" id="d-2327">
 <span class="data">10 out 2023 · 15:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2321">
+<blockquote class="evidencia discurso" id="d-2326">
 <span class="data">10 out 2023 · 15:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2320">
+<blockquote class="evidencia discurso" id="d-2325">
 <span class="data">10 out 2023 · 14:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2319">
+<blockquote class="evidencia discurso" id="d-2324">
 <span class="data">12 set 2023 · 16:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2317">
+<blockquote class="evidencia discurso" id="d-2322">
 <span class="data">05 set 2023 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2315">
+<blockquote class="evidencia discurso" id="d-2320">
 <span class="data">05 set 2023 · 15:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2314">
+<blockquote class="evidencia discurso" id="d-2319">
 <span class="data">04 set 2023 · 18:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2313">
+<blockquote class="evidencia discurso" id="d-2318">
 <span class="data">31 ago 2023 · 10:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2312">
+<blockquote class="evidencia discurso" id="d-2317">
 <span class="data">31 ago 2023 · 10:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2311">
+<blockquote class="evidencia discurso" id="d-2316">
 <span class="data">23 ago 2023 · 16:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2310">
+<blockquote class="evidencia discurso" id="d-2315">
 <span class="data">22 ago 2023 · 14:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2309">
+<blockquote class="evidencia discurso" id="d-2314">
 <span class="data">17 ago 2023 · 11:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2308">
+<blockquote class="evidencia discurso" id="d-2313">
 <span class="data">17 ago 2023 · 10:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2307">
+<blockquote class="evidencia discurso" id="d-2312">
 <span class="data">05 jul 2023 · 15:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2306">
+<blockquote class="evidencia discurso" id="d-2311">
 <span class="data">04 jul 2023 · 15:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2305">
+<blockquote class="evidencia discurso" id="d-2310">
 <span class="data">14 jun 2023 · 15:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2304">
+<blockquote class="evidencia discurso" id="d-2309">
 <span class="data">31 mai 2023 · 15:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2303">
+<blockquote class="evidencia discurso" id="d-2308">
 <span class="data">31 mai 2023 · 15:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -351,7 +351,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2302">
+<blockquote class="evidencia discurso" id="d-2307">
 <span class="data">31 mai 2023 · 12:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -360,7 +360,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2301">
+<blockquote class="evidencia discurso" id="d-2306">
 <span class="data">30 mai 2023 · 23:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -369,7 +369,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2300">
+<blockquote class="evidencia discurso" id="d-2305">
 <span class="data">30 mai 2023 · 22:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -378,7 +378,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2299">
+<blockquote class="evidencia discurso" id="d-2304">
 <span class="data">30 mai 2023 · 20:48</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -387,7 +387,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2298">
+<blockquote class="evidencia discurso" id="d-2303">
 <span class="data">30 mai 2023 · 20:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -396,7 +396,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2297">
+<blockquote class="evidencia discurso" id="d-2302">
 <span class="data">30 mai 2023 · 20:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -405,7 +405,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2296">
+<blockquote class="evidencia discurso" id="d-2301">
 <span class="data">30 mai 2023 · 20:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -414,7 +414,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2295">
+<blockquote class="evidencia discurso" id="d-2300">
 <span class="data">30 mai 2023 · 15:24</span>
 <div class="corpo">
 <p class="tipo">COMISSÃO GERAL</p>
@@ -423,7 +423,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2294">
+<blockquote class="evidencia discurso" id="d-2299">
 <span class="data">24 mai 2023 · 17:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -432,7 +432,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2293">
+<blockquote class="evidencia discurso" id="d-2298">
 <span class="data">24 mai 2023 · 16:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -441,7 +441,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2292">
+<blockquote class="evidencia discurso" id="d-2297">
 <span class="data">04 mai 2023 · 11:52</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -450,7 +450,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2291">
+<blockquote class="evidencia discurso" id="d-2296">
 <span class="data">04 mai 2023 · 09:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -459,7 +459,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2290">
+<blockquote class="evidencia discurso" id="d-2295">
 <span class="data">04 mai 2023 · 09:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -468,7 +468,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2289">
+<blockquote class="evidencia discurso" id="d-2294">
 <span class="data">25 abr 2023 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -477,7 +477,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2288">
+<blockquote class="evidencia discurso" id="d-2293">
 <span class="data">25 abr 2023 · 15:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -486,7 +486,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2287">
+<blockquote class="evidencia discurso" id="d-2292">
 <span class="data">13 abr 2023 · 11:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -495,7 +495,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2286">
+<blockquote class="evidencia discurso" id="d-2291">
 <span class="data">13 abr 2023 · 10:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -504,7 +504,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2285">
+<blockquote class="evidencia discurso" id="d-2290">
 <span class="data">30 mar 2023 · 11:32</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -513,7 +513,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2284">
+<blockquote class="evidencia discurso" id="d-2289">
 <span class="data">28 mar 2023 · 15:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -522,7 +522,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2283">
+<blockquote class="evidencia discurso" id="d-2288">
 <span class="data">15 mar 2023 · 15:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -531,7 +531,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2282">
+<blockquote class="evidencia discurso" id="d-2287">
 <span class="data">08 mar 2023 · 16:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -540,7 +540,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2281">
+<blockquote class="evidencia discurso" id="d-2286">
 <span class="data">15 fev 2023 · 16:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -549,7 +549,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2280">
+<blockquote class="evidencia discurso" id="d-2285">
 <span class="data">09 fev 2023 · 11:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -558,7 +558,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2279">
+<blockquote class="evidencia discurso" id="d-2284">
 <span class="data">08 fev 2023 · 14:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -567,7 +567,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2278">
+<blockquote class="evidencia discurso" id="d-2283">
 <span class="data">08 fev 2023 · 14:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -576,7 +576,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2277">
+<blockquote class="evidencia discurso" id="d-2282">
 <span class="data">07 fev 2023 · 20:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -585,7 +585,7 @@ description: "Os discursos de Giovani Cherini em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2276">
+<blockquote class="evidencia discurso" id="d-2281">
 <span class="data">07 fev 2023 · 19:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -605,7 +605,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-2349">
+<blockquote class="evidencia discurso" id="d-2354">
 <span class="data">15 dez 2023 · 22:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -614,7 +614,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2348">
+<blockquote class="evidencia discurso" id="d-2353">
 <span class="data">15 dez 2023 · 21:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -623,7 +623,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2347">
+<blockquote class="evidencia discurso" id="d-2352">
 <span class="data">15 dez 2023 · 21:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -632,7 +632,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2346">
+<blockquote class="evidencia discurso" id="d-2351">
 <span class="data">15 dez 2023 · 20:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -641,7 +641,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2343">
+<blockquote class="evidencia discurso" id="d-2348">
 <span class="data">15 dez 2023 · 19:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -650,7 +650,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2342">
+<blockquote class="evidencia discurso" id="d-2347">
 <span class="data">15 dez 2023 · 19:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -659,7 +659,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2341">
+<blockquote class="evidencia discurso" id="d-2346">
 <span class="data">15 dez 2023 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -668,7 +668,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2339">
+<blockquote class="evidencia discurso" id="d-2344">
 <span class="data">15 dez 2023 · 17:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -677,7 +677,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2337">
+<blockquote class="evidencia discurso" id="d-2342">
 <span class="data">15 dez 2023 · 15:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -686,7 +686,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2318">
+<blockquote class="evidencia discurso" id="d-2323">
 <span class="data">05 set 2023 · 19:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -695,7 +695,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2316">
+<blockquote class="evidencia discurso" id="d-2321">
 <span class="data">05 set 2023 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

@@ -52,7 +52,7 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">29,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>24</b></span> |
 | [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">24,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>45</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">23,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>52</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">22,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>136</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">22,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>135</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">15,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>26</b></span> |
 {: .t-temas}
 
@@ -147,7 +147,7 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-4483">
+<blockquote class="evidencia discurso" id="d-4495">
 <span class="data">09 jun 2026 · 15:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -156,7 +156,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4482">
+<blockquote class="evidencia discurso" id="d-4494">
 <span class="data">30 abr 2026 · 14:48</span>
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
@@ -165,7 +165,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4481">
+<blockquote class="evidencia discurso" id="d-4493">
 <span class="data">07 abr 2026 · 19:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -174,7 +174,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4479">
+<blockquote class="evidencia discurso" id="d-4491">
 <span class="data">10 dez 2025 · 01:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -183,7 +183,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4477">
+<blockquote class="evidencia discurso" id="d-4489">
 <span class="data">18 nov 2025 · 21:08</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>

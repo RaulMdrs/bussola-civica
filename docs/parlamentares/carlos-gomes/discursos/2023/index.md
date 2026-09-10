@@ -18,7 +18,7 @@ description: "Os discursos de Carlos Gomes em 2023, com o sumário oficial e lin
 
 ## Substantivos — 4
 
-<blockquote class="evidencia discurso" id="d-2500">
+<blockquote class="evidencia discurso" id="d-2505">
 <span class="data">05 set 2023 · 15:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Carlos Gomes em 2023, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2499">
+<blockquote class="evidencia discurso" id="d-2504">
 <span class="data">02 ago 2023 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Carlos Gomes em 2023, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2498">
+<blockquote class="evidencia discurso" id="d-2503">
 <span class="data">05 jul 2023 · 14:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Carlos Gomes em 2023, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2497">
+<blockquote class="evidencia discurso" id="d-2502">
 <span class="data">08 fev 2023 · 15:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

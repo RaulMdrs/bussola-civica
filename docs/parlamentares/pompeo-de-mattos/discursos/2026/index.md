@@ -18,7 +18,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 
 ## Substantivos — 59
 
-<blockquote class="evidencia discurso" id="d-5392">
+<blockquote class="evidencia discurso" id="d-5404">
 <span class="data">08 jul 2026 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5391">
+<blockquote class="evidencia discurso" id="d-5403">
 <span class="data">08 jul 2026 · 18:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5390">
+<blockquote class="evidencia discurso" id="d-5402">
 <span class="data">08 jul 2026 · 17:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5389">
+<blockquote class="evidencia discurso" id="d-5401">
 <span class="data">08 jul 2026 · 17:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5388">
+<blockquote class="evidencia discurso" id="d-5400">
 <span class="data">08 jul 2026 · 15:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5387">
+<blockquote class="evidencia discurso" id="d-5399">
 <span class="data">08 jul 2026 · 14:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5386">
+<blockquote class="evidencia discurso" id="d-5398">
 <span class="data">07 jul 2026 · 21:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5385">
+<blockquote class="evidencia discurso" id="d-5397">
 <span class="data">07 jul 2026 · 20:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5384">
+<blockquote class="evidencia discurso" id="d-5396">
 <span class="data">07 jul 2026 · 20:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5383">
+<blockquote class="evidencia discurso" id="d-5395">
 <span class="data">07 jul 2026 · 19:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5382">
+<blockquote class="evidencia discurso" id="d-5394">
 <span class="data">07 jul 2026 · 17:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5381">
+<blockquote class="evidencia discurso" id="d-5393">
 <span class="data">07 jul 2026 · 15:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5380">
+<blockquote class="evidencia discurso" id="d-5392">
 <span class="data">07 jul 2026 · 15:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5379">
+<blockquote class="evidencia discurso" id="d-5391">
 <span class="data">07 jul 2026 · 15:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5378">
+<blockquote class="evidencia discurso" id="d-5390">
 <span class="data">07 jul 2026 · 14:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5374">
+<blockquote class="evidencia discurso" id="d-5386">
 <span class="data">17 jun 2026 · 16:28</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5373">
+<blockquote class="evidencia discurso" id="d-5385">
 <span class="data">17 jun 2026 · 16:24</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5372">
+<blockquote class="evidencia discurso" id="d-5384">
 <span class="data">16 jun 2026 · 20:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5370">
+<blockquote class="evidencia discurso" id="d-5382">
 <span class="data">16 jun 2026 · 19:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5369">
+<blockquote class="evidencia discurso" id="d-5381">
 <span class="data">16 jun 2026 · 16:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5368">
+<blockquote class="evidencia discurso" id="d-5380">
 <span class="data">16 jun 2026 · 15:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5367">
+<blockquote class="evidencia discurso" id="d-5379">
 <span class="data">16 jun 2026 · 15:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5366">
+<blockquote class="evidencia discurso" id="d-5378">
 <span class="data">16 jun 2026 · 14:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5364">
+<blockquote class="evidencia discurso" id="d-5376">
 <span class="data">19 mai 2026 · 15:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5363">
+<blockquote class="evidencia discurso" id="d-5375">
 <span class="data">19 mai 2026 · 15:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5362">
+<blockquote class="evidencia discurso" id="d-5374">
 <span class="data">19 mai 2026 · 14:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5361">
+<blockquote class="evidencia discurso" id="d-5373">
 <span class="data">06 mai 2026 · 15:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5360">
+<blockquote class="evidencia discurso" id="d-5372">
 <span class="data">05 mai 2026 · 15:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5359">
+<blockquote class="evidencia discurso" id="d-5371">
 <span class="data">05 mai 2026 · 14:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5358">
+<blockquote class="evidencia discurso" id="d-5370">
 <span class="data">15 abr 2026 · 18:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5357">
+<blockquote class="evidencia discurso" id="d-5369">
 <span class="data">15 abr 2026 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5356">
+<blockquote class="evidencia discurso" id="d-5368">
 <span class="data">15 abr 2026 · 17:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5355">
+<blockquote class="evidencia discurso" id="d-5367">
 <span class="data">14 abr 2026 · 20:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5354">
+<blockquote class="evidencia discurso" id="d-5366">
 <span class="data">14 abr 2026 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5352">
+<blockquote class="evidencia discurso" id="d-5364">
 <span class="data">07 abr 2026 · 19:48</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5350">
+<blockquote class="evidencia discurso" id="d-5362">
 <span class="data">07 abr 2026 · 18:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5349">
+<blockquote class="evidencia discurso" id="d-5361">
 <span class="data">07 abr 2026 · 16:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -351,7 +351,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5348">
+<blockquote class="evidencia discurso" id="d-5360">
 <span class="data">07 abr 2026 · 14:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -360,7 +360,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5346">
+<blockquote class="evidencia discurso" id="d-5358">
 <span class="data">17 mar 2026 · 23:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -369,7 +369,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5344">
+<blockquote class="evidencia discurso" id="d-5356">
 <span class="data">17 mar 2026 · 22:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -378,7 +378,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5340">
+<blockquote class="evidencia discurso" id="d-5352">
 <span class="data">17 mar 2026 · 20:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -387,7 +387,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5339">
+<blockquote class="evidencia discurso" id="d-5351">
 <span class="data">17 mar 2026 · 14:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -396,7 +396,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5338">
+<blockquote class="evidencia discurso" id="d-5350">
 <span class="data">17 mar 2026 · 14:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -405,7 +405,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5337">
+<blockquote class="evidencia discurso" id="d-5349">
 <span class="data">17 mar 2026 · 14:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -414,7 +414,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5335">
+<blockquote class="evidencia discurso" id="d-5347">
 <span class="data">04 mar 2026 · 20:20</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -423,7 +423,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5334">
+<blockquote class="evidencia discurso" id="d-5346">
 <span class="data">04 mar 2026 · 16:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -432,7 +432,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5333">
+<blockquote class="evidencia discurso" id="d-5345">
 <span class="data">03 mar 2026 · 21:24</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -441,7 +441,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5331">
+<blockquote class="evidencia discurso" id="d-5343">
 <span class="data">03 mar 2026 · 19:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -450,7 +450,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5330">
+<blockquote class="evidencia discurso" id="d-5342">
 <span class="data">02 mar 2026 · 23:48</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -459,7 +459,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5329">
+<blockquote class="evidencia discurso" id="d-5341">
 <span class="data">02 mar 2026 · 23:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -468,7 +468,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5328">
+<blockquote class="evidencia discurso" id="d-5340">
 <span class="data">02 mar 2026 · 23:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -477,7 +477,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5327">
+<blockquote class="evidencia discurso" id="d-5339">
 <span class="data">02 mar 2026 · 22:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -486,7 +486,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5324">
+<blockquote class="evidencia discurso" id="d-5336">
 <span class="data">02 mar 2026 · 21:08</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -495,7 +495,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5323">
+<blockquote class="evidencia discurso" id="d-5335">
 <span class="data">02 mar 2026 · 21:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -504,7 +504,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5321">
+<blockquote class="evidencia discurso" id="d-5333">
 <span class="data">24 fev 2026 · 20:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -513,7 +513,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5320">
+<blockquote class="evidencia discurso" id="d-5332">
 <span class="data">24 fev 2026 · 19:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -522,7 +522,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5319">
+<blockquote class="evidencia discurso" id="d-5331">
 <span class="data">24 fev 2026 · 19:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -531,7 +531,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5318">
+<blockquote class="evidencia discurso" id="d-5330">
 <span class="data">02 fev 2026 · 20:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -540,7 +540,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5317">
+<blockquote class="evidencia discurso" id="d-5329">
 <span class="data">02 fev 2026 · 20:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -560,7 +560,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-5377">
+<blockquote class="evidencia discurso" id="d-5389">
 <span class="data">17 jun 2026 · 19:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -569,7 +569,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5376">
+<blockquote class="evidencia discurso" id="d-5388">
 <span class="data">17 jun 2026 · 17:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -578,7 +578,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5375">
+<blockquote class="evidencia discurso" id="d-5387">
 <span class="data">17 jun 2026 · 16:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -587,7 +587,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5371">
+<blockquote class="evidencia discurso" id="d-5383">
 <span class="data">16 jun 2026 · 20:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -596,7 +596,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5365">
+<blockquote class="evidencia discurso" id="d-5377">
 <span class="data">20 mai 2026 · 19:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -605,7 +605,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5353">
+<blockquote class="evidencia discurso" id="d-5365">
 <span class="data">08 abr 2026 · 19:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -614,7 +614,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5351">
+<blockquote class="evidencia discurso" id="d-5363">
 <span class="data">07 abr 2026 · 19:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -623,7 +623,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5347">
+<blockquote class="evidencia discurso" id="d-5359">
 <span class="data">18 mar 2026 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -632,7 +632,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5345">
+<blockquote class="evidencia discurso" id="d-5357">
 <span class="data">17 mar 2026 · 23:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -641,7 +641,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5343">
+<blockquote class="evidencia discurso" id="d-5355">
 <span class="data">17 mar 2026 · 21:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -650,7 +650,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5342">
+<blockquote class="evidencia discurso" id="d-5354">
 <span class="data">17 mar 2026 · 21:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -659,7 +659,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5341">
+<blockquote class="evidencia discurso" id="d-5353">
 <span class="data">17 mar 2026 · 20:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -668,7 +668,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5336">
+<blockquote class="evidencia discurso" id="d-5348">
 <span class="data">04 mar 2026 · 21:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -677,7 +677,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5332">
+<blockquote class="evidencia discurso" id="d-5344">
 <span class="data">03 mar 2026 · 20:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -686,7 +686,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5326">
+<blockquote class="evidencia discurso" id="d-5338">
 <span class="data">02 mar 2026 · 21:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -695,7 +695,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5325">
+<blockquote class="evidencia discurso" id="d-5337">
 <span class="data">02 mar 2026 · 21:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -704,7 +704,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5322">
+<blockquote class="evidencia discurso" id="d-5334">
 <span class="data">25 fev 2026 · 00:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -713,7 +713,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5316">
+<blockquote class="evidencia discurso" id="d-5328">
 <span class="data">02 fev 2026 · 19:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -722,7 +722,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5315">
+<blockquote class="evidencia discurso" id="d-5327">
 <span class="data">02 fev 2026 · 18:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

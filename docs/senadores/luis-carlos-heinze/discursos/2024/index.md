@@ -18,7 +18,7 @@ description: "Os discursos de Luis Carlos Heinze em 2024, com o sumário oficial
 
 ## Substantivos — 13
 
-<blockquote class="evidencia discurso" id="d-11732">
+<blockquote class="evidencia discurso" id="d-5897">
 <span class="data">17 dez 2024</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Luis Carlos Heinze em 2024, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11733">
+<blockquote class="evidencia discurso" id="d-5898">
 <span class="data">10 dez 2024</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Luis Carlos Heinze em 2024, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11734">
+<blockquote class="evidencia discurso" id="d-5899">
 <span class="data">04 dez 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Luis Carlos Heinze em 2024, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11735">
+<blockquote class="evidencia discurso" id="d-5900">
 <span class="data">13 nov 2024</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Luis Carlos Heinze em 2024, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11736">
+<blockquote class="evidencia discurso" id="d-5901">
 <span class="data">08 out 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Luis Carlos Heinze em 2024, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11737">
+<blockquote class="evidencia discurso" id="d-5902">
 <span class="data">03 set 2024</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Luis Carlos Heinze em 2024, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11738">
+<blockquote class="evidencia discurso" id="d-5903">
 <span class="data">14 ago 2024</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Luis Carlos Heinze em 2024, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11739">
+<blockquote class="evidencia discurso" id="d-5904">
 <span class="data">07 ago 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Luis Carlos Heinze em 2024, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11740">
+<blockquote class="evidencia discurso" id="d-5905">
 <span class="data">26 mar 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Luis Carlos Heinze em 2024, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11741">
+<blockquote class="evidencia discurso" id="d-5906">
 <span class="data">20 mar 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Luis Carlos Heinze em 2024, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11743">
+<blockquote class="evidencia discurso" id="d-5908">
 <span class="data">28 fev 2024</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Luis Carlos Heinze em 2024, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11742">
+<blockquote class="evidencia discurso" id="d-5907">
 <span class="data">28 fev 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Luis Carlos Heinze em 2024, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11744">
+<blockquote class="evidencia discurso" id="d-5909">
 <span class="data">07 fev 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>

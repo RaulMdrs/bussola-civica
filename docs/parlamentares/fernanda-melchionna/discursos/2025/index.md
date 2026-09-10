@@ -18,7 +18,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 
 ## Substantivos — 74
 
-<blockquote class="evidencia discurso" id="d-3787">
+<blockquote class="evidencia discurso" id="d-3796">
 <span class="data">16 dez 2025 · 15:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3786">
+<blockquote class="evidencia discurso" id="d-3795">
 <span class="data">10 dez 2025 · 19:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3785">
+<blockquote class="evidencia discurso" id="d-3794">
 <span class="data">10 dez 2025 · 17:40</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3784">
+<blockquote class="evidencia discurso" id="d-3793">
 <span class="data">10 dez 2025 · 03:08</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3782">
+<blockquote class="evidencia discurso" id="d-3791">
 <span class="data">09 dez 2025 · 22:00</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3781">
+<blockquote class="evidencia discurso" id="d-3790">
 <span class="data">09 dez 2025 · 21:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3780">
+<blockquote class="evidencia discurso" id="d-3789">
 <span class="data">09 dez 2025 · 20:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3779">
+<blockquote class="evidencia discurso" id="d-3788">
 <span class="data">02 dez 2025 · 18:52</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3778">
+<blockquote class="evidencia discurso" id="d-3787">
 <span class="data">27 nov 2025 · 13:46</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3777">
+<blockquote class="evidencia discurso" id="d-3786">
 <span class="data">27 nov 2025 · 13:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3776">
+<blockquote class="evidencia discurso" id="d-3785">
 <span class="data">27 nov 2025 · 11:54</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3775">
+<blockquote class="evidencia discurso" id="d-3784">
 <span class="data">25 nov 2025 · 20:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3774">
+<blockquote class="evidencia discurso" id="d-3783">
 <span class="data">05 nov 2025 · 21:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3773">
+<blockquote class="evidencia discurso" id="d-3782">
 <span class="data">05 nov 2025 · 20:44</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3772">
+<blockquote class="evidencia discurso" id="d-3781">
 <span class="data">05 nov 2025 · 19:04</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3771">
+<blockquote class="evidencia discurso" id="d-3780">
 <span class="data">05 nov 2025 · 17:24</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3770">
+<blockquote class="evidencia discurso" id="d-3779">
 <span class="data">05 nov 2025 · 17:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3769">
+<blockquote class="evidencia discurso" id="d-3778">
 <span class="data">05 nov 2025 · 17:00</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3768">
+<blockquote class="evidencia discurso" id="d-3777">
 <span class="data">05 nov 2025 · 16:00</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3767">
+<blockquote class="evidencia discurso" id="d-3776">
 <span class="data">05 nov 2025 · 11:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3766">
+<blockquote class="evidencia discurso" id="d-3775">
 <span class="data">04 nov 2025 · 20:20</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3765">
+<blockquote class="evidencia discurso" id="d-3774">
 <span class="data">04 nov 2025 · 17:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3764">
+<blockquote class="evidencia discurso" id="d-3773">
 <span class="data">29 out 2025 · 18:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3760">
+<blockquote class="evidencia discurso" id="d-3769">
 <span class="data">15 out 2025 · 18:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3759">
+<blockquote class="evidencia discurso" id="d-3768">
 <span class="data">02 out 2025 · 11:36</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3758">
+<blockquote class="evidencia discurso" id="d-3767">
 <span class="data">02 out 2025 · 11:24</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3757">
+<blockquote class="evidencia discurso" id="d-3766">
 <span class="data">02 out 2025 · 11:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3756">
+<blockquote class="evidencia discurso" id="d-3765">
 <span class="data">01 out 2025 · 19:56</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3755">
+<blockquote class="evidencia discurso" id="d-3764">
 <span class="data">24 set 2025 · 18:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3754">
+<blockquote class="evidencia discurso" id="d-3763">
 <span class="data">24 set 2025 · 17:56</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3753">
+<blockquote class="evidencia discurso" id="d-3762">
 <span class="data">24 set 2025 · 14:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3752">
+<blockquote class="evidencia discurso" id="d-3761">
 <span class="data">17 set 2025 · 18:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3750">
+<blockquote class="evidencia discurso" id="d-3759">
 <span class="data">17 set 2025 · 15:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3749">
+<blockquote class="evidencia discurso" id="d-3758">
 <span class="data">17 set 2025 · 13:40</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3748">
+<blockquote class="evidencia discurso" id="d-3757">
 <span class="data">16 set 2025 · 22:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3747">
+<blockquote class="evidencia discurso" id="d-3756">
 <span class="data">16 set 2025 · 22:28</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3746">
+<blockquote class="evidencia discurso" id="d-3755">
 <span class="data">16 set 2025 · 19:56</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -351,7 +351,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3745">
+<blockquote class="evidencia discurso" id="d-3754">
 <span class="data">03 set 2025 · 21:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -360,7 +360,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3744">
+<blockquote class="evidencia discurso" id="d-3753">
 <span class="data">02 set 2025 · 18:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -369,7 +369,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3743">
+<blockquote class="evidencia discurso" id="d-3752">
 <span class="data">27 ago 2025 · 19:48</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -378,7 +378,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3742">
+<blockquote class="evidencia discurso" id="d-3751">
 <span class="data">26 ago 2025 · 18:04</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -387,7 +387,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3741">
+<blockquote class="evidencia discurso" id="d-3750">
 <span class="data">20 ago 2025 · 21:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -396,7 +396,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3740">
+<blockquote class="evidencia discurso" id="d-3749">
 <span class="data">19 ago 2025 · 20:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -405,7 +405,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3739">
+<blockquote class="evidencia discurso" id="d-3748">
 <span class="data">13 ago 2025 · 19:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -414,7 +414,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3738">
+<blockquote class="evidencia discurso" id="d-3747">
 <span class="data">17 jul 2025 · 01:20</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -423,7 +423,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3737">
+<blockquote class="evidencia discurso" id="d-3746">
 <span class="data">16 jul 2025 · 23:52</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -432,7 +432,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3736">
+<blockquote class="evidencia discurso" id="d-3745">
 <span class="data">16 jul 2025 · 23:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -441,7 +441,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3735">
+<blockquote class="evidencia discurso" id="d-3744">
 <span class="data">16 jul 2025 · 20:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -450,7 +450,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3734">
+<blockquote class="evidencia discurso" id="d-3743">
 <span class="data">16 jul 2025 · 20:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -459,7 +459,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3733">
+<blockquote class="evidencia discurso" id="d-3742">
 <span class="data">15 jul 2025 · 19:56</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -468,7 +468,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3732">
+<blockquote class="evidencia discurso" id="d-3741">
 <span class="data">09 jul 2025 · 21:04</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -477,7 +477,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3731">
+<blockquote class="evidencia discurso" id="d-3740">
 <span class="data">08 jul 2025 · 18:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -486,7 +486,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3729">
+<blockquote class="evidencia discurso" id="d-3738">
 <span class="data">08 jul 2025 · 17:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -495,7 +495,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3728">
+<blockquote class="evidencia discurso" id="d-3737">
 <span class="data">11 jun 2025 · 18:04</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -504,7 +504,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3725">
+<blockquote class="evidencia discurso" id="d-3734">
 <span class="data">21 mai 2025 · 18:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -513,7 +513,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3724">
+<blockquote class="evidencia discurso" id="d-3733">
 <span class="data">21 mai 2025 · 18:04</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -522,7 +522,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3723">
+<blockquote class="evidencia discurso" id="d-3732">
 <span class="data">07 mai 2025 · 20:28</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -531,7 +531,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3722">
+<blockquote class="evidencia discurso" id="d-3731">
 <span class="data">07 mai 2025 · 17:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -540,7 +540,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3720">
+<blockquote class="evidencia discurso" id="d-3729">
 <span class="data">23 abr 2025 · 20:28</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -549,7 +549,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3719">
+<blockquote class="evidencia discurso" id="d-3728">
 <span class="data">14 abr 2025 · 19:04</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -558,7 +558,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3718">
+<blockquote class="evidencia discurso" id="d-3727">
 <span class="data">14 abr 2025 · 18:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -567,7 +567,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3717">
+<blockquote class="evidencia discurso" id="d-3726">
 <span class="data">10 abr 2025 · 10:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -576,7 +576,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3716">
+<blockquote class="evidencia discurso" id="d-3725">
 <span class="data">09 abr 2025 · 20:20</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -585,7 +585,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3715">
+<blockquote class="evidencia discurso" id="d-3724">
 <span class="data">09 abr 2025 · 20:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -594,7 +594,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3714">
+<blockquote class="evidencia discurso" id="d-3723">
 <span class="data">09 abr 2025 · 16:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -603,7 +603,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3713">
+<blockquote class="evidencia discurso" id="d-3722">
 <span class="data">08 abr 2025 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -612,7 +612,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3712">
+<blockquote class="evidencia discurso" id="d-3721">
 <span class="data">03 abr 2025 · 10:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -621,7 +621,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3711">
+<blockquote class="evidencia discurso" id="d-3720">
 <span class="data">02 abr 2025 · 18:28</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -630,7 +630,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3710">
+<blockquote class="evidencia discurso" id="d-3719">
 <span class="data">01 abr 2025 · 17:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -639,7 +639,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3709">
+<blockquote class="evidencia discurso" id="d-3718">
 <span class="data">26 mar 2025 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -648,7 +648,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3708">
+<blockquote class="evidencia discurso" id="d-3717">
 <span class="data">26 mar 2025 · 18:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -657,7 +657,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3707">
+<blockquote class="evidencia discurso" id="d-3716">
 <span class="data">19 mar 2025 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -666,7 +666,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3706">
+<blockquote class="evidencia discurso" id="d-3715">
 <span class="data">18 mar 2025 · 20:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -675,7 +675,7 @@ description: "Os discursos de Fernanda Melchionna em 2025, com o sumário oficia
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3705">
+<blockquote class="evidencia discurso" id="d-3714">
 <span class="data">18 mar 2025 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -695,7 +695,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-3783">
+<blockquote class="evidencia discurso" id="d-3792">
 <span class="data">10 dez 2025 · 02:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -704,7 +704,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3763">
+<blockquote class="evidencia discurso" id="d-3772">
 <span class="data">28 out 2025 · 20:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -713,7 +713,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3762">
+<blockquote class="evidencia discurso" id="d-3771">
 <span class="data">28 out 2025 · 19:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -722,7 +722,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3761">
+<blockquote class="evidencia discurso" id="d-3770">
 <span class="data">22 out 2025 · 18:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -731,7 +731,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3751">
+<blockquote class="evidencia discurso" id="d-3760">
 <span class="data">17 set 2025 · 17:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -740,7 +740,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3730">
+<blockquote class="evidencia discurso" id="d-3739">
 <span class="data">08 jul 2025 · 17:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -749,7 +749,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3727">
+<blockquote class="evidencia discurso" id="d-3736">
 <span class="data">10 jun 2025 · 19:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -758,7 +758,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3726">
+<blockquote class="evidencia discurso" id="d-3735">
 <span class="data">28 mai 2025 · 19:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -767,7 +767,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3721">
+<blockquote class="evidencia discurso" id="d-3730">
 <span class="data">29 abr 2025 · 19:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

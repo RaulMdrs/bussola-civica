@@ -18,7 +18,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 
 ## Substantivos — 31
 
-<blockquote class="evidencia discurso" id="d-2539">
+<blockquote class="evidencia discurso" id="d-2544">
 <span class="data">13 dez 2023 · 16:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2537">
+<blockquote class="evidencia discurso" id="d-2542">
 <span class="data">28 nov 2023 · 17:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2536">
+<blockquote class="evidencia discurso" id="d-2541">
 <span class="data">21 nov 2023 · 17:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2534">
+<blockquote class="evidencia discurso" id="d-2539">
 <span class="data">18 out 2023 · 16:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2533">
+<blockquote class="evidencia discurso" id="d-2538">
 <span class="data">27 set 2023 · 18:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2532">
+<blockquote class="evidencia discurso" id="d-2537">
 <span class="data">19 set 2023 · 21:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2531">
+<blockquote class="evidencia discurso" id="d-2536">
 <span class="data">19 set 2023 · 13:55</span>
 <div class="corpo">
 <p class="tipo">DISCURSO ENCAMINHADO</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2530">
+<blockquote class="evidencia discurso" id="d-2535">
 <span class="data">12 set 2023 · 18:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2529">
+<blockquote class="evidencia discurso" id="d-2534">
 <span class="data">17 ago 2023 · 09:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2528">
+<blockquote class="evidencia discurso" id="d-2533">
 <span class="data">17 ago 2023 · 09:00</span>
 <div class="corpo">
 <p class="tipo">DISCURSO ENCAMINHADO</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2527">
+<blockquote class="evidencia discurso" id="d-2532">
 <span class="data">16 ago 2023 · 17:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2526">
+<blockquote class="evidencia discurso" id="d-2531">
 <span class="data">09 ago 2023 · 13:55</span>
 <div class="corpo">
 <p class="tipo">DISCURSO ENCAMINHADO</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2525">
+<blockquote class="evidencia discurso" id="d-2530">
 <span class="data">08 ago 2023 · 14:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2524">
+<blockquote class="evidencia discurso" id="d-2529">
 <span class="data">03 ago 2023 · 11:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2523">
+<blockquote class="evidencia discurso" id="d-2528">
 <span class="data">02 ago 2023 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2522">
+<blockquote class="evidencia discurso" id="d-2527">
 <span class="data">05 jul 2023 · 18:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2521">
+<blockquote class="evidencia discurso" id="d-2526">
 <span class="data">04 jul 2023 · 17:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2520">
+<blockquote class="evidencia discurso" id="d-2525">
 <span class="data">20 jun 2023 · 21:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2519">
+<blockquote class="evidencia discurso" id="d-2524">
 <span class="data">01 jun 2023 · 10:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2518">
+<blockquote class="evidencia discurso" id="d-2523">
 <span class="data">31 mai 2023 · 15:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2517">
+<blockquote class="evidencia discurso" id="d-2522">
 <span class="data">31 mai 2023 · 12:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2516">
+<blockquote class="evidencia discurso" id="d-2521">
 <span class="data">16 mai 2023 · 19:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2515">
+<blockquote class="evidencia discurso" id="d-2520">
 <span class="data">09 mai 2023 · 20:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2514">
+<blockquote class="evidencia discurso" id="d-2519">
 <span class="data">30 mar 2023 · 10:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2513">
+<blockquote class="evidencia discurso" id="d-2518">
 <span class="data">28 mar 2023 · 18:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2512">
+<blockquote class="evidencia discurso" id="d-2517">
 <span class="data">15 mar 2023 · 17:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2511">
+<blockquote class="evidencia discurso" id="d-2516">
 <span class="data">09 mar 2023 · 09:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2510">
+<blockquote class="evidencia discurso" id="d-2515">
 <span class="data">01 mar 2023 · 16:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2509">
+<blockquote class="evidencia discurso" id="d-2514">
 <span class="data">28 fev 2023 · 16:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2508">
+<blockquote class="evidencia discurso" id="d-2513">
 <span class="data">15 fev 2023 · 13:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Heitor Schuch em 2023, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2507">
+<blockquote class="evidencia discurso" id="d-2512">
 <span class="data">08 fev 2023 · 15:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -308,7 +308,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-2538">
+<blockquote class="evidencia discurso" id="d-2543">
 <span class="data">29 nov 2023 · 14:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -317,7 +317,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2535">
+<blockquote class="evidencia discurso" id="d-2540">
 <span class="data">26 out 2023 · 11:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

@@ -18,7 +18,7 @@ description: "Os discursos de Luiz Carlos Busato em 2023, com o sumário oficial
 
 ## Substantivos — 7
 
-<blockquote class="evidencia discurso" id="d-186">
+<blockquote class="evidencia discurso" id="d-187">
 <span class="data">17 out 2023 · 16:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Luiz Carlos Busato em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-185">
+<blockquote class="evidencia discurso" id="d-186">
 <span class="data">26 set 2023 · 17:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Luiz Carlos Busato em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-184">
+<blockquote class="evidencia discurso" id="d-185">
 <span class="data">05 set 2023 · 16:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Luiz Carlos Busato em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-183">
+<blockquote class="evidencia discurso" id="d-184">
 <span class="data">05 jul 2023 · 14:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Luiz Carlos Busato em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-182">
+<blockquote class="evidencia discurso" id="d-183">
 <span class="data">14 jun 2023 · 15:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Luiz Carlos Busato em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-181">
+<blockquote class="evidencia discurso" id="d-182">
 <span class="data">16 mai 2023 · 17:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Luiz Carlos Busato em 2023, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-180">
+<blockquote class="evidencia discurso" id="d-181">
 <span class="data">15 fev 2023 · 15:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

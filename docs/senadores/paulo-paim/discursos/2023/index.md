@@ -18,7 +18,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 
 ## Substantivos — 168
 
-<blockquote class="evidencia discurso" id="d-11914">
+<blockquote class="evidencia discurso" id="d-6082">
 <span class="data">19 dez 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11915">
+<blockquote class="evidencia discurso" id="d-6083">
 <span class="data">18 dez 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11916">
+<blockquote class="evidencia discurso" id="d-6084">
 <span class="data">13 dez 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11917">
+<blockquote class="evidencia discurso" id="d-6085">
 <span class="data">12 dez 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11918">
+<blockquote class="evidencia discurso" id="d-6086">
 <span class="data">11 dez 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11921">
+<blockquote class="evidencia discurso" id="d-6089">
 <span class="data">06 dez 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11920">
+<blockquote class="evidencia discurso" id="d-6088">
 <span class="data">06 dez 2023</span>
 <div class="corpo">
 <p class="tipo">Como Relator - Para proferir parecer</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11919">
+<blockquote class="evidencia discurso" id="d-6087">
 <span class="data">06 dez 2023</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11922">
+<blockquote class="evidencia discurso" id="d-6090">
 <span class="data">05 dez 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11923">
+<blockquote class="evidencia discurso" id="d-6091">
 <span class="data">04 dez 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11924">
+<blockquote class="evidencia discurso" id="d-6092">
 <span class="data">29 nov 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11925">
+<blockquote class="evidencia discurso" id="d-6093">
 <span class="data">28 nov 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11926">
+<blockquote class="evidencia discurso" id="d-6094">
 <span class="data">27 nov 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11927">
+<blockquote class="evidencia discurso" id="d-6095">
 <span class="data">22 nov 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11928">
+<blockquote class="evidencia discurso" id="d-6096">
 <span class="data">21 nov 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11929">
+<blockquote class="evidencia discurso" id="d-6097">
 <span class="data">20 nov 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11930">
+<blockquote class="evidencia discurso" id="d-6098">
 <span class="data">14 nov 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11931">
+<blockquote class="evidencia discurso" id="d-6099">
 <span class="data">13 nov 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11932">
+<blockquote class="evidencia discurso" id="d-6100">
 <span class="data">08 nov 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11933">
+<blockquote class="evidencia discurso" id="d-6101">
 <span class="data">07 nov 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11934">
+<blockquote class="evidencia discurso" id="d-6102">
 <span class="data">06 nov 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11935">
+<blockquote class="evidencia discurso" id="d-6103">
 <span class="data">31 out 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11936">
+<blockquote class="evidencia discurso" id="d-6104">
 <span class="data">30 out 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11937">
+<blockquote class="evidencia discurso" id="d-6105">
 <span class="data">25 out 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11939">
+<blockquote class="evidencia discurso" id="d-6107">
 <span class="data">24 out 2023</span>
 <div class="corpo">
 <p class="tipo">Como Relator - Para proferir parecer</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11938">
+<blockquote class="evidencia discurso" id="d-6106">
 <span class="data">24 out 2023</span>
 <div class="corpo">
 <p class="tipo">Como Relator</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11940">
+<blockquote class="evidencia discurso" id="d-6108">
 <span class="data">23 out 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11944">
+<blockquote class="evidencia discurso" id="d-6112">
 <span class="data">18 out 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11943">
+<blockquote class="evidencia discurso" id="d-6111">
 <span class="data">18 out 2023</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11942">
+<blockquote class="evidencia discurso" id="d-6110">
 <span class="data">18 out 2023</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11941">
+<blockquote class="evidencia discurso" id="d-6109">
 <span class="data">18 out 2023</span>
 <div class="corpo">
 <p class="tipo">Como Relator - Para proferir parecer</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11945">
+<blockquote class="evidencia discurso" id="d-6113">
 <span class="data">17 out 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11946">
+<blockquote class="evidencia discurso" id="d-6114">
 <span class="data">16 out 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11947">
+<blockquote class="evidencia discurso" id="d-6115">
 <span class="data">10 out 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11948">
+<blockquote class="evidencia discurso" id="d-6116">
 <span class="data">09 out 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11949">
+<blockquote class="evidencia discurso" id="d-6117">
 <span class="data">05 out 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11952">
+<blockquote class="evidencia discurso" id="d-6120">
 <span class="data">03 out 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -351,7 +351,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11951">
+<blockquote class="evidencia discurso" id="d-6119">
 <span class="data">03 out 2023</span>
 <div class="corpo">
 <p class="tipo">Como Relator - Para proferir parecer</p>
@@ -360,7 +360,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11950">
+<blockquote class="evidencia discurso" id="d-6118">
 <span class="data">03 out 2023</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -369,7 +369,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11953">
+<blockquote class="evidencia discurso" id="d-6121">
 <span class="data">02 out 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -378,7 +378,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11954">
+<blockquote class="evidencia discurso" id="d-6122">
 <span class="data">25 set 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -387,7 +387,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11955">
+<blockquote class="evidencia discurso" id="d-6123">
 <span class="data">20 set 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -396,7 +396,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11956">
+<blockquote class="evidencia discurso" id="d-6124">
 <span class="data">19 set 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -405,7 +405,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11957">
+<blockquote class="evidencia discurso" id="d-6125">
 <span class="data">14 set 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -414,7 +414,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11958">
+<blockquote class="evidencia discurso" id="d-6126">
 <span class="data">13 set 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -423,7 +423,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11960">
+<blockquote class="evidencia discurso" id="d-6128">
 <span class="data">12 set 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -432,7 +432,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11959">
+<blockquote class="evidencia discurso" id="d-6127">
 <span class="data">12 set 2023</span>
 <div class="corpo">
 <p class="tipo">Como Relator - Para proferir parecer</p>
@@ -441,7 +441,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11961">
+<blockquote class="evidencia discurso" id="d-6129">
 <span class="data">11 set 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -450,7 +450,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11962">
+<blockquote class="evidencia discurso" id="d-6130">
 <span class="data">05 set 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -459,7 +459,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11963">
+<blockquote class="evidencia discurso" id="d-6131">
 <span class="data">04 set 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -468,7 +468,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11964">
+<blockquote class="evidencia discurso" id="d-6132">
 <span class="data">31 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -477,7 +477,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11965">
+<blockquote class="evidencia discurso" id="d-6133">
 <span class="data">30 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -486,7 +486,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11966">
+<blockquote class="evidencia discurso" id="d-6134">
 <span class="data">24 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -495,7 +495,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11967">
+<blockquote class="evidencia discurso" id="d-6135">
 <span class="data">23 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -504,7 +504,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11972">
+<blockquote class="evidencia discurso" id="d-6140">
 <span class="data">22 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -513,7 +513,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11971">
+<blockquote class="evidencia discurso" id="d-6139">
 <span class="data">22 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -522,7 +522,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11970">
+<blockquote class="evidencia discurso" id="d-6138">
 <span class="data">22 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -531,7 +531,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11969">
+<blockquote class="evidencia discurso" id="d-6137">
 <span class="data">22 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -540,7 +540,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11968">
+<blockquote class="evidencia discurso" id="d-6136">
 <span class="data">22 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -549,7 +549,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11973">
+<blockquote class="evidencia discurso" id="d-6141">
 <span class="data">21 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -558,7 +558,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11978">
+<blockquote class="evidencia discurso" id="d-6146">
 <span class="data">18 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -567,7 +567,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11977">
+<blockquote class="evidencia discurso" id="d-6145">
 <span class="data">18 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -576,7 +576,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11976">
+<blockquote class="evidencia discurso" id="d-6144">
 <span class="data">18 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -585,7 +585,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11975">
+<blockquote class="evidencia discurso" id="d-6143">
 <span class="data">18 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -594,7 +594,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11974">
+<blockquote class="evidencia discurso" id="d-6142">
 <span class="data">18 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -603,7 +603,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11980">
+<blockquote class="evidencia discurso" id="d-6148">
 <span class="data">16 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -612,7 +612,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11979">
+<blockquote class="evidencia discurso" id="d-6147">
 <span class="data">16 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -621,7 +621,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11983">
+<blockquote class="evidencia discurso" id="d-6151">
 <span class="data">15 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso proferido da Presidência</p>
@@ -630,7 +630,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11982">
+<blockquote class="evidencia discurso" id="d-6150">
 <span class="data">15 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -639,7 +639,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11981">
+<blockquote class="evidencia discurso" id="d-6149">
 <span class="data">15 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -648,7 +648,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11986">
+<blockquote class="evidencia discurso" id="d-6154">
 <span class="data">14 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -657,7 +657,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11985">
+<blockquote class="evidencia discurso" id="d-6153">
 <span class="data">14 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -666,7 +666,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11984">
+<blockquote class="evidencia discurso" id="d-6152">
 <span class="data">14 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -675,7 +675,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11987">
+<blockquote class="evidencia discurso" id="d-6155">
 <span class="data">09 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -684,7 +684,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11988">
+<blockquote class="evidencia discurso" id="d-6156">
 <span class="data">08 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -693,7 +693,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11989">
+<blockquote class="evidencia discurso" id="d-6157">
 <span class="data">07 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -702,7 +702,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11990">
+<blockquote class="evidencia discurso" id="d-6158">
 <span class="data">04 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -711,7 +711,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11993">
+<blockquote class="evidencia discurso" id="d-6161">
 <span class="data">03 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -720,7 +720,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11992">
+<blockquote class="evidencia discurso" id="d-6160">
 <span class="data">03 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -729,7 +729,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11991">
+<blockquote class="evidencia discurso" id="d-6159">
 <span class="data">03 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -738,7 +738,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11994">
+<blockquote class="evidencia discurso" id="d-6162">
 <span class="data">02 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -747,7 +747,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11995">
+<blockquote class="evidencia discurso" id="d-6163">
 <span class="data">01 ago 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -756,7 +756,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11996">
+<blockquote class="evidencia discurso" id="d-6164">
 <span class="data">12 jul 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -765,7 +765,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11997">
+<blockquote class="evidencia discurso" id="d-6165">
 <span class="data">11 jul 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -774,7 +774,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11998">
+<blockquote class="evidencia discurso" id="d-6166">
 <span class="data">07 jul 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -783,7 +783,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11999">
+<blockquote class="evidencia discurso" id="d-6167">
 <span class="data">05 jul 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -792,7 +792,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12000">
+<blockquote class="evidencia discurso" id="d-6168">
 <span class="data">04 jul 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -801,7 +801,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12001">
+<blockquote class="evidencia discurso" id="d-6169">
 <span class="data">28 jun 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -810,7 +810,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12002">
+<blockquote class="evidencia discurso" id="d-6170">
 <span class="data">27 jun 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -819,7 +819,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12003">
+<blockquote class="evidencia discurso" id="d-6171">
 <span class="data">26 jun 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -828,7 +828,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12004">
+<blockquote class="evidencia discurso" id="d-6172">
 <span class="data">21 jun 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -837,7 +837,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12005">
+<blockquote class="evidencia discurso" id="d-6173">
 <span class="data">20 jun 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -846,7 +846,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12006">
+<blockquote class="evidencia discurso" id="d-6174">
 <span class="data">19 jun 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -855,7 +855,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12007">
+<blockquote class="evidencia discurso" id="d-6175">
 <span class="data">16 jun 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -864,7 +864,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12008">
+<blockquote class="evidencia discurso" id="d-6176">
 <span class="data">15 jun 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -873,7 +873,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12009">
+<blockquote class="evidencia discurso" id="d-6177">
 <span class="data">14 jun 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -882,7 +882,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12010">
+<blockquote class="evidencia discurso" id="d-6178">
 <span class="data">13 jun 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -891,7 +891,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12011">
+<blockquote class="evidencia discurso" id="d-6179">
 <span class="data">12 jun 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -900,7 +900,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12012">
+<blockquote class="evidencia discurso" id="d-6180">
 <span class="data">01 jun 2023</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -909,7 +909,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12014">
+<blockquote class="evidencia discurso" id="d-6182">
 <span class="data">31 mai 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -918,7 +918,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12013">
+<blockquote class="evidencia discurso" id="d-6181">
 <span class="data">31 mai 2023</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -927,7 +927,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12015">
+<blockquote class="evidencia discurso" id="d-6183">
 <span class="data">30 mai 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -936,7 +936,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12016">
+<blockquote class="evidencia discurso" id="d-6184">
 <span class="data">29 mai 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -945,7 +945,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12017">
+<blockquote class="evidencia discurso" id="d-6185">
 <span class="data">25 mai 2023</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -954,7 +954,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12018">
+<blockquote class="evidencia discurso" id="d-6186">
 <span class="data">24 mai 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -963,7 +963,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12019">
+<blockquote class="evidencia discurso" id="d-6187">
 <span class="data">23 mai 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -972,7 +972,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12020">
+<blockquote class="evidencia discurso" id="d-6188">
 <span class="data">22 mai 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -981,7 +981,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12021">
+<blockquote class="evidencia discurso" id="d-6189">
 <span class="data">17 mai 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -990,7 +990,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12022">
+<blockquote class="evidencia discurso" id="d-6190">
 <span class="data">16 mai 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -999,7 +999,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12024">
+<blockquote class="evidencia discurso" id="d-6192">
 <span class="data">10 mai 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1008,7 +1008,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12023">
+<blockquote class="evidencia discurso" id="d-6191">
 <span class="data">10 mai 2023</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -1017,7 +1017,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12025">
+<blockquote class="evidencia discurso" id="d-6193">
 <span class="data">09 mai 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1026,7 +1026,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12026">
+<blockquote class="evidencia discurso" id="d-6194">
 <span class="data">04 mai 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1035,7 +1035,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12027">
+<blockquote class="evidencia discurso" id="d-6195">
 <span class="data">03 mai 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1044,7 +1044,7 @@ description: "Os discursos de Paulo Paim em 2023, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12028">
+<blockquote class="evidencia discurso" id="d-6196">
 <span class="data">02 mai 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1054,7 +1054,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12030">
+<blockquote class="evidencia discurso" id="d-6198">
 <span class="data">25 abr 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1063,7 +1063,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12029">
+<blockquote class="evidencia discurso" id="d-6197">
 <span class="data">25 abr 2023</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -1072,7 +1072,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12040">
+<blockquote class="evidencia discurso" id="d-6208">
 <span class="data">24 abr 2023</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -1081,7 +1081,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12039">
+<blockquote class="evidencia discurso" id="d-6207">
 <span class="data">24 abr 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -1090,7 +1090,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12038">
+<blockquote class="evidencia discurso" id="d-6206">
 <span class="data">24 abr 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -1099,7 +1099,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12037">
+<blockquote class="evidencia discurso" id="d-6205">
 <span class="data">24 abr 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -1108,7 +1108,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12036">
+<blockquote class="evidencia discurso" id="d-6204">
 <span class="data">24 abr 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -1117,7 +1117,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12035">
+<blockquote class="evidencia discurso" id="d-6203">
 <span class="data">24 abr 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -1126,7 +1126,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12034">
+<blockquote class="evidencia discurso" id="d-6202">
 <span class="data">24 abr 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -1135,7 +1135,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12033">
+<blockquote class="evidencia discurso" id="d-6201">
 <span class="data">24 abr 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -1144,7 +1144,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12032">
+<blockquote class="evidencia discurso" id="d-6200">
 <span class="data">24 abr 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -1153,7 +1153,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12031">
+<blockquote class="evidencia discurso" id="d-6199">
 <span class="data">24 abr 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -1162,7 +1162,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12042">
+<blockquote class="evidencia discurso" id="d-6210">
 <span class="data">19 abr 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1171,7 +1171,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12041">
+<blockquote class="evidencia discurso" id="d-6209">
 <span class="data">19 abr 2023</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -1180,7 +1180,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12043">
+<blockquote class="evidencia discurso" id="d-6211">
 <span class="data">18 abr 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1189,7 +1189,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12044">
+<blockquote class="evidencia discurso" id="d-6212">
 <span class="data">14 abr 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1198,7 +1198,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12046">
+<blockquote class="evidencia discurso" id="d-6214">
 <span class="data">13 abr 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1207,7 +1207,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12045">
+<blockquote class="evidencia discurso" id="d-6213">
 <span class="data">13 abr 2023</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -1216,7 +1216,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12047">
+<blockquote class="evidencia discurso" id="d-6215">
 <span class="data">12 abr 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1225,7 +1225,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12048">
+<blockquote class="evidencia discurso" id="d-6216">
 <span class="data">11 abr 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1234,7 +1234,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12049">
+<blockquote class="evidencia discurso" id="d-6217">
 <span class="data">04 abr 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1243,7 +1243,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12050">
+<blockquote class="evidencia discurso" id="d-6218">
 <span class="data">29 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1252,7 +1252,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12051">
+<blockquote class="evidencia discurso" id="d-6219">
 <span class="data">28 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1261,7 +1261,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12052">
+<blockquote class="evidencia discurso" id="d-6220">
 <span class="data">27 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1270,7 +1270,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12053">
+<blockquote class="evidencia discurso" id="d-6221">
 <span class="data">23 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1279,7 +1279,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12054">
+<blockquote class="evidencia discurso" id="d-6222">
 <span class="data">22 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1288,7 +1288,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12055">
+<blockquote class="evidencia discurso" id="d-6223">
 <span class="data">21 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Como Relator - Para proferir parecer</p>
@@ -1297,7 +1297,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12066">
+<blockquote class="evidencia discurso" id="d-6234">
 <span class="data">20 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -1306,7 +1306,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12065">
+<blockquote class="evidencia discurso" id="d-6233">
 <span class="data">20 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -1315,7 +1315,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12064">
+<blockquote class="evidencia discurso" id="d-6232">
 <span class="data">20 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -1324,7 +1324,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12063">
+<blockquote class="evidencia discurso" id="d-6231">
 <span class="data">20 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -1333,7 +1333,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12062">
+<blockquote class="evidencia discurso" id="d-6230">
 <span class="data">20 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -1342,7 +1342,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12061">
+<blockquote class="evidencia discurso" id="d-6229">
 <span class="data">20 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -1351,7 +1351,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12060">
+<blockquote class="evidencia discurso" id="d-6228">
 <span class="data">20 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -1360,7 +1360,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12059">
+<blockquote class="evidencia discurso" id="d-6227">
 <span class="data">20 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -1369,7 +1369,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12058">
+<blockquote class="evidencia discurso" id="d-6226">
 <span class="data">20 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -1378,7 +1378,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12057">
+<blockquote class="evidencia discurso" id="d-6225">
 <span class="data">20 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -1387,7 +1387,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12056">
+<blockquote class="evidencia discurso" id="d-6224">
 <span class="data">20 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1396,7 +1396,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12067">
+<blockquote class="evidencia discurso" id="d-6235">
 <span class="data">16 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1405,7 +1405,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12071">
+<blockquote class="evidencia discurso" id="d-6239">
 <span class="data">15 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1414,7 +1414,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12070">
+<blockquote class="evidencia discurso" id="d-6238">
 <span class="data">15 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Encaminhamento</p>
@@ -1423,7 +1423,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12069">
+<blockquote class="evidencia discurso" id="d-6237">
 <span class="data">15 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -1432,7 +1432,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12068">
+<blockquote class="evidencia discurso" id="d-6236">
 <span class="data">15 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -1441,7 +1441,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12072">
+<blockquote class="evidencia discurso" id="d-6240">
 <span class="data">14 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1450,7 +1450,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12073">
+<blockquote class="evidencia discurso" id="d-6241">
 <span class="data">13 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1459,7 +1459,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12074">
+<blockquote class="evidencia discurso" id="d-6242">
 <span class="data">09 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1468,7 +1468,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12075">
+<blockquote class="evidencia discurso" id="d-6243">
 <span class="data">08 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1477,7 +1477,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12076">
+<blockquote class="evidencia discurso" id="d-6244">
 <span class="data">07 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1486,7 +1486,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12077">
+<blockquote class="evidencia discurso" id="d-6245">
 <span class="data">06 mar 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1495,7 +1495,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12079">
+<blockquote class="evidencia discurso" id="d-6247">
 <span class="data">28 fev 2023</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -1504,7 +1504,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12078">
+<blockquote class="evidencia discurso" id="d-6246">
 <span class="data">28 fev 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1513,7 +1513,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12080">
+<blockquote class="evidencia discurso" id="d-6248">
 <span class="data">08 fev 2023</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1522,7 +1522,7 @@ da classe trabalhadora.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12081">
+<blockquote class="evidencia discurso" id="d-6249">
 <span class="data">02 fev 2023</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>

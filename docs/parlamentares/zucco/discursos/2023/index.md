@@ -18,7 +18,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 
 ## Substantivos — 40
 
-<blockquote class="evidencia discurso" id="d-4395">
+<blockquote class="evidencia discurso" id="d-4407">
 <span class="data">20 dez 2023 · 23:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4394">
+<blockquote class="evidencia discurso" id="d-4406">
 <span class="data">19 dez 2023 · 18:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4393">
+<blockquote class="evidencia discurso" id="d-4405">
 <span class="data">13 dez 2023 · 16:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4392">
+<blockquote class="evidencia discurso" id="d-4404">
 <span class="data">06 dez 2023 · 23:24</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4391">
+<blockquote class="evidencia discurso" id="d-4403">
 <span class="data">06 dez 2023 · 23:16</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4390">
+<blockquote class="evidencia discurso" id="d-4402">
 <span class="data">05 dez 2023 · 14:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4388">
+<blockquote class="evidencia discurso" id="d-4400">
 <span class="data">23 nov 2023 · 00:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4387">
+<blockquote class="evidencia discurso" id="d-4399">
 <span class="data">22 nov 2023 · 23:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4386">
+<blockquote class="evidencia discurso" id="d-4398">
 <span class="data">22 nov 2023 · 23:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4384">
+<blockquote class="evidencia discurso" id="d-4396">
 <span class="data">22 nov 2023 · 19:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4383">
+<blockquote class="evidencia discurso" id="d-4395">
 <span class="data">21 nov 2023 · 14:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4382">
+<blockquote class="evidencia discurso" id="d-4394">
 <span class="data">07 nov 2023 · 15:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4381">
+<blockquote class="evidencia discurso" id="d-4393">
 <span class="data">24 out 2023 · 17:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4380">
+<blockquote class="evidencia discurso" id="d-4392">
 <span class="data">17 out 2023 · 14:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4379">
+<blockquote class="evidencia discurso" id="d-4391">
 <span class="data">10 out 2023 · 17:40</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4378">
+<blockquote class="evidencia discurso" id="d-4390">
 <span class="data">10 out 2023 · 16:56</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4377">
+<blockquote class="evidencia discurso" id="d-4389">
 <span class="data">20 set 2023 · 14:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4376">
+<blockquote class="evidencia discurso" id="d-4388">
 <span class="data">12 set 2023 · 17:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4375">
+<blockquote class="evidencia discurso" id="d-4387">
 <span class="data">12 set 2023 · 14:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4374">
+<blockquote class="evidencia discurso" id="d-4386">
 <span class="data">17 ago 2023 · 12:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4373">
+<blockquote class="evidencia discurso" id="d-4385">
 <span class="data">05 jul 2023 · 15:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4372">
+<blockquote class="evidencia discurso" id="d-4384">
 <span class="data">04 jul 2023 · 15:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4371">
+<blockquote class="evidencia discurso" id="d-4383">
 <span class="data">10 mai 2023 · 13:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4370">
+<blockquote class="evidencia discurso" id="d-4382">
 <span class="data">19 abr 2023 · 14:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4369">
+<blockquote class="evidencia discurso" id="d-4381">
 <span class="data">11 abr 2023 · 17:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4368">
+<blockquote class="evidencia discurso" id="d-4380">
 <span class="data">30 mar 2023 · 14:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4367">
+<blockquote class="evidencia discurso" id="d-4379">
 <span class="data">30 mar 2023 · 09:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4366">
+<blockquote class="evidencia discurso" id="d-4378">
 <span class="data">23 mar 2023 · 09:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4365">
+<blockquote class="evidencia discurso" id="d-4377">
 <span class="data">22 mar 2023 · 19:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4364">
+<blockquote class="evidencia discurso" id="d-4376">
 <span class="data">21 mar 2023 · 16:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4363">
+<blockquote class="evidencia discurso" id="d-4375">
 <span class="data">16 mar 2023 · 10:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4362">
+<blockquote class="evidencia discurso" id="d-4374">
 <span class="data">14 mar 2023 · 17:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4361">
+<blockquote class="evidencia discurso" id="d-4373">
 <span class="data">08 mar 2023 · 15:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4360">
+<blockquote class="evidencia discurso" id="d-4372">
 <span class="data">07 mar 2023 · 17:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4359">
+<blockquote class="evidencia discurso" id="d-4371">
 <span class="data">01 mar 2023 · 16:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4358">
+<blockquote class="evidencia discurso" id="d-4370">
 <span class="data">28 fev 2023 · 15:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4357">
+<blockquote class="evidencia discurso" id="d-4369">
 <span class="data">15 fev 2023 · 12:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -351,7 +351,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4356">
+<blockquote class="evidencia discurso" id="d-4368">
 <span class="data">15 fev 2023 · 10:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -360,7 +360,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4355">
+<blockquote class="evidencia discurso" id="d-4367">
 <span class="data">14 fev 2023 · 14:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -369,7 +369,7 @@ description: "Os discursos de Zucco em 2023, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4354">
+<blockquote class="evidencia discurso" id="d-4366">
 <span class="data">09 fev 2023 · 11:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -389,7 +389,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-4389">
+<blockquote class="evidencia discurso" id="d-4401">
 <span class="data">23 nov 2023 · 00:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -398,7 +398,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4385">
+<blockquote class="evidencia discurso" id="d-4397">
 <span class="data">22 nov 2023 · 22:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

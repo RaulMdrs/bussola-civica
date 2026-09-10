@@ -74,15 +74,7 @@ As descrições são o texto original da fonte oficial.
 
 ## O que disse em plenário
 
-São **144 discursos** coletados no período, dos quais **142 substantivos** — os outros 2 são
-orientação de bancada, que a classificação separa do perfil e
-**não descarta**: estão nas páginas por ano, na íntegra.
-
-> No Senado, quem separa é a **própria fonte**: cada pronunciamento vem
-> com o tipo de uso da palavra publicado pela Casa, e é dele que sai a
-> classificação — não de uma regra nossa. A regra da Câmara foi calibrada
-> contra texto da Câmara, e aplicá-la aqui repetiria o erro que este
-> projeto recusou no recorte entre mérito e procedimental.
+São **144 discursos** coletados no período, todos substantivos.
 
 O que aparece abaixo é o sumário publicado pelo Senado.
 O texto integral não é reproduzido aqui — o link de cada discurso leva à
@@ -90,7 +82,25 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-13383">
+<blockquote class="evidencia discurso" id="d-6065">
+<span class="data">15 jul 2026</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o Projeto de Lei Complementar (PLP) n° 18, de 2021, que &quot;Altera a Lei Complementar nº 141, de 13 de janeiro de 2012, para permitir que o serviço de atendimento pré-hospitalar dos corpos de bombeiros militares dos Estados e do Distrito Federal perceba emendas parlamentares destinadas às ações e serviços públicos de saúde.&quot;</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523570">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6064">
+<span class="data">15 jul 2026</span>
+<div class="corpo">
+<p class="tipo">Orientação à bancada</p>
+<p>Orientação à bancada, pelo Partido REPUBLICANOS, sobre o destaque para votação em separado constante do Requerimento nº 511, de 2026, (Requer, pela Liderança do Progressistas, destaque para votação em separado da Emenda nº 2 ao Projeto de Lei Complementar nº 18/2021.) ao Projeto de Lei Complementar (PLP) n° 18, de 2021, que &quot;Altera a Lei Complementar nº 141, de 13 de janeiro de 2012, para permitir que o serviço de atendimento pré-hospitalar dos corpos de bombeiros militares dos Estados e do Distrito Federal perceba emendas parlamentares destinadas às ações e serviços públicos de saúde.&quot;</p>
+<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523584">Ver o pronunciamento no Senado</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6063">
 <span class="data">15 jul 2026</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -99,7 +109,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11898">
+<blockquote class="evidencia discurso" id="d-6066">
 <span class="data">07 jul 2026</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -108,7 +118,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11899">
+<blockquote class="evidencia discurso" id="d-6067">
 <span class="data">30 jun 2026</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -117,29 +127,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11901">
-<span class="data">17 jun 2026</span>
-<div class="corpo">
-<p class="tipo">Discussão</p>
-<p>Discussão sobre o Projeto de Lei (PL) n° 4088, de 2023, que &quot;Altera o art. 26 da Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para incluir educação política e direitos da cidadania como componente curricular obrigatório da educação básica.&quot; Crítica à corrente ideológica que predomina nas instituições de Ensino Superior.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/522988">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-11900">
-<span class="data">17 jun 2026</span>
-<div class="corpo">
-<p class="tipo">Pela ordem</p>
-<p>Pela ordem sobre a Proposta de Emenda à Constituição (PEC) n° 65, de 2023, que &quot;Dispõe sobre o regime jurídico aplicável ao Banco Central.&quot; Defesa da instrumentalização do Banco Central do Brasil com a finalidade de cumprir sua missão institucional.</p>
-<a class="fonte" href="https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/523026">Ver o pronunciamento no Senado</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>19</b></span> | 17 |
+| [2026](discursos/2026/) | <span class="n"><b>19</b></span> | 19 |
 | [2025](discursos/2025/) | <span class="n"><b>25</b></span> | 25 |
 | [2024](discursos/2024/) | <span class="n"><b>58</b></span> | 58 |
 | [2023](discursos/2023/) | <span class="n"><b>42</b></span> | 42 |

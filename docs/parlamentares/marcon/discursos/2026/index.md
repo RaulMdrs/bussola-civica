@@ -18,7 +18,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 
 ## Substantivos — 36
 
-<blockquote class="evidencia discurso" id="d-13156">
+<blockquote class="evidencia discurso" id="d-6595">
 <span class="data">01 set 2026 · 21:00</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1603">
+<blockquote class="evidencia discurso" id="d-1607">
 <span class="data">01 jul 2026 · 17:40</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1602">
+<blockquote class="evidencia discurso" id="d-1606">
 <span class="data">30 jun 2026 · 16:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1601">
+<blockquote class="evidencia discurso" id="d-1605">
 <span class="data">16 jun 2026 · 18:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1600">
+<blockquote class="evidencia discurso" id="d-1604">
 <span class="data">16 jun 2026 · 15:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1599">
+<blockquote class="evidencia discurso" id="d-1603">
 <span class="data">16 jun 2026 · 15:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1598">
+<blockquote class="evidencia discurso" id="d-1602">
 <span class="data">16 jun 2026 · 15:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1597">
+<blockquote class="evidencia discurso" id="d-1601">
 <span class="data">10 jun 2026 · 17:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1596">
+<blockquote class="evidencia discurso" id="d-1600">
 <span class="data">09 jun 2026 · 14:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1595">
+<blockquote class="evidencia discurso" id="d-1599">
 <span class="data">27 mai 2026 · 20:32</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1594">
+<blockquote class="evidencia discurso" id="d-1598">
 <span class="data">26 mai 2026 · 16:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1593">
+<blockquote class="evidencia discurso" id="d-1597">
 <span class="data">20 mai 2026 · 15:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1592">
+<blockquote class="evidencia discurso" id="d-1596">
 <span class="data">13 mai 2026 · 14:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1591">
+<blockquote class="evidencia discurso" id="d-1595">
 <span class="data">12 mai 2026 · 14:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1590">
+<blockquote class="evidencia discurso" id="d-1594">
 <span class="data">05 mai 2026 · 18:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1589">
+<blockquote class="evidencia discurso" id="d-1593">
 <span class="data">28 abr 2026 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1588">
+<blockquote class="evidencia discurso" id="d-1592">
 <span class="data">15 abr 2026 · 17:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1587">
+<blockquote class="evidencia discurso" id="d-1591">
 <span class="data">15 abr 2026 · 15:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1586">
+<blockquote class="evidencia discurso" id="d-1590">
 <span class="data">14 abr 2026 · 17:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1585">
+<blockquote class="evidencia discurso" id="d-1589">
 <span class="data">08 abr 2026 · 16:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1584">
+<blockquote class="evidencia discurso" id="d-1588">
 <span class="data">08 abr 2026 · 15:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1583">
+<blockquote class="evidencia discurso" id="d-1587">
 <span class="data">07 abr 2026 · 18:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1582">
+<blockquote class="evidencia discurso" id="d-1586">
 <span class="data">07 abr 2026 · 14:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1581">
+<blockquote class="evidencia discurso" id="d-1585">
 <span class="data">24 mar 2026 · 16:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1579">
+<blockquote class="evidencia discurso" id="d-1583">
 <span class="data">18 mar 2026 · 16:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1578">
+<blockquote class="evidencia discurso" id="d-1582">
 <span class="data">18 mar 2026 · 15:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1577">
+<blockquote class="evidencia discurso" id="d-1581">
 <span class="data">17 mar 2026 · 16:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1576">
+<blockquote class="evidencia discurso" id="d-1580">
 <span class="data">11 mar 2026 · 15:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1575">
+<blockquote class="evidencia discurso" id="d-1579">
 <span class="data">11 mar 2026 · 15:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1574">
+<blockquote class="evidencia discurso" id="d-1578">
 <span class="data">04 mar 2026 · 15:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1573">
+<blockquote class="evidencia discurso" id="d-1577">
 <span class="data">03 mar 2026 · 17:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1572">
+<blockquote class="evidencia discurso" id="d-1576">
 <span class="data">03 mar 2026 · 14:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1571">
+<blockquote class="evidencia discurso" id="d-1575">
 <span class="data">24 fev 2026 · 18:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1570">
+<blockquote class="evidencia discurso" id="d-1574">
 <span class="data">24 fev 2026 · 14:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1569">
+<blockquote class="evidencia discurso" id="d-1573">
 <span class="data">11 fev 2026 · 17:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1568">
+<blockquote class="evidencia discurso" id="d-1572">
 <span class="data">11 fev 2026 · 16:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -353,7 +353,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-1580">
+<blockquote class="evidencia discurso" id="d-1584">
 <span class="data">18 mar 2026 · 19:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

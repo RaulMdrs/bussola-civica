@@ -16,7 +16,7 @@ Um registro de **como 31 deputados federais e 3 senadores do
 Rio Grande do Sul votaram** na legislatura 57, montado só a
 partir das APIs oficiais da Câmara e do Senado. Cada número exibido é
 decomponível até a votação que o compõe, com link para o registro na
-origem — são 87.244 evidências e 6.631
+origem — são 87.192 evidências e 6.626
 discursos.
 
 > **O site não classifica ninguém.** Não há nota, ranking, selo ou
@@ -82,7 +82,7 @@ o período. Por exemplo:
 
 > O deputado X votou conforme a orientação da liderança do Governo em
 > **49,6% das 353 votações nominais de mérito** em que seu voto foi
-> computável, entre fevereiro de 2023 e 06 set 2026.
+> computável, entre fevereiro de 2023 e 10 set 2026.
 
 Cada perfil traz esses quatro elementos, e cada percentual é um link
 para a decomposição completa — todas as votações que entraram na conta,

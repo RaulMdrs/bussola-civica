@@ -18,7 +18,7 @@ description: "Os discursos de Denise Pessôa em 2024, com o sumário oficial e l
 
 ## Substantivos — 3
 
-<blockquote class="evidencia discurso" id="d-4496">
+<blockquote class="evidencia discurso" id="d-4508">
 <span class="data">29 out 2024 · 17:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Denise Pessôa em 2024, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4495">
+<blockquote class="evidencia discurso" id="d-4507">
 <span class="data">11 jun 2024 · 17:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Denise Pessôa em 2024, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4494">
+<blockquote class="evidencia discurso" id="d-4506">
 <span class="data">04 jun 2024 · 16:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

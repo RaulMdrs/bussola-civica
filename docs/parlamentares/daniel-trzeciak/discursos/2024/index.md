@@ -18,7 +18,7 @@ description: "Os discursos de Daniel Trzeciak em 2024, com o sumário oficial e 
 
 ## Substantivos — 8
 
-<blockquote class="evidencia discurso" id="d-3842">
+<blockquote class="evidencia discurso" id="d-3854">
 <span class="data">10 dez 2024 · 20:48</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Daniel Trzeciak em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3841">
+<blockquote class="evidencia discurso" id="d-3853">
 <span class="data">10 dez 2024 · 20:20</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Daniel Trzeciak em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3840">
+<blockquote class="evidencia discurso" id="d-3852">
 <span class="data">27 nov 2024 · 18:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Daniel Trzeciak em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3839">
+<blockquote class="evidencia discurso" id="d-3851">
 <span class="data">30 out 2024 · 14:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Daniel Trzeciak em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3838">
+<blockquote class="evidencia discurso" id="d-3850">
 <span class="data">11 jun 2024 · 16:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Daniel Trzeciak em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3837">
+<blockquote class="evidencia discurso" id="d-3849">
 <span class="data">14 mai 2024 · 14:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Daniel Trzeciak em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3836">
+<blockquote class="evidencia discurso" id="d-3848">
 <span class="data">24 abr 2024 · 14:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Daniel Trzeciak em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3835">
+<blockquote class="evidencia discurso" id="d-3847">
 <span class="data">27 mar 2024 · 12:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

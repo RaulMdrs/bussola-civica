@@ -18,7 +18,7 @@ description: "Os discursos de Osmar Terra em 2025, com o sumário oficial e link
 
 ## Substantivos — 20
 
-<blockquote class="evidencia discurso" id="d-5493">
+<blockquote class="evidencia discurso" id="d-5505">
 <span class="data">18 nov 2025 · 17:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Osmar Terra em 2025, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5492">
+<blockquote class="evidencia discurso" id="d-5504">
 <span class="data">15 out 2025 · 19:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Osmar Terra em 2025, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5491">
+<blockquote class="evidencia discurso" id="d-5503">
 <span class="data">15 out 2025 · 19:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Osmar Terra em 2025, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5489">
+<blockquote class="evidencia discurso" id="d-5501">
 <span class="data">16 set 2025 · 19:32</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Osmar Terra em 2025, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5488">
+<blockquote class="evidencia discurso" id="d-5500">
 <span class="data">16 set 2025 · 16:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Osmar Terra em 2025, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5487">
+<blockquote class="evidencia discurso" id="d-5499">
 <span class="data">10 set 2025 · 20:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Osmar Terra em 2025, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5486">
+<blockquote class="evidencia discurso" id="d-5498">
 <span class="data">20 ago 2025 · 21:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Osmar Terra em 2025, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5485">
+<blockquote class="evidencia discurso" id="d-5497">
 <span class="data">19 ago 2025 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Osmar Terra em 2025, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5484">
+<blockquote class="evidencia discurso" id="d-5496">
 <span class="data">15 jul 2025 · 17:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Osmar Terra em 2025, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5483">
+<blockquote class="evidencia discurso" id="d-5495">
 <span class="data">02 jul 2025 · 16:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Osmar Terra em 2025, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5482">
+<blockquote class="evidencia discurso" id="d-5494">
 <span class="data">25 jun 2025 · 18:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Osmar Terra em 2025, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5481">
+<blockquote class="evidencia discurso" id="d-5493">
 <span class="data">11 jun 2025 · 18:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Osmar Terra em 2025, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5480">
+<blockquote class="evidencia discurso" id="d-5492">
 <span class="data">10 jun 2025 · 19:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Osmar Terra em 2025, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5479">
+<blockquote class="evidencia discurso" id="d-5491">
 <span class="data">28 mai 2025 · 14:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Osmar Terra em 2025, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5478">
+<blockquote class="evidencia discurso" id="d-5490">
 <span class="data">23 abr 2025 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Osmar Terra em 2025, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5477">
+<blockquote class="evidencia discurso" id="d-5489">
 <span class="data">23 abr 2025 · 18:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Osmar Terra em 2025, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5476">
+<blockquote class="evidencia discurso" id="d-5488">
 <span class="data">02 abr 2025 · 20:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Osmar Terra em 2025, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5475">
+<blockquote class="evidencia discurso" id="d-5487">
 <span class="data">27 mar 2025 · 17:16</span>
 <div class="corpo">
 <p class="tipo">COMISSÃO GERAL</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Osmar Terra em 2025, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5474">
+<blockquote class="evidencia discurso" id="d-5486">
 <span class="data">19 mar 2025 · 19:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Osmar Terra em 2025, com o sumário oficial e link
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5473">
+<blockquote class="evidencia discurso" id="d-5485">
 <span class="data">18 fev 2025 · 20:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -209,7 +209,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-5490">
+<blockquote class="evidencia discurso" id="d-5502">
 <span class="data">16 set 2025 · 20:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
