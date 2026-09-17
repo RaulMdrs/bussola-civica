@@ -82,7 +82,7 @@ o período. Por exemplo:
 
 > O deputado X votou conforme a orientação da liderança do Governo em
 > **49,6% das 353 votações nominais de mérito** em que seu voto foi
-> computável, entre fevereiro de 2023 e 14 set 2026.
+> computável, entre fevereiro de 2023 e 17 set 2026.
 
 Cada perfil traz esses quatro elementos, e cada percentual é um link
 para a decomposição completa — todas as votações que entraram na conta,
