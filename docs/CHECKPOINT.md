@@ -46,6 +46,7 @@ repositório, onde é `FONTES.md` que existe — nas páginas publicadas é `/FO
 | 25 | Votação como página | 1.242 páginas com a chamada nominal — a navegação do voto para as pessoas (§6.13) |
 | 26 | Retratos oficiais | 34/34, baixados e versionados; pequenos, ao lado do nome (§6.14) |
 | 27 | Decomposição paginada | 47.792 votações em 2.452 páginas de 20 — e uma guarda nova, que só existe porque há fatias (§6.15) |
+| 28 | Achador na home | Nome e partido sobre a bancada inteira, sem busca e sem índice: as 34 linhas já vêm no HTML (§6.16) |
 
 Acervo em **2026-09-06** (banco de 79 MB): Câmara com 6.450 votações, 1.125
 nominais; Senado com 357, das quais 117 abertas. 484.460 votos, 6.619 discursos,
@@ -1111,6 +1112,55 @@ juntas. 28px separa com folga em qualquer fonte de fallback.
 
 ---
 
+### 6.16 O achador da home — e o que ele recusa fazer
+
+Um campo de nome e um select de partido, no alto da home. É o bloco que mais
+gente vai ver, e por isso três decisões nele são de princípio, não de interface.
+
+#### Não há busca — as 34 linhas já vêm no HTML
+
+São 34 pessoas: o índice inteiro cabe na página. O script só **esconde** as
+linhas que não casam. Nada é baixado, nada é montado, nada é ordenado.
+
+Sem JavaScript a home mostra a bancada inteira em ordem alfabética — que é um
+destino legítimo, não uma falha. **O estado inicial da página é o estado sem
+script**, e é por isso que o campo começa vazio e a tabela começa completa.
+Mesma postura de `busca.js` (§6.5).
+
+#### Filtrar por partido é navegação; ordenar por valor seria ranking
+
+O select recorta quem se quer ver. O que ele não faz — e está escrito no código
+para que não passe a fazer — é ordenar por valor, somar ou tirar média por
+sigla. Pela mesma razão que a órbita recusa (§6.10): média de bancada não é
+posição de legenda, e este projeto não produz ranking de partido.
+
+#### O denominador anda colado no percentual
+
+Alinhamento é o número que a página de imprensa aponta como o mais fácil de
+citar errado (§6.12). Em corpo grande e sozinho, ele vira nota na cabeça de quem
+lê. Ao lado do `n` e linkado à decomposição, continua sendo o que é: uma
+contagem de votos que qualquer pessoa refaz.
+
+Senador não tem alinhamento, e a célula **diz isso** em vez de ficar vazia —
+célula em branco parece dado que faltou por descuido nosso, e aqui é a fonte que
+não tem (§6.4).
+
+#### Dois defeitos, ambos de cascata
+
+O primeiro foi o de sempre, pela terceira vez: `.conteudo p` (0,1,1) vencendo a
+classe nua (0,1,0), e o `max-width` maior nunca valendo. Já mordeu `.evidencia`
+e `.superada` (§6.3). **Toda classe que redefine largura dentro de `.conteudo`
+precisa do `.conteudo` no seletor** — não há exceção, e esta é a terceira prova.
+
+O segundo é novo e vale registrar: a geometria de mesa do achador foi escrita
+**depois** do `@media (max-width: 700px)` da seção 6, e vencia por ordem de
+cascata — o `nowrap` empurrava o cartão para fora da tela do telemóvel. A
+primeira tentativa de consertar reinventou um grid próprio, que brigou com o
+cartão-registro da casa e fez a célula do partido sumir. O conserto certo foi
+**usar o padrão que já existia** e escopar a geometria em `min-width: 701px`.
+
+---
+
 ---
 
 ## 7. Números medidos — ingestor × reconhecimento
@@ -1322,7 +1372,7 @@ src/                                    8.731 linhas TypeScript
   ingest/incremental.ts 154 CLI da retomada automática, Câmara e Senado
   ingest/horizonte.ts 132   de onde continuar, por etapa — testável, sem rede
   calc/posicoes.ts    576   dois eixos + evidências, recorte por tema, regime por casa, `SITE`
-  site/gerar.ts      2427   gerador do site — 3.881 páginas, busca, órbita, sitemap, CSV e as quatro guardas
+  site/gerar.ts      2529   gerador do site — 3.881 páginas, busca, órbita, sitemap, CSV e as quatro guardas
   site/fotos.ts        90   baixa os retratos oficiais; falha de foto não derruba
   site/slug.ts         18   nome → caminho; importável, porque gerar.ts é script
   relatorio.ts        414   verificação do acervo + invariantes
@@ -1330,10 +1380,11 @@ drizzle/                    8 migrations
 
 .github/workflows/acervo.yml         146  atualização 2×/semana, custo zero (§6.8)
 
-docs/                                    1229 linhas de camada web
+docs/                                    1425 linhas de camada web
   _layouts/default.html 79  cabeçalho, conteúdo, rodapé e etiquetas de compartilhamento
-  assets/bussola.css   899  folha única, à mão, clara e escura (§6.3)
-  assets/busca.js      251  único script do site, à mão, sem dependência (§6.5)
+  assets/bussola.css   1014  folha única, à mão, clara e escura (§6.3)
+  assets/busca.js      251  busca nos discursos, à mão, sem dependência (§6.5)
+  assets/ache.js        81  achador da home; só esconde linhas (§6.16)
 ```
 
 **3.881 páginas geradas**, 4 fragmentos de busca, um CSV e 34 retratos.

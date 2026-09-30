@@ -1998,6 +1998,102 @@ function gerarIndiceParlamentares(): string {
  * Escritos à mão, ficariam certos no dia e errados na semana seguinte, sem
  * ninguém perceber. A prosa é fixa; só os números vêm do banco.
  */
+/**
+ * O achador da home: nome e partido, sobre a bancada inteira.
+ *
+ * ## As 34 linhas vêm escritas no HTML
+ *
+ * Não há busca a fazer: são 34 pessoas, e o índice inteiro cabe na página. O
+ * script apenas **esconde** as linhas que não casam — nada é baixado, nada é
+ * montado, e sem JavaScript a home simplesmente mostra a bancada toda, que é
+ * um destino legítimo e não um erro. Mesma postura de `busca.js`: nada
+ * essencial depende do script.
+ *
+ * ## O filtro por partido é navegação, não comparação
+ *
+ * Filtrar por sigla é recortar quem se quer ver. O que ele **não** faz, e não
+ * deve passar a fazer, é ordenar por valor, somar ou tirar média do partido —
+ * pela mesma razão que a órbita recusa (§6.10): média de bancada não é posição
+ * de legenda, e este projeto não produz ranking de partido.
+ *
+ * ## Por que o `n` vem junto do percentual, sempre
+ *
+ * Este é o bloco que mais gente vai ver, e alinhamento é o número que a página
+ * de imprensa avisa ser o mais fácil de citar errado (§6.12). Percentual
+ * sozinho, em corpo grande, convida a virar nota. Ao lado do denominador e
+ * linkado à decomposição, continua sendo o que é: uma contagem de votos que
+ * qualquer pessoa pode refazer.
+ */
+function gerarAche(): string {
+  const bancada = [
+    ...corposDaCasa("camara").map((c) => ({ ...c, casa: "camara" as const })),
+    ...corposDaCasa("senado").map((c) => ({ ...c, casa: "senado" as const })),
+  ].sort((a, b) => a.nome.localeCompare(b.nome, "pt-BR"));
+
+  const siglas = [...new Set(bancada.map((c) => c.sigla))]
+    .filter((s) => s !== "—")
+    .sort((a, b) => a.localeCompare(b, "pt-BR"));
+
+  const dobrar = (s: string) =>
+    s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+
+  let h = `<section class="ache" id="ache">\n`;
+  h += `<h2>Descubra o alinhamento do seu deputado</h2>\n`;
+  h += `<p class="ache-linha">Os <b>${parlamentares.length} deputados federais</b> e `;
+  h += `<b>${senadores.length} senadores</b> do Rio Grande do Sul. Digite o nome ou `;
+  h += `escolha o partido — e clique no número para ver a conta inteira, votação `;
+  h += `por votação.</p>\n`;
+
+  h += `<div class="ache-campos">\n`;
+  h += `<label class="ache-campo"><span>Nome</span>\n`;
+  h += `<input type="search" id="ache-nome" autocomplete="off" `;
+  h += `placeholder="ex.: Marcon" aria-describedby="ache-estado"></label>\n`;
+  h += `<label class="ache-campo"><span>Partido</span>\n`;
+  h += `<select id="ache-partido"><option value="">Todos</option>\n`;
+  for (const s of siglas) h += `<option value="${esc(s)}">${esc(s)}</option>\n`;
+  h += `</select></label>\n`;
+  h += `</div>\n`;
+  h += `<p class="ache-estado" id="ache-estado" role="status">${bancada.length} parlamentares.</p>\n`;
+
+  h += `<table class="t-ache" id="ache-lista">\n<thead><tr>`;
+  h += `<th scope="col">Parlamentar</th><th scope="col">Partido</th>`;
+  h += `<th scope="col">Alinhamento c/ governo</th>`;
+  h += `<th scope="col">Coesão c/ o partido</th></tr></thead>\n<tbody>\n`;
+
+  for (const c of bancada) {
+    const secao = c.casa === "camara" ? "parlamentares" : "senadores";
+    const base = `./${secao}/${slug(c.nome)}`;
+    const escopo = c.casa === "camara" ? "merito" : "unico";
+    h += `<tr data-nome="${esc(dobrar(c.nome))}" data-sigla="${esc(c.sigla)}">`;
+    h += `<td><a href="${base}/">${esc(c.nome)}</a></td>`;
+    h += `<td><span class="escopo">${esc(c.sigla)}</span></td>`;
+
+    if (c.alinhamento != null) {
+      h += `<td><a href="${base}/evidencia/${slugEvidencia("alinhamento_governo", escopo)}/">`;
+      h += `<span class="valor">${pct(c.alinhamento)}%</span></a>`;
+      h += `<span class="n-cel">em ${c.n} votações</span></td>`;
+    } else {
+      // A ausência é escrita, nunca deixada em branco: célula vazia parece
+      // dado faltando por descuido nosso, e aqui é a fonte que não tem.
+      h += `<td><span class="nao-calc">não calculável no Senado</span></td>`;
+    }
+
+    h += `<td><a href="${base}/evidencia/${slugEvidencia("coesao_partidaria", escopo)}/">`;
+    h += `<span class="valor">${pct(c.coesao)}%</span></a>`;
+    h += `<span class="n-cel">em ${c.n} votações</span></td>`;
+    h += `</tr>\n`;
+  }
+  h += `</tbody>\n</table>\n`;
+
+  h += `<p class="ache-ressalva">Nenhum número acima é nota, e a ordem é\n`;
+  h += `alfabética de propósito. <b>Alinhamento</b> é a fatia de votações em que o\n`;
+  h += `voto coincidiu com a orientação da liderança do Governo; <b>coesão</b>, com\n`;
+  h += `a maioria do próprio partido. Nem coincidir nem divergir é acertar ou\n`;
+  h += `errar — <a href="./metodologia/">como a conta é feita</a>.</p>\n`;
+  h += `</section>\n`;
+  return h;
+}
+
 function gerarHome(
   temas: { id: number; nome: string }[],
   votacoes: VotacaoPagina[],
@@ -2015,6 +2111,10 @@ function gerarHome(
   md += `> **Princípio inegociável:** nunca rotular político por conta própria.\n`;
   md += `> Todo dado exibido deriva de fonte oficial e carrega link para ela. O\n`;
   md += `> usuário tira a conclusão.\n\n`;
+
+  // O achador vem antes das votações recentes: quem chega por um link de rede
+  // social vem atrás de uma pessoa, não da pauta da semana.
+  md += gerarAche() + `\n`;
 
   /**
    * As últimas votações, no alto.
@@ -2091,6 +2191,8 @@ function gerarHome(
   md += `Código: [github.com/RaulMdrs/bussola-civica](https://github.com/RaulMdrs/bussola-civica) · MIT\n\n`;
   md += `O acervo é integralmente reconstruível a partir das fontes oficiais, com um\n`;
   md += `comando. Nada aqui depende de dado que não possa ser recoletado e conferido.\n`;
+
+  md += `\n<script src="./assets/ache.js" defer></script>\n`;
 
   return md;
 }
