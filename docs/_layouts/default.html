@@ -65,6 +65,15 @@
         <dd><a href="{{ site.data.meta.metodologia_url }}">versão {{ site.data.meta.metodologia_versao }}</a></dd></div>
       <div><dt>Para jornalistas</dt>
         <dd><a href="{{ '/imprensa/' | relative_url }}">Como citar e conferir</a></dd></div>
+      {% comment %}
+        `contato` vem de `_data/meta.yml`, escrito pelo gerador a partir da
+        constante `CONTATO`. Vazio, a linha inteira não sai: rodapé com rótulo
+        "Contato" e nada ao lado é pior que rodapé sem rótulo nenhum.
+      {% endcomment %}
+      {% if site.data.meta.contato and site.data.meta.contato != "" %}
+      <div><dt>Contato</dt>
+        <dd><a href="mailto:{{ site.data.meta.contato }}">{{ site.data.meta.contato }}</a></dd></div>
+      {% endif %}
       <div><dt>Fonte</dt>
         <dd><a href="https://dadosabertos.camara.leg.br">Dados Abertos da Câmara</a> ·
             <a href="https://legis.senado.leg.br/dadosabertos/">Senado Federal</a></dd></div>

@@ -47,6 +47,7 @@ repositório, onde é `FONTES.md` que existe — nas páginas publicadas é `/FO
 | 26 | Retratos oficiais | 34/34, baixados e versionados; pequenos, ao lado do nome (§6.14) |
 | 27 | Decomposição paginada | 47.792 votações em 2.452 páginas de 20 — e uma guarda nova, que só existe porque há fatias (§6.15) |
 | 28 | Achador na home | Nome e partido sobre a bancada inteira, sem busca e sem índice: as 34 linhas já vêm no HTML (§6.16) |
+| 29 | Largura da página | Painel de leitura em duas colunas, e o recuo lateral que o site nunca teve (§6.17) |
 
 Acervo em **2026-09-06** (banco de 79 MB): Câmara com 6.450 votações, 1.125
 nominais; Senado com 357, das quais 117 abertas. 484.460 votos, 6.619 discursos,
@@ -1161,6 +1162,78 @@ cartão-registro da casa e fez a célula do partido sumir. O conserto certo foi
 
 ---
 
+### 6.17 A largura da página — e o recuo que nunca existiu
+
+Medido na página publicada, a 1280px:
+
+| Elemento | Largura |
+|---|---|
+| Gráfico | 960 |
+| **Notas entre os dois** | **544** |
+| Tabela | 960 |
+
+Quatro blocos estreitos entre dois largos, com 416px vazios à direita. É isso
+que lê como página inacabada.
+
+**A correção não foi alargar a prosa.** 960px de serifada é medida ruim de
+leitura, e alargar consertaria a aparência estragando o texto. As notas viraram
+um painel de duas colunas de ~430px — *como ler* à esquerda, *o que não
+concluir* à direita. A medida de leitura continua confortável e a página fica
+ocupada.
+
+As colunas são **explícitas, não fluídas**. `columns` do CSS reparte pela
+altura, e moveria uma cautela para o meio das notas conforme o texto mudasse de
+tamanho — o layout viraria função do comprimento do parágrafo.
+
+A ressalva que precedia a tabela virou **nota da tabela**: colada nela, da
+largura dela, com o texto em duas colunas a partir de 901px. Era o último bloco
+solto da página.
+
+#### O defeito maior estava embaixo
+
+`.envelope` e `.conteudo` moram **no mesmo elemento** — `<main class="envelope
+conteudo">` — e o atalho `padding: var(--e7) 0 var(--e8)` do segundo zerava o
+`padding: 0 var(--e5)` do primeiro. Mesma especificidade, declarado depois.
+
+**O site inteiro estava sem recuo lateral, desde sempre.** No desktop ninguém
+via: a 60rem centralizadas sobra margem de qualquer jeito. A 375px o título, o
+texto e a moldura do gráfico encostavam nas duas bordas.
+
+O mesmo defeito fazia o achador da home (§6.16) sangrar 16px para **fora** da
+tela, porque ele usa margem negativa para encostar na borda contando com um
+recuo que não existia.
+
+Longhand resolve e impede a reincidência: `padding-top` e `padding-bottom`, e o
+horizontal fica sendo assunto do `.envelope` só. **Atalho de `padding` em classe
+que divide elemento com outra é armadilha**, e esta ficou três meses invisível
+porque só aparecia numa largura que ninguém abria no desenvolvimento.
+
+---
+
+### 6.18 A página de contato, pronta antes do endereço
+
+O domínio `bussolacivica.com.br` foi registrado em 2026-09-30, com validade até
+2027-09-30. O endereço será `contato@bussolacivica.com.br`.
+
+`CONTATO` **continua vazia**, de propósito: endereço publicado que devolve erro
+é pior que endereço nenhum — o repórter não tenta duas vezes, e a página fica
+afirmando um canal que não existe. Preencher é a única mudança necessária, e
+ela alimenta dois lugares de uma vez: a página de imprensa e o rodapé de **toda**
+página, via `_data/meta.yml`. Quem chega num perfil por link de rede social não
+vai à página de imprensa.
+
+O bloco escrito não é só o endereço. Declara **o que aquele endereço não
+responde** — opinião sobre parlamentar, remoção de dado público, "correção" de
+número que a fonte publica — pela mesma disciplina que faz o site declarar o que
+não tem (§6.12). Poupa o tempo de quem escreveria à toa, e deixa registrado que
+a recusa é de método.
+
+`PRAZO_RESPOSTA` é constante separada porque prazo é promessa. Vazia, a frase
+não sai: numa página enviada a redação, prazo descumprido custa mais que a
+ausência dele.
+
+---
+
 ---
 
 ## 7. Números medidos — ingestor × reconhecimento
@@ -1372,7 +1445,7 @@ src/                                    8.731 linhas TypeScript
   ingest/incremental.ts 154 CLI da retomada automática, Câmara e Senado
   ingest/horizonte.ts 132   de onde continuar, por etapa — testável, sem rede
   calc/posicoes.ts    576   dois eixos + evidências, recorte por tema, regime por casa, `SITE`
-  site/gerar.ts      2529   gerador do site — 3.881 páginas, busca, órbita, sitemap, CSV e as quatro guardas
+  site/gerar.ts      2627   gerador do site — 3.881 páginas, busca, órbita, sitemap, CSV e as quatro guardas
   site/fotos.ts        90   baixa os retratos oficiais; falha de foto não derruba
   site/slug.ts         18   nome → caminho; importável, porque gerar.ts é script
   relatorio.ts        414   verificação do acervo + invariantes
@@ -1380,9 +1453,9 @@ drizzle/                    8 migrations
 
 .github/workflows/acervo.yml         146  atualização 2×/semana, custo zero (§6.8)
 
-docs/                                    1425 linhas de camada web
+docs/                                    1515 linhas de camada web
   _layouts/default.html 79  cabeçalho, conteúdo, rodapé e etiquetas de compartilhamento
-  assets/bussola.css   1014  folha única, à mão, clara e escura (§6.3)
+  assets/bussola.css   1095  folha única, à mão, clara e escura (§6.3)
   assets/busca.js      251  busca nos discursos, à mão, sem dependência (§6.5)
   assets/ache.js        81  achador da home; só esconde linhas (§6.16)
 ```

@@ -93,16 +93,33 @@ const fonte = (url: string) =>
   `<a class="fonte" href="${esc(url)}">Ver votação na fonte oficial</a>`;
 
 /**
- * Endereço de contato da página de imprensa.
+ * Endereço de contato: da página de imprensa e do rodapé de toda página.
  *
  * Vazio até existir uma caixa **dedicada ao projeto**. Publicar endereço
  * pessoal numa página enviada a redações, a semanas de uma eleição, traz
  * contato que não é só jornalista — e não dá para despublicar depois.
  *
- * Enquanto estiver vazio, a página oferece só o repositório e diz que é a via
- * disponível. Preencher aqui é a única mudança necessária.
+ * O domínio escolhido é `bussolacivica.com.br`, e o endereço será
+ * `contato@bussolacivica.com.br`. **Preencher só depois que o encaminhamento
+ * estiver de pé e testado**: endereço publicado que devolve erro é pior que
+ * endereço nenhum — o repórter não tenta duas vezes, e a página fica afirmando
+ * um canal que não existe.
+ *
+ * Preencher aqui é a única mudança necessária. A página de imprensa troca o
+ * bloco inteiro, e o rodapé passa a mostrar a linha de contato, via
+ * `_data/meta.yml`.
  */
 const CONTATO = "";
+
+/**
+ * Prazo declarado ao lado do endereço. Vazio omite a frase.
+ *
+ * Existe separado porque prazo é promessa, e promessa descumprida numa página
+ * enviada a redação custa mais do que a ausência dela. Repórter em fechamento
+ * precisa saber se vale esperar — e se não der para sustentar, o honesto é não
+ * escrever nada.
+ */
+const PRAZO_RESPOSTA = "até 48 horas";
 
 /**
  * Foto do parlamentar, se ela existir em disco.
@@ -1195,11 +1212,40 @@ function gerarImprensa(): string {
 
   md += `## Contato\n\n`;
   if (CONTATO) {
-    md += `Dúvida sobre um número, pedido de recorte, correção ou entrevista:\n`;
-    md += `**[${esc(CONTATO)}](mailto:${esc(CONTATO)})**.\n\n`;
-    md += `Erro apontado com a votação específica é o mais rápido de verificar.\n`;
-    md += `Também dá para [abrir uma questão no repositório](https://github.com/RaulMdrs/bussola-civica/issues),\n`;
-    md += `que deixa a conversa pública.\n\n`;
+    md += `<p class="contato-end"><a href="mailto:${esc(CONTATO)}">${esc(CONTATO)}</a></p>\n\n`;
+    if (PRAZO_RESPOSTA) {
+      md += `Resposta em **${esc(PRAZO_RESPOSTA)}**. Se for fechamento, diga o\n`;
+      md += `horário no assunto.\n\n`;
+    }
+
+    // Dizer o que o endereço **não** responde é a mesma disciplina de declarar
+    // o que o site não tem: poupa o tempo de quem escreveria à toa, e deixa
+    // registrado que a recusa é de método, não de conveniência.
+    md += legenda(
+      [
+        `<b>Como um número é calculado</b>, e onde conferi-lo na fonte.`,
+        `<b>Erro nos dados.</b> Apontado com a votação específica é o mais ` +
+          `rápido de verificar — e se o erro for nosso, a correção entra no ` +
+          `acervo e no registro público de defeitos.`,
+        `<b>Recorte que você precisa</b> e o site não oferece. Às vezes já ` +
+          `existe no acervo e falta só a página.`,
+        `<b>Entrevista</b> sobre método, dados e limites.`,
+      ],
+      [
+        `<b>Opinião sobre parlamentar, partido ou voto.</b> O site não as tem, ` +
+          `por princípio — é o que a primeira seção desta página explica.`,
+        `<b>Pedido de remoção de dado público.</b> Tudo aqui vem de fonte ` +
+          `oficial aberta e sai daqui quando sair de lá.`,
+        `<b>Pedido de "corrigir" número que a fonte publica.</b> Divergência ` +
+          `com a origem se resolve na origem, e o link para ela está em cada ` +
+          `linha deste site.`,
+      ],
+      ["O que este endereço responde", "O que ele não responde"],
+    );
+    md += `\n`;
+
+    md += `Se preferir deixar a conversa pública, dá para\n`;
+    md += `[abrir uma questão no repositório](https://github.com/RaulMdrs/bussola-civica/issues).\n\n`;
   } else {
     md += `Dúvida sobre um número, pedido de recorte ou correção:\n`;
     md += `[abra uma questão no repositório](https://github.com/RaulMdrs/bussola-civica/issues).\n`;
@@ -1942,11 +1988,20 @@ function gerarOrbita(
  * de tamanho. Aqui a esquerda é sempre como ler, e a direita é sempre o que
  * não concluir.
  */
-function legenda(notas: string[], cautelas: string[]): string {
+function legenda(
+  notas: string[],
+  cautelas: string[],
+  titulos?: [string, string],
+): string {
   let h = `<div class="legenda">\n`;
   h += `<div class="legenda-coluna">\n`;
+  // Título é `h3`, não primeiro parágrafo em negrito: passar o título como
+  // item fazia a coluna da direita embrulhá-lo na moldura de cautela, e ele
+  // saía parecendo mais uma ressalva em vez do rótulo das que vêm abaixo.
+  if (titulos) h += `<h3 class="legenda-titulo">${titulos[0]}</h3>\n`;
   for (const n of notas) h += `<p>${n}</p>\n`;
   h += `</div>\n<div class="legenda-coluna">\n`;
+  if (titulos) h += `<h3 class="legenda-titulo">${titulos[1]}</h3>\n`;
   for (const c of cautelas) h += `<p class="cautela">${c}</p>\n`;
   h += `</div>\n</div>\n`;
   return h;
@@ -2409,7 +2464,11 @@ function escreverMeta() {
       `periodo_fim_br: "${dataHumana(periodo.fim)}"\n` +
       `legislatura: ${legislatura}\n` +
       `metodologia_versao: "${metodologia.versao}"\n` +
-      `metodologia_url: "${metodologia.url}"\n`,
+      `metodologia_url: "${metodologia.url}"\n` +
+      // O rodapé é onde se procura contato — quem chega num perfil por link de
+      // rede social não vai à página de imprensa. Sai do mesmo lugar, para não
+      // haver dois endereços podendo divergir.
+      `contato: "${CONTATO}"\n`,
   );
 }
 

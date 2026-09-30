@@ -659,6 +659,15 @@ td .fonte, .evidencia .fonte { margin-top: var(--e2); }
 .n-detalhe + .n-detalhe { margin-top: var(--e1); }
 .n-detalhe span { font-family: var(--f-ui); color: var(--tinta-2); }
 
+/* O endereço de contato, na página de imprensa. Grande porque é o que o
+   repórter em fechamento procura, e ele tem de ser achável em um golpe de
+   vista — não parágrafo em prosa. */
+.conteudo .contato-end {
+  margin: 0 0 var(--e4);
+  font: 600 clamp(1.15rem, 1rem + .7vw, 1.5rem)/1.3 var(--f-ui);
+  word-break: break-word;
+}
+
 /* ---------- Painel de leitura do gráfico -------------------- */
 /* Medido: o gráfico e a tabela ocupam os 960px do envelope, e as notas entre
    eles ficavam em 544px, com 416px vazios à direita — quatro blocos estreitos
@@ -671,7 +680,7 @@ td .fonte, .evidencia .fonte { margin-top: var(--e2); }
    Uma coluna abaixo de 901px. O ponto não é o telemóvel: a 900px cada coluna
    cairia para ~420px, e aí a linha fica curta demais para prosa com palavras
    longas — "procedimental", "incomparabilidade". */
-.legenda { margin: 0 0 var(--e5); }
+.legenda { margin: var(--e5) 0; }
 @media (min-width: 901px) {
   .legenda {
     display: grid;
@@ -684,6 +693,15 @@ td .fonte, .evidencia .fonte { margin-top: var(--e2); }
    de novo — o defeito que já mordeu `.evidencia`, `.superada` e `.ache-linha`.
    Dentro do painel a coluna é que define a medida. */
 .conteudo .legenda p { max-width: none; }
+/* Rótulo da coluna. `h3` para a leitura em sequência fazer sentido sem CSS —
+   quem usa leitor de tela ouve "O que este endereço responde" antes dos itens,
+   e não um negrito solto no meio de parágrafos. */
+.conteudo .legenda-titulo {
+  margin: 0 0 var(--e3);
+  font: 600 var(--t-peq)/1.3 var(--f-ui);
+  text-transform: uppercase; letter-spacing: .07em;
+  color: var(--tinta-2);
+}
 .conteudo .legenda p + p { margin-top: var(--e4); }
 .conteudo .legenda .cautela {
   margin: 0;
