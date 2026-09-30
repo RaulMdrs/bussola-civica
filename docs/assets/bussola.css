@@ -106,7 +106,14 @@ img { max-width: 100%; height: auto; }
 @media (max-width: 640px) { .envelope { padding: 0 var(--e4); } }
 
 /* ---------- 2. Tipografia do conteúdo ----------------------- */
-.conteudo { padding: var(--e7) 0 var(--e8); }
+/* Longhand de propósito. `.envelope` e `.conteudo` moram no **mesmo** elemento
+   (`<main class="envelope conteudo">`), e o atalho `padding:` daqui zerava o
+   `padding: 0 var(--e5)` de lá — mesma especificidade, declarado depois.
+   Resultado: o site inteiro ficou sem recuo lateral. No desktop ninguém via,
+   porque a 60rem centralizadas sobra margem de qualquer jeito; a 375px o
+   título, o texto e a moldura do gráfico encostavam nas duas bordas.
+   Aqui o `.conteudo` cuida do vertical e só dele. */
+.conteudo { padding-top: var(--e7); padding-bottom: var(--e8); }
 
 .conteudo h1 {
   font-size: clamp(1.75rem, 1.35rem + 1.8vw, 2.6rem);
@@ -651,6 +658,62 @@ td .fonte, .evidencia .fonte { margin-top: var(--e2); }
 }
 .n-detalhe + .n-detalhe { margin-top: var(--e1); }
 .n-detalhe span { font-family: var(--f-ui); color: var(--tinta-2); }
+
+/* ---------- Painel de leitura do gráfico -------------------- */
+/* Medido: o gráfico e a tabela ocupam os 960px do envelope, e as notas entre
+   eles ficavam em 544px, com 416px vazios à direita — quatro blocos estreitos
+   entre dois largos leem como página inacabada.
+
+   A correção **não** é alargar a prosa: 960px de serifada é medida ruim, e
+   consertaria a aparência estragando o texto. Duas colunas de ~460px mantêm a
+   medida de leitura e ocupam a página.
+
+   Uma coluna abaixo de 901px. O ponto não é o telemóvel: a 900px cada coluna
+   cairia para ~420px, e aí a linha fica curta demais para prosa com palavras
+   longas — "procedimental", "incomparabilidade". */
+.legenda { margin: 0 0 var(--e5); }
+@media (min-width: 901px) {
+  .legenda {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--e4) var(--e7);
+    align-items: start;
+  }
+}
+/* `.conteudo p` (0,1,1) vence `.legenda p` (0,1,0) e prenderia tudo em 34rem
+   de novo — o defeito que já mordeu `.evidencia`, `.superada` e `.ache-linha`.
+   Dentro do painel a coluna é que define a medida. */
+.conteudo .legenda p { max-width: none; }
+.conteudo .legenda p + p { margin-top: var(--e4); }
+.conteudo .legenda .cautela {
+  margin: 0;
+  padding: var(--e4) var(--e5);
+  background: var(--papel-2);
+  border: 1px solid var(--fio);
+}
+/* A cautela é a coluna da direita e precisa parecer outra voz, não continuação
+   da esquerda — mesma moldura das ressalvas em prosa do resto do site. */
+.conteudo .legenda .cautela + .cautela { margin-top: var(--e4); }
+
+/* Nota de tabela: cola na tabela e tem a largura dela.
+   Como blockquote de 544px, entre um painel de 960 e uma tabela de 960, era o
+   último bloco solto da página. Duas colunas de texto a partir de 901px — uma
+   ressalva curta repartida é leitura normal de jornal, e evita a linha de
+   960px que seria medida ruim. */
+.conteudo .nota-tabela {
+  max-width: none;
+  margin: 0 0 var(--e3);
+  padding: var(--e4) var(--e5);
+  background: var(--papel-2);
+  border: 1px solid var(--fio);
+  border-bottom: 0;
+  font-size: var(--t-peq);
+}
+@media (min-width: 901px) {
+  .conteudo .nota-tabela { columns: 2; column-gap: var(--e7); }
+}
+/* A tabela encosta na nota: são a mesma unidade de leitura. */
+.conteudo .nota-tabela + table { margin-top: 0; }
 
 /* ---------- Achador da home --------------------------------- */
 /* O bloco que mais gente vai ver. Chama pelo enquadramento — moldura, campos

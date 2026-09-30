@@ -1618,20 +1618,25 @@ function gerarIndiceSenadores(senadores: Parlamentar[]): string {
     );
     md += `</div>\n\n`;
 
-    md += `**Como ler.** A órbita mede o quanto o voto se afasta da maioria da\n`;
-    md += `própria bancada — órbita pequena é quem quase nunca destoa dos seus.\n`;
-    md += `**Não há posição horizontal**, e o vazio à direita é isso mesmo: o eixo\n`;
-    md += `de alinhamento com o governo existe na Câmara e não existe aqui.\n\n`;
-
-    md += `> **As órbitas destes três não se comparam entre si.** Cada uma é medida\n`;
-    md += `> contra a maioria do próprio partido, e são três partidos. Órbita menor\n`;
-    md += `> não é mais disciplina que a do vizinho — é menos distância de outra\n`;
-    md += `> referência. Por isso cada um tem sua faixa, e não há régua ligando\n`;
-    md += `> uma à outra.\n\n`;
-
     const ns = doSenado.map((c) => c.n).filter((n) => n != null);
-    md += `O \`n\` não está no gráfico: vai de **${Math.min(...ns)} a\n`;
-    md += `${Math.max(...ns)} votações abertas**, e está na tabela abaixo.\n\n`;
+    md += legenda(
+      [
+        `<b>Como ler.</b> A órbita mede o quanto o voto se afasta da maioria da ` +
+          `própria bancada — órbita pequena é quem quase nunca destoa dos seus. ` +
+          `<b>Não há posição horizontal</b>, e o vazio à direita é isso mesmo: o ` +
+          `eixo de alinhamento com o governo existe na Câmara e não existe aqui.`,
+        `O <code>n</code> não está no gráfico: vai de <b>${Math.min(...ns)} a ` +
+          `${Math.max(...ns)} votações abertas</b>, e está na tabela abaixo.`,
+      ],
+      [
+        `<b>As órbitas destes três não se comparam entre si.</b> Cada uma é ` +
+          `medida contra a maioria do próprio partido, e são três partidos. ` +
+          `Órbita menor não é mais disciplina que a do vizinho — é menos ` +
+          `distância de outra referência. Por isso cada um tem sua faixa, e não ` +
+          `há régua ligando uma à outra.`,
+      ],
+    );
+    md += `\n`;
   }
 
   md += `| Senador | Partido | Coesão partidária | Votações (n) |\n|---|---|---:|---:|\n`;
@@ -1919,6 +1924,34 @@ function gerarOrbita(
   return svg;
 }
 
+/**
+ * Painel de leitura do gráfico: as notas que explicam a órbita, em duas colunas.
+ *
+ * Existe por medição. O gráfico e a tabela ocupam os 960px do envelope, e as
+ * notas entre eles ficavam em 544px de prosa — quatro blocos empilhados numa
+ * coluna estreita, com 416px vazios à direita. Isso lê como página inacabada,
+ * não como escolha de quem a fez.
+ *
+ * A saída **não** foi alargar a prosa. 960px de serifada é medida ruim de
+ * leitura, e alargar consertaria a aparência estragando o texto. São duas
+ * colunas de ~460px: a medida de leitura continua confortável e a largura da
+ * página fica ocupada.
+ *
+ * As colunas são explícitas, não fluídas — `columns` do CSS reparte pela
+ * altura e moveria uma cautela para o meio das notas conforme o texto mudasse
+ * de tamanho. Aqui a esquerda é sempre como ler, e a direita é sempre o que
+ * não concluir.
+ */
+function legenda(notas: string[], cautelas: string[]): string {
+  let h = `<div class="legenda">\n`;
+  h += `<div class="legenda-coluna">\n`;
+  for (const n of notas) h += `<p>${n}</p>\n`;
+  h += `</div>\n<div class="legenda-coluna">\n`;
+  for (const c of cautelas) h += `<p class="cautela">${c}</p>\n`;
+  h += `</div>\n</div>\n`;
+  return h;
+}
+
 /** O eixo da Câmara. O Senado passa `null` — lá ele não existe. */
 const EIXO_GOVERNO: EixoOrbita = {
   rotulo: "alinhamento com o governo federal, no mérito",
@@ -1939,38 +1972,44 @@ function gerarIndiceParlamentares(): string {
   md += `<div class="orbita-quadro">\n${gerarOrbita(daCamara, EIXO_GOVERNO)}</div>\n\n`;
   md += `<p class="orbita-dica">O panorama acima rola para o lado — ou role a\n`;
   md += `página até a tabela, que traz os mesmos números em texto.</p>\n\n`;
-  md += `**Como ler.** Cada corpo é um parlamentar; a posição horizontal é o\n`;
-  md += `alinhamento com o governo, e essa comparação vale entre todos, porque a\n`;
-  md += `referência é a mesma — a orientação declarada do Governo. **A órbita ao\n`;
-  md += `redor é outra coisa**: mede o quanto o voto se afasta da maioria da\n`;
-  md += `própria bancada. Órbita pequena é quem quase nunca destoa dos seus.\n\n`;
-
-  md += `> **Por isso cada partido tem sua faixa.** Coesão só significa alguma\n`;
-  md += `> coisa dentro da mesma legenda: a referência dela é a maioria daquele\n`;
-  md += `> partido, e são maiorias diferentes. Marcel van Hattem tem 99% de coesão\n`;
-  md += `> com o NOVO e Bohn Gass tem 98% com o PT — órbitas quase idênticas, e\n`;
-  md += `> política oposta. Num gráfico que pusesse coesão num eixo, os dois\n`;
-  md += `> ficariam colados, e a proximidade diria algo falso sem que ninguém\n`;
-  md += `> tivesse escrito uma frase falsa.\n\n`;
-
   // A regra do §6.3 diz que o `n` nunca é tooltip. Num gráfico não há número
   // impresso para acompanhar, então ele entra em prosa, com a amplitude real —
   // e a tabela logo abaixo traz o de cada um, linha a linha.
   const ns = daCamara.map((c) => c.n).filter((n) => n != null);
+  const notas = [
+    `<b>Como ler.</b> Cada corpo é um parlamentar; a posição horizontal é o ` +
+      `alinhamento com o governo, e essa comparação vale entre todos, porque a ` +
+      `referência é a mesma — a orientação declarada do Governo. <b>A órbita ao ` +
+      `redor é outra coisa</b>: mede o quanto o voto se afasta da maioria da ` +
+      `própria bancada. Órbita pequena é quem quase nunca destoa dos seus.`,
+  ];
   if (ns.length) {
-    md += `**O gráfico não mostra o \`n\`**, e nenhum ponto deve ser lido sem\n`;
-    md += `ele: os denominadores vão de **${Math.min(...ns)} a ${Math.max(...ns)}\n`;
-    md += `votações**, porque cada parlamentar é medido só no seu período de\n`;
-    md += `exercício. O \`n\` de cada um está na tabela abaixo e no perfil — e\n`;
-    md += `aparece ao passar o cursor sobre o corpo, que é acréscimo, não\n`;
-    md += `substituto.\n\n`;
+    notas.push(
+      `<b>O gráfico não mostra o <code>n</code></b>, e nenhum ponto deve ser ` +
+        `lido sem ele: os denominadores vão de <b>${Math.min(...ns)} a ` +
+        `${Math.max(...ns)} votações</b>, porque cada parlamentar é medido só no ` +
+        `seu período de exercício. O <code>n</code> de cada um está na tabela ` +
+        `abaixo e no perfil — e aparece ao passar o cursor sobre o corpo, que é ` +
+        `acréscimo, não substituto.`,
+    );
   }
+  md += legenda(notas, [
+    `<b>Por isso cada partido tem sua faixa.</b> Coesão só significa alguma ` +
+      `coisa dentro da mesma legenda: a referência dela é a maioria daquele ` +
+      `partido, e são maiorias diferentes. Marcel van Hattem tem 99% de coesão ` +
+      `com o NOVO e Bohn Gass tem 98% com o PT — órbitas quase idênticas, e ` +
+      `política oposta. Num gráfico que pusesse coesão num eixo, os dois ` +
+      `ficariam colados, e a proximidade diria algo falso sem que ninguém ` +
+      `tivesse escrito uma frase falsa.`,
+  ]);
+  md += `\n`;
 
-  md += `> **Estas duas colunas não se comparam entre si e não ordenam ninguém.**\n`;
-  md += `> Alinhamento mede coincidência com a orientação declarada pela liderança do\n`;
-  md += `> Governo; coesão mede coincidência com a maioria do próprio partido. Um\n`;
-  md += `> valor alto não é melhor que um baixo — é outro. E os dois só significam\n`;
-  md += `> alguma coisa ao lado do \`n\`: o número de votações de que foram extraídos.\n\n`;
+  md += `<p class="nota-tabela"><b>Estas duas colunas não se comparam entre si e `;
+  md += `não ordenam ninguém.</b> Alinhamento mede coincidência com a orientação `;
+  md += `declarada pela liderança do Governo; coesão mede coincidência com a `;
+  md += `maioria do próprio partido. Um valor alto não é melhor que um baixo — é `;
+  md += `outro. E os dois só significam alguma coisa ao lado do <code>n</code>: o `;
+  md += `número de votações de que foram extraídos.</p>\n\n`;
 
   md += `| Parlamentar | Partido | Alinh. c/ governo | Coesão partidária | Votações (n) |\n`;
   md += `|---|---|---:|---:|---:|\n`;

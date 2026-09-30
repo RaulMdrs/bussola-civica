@@ -57,19 +57,15 @@ por conta própria, que é o que este projeto não faz. Aqui existe um eixo só.
 </svg>
 </div>
 
-**Como ler.** A órbita mede o quanto o voto se afasta da maioria da
-própria bancada — órbita pequena é quem quase nunca destoa dos seus.
-**Não há posição horizontal**, e o vazio à direita é isso mesmo: o eixo
-de alinhamento com o governo existe na Câmara e não existe aqui.
-
-> **As órbitas destes três não se comparam entre si.** Cada uma é medida
-> contra a maioria do próprio partido, e são três partidos. Órbita menor
-> não é mais disciplina que a do vizinho — é menos distância de outra
-> referência. Por isso cada um tem sua faixa, e não há régua ligando
-> uma à outra.
-
-O `n` não está no gráfico: vai de **80 a
-107 votações abertas**, e está na tabela abaixo.
+<div class="legenda">
+<div class="legenda-coluna">
+<p><b>Como ler.</b> A órbita mede o quanto o voto se afasta da maioria da própria bancada — órbita pequena é quem quase nunca destoa dos seus. <b>Não há posição horizontal</b>, e o vazio à direita é isso mesmo: o eixo de alinhamento com o governo existe na Câmara e não existe aqui.</p>
+<p>O <code>n</code> não está no gráfico: vai de <b>80 a 107 votações abertas</b>, e está na tabela abaixo.</p>
+</div>
+<div class="legenda-coluna">
+<p class="cautela"><b>As órbitas destes três não se comparam entre si.</b> Cada uma é medida contra a maioria do próprio partido, e são três partidos. Órbita menor não é mais disciplina que a do vizinho — é menos distância de outra referência. Por isso cada um tem sua faixa, e não há régua ligando uma à outra.</p>
+</div>
+</div>
 
 | Senador | Partido | Coesão partidária | Votações (n) |
 |---|---|---:|---:|

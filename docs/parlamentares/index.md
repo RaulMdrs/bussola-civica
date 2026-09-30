@@ -240,32 +240,17 @@ description: "Os 31 deputados federais do Rio Grande do Sul: alinhamento com o g
 <p class="orbita-dica">O panorama acima rola para o lado — ou role a
 página até a tabela, que traz os mesmos números em texto.</p>
 
-**Como ler.** Cada corpo é um parlamentar; a posição horizontal é o
-alinhamento com o governo, e essa comparação vale entre todos, porque a
-referência é a mesma — a orientação declarada do Governo. **A órbita ao
-redor é outra coisa**: mede o quanto o voto se afasta da maioria da
-própria bancada. Órbita pequena é quem quase nunca destoa dos seus.
+<div class="legenda">
+<div class="legenda-coluna">
+<p><b>Como ler.</b> Cada corpo é um parlamentar; a posição horizontal é o alinhamento com o governo, e essa comparação vale entre todos, porque a referência é a mesma — a orientação declarada do Governo. <b>A órbita ao redor é outra coisa</b>: mede o quanto o voto se afasta da maioria da própria bancada. Órbita pequena é quem quase nunca destoa dos seus.</p>
+<p><b>O gráfico não mostra o <code>n</code></b>, e nenhum ponto deve ser lido sem ele: os denominadores vão de <b>126 a 551 votações</b>, porque cada parlamentar é medido só no seu período de exercício. O <code>n</code> de cada um está na tabela abaixo e no perfil — e aparece ao passar o cursor sobre o corpo, que é acréscimo, não substituto.</p>
+</div>
+<div class="legenda-coluna">
+<p class="cautela"><b>Por isso cada partido tem sua faixa.</b> Coesão só significa alguma coisa dentro da mesma legenda: a referência dela é a maioria daquele partido, e são maiorias diferentes. Marcel van Hattem tem 99% de coesão com o NOVO e Bohn Gass tem 98% com o PT — órbitas quase idênticas, e política oposta. Num gráfico que pusesse coesão num eixo, os dois ficariam colados, e a proximidade diria algo falso sem que ninguém tivesse escrito uma frase falsa.</p>
+</div>
+</div>
 
-> **Por isso cada partido tem sua faixa.** Coesão só significa alguma
-> coisa dentro da mesma legenda: a referência dela é a maioria daquele
-> partido, e são maiorias diferentes. Marcel van Hattem tem 99% de coesão
-> com o NOVO e Bohn Gass tem 98% com o PT — órbitas quase idênticas, e
-> política oposta. Num gráfico que pusesse coesão num eixo, os dois
-> ficariam colados, e a proximidade diria algo falso sem que ninguém
-> tivesse escrito uma frase falsa.
-
-**O gráfico não mostra o `n`**, e nenhum ponto deve ser lido sem
-ele: os denominadores vão de **126 a 551
-votações**, porque cada parlamentar é medido só no seu período de
-exercício. O `n` de cada um está na tabela abaixo e no perfil — e
-aparece ao passar o cursor sobre o corpo, que é acréscimo, não
-substituto.
-
-> **Estas duas colunas não se comparam entre si e não ordenam ninguém.**
-> Alinhamento mede coincidência com a orientação declarada pela liderança do
-> Governo; coesão mede coincidência com a maioria do próprio partido. Um
-> valor alto não é melhor que um baixo — é outro. E os dois só significam
-> alguma coisa ao lado do `n`: o número de votações de que foram extraídos.
+<p class="nota-tabela"><b>Estas duas colunas não se comparam entre si e não ordenam ninguém.</b> Alinhamento mede coincidência com a orientação declarada pela liderança do Governo; coesão mede coincidência com a maioria do próprio partido. Um valor alto não é melhor que um baixo — é outro. E os dois só significam alguma coisa ao lado do <code>n</code>: o número de votações de que foram extraídos.</p>
 
 | Parlamentar | Partido | Alinh. c/ governo | Coesão partidária | Votações (n) |
 |---|---|---:|---:|---:|
