@@ -1470,11 +1470,15 @@ despublica.
 
 Registrado para quando houver fonte — nenhum destes é "fazer depois":
 
+> **Saiu desta lista:** discurso de senador estava aqui como "endpoint ainda não
+> reconhecido". Foi reconhecido e entregue em §6.7 — 717 pronunciamentos, e a
+> página de senador tem seção de plenário como a de deputado. Lista de bloqueio
+> que ninguém tira item de vira lista de desculpa.
+
 | Item | Por que está parado |
 |---|---|
 | Eixo 1 no Senado | Não há orientação de bancada em dados abertos. Nove endpoints testados, todos 404; busca por nome de campo em 2,5 MB não achou nada (§8) |
 | Senador × TSE | Não há CPF na API do Senado. Nome de urna não é chave, e partido menos ainda |
-| Discurso de senador | A etapa `discursos` é da Câmara. O Senado tem endpoint próprio, ainda não reconhecido — a página de senador hoje não tem seção de discurso, e não é escolha de design |
 | Recorte por escopo no Senado | A regra mérito × procedimental foi calibrada contra texto da Câmara. Validá-la para o Senado exige casos de borda que ainda não temos |
 | Plano de governo | Não existe para deputado federal — interseção medida: zero (§5) |
 | Notícias por político | Sem fonte oficial (§5) |
