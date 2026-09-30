@@ -18,7 +18,7 @@ description: "Os discursos de Luis Carlos Heinze em 2026, com o sumário oficial
 
 ## Substantivos — 7
 
-<blockquote class="evidencia discurso" id="d-5931">
+<blockquote class="evidencia discurso" id="d-11766">
 <span class="data">10 jun 2026</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Luis Carlos Heinze em 2026, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5932">
+<blockquote class="evidencia discurso" id="d-11767">
 <span class="data">28 abr 2026</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Luis Carlos Heinze em 2026, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5933">
+<blockquote class="evidencia discurso" id="d-11768">
 <span class="data">08 abr 2026</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Luis Carlos Heinze em 2026, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5934">
+<blockquote class="evidencia discurso" id="d-11769">
 <span class="data">07 abr 2026</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Luis Carlos Heinze em 2026, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5935">
+<blockquote class="evidencia discurso" id="d-11770">
 <span class="data">18 mar 2026</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Luis Carlos Heinze em 2026, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5936">
+<blockquote class="evidencia discurso" id="d-11771">
 <span class="data">03 mar 2026</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Luis Carlos Heinze em 2026, com o sumário oficial
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5937">
+<blockquote class="evidencia discurso" id="d-11772">
 <span class="data">24 fev 2026</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>

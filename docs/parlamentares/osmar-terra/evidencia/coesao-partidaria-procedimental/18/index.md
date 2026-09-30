@@ -1,0 +1,60 @@
+---
+layout: default
+kind: evidencia
+title: "Osmar Terra — Coesão com o próprio partido, Procedimental (página 18)"
+description: "A decomposição completa do número de Osmar Terra: 394 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
+---
+
+# Coesão com o próprio partido
+
+<p class="subtitulo"><b><a href="../../../">Osmar Terra</a></b> · PL · deputado federal · escopo <b>Procedimental</b></p>
+
+<div class="interrompe">
+<h4>A conta inteira, votação por votação</h4>
+<p><b>59,6%</b> é <b>235</b> coincidências em
+<b>394</b> votações computáveis — as outras 159 estão
+aqui também. Nada foi selecionado: a decomposição é completa, e está
+repartida em <b>20 páginas</b> de até 20 votações,
+da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
+<b>360ª</b>.</p>
+</div>
+
+> **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
+> se o voto foi igual ou diferente da referência daquele eixo. A referência
+> está em cada linha, e o texto da votação é o da fonte, sem edição.
+
+| Data | Votação | Referência | Voto | | Fonte |
+|---|---|---|---|---|---|
+| 04 out 2023 | Rejeitado o Requerimento. Sim: 29; não: 283; abstenção: 2; total: 314. | Maioria do partido: nao (3 sim / 24 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2358915-53](../../../../../votacoes/2358915-53/) |
+| 04 out 2023 | Rejeitado o Requerimento. Sim: 30; não: 350; abstenção: 2; total: 382. | Maioria do partido: nao (2 sim / 32 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2387035-44](../../../../../votacoes/2387035-44/) |
+| 04 out 2023 | Rejeitado o Requerimento. Sim: 20; não: 259; abstenção: 2; total: 281. | Maioria do partido: nao (0 sim / 28 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2387035-55](../../../../../votacoes/2387035-55/) |
+| 20 set 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 285; não: 113; abstenção: 2; total: 400. | Maioria do partido: sim (25 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2282142-9](../../../../../votacoes/2282142-9/) |
+| 19 set 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 297; não: 105; abstenção: 1; total: 403. | Maioria do partido: sim (26 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2375630-8](../../../../../votacoes/2375630-8/) |
+| 13 set 2023 | Rejeitado o Requerimento. Sim: 57; não: 376; abstenção: 2; total: 435. | Maioria do partido: nao (2 sim / 30 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2387066-44](../../../../../votacoes/2387066-44/) |
+| 13 set 2023 | Rejeitado o Requerimento. Sim: 63; não: 360; abstenção: 1; total: 424. | Maioria do partido: nao (3 sim / 25 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2387066-55](../../../../../votacoes/2387066-55/) |
+| 13 set 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 366; não: 60; abstenção: 2; total: 428. | Maioria do partido: sim (30 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2387264-8](../../../../../votacoes/2387264-8/) |
+| 13 set 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 384; não: 51; abstenção: 3; total: 438. | Maioria do partido: sim (34 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387266-8](../../../../../votacoes/2387266-8/) |
+| 04 set 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 360; não: 18; total: 378. | Maioria do partido: sim (26 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2336833-9](../../../../../votacoes/2336833-9/) |
+| 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 415; total: 415. | Maioria do partido: sim (34 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2331282-8](../../../../../votacoes/2331282-8/) |
+| 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 390; não: 15; total: 405. | Maioria do partido: sim (32 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2377273-8](../../../../../votacoes/2377273-8/) |
+| 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 408; não: 1; total: 409. | Maioria do partido: sim (30 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2377516-12](../../../../../votacoes/2377516-12/) |
+| 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 420; não: 1; total: 421. | Maioria do partido: sim (33 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2377518-12](../../../../../votacoes/2377518-12/) |
+| 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 325; não: 97; total: 422. | Maioria do partido: sim (26 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2377566-12](../../../../../votacoes/2377566-12/) |
+| 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 450; não: 5; total: 455. | Maioria do partido: sim (35 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2379582-7](../../../../../votacoes/2379582-7/) |
+| 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 447; não: 13; abstenção: 1; total: 461. | Maioria do partido: sim (36 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2380451-7](../../../../../votacoes/2380451-7/) |
+| 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 397; não: 8; total: 405. | Maioria do partido: sim (26 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2382599-8](../../../../../votacoes/2382599-8/) |
+| 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 337; não: 103; abstenção: 1; total: 441. | Maioria do partido: sim (31 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2382611-10](../../../../../votacoes/2382611-10/) |
+| 23 ago 2023 | Rejeitado o Requerimento. Sim: 92; não: 310; total: 402. | Maioria do partido: nao (3 sim / 28 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2359135-28](../../../../../votacoes/2359135-28/) |
+{: .t-evid}
+
+<nav class="paginacao" aria-label="Páginas da decomposição">
+<a class="passo" href="../17/" rel="prev">← Anteriores</a>
+<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../16/">16</a><a href="../17/">17</a><b aria-current="page">18</b><a href="../19/">19</a><a href="../20/">20</a></span>
+<a class="passo" href="../19/" rel="next">Próximas →</a>
+</nav>
+
+O identificador da última coluna é o da votação na fonte oficial, e o
+link abre a página dela neste site — com a chamada nominal da bancada e
+o endereço do registro na origem. Nada nesta página é
+interpretação: são votos registrados e a referência contra a qual cada um
+foi comparado.

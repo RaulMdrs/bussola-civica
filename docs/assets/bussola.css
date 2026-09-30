@@ -319,6 +319,49 @@ mark {
 .t-evid td:nth-child(4) { white-space: nowrap; }
 .t-evid td:last-child { font-family: var(--f-mono); white-space: nowrap; }
 
+/* Paginação da decomposição. Links estáticos: nada aqui depende de script.
+
+   O passo indisponível fica visível e apagado em vez de sumir — botão que
+   desaparece muda o lugar dos outros a cada página, e o alvo do clique foge
+   sob o dedo de quem está avançando. */
+.paginacao {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: var(--e2) var(--e3);
+  margin: var(--e4) 0 var(--e5);
+  padding-top: var(--e3);
+  border-top: 1px solid var(--fio);
+  font: var(--t-peq)/1.4 var(--f-ui);
+}
+.paginacao .passo { font-weight: 600; white-space: nowrap; }
+.paginacao .inerte { color: var(--tinta-2); opacity: .45; }
+.paginacao .paginas {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: .1rem;
+  font-family: var(--f-mono);
+  font-variant-numeric: tabular-nums;
+}
+.paginacao .paginas a,
+.paginacao .paginas b {
+  display: inline-block;
+  min-width: 1.9rem;
+  padding: .3rem .25rem;
+  text-align: center;
+  border-radius: 3px;
+}
+/* A página atual não é link, e não finge ser: fundo, sem sublinhado. */
+.paginacao .paginas b {
+  background: var(--fio);
+  color: var(--tinta);
+  font-weight: 700;
+}
+.paginacao .paginas a:hover { background: var(--fio); text-decoration: none; }
+.paginacao .salto { padding: 0 .2rem; color: var(--tinta-2); }
+
 /* Navegação entre anos, no topo da página de discursos. */
 .anos {
   font: var(--t-peq)/1.6 var(--f-ui);
@@ -536,6 +579,21 @@ td .fonte, .evidencia .fonte { margin-top: var(--e2); }
     padding-bottom: 0;
   }
   .t-evid td:nth-child(2)::before { content: "Votação"; }
+
+  /* No telemóvel os números ocupam a linha inteira, entre os dois passos: em
+     linha única com 28 páginas eles espremem "Anteriores" até quebrar a
+     palavra. Alvo de 2,4rem porque aqui o clique é um polegar. */
+  .paginacao { justify-content: center; }
+  .paginacao .paginas { order: 3; width: 100%; justify-content: center; }
+  .paginacao .passo { flex: 1; }
+  /* Posição, não `:last-of-type`: os dois passos são elementos de tipos
+     diferentes (`a` quando há para onde ir, `span` quando não há), e
+     `:last-of-type` casava o `a` sozinho na última página — "Anteriores"
+     saltava para a direita justamente onde era o único caminho de volta.
+     A ordem no DOM é fixa: passo, números, passo. */
+  .paginacao > :nth-child(3) { text-align: right; }
+  .paginacao .paginas a,
+  .paginacao .paginas b { min-width: 2.4rem; padding: .45rem .3rem; }
   .t-evid td:nth-child(3)::before { content: "Referência"; }
   .t-evid td:nth-child(4)::before { content: "Voto registrado"; }
   .t-evid td:nth-child(5)::before { content: "Contou como"; }

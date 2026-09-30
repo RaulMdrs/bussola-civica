@@ -18,7 +18,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 
 ## Substantivos — 25
 
-<blockquote class="evidencia discurso" id="d-6038">
+<blockquote class="evidencia discurso" id="d-11873">
 <span class="data">09 dez 2025</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6039">
+<blockquote class="evidencia discurso" id="d-11874">
 <span class="data">02 dez 2025</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6040">
+<blockquote class="evidencia discurso" id="d-11875">
 <span class="data">28 out 2025</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6043">
+<blockquote class="evidencia discurso" id="d-11878">
 <span class="data">22 out 2025</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6042">
+<blockquote class="evidencia discurso" id="d-11877">
 <span class="data">22 out 2025</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6041">
+<blockquote class="evidencia discurso" id="d-11876">
 <span class="data">22 out 2025</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6044">
+<blockquote class="evidencia discurso" id="d-11879">
 <span class="data">08 out 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6046">
+<blockquote class="evidencia discurso" id="d-11881">
 <span class="data">24 set 2025</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6045">
+<blockquote class="evidencia discurso" id="d-11880">
 <span class="data">24 set 2025</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6047">
+<blockquote class="evidencia discurso" id="d-11882">
 <span class="data">10 set 2025</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6048">
+<blockquote class="evidencia discurso" id="d-11883">
 <span class="data">27 ago 2025</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6049">
+<blockquote class="evidencia discurso" id="d-11884">
 <span class="data">26 ago 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6051">
+<blockquote class="evidencia discurso" id="d-11886">
 <span class="data">16 jul 2025</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6050">
+<blockquote class="evidencia discurso" id="d-11885">
 <span class="data">16 jul 2025</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6052">
+<blockquote class="evidencia discurso" id="d-11887">
 <span class="data">08 jul 2025</span>
 <div class="corpo">
 <p class="tipo">Como Relator - Para proferir parecer</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6053">
+<blockquote class="evidencia discurso" id="d-11888">
 <span class="data">02 jul 2025</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6054">
+<blockquote class="evidencia discurso" id="d-11889">
 <span class="data">27 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6055">
+<blockquote class="evidencia discurso" id="d-11890">
 <span class="data">23 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6056">
+<blockquote class="evidencia discurso" id="d-11891">
 <span class="data">08 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6057">
+<blockquote class="evidencia discurso" id="d-11892">
 <span class="data">07 mai 2025</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6058">
+<blockquote class="evidencia discurso" id="d-11893">
 <span class="data">22 abr 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6060">
+<blockquote class="evidencia discurso" id="d-11895">
 <span class="data">08 abr 2025</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6059">
+<blockquote class="evidencia discurso" id="d-11894">
 <span class="data">08 abr 2025</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6061">
+<blockquote class="evidencia discurso" id="d-11896">
 <span class="data">01 abr 2025</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Hamilton Mourão em 2025, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6062">
+<blockquote class="evidencia discurso" id="d-11897">
 <span class="data">11 mar 2025</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>

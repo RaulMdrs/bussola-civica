@@ -45,6 +45,7 @@ repositório, onde é `FONTES.md` que existe — nas páginas publicadas é `/FO
 | 24 | Página para jornalistas | Como citar, o CSV, e as cinco maneiras de errar com os números (§6.12) |
 | 25 | Votação como página | 1.242 páginas com a chamada nominal — a navegação do voto para as pessoas (§6.13) |
 | 26 | Retratos oficiais | 34/34, baixados e versionados; pequenos, ao lado do nome (§6.14) |
+| 27 | Decomposição paginada | 47.792 votações em 2.452 páginas de 20 — e uma guarda nova, que só existe porque há fatias (§6.15) |
 
 Acervo em **2026-09-06** (banco de 79 MB): Câmara com 6.450 votações, 1.125
 nominais; Senado com 357, das quais 117 abertas. 484.460 votos, 6.619 discursos,
@@ -1046,6 +1047,70 @@ próxima pessoa que for aumentar o retrato vai ler antes de aumentar.
 
 ---
 
+### 6.15 A decomposição, fatiada — e a guarda que a fatia exigiu
+
+A página de evidência tinha até **551 linhas numa tabela só**. Mediana de 390.
+Isso não é consultável: quem chega para conferir uma votação específica rola por
+minutos, e no telemóvel cada linha vira um cartão — 551 cartões.
+
+Passaram a ser **20 por página**. As 127 decomposições viraram **2.452 páginas**,
+a maior com 28.
+
+#### A URL antiga é a página 1
+
+A primeira fatia mantém o endereço que sempre teve — `evidencia/<eixo>-<escopo>/`
+— e as seguintes ganham `/2/`, `/3/`. Link já compartilhado continua abrindo
+onde abria, os quatro links do perfil não mudaram, e o gerador do perfil não
+precisou saber que a página virou várias.
+
+#### A guarda antiga não cobria mais o que passou a existir
+
+Havia uma guarda conferindo a decomposição contra `posicao`: mesmo `n`, mesmo
+percentual, ou não se publica. Ela roda **antes** de fatiar — e continuaria
+satisfeita se o laço de fatiamento perdesse uma linha na borda, que é o erro
+clássico de paginar.
+
+Uma votação sumida da página 11 de 21 não tem quem reclame. Por isso a segunda
+guarda: **a soma das fatias escritas é o todo apurado, ou não se gera**.
+
+Provada quebrando de propósito — `slice` encurtado em um — e ela recusou. Depois
+conferida de fora: 47.792 linhas somadas nas 2.452 páginas, contra 47.792 em
+`posicao`. Fecha.
+
+#### O texto tinha de parar de dizer o que já não era verdade
+
+A página abria com "esta página não é amostra: é a decomposição completa do
+número". Era verdade quando havia uma página. **Na terceira de 21 seria falso, e
+falso do pior jeito** — negando exatamente o que o leitor tem diante dos olhos.
+
+Passou a declarar a fatia: quantas páginas, em que ordem, e que esta traz da
+201ª à 220ª. A promessa não mudou de tamanho; mudou de lugar. A decomposição
+continua completa — ela só deixou de caber numa página.
+
+| Consequência medida | |
+|---|---|
+| Páginas do site | 1.553 → **3.881** |
+| `docs/` | 34 MB → **41 MB** |
+| Geração | ~2 s, inalterada |
+| Build do Pages | era ~6 min; esperar mais, proporcional às páginas |
+
+`EVID_POR_PAGINA` é uma constante. Se 20 se revelar apertado, 25 devolve 472
+páginas e 50 devolve 1.434 — a conta está registrada aqui para não ter de ser
+refeita.
+
+#### O rótulo do eixo encostava nos ticks
+
+Defeito separado, no mesmo lote. O rótulo do eixo e os `0% 25% 50%` têm ambos
+13px, e as linhas de base estavam a **10px** uma da outra: o descendente de um
+alcançava o topo do outro. Como os dois começam em `x0`, o "0%" caía exatamente
+sob a primeira palavra do rótulo.
+
+As duas faixas agora são constantes nomeadas — `Y_ROTULO = 18` e `Y_TICK = 46` —
+e não mais duas aritméticas independentes sobre `TOPO` que ninguém releria
+juntas. 28px separa com folga em qualquer fonte de fallback.
+
+---
+
 ---
 
 ## 7. Números medidos — ingestor × reconhecimento
@@ -1237,7 +1302,7 @@ declarado pela fonte, e há justificativa de voto ali dentro que é posição.
 ## 10. Estado do código
 
 ```
-src/                                    8.608 linhas TypeScript
+src/                                    8.731 linhas TypeScript
   db/schema.ts        872   20 tabelas, comentadas com o achado que as motivou
   db/client.ts         72   node:sqlite via sqlite-proxy + consultar() tipado
   db/migrar.ts         59   aplica migrations, controla em _migrations
@@ -1257,7 +1322,7 @@ src/                                    8.608 linhas TypeScript
   ingest/incremental.ts 154 CLI da retomada automática, Câmara e Senado
   ingest/horizonte.ts 132   de onde continuar, por etapa — testável, sem rede
   calc/posicoes.ts    576   dois eixos + evidências, recorte por tema, regime por casa, `SITE`
-  site/gerar.ts      2304   gerador do site — 1.553 páginas, busca, órbita, sitemap, CSV e as três guardas
+  site/gerar.ts      2427   gerador do site — 3.881 páginas, busca, órbita, sitemap, CSV e as quatro guardas
   site/fotos.ts        90   baixa os retratos oficiais; falha de foto não derruba
   site/slug.ts         18   nome → caminho; importável, porque gerar.ts é script
   relatorio.ts        414   verificação do acervo + invariantes
@@ -1265,14 +1330,15 @@ drizzle/                    8 migrations
 
 .github/workflows/acervo.yml         146  atualização 2×/semana, custo zero (§6.8)
 
-docs/                                    1170 linhas de camada web
+docs/                                    1229 linhas de camada web
   _layouts/default.html 79  cabeçalho, conteúdo, rodapé e etiquetas de compartilhamento
-  assets/bussola.css   841  folha única, à mão, clara e escura (§6.3)
+  assets/bussola.css   899  folha única, à mão, clara e escura (§6.3)
   assets/busca.js      251  único script do site, à mão, sem dependência (§6.5)
 ```
 
-**1.553 páginas geradas**, 4 fragmentos de busca, um CSV e 34 retratos.
-`docs/` ocupa **34 MB**, dos quais 1,6 MB são as fotos. Tudo é reescrito a cada `npm run site`; por página o peso é baixo
+**3.881 páginas geradas**, 4 fragmentos de busca, um CSV e 34 retratos.
+`docs/` ocupa **41 MB**, dos quais 1,6 MB são as fotos. O salto de 1.553 para
+3.881 é a decomposição paginada (§6.15). Tudo é reescrito a cada `npm run site`; por página o peso é baixo
 (23 KB pelo fio no pior caso), o volume está no número de páginas.
 
 O build do Pages passou de ~2 para **~6 minutos** com as 1.242 páginas de

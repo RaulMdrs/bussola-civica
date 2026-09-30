@@ -18,7 +18,7 @@ description: "Os discursos de Sanderson em 2026, com o sumário oficial e link p
 
 ## Substantivos — 11
 
-<blockquote class="evidencia discurso" id="d-4029">
+<blockquote class="evidencia discurso" id="d-4017">
 <span class="data">15 jul 2026 · 16:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Sanderson em 2026, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4028">
+<blockquote class="evidencia discurso" id="d-4016">
 <span class="data">08 jul 2026 · 18:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Sanderson em 2026, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4027">
+<blockquote class="evidencia discurso" id="d-4015">
 <span class="data">09 jun 2026 · 15:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Sanderson em 2026, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4026">
+<blockquote class="evidencia discurso" id="d-4014">
 <span class="data">19 mai 2026 · 15:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Sanderson em 2026, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4025">
+<blockquote class="evidencia discurso" id="d-4013">
 <span class="data">05 mai 2026 · 17:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Sanderson em 2026, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4023">
+<blockquote class="evidencia discurso" id="d-4011">
 <span class="data">16 abr 2026 · 12:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Sanderson em 2026, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4022">
+<blockquote class="evidencia discurso" id="d-4010">
 <span class="data">17 mar 2026 · 22:28</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Sanderson em 2026, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4021">
+<blockquote class="evidencia discurso" id="d-4009">
 <span class="data">11 mar 2026 · 17:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Sanderson em 2026, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4020">
+<blockquote class="evidencia discurso" id="d-4008">
 <span class="data">04 mar 2026 · 21:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Sanderson em 2026, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4019">
+<blockquote class="evidencia discurso" id="d-4007">
 <span class="data">04 mar 2026 · 20:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Sanderson em 2026, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4018">
+<blockquote class="evidencia discurso" id="d-4006">
 <span class="data">03 fev 2026 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -128,7 +128,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-4024">
+<blockquote class="evidencia discurso" id="d-4012">
 <span class="data">28 abr 2026 · 16:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

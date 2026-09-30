@@ -1,0 +1,60 @@
+---
+layout: default
+kind: evidencia
+title: "Marcon — Alinhamento com o governo federal, Mérito (página 4)"
+description: "A decomposição completa do número de Marcon: 401 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
+---
+
+# Alinhamento com o governo federal
+
+<p class="subtitulo"><b><a href="../../../">Marcon</a></b> · PT · deputado federal · escopo <b>Mérito</b></p>
+
+<div class="interrompe">
+<h4>A conta inteira, votação por votação</h4>
+<p><b>94,5%</b> é <b>379</b> coincidências em
+<b>401</b> votações computáveis — as outras 22 estão
+aqui também. Nada foi selecionado: a decomposição é completa, e está
+repartida em <b>21 páginas</b> de até 20 votações,
+da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
+<b>80ª</b>.</p>
+</div>
+
+> **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
+> se o voto foi igual ou diferente da referência daquele eixo. A referência
+> está em cada linha, e o texto da votação é o da fonte, sem edição.
+
+| Data | Votação | Referência | Voto | | Fonte |
+|---|---|---|---|---|---|
+| 18 nov 2025 | Aprovada a Emenda de Plenário nº 25. Sim: 349; Não: 40; Abstenção: 1; Total: 390. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2579832-105](../../../../../votacoes/2579832-105/) |
+| 18 nov 2025 | Rejeitada a Preferência. Sim: 156; Não: 306; Total: 462. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2579832-61](../../../../../votacoes/2579832-61/) |
+| 18 nov 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 5.582, de 2025, adotado pelo relator da Comissão de Segurança Pública e Combate ao Crime Organizado, ressalvados os destaques. Sim: 370; Não: 110; Abstenção: 3; Total: 483. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2579832-62](../../../../../votacoes/2579832-62/) |
+| 18 nov 2025 | Rejeitada a Emenda de Plenário nº 33. Sim: 142; Não: 298; Abstenção: 1; Total: 441. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2579832-95](../../../../../votacoes/2579832-95/) |
+| 18 nov 2025 | Mantido o texto. Sim: 298; Não: 109; Abstenção: 1; Total: 408. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2579832-96](../../../../../votacoes/2579832-96/) |
+| 18 nov 2025 | Rejeitada a preferência. Sim: 107; Não: 298; Abstenção: 2; Total: 407. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2579832-99](../../../../../votacoes/2579832-99/) |
+| 12 nov 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 18, de 2021, adotada pelo relator da Comissão de Saúde, ressalvado o destaque. Sim: 348; Não: 100; Abstenção: 1; Total: 449. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2270325-88](../../../../../votacoes/2270325-88/) |
+| 11 nov 2025 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 124, de 2022, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 411; Não: 3; Total: 414. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2481858-53](../../../../../votacoes/2481858-53/) |
+| 05 nov 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 347, de 2003, adotado pelo relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvado o destaque. Sim: 427; Não: 1; Total: 428. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [106701-223](../../../../../votacoes/106701-223/) |
+| 05 nov 2025 | Aprovada a Emenda de Plenário n. 7. Sim: 269; Não: 154; Total: 423. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [106701-227](../../../../../votacoes/106701-227/) |
+| 05 nov 2025 | Aprovada a Emenda Aglutinativa nº 1. Sim: 325; Não: 94; Total: 419. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2157806-168](../../../../../votacoes/2157806-168/) |
+| 05 nov 2025 | Mantido o texto. Sim: 327; Não: 98; Total: 425. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2157806-177](../../../../../votacoes/2157806-177/) |
+| 05 nov 2025 | Mantido o texto. Sim: 295; Não: 118; Total: 413. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2448069-50](../../../../../votacoes/2448069-50/) |
+| 04 nov 2025 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 39, de 2022. Sim: 417; Não: 6; Abstenção: 1; Total: 424. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2122682-86](../../../../../votacoes/2122682-86/) |
+| 04 nov 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 8.889, de 2017, adotada pelo relator da Comissão Especial, ressalvados os destaques. Sim: 330; Não: 118; Abstenção: 3; Total: 451. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2157806-137](../../../../../votacoes/2157806-137/) |
+| 04 nov 2025 | Aprovado o Projeto de Lei nº 4.750, de 2025. Sim: 299; Não: 119; Abstenção: 4; Total: 422. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2564274-37](../../../../../votacoes/2564274-37/) |
+| 04 nov 2025 | Mantido o texto. Sim: 377; Não: 50; Abstenção: 2; Total: 429. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [408349-216](../../../../../votacoes/408349-216/) |
+| 03 nov 2025 | Aprovado o Projeto de Lei Complementar nº 204, de 2025, ressalvado o destaque. Sim: 360; Não: 23; Abstenção: 2; Total: 385. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2576234-34](../../../../../votacoes/2576234-34/) |
+| 03 nov 2025 | Mantido o texto. Sim: 387; Não: 30; Abstenção: 1; Total: 418. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2576234-41](../../../../../votacoes/2576234-41/) |
+| 30 out 2025 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 169, de 2019. Sim: 386; Não: 15; Abstenção: 1; Total: 402. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2225224-117](../../../../../votacoes/2225224-117/) |
+{: .t-evid}
+
+<nav class="paginacao" aria-label="Páginas da decomposição">
+<a class="passo" href="../3/" rel="prev">← Anteriores</a>
+<span class="paginas"><a href="../">1</a><a href="../2/">2</a><a href="../3/">3</a><b aria-current="page">4</b><a href="../5/">5</a><a href="../6/">6</a><span class="salto">…</span><a href="../21/">21</a></span>
+<a class="passo" href="../5/" rel="next">Próximas →</a>
+</nav>
+
+O identificador da última coluna é o da votação na fonte oficial, e o
+link abre a página dela neste site — com a chamada nominal da bancada e
+o endereço do registro na origem. Nada nesta página é
+interpretação: são votos registrados e a referência contra a qual cada um
+foi comparado.

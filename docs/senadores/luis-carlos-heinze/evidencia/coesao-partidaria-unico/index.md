@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Luis Carlos Heinze — Coesão com o próprio partido, Todas as votações abertas"
-description: "A decomposição completa: todas as 80 votações que compõem o número de Luis Carlos Heinze, uma por linha, com link para a fonte."
+description: "A decomposição completa do número de Luis Carlos Heinze: 80 votações em 4 páginas, uma por linha, com link para a fonte. Esta traz da 1ª à 20ª."
 ---
 
 # Coesão com o próprio partido
@@ -13,8 +13,10 @@ description: "A decomposição completa: todas as 80 votações que compõem o n
 <h4>A conta inteira, votação por votação</h4>
 <p><b>87,5%</b> é <b>70</b> coincidências em
 <b>80</b> votações computáveis — as outras 10 estão
-aqui também. Esta página não é amostra: é a decomposição completa do
-número, e some ou cresce junto com ele.</p>
+aqui também. Nada foi selecionado: a decomposição é completa, e está
+repartida em <b>4 páginas</b> de até 20 votações,
+da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
+<b>20ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -43,67 +45,13 @@ número, e some ou cresce junto com ele.</p>
 | 30 set 2025 | Votação nominal da Emenda nº 587 ao Projeto de Lei Complementar nº 108, de 2024, destacada. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7014](../../../../votacoes/7014/) |
 | 24 set 2025 | Votação nominal do Projeto de Lei Complementar nº 168, de 2025, nos termos dos pareceres, ressalvados os destaques. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7012](../../../../votacoes/7012/) |
 | 02 set 2025 | Votação nominal do PLP nº 192/2023, nos termos dos pareceres, com adequações redacionais do Relator. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7007](../../../../votacoes/7007/) |
-| 02 set 2025 | Votação nominal da Expressão do §19 do art. 165 da Constituição, constante do art. 1º da PEC nº 66/2023, destacada. | Maioria do partido: nao (0 sim / 7 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [7008](../../../../votacoes/7008/) |
-| 02 set 2025 | Votação nominal da Proposta de Emenda à Constituição nº 66, de 2023 (2º turno). | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7009](../../../../votacoes/7009/) |
-| 20 ago 2025 | Votação nominal do Projeto de Lei Complementar nº 58, de 2025, nos termos do parecer. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7006](../../../../votacoes/7006/) |
-| 16 jul 2025 | Votação nominal do Projeto de Lei Complementar nº 234, de 2024, nos termos do parecer. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6964](../../../../votacoes/6964/) |
-| 16 jul 2025 | Votação nominal da PEC nº 66/2023, nos termos do parecer, ressalvados os destaques (1º turno). | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6965](../../../../votacoes/6965/) |
-| 02 jul 2025 | Votação nominal do Projeto de Lei Complementar nº 167, de 2024, nos termos do parecer de Plenário. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6955](../../../../votacoes/6955/) |
-| 01 jul 2025 | Votação nominal do Art. 2º do Projeto de Lei de Conversão nº 2, de 2025, destacado. | Maioria do partido: nao (0 sim / 2 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6954](../../../../votacoes/6954/) |
-| 25 jun 2025 | (Votação nominal do Requerimento nº 451, de 2025, que solicita urgência para o Projeto de Lei Complementar nº 177, de 2023). | Maioria do partido: sim (4 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [6950](../../../../votacoes/6950/) |
-| 25 jun 2025 | Votação nominal do Requerimento nº 451, de 2025, que solicita urgência para o Projeto de Lei Complementar nº 177, de 2023 | Maioria do partido: sim (4 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [6953](../../../../votacoes/6953/) |
-| 29 abr 2025 | Votação nominal do Projeto de Lei Complementar nº 48, de 2023, nos termos do parecer de Plenário. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6927](../../../../votacoes/6927/) |
-| 01 abr 2025 | Votação nominal da Emenda nº 1 (Substitutivo) ao PL nº 2.088/2023, com subemendas, nos termos do parecer da CAE. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6924](../../../../votacoes/6924/) |
-| 19 mar 2025 | Votação nominal do Substitutivo da Câmara dos Deputados ao PLP nº 22/2025, nos termos do parecer. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6922](../../../../votacoes/6922/) |
-| 18 mar 2025 | Votação nominal da decisão da Presidência na Questão de Ordem apresentada pelo Senador Alessandro Vieira. | Maioria do partido: sim (3 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6921](../../../../votacoes/6921/) |
-| 11 mar 2025 | Votação nominal da Proposta de Emenda à Constituição nº 18, de 2024, nos termos do parecer (1º Turno). | Maioria do partido: sim (4 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6919](../../../../votacoes/6919/) |
-| 11 mar 2025 | Votação nominal da Proposta de Emenda à Constituição nº 18, de 2024 (2º Turno). | Maioria do partido: sim (4 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6920](../../../../votacoes/6920/) |
-| 19 fev 2025 | Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei Complementar nº 22, de 2025, nos termos do parecer. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6918](../../../../votacoes/6918/) |
-| 19 dez 2024 | Votação nominal do Projeto de Lei Complementar nº 210, de 2024, nos termos do parecer, ressalvados os destaques. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6910](../../../../votacoes/6910/) |
-| 19 dez 2024 | Votação nominal da Emenda nº 14 ao Projeto de Lei nº 210, de 2024, destacada. | Maioria do partido: sim (3 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6911](../../../../votacoes/6911/) |
-| 19 dez 2024 | Votação nominal da Emenda nº 16 ao Projeto de Lei nº 210, de 2024, destacada. | Maioria do partido: sim (2 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6912](../../../../votacoes/6912/) |
-| 19 dez 2024 | Votação nominal da Emenda nº 20 ao Projeto de Lei nº 210, de 2024, destacada. | Maioria do partido: sim (3 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6913](../../../../votacoes/6913/) |
-| 19 dez 2024 | Votação nominal da Proposta de Emenda à Constituição nº 54, de 2024, nos termos do parecer (1º Turno), ressalvado o destaque. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6914](../../../../votacoes/6914/) |
-| 19 dez 2024 | Votação nominal do §11 do art. 37 da CF, constante da Emenda nº1 à Proposta de Emenda à Constituição 54/2024, destacado. | Maioria do partido: sim (2 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6915](../../../../votacoes/6915/) |
-| 19 dez 2024 | Votação nominal da Proposta de Emenda à Constituição nº 54, de 2024 (2º Turno). | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6916](../../../../votacoes/6916/) |
-| 19 dez 2024 | Votação nominal do Projeto de Lei nº 4.614, de 2024, nos termos do parecer. | Maioria do partido: nao (0 sim / 5 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6917](../../../../votacoes/6917/) |
-| 18 dez 2024 | Votação nominal do Projeto de Lei Complementar nº 92, de 2024, nos termos do parecer. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6908](../../../../votacoes/6908/) |
-| 18 dez 2024 | Votação nominal da Emenda nº 1 ao Projeto de Lei nº 4.932, de 2024, destacada. | Maioria do partido: nao (0 sim / 4 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6909](../../../../votacoes/6909/) |
-| 17 dez 2024 | Votação nominal do Substitutivo da Câmara dos Deputados ao Projeto de Lei Complementar nº 121/2024, nos termos do parecer. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6905](../../../../votacoes/6905/) |
-| 17 dez 2024 | Votação nominal do Projeto de Lei Complementar nº 143, de 2024, nos termos do parecer. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6906](../../../../votacoes/6906/) |
-| 12 dez 2024 | Votação nominal da Emenda nº 2.171(Substitutivo) ao PLP 68/24 com Emendas e supressão, nos termos dos pareceres, ressalvados os destaques. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6899](../../../../votacoes/6899/) |
-| 12 dez 2024 | Votação nominal da Emenda nº 2.203 ao Substitutivo do Relator ao Projeto de Lei Complementar nº 68, de 2024, destacada. | Maioria do partido: nao (0 sim / 4 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6900](../../../../votacoes/6900/) |
-| 12 dez 2024 | Votação nominal da Emenda nº 2.201 ao Substitutivo do Relator ao Projeto de Lei Complementar nº 68, de 2024, destacada. | Maioria do partido: sim (3 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6901](../../../../votacoes/6901/) |
-| 12 dez 2024 | Votação nominal da Emenda nº 2.223 ao Substitutivo do Relator ao Projeto de Lei Complementar nº 68, de 2024, destacada. | Maioria do partido: sim (4 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [6902](../../../../votacoes/6902/) |
-| 18 nov 2024 | Votação nominal dos dispositivos do art. 12 do Substitutivo do Relator ao PLP nº 175/2024, destacados. | Maioria do partido: nao (0 sim / 5 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6879](../../../../votacoes/6879/) |
-| 18 nov 2024 | Votação nominal do §4º do art. 4º do Substitutivo do Relator ao PLP nº 175/2024, destacado. | Maioria do partido: nao (0 sim / 4 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6880](../../../../votacoes/6880/) |
-| 18 nov 2024 | Votação nominal da Subemenda ao Substitutivo do Relator ao PLP nº 175/2024, destacada. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6881](../../../../votacoes/6881/) |
-| 12 nov 2024 | Votação nominal da Emenda nº 58 ao Substitutivo da Relatora ao Projeto de Lei nº 182, de 2024, destacada. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6877](../../../../votacoes/6877/) |
-| 12 nov 2024 | Votação nominal da Emenda nº 45 (Substitutivo) ao PLP nº 175/2024, nos termos do parecer, ressalvados os destaques. | Maioria do partido: sim (3 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [6878](../../../../votacoes/6878/) |
-| 14 ago 2024 | Votação nominal da Emenda nº 76 (Substitutivo) ao PLP nº 121/2024, nos termos do parecer. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6863](../../../../votacoes/6863/) |
-| 14 ago 2024 | Votação nominal da Emenda nº 7 (Substitutivo) à PEC nº 66/2023, nos termos dos pareceres (1º Turno). | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6867](../../../../votacoes/6867/) |
-| 14 ago 2024 | Votação nominal da Proposta de Emenda à Constituição nº 66, de 2023 (2º Turno). | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6868](../../../../votacoes/6868/) |
-| 14 ago 2024 | Votação nominal da Proposta de Emenda à Constituição nº 9, de 2023, nos termos do parecer (1º turno). | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6873](../../../../votacoes/6873/) |
-| 14 ago 2024 | Votação nominal da Proposta de Emenda à Constituição nº 9, de 2023 (2º turno). | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6874](../../../../votacoes/6874/) |
-| 20 dez 2023 | Votação nominal da Emenda nº 48 à Medida Provisória nº 1.185, de 2023, destacada. | Maioria do partido: sim (3 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6817](../../../../votacoes/6817/) |
-| 12 dez 2023 | Votação nominal do Requerimento nº 1.103, de 2023 - Solicita o encerramento da discussão do PL nº 3.626/2023. | Maioria do partido: sim (3 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [6796](../../../../votacoes/6796/) |
-| 12 dez 2023 | Votação nominal da Emenda nº 147 ao Projeto de Lei nº 3.626, de 2023, destacada. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6798](../../../../votacoes/6798/) |
-| 12 dez 2023 | Votação nominal do Requerimento nº 1.103, de 2023 - Solicita o encerramento da discussão do PL nº 3.626/2023. | Maioria do partido: sim (3 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [6799](../../../../votacoes/6799/) |
-| 12 dez 2023 | Votação nominal da Emenda nº 157 ao Projeto de Lei nº 3.626, de 2023, destacada. | Maioria do partido: nao (1 sim / 2 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [6800](../../../../votacoes/6800/) |
-| 29 nov 2023 | Votação nominal do Projeto de Lei Complementar nº 243, de 2023, nos termos dos Pareceres. | Maioria do partido: sim (4 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6783](../../../../votacoes/6783/) |
-| 21 nov 2023 | Votação nominal do Requerimento nº 1.039, de 2023, de Líderes, solicitando calendário especial para a PEC nº 8/2021. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6779](../../../../votacoes/6779/) |
-| 14 nov 2023 | Votação nominal do Projeto de Lei Complementar nº 205, de 2023, nos termos do Parecer. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6778](../../../../votacoes/6778/) |
-| 07 nov 2023 | Votação nominal do RQS 988/2023, que solicita calendário especial para a Proposta de Emenda à Constituição nº 45, de 2019. | Maioria do partido: sim (3 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [6772](../../../../votacoes/6772/) |
-| 10 out 2023 | Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei nº 2.721, de 2023, nos termos do Parecer. | Maioria do partido: nao (2 sim / 3 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6760](../../../../votacoes/6760/) |
-| 04 out 2023 | Votação nominal do Projeto de Lei Complementar nº 136, de 2023, nos termos dos pareceres. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6759](../../../../votacoes/6759/) |
-| 30 ago 2023 | Votação nominal do Projeto de Lei nº 2.384/2023 e das Emendas nºs 23 e 26, de redação. | Maioria do partido: nao (0 sim / 4 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6745](../../../../votacoes/6745/) |
-| 21 jun 2023 | Votação nominal do Projeto de Lei Complementar nº 39, de 2023,e das emendas, nos termos do parecer, ressalvados os destaques. | Maioria do partido: nao (1 sim / 4 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6714](../../../../votacoes/6714/) |
-| 21 jun 2023 | Votação nominal da Emenda nº 83 ao Projeto de Lei Complementar nº 93, de 2023, destacada. | Maioria do partido: sim (4 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6715](../../../../votacoes/6715/) |
-| 21 jun 2023 | Votação nominal da Emenda nº 89 ao Projeto de Lei Complementar nº 93, de 2023, destacada. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6716](../../../../votacoes/6716/) |
-| 21 jun 2023 | Votação nominal da Emenda nº 101 ao Projeto de Lei Complementar nº 93, de 2023, destacada. | Maioria do partido: nao (0 sim / 3 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6717](../../../../votacoes/6717/) |
-| 20 jun 2023 | Votação nominal da Emenda nº 131 à Medida Provisória nº 1.165, de 2023, destacada. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6709](../../../../votacoes/6709/) |
-| 19 abr 2023 | Votação nominal do Projeto de Resolução nº 46, de 2023, nos termos do Parecer. | Maioria do partido: sim (4 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6676](../../../../votacoes/6676/) |
 {: .t-evid}
+
+<nav class="paginacao" aria-label="Páginas da decomposição">
+<span class="passo inerte">← Anteriores</span>
+<span class="paginas"><b aria-current="page">1</b><a href="2/">2</a><a href="3/">3</a><a href="4/">4</a></span>
+<a class="passo" href="2/" rel="next">Próximas →</a>
+</nav>
 
 O identificador da última coluna é o da votação na fonte oficial, e o
 link abre a página dela neste site — com a chamada nominal da bancada e

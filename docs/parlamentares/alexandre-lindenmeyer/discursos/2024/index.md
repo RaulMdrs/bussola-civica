@@ -18,7 +18,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2024, com o sumário ofic
 
 ## Substantivos — 10
 
-<blockquote class="evidencia discurso" id="d-4575">
+<blockquote class="evidencia discurso" id="d-4563">
 <span class="data">19 dez 2024 · 11:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2024, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4574">
+<blockquote class="evidencia discurso" id="d-4562">
 <span class="data">15 out 2024 · 15:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2024, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4573">
+<blockquote class="evidencia discurso" id="d-4561">
 <span class="data">10 jul 2024 · 09:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2024, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4572">
+<blockquote class="evidencia discurso" id="d-4560">
 <span class="data">17 abr 2024 · 13:16</span>
 <div class="corpo">
 <p class="tipo">COMISSÃO GERAL</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2024, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4571">
+<blockquote class="evidencia discurso" id="d-4559">
 <span class="data">21 mar 2024 · 13:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2024, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4570">
+<blockquote class="evidencia discurso" id="d-4558">
 <span class="data">12 mar 2024 · 22:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2024, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4569">
+<blockquote class="evidencia discurso" id="d-4557">
 <span class="data">28 fev 2024 · 22:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2024, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4568">
+<blockquote class="evidencia discurso" id="d-4556">
 <span class="data">22 fev 2024 · 10:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2024, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4567">
+<blockquote class="evidencia discurso" id="d-4555">
 <span class="data">06 fev 2024 · 20:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2024, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4566">
+<blockquote class="evidencia discurso" id="d-4554">
 <span class="data">06 fev 2024 · 19:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

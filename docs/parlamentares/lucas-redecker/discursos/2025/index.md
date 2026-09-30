@@ -18,7 +18,7 @@ description: "Os discursos de Lucas Redecker em 2025, com o sumário oficial e l
 
 ## Substantivos — 11
 
-<blockquote class="evidencia discurso" id="d-3507">
+<blockquote class="evidencia discurso" id="d-3499">
 <span class="data">03 dez 2025 · 15:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Lucas Redecker em 2025, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3506">
+<blockquote class="evidencia discurso" id="d-3498">
 <span class="data">14 out 2025 · 15:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Lucas Redecker em 2025, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3505">
+<blockquote class="evidencia discurso" id="d-3497">
 <span class="data">08 out 2025 · 14:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Lucas Redecker em 2025, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3504">
+<blockquote class="evidencia discurso" id="d-3496">
 <span class="data">07 out 2025 · 14:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Lucas Redecker em 2025, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3503">
+<blockquote class="evidencia discurso" id="d-3495">
 <span class="data">24 set 2025 · 15:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Lucas Redecker em 2025, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3502">
+<blockquote class="evidencia discurso" id="d-3494">
 <span class="data">13 ago 2025 · 14:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Lucas Redecker em 2025, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3501">
+<blockquote class="evidencia discurso" id="d-3493">
 <span class="data">02 jul 2025 · 14:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Lucas Redecker em 2025, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3500">
+<blockquote class="evidencia discurso" id="d-3492">
 <span class="data">28 mai 2025 · 13:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Lucas Redecker em 2025, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3499">
+<blockquote class="evidencia discurso" id="d-3491">
 <span class="data">08 abr 2025 · 17:08</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Lucas Redecker em 2025, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3498">
+<blockquote class="evidencia discurso" id="d-3490">
 <span class="data">02 abr 2025 · 16:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Lucas Redecker em 2025, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3497">
+<blockquote class="evidencia discurso" id="d-3489">
 <span class="data">25 mar 2025 · 16:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

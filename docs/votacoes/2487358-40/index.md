@@ -17,7 +17,7 @@ description: "Como a bancada gaúcha votou em 25 jun 2025: Rejeitado o Requerime
 | Resultado | rejeitada |
 | Matéria | PRC 27/2025 |
 | Natureza | requerimento — urgência, pauta, adiamento |
-| Temas da matéria | Homenagens e Datas Comemorativas · Processo Legislativo e Atuação Parlamentar |
+| Temas da matéria | [Administração Pública](../../temas/administracao-publica/) · Homenagens e Datas Comemorativas |
 | Orientação do Governo | **bancada liberada** |
 {: .t-docs}
 

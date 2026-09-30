@@ -896,7 +896,67 @@ const ROTULO_EIXO: Record<string, string> = {
   coesao_partidaria: "Coesão com o próprio partido",
 };
 
-function gerarEvidencia(p: Parlamentar, x: Posicao): string {
+/**
+ * Votações por página da decomposição.
+ *
+ * A decomposição completa continua completa — ela só deixou de caber numa
+ * página só. A maior tinha 551 linhas, e uma tabela de 551 linhas não é
+ * consultável: o leitor que chega para conferir uma votação específica rola por
+ * minutos, e no telemóvel cada linha vira um cartão.
+ */
+const EVID_POR_PAGINA = 20;
+
+/**
+ * Navegação entre as fatias. Links estáticos, sem script — como o resto do site.
+ *
+ * A janela numérica existe porque a maior decomposição tem 28 páginas, e
+ * "próxima" 27 vezes não é navegação. Primeira e última sempre aparecem: são
+ * as duas que alguém procura de fato — o começo, e o fim da série.
+ */
+function navegacaoEvidencia(atual: number, total: number): string {
+  if (total < 2) return "";
+
+  // `../` de uma página interna volta para a primeira; da primeira, `2/` desce.
+  const href = (n: number) => (n === 1 ? (atual === 1 ? "./" : "../") : atual === 1 ? `${n}/` : `../${n}/`);
+
+  const numeros = new Set([1, total, atual]);
+  for (let d = 1; d <= 2; d++) {
+    if (atual - d > 1) numeros.add(atual - d);
+    if (atual + d < total) numeros.add(atual + d);
+  }
+  const ordenados = [...numeros].sort((a, b) => a - b);
+
+  let nav = `<nav class="paginacao" aria-label="Páginas da decomposição">\n`;
+  nav += atual > 1
+    ? `<a class="passo" href="${href(atual - 1)}" rel="prev">← Anteriores</a>\n`
+    : `<span class="passo inerte">← Anteriores</span>\n`;
+
+  nav += `<span class="paginas">`;
+  ordenados.forEach((n, i) => {
+    const anterior = ordenados[i - 1];
+    if (anterior !== undefined && n > anterior + 1) nav += `<span class="salto">…</span>`;
+    nav += n === atual
+      ? `<b aria-current="page">${n}</b>`
+      : `<a href="${href(n)}">${n}</a>`;
+  });
+  nav += `</span>\n`;
+
+  nav += atual < total
+    ? `<a class="passo" href="${href(atual + 1)}" rel="next">Próximas →</a>\n`
+    : `<span class="passo inerte">Próximas →</span>\n`;
+  nav += `</nav>\n`;
+  return nav;
+}
+
+/**
+ * A decomposição de um número, fatiada em páginas de `EVID_POR_PAGINA`.
+ *
+ * Devolve uma página por fatia. A primeira mantém a URL que sempre teve —
+ * `evidencia/<eixo>-<escopo>/` — e as seguintes ganham `/2/`, `/3/`: link já
+ * compartilhado continua abrindo onde abria, e o perfil não precisa saber que
+ * a página virou várias.
+ */
+function gerarEvidencia(p: Parlamentar, x: Posicao): { sufixo: string; md: string }[] {
   const linhas = evidenciaCompleta(p.id, x.eixo, x.escopo);
   const coincidiu = linhas.filter((l) => l.concordou).length;
   const divergiu = linhas.length - coincidiu;
@@ -906,6 +966,10 @@ function gerarEvidencia(p: Parlamentar, x: Posicao): string {
   // a consulta daqui e a de `posicoes.ts` divergirem — filtro diferente, período
   // diferente, evidência perdida —, o site publicaria uma decomposição que não
   // fecha com o percentual exibido ao lado dela, em silêncio. Melhor não gerar.
+  //
+  // Conferida sobre o conjunto **inteiro**, antes de fatiar. Conferir por página
+  // não conferiria nada: 20 linhas nunca reproduzem o percentual do todo, e a
+  // guarda que se adapta à fatia é guarda que não pega o erro que existe.
   if (linhas.length !== x.n || pct(coincidiu / linhas.length) !== pct(x.valor)) {
     throw new Error(
       `decomposição não fecha para ${p.nome} · ${x.eixo} · ${x.escopo}: ` +
@@ -914,51 +978,100 @@ function gerarEvidencia(p: Parlamentar, x: Posicao): string {
     );
   }
 
-  let md = frontMatter(
-    `${p.nome} — ${ROTULO_EIXO[x.eixo]}, ${ESCOPO_ROTULO[x.escopo] ?? x.escopo}`,
-    `A decomposição completa: todas as ${linhas.length} votações que compõem o número de ${p.nome}, uma por linha, com link para a fonte.`,
-    "evidencia",
-  );
+  const total = Math.max(1, Math.ceil(linhas.length / EVID_POR_PAGINA));
+  const paginas: { sufixo: string; md: string }[] = [];
+  let emitidas = 0;
 
-  md += `# ${ROTULO_EIXO[x.eixo]}\n\n`;
-  md += `<p class="subtitulo"><b><a href="../../">${esc(p.nome)}</a></b>`;
-  md += p.sigla ? ` · ${esc(p.sigla)}` : "";
-  md += ` · ${casa} · escopo <b>${ESCOPO_ROTULO[x.escopo] ?? x.escopo}</b></p>\n\n`;
+  for (let i = 0; i < total; i++) {
+    const numero = i + 1;
+    const primeira = numero === 1;
+    const fatia = linhas.slice(i * EVID_POR_PAGINA, (i + 1) * EVID_POR_PAGINA);
+    const de = i * EVID_POR_PAGINA + 1;
+    const ate = de + fatia.length - 1;
+    // Uma página interna está um nível mais fundo, e todo caminho relativo daqui
+    // sobe um a mais. Relativo e não absoluto pela mesma razão dos retratos: o
+    // endereço público não fica escrito em lugar nenhum além de `SITE`.
+    const aoPerfil = primeira ? "../../" : "../../../";
+    const asVotacoes = primeira ? "../../../../" : "../../../../../";
 
-  md += `<div class="interrompe">\n`;
-  md += `<h4>A conta inteira, votação por votação</h4>\n`;
-  md += `<p><b>${pct(x.valor)}%</b> é <b>${coincidiu}</b> coincidências em\n`;
-  md += `<b>${linhas.length}</b> votações computáveis — as outras ${divergiu} estão\n`;
-  md += `aqui também. Esta página não é amostra: é a decomposição completa do\n`;
-  md += `número, e some ou cresce junto com ele.</p>\n`;
-  md += `</div>\n\n`;
+    let md = frontMatter(
+      `${p.nome} — ${ROTULO_EIXO[x.eixo]}, ${ESCOPO_ROTULO[x.escopo] ?? x.escopo}` +
+        (primeira ? "" : ` (página ${numero})`),
+      total > 1
+        ? `A decomposição completa do número de ${p.nome}: ${linhas.length} votações em ${total} páginas, uma por linha, com link para a fonte. Esta traz da ${de}ª à ${ate}ª.`
+        : `A decomposição completa: todas as ${linhas.length} votações que compõem o número de ${p.nome}, uma por linha, com link para a fonte.`,
+      "evidencia",
+    );
 
-  md += `> **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:\n`;
-  md += `> se o voto foi igual ou diferente da referência daquele eixo. A referência\n`;
-  md += `> está em cada linha, e o texto da votação é o da fonte, sem edição.\n\n`;
+    md += `# ${ROTULO_EIXO[x.eixo]}\n\n`;
+    md += `<p class="subtitulo"><b><a href="${aoPerfil}">${esc(p.nome)}</a></b>`;
+    md += p.sigla ? ` · ${esc(p.sigla)}` : "";
+    md += ` · ${casa} · escopo <b>${ESCOPO_ROTULO[x.escopo] ?? x.escopo}</b></p>\n\n`;
 
-  md += `| Data | Votação | Referência | Voto | | Fonte |\n|---|---|---|---|---|---|\n`;
-  for (const l of linhas) {
-    const marca = l.concordou
-      ? `<span class="coincidiu">coincidiu</span>`
-      : `<span class="divergiu">divergiu</span>`;
-    md += `| ${esc(dataHumana(l.data))} | ${esc(umaLinha(l.descricao))} `;
-    md += `| ${esc(umaLinha(l.referencia))} `;
-    md += `| <b>${esc(l.voto)}</b> | ${marca} `;
-    // Aponta para a nossa página da votação, não direto para a API: lá o
-    // leitor vê quem mais votou aquilo, e o link oficial está no alto dela.
-    // A cadeia até a fonte continua inteira, com um passo a mais que informa.
-    md += `| [${esc(l.idExterno)}](../../../../votacoes/${esc(l.idExterno)}/) |\n`;
+    md += `<div class="interrompe">\n`;
+    md += `<h4>A conta inteira, votação por votação</h4>\n`;
+    md += `<p><b>${pct(x.valor)}%</b> é <b>${coincidiu}</b> coincidências em\n`;
+    md += `<b>${linhas.length}</b> votações computáveis — as outras ${divergiu} estão\n`;
+    if (total > 1) {
+      // O texto tem de dizer a verdade da página em que está. "Esta página não
+      // é amostra" era verdade quando havia uma página; na terceira de 22 seria
+      // falso, e falso do jeito pior: negando justamente o que o leitor vê.
+      md += `aqui também. Nada foi selecionado: a decomposição é completa, e está\n`;
+      md += `repartida em <b>${total} páginas</b> de até ${EVID_POR_PAGINA} votações,\n`;
+      md += `da mais recente para a mais antiga. Esta traz da <b>${de}ª</b> à\n`;
+      md += `<b>${ate}ª</b>.</p>\n`;
+    } else {
+      md += `aqui também. Esta página não é amostra: é a decomposição completa do\n`;
+      md += `número, e some ou cresce junto com ele.</p>\n`;
+    }
+    md += `</div>\n\n`;
+
+    md += `> **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:\n`;
+    md += `> se o voto foi igual ou diferente da referência daquele eixo. A referência\n`;
+    md += `> está em cada linha, e o texto da votação é o da fonte, sem edição.\n\n`;
+
+    md += `| Data | Votação | Referência | Voto | | Fonte |\n|---|---|---|---|---|---|\n`;
+    for (const l of fatia) {
+      const marca = l.concordou
+        ? `<span class="coincidiu">coincidiu</span>`
+        : `<span class="divergiu">divergiu</span>`;
+      md += `| ${esc(dataHumana(l.data))} | ${esc(umaLinha(l.descricao))} `;
+      md += `| ${esc(umaLinha(l.referencia))} `;
+      md += `| <b>${esc(l.voto)}</b> | ${marca} `;
+      // Aponta para a nossa página da votação, não direto para a API: lá o
+      // leitor vê quem mais votou aquilo, e o link oficial está no alto dela.
+      // A cadeia até a fonte continua inteira, com um passo a mais que informa.
+      md += `| [${esc(l.idExterno)}](${asVotacoes}votacoes/${esc(l.idExterno)}/) |\n`;
+    }
+    md += `{: .t-evid}\n\n`;
+
+    md += navegacaoEvidencia(numero, total);
+    if (total > 1) md += `\n`;
+
+    md += `O identificador da última coluna é o da votação na fonte oficial, e o\n`;
+    md += `link abre a página dela neste site — com a chamada nominal da bancada e\n`;
+    md += `o endereço do registro na origem. Nada nesta página é\n`;
+    md += `interpretação: são votos registrados e a referência contra a qual cada um\n`;
+    md += `foi comparado.\n`;
+
+    paginas.push({ sufixo: primeira ? "" : `/${numero}`, md });
+    emitidas += fatia.length;
   }
-  md += `{: .t-evid}\n\n`;
 
-  md += `O identificador da última coluna é o da votação na fonte oficial, e o\n`;
-  md += `link abre a página dela neste site — com a chamada nominal da bancada e\n`;
-  md += `o endereço do registro na origem. Nada nesta página é\n`;
-  md += `interpretação: são votos registrados e a referência contra a qual cada um\n`;
-  md += `foi comparado.\n`;
+  // Segunda guarda, que só existe porque agora há fatias. A de cima confere a
+  // consulta contra `posicao` **antes** de repartir, e ficaria satisfeita mesmo
+  // se o laço abaixo perdesse uma linha na borda — o erro clássico de paginar.
+  // Aqui se confere o que efetivamente foi escrito: a soma das fatias é o todo,
+  // ou não se publica. Uma votação sumida de uma página do meio não tem quem
+  // reclame, e é exatamente por isso que precisa de máquina conferindo.
+  if (emitidas !== linhas.length) {
+    throw new Error(
+      `fatiamento perdeu evidência de ${p.nome} · ${x.eixo} · ${x.escopo}: ` +
+        `${emitidas} linhas escritas em ${total} páginas contra ${linhas.length} apuradas`,
+    );
+  }
 
-  return md;
+  return paginas;
 }
 
 /**
@@ -1723,7 +1836,14 @@ function gerarOrbita(
   const L = 900;
   const x0 = ESQ;
   const x1 = L - DIR;
-  const TOPO = eixo ? 52 : 60;
+  // Duas faixas de texto no alto, e elas não podiam ficar onde estavam.
+  // O rótulo do eixo e os ticks têm ambos 13px, e as linhas de base estavam a
+  // 10px uma da outra: o descendente do rótulo encostava no topo de "0% 25%",
+  // e como os dois começam em `x0`, o "0%" caía exatamente sob a primeira
+  // palavra. 28px separa as faixas com folga em qualquer fonte de fallback.
+  const Y_ROTULO = 18;
+  const Y_TICK = 46;
+  const TOPO = eixo ? Y_TICK + 20 : 60;
   const LINHA = 30;  // uma linha por parlamentar — nada se empilha
   const GRUPO = 14;
   const px = (v: number) => x0 + v * (x1 - x0);
@@ -1744,10 +1864,10 @@ function gerarOrbita(
     svg += `<g class="regua">\n`;
     for (let v = 0; v <= 100; v += 25) {
       const x = px(v / 100).toFixed(1);
-      svg += `<line x1="${x}" y1="${TOPO - 14}" x2="${x}" y2="${H - 12}" class="grade"/>\n`;
-      svg += `<text x="${x}" y="${TOPO - 22}" class="tick">${v}%</text>\n`;
+      svg += `<line x1="${x}" y1="${Y_TICK + 8}" x2="${x}" y2="${H - 12}" class="grade"/>\n`;
+      svg += `<text x="${x}" y="${Y_TICK}" class="tick">${v}%</text>\n`;
     }
-    svg += `<text x="${x0}" y="20" class="eixo-rot">${esc(eixo.rotulo)} →</text>\n`;
+    svg += `<text x="${x0}" y="${Y_ROTULO}" class="eixo-rot">${esc(eixo.rotulo)} →</text>\n`;
     svg += `</g>\n`;
   } else {
     // A ausência do eixo é desenhada, não só escrita: o leitor vê a dimensão
@@ -2254,6 +2374,7 @@ for (const v of votacoes) escrever(caminhoVotacao(v.idExterno), gerarVotacao(v))
 escrever("parlamentares", gerarIndiceParlamentares());
 let paginasDeDiscurso = 0;
 let paginasDeEvidencia = 0;
+let decomposicoes = 0;
 for (const p of parlamentares) {
   escrever(`parlamentares/${slug(p.nome)}`, gerarPerfil(p));
   for (const { ano } of anosDeDiscurso(p.id)) {
@@ -2261,11 +2382,12 @@ for (const p of parlamentares) {
     paginasDeDiscurso++;
   }
   for (const x of posicoesDe(p.id).filter((y) => !y.tema)) {
-    escrever(
-      `parlamentares/${slug(p.nome)}/evidencia/${slugEvidencia(x.eixo, x.escopo)}`,
-      gerarEvidencia(p, x),
-    );
-    paginasDeEvidencia++;
+    const base = `parlamentares/${slug(p.nome)}/evidencia/${slugEvidencia(x.eixo, x.escopo)}`;
+    for (const { sufixo, md } of gerarEvidencia(p, x)) {
+      escrever(base + sufixo, md);
+      paginasDeEvidencia++;
+    }
+    decomposicoes++;
   }
 }
 
@@ -2273,11 +2395,12 @@ escrever("senadores", gerarIndiceSenadores(senadores));
 for (const p of senadores) {
   escrever(`senadores/${slug(p.nome)}`, gerarPerfilSenador(p));
   for (const x of posicoesDe(p.id).filter((y) => !y.tema)) {
-    escrever(
-      `senadores/${slug(p.nome)}/evidencia/${slugEvidencia(x.eixo, x.escopo)}`,
-      gerarEvidencia(p, x),
-    );
-    paginasDeEvidencia++;
+    const base = `senadores/${slug(p.nome)}/evidencia/${slugEvidencia(x.eixo, x.escopo)}`;
+    for (const { sufixo, md } of gerarEvidencia(p, x)) {
+      escrever(base + sufixo, md);
+      paginasDeEvidencia++;
+    }
+    decomposicoes++;
   }
   for (const { ano } of anosDeDiscurso(p.id)) {
     escrever(`senadores/${slug(p.nome)}/discursos/${ano}`, gerarDiscursosAno(p, ano));
@@ -2294,7 +2417,7 @@ const urlsNoSitemap = escreverSitemap();
 console.log(`site gerado em ${SAIDA}/`);
 console.log(`  ${parlamentares.length} deputados · ${senadores.length} senadores · ${temas.length} temas · 3 índices`);
 console.log(`  ${paginasDeDiscurso} páginas de discurso (uma por parlamentar e ano)`);
-console.log(`  ${paginasDeEvidencia} páginas de evidência (uma por parlamentar, eixo e escopo)`);
+console.log(`  ${paginasDeEvidencia} páginas de evidência — ${decomposicoes} decomposições, fatiadas de ${EVID_POR_PAGINA} em ${EVID_POR_PAGINA}`);
 console.log(`  ${votacoes.length} páginas de votação (chamada nominal do recorte)`);
 console.log(`  sitemap: ${urlsNoSitemap} URLs · robots.txt · base ${BASE_SITE}`);
 console.log(`  dados/posicoes.csv: ${linhasNoCsv} linhas`);
