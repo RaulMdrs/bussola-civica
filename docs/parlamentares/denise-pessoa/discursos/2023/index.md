@@ -18,7 +18,7 @@ description: "Os discursos de Denise Pessôa em 2023, com o sumário oficial e l
 
 ## Substantivos — 10
 
-<blockquote class="evidencia discurso" id="d-4493">
+<blockquote class="evidencia discurso" id="d-4505">
 <span class="data">12 dez 2023 · 17:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Denise Pessôa em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4492">
+<blockquote class="evidencia discurso" id="d-4504">
 <span class="data">10 out 2023 · 16:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Denise Pessôa em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4491">
+<blockquote class="evidencia discurso" id="d-4503">
 <span class="data">12 set 2023 · 17:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Denise Pessôa em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4490">
+<blockquote class="evidencia discurso" id="d-4502">
 <span class="data">02 ago 2023 · 15:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Denise Pessôa em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4489">
+<blockquote class="evidencia discurso" id="d-4501">
 <span class="data">02 mai 2023 · 22:28</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Denise Pessôa em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4488">
+<blockquote class="evidencia discurso" id="d-4500">
 <span class="data">28 mar 2023 · 16:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Denise Pessôa em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4487">
+<blockquote class="evidencia discurso" id="d-4499">
 <span class="data">22 mar 2023 · 15:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Denise Pessôa em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4486">
+<blockquote class="evidencia discurso" id="d-4498">
 <span class="data">28 fev 2023 · 21:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Denise Pessôa em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4485">
+<blockquote class="evidencia discurso" id="d-4497">
 <span class="data">14 fev 2023 · 16:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Denise Pessôa em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4484">
+<blockquote class="evidencia discurso" id="d-4496">
 <span class="data">08 fev 2023 · 17:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

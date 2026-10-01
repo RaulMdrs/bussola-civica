@@ -18,7 +18,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2025, com o sumário ofic
 
 ## Substantivos — 14
 
-<blockquote class="evidencia discurso" id="d-4577">
+<blockquote class="evidencia discurso" id="d-4589">
 <span class="data">08 out 2025 · 14:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2025, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4576">
+<blockquote class="evidencia discurso" id="d-4588">
 <span class="data">23 set 2025 · 20:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2025, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4575">
+<blockquote class="evidencia discurso" id="d-4587">
 <span class="data">18 set 2025 · 10:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2025, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4574">
+<blockquote class="evidencia discurso" id="d-4586">
 <span class="data">02 set 2025 · 18:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2025, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4573">
+<blockquote class="evidencia discurso" id="d-4585">
 <span class="data">01 jul 2025 · 20:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2025, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4572">
+<blockquote class="evidencia discurso" id="d-4584">
 <span class="data">12 jun 2025 · 10:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2025, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4571">
+<blockquote class="evidencia discurso" id="d-4583">
 <span class="data">10 jun 2025 · 14:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2025, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4570">
+<blockquote class="evidencia discurso" id="d-4582">
 <span class="data">20 mai 2025 · 17:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2025, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4569">
+<blockquote class="evidencia discurso" id="d-4581">
 <span class="data">24 abr 2025 · 10:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2025, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4568">
+<blockquote class="evidencia discurso" id="d-4580">
 <span class="data">22 abr 2025 · 21:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2025, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4567">
+<blockquote class="evidencia discurso" id="d-4579">
 <span class="data">22 abr 2025 · 21:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2025, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4566">
+<blockquote class="evidencia discurso" id="d-4578">
 <span class="data">19 mar 2025 · 21:12</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2025, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4565">
+<blockquote class="evidencia discurso" id="d-4577">
 <span class="data">11 mar 2025 · 20:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2025, com o sumário ofic
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4564">
+<blockquote class="evidencia discurso" id="d-4576">
 <span class="data">26 fev 2025 · 19:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

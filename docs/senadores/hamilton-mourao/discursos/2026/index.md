@@ -18,7 +18,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 
 ## Substantivos — 19
 
-<blockquote class="evidencia discurso" id="d-13385">
+<blockquote class="evidencia discurso" id="d-6065">
 <span class="data">15 jul 2026</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-13384">
+<blockquote class="evidencia discurso" id="d-6064">
 <span class="data">15 jul 2026</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-13383">
+<blockquote class="evidencia discurso" id="d-6063">
 <span class="data">15 jul 2026</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11898">
+<blockquote class="evidencia discurso" id="d-6066">
 <span class="data">07 jul 2026</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11899">
+<blockquote class="evidencia discurso" id="d-6067">
 <span class="data">30 jun 2026</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11901">
+<blockquote class="evidencia discurso" id="d-6069">
 <span class="data">17 jun 2026</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11900">
+<blockquote class="evidencia discurso" id="d-6068">
 <span class="data">17 jun 2026</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11903">
+<blockquote class="evidencia discurso" id="d-6071">
 <span class="data">16 jun 2026</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11902">
+<blockquote class="evidencia discurso" id="d-6070">
 <span class="data">16 jun 2026</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11904">
+<blockquote class="evidencia discurso" id="d-6072">
 <span class="data">09 jun 2026</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11905">
+<blockquote class="evidencia discurso" id="d-6073">
 <span class="data">28 mai 2026</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11906">
+<blockquote class="evidencia discurso" id="d-6074">
 <span class="data">27 mai 2026</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11907">
+<blockquote class="evidencia discurso" id="d-6075">
 <span class="data">26 mai 2026</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11908">
+<blockquote class="evidencia discurso" id="d-6076">
 <span class="data">12 mai 2026</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11910">
+<blockquote class="evidencia discurso" id="d-6078">
 <span class="data">07 abr 2026</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11909">
+<blockquote class="evidencia discurso" id="d-6077">
 <span class="data">07 abr 2026</span>
 <div class="corpo">
 <p class="tipo">Discurso proferido da Presidência</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11911">
+<blockquote class="evidencia discurso" id="d-6079">
 <span class="data">25 mar 2026</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11912">
+<blockquote class="evidencia discurso" id="d-6080">
 <span class="data">10 mar 2026</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Hamilton Mourão em 2026, com o sumário oficial e
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-11913">
+<blockquote class="evidencia discurso" id="d-6081">
 <span class="data">25 fev 2026</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>

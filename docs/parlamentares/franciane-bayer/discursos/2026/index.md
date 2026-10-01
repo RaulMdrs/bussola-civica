@@ -18,7 +18,7 @@ description: "Os discursos de Franciane Bayer em 2026, com o sumário oficial e 
 
 ## Substantivos — 2
 
-<blockquote class="evidencia discurso" id="d-4353">
+<blockquote class="evidencia discurso" id="d-4365">
 <span class="data">10 mar 2026 · 20:20</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Franciane Bayer em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4352">
+<blockquote class="evidencia discurso" id="d-4364">
 <span class="data">25 fev 2026 · 15:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

@@ -53,7 +53,7 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">94,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>34</b></span> |
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">94,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>17</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">93,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>157</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">93,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>117</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">93,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>116</b></span> |
 {: .t-temas}
 
 <span class="aviso-n">amostra pequena</span> marca temas com menos de
@@ -147,16 +147,16 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-13173">
+<blockquote class="evidencia discurso" id="d-6612">
 <span class="data">02 set 2026 · 18:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
-<p>A Deputada reafirmou compromisso com o povo brasileiro e com a classe trabalhadora, ao defender que a luta transformou a vida e que a mobilização política havia sido decisiva para a vitória da Proposta de Emenda à Constituição nº 221, de 2019, que trata da redução da jornada de trabalho (fim da escala 6 por 1), na Comissão de Constituição, Justiça e Cidadania - CCJ do Senado. Além disso, ressaltou a necessidade de construir políticas com e para as pessoas, com alternativas reais para problemas concretos.</p>
+<p>A Deputada reafirmou compromisso com o povo brasileiro e com a classe trabalhadora, ao defender que a luta transformou a vida e que a mobilização política havia sido decisiva para a vitória da Proposta de Emenda à Constituição nº 221, de 2019, que trata da redução da jornada de trabalho, na CCJC do Senado. Além disso, ressaltou a necessidade de construir políticas com e para as pessoas, com alternativas reais para problemas concretos, e destacou o orgulho pelo projeto que se tornou relatório, renovando a disposição de seguir na luta.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220555/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-13172">
+<blockquote class="evidencia discurso" id="d-6611">
 <span class="data">01 set 2026 · 15:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -165,7 +165,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4675">
+<blockquote class="evidencia discurso" id="d-4687">
 <span class="data">27 mai 2026 · 22:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -174,7 +174,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4673">
+<blockquote class="evidencia discurso" id="d-4685">
 <span class="data">26 mai 2026 · 16:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -183,7 +183,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4672">
+<blockquote class="evidencia discurso" id="d-4684">
 <span class="data">20 mai 2026 · 14:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

@@ -52,7 +52,7 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Economia](../../temas/economia/) | <span class="valor">25,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>63</b></span> |
 | [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">24,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>37</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">24,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>37</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">21,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>122</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">21,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>121</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">21,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>19</b></span> <span class="aviso-n">amostra pequena</span> |
 {: .t-temas}
 
@@ -147,7 +147,7 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-5508">
+<blockquote class="evidencia discurso" id="d-5520">
 <span class="data">07 jul 2026 · 16:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -156,7 +156,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5507">
+<blockquote class="evidencia discurso" id="d-5519">
 <span class="data">17 jun 2026 · 17:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -165,7 +165,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5506">
+<blockquote class="evidencia discurso" id="d-5518">
 <span class="data">02 jun 2026 · 17:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -174,7 +174,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5505">
+<blockquote class="evidencia discurso" id="d-5517">
 <span class="data">19 mai 2026 · 19:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -183,7 +183,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5503">
+<blockquote class="evidencia discurso" id="d-5515">
 <span class="data">24 mar 2026 · 18:56</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>

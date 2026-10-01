@@ -52,7 +52,7 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">54,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>42</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">52,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>48</b></span> |
 | [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">44,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>27</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">43,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>125</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">42,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>124</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">31,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>19</b></span> <span class="aviso-n">amostra pequena</span> |
 {: .t-temas}
 
@@ -147,7 +147,7 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-4353">
+<blockquote class="evidencia discurso" id="d-4365">
 <span class="data">10 mar 2026 · 20:20</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -156,7 +156,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4352">
+<blockquote class="evidencia discurso" id="d-4364">
 <span class="data">25 fev 2026 · 15:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -165,7 +165,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4350">
+<blockquote class="evidencia discurso" id="d-4362">
 <span class="data">11 nov 2025 · 17:32</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -174,7 +174,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4349">
+<blockquote class="evidencia discurso" id="d-4361">
 <span class="data">11 nov 2025 · 14:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -183,7 +183,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4348">
+<blockquote class="evidencia discurso" id="d-4360">
 <span class="data">05 nov 2025 · 19:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

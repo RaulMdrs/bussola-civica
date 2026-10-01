@@ -18,7 +18,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 
 ## Substantivos — 28
 
-<blockquote class="evidencia discurso" id="d-2588">
+<blockquote class="evidencia discurso" id="d-2593">
 <span class="data">19 dez 2024 · 12:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2587">
+<blockquote class="evidencia discurso" id="d-2592">
 <span class="data">18 dez 2024 · 14:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2585">
+<blockquote class="evidencia discurso" id="d-2590">
 <span class="data">04 dez 2024 · 14:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2582">
+<blockquote class="evidencia discurso" id="d-2587">
 <span class="data">27 nov 2024 · 14:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2579">
+<blockquote class="evidencia discurso" id="d-2584">
 <span class="data">19 nov 2024 · 14:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2577">
+<blockquote class="evidencia discurso" id="d-2582">
 <span class="data">12 nov 2024 · 20:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2576">
+<blockquote class="evidencia discurso" id="d-2581">
 <span class="data">05 nov 2024 · 15:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2572">
+<blockquote class="evidencia discurso" id="d-2577">
 <span class="data">15 out 2024 · 15:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2565">
+<blockquote class="evidencia discurso" id="d-2570">
 <span class="data">10 set 2024 · 15:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2564">
+<blockquote class="evidencia discurso" id="d-2569">
 <span class="data">15 ago 2024 · 11:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2563">
+<blockquote class="evidencia discurso" id="d-2568">
 <span class="data">13 ago 2024 · 14:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2562">
+<blockquote class="evidencia discurso" id="d-2567">
 <span class="data">03 jul 2024 · 14:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2561">
+<blockquote class="evidencia discurso" id="d-2566">
 <span class="data">19 jun 2024 · 16:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2560">
+<blockquote class="evidencia discurso" id="d-2565">
 <span class="data">05 jun 2024 · 15:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2559">
+<blockquote class="evidencia discurso" id="d-2564">
 <span class="data">05 jun 2024 · 15:20</span>
 <div class="corpo">
 <p class="tipo">FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2558">
+<blockquote class="evidencia discurso" id="d-2563">
 <span class="data">04 jun 2024 · 16:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2557">
+<blockquote class="evidencia discurso" id="d-2562">
 <span class="data">23 mai 2024 · 10:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2556">
+<blockquote class="evidencia discurso" id="d-2561">
 <span class="data">22 mai 2024 · 20:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2552">
+<blockquote class="evidencia discurso" id="d-2557">
 <span class="data">21 mai 2024 · 16:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2551">
+<blockquote class="evidencia discurso" id="d-2556">
 <span class="data">14 mai 2024 · 22:28</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2550">
+<blockquote class="evidencia discurso" id="d-2555">
 <span class="data">14 mai 2024 · 17:44</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2549">
+<blockquote class="evidencia discurso" id="d-2554">
 <span class="data">23 abr 2024 · 17:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2548">
+<blockquote class="evidencia discurso" id="d-2553">
 <span class="data">17 abr 2024 · 16:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2547">
+<blockquote class="evidencia discurso" id="d-2552">
 <span class="data">10 abr 2024 · 15:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2546">
+<blockquote class="evidencia discurso" id="d-2551">
 <span class="data">09 abr 2024 · 17:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2543">
+<blockquote class="evidencia discurso" id="d-2548">
 <span class="data">05 mar 2024 · 21:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2542">
+<blockquote class="evidencia discurso" id="d-2547">
 <span class="data">28 fev 2024 · 15:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Heitor Schuch em 2024, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2540">
+<blockquote class="evidencia discurso" id="d-2545">
 <span class="data">21 fev 2024 · 19:20</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -281,7 +281,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-2586">
+<blockquote class="evidencia discurso" id="d-2591">
 <span class="data">17 dez 2024 · 19:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -290,7 +290,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2584">
+<blockquote class="evidencia discurso" id="d-2589">
 <span class="data">27 nov 2024 · 20:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -299,7 +299,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2583">
+<blockquote class="evidencia discurso" id="d-2588">
 <span class="data">27 nov 2024 · 19:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -308,7 +308,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2581">
+<blockquote class="evidencia discurso" id="d-2586">
 <span class="data">19 nov 2024 · 19:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -317,7 +317,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2580">
+<blockquote class="evidencia discurso" id="d-2585">
 <span class="data">19 nov 2024 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -326,7 +326,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2578">
+<blockquote class="evidencia discurso" id="d-2583">
 <span class="data">13 nov 2024 · 18:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -335,7 +335,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2575">
+<blockquote class="evidencia discurso" id="d-2580">
 <span class="data">15 out 2024 · 19:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -344,7 +344,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2574">
+<blockquote class="evidencia discurso" id="d-2579">
 <span class="data">15 out 2024 · 19:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -353,7 +353,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2573">
+<blockquote class="evidencia discurso" id="d-2578">
 <span class="data">15 out 2024 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -362,7 +362,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2571">
+<blockquote class="evidencia discurso" id="d-2576">
 <span class="data">11 set 2024 · 19:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -371,7 +371,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2570">
+<blockquote class="evidencia discurso" id="d-2575">
 <span class="data">11 set 2024 · 19:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -380,7 +380,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2569">
+<blockquote class="evidencia discurso" id="d-2574">
 <span class="data">11 set 2024 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -389,7 +389,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2568">
+<blockquote class="evidencia discurso" id="d-2573">
 <span class="data">11 set 2024 · 18:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -398,7 +398,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2567">
+<blockquote class="evidencia discurso" id="d-2572">
 <span class="data">10 set 2024 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -407,7 +407,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2566">
+<blockquote class="evidencia discurso" id="d-2571">
 <span class="data">10 set 2024 · 18:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -416,7 +416,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2555">
+<blockquote class="evidencia discurso" id="d-2560">
 <span class="data">21 mai 2024 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -425,7 +425,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2554">
+<blockquote class="evidencia discurso" id="d-2559">
 <span class="data">21 mai 2024 · 17:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -434,7 +434,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2553">
+<blockquote class="evidencia discurso" id="d-2558">
 <span class="data">21 mai 2024 · 17:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -443,7 +443,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2545">
+<blockquote class="evidencia discurso" id="d-2550">
 <span class="data">12 mar 2024 · 18:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -452,7 +452,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2544">
+<blockquote class="evidencia discurso" id="d-2549">
 <span class="data">12 mar 2024 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -461,7 +461,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2541">
+<blockquote class="evidencia discurso" id="d-2546">
 <span class="data">21 fev 2024 · 19:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

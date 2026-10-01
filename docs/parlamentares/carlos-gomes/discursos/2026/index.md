@@ -18,7 +18,7 @@ description: "Os discursos de Carlos Gomes em 2026, com o sumário oficial e lin
 
 ## Substantivos — 4
 
-<blockquote class="evidencia discurso" id="d-2505">
+<blockquote class="evidencia discurso" id="d-2510">
 <span class="data">08 jul 2026 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Carlos Gomes em 2026, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2504">
+<blockquote class="evidencia discurso" id="d-2509">
 <span class="data">08 jul 2026 · 18:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Carlos Gomes em 2026, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2503">
+<blockquote class="evidencia discurso" id="d-2508">
 <span class="data">08 jul 2026 · 16:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Carlos Gomes em 2026, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2502">
+<blockquote class="evidencia discurso" id="d-2507">
 <span class="data">17 mar 2026 · 15:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

@@ -50,7 +50,7 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">32,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>31</b></span> |
 | [Economia](../../temas/economia/) | <span class="valor">29,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>64</b></span> |
 | [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">29,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>186</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">24,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>122</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">24,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>121</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">20,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>50</b></span> |
 | [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">17,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>41</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">14,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>28</b></span> |
@@ -147,7 +147,7 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-4017">
+<blockquote class="evidencia discurso" id="d-4029">
 <span class="data">15 jul 2026 · 16:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -156,7 +156,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4016">
+<blockquote class="evidencia discurso" id="d-4028">
 <span class="data">08 jul 2026 · 18:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -165,7 +165,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4015">
+<blockquote class="evidencia discurso" id="d-4027">
 <span class="data">09 jun 2026 · 15:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -174,7 +174,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4014">
+<blockquote class="evidencia discurso" id="d-4026">
 <span class="data">19 mai 2026 · 15:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -183,7 +183,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4013">
+<blockquote class="evidencia discurso" id="d-4025">
 <span class="data">05 mai 2026 · 17:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

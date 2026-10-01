@@ -18,7 +18,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 
 ## Substantivos — 77
 
-<blockquote class="evidencia discurso" id="d-4005">
+<blockquote class="evidencia discurso" id="d-4017">
 <span class="data">16 dez 2025 · 15:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4002">
+<blockquote class="evidencia discurso" id="d-4014">
 <span class="data">26 nov 2025 · 14:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4000">
+<blockquote class="evidencia discurso" id="d-4012">
 <span class="data">12 nov 2025 · 17:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3999">
+<blockquote class="evidencia discurso" id="d-4011">
 <span class="data">11 nov 2025 · 14:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3998">
+<blockquote class="evidencia discurso" id="d-4010">
 <span class="data">04 nov 2025 · 12:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3997">
+<blockquote class="evidencia discurso" id="d-4009">
 <span class="data">28 out 2025 · 16:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3996">
+<blockquote class="evidencia discurso" id="d-4008">
 <span class="data">14 out 2025 · 15:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3995">
+<blockquote class="evidencia discurso" id="d-4007">
 <span class="data">09 out 2025 · 13:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3994">
+<blockquote class="evidencia discurso" id="d-4006">
 <span class="data">09 out 2025 · 12:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3993">
+<blockquote class="evidencia discurso" id="d-4005">
 <span class="data">07 out 2025 · 14:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3992">
+<blockquote class="evidencia discurso" id="d-4004">
 <span class="data">30 set 2025 · 14:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3991">
+<blockquote class="evidencia discurso" id="d-4003">
 <span class="data">30 set 2025 · 14:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3990">
+<blockquote class="evidencia discurso" id="d-4002">
 <span class="data">23 set 2025 · 14:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3989">
+<blockquote class="evidencia discurso" id="d-4001">
 <span class="data">18 set 2025 · 11:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3988">
+<blockquote class="evidencia discurso" id="d-4000">
 <span class="data">17 set 2025 · 18:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3987">
+<blockquote class="evidencia discurso" id="d-3999">
 <span class="data">17 set 2025 · 16:36</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3986">
+<blockquote class="evidencia discurso" id="d-3998">
 <span class="data">16 set 2025 · 15:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3985">
+<blockquote class="evidencia discurso" id="d-3997">
 <span class="data">02 set 2025 · 16:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3984">
+<blockquote class="evidencia discurso" id="d-3996">
 <span class="data">26 ago 2025 · 15:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3983">
+<blockquote class="evidencia discurso" id="d-3995">
 <span class="data">13 ago 2025 · 18:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3982">
+<blockquote class="evidencia discurso" id="d-3994">
 <span class="data">07 ago 2025 · 14:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3979">
+<blockquote class="evidencia discurso" id="d-3991">
 <span class="data">16 jul 2025 · 22:24</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3978">
+<blockquote class="evidencia discurso" id="d-3990">
 <span class="data">16 jul 2025 · 21:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3977">
+<blockquote class="evidencia discurso" id="d-3989">
 <span class="data">08 jul 2025 · 14:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3976">
+<blockquote class="evidencia discurso" id="d-3988">
 <span class="data">02 jul 2025 · 16:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3975">
+<blockquote class="evidencia discurso" id="d-3987">
 <span class="data">18 jun 2025 · 10:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3974">
+<blockquote class="evidencia discurso" id="d-3986">
 <span class="data">11 jun 2025 · 16:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3973">
+<blockquote class="evidencia discurso" id="d-3985">
 <span class="data">02 jun 2025 · 16:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3972">
+<blockquote class="evidencia discurso" id="d-3984">
 <span class="data">28 mai 2025 · 15:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3971">
+<blockquote class="evidencia discurso" id="d-3983">
 <span class="data">26 mai 2025 · 22:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3969">
+<blockquote class="evidencia discurso" id="d-3981">
 <span class="data">26 mai 2025 · 21:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3968">
+<blockquote class="evidencia discurso" id="d-3980">
 <span class="data">26 mai 2025 · 20:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3964">
+<blockquote class="evidencia discurso" id="d-3976">
 <span class="data">26 mai 2025 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3963">
+<blockquote class="evidencia discurso" id="d-3975">
 <span class="data">20 mai 2025 · 18:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3962">
+<blockquote class="evidencia discurso" id="d-3974">
 <span class="data">20 mai 2025 · 16:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3961">
+<blockquote class="evidencia discurso" id="d-3973">
 <span class="data">20 mai 2025 · 14:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3960">
+<blockquote class="evidencia discurso" id="d-3972">
 <span class="data">07 mai 2025 · 17:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -351,7 +351,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3959">
+<blockquote class="evidencia discurso" id="d-3971">
 <span class="data">06 mai 2025 · 22:24</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -360,7 +360,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3958">
+<blockquote class="evidencia discurso" id="d-3970">
 <span class="data">06 mai 2025 · 15:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -369,7 +369,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3957">
+<blockquote class="evidencia discurso" id="d-3969">
 <span class="data">05 mai 2025 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -378,7 +378,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3956">
+<blockquote class="evidencia discurso" id="d-3968">
 <span class="data">29 abr 2025 · 16:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -387,7 +387,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3955">
+<blockquote class="evidencia discurso" id="d-3967">
 <span class="data">15 abr 2025 · 15:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -396,7 +396,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3954">
+<blockquote class="evidencia discurso" id="d-3966">
 <span class="data">09 abr 2025 · 18:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -405,7 +405,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3953">
+<blockquote class="evidencia discurso" id="d-3965">
 <span class="data">09 abr 2025 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -414,7 +414,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3952">
+<blockquote class="evidencia discurso" id="d-3964">
 <span class="data">08 abr 2025 · 20:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -423,7 +423,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3951">
+<blockquote class="evidencia discurso" id="d-3963">
 <span class="data">01 abr 2025 · 16:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -432,7 +432,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3950">
+<blockquote class="evidencia discurso" id="d-3962">
 <span class="data">26 mar 2025 · 21:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -441,7 +441,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3949">
+<blockquote class="evidencia discurso" id="d-3961">
 <span class="data">26 mar 2025 · 21:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -450,7 +450,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3948">
+<blockquote class="evidencia discurso" id="d-3960">
 <span class="data">26 mar 2025 · 20:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -459,7 +459,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3947">
+<blockquote class="evidencia discurso" id="d-3959">
 <span class="data">18 mar 2025 · 18:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -468,7 +468,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3946">
+<blockquote class="evidencia discurso" id="d-3958">
 <span class="data">12 mar 2025 · 20:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -477,7 +477,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3945">
+<blockquote class="evidencia discurso" id="d-3957">
 <span class="data">12 mar 2025 · 15:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -486,7 +486,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3944">
+<blockquote class="evidencia discurso" id="d-3956">
 <span class="data">11 mar 2025 · 17:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -495,7 +495,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3943">
+<blockquote class="evidencia discurso" id="d-3955">
 <span class="data">11 mar 2025 · 16:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -504,7 +504,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3942">
+<blockquote class="evidencia discurso" id="d-3954">
 <span class="data">26 fev 2025 · 20:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -513,7 +513,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3941">
+<blockquote class="evidencia discurso" id="d-3953">
 <span class="data">26 fev 2025 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -522,7 +522,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3940">
+<blockquote class="evidencia discurso" id="d-3952">
 <span class="data">26 fev 2025 · 14:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -531,7 +531,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3939">
+<blockquote class="evidencia discurso" id="d-3951">
 <span class="data">25 fev 2025 · 21:48</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -540,7 +540,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3937">
+<blockquote class="evidencia discurso" id="d-3949">
 <span class="data">25 fev 2025 · 20:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -549,7 +549,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3936">
+<blockquote class="evidencia discurso" id="d-3948">
 <span class="data">25 fev 2025 · 18:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -558,7 +558,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3935">
+<blockquote class="evidencia discurso" id="d-3947">
 <span class="data">25 fev 2025 · 15:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -567,7 +567,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3934">
+<blockquote class="evidencia discurso" id="d-3946">
 <span class="data">19 fev 2025 · 17:12</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -576,7 +576,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3933">
+<blockquote class="evidencia discurso" id="d-3945">
 <span class="data">18 fev 2025 · 22:00</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -585,7 +585,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3932">
+<blockquote class="evidencia discurso" id="d-3944">
 <span class="data">18 fev 2025 · 21:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -594,7 +594,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3931">
+<blockquote class="evidencia discurso" id="d-3943">
 <span class="data">18 fev 2025 · 19:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -603,7 +603,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3930">
+<blockquote class="evidencia discurso" id="d-3942">
 <span class="data">18 fev 2025 · 14:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -612,7 +612,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3929">
+<blockquote class="evidencia discurso" id="d-3941">
 <span class="data">13 fev 2025 · 10:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -621,7 +621,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3928">
+<blockquote class="evidencia discurso" id="d-3940">
 <span class="data">12 fev 2025 · 20:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -630,7 +630,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3927">
+<blockquote class="evidencia discurso" id="d-3939">
 <span class="data">11 fev 2025 · 19:24</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -639,7 +639,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3924">
+<blockquote class="evidencia discurso" id="d-3936">
 <span class="data">11 fev 2025 · 15:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -648,7 +648,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3923">
+<blockquote class="evidencia discurso" id="d-3935">
 <span class="data">05 fev 2025 · 20:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -657,7 +657,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3922">
+<blockquote class="evidencia discurso" id="d-3934">
 <span class="data">05 fev 2025 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -666,7 +666,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3921">
+<blockquote class="evidencia discurso" id="d-3933">
 <span class="data">05 fev 2025 · 15:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -675,7 +675,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3920">
+<blockquote class="evidencia discurso" id="d-3932">
 <span class="data">05 fev 2025 · 15:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -684,7 +684,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3919">
+<blockquote class="evidencia discurso" id="d-3931">
 <span class="data">04 fev 2025 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -693,7 +693,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3918">
+<blockquote class="evidencia discurso" id="d-3930">
 <span class="data">04 fev 2025 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -702,7 +702,7 @@ description: "Os discursos de Sanderson em 2025, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3917">
+<blockquote class="evidencia discurso" id="d-3929">
 <span class="data">04 fev 2025 · 17:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -722,7 +722,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-4004">
+<blockquote class="evidencia discurso" id="d-4016">
 <span class="data">10 dez 2025 · 03:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -731,7 +731,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4003">
+<blockquote class="evidencia discurso" id="d-4015">
 <span class="data">10 dez 2025 · 01:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -740,7 +740,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4001">
+<blockquote class="evidencia discurso" id="d-4013">
 <span class="data">18 nov 2025 · 20:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -749,7 +749,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3981">
+<blockquote class="evidencia discurso" id="d-3993">
 <span class="data">17 jul 2025 · 03:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -758,7 +758,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3980">
+<blockquote class="evidencia discurso" id="d-3992">
 <span class="data">17 jul 2025 · 02:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -767,7 +767,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3970">
+<blockquote class="evidencia discurso" id="d-3982">
 <span class="data">26 mai 2025 · 21:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -776,7 +776,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3967">
+<blockquote class="evidencia discurso" id="d-3979">
 <span class="data">26 mai 2025 · 20:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -785,7 +785,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3966">
+<blockquote class="evidencia discurso" id="d-3978">
 <span class="data">26 mai 2025 · 19:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -794,7 +794,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3965">
+<blockquote class="evidencia discurso" id="d-3977">
 <span class="data">26 mai 2025 · 19:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -803,7 +803,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3938">
+<blockquote class="evidencia discurso" id="d-3950">
 <span class="data">25 fev 2025 · 21:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -812,7 +812,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3926">
+<blockquote class="evidencia discurso" id="d-3938">
 <span class="data">11 fev 2025 · 18:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -821,7 +821,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3925">
+<blockquote class="evidencia discurso" id="d-3937">
 <span class="data">11 fev 2025 · 17:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

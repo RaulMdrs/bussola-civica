@@ -18,7 +18,7 @@ description: "Os discursos de Afonso Motta em 2023, com o sumário oficial e lin
 
 ## Substantivos — 19
 
-<blockquote class="evidencia discurso" id="d-2423">
+<blockquote class="evidencia discurso" id="d-2428">
 <span class="data">19 dez 2023 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Afonso Motta em 2023, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2422">
+<blockquote class="evidencia discurso" id="d-2427">
 <span class="data">13 dez 2023 · 17:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Afonso Motta em 2023, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2418">
+<blockquote class="evidencia discurso" id="d-2423">
 <span class="data">10 out 2023 · 15:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Afonso Motta em 2023, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2417">
+<blockquote class="evidencia discurso" id="d-2422">
 <span class="data">12 set 2023 · 20:44</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Afonso Motta em 2023, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2416">
+<blockquote class="evidencia discurso" id="d-2421">
 <span class="data">12 set 2023 · 20:20</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Afonso Motta em 2023, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2415">
+<blockquote class="evidencia discurso" id="d-2420">
 <span class="data">01 ago 2023 · 19:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Afonso Motta em 2023, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2414">
+<blockquote class="evidencia discurso" id="d-2419">
 <span class="data">14 jun 2023 · 16:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Afonso Motta em 2023, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2413">
+<blockquote class="evidencia discurso" id="d-2418">
 <span class="data">31 mai 2023 · 15:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Afonso Motta em 2023, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2412">
+<blockquote class="evidencia discurso" id="d-2417">
 <span class="data">24 mai 2023 · 16:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Afonso Motta em 2023, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2411">
+<blockquote class="evidencia discurso" id="d-2416">
 <span class="data">17 mai 2023 · 19:08</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Afonso Motta em 2023, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2410">
+<blockquote class="evidencia discurso" id="d-2415">
 <span class="data">16 mai 2023 · 17:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Afonso Motta em 2023, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2409">
+<blockquote class="evidencia discurso" id="d-2414">
 <span class="data">12 abr 2023 · 19:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Afonso Motta em 2023, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2408">
+<blockquote class="evidencia discurso" id="d-2413">
 <span class="data">11 abr 2023 · 16:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Afonso Motta em 2023, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2407">
+<blockquote class="evidencia discurso" id="d-2412">
 <span class="data">22 mar 2023 · 16:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Afonso Motta em 2023, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2406">
+<blockquote class="evidencia discurso" id="d-2411">
 <span class="data">15 mar 2023 · 18:28</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Afonso Motta em 2023, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2405">
+<blockquote class="evidencia discurso" id="d-2410">
 <span class="data">15 mar 2023 · 18:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Afonso Motta em 2023, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2404">
+<blockquote class="evidencia discurso" id="d-2409">
 <span class="data">15 mar 2023 · 17:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Afonso Motta em 2023, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2403">
+<blockquote class="evidencia discurso" id="d-2408">
 <span class="data">15 mar 2023 · 17:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Afonso Motta em 2023, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2402">
+<blockquote class="evidencia discurso" id="d-2407">
 <span class="data">01 mar 2023 · 19:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -200,7 +200,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-2421">
+<blockquote class="evidencia discurso" id="d-2426">
 <span class="data">29 nov 2023 · 20:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -209,7 +209,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2420">
+<blockquote class="evidencia discurso" id="d-2425">
 <span class="data">08 nov 2023 · 17:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -218,7 +218,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2419">
+<blockquote class="evidencia discurso" id="d-2424">
 <span class="data">25 out 2023 · 21:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

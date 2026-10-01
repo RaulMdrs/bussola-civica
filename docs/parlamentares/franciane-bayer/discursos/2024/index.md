@@ -18,7 +18,7 @@ description: "Os discursos de Franciane Bayer em 2024, com o sumário oficial e 
 
 ## Substantivos — 5
 
-<blockquote class="evidencia discurso" id="d-4335">
+<blockquote class="evidencia discurso" id="d-4347">
 <span class="data">12 jun 2024 · 15:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Franciane Bayer em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4334">
+<blockquote class="evidencia discurso" id="d-4346">
 <span class="data">24 abr 2024 · 14:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Franciane Bayer em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4333">
+<blockquote class="evidencia discurso" id="d-4345">
 <span class="data">17 abr 2024 · 16:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Franciane Bayer em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4332">
+<blockquote class="evidencia discurso" id="d-4344">
 <span class="data">13 mar 2024 · 16:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Franciane Bayer em 2024, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4331">
+<blockquote class="evidencia discurso" id="d-4343">
 <span class="data">13 mar 2024 · 16:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

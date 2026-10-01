@@ -47,7 +47,7 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>14</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>18</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Economia](../../temas/economia/) | <span class="valor">97,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>48</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">97,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>116</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">97,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>115</b></span> |
 | [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">97,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>34</b></span> |
 | [Saúde](../../temas/saude/) | <span class="valor">95,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>24</b></span> |
 | [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">95,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>160</b></span> |
@@ -147,34 +147,34 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-13187">
+<blockquote class="evidencia discurso" id="d-6626">
 <span class="data">02 set 2026 · 16:32</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
-<p>A Deputada encaminhou a votação do requerimento de urgência ao Projeto de Lei Complementar nº 74, de 2026, que dispõe sobre regras relativas a benefícios tributários e despesas obrigatórias no exercício de 2026. Em seguida, comemorou a aprovação, pela Comissão de Justiça do Senado, da Proposta de Emenda à Constituição (PEC) nº 221, de 2019, sobre o fim da escala 6 por 1, com redução da jornada semanal de 44 para 40 horas, sem redução salarial. Além disso, destacou os benefícios da medida para trabalhadores, especialmente mulheres, atribuiu ao Presidente Lula papel na articulação política e criticou o Senador Flávio Bolsonaro. Por fim, pediu ao Presidente Davi Alcolumbre que submetesse a matéria ao Plenário do Senado.</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-13186">
+<blockquote class="evidencia discurso" id="d-6625">
 <span class="data">02 set 2026 · 15:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
-<p>A Deputada registrou a aprovação do Projeto de Lei nº 241, de 2023, que altera o Decreto-Lei nº 667/1969, que reorganiza as Polícias Militares e os Corpos de Bombeiros Militares dos Estados, dos Territórios e do Distrito Federal, resgatando direitos previdenciários de policiais militares, com benefícios às mulheres. Por fim, defendeu a Proposta de Emenda à Constituição nº 31, de 2025, que altera os arts. 5º e 10 da Emenda Constitucional nº 103, de 2019, para reduzir a idade de aposentadoria da mulher ocupante de cargo de agente penitenciário, agente socioeducativo ou de policial dos órgãos referidos.</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-13185">
+<blockquote class="evidencia discurso" id="d-6624">
 <span class="data">01 set 2026 · 22:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
-<p>A Deputada orientou favoravelmente a bancada do Partido dos Trabalhadores (PT) na votação do Projeto de Lei nº 4.921, de 2026, de autoria do Tribunal Superior do Trabalho (TST), que amplia a composição do Tribunal Regional do Trabalho (TRT) da 18ª Região mediante a transformação de sete cargos vagos de Juiz do Trabalho Substituto em quatro cargos de Desembargador do Trabalho. Além disso, defendeu o Presidente Lula de críticas de Parlamentares bolsonaristas e afirmou que a declaração do Presidente foi retirada de contexto para atribuir a ele desrespeito a garis e a outros trabalhadores.</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-13184">
+<blockquote class="evidencia discurso" id="d-6623">
 <span class="data">01 set 2026 · 22:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -183,7 +183,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-13183">
+<blockquote class="evidencia discurso" id="d-6622">
 <span class="data">01 set 2026 · 21:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>

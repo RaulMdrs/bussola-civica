@@ -18,7 +18,7 @@ description: "Os discursos de Lucas Redecker em 2026, com o sumário oficial e l
 
 ## Substantivos — 6
 
-<blockquote class="evidencia discurso" id="d-13145">
+<blockquote class="evidencia discurso" id="d-3513">
 <span class="data">12 ago 2026 · 15:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Lucas Redecker em 2026, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3504">
+<blockquote class="evidencia discurso" id="d-3512">
 <span class="data">09 jun 2026 · 13:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Lucas Redecker em 2026, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3503">
+<blockquote class="evidencia discurso" id="d-3511">
 <span class="data">26 mai 2026 · 15:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Lucas Redecker em 2026, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3502">
+<blockquote class="evidencia discurso" id="d-3510">
 <span class="data">15 abr 2026 · 14:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Lucas Redecker em 2026, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3501">
+<blockquote class="evidencia discurso" id="d-3509">
 <span class="data">18 mar 2026 · 14:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Lucas Redecker em 2026, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3500">
+<blockquote class="evidencia discurso" id="d-3508">
 <span class="data">04 mar 2026 · 16:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

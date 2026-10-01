@@ -18,7 +18,7 @@ description: "Os discursos de Alceu Moreira em 2025, com o sumário oficial e li
 
 ## Substantivos — 7
 
-<blockquote class="evidencia discurso" id="d-2271">
+<blockquote class="evidencia discurso" id="d-2276">
 <span class="data">08 out 2025 · 13:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Alceu Moreira em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2270">
+<blockquote class="evidencia discurso" id="d-2275">
 <span class="data">23 set 2025 · 14:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Alceu Moreira em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2269">
+<blockquote class="evidencia discurso" id="d-2274">
 <span class="data">20 ago 2025 · 14:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Alceu Moreira em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2266">
+<blockquote class="evidencia discurso" id="d-2271">
 <span class="data">16 jul 2025 · 22:04</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Alceu Moreira em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2265">
+<blockquote class="evidencia discurso" id="d-2270">
 <span class="data">16 jul 2025 · 21:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Alceu Moreira em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2263">
+<blockquote class="evidencia discurso" id="d-2268">
 <span class="data">29 mai 2025 · 10:32</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Alceu Moreira em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2262">
+<blockquote class="evidencia discurso" id="d-2267">
 <span class="data">27 mai 2025 · 15:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -92,7 +92,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-2268">
+<blockquote class="evidencia discurso" id="d-2273">
 <span class="data">17 jul 2025 · 00:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -101,7 +101,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2267">
+<blockquote class="evidencia discurso" id="d-2272">
 <span class="data">16 jul 2025 · 22:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -110,7 +110,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2264">
+<blockquote class="evidencia discurso" id="d-2269">
 <span class="data">16 jul 2025 · 20:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

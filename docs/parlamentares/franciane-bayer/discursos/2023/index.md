@@ -18,7 +18,7 @@ description: "Os discursos de Franciane Bayer em 2023, com o sumário oficial e 
 
 ## Substantivos — 5
 
-<blockquote class="evidencia discurso" id="d-4329">
+<blockquote class="evidencia discurso" id="d-4341">
 <span class="data">08 nov 2023 · 17:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Franciane Bayer em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4328">
+<blockquote class="evidencia discurso" id="d-4340">
 <span class="data">20 set 2023 · 14:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Franciane Bayer em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4327">
+<blockquote class="evidencia discurso" id="d-4339">
 <span class="data">07 jun 2023 · 12:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Franciane Bayer em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4326">
+<blockquote class="evidencia discurso" id="d-4338">
 <span class="data">31 mai 2023 · 17:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Franciane Bayer em 2023, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4325">
+<blockquote class="evidencia discurso" id="d-4337">
 <span class="data">30 mar 2023 · 09:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -74,7 +74,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-4330">
+<blockquote class="evidencia discurso" id="d-4342">
 <span class="data">13 dez 2023 · 15:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

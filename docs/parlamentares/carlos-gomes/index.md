@@ -145,7 +145,7 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-2505">
+<blockquote class="evidencia discurso" id="d-2510">
 <span class="data">08 jul 2026 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -154,7 +154,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2504">
+<blockquote class="evidencia discurso" id="d-2509">
 <span class="data">08 jul 2026 · 18:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -163,7 +163,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2503">
+<blockquote class="evidencia discurso" id="d-2508">
 <span class="data">08 jul 2026 · 16:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -172,7 +172,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2502">
+<blockquote class="evidencia discurso" id="d-2507">
 <span class="data">17 mar 2026 · 15:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -181,7 +181,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2501">
+<blockquote class="evidencia discurso" id="d-2506">
 <span class="data">27 mai 2025 · 11:56</span>
 <div class="corpo">
 <p class="tipo">HOMENAGEM</p>

@@ -18,7 +18,7 @@ description: "Os discursos de Zucco em 2024, com o sumário oficial e link para 
 
 ## Substantivos — 23
 
-<blockquote class="evidencia discurso" id="d-4423">
+<blockquote class="evidencia discurso" id="d-4435">
 <span class="data">10 dez 2024 · 21:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Zucco em 2024, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4421">
+<blockquote class="evidencia discurso" id="d-4433">
 <span class="data">03 dez 2024 · 16:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Zucco em 2024, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4420">
+<blockquote class="evidencia discurso" id="d-4432">
 <span class="data">27 nov 2024 · 14:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Zucco em 2024, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4419">
+<blockquote class="evidencia discurso" id="d-4431">
 <span class="data">26 nov 2024 · 21:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Zucco em 2024, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4418">
+<blockquote class="evidencia discurso" id="d-4430">
 <span class="data">26 nov 2024 · 20:44</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Zucco em 2024, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4417">
+<blockquote class="evidencia discurso" id="d-4429">
 <span class="data">26 nov 2024 · 20:20</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Zucco em 2024, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4416">
+<blockquote class="evidencia discurso" id="d-4428">
 <span class="data">26 nov 2024 · 18:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Zucco em 2024, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4415">
+<blockquote class="evidencia discurso" id="d-4427">
 <span class="data">26 nov 2024 · 17:44</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Zucco em 2024, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4414">
+<blockquote class="evidencia discurso" id="d-4426">
 <span class="data">18 nov 2024 · 17:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Zucco em 2024, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4413">
+<blockquote class="evidencia discurso" id="d-4425">
 <span class="data">12 nov 2024 · 14:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Zucco em 2024, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4412">
+<blockquote class="evidencia discurso" id="d-4424">
 <span class="data">29 out 2024 · 16:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Zucco em 2024, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4411">
+<blockquote class="evidencia discurso" id="d-4423">
 <span class="data">10 set 2024 · 18:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Zucco em 2024, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4409">
+<blockquote class="evidencia discurso" id="d-4421">
 <span class="data">09 set 2024 · 18:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Zucco em 2024, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4408">
+<blockquote class="evidencia discurso" id="d-4420">
 <span class="data">14 ago 2024 · 14:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Zucco em 2024, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4407">
+<blockquote class="evidencia discurso" id="d-4419">
 <span class="data">19 jun 2024 · 21:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Zucco em 2024, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4406">
+<blockquote class="evidencia discurso" id="d-4418">
 <span class="data">11 jun 2024 · 18:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Zucco em 2024, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4405">
+<blockquote class="evidencia discurso" id="d-4417">
 <span class="data">04 jun 2024 · 18:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Zucco em 2024, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4403">
+<blockquote class="evidencia discurso" id="d-4415">
 <span class="data">21 mai 2024 · 16:32</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Zucco em 2024, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4402">
+<blockquote class="evidencia discurso" id="d-4414">
 <span class="data">23 abr 2024 · 15:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Zucco em 2024, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4401">
+<blockquote class="evidencia discurso" id="d-4413">
 <span class="data">17 abr 2024 · 16:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Zucco em 2024, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4399">
+<blockquote class="evidencia discurso" id="d-4411">
 <span class="data">16 abr 2024 · 17:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Zucco em 2024, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4397">
+<blockquote class="evidencia discurso" id="d-4409">
 <span class="data">19 mar 2024 · 14:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Zucco em 2024, com o sumário oficial e link para 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4396">
+<blockquote class="evidencia discurso" id="d-4408">
 <span class="data">21 fev 2024 · 14:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -236,7 +236,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-4422">
+<blockquote class="evidencia discurso" id="d-4434">
 <span class="data">10 dez 2024 · 21:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -245,7 +245,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4410">
+<blockquote class="evidencia discurso" id="d-4422">
 <span class="data">10 set 2024 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -254,7 +254,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4404">
+<blockquote class="evidencia discurso" id="d-4416">
 <span class="data">21 mai 2024 · 21:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -263,7 +263,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4400">
+<blockquote class="evidencia discurso" id="d-4412">
 <span class="data">16 abr 2024 · 19:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -272,7 +272,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4398">
+<blockquote class="evidencia discurso" id="d-4410">
 <span class="data">10 abr 2024 · 18:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

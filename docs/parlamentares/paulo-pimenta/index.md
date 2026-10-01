@@ -50,7 +50,7 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>11</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>17</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">97,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>76</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">95,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>66</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">95,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>65</b></span> |
 | [Economia](../../temas/economia/) | <span class="valor">94,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>19</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">94,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>19</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">94,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>17</b></span> <span class="aviso-n">amostra pequena</span> |
@@ -147,7 +147,7 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-13152">
+<blockquote class="evidencia discurso" id="d-5867">
 <span class="data">12 ago 2026 · 17:12</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -156,7 +156,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5850">
+<blockquote class="evidencia discurso" id="d-5865">
 <span class="data">27 mai 2026 · 22:20</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -165,7 +165,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5849">
+<blockquote class="evidencia discurso" id="d-5864">
 <span class="data">27 mai 2026 · 20:20</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -174,7 +174,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5848">
+<blockquote class="evidencia discurso" id="d-5863">
 <span class="data">19 mai 2026 · 18:28</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -183,7 +183,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5847">
+<blockquote class="evidencia discurso" id="d-5862">
 <span class="data">13 mai 2026 · 18:20</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>

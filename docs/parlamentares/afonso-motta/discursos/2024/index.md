@@ -18,7 +18,7 @@ description: "Os discursos de Afonso Motta em 2024, com o sumário oficial e lin
 
 ## Substantivos — 16
 
-<blockquote class="evidencia discurso" id="d-2447">
+<blockquote class="evidencia discurso" id="d-2452">
 <span class="data">19 nov 2024 · 20:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Afonso Motta em 2024, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2446">
+<blockquote class="evidencia discurso" id="d-2451">
 <span class="data">19 nov 2024 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Afonso Motta em 2024, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2441">
+<blockquote class="evidencia discurso" id="d-2446">
 <span class="data">16 out 2024 · 16:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Afonso Motta em 2024, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2439">
+<blockquote class="evidencia discurso" id="d-2444">
 <span class="data">19 jun 2024 · 21:12</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Afonso Motta em 2024, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2438">
+<blockquote class="evidencia discurso" id="d-2443">
 <span class="data">19 jun 2024 · 20:52</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Afonso Motta em 2024, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2437">
+<blockquote class="evidencia discurso" id="d-2442">
 <span class="data">12 jun 2024 · 19:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Afonso Motta em 2024, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2436">
+<blockquote class="evidencia discurso" id="d-2441">
 <span class="data">11 jun 2024 · 21:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Afonso Motta em 2024, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2434">
+<blockquote class="evidencia discurso" id="d-2439">
 <span class="data">15 mai 2024 · 20:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Afonso Motta em 2024, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2433">
+<blockquote class="evidencia discurso" id="d-2438">
 <span class="data">15 mai 2024 · 19:08</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Afonso Motta em 2024, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2432">
+<blockquote class="evidencia discurso" id="d-2437">
 <span class="data">15 mai 2024 · 00:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Afonso Motta em 2024, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2431">
+<blockquote class="evidencia discurso" id="d-2436">
 <span class="data">14 mai 2024 · 22:32</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Afonso Motta em 2024, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2430">
+<blockquote class="evidencia discurso" id="d-2435">
 <span class="data">14 mai 2024 · 21:20</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Afonso Motta em 2024, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2429">
+<blockquote class="evidencia discurso" id="d-2434">
 <span class="data">23 abr 2024 · 19:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Afonso Motta em 2024, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2428">
+<blockquote class="evidencia discurso" id="d-2433">
 <span class="data">17 abr 2024 · 12:44</span>
 <div class="corpo">
 <p class="tipo">COMISSÃO GERAL</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Afonso Motta em 2024, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2426">
+<blockquote class="evidencia discurso" id="d-2431">
 <span class="data">28 fev 2024 · 18:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Afonso Motta em 2024, com o sumário oficial e lin
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2425">
+<blockquote class="evidencia discurso" id="d-2430">
 <span class="data">28 fev 2024 · 16:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -173,7 +173,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-2453">
+<blockquote class="evidencia discurso" id="d-2458">
 <span class="data">18 dez 2024 · 19:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -182,7 +182,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2452">
+<blockquote class="evidencia discurso" id="d-2457">
 <span class="data">17 dez 2024 · 22:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -191,7 +191,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2451">
+<blockquote class="evidencia discurso" id="d-2456">
 <span class="data">17 dez 2024 · 20:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -200,7 +200,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2450">
+<blockquote class="evidencia discurso" id="d-2455">
 <span class="data">10 dez 2024 · 20:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -209,7 +209,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2449">
+<blockquote class="evidencia discurso" id="d-2454">
 <span class="data">27 nov 2024 · 22:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -218,7 +218,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2448">
+<blockquote class="evidencia discurso" id="d-2453">
 <span class="data">27 nov 2024 · 21:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -227,7 +227,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2445">
+<blockquote class="evidencia discurso" id="d-2450">
 <span class="data">04 nov 2024 · 21:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -236,7 +236,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2444">
+<blockquote class="evidencia discurso" id="d-2449">
 <span class="data">04 nov 2024 · 20:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -245,7 +245,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2443">
+<blockquote class="evidencia discurso" id="d-2448">
 <span class="data">30 out 2024 · 18:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -254,7 +254,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2442">
+<blockquote class="evidencia discurso" id="d-2447">
 <span class="data">30 out 2024 · 17:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -263,7 +263,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2440">
+<blockquote class="evidencia discurso" id="d-2445">
 <span class="data">10 jul 2024 · 11:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -272,7 +272,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2435">
+<blockquote class="evidencia discurso" id="d-2440">
 <span class="data">11 jun 2024 · 17:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -281,7 +281,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2427">
+<blockquote class="evidencia discurso" id="d-2432">
 <span class="data">09 abr 2024 · 20:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -290,7 +290,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2424">
+<blockquote class="evidencia discurso" id="d-2429">
 <span class="data">21 fev 2024 · 19:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

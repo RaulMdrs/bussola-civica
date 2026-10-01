@@ -18,7 +18,7 @@ description: "Os discursos de Daniel Trzeciak em 2026, com o sumário oficial e 
 
 ## Substantivos — 13
 
-<blockquote class="evidencia discurso" id="d-3884">
+<blockquote class="evidencia discurso" id="d-3896">
 <span class="data">08 jul 2026 · 15:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Daniel Trzeciak em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3883">
+<blockquote class="evidencia discurso" id="d-3895">
 <span class="data">07 jul 2026 · 14:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Daniel Trzeciak em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3882">
+<blockquote class="evidencia discurso" id="d-3894">
 <span class="data">09 jun 2026 · 14:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Daniel Trzeciak em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3881">
+<blockquote class="evidencia discurso" id="d-3893">
 <span class="data">20 mai 2026 · 14:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Daniel Trzeciak em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3880">
+<blockquote class="evidencia discurso" id="d-3892">
 <span class="data">20 mai 2026 · 14:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Daniel Trzeciak em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3879">
+<blockquote class="evidencia discurso" id="d-3891">
 <span class="data">06 mai 2026 · 15:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Daniel Trzeciak em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3878">
+<blockquote class="evidencia discurso" id="d-3890">
 <span class="data">06 mai 2026 · 14:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Daniel Trzeciak em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3877">
+<blockquote class="evidencia discurso" id="d-3889">
 <span class="data">28 abr 2026 · 17:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Daniel Trzeciak em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3876">
+<blockquote class="evidencia discurso" id="d-3888">
 <span class="data">15 abr 2026 · 16:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Daniel Trzeciak em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3875">
+<blockquote class="evidencia discurso" id="d-3887">
 <span class="data">15 abr 2026 · 14:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Daniel Trzeciak em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3874">
+<blockquote class="evidencia discurso" id="d-3886">
 <span class="data">08 abr 2026 · 14:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Daniel Trzeciak em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3873">
+<blockquote class="evidencia discurso" id="d-3885">
 <span class="data">10 mar 2026 · 15:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Daniel Trzeciak em 2026, com o sumário oficial e 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3872">
+<blockquote class="evidencia discurso" id="d-3884">
 <span class="data">24 fev 2026 · 14:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

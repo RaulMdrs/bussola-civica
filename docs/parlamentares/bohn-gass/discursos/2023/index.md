@@ -18,7 +18,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 
 ## Substantivos — 101
 
-<blockquote class="evidencia discurso" id="d-1718">
+<blockquote class="evidencia discurso" id="d-1722">
 <span class="data">21 dez 2023 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1717">
+<blockquote class="evidencia discurso" id="d-1721">
 <span class="data">19 dez 2023 · 15:56</span>
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1716">
+<blockquote class="evidencia discurso" id="d-1720">
 <span class="data">19 dez 2023 · 13:29</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1715">
+<blockquote class="evidencia discurso" id="d-1719">
 <span class="data">18 dez 2023 · 20:24</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1714">
+<blockquote class="evidencia discurso" id="d-1718">
 <span class="data">18 dez 2023 · 20:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1713">
+<blockquote class="evidencia discurso" id="d-1717">
 <span class="data">18 dez 2023 · 17:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1712">
+<blockquote class="evidencia discurso" id="d-1716">
 <span class="data">14 dez 2023 · 18:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1711">
+<blockquote class="evidencia discurso" id="d-1715">
 <span class="data">14 dez 2023 · 17:12</span>
 <div class="corpo">
 <p class="tipo">COMO RELATOR</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1710">
+<blockquote class="evidencia discurso" id="d-1714">
 <span class="data">14 dez 2023 · 15:16</span>
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1709">
+<blockquote class="evidencia discurso" id="d-1713">
 <span class="data">14 dez 2023 · 15:12</span>
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1708">
+<blockquote class="evidencia discurso" id="d-1712">
 <span class="data">14 dez 2023 · 12:16</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1707">
+<blockquote class="evidencia discurso" id="d-1711">
 <span class="data">13 dez 2023 · 18:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1705">
+<blockquote class="evidencia discurso" id="d-1709">
 <span class="data">12 dez 2023 · 23:08</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1704">
+<blockquote class="evidencia discurso" id="d-1708">
 <span class="data">12 dez 2023 · 22:52</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1703">
+<blockquote class="evidencia discurso" id="d-1707">
 <span class="data">12 dez 2023 · 17:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1702">
+<blockquote class="evidencia discurso" id="d-1706">
 <span class="data">07 dez 2023 · 10:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1701">
+<blockquote class="evidencia discurso" id="d-1705">
 <span class="data">05 dez 2023 · 21:36</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1700">
+<blockquote class="evidencia discurso" id="d-1704">
 <span class="data">05 dez 2023 · 16:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1699">
+<blockquote class="evidencia discurso" id="d-1703">
 <span class="data">04 dez 2023 · 19:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1698">
+<blockquote class="evidencia discurso" id="d-1702">
 <span class="data">30 nov 2023 · 10:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1697">
+<blockquote class="evidencia discurso" id="d-1701">
 <span class="data">29 nov 2023 · 16:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1696">
+<blockquote class="evidencia discurso" id="d-1700">
 <span class="data">28 nov 2023 · 15:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1695">
+<blockquote class="evidencia discurso" id="d-1699">
 <span class="data">23 nov 2023 · 11:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1694">
+<blockquote class="evidencia discurso" id="d-1698">
 <span class="data">22 nov 2023 · 18:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1693">
+<blockquote class="evidencia discurso" id="d-1697">
 <span class="data">21 nov 2023 · 22:16</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1691">
+<blockquote class="evidencia discurso" id="d-1695">
 <span class="data">21 nov 2023 · 21:40</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1690">
+<blockquote class="evidencia discurso" id="d-1694">
 <span class="data">21 nov 2023 · 18:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1689">
+<blockquote class="evidencia discurso" id="d-1693">
 <span class="data">09 nov 2023 · 09:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1688">
+<blockquote class="evidencia discurso" id="d-1692">
 <span class="data">07 nov 2023 · 21:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1687">
+<blockquote class="evidencia discurso" id="d-1691">
 <span class="data">07 nov 2023 · 16:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1686">
+<blockquote class="evidencia discurso" id="d-1690">
 <span class="data">31 out 2023 · 15:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1685">
+<blockquote class="evidencia discurso" id="d-1689">
 <span class="data">30 out 2023 · 18:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1681">
+<blockquote class="evidencia discurso" id="d-1685">
 <span class="data">24 out 2023 · 16:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1680">
+<blockquote class="evidencia discurso" id="d-1684">
 <span class="data">17 out 2023 · 17:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1679">
+<blockquote class="evidencia discurso" id="d-1683">
 <span class="data">10 out 2023 · 16:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1678">
+<blockquote class="evidencia discurso" id="d-1682">
 <span class="data">09 out 2023 · 19:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1676">
+<blockquote class="evidencia discurso" id="d-1680">
 <span class="data">04 out 2023 · 13:24</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -351,7 +351,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1675">
+<blockquote class="evidencia discurso" id="d-1679">
 <span class="data">03 out 2023 · 16:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -360,7 +360,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1674">
+<blockquote class="evidencia discurso" id="d-1678">
 <span class="data">03 out 2023 · 15:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -369,7 +369,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1672">
+<blockquote class="evidencia discurso" id="d-1676">
 <span class="data">26 set 2023 · 17:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -378,7 +378,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1671">
+<blockquote class="evidencia discurso" id="d-1675">
 <span class="data">26 set 2023 · 16:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -387,7 +387,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1670">
+<blockquote class="evidencia discurso" id="d-1674">
 <span class="data">20 set 2023 · 15:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -396,7 +396,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1669">
+<blockquote class="evidencia discurso" id="d-1673">
 <span class="data">19 set 2023 · 19:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -405,7 +405,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1668">
+<blockquote class="evidencia discurso" id="d-1672">
 <span class="data">19 set 2023 · 17:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -414,7 +414,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1667">
+<blockquote class="evidencia discurso" id="d-1671">
 <span class="data">14 set 2023 · 17:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -423,7 +423,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1663">
+<blockquote class="evidencia discurso" id="d-1667">
 <span class="data">14 set 2023 · 14:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -432,7 +432,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1662">
+<blockquote class="evidencia discurso" id="d-1666">
 <span class="data">14 set 2023 · 11:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -441,7 +441,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1661">
+<blockquote class="evidencia discurso" id="d-1665">
 <span class="data">13 set 2023 · 17:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -450,7 +450,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1660">
+<blockquote class="evidencia discurso" id="d-1664">
 <span class="data">12 set 2023 · 18:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -459,7 +459,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1656">
+<blockquote class="evidencia discurso" id="d-1660">
 <span class="data">29 ago 2023 · 16:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -468,7 +468,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1655">
+<blockquote class="evidencia discurso" id="d-1659">
 <span class="data">24 ago 2023 · 11:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -477,7 +477,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1654">
+<blockquote class="evidencia discurso" id="d-1658">
 <span class="data">24 ago 2023 · 11:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -486,7 +486,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1653">
+<blockquote class="evidencia discurso" id="d-1657">
 <span class="data">24 ago 2023 · 11:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -495,7 +495,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1651">
+<blockquote class="evidencia discurso" id="d-1655">
 <span class="data">23 ago 2023 · 15:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -504,7 +504,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1650">
+<blockquote class="evidencia discurso" id="d-1654">
 <span class="data">22 ago 2023 · 18:52</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -513,7 +513,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1649">
+<blockquote class="evidencia discurso" id="d-1653">
 <span class="data">22 ago 2023 · 15:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -522,7 +522,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1648">
+<blockquote class="evidencia discurso" id="d-1652">
 <span class="data">17 ago 2023 · 09:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -531,7 +531,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1647">
+<blockquote class="evidencia discurso" id="d-1651">
 <span class="data">16 ago 2023 · 16:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -540,7 +540,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1646">
+<blockquote class="evidencia discurso" id="d-1650">
 <span class="data">15 ago 2023 · 13:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -549,7 +549,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1645">
+<blockquote class="evidencia discurso" id="d-1649">
 <span class="data">08 ago 2023 · 20:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -558,7 +558,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1644">
+<blockquote class="evidencia discurso" id="d-1648">
 <span class="data">03 ago 2023 · 10:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -567,7 +567,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1643">
+<blockquote class="evidencia discurso" id="d-1647">
 <span class="data">02 ago 2023 · 19:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -576,7 +576,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1642">
+<blockquote class="evidencia discurso" id="d-1646">
 <span class="data">02 ago 2023 · 16:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -585,7 +585,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1641">
+<blockquote class="evidencia discurso" id="d-1645">
 <span class="data">07 jul 2023 · 01:04</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -594,7 +594,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1640">
+<blockquote class="evidencia discurso" id="d-1644">
 <span class="data">06 jul 2023 · 23:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -603,7 +603,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1639">
+<blockquote class="evidencia discurso" id="d-1643">
 <span class="data">06 jul 2023 · 20:20</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -612,7 +612,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1638">
+<blockquote class="evidencia discurso" id="d-1642">
 <span class="data">06 jul 2023 · 11:40</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -621,7 +621,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1637">
+<blockquote class="evidencia discurso" id="d-1641">
 <span class="data">05 jul 2023 · 20:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -630,7 +630,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1636">
+<blockquote class="evidencia discurso" id="d-1640">
 <span class="data">04 jul 2023 · 18:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -639,7 +639,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1635">
+<blockquote class="evidencia discurso" id="d-1639">
 <span class="data">03 jul 2023 · 22:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -648,7 +648,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1634">
+<blockquote class="evidencia discurso" id="d-1638">
 <span class="data">20 jun 2023 · 19:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -657,7 +657,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1633">
+<blockquote class="evidencia discurso" id="d-1637">
 <span class="data">06 jun 2023 · 20:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -666,7 +666,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1632">
+<blockquote class="evidencia discurso" id="d-1636">
 <span class="data">31 mai 2023 · 23:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -675,7 +675,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1631">
+<blockquote class="evidencia discurso" id="d-1635">
 <span class="data">31 mai 2023 · 22:28</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -684,7 +684,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1630">
+<blockquote class="evidencia discurso" id="d-1634">
 <span class="data">31 mai 2023 · 10:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -693,7 +693,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1629">
+<blockquote class="evidencia discurso" id="d-1633">
 <span class="data">30 mai 2023 · 23:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -702,7 +702,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1628">
+<blockquote class="evidencia discurso" id="d-1632">
 <span class="data">30 mai 2023 · 22:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -711,7 +711,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1627">
+<blockquote class="evidencia discurso" id="d-1631">
 <span class="data">30 mai 2023 · 22:20</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -720,7 +720,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1626">
+<blockquote class="evidencia discurso" id="d-1630">
 <span class="data">30 mai 2023 · 15:56</span>
 <div class="corpo">
 <p class="tipo">COMISSÃO GERAL</p>
@@ -729,7 +729,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1625">
+<blockquote class="evidencia discurso" id="d-1629">
 <span class="data">24 mai 2023 · 17:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -738,7 +738,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1624">
+<blockquote class="evidencia discurso" id="d-1628">
 <span class="data">16 mai 2023 · 21:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -747,7 +747,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1623">
+<blockquote class="evidencia discurso" id="d-1627">
 <span class="data">10 mai 2023 · 21:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -756,7 +756,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1622">
+<blockquote class="evidencia discurso" id="d-1626">
 <span class="data">09 mai 2023 · 20:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -765,7 +765,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1621">
+<blockquote class="evidencia discurso" id="d-1625">
 <span class="data">04 mai 2023 · 11:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -774,7 +774,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1620">
+<blockquote class="evidencia discurso" id="d-1624">
 <span class="data">26 abr 2023 · 17:04</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -783,7 +783,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1619">
+<blockquote class="evidencia discurso" id="d-1623">
 <span class="data">25 abr 2023 · 17:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -792,7 +792,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1618">
+<blockquote class="evidencia discurso" id="d-1622">
 <span class="data">12 abr 2023 · 20:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -801,7 +801,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1617">
+<blockquote class="evidencia discurso" id="d-1621">
 <span class="data">12 abr 2023 · 19:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -810,7 +810,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1616">
+<blockquote class="evidencia discurso" id="d-1620">
 <span class="data">11 abr 2023 · 20:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -819,7 +819,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1615">
+<blockquote class="evidencia discurso" id="d-1619">
 <span class="data">30 mar 2023 · 11:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -828,7 +828,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1614">
+<blockquote class="evidencia discurso" id="d-1618">
 <span class="data">29 mar 2023 · 16:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -837,7 +837,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1613">
+<blockquote class="evidencia discurso" id="d-1617">
 <span class="data">28 mar 2023 · 17:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -846,7 +846,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1612">
+<blockquote class="evidencia discurso" id="d-1616">
 <span class="data">27 mar 2023 · 17:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -855,7 +855,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1611">
+<blockquote class="evidencia discurso" id="d-1615">
 <span class="data">21 mar 2023 · 20:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -864,7 +864,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1610">
+<blockquote class="evidencia discurso" id="d-1614">
 <span class="data">14 mar 2023 · 21:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -873,7 +873,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1609">
+<blockquote class="evidencia discurso" id="d-1613">
 <span class="data">07 mar 2023 · 17:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -882,7 +882,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1608">
+<blockquote class="evidencia discurso" id="d-1612">
 <span class="data">28 fev 2023 · 15:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -891,7 +891,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1607">
+<blockquote class="evidencia discurso" id="d-1611">
 <span class="data">15 fev 2023 · 13:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -900,7 +900,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1606">
+<blockquote class="evidencia discurso" id="d-1610">
 <span class="data">14 fev 2023 · 15:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -909,7 +909,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1605">
+<blockquote class="evidencia discurso" id="d-1609">
 <span class="data">08 fev 2023 · 15:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -918,7 +918,7 @@ description: "Os discursos de Bohn Gass em 2023, com o sumário oficial e link p
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1604">
+<blockquote class="evidencia discurso" id="d-1608">
 <span class="data">07 fev 2023 · 21:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -938,7 +938,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-1706">
+<blockquote class="evidencia discurso" id="d-1710">
 <span class="data">12 dez 2023 · 23:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -947,7 +947,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1692">
+<blockquote class="evidencia discurso" id="d-1696">
 <span class="data">21 nov 2023 · 22:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -956,7 +956,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1684">
+<blockquote class="evidencia discurso" id="d-1688">
 <span class="data">26 out 2023 · 12:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -965,7 +965,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1683">
+<blockquote class="evidencia discurso" id="d-1687">
 <span class="data">25 out 2023 · 21:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -974,7 +974,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1682">
+<blockquote class="evidencia discurso" id="d-1686">
 <span class="data">25 out 2023 · 20:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -983,7 +983,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1677">
+<blockquote class="evidencia discurso" id="d-1681">
 <span class="data">04 out 2023 · 20:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -992,7 +992,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1673">
+<blockquote class="evidencia discurso" id="d-1677">
 <span class="data">27 set 2023 · 21:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1001,7 +1001,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1666">
+<blockquote class="evidencia discurso" id="d-1670">
 <span class="data">14 set 2023 · 16:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1010,7 +1010,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1665">
+<blockquote class="evidencia discurso" id="d-1669">
 <span class="data">14 set 2023 · 16:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1019,7 +1019,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1664">
+<blockquote class="evidencia discurso" id="d-1668">
 <span class="data">14 set 2023 · 16:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1028,7 +1028,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1659">
+<blockquote class="evidencia discurso" id="d-1663">
 <span class="data">05 set 2023 · 20:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1037,7 +1037,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1658">
+<blockquote class="evidencia discurso" id="d-1662">
 <span class="data">05 set 2023 · 20:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1046,7 +1046,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1657">
+<blockquote class="evidencia discurso" id="d-1661">
 <span class="data">30 ago 2023 · 20:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1055,7 +1055,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1652">
+<blockquote class="evidencia discurso" id="d-1656">
 <span class="data">23 ago 2023 · 21:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

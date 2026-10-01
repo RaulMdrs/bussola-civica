@@ -17,7 +17,7 @@ description: "Como a bancada gaúcha votou em 25 jun 2025: Aprovado o Projeto de
 | Resultado | aprovada |
 | Matéria | PRC 27/2025 |
 | Natureza | mérito da matéria |
-| Temas da matéria | [Administração Pública](../../temas/administracao-publica/) · Homenagens e Datas Comemorativas |
+| Temas da matéria | Homenagens e Datas Comemorativas · Processo Legislativo e Atuação Parlamentar |
 | Orientação do Governo | **sim** |
 {: .t-docs}
 

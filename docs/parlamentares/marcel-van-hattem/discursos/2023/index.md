@@ -18,7 +18,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 
 ## Substantivos — 307
 
-<blockquote class="evidencia discurso" id="d-566">
+<blockquote class="evidencia discurso" id="d-567">
 <span class="data">22 dez 2023 · 14:20</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-565">
+<blockquote class="evidencia discurso" id="d-566">
 <span class="data">22 dez 2023 · 13:56</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-564">
+<blockquote class="evidencia discurso" id="d-565">
 <span class="data">22 dez 2023 · 12:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-562">
+<blockquote class="evidencia discurso" id="d-563">
 <span class="data">22 dez 2023 · 01:00</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-561">
+<blockquote class="evidencia discurso" id="d-562">
 <span class="data">22 dez 2023 · 00:52</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-559">
+<blockquote class="evidencia discurso" id="d-560">
 <span class="data">22 dez 2023 · 00:40</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-556">
+<blockquote class="evidencia discurso" id="d-557">
 <span class="data">21 dez 2023 · 23:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-554">
+<blockquote class="evidencia discurso" id="d-555">
 <span class="data">21 dez 2023 · 20:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-550">
+<blockquote class="evidencia discurso" id="d-551">
 <span class="data">21 dez 2023 · 18:56</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-548">
+<blockquote class="evidencia discurso" id="d-549">
 <span class="data">21 dez 2023 · 18:28</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-547">
+<blockquote class="evidencia discurso" id="d-548">
 <span class="data">21 dez 2023 · 18:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-546">
+<blockquote class="evidencia discurso" id="d-547">
 <span class="data">21 dez 2023 · 18:08</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-545">
+<blockquote class="evidencia discurso" id="d-546">
 <span class="data">21 dez 2023 · 18:00</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-544">
+<blockquote class="evidencia discurso" id="d-545">
 <span class="data">21 dez 2023 · 00:16</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-543">
+<blockquote class="evidencia discurso" id="d-544">
 <span class="data">21 dez 2023 · 00:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-542">
+<blockquote class="evidencia discurso" id="d-543">
 <span class="data">20 dez 2023 · 22:44</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-541">
+<blockquote class="evidencia discurso" id="d-542">
 <span class="data">20 dez 2023 · 22:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-540">
+<blockquote class="evidencia discurso" id="d-541">
 <span class="data">20 dez 2023 · 21:56</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-539">
+<blockquote class="evidencia discurso" id="d-540">
 <span class="data">20 dez 2023 · 21:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-538">
+<blockquote class="evidencia discurso" id="d-539">
 <span class="data">20 dez 2023 · 20:12</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-537">
+<blockquote class="evidencia discurso" id="d-538">
 <span class="data">20 dez 2023 · 19:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-534">
+<blockquote class="evidencia discurso" id="d-535">
 <span class="data">15 dez 2023 · 21:20</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-532">
+<blockquote class="evidencia discurso" id="d-533">
 <span class="data">15 dez 2023 · 20:52</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-531">
+<blockquote class="evidencia discurso" id="d-532">
 <span class="data">15 dez 2023 · 20:08</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-530">
+<blockquote class="evidencia discurso" id="d-531">
 <span class="data">15 dez 2023 · 19:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-529">
+<blockquote class="evidencia discurso" id="d-530">
 <span class="data">15 dez 2023 · 19:24</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-525">
+<blockquote class="evidencia discurso" id="d-526">
 <span class="data">15 dez 2023 · 18:56</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-524">
+<blockquote class="evidencia discurso" id="d-525">
 <span class="data">15 dez 2023 · 18:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-523">
+<blockquote class="evidencia discurso" id="d-524">
 <span class="data">15 dez 2023 · 18:24</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-521">
+<blockquote class="evidencia discurso" id="d-522">
 <span class="data">15 dez 2023 · 18:12</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-516">
+<blockquote class="evidencia discurso" id="d-517">
 <span class="data">15 dez 2023 · 17:16</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-515">
+<blockquote class="evidencia discurso" id="d-516">
 <span class="data">15 dez 2023 · 17:08</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-514">
+<blockquote class="evidencia discurso" id="d-515">
 <span class="data">15 dez 2023 · 16:48</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-513">
+<blockquote class="evidencia discurso" id="d-514">
 <span class="data">15 dez 2023 · 15:48</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-511">
+<blockquote class="evidencia discurso" id="d-512">
 <span class="data">15 dez 2023 · 15:28</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-510">
+<blockquote class="evidencia discurso" id="d-511">
 <span class="data">15 dez 2023 · 15:20</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-509">
+<blockquote class="evidencia discurso" id="d-510">
 <span class="data">15 dez 2023 · 14:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -351,7 +351,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-508">
+<blockquote class="evidencia discurso" id="d-509">
 <span class="data">15 dez 2023 · 14:20</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -360,7 +360,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-506">
+<blockquote class="evidencia discurso" id="d-507">
 <span class="data">15 dez 2023 · 13:12</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -369,7 +369,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-505">
+<blockquote class="evidencia discurso" id="d-506">
 <span class="data">15 dez 2023 · 13:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -378,7 +378,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-504">
+<blockquote class="evidencia discurso" id="d-505">
 <span class="data">15 dez 2023 · 13:00</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -387,7 +387,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-499">
+<blockquote class="evidencia discurso" id="d-500">
 <span class="data">15 dez 2023 · 12:12</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -396,7 +396,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-497">
+<blockquote class="evidencia discurso" id="d-498">
 <span class="data">15 dez 2023 · 11:24</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -405,7 +405,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-496">
+<blockquote class="evidencia discurso" id="d-497">
 <span class="data">15 dez 2023 · 11:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -414,7 +414,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-494">
+<blockquote class="evidencia discurso" id="d-495">
 <span class="data">14 dez 2023 · 16:44</span>
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
@@ -423,7 +423,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-493">
+<blockquote class="evidencia discurso" id="d-494">
 <span class="data">14 dez 2023 · 15:44</span>
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
@@ -432,7 +432,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-492">
+<blockquote class="evidencia discurso" id="d-493">
 <span class="data">14 dez 2023 · 15:12</span>
 <div class="corpo">
 <p class="tipo">ORIENTAÇÃO DE BANCADA</p>
@@ -441,7 +441,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-491">
+<blockquote class="evidencia discurso" id="d-492">
 <span class="data">14 dez 2023 · 13:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -450,7 +450,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-489">
+<blockquote class="evidencia discurso" id="d-490">
 <span class="data">12 dez 2023 · 22:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -459,7 +459,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-488">
+<blockquote class="evidencia discurso" id="d-489">
 <span class="data">12 dez 2023 · 21:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -468,7 +468,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-485">
+<blockquote class="evidencia discurso" id="d-486">
 <span class="data">06 dez 2023 · 23:28</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -477,7 +477,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-484">
+<blockquote class="evidencia discurso" id="d-485">
 <span class="data">06 dez 2023 · 23:12</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -486,7 +486,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-483">
+<blockquote class="evidencia discurso" id="d-484">
 <span class="data">30 nov 2023 · 11:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -495,7 +495,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-482">
+<blockquote class="evidencia discurso" id="d-483">
 <span class="data">29 nov 2023 · 22:32</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -504,7 +504,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-481">
+<blockquote class="evidencia discurso" id="d-482">
 <span class="data">29 nov 2023 · 22:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -513,7 +513,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-480">
+<blockquote class="evidencia discurso" id="d-481">
 <span class="data">29 nov 2023 · 21:44</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -522,7 +522,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-479">
+<blockquote class="evidencia discurso" id="d-480">
 <span class="data">29 nov 2023 · 18:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -531,7 +531,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-478">
+<blockquote class="evidencia discurso" id="d-479">
 <span class="data">29 nov 2023 · 15:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -540,7 +540,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-477">
+<blockquote class="evidencia discurso" id="d-478">
 <span class="data">28 nov 2023 · 20:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -549,7 +549,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-476">
+<blockquote class="evidencia discurso" id="d-477">
 <span class="data">28 nov 2023 · 18:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -558,7 +558,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-475">
+<blockquote class="evidencia discurso" id="d-476">
 <span class="data">28 nov 2023 · 16:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -567,7 +567,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-474">
+<blockquote class="evidencia discurso" id="d-475">
 <span class="data">23 nov 2023 · 11:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -576,7 +576,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-473">
+<blockquote class="evidencia discurso" id="d-474">
 <span class="data">23 nov 2023 · 00:56</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -585,7 +585,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-471">
+<blockquote class="evidencia discurso" id="d-472">
 <span class="data">23 nov 2023 · 00:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -594,7 +594,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-470">
+<blockquote class="evidencia discurso" id="d-471">
 <span class="data">22 nov 2023 · 23:48</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -603,7 +603,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-469">
+<blockquote class="evidencia discurso" id="d-470">
 <span class="data">22 nov 2023 · 23:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -612,7 +612,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-468">
+<blockquote class="evidencia discurso" id="d-469">
 <span class="data">22 nov 2023 · 23:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -621,7 +621,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-467">
+<blockquote class="evidencia discurso" id="d-468">
 <span class="data">22 nov 2023 · 23:28</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -630,7 +630,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-466">
+<blockquote class="evidencia discurso" id="d-467">
 <span class="data">22 nov 2023 · 22:52</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -639,7 +639,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-464">
+<blockquote class="evidencia discurso" id="d-465">
 <span class="data">22 nov 2023 · 22:36</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -648,7 +648,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-462">
+<blockquote class="evidencia discurso" id="d-463">
 <span class="data">22 nov 2023 · 21:56</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -657,7 +657,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-461">
+<blockquote class="evidencia discurso" id="d-462">
 <span class="data">22 nov 2023 · 21:28</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -666,7 +666,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-460">
+<blockquote class="evidencia discurso" id="d-461">
 <span class="data">22 nov 2023 · 21:20</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -675,7 +675,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-459">
+<blockquote class="evidencia discurso" id="d-460">
 <span class="data">22 nov 2023 · 21:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -684,7 +684,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-458">
+<blockquote class="evidencia discurso" id="d-459">
 <span class="data">22 nov 2023 · 21:12</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -693,7 +693,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-457">
+<blockquote class="evidencia discurso" id="d-458">
 <span class="data">22 nov 2023 · 20:20</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -702,7 +702,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-456">
+<blockquote class="evidencia discurso" id="d-457">
 <span class="data">22 nov 2023 · 20:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -711,7 +711,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-455">
+<blockquote class="evidencia discurso" id="d-456">
 <span class="data">22 nov 2023 · 19:56</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -720,7 +720,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-454">
+<blockquote class="evidencia discurso" id="d-455">
 <span class="data">22 nov 2023 · 19:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -729,7 +729,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-453">
+<blockquote class="evidencia discurso" id="d-454">
 <span class="data">22 nov 2023 · 19:48</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -738,7 +738,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-452">
+<blockquote class="evidencia discurso" id="d-453">
 <span class="data">22 nov 2023 · 19:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -747,7 +747,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-451">
+<blockquote class="evidencia discurso" id="d-452">
 <span class="data">22 nov 2023 · 19:24</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -756,7 +756,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-450">
+<blockquote class="evidencia discurso" id="d-451">
 <span class="data">22 nov 2023 · 19:08</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -765,7 +765,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-449">
+<blockquote class="evidencia discurso" id="d-450">
 <span class="data">22 nov 2023 · 16:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -774,7 +774,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-448">
+<blockquote class="evidencia discurso" id="d-449">
 <span class="data">21 nov 2023 · 21:28</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -783,7 +783,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-447">
+<blockquote class="evidencia discurso" id="d-448">
 <span class="data">21 nov 2023 · 14:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -792,7 +792,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-446">
+<blockquote class="evidencia discurso" id="d-447">
 <span class="data">08 nov 2023 · 18:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -801,7 +801,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-445">
+<blockquote class="evidencia discurso" id="d-446">
 <span class="data">07 nov 2023 · 20:12</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -810,7 +810,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-442">
+<blockquote class="evidencia discurso" id="d-443">
 <span class="data">07 nov 2023 · 18:24</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -819,7 +819,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-439">
+<blockquote class="evidencia discurso" id="d-440">
 <span class="data">25 out 2023 · 20:16</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -828,7 +828,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-438">
+<blockquote class="evidencia discurso" id="d-439">
 <span class="data">25 out 2023 · 19:40</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -837,7 +837,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-437">
+<blockquote class="evidencia discurso" id="d-438">
 <span class="data">25 out 2023 · 18:12</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -846,7 +846,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-436">
+<blockquote class="evidencia discurso" id="d-437">
 <span class="data">25 out 2023 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -855,7 +855,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-435">
+<blockquote class="evidencia discurso" id="d-436">
 <span class="data">25 out 2023 · 17:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -864,7 +864,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-434">
+<blockquote class="evidencia discurso" id="d-435">
 <span class="data">18 out 2023 · 20:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -873,7 +873,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-433">
+<blockquote class="evidencia discurso" id="d-434">
 <span class="data">18 out 2023 · 20:24</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -882,7 +882,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-431">
+<blockquote class="evidencia discurso" id="d-432">
 <span class="data">18 out 2023 · 19:28</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -891,7 +891,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-430">
+<blockquote class="evidencia discurso" id="d-431">
 <span class="data">18 out 2023 · 19:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -900,7 +900,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-428">
+<blockquote class="evidencia discurso" id="d-429">
 <span class="data">18 out 2023 · 18:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -909,7 +909,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-427">
+<blockquote class="evidencia discurso" id="d-428">
 <span class="data">18 out 2023 · 18:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -918,7 +918,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-426">
+<blockquote class="evidencia discurso" id="d-427">
 <span class="data">18 out 2023 · 18:28</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -927,7 +927,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-425">
+<blockquote class="evidencia discurso" id="d-426">
 <span class="data">18 out 2023 · 18:20</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -936,7 +936,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-424">
+<blockquote class="evidencia discurso" id="d-425">
 <span class="data">18 out 2023 · 18:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -945,7 +945,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-423">
+<blockquote class="evidencia discurso" id="d-424">
 <span class="data">18 out 2023 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -954,7 +954,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-422">
+<blockquote class="evidencia discurso" id="d-423">
 <span class="data">18 out 2023 · 18:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -963,7 +963,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-421">
+<blockquote class="evidencia discurso" id="d-422">
 <span class="data">18 out 2023 · 17:52</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -972,7 +972,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-420">
+<blockquote class="evidencia discurso" id="d-421">
 <span class="data">10 out 2023 · 18:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -981,7 +981,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-419">
+<blockquote class="evidencia discurso" id="d-420">
 <span class="data">10 out 2023 · 17:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -990,7 +990,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-418">
+<blockquote class="evidencia discurso" id="d-419">
 <span class="data">10 out 2023 · 17:08</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -999,7 +999,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-417">
+<blockquote class="evidencia discurso" id="d-418">
 <span class="data">10 out 2023 · 16:20</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1008,7 +1008,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-416">
+<blockquote class="evidencia discurso" id="d-417">
 <span class="data">10 out 2023 · 15:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1017,7 +1017,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-415">
+<blockquote class="evidencia discurso" id="d-416">
 <span class="data">09 out 2023 · 16:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1026,7 +1026,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-414">
+<blockquote class="evidencia discurso" id="d-415">
 <span class="data">04 out 2023 · 19:36</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -1035,7 +1035,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-413">
+<blockquote class="evidencia discurso" id="d-414">
 <span class="data">04 out 2023 · 15:48</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1044,7 +1044,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-412">
+<blockquote class="evidencia discurso" id="d-413">
 <span class="data">04 out 2023 · 14:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1053,7 +1053,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-411">
+<blockquote class="evidencia discurso" id="d-412">
 <span class="data">04 out 2023 · 14:04</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -1062,7 +1062,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-410">
+<blockquote class="evidencia discurso" id="d-411">
 <span class="data">04 out 2023 · 13:48</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -1071,7 +1071,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-409">
+<blockquote class="evidencia discurso" id="d-410">
 <span class="data">04 out 2023 · 13:28</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -1080,7 +1080,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-408">
+<blockquote class="evidencia discurso" id="d-409">
 <span class="data">03 out 2023 · 22:48</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1089,7 +1089,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-407">
+<blockquote class="evidencia discurso" id="d-408">
 <span class="data">03 out 2023 · 22:12</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1098,7 +1098,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-406">
+<blockquote class="evidencia discurso" id="d-407">
 <span class="data">03 out 2023 · 21:44</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1107,7 +1107,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-405">
+<blockquote class="evidencia discurso" id="d-406">
 <span class="data">03 out 2023 · 18:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1116,7 +1116,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-404">
+<blockquote class="evidencia discurso" id="d-405">
 <span class="data">27 set 2023 · 21:40</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -1125,7 +1125,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-403">
+<blockquote class="evidencia discurso" id="d-404">
 <span class="data">27 set 2023 · 21:40</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -1134,7 +1134,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-402">
+<blockquote class="evidencia discurso" id="d-403">
 <span class="data">27 set 2023 · 21:36</span>
 <div class="corpo">
 <p class="tipo">RECLAMAÇÃO</p>
@@ -1143,7 +1143,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-401">
+<blockquote class="evidencia discurso" id="d-402">
 <span class="data">27 set 2023 · 21:32</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -1152,7 +1152,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-399">
+<blockquote class="evidencia discurso" id="d-400">
 <span class="data">27 set 2023 · 21:12</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1161,7 +1161,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-398">
+<blockquote class="evidencia discurso" id="d-399">
 <span class="data">27 set 2023 · 20:24</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1170,7 +1170,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-397">
+<blockquote class="evidencia discurso" id="d-398">
 <span class="data">27 set 2023 · 20:04</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -1179,7 +1179,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-396">
+<blockquote class="evidencia discurso" id="d-397">
 <span class="data">27 set 2023 · 20:00</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1188,7 +1188,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-395">
+<blockquote class="evidencia discurso" id="d-396">
 <span class="data">27 set 2023 · 19:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1197,7 +1197,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-394">
+<blockquote class="evidencia discurso" id="d-395">
 <span class="data">27 set 2023 · 19:20</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -1206,7 +1206,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-393">
+<blockquote class="evidencia discurso" id="d-394">
 <span class="data">27 set 2023 · 18:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1215,7 +1215,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-392">
+<blockquote class="evidencia discurso" id="d-393">
 <span class="data">26 set 2023 · 19:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1224,7 +1224,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-391">
+<blockquote class="evidencia discurso" id="d-392">
 <span class="data">26 set 2023 · 19:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1233,7 +1233,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-390">
+<blockquote class="evidencia discurso" id="d-391">
 <span class="data">26 set 2023 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1242,7 +1242,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-389">
+<blockquote class="evidencia discurso" id="d-390">
 <span class="data">26 set 2023 · 14:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1251,7 +1251,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-388">
+<blockquote class="evidencia discurso" id="d-389">
 <span class="data">20 set 2023 · 15:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1260,7 +1260,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-387">
+<blockquote class="evidencia discurso" id="d-388">
 <span class="data">19 set 2023 · 19:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1269,7 +1269,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-383">
+<blockquote class="evidencia discurso" id="d-384">
 <span class="data">19 set 2023 · 17:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1278,7 +1278,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-378">
+<blockquote class="evidencia discurso" id="d-379">
 <span class="data">14 set 2023 · 18:40</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -1287,7 +1287,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-377">
+<blockquote class="evidencia discurso" id="d-378">
 <span class="data">14 set 2023 · 18:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1296,7 +1296,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-376">
+<blockquote class="evidencia discurso" id="d-377">
 <span class="data">14 set 2023 · 18:24</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1305,7 +1305,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-374">
+<blockquote class="evidencia discurso" id="d-375">
 <span class="data">14 set 2023 · 18:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1314,7 +1314,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-373">
+<blockquote class="evidencia discurso" id="d-374">
 <span class="data">14 set 2023 · 17:44</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1323,7 +1323,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-371">
+<blockquote class="evidencia discurso" id="d-372">
 <span class="data">14 set 2023 · 17:24</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1332,7 +1332,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-367">
+<blockquote class="evidencia discurso" id="d-368">
 <span class="data">14 set 2023 · 16:48</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1341,7 +1341,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-363">
+<blockquote class="evidencia discurso" id="d-364">
 <span class="data">14 set 2023 · 16:08</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1350,7 +1350,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-361">
+<blockquote class="evidencia discurso" id="d-362">
 <span class="data">14 set 2023 · 15:56</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1359,7 +1359,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-357">
+<blockquote class="evidencia discurso" id="d-358">
 <span class="data">14 set 2023 · 15:24</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -1368,7 +1368,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-356">
+<blockquote class="evidencia discurso" id="d-357">
 <span class="data">14 set 2023 · 15:16</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1377,7 +1377,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-355">
+<blockquote class="evidencia discurso" id="d-356">
 <span class="data">14 set 2023 · 09:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1386,7 +1386,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-354">
+<blockquote class="evidencia discurso" id="d-355">
 <span class="data">13 set 2023 · 21:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1395,7 +1395,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-353">
+<blockquote class="evidencia discurso" id="d-354">
 <span class="data">13 set 2023 · 14:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1404,7 +1404,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-352">
+<blockquote class="evidencia discurso" id="d-353">
 <span class="data">30 ago 2023 · 14:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1413,7 +1413,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-351">
+<blockquote class="evidencia discurso" id="d-352">
 <span class="data">29 ago 2023 · 14:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1422,7 +1422,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-350">
+<blockquote class="evidencia discurso" id="d-351">
 <span class="data">24 ago 2023 · 09:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1431,7 +1431,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-349">
+<blockquote class="evidencia discurso" id="d-350">
 <span class="data">22 ago 2023 · 18:40</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1440,7 +1440,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-348">
+<blockquote class="evidencia discurso" id="d-349">
 <span class="data">22 ago 2023 · 14:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1449,7 +1449,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-347">
+<blockquote class="evidencia discurso" id="d-348">
 <span class="data">10 ago 2023 · 11:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1458,7 +1458,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-346">
+<blockquote class="evidencia discurso" id="d-347">
 <span class="data">09 ago 2023 · 20:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1467,7 +1467,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-345">
+<blockquote class="evidencia discurso" id="d-346">
 <span class="data">09 ago 2023 · 19:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1476,7 +1476,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-344">
+<blockquote class="evidencia discurso" id="d-345">
 <span class="data">09 ago 2023 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1485,7 +1485,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-343">
+<blockquote class="evidencia discurso" id="d-344">
 <span class="data">09 ago 2023 · 18:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1494,7 +1494,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-342">
+<blockquote class="evidencia discurso" id="d-343">
 <span class="data">09 ago 2023 · 18:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1503,7 +1503,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-341">
+<blockquote class="evidencia discurso" id="d-342">
 <span class="data">09 ago 2023 · 18:04</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1512,7 +1512,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-340">
+<blockquote class="evidencia discurso" id="d-341">
 <span class="data">09 ago 2023 · 18:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1521,7 +1521,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-339">
+<blockquote class="evidencia discurso" id="d-340">
 <span class="data">09 ago 2023 · 17:44</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1530,7 +1530,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-338">
+<blockquote class="evidencia discurso" id="d-339">
 <span class="data">09 ago 2023 · 14:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1539,7 +1539,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-337">
+<blockquote class="evidencia discurso" id="d-338">
 <span class="data">08 ago 2023 · 21:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1548,7 +1548,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-336">
+<blockquote class="evidencia discurso" id="d-337">
 <span class="data">08 ago 2023 · 21:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1557,7 +1557,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-335">
+<blockquote class="evidencia discurso" id="d-336">
 <span class="data">08 ago 2023 · 21:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1566,7 +1566,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-334">
+<blockquote class="evidencia discurso" id="d-335">
 <span class="data">03 ago 2023 · 09:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1575,7 +1575,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-333">
+<blockquote class="evidencia discurso" id="d-334">
 <span class="data">03 ago 2023 · 09:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1584,7 +1584,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-332">
+<blockquote class="evidencia discurso" id="d-333">
 <span class="data">07 jul 2023 · 01:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1593,7 +1593,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-331">
+<blockquote class="evidencia discurso" id="d-332">
 <span class="data">06 jul 2023 · 23:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1602,7 +1602,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-330">
+<blockquote class="evidencia discurso" id="d-331">
 <span class="data">06 jul 2023 · 23:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1611,7 +1611,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-329">
+<blockquote class="evidencia discurso" id="d-330">
 <span class="data">06 jul 2023 · 22:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1620,7 +1620,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-328">
+<blockquote class="evidencia discurso" id="d-329">
 <span class="data">06 jul 2023 · 22:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1629,7 +1629,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-327">
+<blockquote class="evidencia discurso" id="d-328">
 <span class="data">06 jul 2023 · 20:16</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1638,7 +1638,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-326">
+<blockquote class="evidencia discurso" id="d-327">
 <span class="data">06 jul 2023 · 19:40</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1647,7 +1647,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-325">
+<blockquote class="evidencia discurso" id="d-326">
 <span class="data">06 jul 2023 · 11:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1656,7 +1656,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-324">
+<blockquote class="evidencia discurso" id="d-325">
 <span class="data">04 jul 2023 · 18:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1665,7 +1665,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-323">
+<blockquote class="evidencia discurso" id="d-324">
 <span class="data">03 jul 2023 · 20:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1674,7 +1674,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-322">
+<blockquote class="evidencia discurso" id="d-323">
 <span class="data">03 jul 2023 · 18:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1683,7 +1683,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-321">
+<blockquote class="evidencia discurso" id="d-322">
 <span class="data">14 jun 2023 · 21:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1692,7 +1692,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-320">
+<blockquote class="evidencia discurso" id="d-321">
 <span class="data">14 jun 2023 · 20:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1701,7 +1701,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-319">
+<blockquote class="evidencia discurso" id="d-320">
 <span class="data">14 jun 2023 · 20:08</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -1710,7 +1710,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-318">
+<blockquote class="evidencia discurso" id="d-319">
 <span class="data">14 jun 2023 · 19:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1719,7 +1719,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-317">
+<blockquote class="evidencia discurso" id="d-318">
 <span class="data">14 jun 2023 · 19:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1728,7 +1728,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-316">
+<blockquote class="evidencia discurso" id="d-317">
 <span class="data">14 jun 2023 · 19:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1737,7 +1737,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-315">
+<blockquote class="evidencia discurso" id="d-316">
 <span class="data">13 jun 2023 · 17:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1746,7 +1746,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-314">
+<blockquote class="evidencia discurso" id="d-315">
 <span class="data">13 jun 2023 · 17:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1755,7 +1755,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-313">
+<blockquote class="evidencia discurso" id="d-314">
 <span class="data">07 jun 2023 · 12:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1764,7 +1764,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-312">
+<blockquote class="evidencia discurso" id="d-313">
 <span class="data">07 jun 2023 · 11:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1773,7 +1773,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-311">
+<blockquote class="evidencia discurso" id="d-312">
 <span class="data">07 jun 2023 · 10:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1782,7 +1782,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-310">
+<blockquote class="evidencia discurso" id="d-311">
 <span class="data">07 jun 2023 · 10:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1791,7 +1791,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-309">
+<blockquote class="evidencia discurso" id="d-310">
 <span class="data">07 jun 2023 · 10:40</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1800,7 +1800,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-308">
+<blockquote class="evidencia discurso" id="d-309">
 <span class="data">07 jun 2023 · 10:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1809,7 +1809,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-307">
+<blockquote class="evidencia discurso" id="d-308">
 <span class="data">06 jun 2023 · 20:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1818,7 +1818,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-306">
+<blockquote class="evidencia discurso" id="d-307">
 <span class="data">06 jun 2023 · 19:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1827,7 +1827,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-305">
+<blockquote class="evidencia discurso" id="d-306">
 <span class="data">06 jun 2023 · 18:16</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1836,7 +1836,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-304">
+<blockquote class="evidencia discurso" id="d-305">
 <span class="data">01 jun 2023 · 11:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1845,7 +1845,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-303">
+<blockquote class="evidencia discurso" id="d-304">
 <span class="data">01 jun 2023 · 09:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1854,7 +1854,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-302">
+<blockquote class="evidencia discurso" id="d-303">
 <span class="data">31 mai 2023 · 22:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1863,7 +1863,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-301">
+<blockquote class="evidencia discurso" id="d-302">
 <span class="data">31 mai 2023 · 22:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1872,7 +1872,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-300">
+<blockquote class="evidencia discurso" id="d-301">
 <span class="data">31 mai 2023 · 21:16</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1881,7 +1881,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-299">
+<blockquote class="evidencia discurso" id="d-300">
 <span class="data">31 mai 2023 · 20:16</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -1890,7 +1890,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-298">
+<blockquote class="evidencia discurso" id="d-299">
 <span class="data">31 mai 2023 · 12:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1899,7 +1899,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-297">
+<blockquote class="evidencia discurso" id="d-298">
 <span class="data">30 mai 2023 · 22:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1908,7 +1908,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-296">
+<blockquote class="evidencia discurso" id="d-297">
 <span class="data">30 mai 2023 · 20:32</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -1917,7 +1917,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-295">
+<blockquote class="evidencia discurso" id="d-296">
 <span class="data">30 mai 2023 · 20:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1926,7 +1926,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-294">
+<blockquote class="evidencia discurso" id="d-295">
 <span class="data">30 mai 2023 · 19:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1935,7 +1935,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-293">
+<blockquote class="evidencia discurso" id="d-294">
 <span class="data">30 mai 2023 · 18:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -1944,7 +1944,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-292">
+<blockquote class="evidencia discurso" id="d-293">
 <span class="data">30 mai 2023 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1953,7 +1953,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-291">
+<blockquote class="evidencia discurso" id="d-292">
 <span class="data">24 mai 2023 · 21:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1962,7 +1962,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-290">
+<blockquote class="evidencia discurso" id="d-291">
 <span class="data">24 mai 2023 · 16:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -1971,7 +1971,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-289">
+<blockquote class="evidencia discurso" id="d-290">
 <span class="data">23 mai 2023 · 23:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1980,7 +1980,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-288">
+<blockquote class="evidencia discurso" id="d-289">
 <span class="data">23 mai 2023 · 23:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1989,7 +1989,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-287">
+<blockquote class="evidencia discurso" id="d-288">
 <span class="data">23 mai 2023 · 23:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -1998,7 +1998,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-286">
+<blockquote class="evidencia discurso" id="d-287">
 <span class="data">23 mai 2023 · 22:24</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -2007,7 +2007,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-285">
+<blockquote class="evidencia discurso" id="d-286">
 <span class="data">23 mai 2023 · 20:36</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -2016,7 +2016,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-284">
+<blockquote class="evidencia discurso" id="d-285">
 <span class="data">23 mai 2023 · 17:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2025,7 +2025,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-283">
+<blockquote class="evidencia discurso" id="d-284">
 <span class="data">23 mai 2023 · 15:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -2034,7 +2034,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-282">
+<blockquote class="evidencia discurso" id="d-283">
 <span class="data">17 mai 2023 · 18:52</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -2043,7 +2043,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-281">
+<blockquote class="evidencia discurso" id="d-282">
 <span class="data">17 mai 2023 · 17:36</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -2052,7 +2052,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-280">
+<blockquote class="evidencia discurso" id="d-281">
 <span class="data">17 mai 2023 · 14:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2061,7 +2061,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-279">
+<blockquote class="evidencia discurso" id="d-280">
 <span class="data">16 mai 2023 · 21:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2070,7 +2070,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-278">
+<blockquote class="evidencia discurso" id="d-279">
 <span class="data">16 mai 2023 · 14:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -2079,7 +2079,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-277">
+<blockquote class="evidencia discurso" id="d-278">
 <span class="data">11 mai 2023 · 10:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -2088,7 +2088,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-276">
+<blockquote class="evidencia discurso" id="d-277">
 <span class="data">10 mai 2023 · 20:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2097,7 +2097,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-275">
+<blockquote class="evidencia discurso" id="d-276">
 <span class="data">10 mai 2023 · 20:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2106,7 +2106,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-274">
+<blockquote class="evidencia discurso" id="d-275">
 <span class="data">10 mai 2023 · 18:12</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -2115,7 +2115,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-273">
+<blockquote class="evidencia discurso" id="d-274">
 <span class="data">10 mai 2023 · 17:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -2124,7 +2124,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-272">
+<blockquote class="evidencia discurso" id="d-273">
 <span class="data">10 mai 2023 · 15:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -2133,7 +2133,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-271">
+<blockquote class="evidencia discurso" id="d-272">
 <span class="data">09 mai 2023 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2142,7 +2142,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-270">
+<blockquote class="evidencia discurso" id="d-271">
 <span class="data">09 mai 2023 · 18:00</span>
 <div class="corpo">
 <p class="tipo">PARECER</p>
@@ -2151,7 +2151,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-269">
+<blockquote class="evidencia discurso" id="d-270">
 <span class="data">03 mai 2023 · 14:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -2160,7 +2160,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-268">
+<blockquote class="evidencia discurso" id="d-269">
 <span class="data">27 abr 2023 · 10:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -2169,7 +2169,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-267">
+<blockquote class="evidencia discurso" id="d-268">
 <span class="data">26 abr 2023 · 15:04</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -2178,7 +2178,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-266">
+<blockquote class="evidencia discurso" id="d-267">
 <span class="data">25 abr 2023 · 21:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2187,7 +2187,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-265">
+<blockquote class="evidencia discurso" id="d-266">
 <span class="data">25 abr 2023 · 21:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2196,7 +2196,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-264">
+<blockquote class="evidencia discurso" id="d-265">
 <span class="data">25 abr 2023 · 21:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2205,7 +2205,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-263">
+<blockquote class="evidencia discurso" id="d-264">
 <span class="data">25 abr 2023 · 20:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2214,7 +2214,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-262">
+<blockquote class="evidencia discurso" id="d-263">
 <span class="data">25 abr 2023 · 20:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2223,7 +2223,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-261">
+<blockquote class="evidencia discurso" id="d-262">
 <span class="data">25 abr 2023 · 20:32</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -2232,7 +2232,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-260">
+<blockquote class="evidencia discurso" id="d-261">
 <span class="data">25 abr 2023 · 20:16</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -2241,7 +2241,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-259">
+<blockquote class="evidencia discurso" id="d-260">
 <span class="data">25 abr 2023 · 19:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2250,7 +2250,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-258">
+<blockquote class="evidencia discurso" id="d-259">
 <span class="data">25 abr 2023 · 19:28</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -2259,7 +2259,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-257">
+<blockquote class="evidencia discurso" id="d-258">
 <span class="data">25 abr 2023 · 19:24</span>
 <div class="corpo">
 <p class="tipo">QUESTÃO DE ORDEM</p>
@@ -2268,7 +2268,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-256">
+<blockquote class="evidencia discurso" id="d-257">
 <span class="data">25 abr 2023 · 18:28</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -2277,7 +2277,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-255">
+<blockquote class="evidencia discurso" id="d-256">
 <span class="data">25 abr 2023 · 14:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2286,7 +2286,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-254">
+<blockquote class="evidencia discurso" id="d-255">
 <span class="data">25 abr 2023 · 14:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -2295,7 +2295,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-253">
+<blockquote class="evidencia discurso" id="d-254">
 <span class="data">19 abr 2023 · 20:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2304,7 +2304,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-252">
+<blockquote class="evidencia discurso" id="d-253">
 <span class="data">19 abr 2023 · 14:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2313,7 +2313,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-251">
+<blockquote class="evidencia discurso" id="d-252">
 <span class="data">19 abr 2023 · 14:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -2322,7 +2322,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-250">
+<blockquote class="evidencia discurso" id="d-251">
 <span class="data">11 abr 2023 · 18:56</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -2331,7 +2331,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-249">
+<blockquote class="evidencia discurso" id="d-250">
 <span class="data">11 abr 2023 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2340,7 +2340,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-248">
+<blockquote class="evidencia discurso" id="d-249">
 <span class="data">11 abr 2023 · 18:28</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -2349,7 +2349,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-247">
+<blockquote class="evidencia discurso" id="d-248">
 <span class="data">11 abr 2023 · 15:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -2358,7 +2358,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-246">
+<blockquote class="evidencia discurso" id="d-247">
 <span class="data">29 mar 2023 · 15:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -2367,7 +2367,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-245">
+<blockquote class="evidencia discurso" id="d-246">
 <span class="data">28 mar 2023 · 14:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -2376,7 +2376,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-244">
+<blockquote class="evidencia discurso" id="d-245">
 <span class="data">23 mar 2023 · 12:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2385,7 +2385,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-243">
+<blockquote class="evidencia discurso" id="d-244">
 <span class="data">23 mar 2023 · 12:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2394,7 +2394,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-242">
+<blockquote class="evidencia discurso" id="d-243">
 <span class="data">23 mar 2023 · 11:40</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -2403,7 +2403,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-241">
+<blockquote class="evidencia discurso" id="d-242">
 <span class="data">21 mar 2023 · 21:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2412,7 +2412,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-240">
+<blockquote class="evidencia discurso" id="d-241">
 <span class="data">16 mar 2023 · 14:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2421,7 +2421,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-239">
+<blockquote class="evidencia discurso" id="d-240">
 <span class="data">16 mar 2023 · 14:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2430,7 +2430,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-238">
+<blockquote class="evidencia discurso" id="d-239">
 <span class="data">16 mar 2023 · 11:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2439,7 +2439,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-237">
+<blockquote class="evidencia discurso" id="d-238">
 <span class="data">16 mar 2023 · 10:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -2448,7 +2448,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-236">
+<blockquote class="evidencia discurso" id="d-237">
 <span class="data">15 mar 2023 · 14:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -2457,7 +2457,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-235">
+<blockquote class="evidencia discurso" id="d-236">
 <span class="data">14 mar 2023 · 17:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -2466,7 +2466,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-234">
+<blockquote class="evidencia discurso" id="d-235">
 <span class="data">09 mar 2023 · 12:08</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -2475,7 +2475,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-233">
+<blockquote class="evidencia discurso" id="d-234">
 <span class="data">09 mar 2023 · 10:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2484,7 +2484,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-232">
+<blockquote class="evidencia discurso" id="d-233">
 <span class="data">09 mar 2023 · 10:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -2493,7 +2493,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-231">
+<blockquote class="evidencia discurso" id="d-232">
 <span class="data">08 mar 2023 · 14:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -2502,7 +2502,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-230">
+<blockquote class="evidencia discurso" id="d-231">
 <span class="data">07 mar 2023 · 15:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -2511,7 +2511,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-229">
+<blockquote class="evidencia discurso" id="d-230">
 <span class="data">15 fev 2023 · 12:00</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -2520,7 +2520,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-228">
+<blockquote class="evidencia discurso" id="d-229">
 <span class="data">15 fev 2023 · 11:40</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -2529,7 +2529,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-227">
+<blockquote class="evidencia discurso" id="d-228">
 <span class="data">15 fev 2023 · 11:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2538,7 +2538,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-226">
+<blockquote class="evidencia discurso" id="d-227">
 <span class="data">15 fev 2023 · 10:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -2547,7 +2547,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-225">
+<blockquote class="evidencia discurso" id="d-226">
 <span class="data">14 fev 2023 · 18:44</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -2556,7 +2556,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-224">
+<blockquote class="evidencia discurso" id="d-225">
 <span class="data">14 fev 2023 · 18:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -2565,7 +2565,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-223">
+<blockquote class="evidencia discurso" id="d-224">
 <span class="data">09 fev 2023 · 10:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2574,7 +2574,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-222">
+<blockquote class="evidencia discurso" id="d-223">
 <span class="data">09 fev 2023 · 10:28</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -2583,7 +2583,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-221">
+<blockquote class="evidencia discurso" id="d-222">
 <span class="data">09 fev 2023 · 10:04</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -2592,7 +2592,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-220">
+<blockquote class="evidencia discurso" id="d-221">
 <span class="data">09 fev 2023 · 09:56</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -2601,7 +2601,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-219">
+<blockquote class="evidencia discurso" id="d-220">
 <span class="data">09 fev 2023 · 09:40</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -2610,7 +2610,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-218">
+<blockquote class="evidencia discurso" id="d-219">
 <span class="data">09 fev 2023 · 09:12</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -2619,7 +2619,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-217">
+<blockquote class="evidencia discurso" id="d-218">
 <span class="data">08 fev 2023 · 19:12</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -2628,7 +2628,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-216">
+<blockquote class="evidencia discurso" id="d-217">
 <span class="data">08 fev 2023 · 19:00</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -2637,7 +2637,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-215">
+<blockquote class="evidencia discurso" id="d-216">
 <span class="data">08 fev 2023 · 18:44</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -2646,7 +2646,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-214">
+<blockquote class="evidencia discurso" id="d-215">
 <span class="data">08 fev 2023 · 15:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -2655,7 +2655,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-213">
+<blockquote class="evidencia discurso" id="d-214">
 <span class="data">07 fev 2023 · 20:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2664,7 +2664,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-212">
+<blockquote class="evidencia discurso" id="d-213">
 <span class="data">07 fev 2023 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2673,7 +2673,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-211">
+<blockquote class="evidencia discurso" id="d-212">
 <span class="data">07 fev 2023 · 19:52</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -2682,7 +2682,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-210">
+<blockquote class="evidencia discurso" id="d-211">
 <span class="data">07 fev 2023 · 19:32</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -2691,7 +2691,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-209">
+<blockquote class="evidencia discurso" id="d-210">
 <span class="data">07 fev 2023 · 19:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2700,7 +2700,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-208">
+<blockquote class="evidencia discurso" id="d-209">
 <span class="data">07 fev 2023 · 19:08</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -2709,7 +2709,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-207">
+<blockquote class="evidencia discurso" id="d-208">
 <span class="data">07 fev 2023 · 18:52</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -2718,7 +2718,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-206">
+<blockquote class="evidencia discurso" id="d-207">
 <span class="data">07 fev 2023 · 18:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2727,7 +2727,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-205">
+<blockquote class="evidencia discurso" id="d-206">
 <span class="data">07 fev 2023 · 18:40</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -2736,7 +2736,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-204">
+<blockquote class="evidencia discurso" id="d-205">
 <span class="data">07 fev 2023 · 18:36</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -2745,7 +2745,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-203">
+<blockquote class="evidencia discurso" id="d-204">
 <span class="data">07 fev 2023 · 18:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -2754,7 +2754,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-202">
+<blockquote class="evidencia discurso" id="d-203">
 <span class="data">03 fev 2023 · 11:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2763,7 +2763,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-201">
+<blockquote class="evidencia discurso" id="d-202">
 <span class="data">03 fev 2023 · 11:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -2772,7 +2772,7 @@ description: "Os discursos de Marcel van Hattem em 2023, com o sumário oficial 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-200">
+<blockquote class="evidencia discurso" id="d-201">
 <span class="data">01 fev 2023 · 17:04</span>
 <div class="corpo">
 <p class="tipo">OUTROS</p>
@@ -2792,7 +2792,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-563">
+<blockquote class="evidencia discurso" id="d-564">
 <span class="data">22 dez 2023 · 01:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2801,7 +2801,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-560">
+<blockquote class="evidencia discurso" id="d-561">
 <span class="data">22 dez 2023 · 00:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2810,7 +2810,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-558">
+<blockquote class="evidencia discurso" id="d-559">
 <span class="data">22 dez 2023 · 00:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2819,7 +2819,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-557">
+<blockquote class="evidencia discurso" id="d-558">
 <span class="data">21 dez 2023 · 23:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2828,7 +2828,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-555">
+<blockquote class="evidencia discurso" id="d-556">
 <span class="data">21 dez 2023 · 22:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2837,7 +2837,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-553">
+<blockquote class="evidencia discurso" id="d-554">
 <span class="data">21 dez 2023 · 19:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2846,7 +2846,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-552">
+<blockquote class="evidencia discurso" id="d-553">
 <span class="data">21 dez 2023 · 19:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2855,7 +2855,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-551">
+<blockquote class="evidencia discurso" id="d-552">
 <span class="data">21 dez 2023 · 19:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2864,7 +2864,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-549">
+<blockquote class="evidencia discurso" id="d-550">
 <span class="data">21 dez 2023 · 18:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2873,7 +2873,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-536">
+<blockquote class="evidencia discurso" id="d-537">
 <span class="data">15 dez 2023 · 22:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2882,7 +2882,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-535">
+<blockquote class="evidencia discurso" id="d-536">
 <span class="data">15 dez 2023 · 21:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2891,7 +2891,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-533">
+<blockquote class="evidencia discurso" id="d-534">
 <span class="data">15 dez 2023 · 21:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2900,7 +2900,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-528">
+<blockquote class="evidencia discurso" id="d-529">
 <span class="data">15 dez 2023 · 19:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2909,7 +2909,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-527">
+<blockquote class="evidencia discurso" id="d-528">
 <span class="data">15 dez 2023 · 19:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2918,7 +2918,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-526">
+<blockquote class="evidencia discurso" id="d-527">
 <span class="data">15 dez 2023 · 19:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2927,7 +2927,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-522">
+<blockquote class="evidencia discurso" id="d-523">
 <span class="data">15 dez 2023 · 18:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2936,7 +2936,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-520">
+<blockquote class="evidencia discurso" id="d-521">
 <span class="data">15 dez 2023 · 18:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2945,7 +2945,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-519">
+<blockquote class="evidencia discurso" id="d-520">
 <span class="data">15 dez 2023 · 18:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2954,7 +2954,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-518">
+<blockquote class="evidencia discurso" id="d-519">
 <span class="data">15 dez 2023 · 17:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2963,7 +2963,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-517">
+<blockquote class="evidencia discurso" id="d-518">
 <span class="data">15 dez 2023 · 17:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2972,7 +2972,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-512">
+<blockquote class="evidencia discurso" id="d-513">
 <span class="data">15 dez 2023 · 15:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2981,7 +2981,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-507">
+<blockquote class="evidencia discurso" id="d-508">
 <span class="data">15 dez 2023 · 13:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2990,7 +2990,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-503">
+<blockquote class="evidencia discurso" id="d-504">
 <span class="data">15 dez 2023 · 13:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -2999,7 +2999,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-502">
+<blockquote class="evidencia discurso" id="d-503">
 <span class="data">15 dez 2023 · 12:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3008,7 +3008,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-501">
+<blockquote class="evidencia discurso" id="d-502">
 <span class="data">15 dez 2023 · 12:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3017,7 +3017,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-500">
+<blockquote class="evidencia discurso" id="d-501">
 <span class="data">15 dez 2023 · 12:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3026,7 +3026,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-498">
+<blockquote class="evidencia discurso" id="d-499">
 <span class="data">15 dez 2023 · 11:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3035,7 +3035,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-495">
+<blockquote class="evidencia discurso" id="d-496">
 <span class="data">15 dez 2023 · 10:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3044,7 +3044,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-490">
+<blockquote class="evidencia discurso" id="d-491">
 <span class="data">12 dez 2023 · 23:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3053,7 +3053,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-487">
+<blockquote class="evidencia discurso" id="d-488">
 <span class="data">12 dez 2023 · 20:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3062,7 +3062,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-486">
+<blockquote class="evidencia discurso" id="d-487">
 <span class="data">12 dez 2023 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3071,7 +3071,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-472">
+<blockquote class="evidencia discurso" id="d-473">
 <span class="data">23 nov 2023 · 00:48</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3080,7 +3080,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-465">
+<blockquote class="evidencia discurso" id="d-466">
 <span class="data">22 nov 2023 · 22:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3089,7 +3089,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-463">
+<blockquote class="evidencia discurso" id="d-464">
 <span class="data">22 nov 2023 · 22:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3098,7 +3098,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-444">
+<blockquote class="evidencia discurso" id="d-445">
 <span class="data">07 nov 2023 · 20:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3107,7 +3107,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-443">
+<blockquote class="evidencia discurso" id="d-444">
 <span class="data">07 nov 2023 · 18:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3116,7 +3116,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-441">
+<blockquote class="evidencia discurso" id="d-442">
 <span class="data">07 nov 2023 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3125,7 +3125,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-440">
+<blockquote class="evidencia discurso" id="d-441">
 <span class="data">25 out 2023 · 21:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3134,7 +3134,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-432">
+<blockquote class="evidencia discurso" id="d-433">
 <span class="data">18 out 2023 · 20:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3143,7 +3143,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-429">
+<blockquote class="evidencia discurso" id="d-430">
 <span class="data">18 out 2023 · 18:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3152,7 +3152,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-400">
+<blockquote class="evidencia discurso" id="d-401">
 <span class="data">27 set 2023 · 21:24</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3161,7 +3161,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-386">
+<blockquote class="evidencia discurso" id="d-387">
 <span class="data">19 set 2023 · 18:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3170,7 +3170,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-385">
+<blockquote class="evidencia discurso" id="d-386">
 <span class="data">19 set 2023 · 18:40</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3179,7 +3179,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-384">
+<blockquote class="evidencia discurso" id="d-385">
 <span class="data">19 set 2023 · 18:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3188,7 +3188,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-382">
+<blockquote class="evidencia discurso" id="d-383">
 <span class="data">19 set 2023 · 17:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3197,7 +3197,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-381">
+<blockquote class="evidencia discurso" id="d-382">
 <span class="data">14 set 2023 · 19:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3206,7 +3206,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-380">
+<blockquote class="evidencia discurso" id="d-381">
 <span class="data">14 set 2023 · 19:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3215,7 +3215,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-379">
+<blockquote class="evidencia discurso" id="d-380">
 <span class="data">14 set 2023 · 18:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3224,7 +3224,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-375">
+<blockquote class="evidencia discurso" id="d-376">
 <span class="data">14 set 2023 · 18:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3233,7 +3233,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-372">
+<blockquote class="evidencia discurso" id="d-373">
 <span class="data">14 set 2023 · 17:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3242,7 +3242,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-370">
+<blockquote class="evidencia discurso" id="d-371">
 <span class="data">14 set 2023 · 17:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3251,7 +3251,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-369">
+<blockquote class="evidencia discurso" id="d-370">
 <span class="data">14 set 2023 · 17:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3260,7 +3260,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-368">
+<blockquote class="evidencia discurso" id="d-369">
 <span class="data">14 set 2023 · 16:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3269,7 +3269,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-366">
+<blockquote class="evidencia discurso" id="d-367">
 <span class="data">14 set 2023 · 16:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3278,7 +3278,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-365">
+<blockquote class="evidencia discurso" id="d-366">
 <span class="data">14 set 2023 · 16:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3287,7 +3287,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-364">
+<blockquote class="evidencia discurso" id="d-365">
 <span class="data">14 set 2023 · 16:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3296,7 +3296,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-362">
+<blockquote class="evidencia discurso" id="d-363">
 <span class="data">14 set 2023 · 16:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3305,7 +3305,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-360">
+<blockquote class="evidencia discurso" id="d-361">
 <span class="data">14 set 2023 · 15:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3314,7 +3314,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-359">
+<blockquote class="evidencia discurso" id="d-360">
 <span class="data">14 set 2023 · 15:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -3323,7 +3323,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-358">
+<blockquote class="evidencia discurso" id="d-359">
 <span class="data">14 set 2023 · 15:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

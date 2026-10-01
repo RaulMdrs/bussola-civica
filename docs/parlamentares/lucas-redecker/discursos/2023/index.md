@@ -18,7 +18,7 @@ description: "Os discursos de Lucas Redecker em 2023, com o sumário oficial e l
 
 ## Substantivos — 17
 
-<blockquote class="evidencia discurso" id="d-3479">
+<blockquote class="evidencia discurso" id="d-3487">
 <span class="data">20 dez 2023 · 19:28</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Lucas Redecker em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3478">
+<blockquote class="evidencia discurso" id="d-3486">
 <span class="data">14 dez 2023 · 14:40</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Lucas Redecker em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3477">
+<blockquote class="evidencia discurso" id="d-3485">
 <span class="data">28 nov 2023 · 14:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Lucas Redecker em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3476">
+<blockquote class="evidencia discurso" id="d-3484">
 <span class="data">22 nov 2023 · 14:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Lucas Redecker em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3475">
+<blockquote class="evidencia discurso" id="d-3483">
 <span class="data">07 nov 2023 · 14:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Lucas Redecker em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3474">
+<blockquote class="evidencia discurso" id="d-3482">
 <span class="data">17 out 2023 · 14:56</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Lucas Redecker em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3473">
+<blockquote class="evidencia discurso" id="d-3481">
 <span class="data">27 set 2023 · 14:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Lucas Redecker em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3472">
+<blockquote class="evidencia discurso" id="d-3480">
 <span class="data">13 set 2023 · 14:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Lucas Redecker em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3471">
+<blockquote class="evidencia discurso" id="d-3479">
 <span class="data">12 set 2023 · 14:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Lucas Redecker em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3470">
+<blockquote class="evidencia discurso" id="d-3478">
 <span class="data">23 ago 2023 · 16:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Lucas Redecker em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3469">
+<blockquote class="evidencia discurso" id="d-3477">
 <span class="data">16 ago 2023 · 14:04</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Lucas Redecker em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3468">
+<blockquote class="evidencia discurso" id="d-3476">
 <span class="data">17 mai 2023 · 14:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Lucas Redecker em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3467">
+<blockquote class="evidencia discurso" id="d-3475">
 <span class="data">09 mai 2023 · 14:16</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Lucas Redecker em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3466">
+<blockquote class="evidencia discurso" id="d-3474">
 <span class="data">03 mai 2023 · 15:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Lucas Redecker em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3465">
+<blockquote class="evidencia discurso" id="d-3473">
 <span class="data">25 abr 2023 · 16:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Lucas Redecker em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3464">
+<blockquote class="evidencia discurso" id="d-3472">
 <span class="data">19 abr 2023 · 14:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Lucas Redecker em 2023, com o sumário oficial e l
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3463">
+<blockquote class="evidencia discurso" id="d-3471">
 <span class="data">22 mar 2023 · 16:40</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>

@@ -18,7 +18,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 
 ## Substantivos — 25
 
-<blockquote class="evidencia discurso" id="d-2615">
+<blockquote class="evidencia discurso" id="d-2620">
 <span class="data">26 nov 2025 · 14:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2614">
+<blockquote class="evidencia discurso" id="d-2619">
 <span class="data">21 out 2025 · 14:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2613">
+<blockquote class="evidencia discurso" id="d-2618">
 <span class="data">15 out 2025 · 17:08</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2612">
+<blockquote class="evidencia discurso" id="d-2617">
 <span class="data">07 out 2025 · 15:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2611">
+<blockquote class="evidencia discurso" id="d-2616">
 <span class="data">01 out 2025 · 15:32</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2610">
+<blockquote class="evidencia discurso" id="d-2615">
 <span class="data">10 set 2025 · 20:48</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2609">
+<blockquote class="evidencia discurso" id="d-2614">
 <span class="data">02 set 2025 · 21:56</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2608">
+<blockquote class="evidencia discurso" id="d-2613">
 <span class="data">02 set 2025 · 14:36</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2607">
+<blockquote class="evidencia discurso" id="d-2612">
 <span class="data">19 ago 2025 · 16:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2606">
+<blockquote class="evidencia discurso" id="d-2611">
 <span class="data">13 ago 2025 · 14:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2605">
+<blockquote class="evidencia discurso" id="d-2610">
 <span class="data">05 ago 2025 · 12:24</span>
 <div class="corpo">
 <p class="tipo">HOMENAGEM</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2604">
+<blockquote class="evidencia discurso" id="d-2609">
 <span class="data">16 jul 2025 · 21:40</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2603">
+<blockquote class="evidencia discurso" id="d-2608">
 <span class="data">02 jul 2025 · 18:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2602">
+<blockquote class="evidencia discurso" id="d-2607">
 <span class="data">17 jun 2025 · 19:00</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2601">
+<blockquote class="evidencia discurso" id="d-2606">
 <span class="data">11 jun 2025 · 14:20</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2600">
+<blockquote class="evidencia discurso" id="d-2605">
 <span class="data">29 mai 2025 · 11:28</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2598">
+<blockquote class="evidencia discurso" id="d-2603">
 <span class="data">27 mai 2025 · 14:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2597">
+<blockquote class="evidencia discurso" id="d-2602">
 <span class="data">20 mai 2025 · 16:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2596">
+<blockquote class="evidencia discurso" id="d-2601">
 <span class="data">06 mai 2025 · 15:24</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2594">
+<blockquote class="evidencia discurso" id="d-2599">
 <span class="data">15 abr 2025 · 17:40</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2593">
+<blockquote class="evidencia discurso" id="d-2598">
 <span class="data">08 abr 2025 · 19:16</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2592">
+<blockquote class="evidencia discurso" id="d-2597">
 <span class="data">19 mar 2025 · 20:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2591">
+<blockquote class="evidencia discurso" id="d-2596">
 <span class="data">12 mar 2025 · 18:20</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2590">
+<blockquote class="evidencia discurso" id="d-2595">
 <span class="data">12 mar 2025 · 17:12</span>
 <div class="corpo">
 <p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Heitor Schuch em 2025, com o sumário oficial e li
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2589">
+<blockquote class="evidencia discurso" id="d-2594">
 <span class="data">26 fev 2025 · 19:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -254,7 +254,7 @@ estruturada em <code>orientacao</code>, e é de onde sai o eixo 1) e
 isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 
-<blockquote class="evidencia discurso" id="d-2599">
+<blockquote class="evidencia discurso" id="d-2604">
 <span class="data">29 mai 2025 · 11:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
@@ -263,7 +263,7 @@ isso eles estão aqui, inteiros, com o mesmo link para a fonte.</p>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2595">
+<blockquote class="evidencia discurso" id="d-2600">
 <span class="data">28 abr 2025 · 21:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>

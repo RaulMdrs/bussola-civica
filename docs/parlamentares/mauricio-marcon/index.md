@@ -50,7 +50,7 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">31,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>206</b></span> |
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">29,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>17</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">22,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>48</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">20,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>130</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">20,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>129</b></span> |
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">17,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>23</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">16,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>25</b></span> |
 | [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">15,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>46</b></span> |
@@ -147,7 +147,7 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-13171">
+<blockquote class="evidencia discurso" id="d-6610">
 <span class="data">01 set 2026 · 21:00</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -156,7 +156,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4324">
+<blockquote class="evidencia discurso" id="d-4336">
 <span class="data">01 jul 2026 · 17:40</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
@@ -165,7 +165,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4323">
+<blockquote class="evidencia discurso" id="d-4335">
 <span class="data">30 jun 2026 · 16:20</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -174,7 +174,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4322">
+<blockquote class="evidencia discurso" id="d-4334">
 <span class="data">16 jun 2026 · 18:44</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>
@@ -183,7 +183,7 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4321">
+<blockquote class="evidencia discurso" id="d-4333">
 <span class="data">10 jun 2026 · 17:52</span>
 <div class="corpo">
 <p class="tipo">BREVES COMUNICAÇÕES</p>

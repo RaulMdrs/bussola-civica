@@ -18,7 +18,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 
 ## Substantivos — 138
 
-<blockquote class="evidencia discurso" id="d-12082">
+<blockquote class="evidencia discurso" id="d-6250">
 <span class="data">18 dez 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -27,7 +27,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12084">
+<blockquote class="evidencia discurso" id="d-6252">
 <span class="data">17 dez 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -36,7 +36,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12083">
+<blockquote class="evidencia discurso" id="d-6251">
 <span class="data">17 dez 2024</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -45,7 +45,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12085">
+<blockquote class="evidencia discurso" id="d-6253">
 <span class="data">16 dez 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -54,7 +54,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12086">
+<blockquote class="evidencia discurso" id="d-6254">
 <span class="data">11 dez 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -63,7 +63,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12088">
+<blockquote class="evidencia discurso" id="d-6256">
 <span class="data">10 dez 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -72,7 +72,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12087">
+<blockquote class="evidencia discurso" id="d-6255">
 <span class="data">10 dez 2024</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -81,7 +81,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12089">
+<blockquote class="evidencia discurso" id="d-6257">
 <span class="data">09 dez 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -90,7 +90,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12093">
+<blockquote class="evidencia discurso" id="d-6261">
 <span class="data">05 dez 2024</span>
 <div class="corpo">
 <p class="tipo">Como Relator - Para proferir parecer</p>
@@ -99,7 +99,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12092">
+<blockquote class="evidencia discurso" id="d-6260">
 <span class="data">05 dez 2024</span>
 <div class="corpo">
 <p class="tipo">Como Relator</p>
@@ -108,7 +108,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12091">
+<blockquote class="evidencia discurso" id="d-6259">
 <span class="data">05 dez 2024</span>
 <div class="corpo">
 <p class="tipo">Como Relator</p>
@@ -117,7 +117,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12090">
+<blockquote class="evidencia discurso" id="d-6258">
 <span class="data">05 dez 2024</span>
 <div class="corpo">
 <p class="tipo">Como Relator</p>
@@ -126,7 +126,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12094">
+<blockquote class="evidencia discurso" id="d-6262">
 <span class="data">04 dez 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -135,7 +135,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12095">
+<blockquote class="evidencia discurso" id="d-6263">
 <span class="data">03 dez 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -144,7 +144,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12096">
+<blockquote class="evidencia discurso" id="d-6264">
 <span class="data">02 dez 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -153,7 +153,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12100">
+<blockquote class="evidencia discurso" id="d-6268">
 <span class="data">27 nov 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -162,7 +162,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12099">
+<blockquote class="evidencia discurso" id="d-6267">
 <span class="data">27 nov 2024</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -171,7 +171,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12098">
+<blockquote class="evidencia discurso" id="d-6266">
 <span class="data">27 nov 2024</span>
 <div class="corpo">
 <p class="tipo">Como Relator</p>
@@ -180,7 +180,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12097">
+<blockquote class="evidencia discurso" id="d-6265">
 <span class="data">27 nov 2024</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -189,7 +189,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12103">
+<blockquote class="evidencia discurso" id="d-6271">
 <span class="data">26 nov 2024</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -198,7 +198,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12102">
+<blockquote class="evidencia discurso" id="d-6270">
 <span class="data">26 nov 2024</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -207,7 +207,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12101">
+<blockquote class="evidencia discurso" id="d-6269">
 <span class="data">26 nov 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -216,7 +216,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12104">
+<blockquote class="evidencia discurso" id="d-6272">
 <span class="data">25 nov 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -225,7 +225,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12106">
+<blockquote class="evidencia discurso" id="d-6274">
 <span class="data">19 nov 2024</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -234,7 +234,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12105">
+<blockquote class="evidencia discurso" id="d-6273">
 <span class="data">19 nov 2024</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -243,7 +243,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12107">
+<blockquote class="evidencia discurso" id="d-6275">
 <span class="data">18 nov 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -252,7 +252,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12110">
+<blockquote class="evidencia discurso" id="d-6278">
 <span class="data">31 out 2024</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -261,7 +261,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12109">
+<blockquote class="evidencia discurso" id="d-6277">
 <span class="data">31 out 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso proferido da Presidência</p>
@@ -270,7 +270,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12108">
+<blockquote class="evidencia discurso" id="d-6276">
 <span class="data">31 out 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso proferido da Presidência</p>
@@ -279,7 +279,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12111">
+<blockquote class="evidencia discurso" id="d-6279">
 <span class="data">30 out 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -288,7 +288,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12112">
+<blockquote class="evidencia discurso" id="d-6280">
 <span class="data">29 out 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -297,7 +297,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12113">
+<blockquote class="evidencia discurso" id="d-6281">
 <span class="data">16 out 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -306,7 +306,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12114">
+<blockquote class="evidencia discurso" id="d-6282">
 <span class="data">15 out 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -315,7 +315,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12115">
+<blockquote class="evidencia discurso" id="d-6283">
 <span class="data">14 out 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -324,7 +324,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12116">
+<blockquote class="evidencia discurso" id="d-6284">
 <span class="data">09 out 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -333,7 +333,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12118">
+<blockquote class="evidencia discurso" id="d-6286">
 <span class="data">08 out 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -342,7 +342,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12117">
+<blockquote class="evidencia discurso" id="d-6285">
 <span class="data">08 out 2024</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -351,7 +351,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12119">
+<blockquote class="evidencia discurso" id="d-6287">
 <span class="data">24 set 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -360,7 +360,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12120">
+<blockquote class="evidencia discurso" id="d-6288">
 <span class="data">18 set 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -369,7 +369,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12121">
+<blockquote class="evidencia discurso" id="d-6289">
 <span class="data">17 set 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -378,7 +378,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12122">
+<blockquote class="evidencia discurso" id="d-6290">
 <span class="data">11 set 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -387,7 +387,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12124">
+<blockquote class="evidencia discurso" id="d-6292">
 <span class="data">10 set 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -396,7 +396,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12123">
+<blockquote class="evidencia discurso" id="d-6291">
 <span class="data">10 set 2024</span>
 <div class="corpo">
 <p class="tipo">Como Relator - Para proferir parecer</p>
@@ -405,7 +405,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12126">
+<blockquote class="evidencia discurso" id="d-6294">
 <span class="data">04 set 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -414,7 +414,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12125">
+<blockquote class="evidencia discurso" id="d-6293">
 <span class="data">04 set 2024</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -423,7 +423,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12129">
+<blockquote class="evidencia discurso" id="d-6297">
 <span class="data">03 set 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -432,7 +432,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12128">
+<blockquote class="evidencia discurso" id="d-6296">
 <span class="data">03 set 2024</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -441,7 +441,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12127">
+<blockquote class="evidencia discurso" id="d-6295">
 <span class="data">03 set 2024</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -450,7 +450,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12131">
+<blockquote class="evidencia discurso" id="d-6299">
 <span class="data">02 set 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -459,7 +459,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12130">
+<blockquote class="evidencia discurso" id="d-6298">
 <span class="data">02 set 2024</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -468,7 +468,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12132">
+<blockquote class="evidencia discurso" id="d-6300">
 <span class="data">29 ago 2024</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -477,7 +477,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12133">
+<blockquote class="evidencia discurso" id="d-6301">
 <span class="data">27 ago 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -486,7 +486,7 @@ description: "Os discursos de Paulo Paim em 2024, com o sumário oficial e link 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12134">
+<blockquote class="evidencia discurso" id="d-6302">
 <span class="data">26 ago 2024</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -496,7 +496,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12135">
+<blockquote class="evidencia discurso" id="d-6303">
 <span class="data">21 ago 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -505,7 +505,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12136">
+<blockquote class="evidencia discurso" id="d-6304">
 <span class="data">20 ago 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -514,7 +514,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12137">
+<blockquote class="evidencia discurso" id="d-6305">
 <span class="data">19 ago 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -523,7 +523,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12139">
+<blockquote class="evidencia discurso" id="d-6307">
 <span class="data">14 ago 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -532,7 +532,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12138">
+<blockquote class="evidencia discurso" id="d-6306">
 <span class="data">14 ago 2024</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -541,7 +541,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12143">
+<blockquote class="evidencia discurso" id="d-6311">
 <span class="data">13 ago 2024</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -550,7 +550,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12142">
+<blockquote class="evidencia discurso" id="d-6310">
 <span class="data">13 ago 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -559,7 +559,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12141">
+<blockquote class="evidencia discurso" id="d-6309">
 <span class="data">13 ago 2024</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -568,7 +568,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12140">
+<blockquote class="evidencia discurso" id="d-6308">
 <span class="data">13 ago 2024</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -577,7 +577,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12145">
+<blockquote class="evidencia discurso" id="d-6313">
 <span class="data">12 ago 2024</span>
 <div class="corpo">
 <p class="tipo">Fala da Presidência</p>
@@ -586,7 +586,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12144">
+<blockquote class="evidencia discurso" id="d-6312">
 <span class="data">12 ago 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -595,7 +595,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12146">
+<blockquote class="evidencia discurso" id="d-6314">
 <span class="data">08 ago 2024</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -604,7 +604,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12147">
+<blockquote class="evidencia discurso" id="d-6315">
 <span class="data">07 ago 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -613,7 +613,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12148">
+<blockquote class="evidencia discurso" id="d-6316">
 <span class="data">06 ago 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -622,7 +622,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12159">
+<blockquote class="evidencia discurso" id="d-6327">
 <span class="data">17 jul 2024</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -631,7 +631,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12158">
+<blockquote class="evidencia discurso" id="d-6326">
 <span class="data">17 jul 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -640,7 +640,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12157">
+<blockquote class="evidencia discurso" id="d-6325">
 <span class="data">17 jul 2024</span>
 <div class="corpo">
 <p class="tipo">Como Relator - Para proferir parecer</p>
@@ -649,7 +649,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12156">
+<blockquote class="evidencia discurso" id="d-6324">
 <span class="data">17 jul 2024</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -658,7 +658,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12155">
+<blockquote class="evidencia discurso" id="d-6323">
 <span class="data">17 jul 2024</span>
 <div class="corpo">
 <p class="tipo">Como Relator</p>
@@ -667,7 +667,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12154">
+<blockquote class="evidencia discurso" id="d-6322">
 <span class="data">17 jul 2024</span>
 <div class="corpo">
 <p class="tipo">Como Relator</p>
@@ -676,7 +676,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12153">
+<blockquote class="evidencia discurso" id="d-6321">
 <span class="data">17 jul 2024</span>
 <div class="corpo">
 <p class="tipo">Como Relator</p>
@@ -685,7 +685,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12152">
+<blockquote class="evidencia discurso" id="d-6320">
 <span class="data">17 jul 2024</span>
 <div class="corpo">
 <p class="tipo">Como Relator</p>
@@ -694,7 +694,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12151">
+<blockquote class="evidencia discurso" id="d-6319">
 <span class="data">17 jul 2024</span>
 <div class="corpo">
 <p class="tipo">Como Relator</p>
@@ -703,7 +703,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12150">
+<blockquote class="evidencia discurso" id="d-6318">
 <span class="data">17 jul 2024</span>
 <div class="corpo">
 <p class="tipo">Não classificado</p>
@@ -712,7 +712,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12149">
+<blockquote class="evidencia discurso" id="d-6317">
 <span class="data">17 jul 2024</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -721,7 +721,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12160">
+<blockquote class="evidencia discurso" id="d-6328">
 <span class="data">16 jul 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -730,7 +730,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12161">
+<blockquote class="evidencia discurso" id="d-6329">
 <span class="data">11 jul 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -739,7 +739,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12164">
+<blockquote class="evidencia discurso" id="d-6332">
 <span class="data">10 jul 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -748,7 +748,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12163">
+<blockquote class="evidencia discurso" id="d-6331">
 <span class="data">10 jul 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -757,7 +757,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12162">
+<blockquote class="evidencia discurso" id="d-6330">
 <span class="data">10 jul 2024</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -766,7 +766,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12165">
+<blockquote class="evidencia discurso" id="d-6333">
 <span class="data">04 jul 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -775,7 +775,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12166">
+<blockquote class="evidencia discurso" id="d-6334">
 <span class="data">03 jul 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -784,7 +784,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12167">
+<blockquote class="evidencia discurso" id="d-6335">
 <span class="data">02 jul 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -793,7 +793,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12168">
+<blockquote class="evidencia discurso" id="d-6336">
 <span class="data">01 jul 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -802,7 +802,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12169">
+<blockquote class="evidencia discurso" id="d-6337">
 <span class="data">26 jun 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -811,7 +811,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12170">
+<blockquote class="evidencia discurso" id="d-6338">
 <span class="data">25 jun 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -820,7 +820,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12171">
+<blockquote class="evidencia discurso" id="d-6339">
 <span class="data">13 jun 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -829,7 +829,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12172">
+<blockquote class="evidencia discurso" id="d-6340">
 <span class="data">12 jun 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -838,7 +838,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12173">
+<blockquote class="evidencia discurso" id="d-6341">
 <span class="data">10 jun 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -847,7 +847,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12176">
+<blockquote class="evidencia discurso" id="d-6344">
 <span class="data">27 mai 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -856,7 +856,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12175">
+<blockquote class="evidencia discurso" id="d-6343">
 <span class="data">27 mai 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso proferido da Presidência</p>
@@ -865,7 +865,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12174">
+<blockquote class="evidencia discurso" id="d-6342">
 <span class="data">27 mai 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -874,7 +874,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12178">
+<blockquote class="evidencia discurso" id="d-6346">
 <span class="data">22 mai 2024</span>
 <div class="corpo">
 <p class="tipo">Discussão</p>
@@ -883,7 +883,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12177">
+<blockquote class="evidencia discurso" id="d-6345">
 <span class="data">22 mai 2024</span>
 <div class="corpo">
 <p class="tipo">Orientação à bancada</p>
@@ -892,7 +892,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12179">
+<blockquote class="evidencia discurso" id="d-6347">
 <span class="data">21 mai 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -901,7 +901,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12182">
+<blockquote class="evidencia discurso" id="d-6350">
 <span class="data">15 mai 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -910,7 +910,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12181">
+<blockquote class="evidencia discurso" id="d-6349">
 <span class="data">15 mai 2024</span>
 <div class="corpo">
 <p class="tipo">Como Relator - Para proferir parecer</p>
@@ -919,7 +919,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12180">
+<blockquote class="evidencia discurso" id="d-6348">
 <span class="data">15 mai 2024</span>
 <div class="corpo">
 <p class="tipo">Como Relator</p>
@@ -928,7 +928,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12185">
+<blockquote class="evidencia discurso" id="d-6353">
 <span class="data">14 mai 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -937,7 +937,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12184">
+<blockquote class="evidencia discurso" id="d-6352">
 <span class="data">14 mai 2024</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -946,7 +946,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12183">
+<blockquote class="evidencia discurso" id="d-6351">
 <span class="data">14 mai 2024</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -955,7 +955,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12187">
+<blockquote class="evidencia discurso" id="d-6355">
 <span class="data">08 mai 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -964,7 +964,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12186">
+<blockquote class="evidencia discurso" id="d-6354">
 <span class="data">08 mai 2024</span>
 <div class="corpo">
 <p class="tipo">Pela ordem</p>
@@ -973,7 +973,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12189">
+<blockquote class="evidencia discurso" id="d-6357">
 <span class="data">07 mai 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -982,7 +982,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12188">
+<blockquote class="evidencia discurso" id="d-6356">
 <span class="data">07 mai 2024</span>
 <div class="corpo">
 <p class="tipo">Como Relator - Para proferir parecer</p>
@@ -991,7 +991,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12190">
+<blockquote class="evidencia discurso" id="d-6358">
 <span class="data">06 mai 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1000,7 +1000,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12191">
+<blockquote class="evidencia discurso" id="d-6359">
 <span class="data">30 abr 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1009,7 +1009,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12192">
+<blockquote class="evidencia discurso" id="d-6360">
 <span class="data">29 abr 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1018,7 +1018,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12193">
+<blockquote class="evidencia discurso" id="d-6361">
 <span class="data">24 abr 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1027,7 +1027,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12194">
+<blockquote class="evidencia discurso" id="d-6362">
 <span class="data">23 abr 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1036,7 +1036,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12195">
+<blockquote class="evidencia discurso" id="d-6363">
 <span class="data">22 abr 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1045,7 +1045,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12196">
+<blockquote class="evidencia discurso" id="d-6364">
 <span class="data">17 abr 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1054,7 +1054,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12197">
+<blockquote class="evidencia discurso" id="d-6365">
 <span class="data">16 abr 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1063,7 +1063,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12198">
+<blockquote class="evidencia discurso" id="d-6366">
 <span class="data">11 abr 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1072,7 +1072,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12199">
+<blockquote class="evidencia discurso" id="d-6367">
 <span class="data">10 abr 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1081,7 +1081,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12200">
+<blockquote class="evidencia discurso" id="d-6368">
 <span class="data">09 abr 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1090,7 +1090,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12201">
+<blockquote class="evidencia discurso" id="d-6369">
 <span class="data">08 abr 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1099,7 +1099,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12202">
+<blockquote class="evidencia discurso" id="d-6370">
 <span class="data">03 abr 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1108,7 +1108,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12203">
+<blockquote class="evidencia discurso" id="d-6371">
 <span class="data">02 abr 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1117,7 +1117,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12204">
+<blockquote class="evidencia discurso" id="d-6372">
 <span class="data">01 abr 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1126,7 +1126,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12205">
+<blockquote class="evidencia discurso" id="d-6373">
 <span class="data">26 mar 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1135,7 +1135,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12206">
+<blockquote class="evidencia discurso" id="d-6374">
 <span class="data">21 mar 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1144,7 +1144,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12207">
+<blockquote class="evidencia discurso" id="d-6375">
 <span class="data">20 mar 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1153,7 +1153,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12208">
+<blockquote class="evidencia discurso" id="d-6376">
 <span class="data">19 mar 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1162,7 +1162,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12209">
+<blockquote class="evidencia discurso" id="d-6377">
 <span class="data">12 mar 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1171,7 +1171,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12210">
+<blockquote class="evidencia discurso" id="d-6378">
 <span class="data">11 mar 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1180,7 +1180,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12211">
+<blockquote class="evidencia discurso" id="d-6379">
 <span class="data">06 mar 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1189,7 +1189,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12212">
+<blockquote class="evidencia discurso" id="d-6380">
 <span class="data">04 mar 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1198,7 +1198,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12213">
+<blockquote class="evidencia discurso" id="d-6381">
 <span class="data">28 fev 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1207,7 +1207,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12214">
+<blockquote class="evidencia discurso" id="d-6382">
 <span class="data">27 fev 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1216,7 +1216,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12215">
+<blockquote class="evidencia discurso" id="d-6383">
 <span class="data">21 fev 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1225,7 +1225,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12216">
+<blockquote class="evidencia discurso" id="d-6384">
 <span class="data">20 fev 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1234,7 +1234,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12217">
+<blockquote class="evidencia discurso" id="d-6385">
 <span class="data">19 fev 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1243,7 +1243,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12218">
+<blockquote class="evidencia discurso" id="d-6386">
 <span class="data">07 fev 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
@@ -1252,7 +1252,7 @@ incêndios supostamente criminosos, destacando a resposta repressiva do Governo 
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-12219">
+<blockquote class="evidencia discurso" id="d-6387">
 <span class="data">06 fev 2024</span>
 <div class="corpo">
 <p class="tipo">Discurso</p>
