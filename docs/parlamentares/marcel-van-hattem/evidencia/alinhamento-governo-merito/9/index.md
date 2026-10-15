@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcel van Hattem — Alinhamento com o governo federal, Mérito (página 9)"
-description: "A decomposição completa do número de Marcel van Hattem: 404 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
+description: "A decomposição completa do número de Marcel van Hattem: 406 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcel van Hattem: 404 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>27,7%</b> é <b>112</b> coincidências em
-<b>404</b> votações computáveis — as outras 292 estão
+<p><b>27,8%</b> é <b>113</b> coincidências em
+<b>406</b> votações computáveis — as outras 293 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 08 jul 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 769, de 2024, adotado pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 209; Não: 165; Abstenção: 4; Total: 378. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2421211-88](../../../../../votacoes/2421211-88/) |
+| 01 jul 2025 | Mantido o texto. Sim: 274; Não: 73; Abstenção: 1; Total: 348. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2191678-93](../../../../../votacoes/2191678-93/) |
 | 26 jun 2025 | Mantido o texto. Sim: 226; Não: 109; Total: 335. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2381043-91](../../../../../votacoes/2381043-91/) |
 | 25 jun 2025 | Mantido o texto. Sim: 295; Não: 80; Abstenção: 2; Total: 377. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2465240-36](../../../../../votacoes/2465240-36/) |
 | 25 jun 2025 | Aprovado o Projeto de Resolução nº 27, de 2025. Sim: 272; Não: 117; Abstenção: 1; Total: 390. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2487358-48](../../../../../votacoes/2487358-48/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 | 27 mai 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 6.969, de 2013, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvado o destaque. Sim: 378; Não: 66; Abstenção: 1; Total: 445. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [604557-191](../../../../../votacoes/604557-191/) |
 | 27 mai 2025 | Mantido o texto. Sim: 351; Não: 68; Abstenção: 1; Total: 420. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [604557-205](../../../../../votacoes/604557-205/) |
 | 26 mai 2025 | Mantido o texto. Sim: 231; Não: 202; Abstenção: 8; Total: 441. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2233324-100](../../../../../votacoes/2233324-100/) |
-| 26 mai 2025 | Mantido o texto. Sim: 284; Não: 147; Abstenção: 2; Total: 433. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2233324-103](../../../../../votacoes/2233324-103/) |
-| 26 mai 2025 | Mantido o texto. Sim: 233; Não: 174; Abstenção: 3; Total: 410. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2233324-106](../../../../../votacoes/2233324-106/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

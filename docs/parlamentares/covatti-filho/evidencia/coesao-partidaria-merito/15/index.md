@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Covatti Filho — Coesão com o próprio partido, Mérito (página 15)"
-description: "A decomposição completa do número de Covatti Filho: 429 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
+description: "A decomposição completa do número de Covatti Filho: 431 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Covatti Filho: 429 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>57,3%</b> é <b>246</b> coincidências em
-<b>429</b> votações computáveis — as outras 183 estão
+<p><b>57,5%</b> é <b>248</b> coincidências em
+<b>431</b> votações computáveis — as outras 183 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 20 mar 2024 | Mantido o texto. Sim: 283; não: 135; total: 418. | Maioria do partido: sim (37 sim / 4 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2269745-86](../../../../../votacoes/2269745-86/) |
+| 20 mar 2024 | Mantido o texto. Sim: 382; não: 21; abstenção: 5; total: 408. | Maioria do partido: sim (36 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2269745-88](../../../../../votacoes/2269745-88/) |
 | 20 mar 2024 | Mantido o texto. Sim: 315; não: 87; abstenção: 1; total: 403. | Maioria do partido: sim (32 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2269745-90](../../../../../votacoes/2269745-90/) |
 | 20 mar 2024 | Aprovada a Emenda de Plenário nº 20. Sim: 306; não: 121; abstenção: 1; total: 428. | Maioria do partido: sim (35 sim / 6 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2269745-93](../../../../../votacoes/2269745-93/) |
 | 20 mar 2024 | Rejeitada a Emenda de Plenário nº 40. Sim: 35; não: 375; total: 410. | Maioria do partido: sim (32 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2399598-70](../../../../../votacoes/2399598-70/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 | 21 fev 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 175, de 2023, adotada pelo relator da Comissão de Saúde. Sim: 426; não: 4; total: 430. | Maioria do partido: sim (42 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2382257-49](../../../../../votacoes/2382257-49/) |
 | 21 fev 2024 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 425; total: 425. | Maioria do partido: sim (40 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2388837-35](../../../../../votacoes/2388837-35/) |
 | 21 dez 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.148, de 2015, adotada pelo relator da Comissão Especial, ressalvado o destaque. Sim: 299; não: 103; abstenção: 1; total: 403. | Maioria do partido: sim (36 sim / 5 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [1548579-126](../../../../../votacoes/1548579-126/) |
-| 21 dez 2023 | Mantido o texto. Sim: 301; não: 81; total: 382. | Maioria do partido: sim (38 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [1548579-144](../../../../../votacoes/1548579-144/) |
-| 19 dez 2023 | Aprovado o Substitutivo ao Projeto de Lei nº 4.994, de 2023, adotado pelo relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvados os destaques. Sim: 311; não: 103; abstenção: 1; total: 415. | Maioria do partido: sim (39 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2395883-53](../../../../../votacoes/2395883-53/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

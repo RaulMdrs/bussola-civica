@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Any Ortiz — Coesão com o próprio partido, Mérito (página 5)"
-description: "A decomposição completa do número de Any Ortiz: 400 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
+description: "A decomposição completa do número de Any Ortiz: 402 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,10 +11,10 @@ description: "A decomposição completa do número de Any Ortiz: 400 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>64,0%</b> é <b>256</b> coincidências em
-<b>400</b> votações computáveis — as outras 144 estão
+<p><b>64,2%</b> é <b>258</b> coincidências em
+<b>402</b> votações computáveis — as outras 144 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
-repartida em <b>20 páginas</b> de até 20 votações,
+repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 <b>100ª</b>.</p>
 </div>
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 11 nov 2025 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 124, de 2022, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 411; Não: 3; Total: 414. | Maioria do partido: sim (1 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2481858-53](../../../../../votacoes/2481858-53/) |
+| 05 nov 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 347, de 2003, adotado pelo relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvado o destaque. Sim: 427; Não: 1; Total: 428. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [106701-223](../../../../../votacoes/106701-223/) |
 | 05 nov 2025 | Aprovada a Emenda de Plenário n. 7. Sim: 269; Não: 154; Total: 423. | Maioria do partido: sim (1 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [106701-227](../../../../../votacoes/106701-227/) |
 | 05 nov 2025 | Aprovada a Emenda Aglutinativa nº 1. Sim: 325; Não: 94; Total: 419. | Maioria do partido: sim (2 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2157806-168](../../../../../votacoes/2157806-168/) |
 | 05 nov 2025 | Mantido o texto. Sim: 295; Não: 118; Total: 413. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2448069-50](../../../../../votacoes/2448069-50/) |
@@ -43,13 +45,11 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 | 29 out 2025 | Mantido o texto. Sim: 276; Não: 125; Total: 401. | Maioria do partido: sim (1 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2279186-94](../../../../../votacoes/2279186-94/) |
 | 29 out 2025 | Mantido o texto. Sim: 269; Não: 152; Total: 421. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2279186-97](../../../../../votacoes/2279186-97/) |
 | 28 out 2025 | Aprovada a Emenda de Plenário nº 4. Sim: 361; Não: 77; Abstenção: 1; Total: 439. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2570007-63](../../../../../votacoes/2570007-63/) |
-| 28 out 2025 | Aprovada a Emenda de Plenário nº 1. Sim: 445; Não: 10; Total: 455. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2570007-66](../../../../../votacoes/2570007-66/) |
-| 28 out 2025 | Mantido o texto. Sim: 409; Não: 21; Total: 430. | Maioria do partido: sim (1 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [374450-132](../../../../../votacoes/374450-132/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">
 <a class="passo" href="../4/" rel="prev">← Anteriores</a>
-<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../3/">3</a><a href="../4/">4</a><b aria-current="page">5</b><a href="../6/">6</a><a href="../7/">7</a><span class="salto">…</span><a href="../20/">20</a></span>
+<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../3/">3</a><a href="../4/">4</a><b aria-current="page">5</b><a href="../6/">6</a><a href="../7/">7</a><span class="salto">…</span><a href="../21/">21</a></span>
 <a class="passo" href="../6/" rel="next">Próximas →</a>
 </nav>
 

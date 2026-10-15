@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Maria do Rosário — Alinhamento com o governo federal, Mérito (página 10)"
-description: "A decomposição completa do número de Maria do Rosário: 346 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
+description: "A decomposição completa do número de Maria do Rosário: 348 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Maria do Rosário: 346 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>95,1%</b> é <b>329</b> coincidências em
-<b>346</b> votações computáveis — as outras 17 estão
+<p><b>95,1%</b> é <b>331</b> coincidências em
+<b>348</b> votações computáveis — as outras 17 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 19 dez 2024 | Mantido o texto. Sim: 358; Não: 129; Abstenção: 1; Total: 488. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [347421-224](../../../../../votacoes/347421-224/) |
+| 18 dez 2024 | Aprovadas as Emendas do Senado Federal ao Projeto de Lei nº 327, de 2021, com parecer pela aprovação, com exceção da Emenda nº 3; do inciso II, do §1º, do art. 3º da Emenda nº 2; do §2º, do art. 3º da Emenda nº 4; e do inciso VIII e da exclusão do §4º promovida pelo art. 1º da Emenda nº 5. Sim: 448; Não: 14; Abstenção: 1; Total: 463. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2269745-144](../../../../../votacoes/2269745-144/) |
 | 18 dez 2024 | Aprovada a Emenda Aglutinativa nº 1. Sim: 444; Não: 16; Abstenção: 1; Total: 461. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2473389-80](../../../../../votacoes/2473389-80/) |
 | 18 dez 2024 | Aprovada a preferência. Sim: 294; Não: 172; Total: 466. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [347421-192](../../../../../votacoes/347421-192/) |
 | 17 dez 2024 | Aprovados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela aprovação. Sim: 324; Não: 123; Abstenção: 3; Total: 450. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430143-140](../../../../../votacoes/2430143-140/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 | 30 out 2024 | Aprovada a Emenda Aglutinativa n° 1. Sim: 403; Total: 403. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-69](../../../../../votacoes/2438459-69/) |
 | 30 out 2024 | Rejeitada a Emenda de Plenário n° 8. Sim: 156; Não: 245; Total: 401. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2456554-50](../../../../../votacoes/2456554-50/) |
 | 30 out 2024 | Aprovada a Emenda de Plenario n° 10. Sim: 227; Não: 198; Abstenção: 2; Total: 427. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2456554-57](../../../../../votacoes/2456554-57/) |
-| 16 out 2024 | Rejeitada a Emenda de Plenário nº 1. Sim: 149; Não: 204; Total: 353. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [565397-185](../../../../../votacoes/565397-185/) |
-| 12 set 2024 | Aprovada a Emenda de Redação n° 1 Sim: 231; Não: 54; Abstenção: 1; Total: 286. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454704-76](../../../../../votacoes/2454704-76/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

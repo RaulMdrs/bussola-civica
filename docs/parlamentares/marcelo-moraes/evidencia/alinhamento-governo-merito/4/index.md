@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcelo Moraes — Alinhamento com o governo federal, Mérito (página 4)"
-description: "A decomposição completa do número de Marcelo Moraes: 338 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
+description: "A decomposição completa do número de Marcelo Moraes: 339 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcelo Moraes: 338 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>31,1%</b> é <b>105</b> coincidências em
-<b>338</b> votações computáveis — as outras 233 estão
+<p><b>31,3%</b> é <b>106</b> coincidências em
+<b>339</b> votações computáveis — as outras 233 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>17 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 18 nov 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 5.582, de 2025, adotado pelo relator da Comissão de Segurança Pública e Combate ao Crime Organizado, ressalvados os destaques. Sim: 370; Não: 110; Abstenção: 3; Total: 483. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2579832-62](../../../../../votacoes/2579832-62/) |
 | 12 nov 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 18, de 2021, adotada pelo relator da Comissão de Saúde, ressalvado o destaque. Sim: 348; Não: 100; Abstenção: 1; Total: 449. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2270325-88](../../../../../votacoes/2270325-88/) |
 | 11 nov 2025 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 124, de 2022, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 411; Não: 3; Total: 414. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2481858-53](../../../../../votacoes/2481858-53/) |
 | 05 nov 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 347, de 2003, adotado pelo relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvado o destaque. Sim: 427; Não: 1; Total: 428. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [106701-223](../../../../../votacoes/106701-223/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 | 29 out 2025 | Mantido o texto. Sim: 293; Não: 143; Total: 436. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2279186-104](../../../../../votacoes/2279186-104/) |
 | 29 out 2025 | Rejeitada a Emenda de Plenário nº 1. Sim: 143; Não: 263; Abstenção: 1; Total: 407. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2279186-107](../../../../../votacoes/2279186-107/) |
 | 29 out 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 458, de 2021, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 286; Não: 146; Abstenção: 1; Total: 433. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2279186-86](../../../../../votacoes/2279186-86/) |
-| 29 out 2025 | Mantido o texto. Sim: 260; Não: 132; Total: 392. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2279186-92](../../../../../votacoes/2279186-92/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

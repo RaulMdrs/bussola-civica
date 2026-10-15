@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Lucas Redecker — Alinhamento com o governo federal, Mérito (página 14)"
-description: "A decomposição completa do número de Lucas Redecker: 427 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
+description: "A decomposição completa do número de Lucas Redecker: 429 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Lucas Redecker: 427 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>42,4%</b> é <b>181</b> coincidências em
-<b>427</b> votações computáveis — as outras 246 estão
+<p><b>42,4%</b> é <b>182</b> coincidências em
+<b>429</b> votações computáveis — as outras 247 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 10 jul 2024 | Aprovada a Emenda de Plenário nº 766. Sim: 477; não: 3; abstenção: 2; total: 482. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430143-98](../../../../../votacoes/2430143-98/) |
+| 09 jul 2024 | Rejeitado o Recurso nº 18/2024, contra apreciação terminativa do inciso I do caput do art. 35-D, da Lei nº 9394/96, contida no art. 1º do Substitutivo do Senado Federal, apresentado ao PL nº 5230/23. Sim: 126; não: 302; total: 428. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2399598-108](../../../../../votacoes/2399598-108/) |
 | 09 jul 2024 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 5.230, de 2023,com parecer pela aprovação, ressalvados os dispositivos com parecer pela rejeição. Sim: 437; não: 1; total: 438. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2399598-112](../../../../../votacoes/2399598-112/) |
 | 03 jul 2024 | Aprovada a Medida Provisória nº 1.210, de 2024. Sim: 336; total: 336. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422095-37](../../../../../votacoes/2422095-37/) |
 | 19 jun 2024 | Mantido o texto. Sim: 313; não: 116; total: 429. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2236291-85](../../../../../votacoes/2236291-85/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 | 21 mai 2024 | Mantido o texto. Sim: 313; não: 119; total: 432. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2349493-95](../../../../../votacoes/2349493-95/) |
 | 21 mai 2024 | Rejeitada a Emenda de Plenário nº 26. Sim: 179; não: 229; total: 408. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2425883-50](../../../../../votacoes/2425883-50/) |
 | 14 mai 2024 | Mantido o texto. Sim: 402; não: 10; total: 412. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2416733-46](../../../../../votacoes/2416733-46/) |
-| 14 mai 2024 | Aprovado o Substitutivo ao Projeto de Lei Complementar n. 85, de 2024, adotado pelo Relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 404; não: 2; total: 406. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2433327-49](../../../../../votacoes/2433327-49/) |
-| 14 mai 2024 | Rejeitada a Emenda de Plenário nº 5. Sim: 199; não: 221; abstenção: 2; total: 422. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2433327-54](../../../../../votacoes/2433327-54/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

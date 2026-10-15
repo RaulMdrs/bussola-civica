@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Covatti Filho — Coesão com o próprio partido, Mérito (página 18)"
-description: "A decomposição completa do número de Covatti Filho: 429 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
+description: "A decomposição completa do número de Covatti Filho: 431 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Covatti Filho: 429 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>57,3%</b> é <b>246</b> coincidências em
-<b>429</b> votações computáveis — as outras 183 estão
+<p><b>57,5%</b> é <b>248</b> coincidências em
+<b>431</b> votações computáveis — as outras 183 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 21 nov 2023 | Mantido o texto. Sim: 312; não: 104; total: 416. | Maioria do partido: sim (35 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [575585-99](../../../../../votacoes/575585-99/) |
+| 08 nov 2023 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 6.385-C, de 2016, ressalvados os destaques. Sim: 296; não: 121; abstenção: 2; total: 419. | Maioria do partido: sim (39 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2115253-175](../../../../../votacoes/2115253-175/) |
 | 08 nov 2023 | Mantido o texto. Sim: 268; não: 124; total: 392. | Maioria do partido: sim (36 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2115253-179](../../../../../votacoes/2115253-179/) |
 | 08 nov 2023 | Aprovado o Projeto de Lei nº 4.287, de 2023. Sim: 369; não: 5; total: 374. | Maioria do partido: sim (38 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2391935-43](../../../../../votacoes/2391935-43/) |
 | 07 nov 2023 | Aprovada a Emenda de Plenário n° 3. Sim: 311; Não: 107; total: 418. | Maioria do partido: sim (38 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2344909-65](../../../../../votacoes/2344909-65/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 | 14 set 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 136, de 2023, adotada pelo Relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 349; não: 68; abstenção: 2; total: 419. | Maioria do partido: sim (37 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2372071-41](../../../../../votacoes/2372071-41/) |
 | 14 set 2023 | Mantido o texto. Sim: 270; não: 146; abstenção: 1; total: 417. | Maioria do partido: sim (28 sim / 7 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2372071-44](../../../../../votacoes/2372071-44/) |
 | 14 set 2023 | Rejeitada a Emenda de Plenário nº 31. Sim: 125; não: 249; total: 374. | Maioria do partido: nao (6 sim / 28 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2387066-100](../../../../../votacoes/2387066-100/) |
-| 14 set 2023 | Rejeitada a Emenda nº 38. Sim: 38; não: 329; abstenção: 1; total: 368. | Maioria do partido: nao (3 sim / 33 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2387066-101](../../../../../votacoes/2387066-101/) |
-| 14 set 2023 | Rejeitada a Emenda de Plenário nº 21. Sim: 122; não: 304; abstenção: 4; total: 430. | Maioria do partido: nao (2 sim / 39 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2387066-78](../../../../../votacoes/2387066-78/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

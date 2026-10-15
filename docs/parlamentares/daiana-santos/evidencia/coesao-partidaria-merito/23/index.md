@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daiana Santos — Coesão com o próprio partido, Mérito (página 23)"
-description: "A decomposição completa do número de Daiana Santos: 442 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 441ª à 442ª."
+description: "A decomposição completa do número de Daiana Santos: 444 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 441ª à 444ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Daiana Santos: 442 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,3%</b> é <b>430</b> coincidências em
-<b>442</b> votações computáveis — as outras 12 estão
+<p><b>97,3%</b> é <b>432</b> coincidências em
+<b>444</b> votações computáveis — as outras 12 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>441ª</b> à
-<b>442ª</b>.</p>
+<b>444ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>441ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 03 mai 2023 | Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 98, de 2023, adotado pelo relator da Comissão de Desenvolvimento Urbano. Sim: 295; não: 136; abstenção: 1; total: 432. | Maioria do partido: nao (0 sim / 5 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2355135-49](../../../../../votacoes/2355135-49/) |
+| 27 abr 2023 | Aprovada a Emenda de Plenário nº 7. Sim: 181; não: 171; total: 352. | Maioria do partido: sim (4 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345484-83](../../../../../votacoes/2345484-83/) |
 | 25 abr 2023 | Mantido o texto. Sim: 289; não: 108; total: 397. | Maioria do partido: sim (4 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2344938-48](../../../../../votacoes/2344938-48/) |
 | 25 abr 2023 | Rejeitada a Emenda de Comissão nº 9. Sim: 132; não: 242; total: 374. | Maioria do partido: sim (4 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2344938-71](../../../../../votacoes/2344938-71/) |
 {: .t-evid}

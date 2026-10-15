@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Heitor Schuch — Coesão com o próprio partido, Mérito (página 17)"
-description: "A decomposição completa do número de Heitor Schuch: 330 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 330ª."
+description: "A decomposição completa do número de Heitor Schuch: 332 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 332ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Heitor Schuch: 330 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>92,7%</b> é <b>306</b> coincidências em
-<b>330</b> votações computáveis — as outras 24 estão
+<p><b>92,8%</b> é <b>308</b> coincidências em
+<b>332</b> votações computáveis — as outras 24 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>17 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
-<b>330ª</b>.</p>
+<b>332ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 24 mai 2023 | Mantido o texto. Sim: 306; não: 170; total: 476. | Maioria do partido: sim (13 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357053-65](../../../../../votacoes/2357053-65/) |
+| 24 mai 2023 | Rejeitada a Emenda de Plenário nº 85. Sim: 126; não: 335; total: 461. | Maioria do partido: nao (0 sim / 13 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2357053-70](../../../../../votacoes/2357053-70/) |
 | 10 mai 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.342, de 2022, adotada pela relatora da Comissão de Administração e Serviço Público. Sim: 335; não: 79; abstenção: 3; total: 417. | Maioria do partido: sim (11 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2334279-57](../../../../../votacoes/2334279-57/) |
 | 10 mai 2023 | Aprovado o Projeto de Lei nº 1.987, de 2023. Sim: 346; não: 72; abstenção: 3; total: 421. | Maioria do partido: sim (11 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357055-29](../../../../../votacoes/2357055-29/) |
 | 04 mai 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.085, de 2023, adotada pela relatora da Comissão de Defesa dos Direitos da Mulher, ressalvados os destaques. Sim: 325; não: 36; abstenção: 3; total: 364. | Maioria do partido: sim (10 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2351179-51](../../../../../votacoes/2351179-51/) |

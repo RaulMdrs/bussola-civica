@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Zucco — Coesão com o próprio partido, Mérito (página 5)"
-description: "A decomposição completa do número de Zucco: 551 votações em 28 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
+description: "A decomposição completa do número de Zucco: 553 votações em 28 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Zucco: 551 votações em 2
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>82,8%</b> é <b>456</b> coincidências em
-<b>551</b> votações computáveis — as outras 95 estão
+<p><b>82,8%</b> é <b>458</b> coincidências em
+<b>553</b> votações computáveis — as outras 95 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>28 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 02 dez 2025 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 72, de 2023. Sim: 397; Não: 3; Total: 400. | Maioria do partido: sim (67 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422905-75](../../../../../votacoes/2422905-75/) |
+| 02 dez 2025 | Mantido o texto. Sim: 300; Não: 123; Total: 423. | Maioria do partido: sim (65 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2541991-38](../../../../../votacoes/2541991-38/) |
 | 26 nov 2025 | Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 453, de 2017, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 427; Não: 18; Total: 445. | Maioria do partido: sim (75 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2164336-110](../../../../../votacoes/2164336-110/) |
 | 26 nov 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 331, de 2020, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 386; Não: 7; Total: 393. | Maioria do partido: sim (67 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2237596-92](../../../../../votacoes/2237596-92/) |
 | 26 nov 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 2.829, de 2025, adotado pelo relator da Comissão de Administração e Serviço Público, ressalvado o destaque. Sim: 350; Não: 77; Abstenção: 2; Total: 429. | Maioria do partido: sim (43 sim / 28 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2524984-33](../../../../../votacoes/2524984-33/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 | 05 nov 2025 | Aprovada a Emenda de Plenário n. 7. Sim: 269; Não: 154; Total: 423. | Maioria do partido: sim (62 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [106701-227](../../../../../votacoes/106701-227/) |
 | 05 nov 2025 | Aprovada a Emenda Aglutinativa nº 1. Sim: 325; Não: 94; Total: 419. | Maioria do partido: nao (24 sim / 37 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2157806-168](../../../../../votacoes/2157806-168/) |
 | 05 nov 2025 | Mantido o texto. Sim: 327; Não: 98; Total: 425. | Maioria do partido: nao (25 sim / 41 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2157806-177](../../../../../votacoes/2157806-177/) |
-| 05 nov 2025 | Mantido o texto. Sim: 274; Não: 101; Total: 375. | Maioria do partido: sim (66 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2386051-101](../../../../../votacoes/2386051-101/) |
-| 05 nov 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.357, de 2023, adotada pelo relator da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, ressalvados os destaques. Sim: 287; Não: 113; Total: 400. | Maioria do partido: sim (67 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2386051-93](../../../../../votacoes/2386051-93/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

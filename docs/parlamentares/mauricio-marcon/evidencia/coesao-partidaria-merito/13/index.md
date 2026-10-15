@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Mauricio Marcon — Coesão com o próprio partido, Mérito (página 13)"
-description: "A decomposição completa do número de Mauricio Marcon: 526 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
+description: "A decomposição completa do número de Mauricio Marcon: 528 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Mauricio Marcon: 526 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>51,3%</b> é <b>270</b> coincidências em
-<b>526</b> votações computáveis — as outras 256 estão
+<p><b>51,5%</b> é <b>272</b> coincidências em
+<b>528</b> votações computáveis — as outras 256 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>27 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 27 mar 2025 | Aprovado o Projeto de Decreto Legislativo nº 478, de 2023. Sim: 310; Não: 5; Abstenção: 10; Total: 325. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2410601-46](../../../../../votacoes/2410601-46/) |
+| 27 mar 2025 | Aprovado o Projeto de Decreto Legislativo nº 311, de 2024. Sim: 270; Não: 7; Abstenção: 5; Total: 282. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2442848-50](../../../../../votacoes/2442848-50/) |
 | 25 mar 2025 | Aprovado o Projeto de Lei nº 2.379, de 2023. Sim: 275; Não: 113; Abstenção: 5; Total: 393. | Maioria do partido: sim (6 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2360457-45](../../../../../votacoes/2360457-45/) |
 | 25 mar 2025 | Mantido o texto. Sim: 300; Não: 99; Total: 399. | Maioria do partido: sim (11 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2379209-61](../../../../../votacoes/2379209-61/) |
 | 18 mar 2025 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 22, de 2025, adotado pelo relator da Comissão de Finanças e Tributação. Sim: 347; Não: 114; Total: 461. | Maioria do partido: nao (5 sim / 7 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2485066-33](../../../../../votacoes/2485066-33/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 | 19 dez 2024 | Aprovada, em primeiro turno, a Emenda Aglutinativa Substitutiva à Proposta de Emenda à Constituição nº 31, de 2007. Sim: 344; Não: 154; Abstenção: 2; Total: 500. | Maioria do partido: sim (13 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [347421-200](../../../../../votacoes/347421-200/) |
 | 19 dez 2024 | Suprimido o texto. Sim: 4; Não: 360; Total: 364. | Maioria do partido: nao (0 sim / 9 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [347421-202](../../../../../votacoes/347421-202/) |
 | 19 dez 2024 | Mantido o texto. Sim: 349; Não: 143; Abstenção: 1; Total: 493. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [347421-205](../../../../../votacoes/347421-205/) |
-| 19 dez 2024 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 31, de 2007, ressalvado o destaque. Sim: 348; Não: 146; Total: 494. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [347421-221](../../../../../votacoes/347421-221/) |
-| 19 dez 2024 | Mantido o texto. Sim: 358; Não: 129; Abstenção: 1; Total: 488. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [347421-224](../../../../../votacoes/347421-224/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

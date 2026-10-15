@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Pompeo de Mattos — Coesão com o próprio partido, Mérito (página 11)"
-description: "A decomposição completa do número de Pompeo de Mattos: 463 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
+description: "A decomposição completa do número de Pompeo de Mattos: 465 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Pompeo de Mattos: 463 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>89,4%</b> é <b>414</b> coincidências em
-<b>463</b> votações computáveis — as outras 49 estão
+<p><b>89,5%</b> é <b>416</b> coincidências em
+<b>465</b> votações computáveis — as outras 49 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>24 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 10 jun 2025 | Aprovada a Emenda de Plenário n° 1. Sim: 318; Não: 116; Total: 434. | Maioria do partido: nao (5 sim / 9 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2355104-126](../../../../../votacoes/2355104-126/) |
+| 10 jun 2025 | Mantido o texto. Sim: 257; Não: 88; Total: 345. | Maioria do partido: nao (1 sim / 9 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2471177-64](../../../../../votacoes/2471177-64/) |
 | 29 mai 2025 | Aprovado o Projeto de Decreto Legislativo nº 609, de 2021. . Sim: 392; Não: 7; Total: 399. | Maioria do partido: sim (13 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2297512-70](../../../../../votacoes/2297512-70/) |
 | 29 mai 2025 | Aprovada a Emenda n° 2. Sim: 214; Não: 204; Abstenção: 1; Total: 419. | Maioria do partido: sim (15 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2306513-113](../../../../../votacoes/2306513-113/) |
 | 29 mai 2025 | Aprovada a parte da Emenda nº 3. Sim: 285; Não: 116; Abstenção: 3; Total: 404. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2306513-116](../../../../../votacoes/2306513-116/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 | 22 mai 2025 | Aprovado o Projeto de Decreto Legislativo nº 308, de 2024. Sim: 363; Não: 11; Abstenção: 1; Total: 375. | Maioria do partido: sim (13 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2442331-46](../../../../../votacoes/2442331-46/) |
 | 22 mai 2025 | Aprovado o Projeto de Decreto Legislativo nº 725 de 2024. Sim: 397; Não: 5; Total: 402. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2481257-37](../../../../../votacoes/2481257-37/) |
 | 21 mai 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.466, de 2025, adotada pelo relator da Comissão de Administração e Serviço Público, ressalvado o destaque. Sim: 388; Não: 43; Total: 431. | Maioria do partido: sim (15 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2494408-30](../../../../../votacoes/2494408-30/) |
-| 21 mai 2025 | Mantido o texto. Sim: 290; Não: 134; Total: 424. | Maioria do partido: sim (13 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2494408-43](../../../../../votacoes/2494408-43/) |
-| 07 mai 2025 | Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Sustação de Andamento de Ação Penal nº 1, de 2025, pela sustação do andamento da Ação Penal. . Sim: 315; Não: 143; Abstenção: 4; Total: 462. | Maioria do partido: nao (2 sim / 12 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2494565-52](../../../../../votacoes/2494565-52/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

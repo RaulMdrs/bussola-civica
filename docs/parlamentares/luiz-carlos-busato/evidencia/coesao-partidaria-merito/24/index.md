@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Luiz Carlos Busato — Coesão com o próprio partido, Mérito (página 24)"
-description: "A decomposição completa do número de Luiz Carlos Busato: 495 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 461ª à 480ª."
+description: "A decomposição completa do número de Luiz Carlos Busato: 497 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 461ª à 480ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Luiz Carlos Busato: 495 vo
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>91,9%</b> é <b>455</b> coincidências em
-<b>495</b> votações computáveis — as outras 40 estão
+<p><b>91,8%</b> é <b>456</b> coincidências em
+<b>497</b> votações computáveis — as outras 41 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>461ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>461ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 07 jul 2023 | Mantido o texto. Sim: 242; não: 175; total: 417. | Maioria do partido: nao (6 sim / 40 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2367064-68](../../../../../votacoes/2367064-68/) |
+| 07 jul 2023 | Mantido o texto. Sim: 251; não: 206; total: 457. | Maioria do partido: nao (3 sim / 45 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2367064-82](../../../../../votacoes/2367064-82/) |
 | 06 jul 2023 | Aprovado, em primeiro turno, o Substitutivo adotado pelo relator da Comissão Especial à Proposta de Emenda Constitucional nº 45, de 2019, ressalvados os destaques. Sim: 382; não: 118; abstenção: 3; total: 503. | Maioria do partido: sim (47 sim / 11 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-326](../../../../../votacoes/2196833-326/) |
 | 06 jul 2023 | Aprovada a Emenda Aglutinativa nº 1. Sim: 379; não: 114; abstenção: 1; total: 494. | Maioria do partido: sim (46 sim / 11 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-328](../../../../../votacoes/2196833-328/) |
 | 06 jul 2023 | Mantido o texto. Sim: 317; não: 170; total: 487. | Maioria do partido: sim (35 sim / 21 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-331](../../../../../votacoes/2196833-331/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>461ª</b> à
 | 31 mai 2023 | Mantido o texto. Sim: 324; não: 114; abstenção: 1; total: 439. | Maioria do partido: sim (33 sim / 13 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345493-44](../../../../../votacoes/2345493-44/) |
 | 31 mai 2023 | Mantido o texto. Sim: 260; não: 186; abstenção: 2; total: 448. | Maioria do partido: nao (10 sim / 39 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2345493-47](../../../../../votacoes/2345493-47/) |
 | 31 mai 2023 | Rejeitada a Emenda de Comissão nº 14. Sim: 182; não: ; 243; abstenção: 2; total: 427. | Maioria do partido: sim (24 sim / 23 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345493-50](../../../../../votacoes/2345493-50/) |
-| 30 mai 2023 | Rejeitada a Emenda de Comissão nº 98. Sim: 159; não: 270; total: 429. | Maioria do partido: sim (39 sim / 9 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2349947-42](../../../../../votacoes/2349947-42/) |
-| 30 mai 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 490, de 2007, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 283; não: 155; abstenção: 1; total: 439. | Maioria do partido: sim (47 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [345311-270](../../../../../votacoes/345311-270/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

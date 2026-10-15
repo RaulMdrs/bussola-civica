@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Maria do Rosário — Coesão com o próprio partido, Mérito (página 6)"
-description: "A decomposição completa do número de Maria do Rosário: 431 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
+description: "A decomposição completa do número de Maria do Rosário: 433 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Maria do Rosário: 431 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>96,8%</b> é <b>417</b> coincidências em
-<b>431</b> votações computáveis — as outras 14 estão
+<p><b>96,8%</b> é <b>419</b> coincidências em
+<b>433</b> votações computáveis — as outras 14 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 out 2025 | Rejeitada a preferência. Sim: 162; Não: 234; Total: 396. | Maioria do partido: nao (5 sim / 51 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [545304-132](../../../../../votacoes/545304-132/) |
+| 29 out 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 3.899, de 2012, adotado pelo relator da Comissão Especial, ressalvados os destaques. Sim: 275; Não: 133; Abstenção: 1; Total: 409. | Maioria do partido: sim (59 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [545304-134](../../../../../votacoes/545304-134/) |
 | 29 out 2025 | Suprimido o texto. Sim: 173; Não: 238; Total: 411. | Maioria do partido: sim (58 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [545304-154](../../../../../votacoes/545304-154/) |
 | 28 out 2025 | Aprovada a Emenda de Plenário nº 4. Sim: 361; Não: 77; Abstenção: 1; Total: 439. | Maioria do partido: sim (57 sim / 5 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2570007-63](../../../../../votacoes/2570007-63/) |
 | 28 out 2025 | Aprovada a Emenda de Plenário nº 1. Sim: 445; Não: 10; Total: 455. | Maioria do partido: sim (62 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2570007-66](../../../../../votacoes/2570007-66/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 | 24 set 2025 | Rejeitada a Emenda de Comissão nº 45. Sim: 132; Não: 275; Abstenção: 1; Total: 408. | Maioria do partido: nao (0 sim / 58 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2519886-53](../../../../../votacoes/2519886-53/) |
 | 24 set 2025 | Aprovado o Projeto de Lei Complementar nº 163, de 2025, ressalvados os destaques. Sim: 296; Não: 145; Abstenção: 2; Total: 443. | Maioria do partido: sim (61 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2541109-38](../../../../../votacoes/2541109-38/) |
 | 24 set 2025 | Rejeitada a Emenda de Plenário nº 1. Sim: 45; Não: 288; Abstenção: 1; Total: 334. | Maioria do partido: nao (0 sim / 51 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2541109-40](../../../../../votacoes/2541109-40/) |
-| 24 set 2025 | Mantido o texto. Sim: 281; Não: 148; Total: 429. | Maioria do partido: sim (62 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2541109-45](../../../../../votacoes/2541109-45/) |
-| 24 set 2025 | Mantido o texto. Sim: 293; Não: 133; Total: 426. | Maioria do partido: sim (62 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2541109-48](../../../../../votacoes/2541109-48/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcon — Coesão com o próprio partido, Mérito (página 11)"
-description: "A decomposição completa do número de Marcon: 496 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
+description: "A decomposição completa do número de Marcon: 498 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcon: 496 votações em 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>95,6%</b> é <b>474</b> coincidências em
-<b>496</b> votações computáveis — as outras 22 estão
+<p><b>95,6%</b> é <b>476</b> coincidências em
+<b>498</b> votações computáveis — as outras 22 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 11 jun 2025 | Aprovada a Emenda. Sim: 214; Não: 107; Total: 321. | Maioria do partido: sim (47 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [622019-72](../../../../../votacoes/622019-72/) |
+| 11 jun 2025 | Aprovado o Projeto de Lei nº 7.906, de 2014, ressalvados os destaques. Sim: 204; Não: 128; Total: 332. | Maioria do partido: sim (45 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [622019-73](../../../../../votacoes/622019-73/) |
 | 11 jun 2025 | Mantido o texto. Sim: 225; Não: 117; Total: 342. | Maioria do partido: sim (48 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [622019-76](../../../../../votacoes/622019-76/) |
 | 11 jun 2025 | Mantido o texto. Sim: 197; Não: 106; Abstenção: 1; Total: 304. | Maioria do partido: sim (46 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [622019-81](../../../../../votacoes/622019-81/) |
 | 10 jun 2025 | Aprovada a Emenda de Plenário n° 1. Sim: 318; Não: 116; Total: 434. | Maioria do partido: nao (0 sim / 61 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2355104-126](../../../../../votacoes/2355104-126/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 | 26 mai 2025 | Mantido o texto. Sim: 284; Não: 147; Abstenção: 2; Total: 433. | Maioria do partido: sim (62 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2233324-103](../../../../../votacoes/2233324-103/) |
 | 26 mai 2025 | Mantido o texto. Sim: 233; Não: 174; Abstenção: 3; Total: 410. | Maioria do partido: sim (56 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2233324-106](../../../../../votacoes/2233324-106/) |
 | 26 mai 2025 | Aprovado o Projeto de Lei nº 1.708, de 2025. Sim: 289; Não: 136; Total: 425. | Maioria do partido: sim (60 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2497993-33](../../../../../votacoes/2497993-33/) |
-| 22 mai 2025 | Aprovado o Projeto de Decreto Legislativo nº 308, de 2024. Sim: 363; Não: 11; Abstenção: 1; Total: 375. | Maioria do partido: sim (45 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2442331-46](../../../../../votacoes/2442331-46/) |
-| 22 mai 2025 | Aprovado o Projeto de Decreto Legislativo nº 344, de 2024. Sim: 280; Não: 5; Total: 285. | Maioria do partido: sim (34 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2456110-50](../../../../../votacoes/2456110-50/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Pompeo de Mattos — Coesão com o próprio partido, Mérito (página 16)"
-description: "A decomposição completa do número de Pompeo de Mattos: 463 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
+description: "A decomposição completa do número de Pompeo de Mattos: 465 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Pompeo de Mattos: 463 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>89,4%</b> é <b>414</b> coincidências em
-<b>463</b> votações computáveis — as outras 49 estão
+<p><b>89,5%</b> é <b>416</b> coincidências em
+<b>465</b> votações computáveis — as outras 49 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>24 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 09 jul 2024 | Rejeitado o Recurso nº 18/2024, contra apreciação terminativa do inciso I do caput do art. 35-D, da Lei nº 9394/96, contida no art. 1º do Substitutivo do Senado Federal, apresentado ao PL nº 5230/23. Sim: 126; não: 302; total: 428. | Maioria do partido: sim (16 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2399598-108](../../../../../votacoes/2399598-108/) |
+| 09 jul 2024 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 5.230, de 2023,com parecer pela aprovação, ressalvados os dispositivos com parecer pela rejeição. Sim: 437; não: 1; total: 438. | Maioria do partido: sim (17 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2399598-112](../../../../../votacoes/2399598-112/) |
 | 03 jul 2024 | Aprovada a Medida Provisória nº 1.210, de 2024. Sim: 336; total: 336. | Maioria do partido: sim (9 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422095-37](../../../../../votacoes/2422095-37/) |
 | 19 jun 2024 | Mantido o texto. Sim: 313; não: 116; total: 429. | Maioria do partido: sim (16 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2236291-85](../../../../../votacoes/2236291-85/) |
 | 12 jun 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Resolução nº 32, de 2024, adotada pelo relator da Mesa Diretora. Sim: 400; não: 29; abstenção: 1; total: 430. | Maioria do partido: sim (10 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2439876-43](../../../../../votacoes/2439876-43/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 | 14 mai 2024 | Aprovado o Substitutivo ao Projeto de Lei nº 6.235, de 2023, adotado pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 339; não: 96; abstenção: 1; total: 436. | Maioria do partido: sim (15 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2416733-42](../../../../../votacoes/2416733-42/) |
 | 14 mai 2024 | Mantido o texto. Sim: 402; não: 10; total: 412. | Maioria do partido: sim (14 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2416733-46](../../../../../votacoes/2416733-46/) |
 | 14 mai 2024 | Aprovado o Substitutivo ao Projeto de Lei Complementar n. 85, de 2024, adotado pelo Relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 404; não: 2; total: 406. | Maioria do partido: sim (14 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2433327-49](../../../../../votacoes/2433327-49/) |
-| 14 mai 2024 | Rejeitada a Emenda de Plenário nº 5. Sim: 199; não: 221; abstenção: 2; total: 422. | Maioria do partido: nao (0 sim / 13 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2433327-54](../../../../../votacoes/2433327-54/) |
-| 14 mai 2024 | Rejeitada a Emenda de Plenário nº 3. Sim: 215; não: 226; abstenção: 1; total: 442. | Maioria do partido: nao (1 sim / 14 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2433327-57](../../../../../votacoes/2433327-57/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

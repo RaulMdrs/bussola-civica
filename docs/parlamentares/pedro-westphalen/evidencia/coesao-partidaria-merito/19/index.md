@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Pedro Westphalen — Coesão com o próprio partido, Mérito (página 19)"
-description: "A decomposição completa do número de Pedro Westphalen: 493 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 380ª."
+description: "A decomposição completa do número de Pedro Westphalen: 495 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 380ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Pedro Westphalen: 493 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>70,0%</b> é <b>345</b> coincidências em
-<b>493</b> votações computáveis — as outras 148 estão
+<p><b>70,1%</b> é <b>347</b> coincidências em
+<b>495</b> votações computáveis — as outras 148 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 13 mar 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 528, de 2020, adotada pelo relator da Comissão de Minas e Energia, ressalvados os destaques. Sim: 429; não: 19; abstenção: 3; total: 451. | Maioria do partido: sim (42 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2238434-80](../../../../../votacoes/2238434-80/) |
+| 13 mar 2024 | Rejeitada a Emenda de Plenário nº 22. Sim: 14; não: 362; total: 376. | Maioria do partido: nao (1 sim / 40 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2238434-85](../../../../../votacoes/2238434-85/) |
 | 13 mar 2024 | Mantido o texto. Sim: 288; não: 62; abstenção: 1; total: 351. | Maioria do partido: sim (33 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2238434-87](../../../../../votacoes/2238434-87/) |
 | 13 mar 2024 | Rejeitada a Emenda de Plenário nº 18. Sim: 98; não: 314; total: 412. | Maioria do partido: nao (6 sim / 34 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2238434-89](../../../../../votacoes/2238434-89/) |
 | 13 mar 2024 | Rejeitada a Emenda de Plenário nº 21. Sim: 191; não; 232; abstenção: 2; total: 425. | Maioria do partido: nao (8 sim / 33 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2238434-94](../../../../../votacoes/2238434-94/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
 | 19 dez 2023 | Mantido o texto. Sim: 288; não: 114; total: 402. | Maioria do partido: sim (37 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2395883-58](../../../../../votacoes/2395883-58/) |
 | 15 dez 2023 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e à adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 327; não: 43; abstenção:1; total: 371. | Maioria do partido: sim (36 sim / 6 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2384692-31](../../../../../votacoes/2384692-31/) |
 | 15 dez 2023 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião pelo não atendimento dos pressupostos constitucionais de relevância e urgência e pela inadequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 338; não: 47; abstenção: 2; total: 387. | Maioria do partido: sim (35 sim / 6 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2384692-33](../../../../../votacoes/2384692-33/) |
-| 15 dez 2023 | Aprovada a Medida Provisória nº 1.185 de 2023, na forma do Projeto de Lei de Conversão, ressalvado o destaque. Sim: 335; não: 56; abstenção: 1; total: 392. | Maioria do partido: sim (34 sim / 9 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2384692-35](../../../../../votacoes/2384692-35/) |
-| 15 dez 2023 | Rejeitada a Emenda de Comissão nº 26. Sim: 56; não:336; abstenção: 2; total: 394. | Maioria do partido: nao (5 sim / 37 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2384692-38](../../../../../votacoes/2384692-38/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Franciane Bayer — Coesão com o próprio partido, Procedimental (página 18)"
-description: "A decomposição completa do número de Franciane Bayer: 472 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
+description: "A decomposição completa do número de Franciane Bayer: 473 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Franciane Bayer: 472 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>83,1%</b> é <b>392</b> coincidências em
-<b>472</b> votações computáveis — as outras 80 estão
+<p><b>82,9%</b> é <b>392</b> coincidências em
+<b>473</b> votações computáveis — as outras 81 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>24 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 28 fev 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 322; não: 105; abstenção: 1; total:428. | Maioria do partido: sim (34 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2408105-8](../../../../../votacoes/2408105-8/) |
 | 28 fev 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 395; não: 8; abstenção: 2; total: 405. | Maioria do partido: sim (28 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2408107-9](../../../../../votacoes/2408107-9/) |
 | 27 fev 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 258; não: 164; abstenção: 3; total: 425. | Maioria do partido: sim (34 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2379378-9](../../../../../votacoes/2379378-9/) |
 | 27 fev 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 285; não: 103; abstenção: 1; total: 389. | Maioria do partido: sim (27 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2403068-11](../../../../../votacoes/2403068-11/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 | 19 dez 2023 | Rejeitado o Requerimento. Sim: 155; não: 259; abstenção: 1; total: 415 | Maioria do partido: sim (25 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2400068-20](../../../../../votacoes/2400068-20/) |
 | 19 dez 2023 | Rejeitado o Recurso nº 33/2023, contra a apreciação conclusiva das comissões sobre o Projeto de Lei nº 3.905, de 2021. Sim: 171; não: 262; total: 433. | Maioria do partido: sim (30 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2400068-23](../../../../../votacoes/2400068-23/) |
 | 19 dez 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 371; não: 60; total: 431. | Maioria do partido: sim (28 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2407521-8](../../../../../votacoes/2407521-8/) |
-| 18 dez 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 304; não: 141; total: 445. | Maioria do partido: sim (32 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2360062-8](../../../../../votacoes/2360062-8/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

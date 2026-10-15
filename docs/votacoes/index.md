@@ -7,7 +7,7 @@ description: "Cada votação da legislatura com voto individual recuperável, co
 
 # Votações
 
-<p class="subtitulo">1242 votações da legislatura 57 em que o voto de cada parlamentar é recuperável na fonte.</p>
+<p class="subtitulo">1245 votações da legislatura 57 em que o voto de cada parlamentar é recuperável na fonte.</p>
 
 <p class="anos">Por ano: <a href="./2026/">2026</a> · <a href="./2025/">2025</a> · <a href="./2024/">2024</a> · <a href="./2023/">2023</a></p>
 

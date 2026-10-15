@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Osmar Terra — Coesão com o próprio partido, Mérito"
-description: "A decomposição completa do número de Osmar Terra: 447 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 1ª à 20ª."
+description: "A decomposição completa do número de Osmar Terra: 449 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 1ª à 20ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Osmar Terra: 447 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>63,8%</b> é <b>285</b> coincidências em
-<b>447</b> votações computáveis — as outras 162 estão
+<p><b>63,9%</b> é <b>287</b> coincidências em
+<b>449</b> votações computáveis — as outras 162 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 14 out 2026 | Rejeitada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 281, de 2019, adotada pelo relator da Comissão Especial. Sim: 252; Não: 176; Total: 428. | Maioria do partido: sim (76 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2236186-60](../../../../votacoes/2236186-60/) |
+| 14 out 2026 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 186, de 2026, adotada pelo relator da Comissão de Indústria, Comércio e Serviços, ressalvados os destaques. Sim: 461; Não: 4; Total: 465. | Maioria do partido: sim (87 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2635476-36](../../../../votacoes/2635476-36/) |
 | 03 set 2026 | Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 74, de 2026, adotada pelo relator da Comissão de Finanças e Tributação. Sim: 346; Não: 46; Abstenção: 3; Total: 395. | Maioria do partido: sim (45 sim / 22 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2611313-31](../../../../votacoes/2611313-31/) |
 | 12 ago 2026 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. Sim: 333; Não: 91; Total: 424. | Maioria do partido: sim (67 sim / 12 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2580259-24](../../../../votacoes/2580259-24/) |
 | 12 ago 2026 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 80, de 2026, adotado pelo relator da Comissão de Finanças e Tributação. Sim: 327; Não: 26; Total: 353. | Maioria do partido: sim (72 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2611992-24](../../../../votacoes/2611992-24/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
 | 27 mai 2026 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 221, de 2019. . Sim: 461; Não: 19; Total: 480. | Maioria do partido: sim (80 sim / 9 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2233802-438](../../../../votacoes/2233802-438/) |
 | 20 mai 2026 | Rejeitada a Emenda de Plenário nº 2. Sim: 196; Não: 200; Abstenção: 1; Total: 397. | Maioria do partido: sim (81 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2613731-47](../../../../votacoes/2613731-47/) |
 | 20 mai 2026 | Resultado. Sim: 182; Não: 182; Abstenção: 2; Total: 366. | Maioria do partido: sim (73 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2613731-65](../../../../votacoes/2613731-65/) |
-| 19 mai 2026 | Aprovado o Projeto de Lei Complementar nº 262, de 2019. Sim: 442; Não: 2; Total: 444. | Maioria do partido: sim (90 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2447983-57](../../../../votacoes/2447983-57/) |
-| 13 mai 2026 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 21, de 2026, adotado pelo relator da Comissão de Finanças e Tributação. Sim: 421; Não: 3; Abstenção: 1; Total: 425. | Maioria do partido: sim (79 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2601990-42](../../../../votacoes/2601990-42/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

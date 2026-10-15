@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Paulo Pimenta — Coesão com o próprio partido, Mérito (página 3)"
-description: "A decomposição completa do número de Paulo Pimenta: 251 votações em 13 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
+description: "A decomposição completa do número de Paulo Pimenta: 253 votações em 13 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Paulo Pimenta: 251 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>98,0%</b> é <b>246</b> coincidências em
-<b>251</b> votações computáveis — as outras 5 estão
+<p><b>98,0%</b> é <b>248</b> coincidências em
+<b>253</b> votações computáveis — as outras 5 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>13 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 02 mar 2026 | Mantido o texto. Sim: 258; Não: 119; Abstenção: 1; Total: 378. | Maioria do partido: sim (62 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [589982-126](../../../../../votacoes/589982-126/) |
+| 02 mar 2026 | Mantido o texto. Sim: 235; Não: 121; Abstenção: 2; Total: 358. | Maioria do partido: sim (52 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [589982-129](../../../../../votacoes/589982-129/) |
 | 10 fev 2026 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 14, de 2026, adotado pelo relator da Comissão de Indústria, Comércio e Serviços. Sim: 317; Não: 61; Abstenção: 2; Total: 380. | Maioria do partido: sim (55 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2601040-31](../../../../../votacoes/2601040-31/) |
 | 09 fev 2026 | Aprovada a Medida Provisória nº 1.317, de 2025, na forma do Projeto de Lei de Conversão. Sim: 271; Não: 127; Total: 398. | Maioria do partido: sim (55 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2562173-30](../../../../../votacoes/2562173-30/) |
 | 02 fev 2026 | Aprovada a Medida Provisória nº 1.313 de 2025, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 415; Não: 29; Abstenção: 2; Total: 446. | Maioria do partido: sim (62 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2557414-32](../../../../../votacoes/2557414-32/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 | 10 dez 2025 | Rejeitado o Parecer da Comissão de Constituição e Justiça e de Cidadania à Representação nº 2, de 2025, que conclui pela procedência da representação e pela perda do mandato da Dep. Carla Zambelli. Sim: 227; Não: 170; Abstenção: 10; Total: 407. | Maioria do partido: sim (64 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2525122-81](../../../../../votacoes/2525122-81/) |
 | 10 dez 2025 | Aprovada a Preferência. Sim: 226; Não: 220; Abstenção: 3; Total: 449. | Maioria do partido: sim (66 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2595686-29](../../../../../votacoes/2595686-29/) |
 | 09 dez 2025 | Mantido o texto. Sim: 218; Não: 136; Abstenção: 1; Total: 355. | Maioria do partido: nao (1 sim / 49 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2358548-81](../../../../../votacoes/2358548-81/) |
-| 09 dez 2025 | Mantido o texto. Sim: 208; Não: 121; Total: 329. | Maioria do partido: nao (0 sim / 49 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2358548-86](../../../../../votacoes/2358548-86/) |
-| 09 dez 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 2.162, de 2023, adotado pelo relator da Comissão Especial, ressalvados os destaques. Sim: 291; Não: 148; Abstenção: 1; Total: 440. | Maioria do partido: nao (0 sim / 64 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2358548-89](../../../../../votacoes/2358548-89/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

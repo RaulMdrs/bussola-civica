@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Bohn Gass — Coesão com o próprio partido, Mérito (página 19)"
-description: "A decomposição completa do número de Bohn Gass: 524 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 380ª."
+description: "A decomposição completa do número de Bohn Gass: 526 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 380ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Bohn Gass: 524 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,9%</b> é <b>513</b> coincidências em
-<b>524</b> votações computáveis — as outras 11 estão
+<p><b>97,9%</b> é <b>515</b> coincidências em
+<b>526</b> votações computáveis — as outras 11 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>27 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 20 mar 2024 | Mantido o texto. Sim: 225; não: 187; total: 412. | Maioria do partido: nao (0 sim / 54 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2269745-84](../../../../../votacoes/2269745-84/) |
+| 20 mar 2024 | Mantido o texto. Sim: 283; não: 135; total: 418. | Maioria do partido: sim (54 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2269745-86](../../../../../votacoes/2269745-86/) |
 | 20 mar 2024 | Mantido o texto. Sim: 382; não: 21; abstenção: 5; total: 408. | Maioria do partido: sim (58 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2269745-88](../../../../../votacoes/2269745-88/) |
 | 20 mar 2024 | Mantido o texto. Sim: 315; não: 87; abstenção: 1; total: 403. | Maioria do partido: sim (56 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2269745-90](../../../../../votacoes/2269745-90/) |
 | 20 mar 2024 | Aprovada a Emenda de Plenário nº 20. Sim: 306; não: 121; abstenção: 1; total: 428. | Maioria do partido: sim (58 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2269745-93](../../../../../votacoes/2269745-93/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
 | 13 mar 2024 | Rejeitada a Emenda de Plenário nº 19. Sim: 152; não: 279; total: 431. | Maioria do partido: nao (0 sim / 54 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2238434-99](../../../../../votacoes/2238434-99/) |
 | 12 mar 2024 | Rejeitado o Recurso nº 3/2024, contra Parecer Terminativo da Comissão de Finanças e Tributação às Emendas de Plenário, de 2024. Sim: 139; não: 290; total: 429. | Maioria do partido: nao (0 sim / 58 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2417025-45](../../../../../votacoes/2417025-45/) |
 | 12 mar 2024 | Rejeitada a preferência. Sim: 130; não: 303; total: 433. | Maioria do partido: nao (0 sim / 59 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2417025-55](../../../../../votacoes/2417025-55/) |
-| 28 fev 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 9.543, de 2018, adotada pelo relator da Comissão de Minas e Energia. Sim: 325; não: 97; abstenção: 1; total: 423. | Maioria do partido: sim (60 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2167882-83](../../../../../votacoes/2167882-83/) |
-| 28 fev 2024 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 1.269, de 2022. Sim: 343; não: 11; abstenção: 1; total: 355. | Maioria do partido: sim (51 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2323391-73](../../../../../votacoes/2323391-73/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

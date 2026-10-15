@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Osmar Terra — Coesão com o próprio partido, Mérito (página 2)"
-description: "A decomposição completa do número de Osmar Terra: 447 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
+description: "A decomposição completa do número de Osmar Terra: 449 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Osmar Terra: 447 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>63,8%</b> é <b>285</b> coincidências em
-<b>447</b> votações computáveis — as outras 162 estão
+<p><b>63,9%</b> é <b>287</b> coincidências em
+<b>449</b> votações computáveis — as outras 162 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 19 mai 2026 | Aprovado o Projeto de Lei Complementar nº 262, de 2019. Sim: 442; Não: 2; Total: 444. | Maioria do partido: sim (90 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2447983-57](../../../../../votacoes/2447983-57/) |
+| 13 mai 2026 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 21, de 2026, adotado pelo relator da Comissão de Finanças e Tributação. Sim: 421; Não: 3; Abstenção: 1; Total: 425. | Maioria do partido: sim (79 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2601990-42](../../../../../votacoes/2601990-42/) |
 | 12 mai 2026 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 488, de 2019, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvado o destaque. Sim: 436; Não: 3; Total: 439. | Maioria do partido: sim (84 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2191208-67](../../../../../votacoes/2191208-67/) |
 | 06 mai 2026 | Mantido o texto. Sim: 343; Não: 97; Abstenção: 1; Total: 441. | Maioria do partido: nao (22 sim / 58 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2447259-99](../../../../../votacoes/2447259-99/) |
 | 28 abr 2026 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 383, de 2017. Sim: 444; Não: 12; Total: 456. | Maioria do partido: sim (74 sim / 5 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2162116-178](../../../../../votacoes/2162116-178/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 | 11 mar 2026 | Mantido o texto. Sim: 213; Não: 152; Abstenção: 3; Total: 368. | Maioria do partido: sim (64 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2596663-47](../../../../../votacoes/2596663-47/) |
 | 10 mar 2026 | Mantido o texto. Sim: 408; Não: 13; Total: 421. | Maioria do partido: sim (78 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2449741-72](../../../../../votacoes/2449741-72/) |
 | 04 mar 2026 | Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à Constituição nº 18, de 2025, adotado pelo relator da Comissão Especial. Sim: 487; Não: 15; Abstenção: 1; Total: 503. | Maioria do partido: sim (82 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2500080-320](../../../../../votacoes/2500080-320/) |
-| 02 mar 2026 | Aprovado o Projeto de Lei nº 6.139, de 2023, ressalvado o destaque. Sim: 340; Não: 108; Abstenção: 1; Total: 449. | Maioria do partido: nao (22 sim / 52 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2543171-49](../../../../../votacoes/2543171-49/) |
-| 02 mar 2026 | Rejeitada a Emenda de Plenário ao Substitutivo. Sim: 194; Não: 207; Abstenção: 3; Total: 404. | Maioria do partido: sim (66 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [589982-124](../../../../../votacoes/589982-124/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

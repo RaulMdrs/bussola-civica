@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Hamm — Alinhamento com o governo federal, Mérito (página 15)"
-description: "A decomposição completa do número de Afonso Hamm: 353 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
+description: "A decomposição completa do número de Afonso Hamm: 354 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Afonso Hamm: 353 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>49,6%</b> é <b>175</b> coincidências em
-<b>353</b> votações computáveis — as outras 178 estão
+<p><b>49,4%</b> é <b>175</b> coincidências em
+<b>354</b> votações computáveis — as outras 179 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 15 dez 2023 | Mantido o texto. Sim: 341; não: 153; abstenção: 4; total: 498. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-176](../../../../../votacoes/259094-176/) |
 | 15 dez 2023 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques. Sim: 365; não: 118; abstenção: 1; total: 484. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-190](../../../../../votacoes/259094-190/) |
 | 15 dez 2023 | Mantido o texto. Sim: 333; não: 154; total: 487. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-193](../../../../../votacoes/259094-193/) |
 | 15 dez 2023 | Suprimido o texto. Sim: 293; não: 198; abstenção: 1; total: 492. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-199](../../../../../votacoes/259094-199/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 | 25 out 2023 | Rejeitada a Emenda de Plenário nº 12. Sim: 116; não: 303; abstenção: 1; total: 420. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383287-47](../../../../../votacoes/2383287-47/) |
 | 25 out 2023 | Rejeitada a Emenda de Plenário nº 19. Sim: 116; não: 318; total: 434. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383287-53](../../../../../votacoes/2383287-53/) |
 | 25 out 2023 | Rejeitada a Emenda de Plenário nº 8. Sim: 127; não: 302; total: 429. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383287-61](../../../../../votacoes/2383287-61/) |
-| 18 out 2023 | Aprovado o Projeto de Decreto Legislativo nº 745, de 2017. Sim: 323; não: 98; abstenção: 3; total: 424. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2149303-50](../../../../../votacoes/2149303-50/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

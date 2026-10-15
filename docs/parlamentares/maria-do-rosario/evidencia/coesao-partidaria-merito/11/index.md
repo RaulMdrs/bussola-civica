@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Maria do Rosário — Coesão com o próprio partido, Mérito (página 11)"
-description: "A decomposição completa do número de Maria do Rosário: 431 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
+description: "A decomposição completa do número de Maria do Rosário: 433 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Maria do Rosário: 431 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>96,8%</b> é <b>417</b> coincidências em
-<b>431</b> votações computáveis — as outras 14 estão
+<p><b>96,8%</b> é <b>419</b> coincidências em
+<b>433</b> votações computáveis — as outras 14 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 26 mai 2025 | Mantido o texto. Sim: 284; Não: 147; Abstenção: 2; Total: 433. | Maioria do partido: sim (62 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2233324-103](../../../../../votacoes/2233324-103/) |
+| 22 mai 2025 | Aprovado o Projeto de Decreto Legislativo nº 308, de 2024. Sim: 363; Não: 11; Abstenção: 1; Total: 375. | Maioria do partido: sim (45 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2442331-46](../../../../../votacoes/2442331-46/) |
 | 21 mai 2025 | Mantido o texto. Sim: 290; Não: 134; Total: 424. | Maioria do partido: sim (61 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2494408-43](../../../../../votacoes/2494408-43/) |
 | 07 mai 2025 | Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Sustação de Andamento de Ação Penal nº 1, de 2025, pela sustação do andamento da Ação Penal. . Sim: 315; Não: 143; Abstenção: 4; Total: 462. | Maioria do partido: nao (0 sim / 66 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2494565-52](../../../../../votacoes/2494565-52/) |
 | 06 mai 2025 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 177, de 2023, adotado pelo relator da Comissão de Finanças e Tributação. Sim: 270; Não: 207; Abstenção: 1; Total: 478. | Maioria do partido: sim (36 sim / 25 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2383019-54](../../../../../votacoes/2383019-54/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 | 25 mar 2025 | Aprovado o Projeto de Lei nº 2.379, de 2023. Sim: 275; Não: 113; Abstenção: 5; Total: 393. | Maioria do partido: sim (59 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2360457-45](../../../../../votacoes/2360457-45/) |
 | 25 mar 2025 | Mantido o texto. Sim: 300; Não: 99; Total: 399. | Maioria do partido: sim (57 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2379209-61](../../../../../votacoes/2379209-61/) |
 | 18 mar 2025 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 22, de 2025, adotado pelo relator da Comissão de Finanças e Tributação. Sim: 347; Não: 114; Total: 461. | Maioria do partido: sim (62 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2485066-33](../../../../../votacoes/2485066-33/) |
-| 18 mar 2025 | Aprovado o Projeto de Lei Complementar nº 58, de 2025, ressalvado o destaque. Sim: 413; Não: 1; Total: 414. | Maioria do partido: sim (56 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2486199-32](../../../../../votacoes/2486199-32/) |
-| 18 mar 2025 | Mantido o texto. Sim: 386; Não: 27; Total: 413. | Maioria do partido: sim (60 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2486199-35](../../../../../votacoes/2486199-35/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

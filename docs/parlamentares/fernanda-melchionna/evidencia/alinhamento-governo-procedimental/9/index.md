@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Fernanda Melchionna — Alinhamento com o governo federal, Procedimental (página 9)"
-description: "A decomposição completa do número de Fernanda Melchionna: 300 votações em 15 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
+description: "A decomposição completa do número de Fernanda Melchionna: 301 votações em 16 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,10 +11,10 @@ description: "A decomposição completa do número de Fernanda Melchionna: 300 v
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>87,7%</b> é <b>263</b> coincidências em
-<b>300</b> votações computáveis — as outras 37 estão
+<p><b>87,7%</b> é <b>264</b> coincidências em
+<b>301</b> votações computáveis — as outras 37 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
-repartida em <b>15 páginas</b> de até 20 votações,
+repartida em <b>16 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 <b>180ª</b>.</p>
 </div>
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 01 abr 2025 | Rejeitado o Requerimento. Sim: 88; Não: 269; Abstenção: 1; Total: 358. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2463814-34](../../../../../votacoes/2463814-34/) |
 | 01 abr 2025 | Aprovado o Requerimento. Sim: 308; Não: 88; Total: 396. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2463814-40](../../../../../votacoes/2463814-40/) |
 | 27 mar 2025 | Rejeitado o Requerimento. Sim: 54; Não: 318; Total: 372. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2410601-41](../../../../../votacoes/2410601-41/) |
 | 25 mar 2025 | Rejeitado o Requerimento. Sim: 129; Não: 261; Abstenção: 2; Total: 392. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2360457-42](../../../../../votacoes/2360457-42/) |
@@ -44,12 +45,11 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 | 14 ago 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 347; não: 86; total: 433. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2452555-8](../../../../../votacoes/2452555-8/) |
 | 13 ago 2024 | Rejeitado o Requerimento. Sim: 108; não: 241; total: 349. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438459-31](../../../../../votacoes/2438459-31/) |
 | 12 ago 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 308; não: 142; total: 450. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2450745-8](../../../../../votacoes/2450745-8/) |
-| 11 jul 2024 | Rejeitado o Requerimento. Sim: 119; não: 254; total: 373. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2447183-40](../../../../../votacoes/2447183-40/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">
 <a class="passo" href="../8/" rel="prev">← Anteriores</a>
-<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../7/">7</a><a href="../8/">8</a><b aria-current="page">9</b><a href="../10/">10</a><a href="../11/">11</a><span class="salto">…</span><a href="../15/">15</a></span>
+<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../7/">7</a><a href="../8/">8</a><b aria-current="page">9</b><a href="../10/">10</a><a href="../11/">11</a><span class="salto">…</span><a href="../16/">16</a></span>
 <a class="passo" href="../10/" rel="next">Próximas →</a>
 </nav>
 

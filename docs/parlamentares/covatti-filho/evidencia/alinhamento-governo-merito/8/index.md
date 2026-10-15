@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Covatti Filho — Alinhamento com o governo federal, Mérito (página 8)"
-description: "A decomposição completa do número de Covatti Filho: 354 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
+description: "A decomposição completa do número de Covatti Filho: 356 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Covatti Filho: 354 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>36,2%</b> é <b>128</b> coincidências em
-<b>354</b> votações computáveis — as outras 226 estão
+<p><b>36,2%</b> é <b>129</b> coincidências em
+<b>356</b> votações computáveis — as outras 227 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 abr 2025 | Mantido o texto. Sim: 275; Não: 121; Total: 396. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2456731-75](../../../../../votacoes/2456731-75/) |
+| 29 abr 2025 | Mantido o texto. Sim: 269; Não: 124; Total: 393. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2456731-79](../../../../../votacoes/2456731-79/) |
 | 29 abr 2025 | Mantido o texto. Sim: 266; Não: 118; Total: 384. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2456731-84](../../../../../votacoes/2456731-84/) |
 | 28 abr 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 363, de 2025, adotado pela relatora da Comissão de Cultura, ressalvados os destaques. Sim: 278; Não: 111; Total: 389. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2483495-52](../../../../../votacoes/2483495-52/) |
 | 28 abr 2025 | Mantido o texto. Sim: 266; Não: 113; Total: 379. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2483495-56](../../../../../votacoes/2483495-56/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 | 12 fev 2025 | Aprovado o Projeto de Lei nº 2.215, de 2024. Sim: 273; Não: 136; Total: 409. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2438467-47](../../../../../votacoes/2438467-47/) |
 | 19 dez 2024 | Aprovado o Projeto de Lei nº 3.802, de 2024. Sim: 340; Não: 117; Abstenção: 1; Total: 458. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2460010-43](../../../../../votacoes/2460010-43/) |
 | 19 dez 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.614, de 2024, adotada pelo relator da Comissão Especial, ressalvado o destaque. Sim: 264; Não: 209; Total: 473. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2473375-59](../../../../../votacoes/2473375-59/) |
-| 19 dez 2024 | Mantido o texto. Sim: 277; Não: 174; Abstenção: 1; Total: 452. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2473375-78](../../../../../votacoes/2473375-78/) |
-| 19 dez 2024 | Aprovada, em primeiro turno, a Emenda Aglutinativa Substitutiva à Proposta de Emenda à Constituição nº 31, de 2007. Sim: 344; Não: 154; Abstenção: 2; Total: 500. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [347421-200](../../../../../votacoes/347421-200/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

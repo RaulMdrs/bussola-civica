@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alceu Moreira — Alinhamento com o governo federal, Mérito (página 3)"
-description: "A decomposição completa do número de Alceu Moreira: 408 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
+description: "A decomposição completa do número de Alceu Moreira: 410 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alceu Moreira: 408 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>59,8%</b> é <b>244</b> coincidências em
-<b>408</b> votações computáveis — as outras 164 estão
+<p><b>59,8%</b> é <b>245</b> coincidências em
+<b>410</b> votações computáveis — as outras 165 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 09 fev 2026 | Aprovada a Medida Provisória nº 1.317, de 2025, na forma do Projeto de Lei de Conversão. Sim: 271; Não: 127; Total: 398. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2562173-30](../../../../../votacoes/2562173-30/) |
+| 02 fev 2026 | Aprovada a Medida Provisória nº 1.313 de 2025, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 415; Não: 29; Abstenção: 2; Total: 446. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2557414-32](../../../../../votacoes/2557414-32/) |
 | 02 fev 2026 | Mantido o texto. Sim: 401; Não: 34; Total: 435. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2557414-41](../../../../../votacoes/2557414-41/) |
 | 16 dez 2025 | Suprimido o texto. Sim: 63; Não: 373; Abstenção: 1; Total: 437. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438459-135](../../../../../votacoes/2438459-135/) |
 | 16 dez 2025 | Mantido o texto. Sim: 441; Não: 3; Total: 444. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-139](../../../../../votacoes/2438459-139/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 | 09 dez 2025 | Mantido o texto. Sim: 208; Não: 121; Total: 329. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2358548-86](../../../../../votacoes/2358548-86/) |
 | 09 dez 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 2.162, de 2023, adotado pelo relator da Comissão Especial, ressalvados os destaques. Sim: 291; Não: 148; Abstenção: 1; Total: 440. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2358548-89](../../../../../votacoes/2358548-89/) |
 | 09 dez 2025 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 4.497, de 2024, ressalvados os destaques. Sim: 310; Não: 115; Total: 425. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2471177-102](../../../../../votacoes/2471177-102/) |
-| 09 dez 2025 | Mantido o texto. Sim: 283; Não: 116; Total: 399. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2471177-105](../../../../../votacoes/2471177-105/) |
-| 09 dez 2025 | Mantido o texto. Sim: 302; Não: 124; Total: 426. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2471177-108](../../../../../votacoes/2471177-108/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

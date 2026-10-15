@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Maria do Rosário — Alinhamento com o governo federal, Mérito (página 2)"
-description: "A decomposição completa do número de Maria do Rosário: 346 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
+description: "A decomposição completa do número de Maria do Rosário: 348 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Maria do Rosário: 346 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>95,1%</b> é <b>329</b> coincidências em
-<b>346</b> votações computáveis — as outras 17 estão
+<p><b>95,1%</b> é <b>331</b> coincidências em
+<b>348</b> votações computáveis — as outras 17 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 07 abr 2026 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 109, de 2025, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 381; Não: 2; Total: 383. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2503998-75](../../../../../votacoes/2503998-75/) |
+| 07 abr 2026 | Mantido o texto. Sim: 268; Não: 99; Total: 367. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2581700-31](../../../../../votacoes/2581700-31/) |
 | 25 mar 2026 | Aprovado o Projeto de Lei nº 6.359, de 2025. Sim: 258; Não: 140; Abstenção: 1; Total: 399. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2595984-34](../../../../../votacoes/2595984-34/) |
 | 25 mar 2026 | Aprovado o Projeto de Lei Complementar nº 77, de 2026, ressalvado o destaque. Sim: 391; Não: 33; Abstenção: 2; Total: 426. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2611717-33](../../../../../votacoes/2611717-33/) |
 | 25 mar 2026 | Mantido o texto. Sim: 284; Não: 86; Abstenção: 3; Total: 373. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2611717-38](../../../../../votacoes/2611717-38/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 | 09 fev 2026 | Aprovada a Medida Provisória nº 1.317, de 2025, na forma do Projeto de Lei de Conversão. Sim: 271; Não: 127; Total: 398. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2562173-30](../../../../../votacoes/2562173-30/) |
 | 10 dez 2025 | Aprovada a Preferência. Sim: 226; Não: 220; Abstenção: 3; Total: 449. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2595686-29](../../../../../votacoes/2595686-29/) |
 | 09 dez 2025 | Mantido o texto. Sim: 208; Não: 121; Total: 329. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2358548-86](../../../../../votacoes/2358548-86/) |
-| 09 dez 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 2.162, de 2023, adotado pelo relator da Comissão Especial, ressalvados os destaques. Sim: 291; Não: 148; Abstenção: 1; Total: 440. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2358548-89](../../../../../votacoes/2358548-89/) |
-| 09 dez 2025 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 4.497, de 2024, ressalvados os destaques. Sim: 310; Não: 115; Total: 425. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2471177-102](../../../../../votacoes/2471177-102/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

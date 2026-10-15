@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alceu Moreira — Coesão com o próprio partido, Mérito (página 7)"
-description: "A decomposição completa do número de Alceu Moreira: 505 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
+description: "A decomposição completa do número de Alceu Moreira: 507 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alceu Moreira: 505 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>75,4%</b> é <b>381</b> coincidências em
-<b>505</b> votações computáveis — as outras 124 estão
+<p><b>75,5%</b> é <b>383</b> coincidências em
+<b>507</b> votações computáveis — as outras 124 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 03 nov 2025 | Mantido o texto. Sim: 387; Não: 30; Abstenção: 1; Total: 418. | Maioria do partido: sim (30 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2576234-41](../../../../../votacoes/2576234-41/) |
+| 30 out 2025 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 169, de 2019. Sim: 386; Não: 15; Abstenção: 1; Total: 402. | Maioria do partido: sim (30 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2225224-117](../../../../../votacoes/2225224-117/) |
 | 30 out 2025 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 169, de 2019. Sim: 417; Não: 17; Abstenção: 1; Total: 435. | Maioria do partido: sim (35 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2225224-125](../../../../../votacoes/2225224-125/) |
 | 30 out 2025 | Rejeitada a Emenda de Comissão n° 23. Sim: 157; Não: 198; Abstenção: 1; Total: 356. | Maioria do partido: nao (9 sim / 13 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2535328-24](../../../../../votacoes/2535328-24/) |
 | 30 out 2025 | Suprimido o texto. Sim: 148; Não: 233; Abstenção: 1; Total: 382. | Maioria do partido: nao (9 sim / 12 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2535328-36](../../../../../votacoes/2535328-36/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 | 28 out 2025 | Aprovada a Emenda de Plenário nº 6. Sim: 426; Não: 17; Total: 443. | Maioria do partido: sim (32 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2570007-69](../../../../../votacoes/2570007-69/) |
 | 28 out 2025 | Mantido o texto. Sim: 409; Não: 21; Total: 430. | Maioria do partido: sim (34 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [374450-132](../../../../../votacoes/374450-132/) |
 | 15 out 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 2.225, de 2024, adotado pela relatora da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvado o destaque. Sim: 285; Não: 86; Abstenção: 2; Total: 373. | Maioria do partido: nao (7 sim / 15 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438687-71](../../../../../votacoes/2438687-71/) |
-| 15 out 2025 | Suprimido o texto. Sim: 169; Não: 200; Total: 369. | Maioria do partido: nao (3 sim / 19 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438687-76](../../../../../votacoes/2438687-76/) |
-| 15 out 2025 | Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Sustação de Andamento de Ação Penal nº 2, de 2025, pela sustação do andamento da Ação Penal. Sim: 268; Não: 167; Abstenção: 4; Total: 439. | Maioria do partido: sim (19 sim / 11 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2564763-24](../../../../../votacoes/2564763-24/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

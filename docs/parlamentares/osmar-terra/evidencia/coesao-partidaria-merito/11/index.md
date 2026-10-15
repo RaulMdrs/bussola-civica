@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Osmar Terra — Coesão com o próprio partido, Mérito (página 11)"
-description: "A decomposição completa do número de Osmar Terra: 447 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
+description: "A decomposição completa do número de Osmar Terra: 449 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Osmar Terra: 447 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>63,8%</b> é <b>285</b> coincidências em
-<b>447</b> votações computáveis — as outras 162 estão
+<p><b>63,9%</b> é <b>287</b> coincidências em
+<b>449</b> votações computáveis — as outras 162 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 mai 2025 | Aprovado o Projeto de Decreto Legislativo nº 609, de 2021. . Sim: 392; Não: 7; Total: 399. | Maioria do partido: sim (26 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2297512-70](../../../../../votacoes/2297512-70/) |
+| 28 mai 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 3.224, de 2024, adotado pela relatora da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família, ressalvados os destaques. Sim: 277; Não: 123; Total: 400. | Maioria do partido: sim (21 sim / 7 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2453934-59](../../../../../votacoes/2453934-59/) |
 | 28 mai 2025 | Mantido o texto. Sim: 264; Não: 110; Abstenção: 1; Total: 375. | Maioria do partido: sim (19 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2453934-65](../../../../../votacoes/2453934-65/) |
 | 28 mai 2025 | Suprimido o texto. Sim: 152; Não: 220; Abstenção: 1; Total: 373. | Maioria do partido: nao (3 sim / 23 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2453934-72](../../../../../votacoes/2453934-72/) |
 | 27 mai 2025 | Mantido o texto. Sim: 310; Não: 105; Abstenção: 1; Total: 416. | Maioria do partido: sim (26 sim / 4 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2121642-105](../../../../../votacoes/2121642-105/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 | 29 abr 2025 | Mantido o texto. Sim: 275; Não: 121; Total: 396. | Maioria do partido: sim (18 sim / 6 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2456731-75](../../../../../votacoes/2456731-75/) |
 | 29 abr 2025 | Mantido o texto. Sim: 269; Não: 124; Total: 393. | Maioria do partido: sim (19 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2456731-79](../../../../../votacoes/2456731-79/) |
 | 29 abr 2025 | Mantido o texto. Sim: 266; Não: 118; Total: 384. | Maioria do partido: sim (20 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2456731-84](../../../../../votacoes/2456731-84/) |
-| 28 abr 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 363, de 2025, adotado pela relatora da Comissão de Cultura, ressalvados os destaques. Sim: 278; Não: 111; Total: 389. | Maioria do partido: sim (18 sim / 11 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2483495-52](../../../../../votacoes/2483495-52/) |
-| 28 abr 2025 | Mantido o texto. Sim: 266; Não: 113; Total: 379. | Maioria do partido: sim (18 sim / 9 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2483495-56](../../../../../votacoes/2483495-56/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

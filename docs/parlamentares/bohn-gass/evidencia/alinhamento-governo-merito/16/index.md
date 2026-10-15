@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Bohn Gass — Alinhamento com o governo federal, Mérito (página 16)"
-description: "A decomposição completa do número de Bohn Gass: 410 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
+description: "A decomposição completa do número de Bohn Gass: 412 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Bohn Gass: 410 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,3%</b> é <b>399</b> coincidências em
-<b>410</b> votações computáveis — as outras 11 estão
+<p><b>97,3%</b> é <b>401</b> coincidências em
+<b>412</b> votações computáveis — as outras 11 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 21 fev 2024 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 425; total: 425. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2388837-35](../../../../../votacoes/2388837-35/) |
+| 21 dez 2023 | Aprovadas as Emendas do Senado Federal nº 1 (na parte em que altera os arts. 1º e 14 do PL 3.626, de 2023); e das Emendas nºs 2, 4 a 7, 10 a 15, 18 a 22, 25 a 28, 30, 31, 35, 37, 39, 41 e 42. Sim: 292; não: 114; abstenção: 1; total: 407. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2374400-110](../../../../../votacoes/2374400-110/) |
 | 21 dez 2023 | Rejeitada a Emenda do Senado Federal nº 3. Sim: 120; não: 261; abstenção: 1; total: 382. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2374400-121](../../../../../votacoes/2374400-121/) |
 | 19 dez 2023 | Aprovado o Substitutivo ao Projeto de Lei nº 4.994, de 2023, adotado pelo relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvados os destaques. Sim: 311; não: 103; abstenção: 1; total: 415. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2395883-53](../../../../../votacoes/2395883-53/) |
 | 15 dez 2023 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e à adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 327; não: 43; abstenção:1; total: 371. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2384692-31](../../../../../votacoes/2384692-31/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 | 15 dez 2023 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques. Sim: 365; não: 118; abstenção: 1; total: 484. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-190](../../../../../votacoes/259094-190/) |
 | 15 dez 2023 | Mantido o texto. Sim: 333; não: 154; total: 487. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-193](../../../../../votacoes/259094-193/) |
 | 15 dez 2023 | Suprimido o texto. Sim: 293; não: 198; abstenção: 1; total: 492. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-199](../../../../../votacoes/259094-199/) |
-| 13 dez 2023 | Aprovado o Projeto de Lei Complementar nº 243, de 2023. Sim: 370; não: 77; abstenção: 4; total: 451. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2409076-34](../../../../../votacoes/2409076-34/) |
-| 05 dez 2023 | Aprovada a Emenda de Plenário n° 1. Sim: 257; não: 144; abstenção: 2; total: 403. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2231632-102](../../../../../votacoes/2231632-102/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

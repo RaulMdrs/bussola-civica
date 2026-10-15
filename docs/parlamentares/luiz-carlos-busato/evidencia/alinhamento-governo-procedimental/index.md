@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Luiz Carlos Busato — Alinhamento com o governo federal, Procedimental"
-description: "A decomposição completa do número de Luiz Carlos Busato: 367 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 1ª à 20ª."
+description: "A decomposição completa do número de Luiz Carlos Busato: 368 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 1ª à 20ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Luiz Carlos Busato: 367 vo
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>79,3%</b> é <b>291</b> coincidências em
-<b>367</b> votações computáveis — as outras 76 estão
+<p><b>79,3%</b> é <b>292</b> coincidências em
+<b>368</b> votações computáveis — as outras 76 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 14 out 2026 | Rejeitado o Requerimento. Sim: 11; Não: 387; Total: 398. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2635476-23](../../../../votacoes/2635476-23/) |
 | 01 set 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 320; Não: 67; Abstenção: 1; Total: 388. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2643915-8](../../../../votacoes/2643915-8/) |
 | 14 jul 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 139; Abstenção: 1; Total: 416. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2637721-10](../../../../votacoes/2637721-10/) |
 | 02 jul 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 305; Não: 112; Abstenção: 1; Total: 418. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2610579-7](../../../../votacoes/2610579-7/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
 | 22 abr 2026 | Rejeitado o Requerimento. Sim: 117; Não: 278; Total: 395. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2368697-38](../../../../votacoes/2368697-38/) |
 | 22 abr 2026 | Rejeitado o Requerimento. Sim: 120; Não: 270; Total: 390. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2368697-43](../../../../votacoes/2368697-43/) |
 | 22 abr 2026 | Rejeitado o Requerimento. Sim: 119; Não: 241; Total: 360. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2368697-49](../../../../votacoes/2368697-49/) |
-| 22 abr 2026 | Rejeitado o Requerimento. Sim: 127; Não: 268; Total: 395. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2419128-78](../../../../votacoes/2419128-78/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

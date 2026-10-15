@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alceu Moreira — Coesão com o próprio partido, Mérito (página 11)"
-description: "A decomposição completa do número de Alceu Moreira: 505 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
+description: "A decomposição completa do número de Alceu Moreira: 507 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alceu Moreira: 505 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>75,4%</b> é <b>381</b> coincidências em
-<b>505</b> votações computáveis — as outras 124 estão
+<p><b>75,5%</b> é <b>383</b> coincidências em
+<b>507</b> votações computáveis — as outras 124 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 08 jul 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 2.583, de 2020, adotado pelo relator da Comissão de Saúde, ressalvados os destaques. Sim: 352; Não: 63; Total: 415. | Maioria do partido: sim (26 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2252295-120](../../../../../votacoes/2252295-120/) |
+| 08 jul 2025 | Mantido o texto. Sim: 316; Não: 110; Total: 426. | Maioria do partido: sim (28 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2252295-130](../../../../../votacoes/2252295-130/) |
 | 08 jul 2025 | Rejeitada a Preferência. Sim: 103; Não: 281; Total: 384. | Maioria do partido: nao (11 sim / 16 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2413257-115](../../../../../votacoes/2413257-115/) |
 | 08 jul 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 6.020, de 2023, adotado pela relatora da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 302; Não: 99; Total: 401. | Maioria do partido: sim (18 sim / 9 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2413257-116](../../../../../votacoes/2413257-116/) |
 | 08 jul 2025 | Rejeitado o Destaque. Sim: 159; Não: 243; Total: 402. | Maioria do partido: sim (19 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2413257-125](../../../../../votacoes/2413257-125/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 | 11 jun 2025 | Mantido o texto. Sim: 256; Não: 153; Abstenção: 2; Total: 411. | Maioria do partido: sim (21 sim / 11 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [264726-148](../../../../../votacoes/264726-148/) |
 | 11 jun 2025 | Mantido o texto. Sim: 249; Não: 154; Abstenção: 2; Total: 405. | Maioria do partido: sim (20 sim / 12 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [264726-157](../../../../../votacoes/264726-157/) |
 | 11 jun 2025 | Aprovada a Emenda. Sim: 214; Não: 107; Total: 321. | Maioria do partido: sim (15 sim / 9 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [622019-72](../../../../../votacoes/622019-72/) |
-| 11 jun 2025 | Aprovado o Projeto de Lei nº 7.906, de 2014, ressalvados os destaques. Sim: 204; Não: 128; Total: 332. | Maioria do partido: sim (11 sim / 10 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [622019-73](../../../../../votacoes/622019-73/) |
-| 11 jun 2025 | Mantido o texto. Sim: 225; Não: 117; Total: 342. | Maioria do partido: sim (16 sim / 9 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [622019-76](../../../../../votacoes/622019-76/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

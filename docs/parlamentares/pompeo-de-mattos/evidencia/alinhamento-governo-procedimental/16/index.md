@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Pompeo de Mattos — Alinhamento com o governo federal, Procedimental (página 16)"
-description: "A decomposição completa do número de Pompeo de Mattos: 334 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
+description: "A decomposição completa do número de Pompeo de Mattos: 335 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Pompeo de Mattos: 334 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>85,0%</b> é <b>284</b> coincidências em
-<b>334</b> votações computáveis — as outras 50 estão
+<p><b>85,1%</b> é <b>285</b> coincidências em
+<b>335</b> votações computáveis — as outras 50 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>17 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 447; não: 13; abstenção: 1; total: 461. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2380451-7](../../../../../votacoes/2380451-7/) |
 | 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 397; não: 8; total: 405. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2382599-8](../../../../../votacoes/2382599-8/) |
 | 23 ago 2023 | Rejeitado o Requerimento. Sim: 92; não: 310; total: 402. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2359135-28](../../../../../votacoes/2359135-28/) |
 | 22 ago 2023 | Aprovado o Requerimento. Sim: 351; não: 92; total: 443. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357053-105](../../../../../votacoes/2357053-105/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 | 23 mai 2023 | Rejeitado o Requerimento. Sim: 105; não: 342; abstenção: 2; total: 449. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2357053-30](../../../../../votacoes/2357053-30/) |
 | 23 mai 2023 | Aprovado o Requerimento. Sim: 371; não: 105; abstenção: 2; total: 478. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357053-38](../../../../../votacoes/2357053-38/) |
 | 17 mai 2023 | Rejeitado o Requerimento. Sim: 184; não: 213; total: 397. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2115253-104](../../../../../votacoes/2115253-104/) |
-| 17 mai 2023 | Rejeitado o Requerimento. Sim: 187; não: 232; total: 419. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2115253-111](../../../../../votacoes/2115253-111/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

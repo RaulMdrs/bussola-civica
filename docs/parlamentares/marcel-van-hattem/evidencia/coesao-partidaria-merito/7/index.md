@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcel van Hattem — Coesão com o próprio partido, Mérito (página 7)"
-description: "A decomposição completa do número de Marcel van Hattem: 513 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
+description: "A decomposição completa do número de Marcel van Hattem: 515 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcel van Hattem: 513 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>99,2%</b> é <b>509</b> coincidências em
-<b>513</b> votações computáveis — as outras 4 estão
+<p><b>99,2%</b> é <b>511</b> coincidências em
+<b>515</b> votações computáveis — as outras 4 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 out 2025 | Mantido o texto. Sim: 293; Não: 143; Total: 436. | Maioria do partido: nao (0 sim / 4 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2279186-104](../../../../../votacoes/2279186-104/) |
+| 29 out 2025 | Rejeitada a Emenda de Plenário nº 1. Sim: 143; Não: 263; Abstenção: 1; Total: 407. | Maioria do partido: sim (4 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2279186-107](../../../../../votacoes/2279186-107/) |
 | 29 out 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 458, de 2021, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 286; Não: 146; Abstenção: 1; Total: 433. | Maioria do partido: nao (0 sim / 4 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2279186-86](../../../../../votacoes/2279186-86/) |
 | 29 out 2025 | Mantido o texto. Sim: 260; Não: 132; Total: 392. | Maioria do partido: nao (0 sim / 3 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2279186-92](../../../../../votacoes/2279186-92/) |
 | 29 out 2025 | Mantido o texto. Sim: 276; Não: 125; Total: 401. | Maioria do partido: nao (0 sim / 4 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2279186-94](../../../../../votacoes/2279186-94/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 | 14 out 2025 | Aprovada a Emenda de Plenário nº 2. Sim: 246; Não: 199; Total: 445. | Maioria do partido: sim (4 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2501358-48](../../../../../votacoes/2501358-48/) |
 | 14 out 2025 | Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 242, de 2025, da Comissão de Finanças e Tributação. Sim: 375; Não: 15; Total: 390. | Maioria do partido: nao (0 sim / 4 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2517547-55](../../../../../votacoes/2517547-55/) |
 | 07 out 2025 | Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à Constituição nº 14, de 2021, da Comissão Especial. Sim: 446; Não: 20; Total: 466. | Maioria do partido: nao (0 sim / 4 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2284555-280](../../../../../votacoes/2284555-280/) |
-| 07 out 2025 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 14, de 2021. Sim: 426; Não: 10; Total: 436. | Maioria do partido: nao (0 sim / 3 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2284555-287](../../../../../votacoes/2284555-287/) |
-| 01 out 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.087, de 2025, adotada pelo relator da Comissão Especial. Sim: 493; Total: 493. | Maioria do partido: sim (4 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2487436-169](../../../../../votacoes/2487436-169/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -18,10 +18,10 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">88,1%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">277 <span>votações computáveis</span></span><span class="n-detalhe">578 <span>votações no exercício</span></span> |
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">92,1%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">239 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">92,7%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">330 <span>votações computáveis</span></span><span class="n-detalhe">578 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">94,4%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">303 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">87,8%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">279 <span>votações computáveis</span></span><span class="n-detalhe">580 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">92,1%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">239 <span>votações computáveis</span></span><span class="n-detalhe">538 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">92,8%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">332 <span>votações computáveis</span></span><span class="n-detalhe">580 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">94,4%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">303 <span>votações computáveis</span></span><span class="n-detalhe">538 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
 **Cada percentual acima é um link** para a sua decomposição completa —
@@ -46,14 +46,14 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">96,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>30</b></span> |
 | [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">95,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>21</b></span> |
 | [Saúde](../../temas/saude/) | <span class="valor">95,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>20</b></span> |
-| [Indústria, Comércio e Serviços](../../temas/industria-comercio-e-servicos/) | <span class="valor">94,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>17</b></span> <span class="aviso-n">amostra pequena</span> |
-| [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">93,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>16</b></span> <span class="aviso-n">amostra pequena</span> |
-| [Economia](../../temas/economia/) | <span class="valor">90,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>42</b></span> |
+| [Indústria, Comércio e Serviços](../../temas/industria-comercio-e-servicos/) | <span class="valor">94,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>18</b></span> <span class="aviso-n">amostra pequena</span> |
+| [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">94,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>17</b></span> <span class="aviso-n">amostra pequena</span> |
+| [Economia](../../temas/economia/) | <span class="valor">88,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>43</b></span> |
 | [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | <span class="valor">86,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>15</b></span> <span class="aviso-n">amostra pequena</span> |
-| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">85,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>145</b></span> |
+| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">85,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>147</b></span> |
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">84,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>13</b></span> <span class="aviso-n">amostra pequena</span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">82,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>93</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">82,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>29</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">81,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>94</b></span> |
 {: .t-temas}
 
 <span class="aviso-n">amostra pequena</span> marca temas com menos de
@@ -67,6 +67,15 @@ referência de cada eixo. As descrições são o texto original da fonte
 oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
+
+<blockquote class="evidencia">
+<span class="data">14 out 2026</span>
+<div class="corpo">
+<p>Rejeitada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 281, de 2019, adotada pelo relator da Comissão Especial. <span class="placar">Sim: 252; Não: 176; Total: 428.</span></p>
+<p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2236186-60">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia">
 <span class="data">12 ago 2026</span>
@@ -83,15 +92,6 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 <p>Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 18, de 2021, adotada pelo relator da Comissão de Saúde, ressalvado o destaque. <span class="placar">Sim: 348; Não: 100; Abstenção: 1; Total: 449.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2270325-88">Ver votação na fonte oficial</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia">
-<span class="data">05 nov 2025</span>
-<div class="corpo">
-<p>Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.357, de 2023, adotada pelo relator da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, ressalvados os destaques. <span class="placar">Sim: 287; Não: 113; Total: 400.</span></p>
-<p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2386051-93">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
@@ -130,9 +130,9 @@ Acima é amostra, e diz que é. A decomposição completa — **todas** as
 votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
-- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 277 votações
+- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 279 votações
 - [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 239 votações
-- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 330 votações
+- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 332 votações
 - [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 303 votações
 
 ## O que disse em plenário

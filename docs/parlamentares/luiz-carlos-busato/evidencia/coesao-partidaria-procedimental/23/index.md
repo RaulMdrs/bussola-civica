@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Luiz Carlos Busato — Coesão com o próprio partido, Procedimental (página 23)"
-description: "A decomposição completa do número de Luiz Carlos Busato: 471 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 441ª à 460ª."
+description: "A decomposição completa do número de Luiz Carlos Busato: 472 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 441ª à 460ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Luiz Carlos Busato: 471 vo
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>94,7%</b> é <b>446</b> coincidências em
-<b>471</b> votações computáveis — as outras 25 estão
+<p><b>94,7%</b> é <b>447</b> coincidências em
+<b>472</b> votações computáveis — as outras 25 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>24 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>441ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>441ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 07 jul 2023 | Rejeitado o Requerimento. Sim: 86; não: 281; abstenção: 1; total: 368. | Maioria do partido: nao (20 sim / 25 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2360503-45](../../../../../votacoes/2360503-45/) |
 | 06 jul 2023 | Rejeitado o Requerimento. Sim: 133; não: 357; abstenção: 3; total: 493. | Maioria do partido: nao (15 sim / 40 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2196833-323](../../../../../votacoes/2196833-323/) |
 | 06 jul 2023 | Aprovado o Requerimento nº 2.150/2023, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões previsto no § 6º do art. 202 do RICD, para apreciação do segundo turno da PEC 45, de 2019. Sim: 335; não: 100; abstenção: 2; total: 437. | Maioria do partido: sim (37 sim / 8 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2372099-6](../../../../../votacoes/2372099-6/) |
 | 05 jul 2023 | Rejeitado o Requerimento. Sim: 148; não: 302; abstenção: 1; total: 451. | Maioria do partido: nao (15 sim / 34 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2196833-307](../../../../../votacoes/2196833-307/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>441ª</b> à
 | 16 mai 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 356; não: 89; abstenção: 1; total: 446. | Maioria do partido: sim (48 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2362137-8](../../../../../votacoes/2362137-8/) |
 | 10 mai 2023 | Rejeitado o Requerimento. Sim: 54; não: 347; total: 401. | Maioria do partido: nao (18 sim / 27 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2334279-38](../../../../../votacoes/2334279-38/) |
 | 10 mai 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; não: 43; abstenção: 1; total: 374. | Maioria do partido: nao (13 sim / 30 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2354502-8](../../../../../votacoes/2354502-8/) |
-| 09 mai 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 348; não: 48; abstenção: 2; total: 398. | Maioria do partido: sim (30 sim / 14 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2357639-9](../../../../../votacoes/2357639-9/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

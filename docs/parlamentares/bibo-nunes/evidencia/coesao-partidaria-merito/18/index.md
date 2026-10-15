@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Bibo Nunes — Coesão com o próprio partido, Mérito (página 18)"
-description: "A decomposição completa do número de Bibo Nunes: 521 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
+description: "A decomposição completa do número de Bibo Nunes: 523 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Bibo Nunes: 521 votações
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>95,0%</b> é <b>495</b> coincidências em
-<b>521</b> votações computáveis — as outras 26 estão
+<p><b>95,0%</b> é <b>497</b> coincidências em
+<b>523</b> votações computáveis — as outras 26 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>27 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 04 jun 2024 | Rejeitadas as Emendas de Plenário. Sim: 2; não: 413; abstenção: 1; total: 416. | Maioria do partido: nao (0 sim / 79 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2166464-132](../../../../../votacoes/2166464-132/) |
+| 28 mai 2024 | Aprovada a Emenda de Plenário nº 26. Sim: 174; não: 159; abstenção: 1; total: 334. | Maioria do partido: nao (3 sim / 66 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2422697-66](../../../../../votacoes/2422697-66/) |
 | 28 mai 2024 | Mantido o texto. Sim: 266; não: 139; abstenção: 1; total: 406. | Maioria do partido: nao (3 sim / 71 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2422697-69](../../../../../votacoes/2422697-69/) |
 | 28 mai 2024 | Aprovada a Emenda de Plenário n° 75. Sim: 273; não: 111; total: 384. | Maioria do partido: sim (75 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422697-72](../../../../../votacoes/2422697-72/) |
 | 28 mai 2024 | Mantido o texto. Sim: 280; não: 121; total: 401. | Maioria do partido: nao (4 sim / 68 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2422697-75](../../../../../votacoes/2422697-75/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 | 14 mai 2024 | Rejeitada a Emenda de Plenário nº 5. Sim: 199; não: 221; abstenção: 2; total: 422. | Maioria do partido: sim (76 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2433327-54](../../../../../votacoes/2433327-54/) |
 | 14 mai 2024 | Rejeitada a Emenda de Plenário nº 3. Sim: 215; não: 226; abstenção: 1; total: 442. | Maioria do partido: sim (80 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2433327-57](../../../../../votacoes/2433327-57/) |
 | 14 mai 2024 | Rejeitada a Emenda de Plenário nº 4. Sim: 184; não: 223; abstenção: 1; total: 409. | Maioria do partido: sim (75 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2433327-60](../../../../../votacoes/2433327-60/) |
-| 14 mai 2024 | Mantido o texto. Sim: 277; não: 145; total: 422. | Maioria do partido: nao (6 sim / 72 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2433327-66](../../../../../votacoes/2433327-66/) |
-| 08 mai 2024 | Aprovado o Projeto de Lei nº 1.366, de 2022. Sim: 309; não: 131; abstenção: 2; total: 442. | Maioria do partido: sim (79 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2324721-94](../../../../../votacoes/2324721-94/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

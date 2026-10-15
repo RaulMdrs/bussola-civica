@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Lucas Redecker — Coesão com o próprio partido, Mérito (página 21)"
-description: "A decomposição completa do número de Lucas Redecker: 540 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 401ª à 420ª."
+description: "A decomposição completa do número de Lucas Redecker: 542 votações em 28 páginas, uma por linha, com link para a fonte. Esta traz da 401ª à 420ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,10 +11,10 @@ description: "A decomposição completa do número de Lucas Redecker: 540 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>64,3%</b> é <b>347</b> coincidências em
-<b>540</b> votações computáveis — as outras 193 estão
+<p><b>64,4%</b> é <b>349</b> coincidências em
+<b>542</b> votações computáveis — as outras 193 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
-repartida em <b>27 páginas</b> de até 20 votações,
+repartida em <b>28 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>401ª</b> à
 <b>420ª</b>.</p>
 </div>
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>401ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 19 dez 2023 | Mantido o texto. Sim: 288; não: 114; total: 402. | Maioria do partido: sim (9 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2395883-58](../../../../../votacoes/2395883-58/) |
+| 15 dez 2023 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e à adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 327; não: 43; abstenção:1; total: 371. | Maioria do partido: nao (5 sim / 7 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2384692-31](../../../../../votacoes/2384692-31/) |
 | 15 dez 2023 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião pelo não atendimento dos pressupostos constitucionais de relevância e urgência e pela inadequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 338; não: 47; abstenção: 2; total: 387. | Maioria do partido: sim (6 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2384692-33](../../../../../votacoes/2384692-33/) |
 | 15 dez 2023 | Aprovada a Medida Provisória nº 1.185 de 2023, na forma do Projeto de Lei de Conversão, ressalvado o destaque. Sim: 335; não: 56; abstenção: 1; total: 392. | Maioria do partido: nao (5 sim / 7 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2384692-35](../../../../../votacoes/2384692-35/) |
 | 15 dez 2023 | Rejeitada a Emenda de Comissão nº 26. Sim: 56; não:336; abstenção: 2; total: 394. | Maioria do partido: sim (7 sim / 5 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2384692-38](../../../../../votacoes/2384692-38/) |
@@ -43,13 +45,11 @@ da mais recente para a mais antiga. Esta traz da <b>401ª</b> à
 | 15 dez 2023 | Suprimido o texto. Sim: 299; não: 192; abstenção: 2; total: 493. | Maioria do partido: sim (8 sim / 4 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-179](../../../../../votacoes/259094-179/) |
 | 15 dez 2023 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques. Sim: 365; não: 118; abstenção: 1; total: 484. | Maioria do partido: sim (12 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-190](../../../../../votacoes/259094-190/) |
 | 15 dez 2023 | Mantido o texto. Sim: 333; não: 154; total: 487. | Maioria do partido: sim (10 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-193](../../../../../votacoes/259094-193/) |
-| 15 dez 2023 | Suprimido o texto. Sim: 293; não: 198; abstenção: 1; total: 492. | Maioria do partido: sim (11 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-199](../../../../../votacoes/259094-199/) |
-| 13 dez 2023 | Aprovado o Projeto de Lei Complementar nº 243, de 2023. Sim: 370; não: 77; abstenção: 4; total: 451. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2409076-34](../../../../../votacoes/2409076-34/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">
 <a class="passo" href="../20/" rel="prev">← Anteriores</a>
-<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../19/">19</a><a href="../20/">20</a><b aria-current="page">21</b><a href="../22/">22</a><a href="../23/">23</a><span class="salto">…</span><a href="../27/">27</a></span>
+<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../19/">19</a><a href="../20/">20</a><b aria-current="page">21</b><a href="../22/">22</a><a href="../23/">23</a><span class="salto">…</span><a href="../28/">28</a></span>
 <a class="passo" href="../22/" rel="next">Próximas →</a>
 </nav>
 

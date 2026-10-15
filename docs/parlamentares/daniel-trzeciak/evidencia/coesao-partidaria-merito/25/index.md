@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daniel Trzeciak — Coesão com o próprio partido, Mérito (página 25)"
-description: "A decomposição completa do número de Daniel Trzeciak: 488 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 481ª à 488ª."
+description: "A decomposição completa do número de Daniel Trzeciak: 490 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 481ª à 490ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Daniel Trzeciak: 488 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>72,3%</b> é <b>353</b> coincidências em
-<b>488</b> votações computáveis — as outras 135 estão
+<p><b>72,4%</b> é <b>355</b> coincidências em
+<b>490</b> votações computáveis — as outras 135 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>481ª</b> à
-<b>488ª</b>.</p>
+<b>490ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>481ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 04 mai 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.085, de 2023, adotada pela relatora da Comissão de Defesa dos Direitos da Mulher, ressalvados os destaques. Sim: 325; não: 36; abstenção: 3; total: 364. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2351179-51](../../../../../votacoes/2351179-51/) |
+| 27 abr 2023 | Aprovada a Emenda de Plenário nº 7. Sim: 181; não: 171; total: 352. | Maioria do partido: nao (2 sim / 6 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2345484-83](../../../../../votacoes/2345484-83/) |
 | 25 abr 2023 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 139, de 2022, adotado pelo Relator da Comissão de Finanças e Tributação. Sim: 360; não: 3; total: 363. | Maioria do partido: sim (10 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2337246-43](../../../../../votacoes/2337246-43/) |
 | 25 abr 2023 | Mantido o texto. Sim: 289; não: 108; total: 397. | Maioria do partido: sim (10 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2344938-48](../../../../../votacoes/2344938-48/) |
 | 25 abr 2023 | Mantido o texto. Sim: 282; não: 115; total: 397. | Maioria do partido: sim (10 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2344938-60](../../../../../votacoes/2344938-60/) |

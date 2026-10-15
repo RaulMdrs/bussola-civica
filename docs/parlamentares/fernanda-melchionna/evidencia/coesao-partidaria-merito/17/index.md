@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Fernanda Melchionna — Coesão com o próprio partido, Mérito (página 17)"
-description: "A decomposição completa do número de Fernanda Melchionna: 458 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
+description: "A decomposição completa do número de Fernanda Melchionna: 460 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Fernanda Melchionna: 458 v
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>98,0%</b> é <b>449</b> coincidências em
-<b>458</b> votações computáveis — as outras 9 estão
+<p><b>98,0%</b> é <b>451</b> coincidências em
+<b>460</b> votações computáveis — as outras 9 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 21 fev 2024 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 425; total: 425. | Maioria do partido: sim (10 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2388837-35](../../../../../votacoes/2388837-35/) |
+| 21 dez 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.148, de 2015, adotada pelo relator da Comissão Especial, ressalvado o destaque. Sim: 299; não: 103; abstenção: 1; total: 403. | Maioria do partido: nao (0 sim / 11 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [1548579-126](../../../../../votacoes/1548579-126/) |
 | 21 dez 2023 | Mantido o texto. Sim: 301; não: 81; total: 382. | Maioria do partido: nao (0 sim / 9 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [1548579-144](../../../../../votacoes/1548579-144/) |
 | 19 dez 2023 | Aprovado o Substitutivo ao Projeto de Lei nº 4.994, de 2023, adotado pelo relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvados os destaques. Sim: 311; não: 103; abstenção: 1; total: 415. | Maioria do partido: nao (0 sim / 11 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2395883-53](../../../../../votacoes/2395883-53/) |
 | 19 dez 2023 | Mantido o texto. Sim: 288; não: 114; total: 402. | Maioria do partido: nao (0 sim / 11 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2395883-58](../../../../../votacoes/2395883-58/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 | 15 dez 2023 | Suprimido o texto. Sim: 285; não: 192; abstenção: 2; total: 479. | Maioria do partido: nao (2 sim / 9 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [259094-172](../../../../../votacoes/259094-172/) |
 | 15 dez 2023 | Mantido o texto. Sim: 341; não: 153; abstenção: 4; total: 498. | Maioria do partido: nao (5 sim / 7 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [259094-176](../../../../../votacoes/259094-176/) |
 | 15 dez 2023 | Suprimido o texto. Sim: 299; não: 192; abstenção: 2; total: 493. | Maioria do partido: nao (3 sim / 7 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [259094-179](../../../../../votacoes/259094-179/) |
-| 15 dez 2023 | Mantido o texto. Sim: 333; não: 154; total: 487. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-193](../../../../../votacoes/259094-193/) |
-| 15 dez 2023 | Suprimido o texto. Sim: 293; não: 198; abstenção: 1; total: 492. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-199](../../../../../votacoes/259094-199/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daiana Santos — Coesão com o próprio partido, Mérito (página 4)"
-description: "A decomposição completa do número de Daiana Santos: 442 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
+description: "A decomposição completa do número de Daiana Santos: 444 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Daiana Santos: 442 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,3%</b> é <b>430</b> coincidências em
-<b>442</b> votações computáveis — as outras 12 estão
+<p><b>97,3%</b> é <b>432</b> coincidências em
+<b>444</b> votações computáveis — as outras 12 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 15 dez 2025 | Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei complementar nº 108, de 2024, com parecer pela rejeição, indicados no Parecer da Comissão de Indústria, Comércio e Serviços. Sim: 77; Não: 252; Total: 329. | Maioria do partido: nao (0 sim / 6 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438459-115](../../../../../votacoes/2438459-115/) |
+| 15 dez 2025 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 163, de 2025. Sim: 320; Não: 109; Total: 429. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2541109-88](../../../../../votacoes/2541109-88/) |
 | 15 dez 2025 | Aprovado o Projeto de Lei nº 4.278, de 2025, ressalvado o destaque. Sim: 325; Não: 119; Abstenção: 3; Total: 447. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2554285-48](../../../../../votacoes/2554285-48/) |
 | 15 dez 2025 | Mantido o texto. Sim: 293; Não: 120; Abstenção: 4; Total: 417. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2554285-51](../../../../../votacoes/2554285-51/) |
 | 10 dez 2025 | Rejeitado o Parecer da Comissão de Constituição e Justiça e de Cidadania à Representação nº 2, de 2025, que conclui pela procedência da representação e pela perda do mandato da Dep. Carla Zambelli. Sim: 227; Não: 170; Abstenção: 10; Total: 407. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2525122-81](../../../../../votacoes/2525122-81/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 | 09 dez 2025 | Mantido o texto. Sim: 298; Não: 112; Total: 410. | Maioria do partido: nao (0 sim / 7 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2471177-117](../../../../../votacoes/2471177-117/) |
 | 09 dez 2025 | Aprovado o Projeto de Lei Complementar nº 125, de 2022. Sim: 436; Não: 2; Total: 438. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2559194-42](../../../../../votacoes/2559194-42/) |
 | 09 dez 2025 | Rejeitadas as Emendas de Plenário. Sim: 8; Não: 382; Total: 390. | Maioria do partido: nao (0 sim / 7 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2559194-44](../../../../../votacoes/2559194-44/) |
-| 02 dez 2025 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 72, de 2023. Sim: 412; Não: 4; Total: 416. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422905-68](../../../../../votacoes/2422905-68/) |
-| 02 dez 2025 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 72, de 2023. Sim: 397; Não: 3; Total: 400. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422905-75](../../../../../votacoes/2422905-75/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

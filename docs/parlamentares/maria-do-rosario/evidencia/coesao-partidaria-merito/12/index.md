@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Maria do Rosário — Coesão com o próprio partido, Mérito (página 12)"
-description: "A decomposição completa do número de Maria do Rosário: 431 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
+description: "A decomposição completa do número de Maria do Rosário: 433 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Maria do Rosário: 431 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>96,8%</b> é <b>417</b> coincidências em
-<b>431</b> votações computáveis — as outras 14 estão
+<p><b>96,8%</b> é <b>419</b> coincidências em
+<b>433</b> votações computáveis — as outras 14 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 18 mar 2025 | Aprovado o Projeto de Lei Complementar nº 58, de 2025, ressalvado o destaque. Sim: 413; Não: 1; Total: 414. | Maioria do partido: sim (56 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2486199-32](../../../../../votacoes/2486199-32/) |
+| 18 mar 2025 | Mantido o texto. Sim: 386; Não: 27; Total: 413. | Maioria do partido: sim (60 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2486199-35](../../../../../votacoes/2486199-35/) |
 | 25 fev 2025 | Aprovado o Projeto de Lei nº 4.187, de 2024. Sim: 269; Não: 136; Abstenção: 2; Total: 407. | Maioria do partido: sim (58 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2466108-33](../../../../../votacoes/2466108-33/) |
 | 18 fev 2025 | Aprovado o Projeto de Lei Complementar nº 223, de 2023. Sim: 407; Não: 6; Total: 413. | Maioria do partido: sim (57 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2397890-55](../../../../../votacoes/2397890-55/) |
 | 12 fev 2025 | Aprovado o Projeto de Lei nº 2.215, de 2024. Sim: 273; Não: 136; Total: 409. | Maioria do partido: sim (59 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438467-47](../../../../../votacoes/2438467-47/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 | 17 dez 2024 | Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela rejeição. Sim: 18; Não: 328; Abstenção: 7; Total: 353. | Maioria do partido: nao (0 sim / 60 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2430143-142](../../../../../votacoes/2430143-142/) |
 | 17 dez 2024 | Aprovada a Emenda de Redação n° 2. Sim: 314; Não: 117; Abstenção: 1; Total: 432. | Maioria do partido: sim (62 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430143-144](../../../../../votacoes/2430143-144/) |
 | 17 dez 2024 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 210, de 2024, adotado pelo relator da Comissão Especial. Sim: 318; Não: 149; Total: 467. | Maioria do partido: sim (63 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2473389-58](../../../../../votacoes/2473389-58/) |
-| 17 dez 2024 | Rejeitada a Emenda de Plenário nº 9. Sim: 227; Não: 233; Abstenção: 1; Total: 461. | Maioria do partido: nao (0 sim / 65 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2473389-62](../../../../../votacoes/2473389-62/) |
-| 17 dez 2024 | Rejeitada a Emenda de Plenário nº 19. Sim: 186; Não: 256; Total: 442. | Maioria do partido: nao (30 sim / 32 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2473389-65](../../../../../votacoes/2473389-65/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

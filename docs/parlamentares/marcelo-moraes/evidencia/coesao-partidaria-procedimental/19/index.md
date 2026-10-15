@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcelo Moraes — Coesão com o próprio partido, Procedimental (página 19)"
-description: "A decomposição completa do número de Marcelo Moraes: 378 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 378ª."
+description: "A decomposição completa do número de Marcelo Moraes: 379 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 379ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Marcelo Moraes: 378 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>91,0%</b> é <b>344</b> coincidências em
-<b>378</b> votações computáveis — as outras 34 estão
+<p><b>91,0%</b> é <b>345</b> coincidências em
+<b>379</b> votações computáveis — as outras 34 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
-<b>378ª</b>.</p>
+<b>379ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 31 mai 2023 | Rejeitado o Requerimento. Sim: 130; não: 337; abstenção: 1; total: 468. | Maioria do partido: sim (76 sim / 6 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345493-31](../../../../../votacoes/2345493-31/) |
 | 31 mai 2023 | Aprovado o Requerimento. Sim: 324; não: 114; abstenção: 1; total: 439. | Maioria do partido: nao (6 sim / 73 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2345493-35](../../../../../votacoes/2345493-35/) |
 | 30 mai 2023 | Rejeitado o Requerimento. Sim: 123; não: 257; total: 380. | Maioria do partido: nao (1 sim / 73 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [345311-248](../../../../../votacoes/345311-248/) |
 | 30 mai 2023 | Aprovado o Requerimento. Sim: 311; não: 137; abstenção: 1; total: 449. | Maioria do partido: sim (83 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [345311-257](../../../../../votacoes/345311-257/) |

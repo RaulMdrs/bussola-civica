@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Sanderson — Alinhamento com o governo federal, Mérito (página 16)"
-description: "A decomposição completa do número de Sanderson: 391 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
+description: "A decomposição completa do número de Sanderson: 393 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Sanderson: 391 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>29,7%</b> é <b>116</b> coincidências em
-<b>391</b> votações computáveis — as outras 275 estão
+<p><b>29,8%</b> é <b>117</b> coincidências em
+<b>393</b> votações computáveis — as outras 276 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 12 mar 2024 | Rejeitada a preferência. Sim: 130; não: 303; total: 433. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2417025-55](../../../../../votacoes/2417025-55/) |
+| 28 fev 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 9.543, de 2018, adotada pelo relator da Comissão de Minas e Energia. Sim: 325; não: 97; abstenção: 1; total: 423. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2167882-83](../../../../../votacoes/2167882-83/) |
 | 21 fev 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 175, de 2023, adotada pelo relator da Comissão de Saúde. Sim: 426; não: 4; total: 430. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2382257-49](../../../../../votacoes/2382257-49/) |
 | 21 fev 2024 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 425; total: 425. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2388837-35](../../../../../votacoes/2388837-35/) |
 | 21 dez 2023 | Mantido o texto. Sim: 301; não: 81; total: 382. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [1548579-144](../../../../../votacoes/1548579-144/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 | 15 dez 2023 | Suprimido o texto. Sim: 293; não: 198; abstenção: 1; total: 492. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-199](../../../../../votacoes/259094-199/) |
 | 13 dez 2023 | Aprovado o Projeto de Lei Complementar nº 243, de 2023. Sim: 370; não: 77; abstenção: 4; total: 451. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2409076-34](../../../../../votacoes/2409076-34/) |
 | 05 dez 2023 | Aprovada a Emenda de Plenário n° 1. Sim: 257; não: 144; abstenção: 2; total: 403. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2231632-102](../../../../../votacoes/2231632-102/) |
-| 05 dez 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 6.256, de 2019, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 240; não: 180; total: 420. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2231632-97](../../../../../votacoes/2231632-97/) |
-| 29 nov 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 11.247, de 2018, adotada pelo relator da Comissão de Minas e Energia, ressalvados os destaques. Sim: 403; não: 16; total: 419. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2190084-79](../../../../../votacoes/2190084-79/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Bohn Gass — Alinhamento com o governo federal, Procedimental (página 14)"
-description: "A decomposição completa do número de Bohn Gass: 384 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
+description: "A decomposição completa do número de Bohn Gass: 385 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Bohn Gass: 384 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>98,7%</b> é <b>379</b> coincidências em
-<b>384</b> votações computáveis — as outras 5 estão
+<p><b>98,7%</b> é <b>380</b> coincidências em
+<b>385</b> votações computáveis — as outras 5 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 14 mai 2024 | Rejeitado o Requerimento. Sim: 44; não: 364; total: 408. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2416733-28](../../../../../votacoes/2416733-28/) |
 | 14 mai 2024 | Rejeitado o Requerimento. Sim: 38; não: 378; total: 416. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2416733-37](../../../../../votacoes/2416733-37/) |
 | 14 mai 2024 | Aprovado o Recurso. Sim: 219; não: 209; total: 428. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2433690-7](../../../../../votacoes/2433690-7/) |
 | 07 mai 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 320; não: 117; total: 437. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2431123-8](../../../../../votacoes/2431123-8/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 | 19 mar 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 302; não: 82; abstenção: 1; total: 385. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2421056-8](../../../../../votacoes/2421056-8/) |
 | 12 mar 2024 | Rejeitado o Requerimento. Sim: 97; não: 293; total: 390. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2417025-29](../../../../../votacoes/2417025-29/) |
 | 12 mar 2024 | Rejeitado o Requerimento. Sim: 112; não: 305; total: 417. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2417025-50](../../../../../votacoes/2417025-50/) |
-| 12 mar 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 270; não: 88; total: 358. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2420014-8](../../../../../votacoes/2420014-8/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

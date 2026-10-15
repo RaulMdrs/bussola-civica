@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Denise Pessôa — Coesão com o próprio partido, Mérito (página 16)"
-description: "A decomposição completa do número de Denise Pessôa: 514 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
+description: "A decomposição completa do número de Denise Pessôa: 516 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Denise Pessôa: 514 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,1%</b> é <b>499</b> coincidências em
-<b>514</b> votações computáveis — as outras 15 estão
+<p><b>97,1%</b> é <b>501</b> coincidências em
+<b>516</b> votações computáveis — as outras 15 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 11 jul 2024 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 9, de 2023, ressalvado o destaque. Sim: 338; não: 83; abstenção: 4; Total: 425. | Maioria do partido: sim (56 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2352476-168](../../../../../votacoes/2352476-168/) |
+| 11 jul 2024 | Mantido o texto. Sim: 379; não: 23; abstenção: 1; total: 403. | Maioria do partido: sim (52 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2352476-171](../../../../../votacoes/2352476-171/) |
 | 11 jul 2024 | Aprovado, em primeiro turno, o Substitutivo da Comissão Especial à Proposta de Emenda à Constituição nº 44, de 2023. Sim: 392; não: 22; total: 414. | Maioria do partido: sim (58 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2388029-86](../../../../../votacoes/2388029-86/) |
 | 11 jul 2024 | Aprovada a Emenda de Redação nº 1 à Proposta de Emenda à Constituição nº 44, de 2023. Sim: 361; não: 3; total: 364. | Maioria do partido: sim (50 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2388029-88](../../../../../votacoes/2388029-88/) |
 | 11 jul 2024 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 44, de 2023. Sim: 378; não: 7; total: 385. | Maioria do partido: sim (51 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2388029-94](../../../../../votacoes/2388029-94/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 | 04 jun 2024 | Rejeitadas as Emendas de Plenário. Sim: 2; não: 413; abstenção: 1; total: 416. | Maioria do partido: nao (1 sim / 57 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2166464-132](../../../../../votacoes/2166464-132/) |
 | 28 mai 2024 | Aprovada a Emenda de Plenário nº 26. Sim: 174; não: 159; abstenção: 1; total: 334. | Maioria do partido: sim (50 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422697-66](../../../../../votacoes/2422697-66/) |
 | 28 mai 2024 | Mantido o texto. Sim: 266; não: 139; abstenção: 1; total: 406. | Maioria do partido: sim (58 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422697-69](../../../../../votacoes/2422697-69/) |
-| 28 mai 2024 | Aprovada a Emenda de Plenário n° 75. Sim: 273; não: 111; total: 384. | Maioria do partido: sim (57 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422697-72](../../../../../votacoes/2422697-72/) |
-| 28 mai 2024 | Mantido o texto. Sim: 280; não: 121; total: 401. | Maioria do partido: sim (61 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422697-75](../../../../../votacoes/2422697-75/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

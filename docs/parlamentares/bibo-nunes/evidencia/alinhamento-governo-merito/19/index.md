@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Bibo Nunes — Alinhamento com o governo federal, Mérito (página 19)"
-description: "A decomposição completa do número de Bibo Nunes: 404 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 380ª."
+description: "A decomposição completa do número de Bibo Nunes: 406 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 380ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Bibo Nunes: 404 votações
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>32,7%</b> é <b>132</b> coincidências em
-<b>404</b> votações computáveis — as outras 272 estão
+<p><b>32,8%</b> é <b>133</b> coincidências em
+<b>406</b> votações computáveis — as outras 273 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 07 jul 2023 | Mantido o texto. Sim: 336; não: 132; total: 468. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-386](../../../../../votacoes/2196833-386/) |
+| 07 jul 2023 | Mantido o texto. Sim: 370; não: 28; abstenção: 3; total: 401. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-392](../../../../../votacoes/2196833-392/) |
 | 07 jul 2023 | Suprimido o texto. Sim: 112; não: 284; abstenção: 1; total: 397. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2360503-74](../../../../../votacoes/2360503-74/) |
 | 07 jul 2023 | Mantido o texto. Sim: 327; não: 96; abstenção: 1; total: 424. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2367064-66](../../../../../votacoes/2367064-66/) |
 | 07 jul 2023 | Mantido o texto. Sim: 251; não: 206; total: 457. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2367064-82](../../../../../votacoes/2367064-82/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
 | 13 jun 2023 | Aprovado o Projeto de Lei nº 2.250, de 2023. Sim: 318; não: 31; total: 349. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2358922-21](../../../../../votacoes/2358922-21/) |
 | 31 mai 2023 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião pelo atendimento dos pressupostos constitucionais de relevância e urgência e pela inadequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 319; não: 111; abstenção: 1; total: 431. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2345493-38](../../../../../votacoes/2345493-38/) |
 | 31 mai 2023 | Mantido o texto. Sim: 324; não: 114; abstenção: 1; total: 439. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2345493-44](../../../../../votacoes/2345493-44/) |
-| 31 mai 2023 | Mantido o texto. Sim: 260; não: 186; abstenção: 2; total: 448. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2345493-47](../../../../../votacoes/2345493-47/) |
-| 31 mai 2023 | Rejeitada a Emenda de Comissão nº 14. Sim: 182; não: ; 243; abstenção: 2; total: 427. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2345493-50](../../../../../votacoes/2345493-50/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Paulo Pimenta — Coesão com o próprio partido, Mérito (página 9)"
-description: "A decomposição completa do número de Paulo Pimenta: 251 votações em 13 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
+description: "A decomposição completa do número de Paulo Pimenta: 253 votações em 13 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Paulo Pimenta: 251 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>98,0%</b> é <b>246</b> coincidências em
-<b>251</b> votações computáveis — as outras 5 estão
+<p><b>98,0%</b> é <b>248</b> coincidências em
+<b>253</b> votações computáveis — as outras 5 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>13 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 19 ago 2025 | Aprovado o Projeto de Lei nº 3.181, de 2025, ressalvados os destaques . Sim: 210; Não: 166; Total: 376. | Maioria do partido: sim (49 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2530336-43](../../../../../votacoes/2530336-43/) |
+| 19 ago 2025 | Mantido o texto. Sim: 230; Não: 143; Total: 373. | Maioria do partido: sim (53 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2530336-46](../../../../../votacoes/2530336-46/) |
 | 19 ago 2025 | Mantido o texto. Sim: 228; Não: 143; Abstenção: 1; Total: 372. | Maioria do partido: sim (54 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2530336-50](../../../../../votacoes/2530336-50/) |
 | 19 ago 2025 | Mantido o texto. Sim: 246; Não: 146; Abstenção: 1; Total: 393. | Maioria do partido: sim (54 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2530336-53](../../../../../votacoes/2530336-53/) |
 | 07 ago 2025 | Rejeitada a Emenda n° 29. Sim: 30; Não: 394; Abstenção: 2; Total: 426. | Maioria do partido: nao (2 sim / 56 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2498090-44](../../../../../votacoes/2498090-44/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 | 15 jul 2025 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 66, de 2023, ressalvado o destaque. Sim: 367; Não: 97; Abstenção: 2; Total: 466. | Maioria do partido: sim (59 sim / 5 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454495-166](../../../../../votacoes/2454495-166/) |
 | 15 jul 2025 | Mantido o texto. Sim: 342; Não: 126; Abstenção: 1; Total: 469. | Maioria do partido: sim (66 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454495-171](../../../../../votacoes/2454495-171/) |
 | 14 jul 2025 | Rejeitada a Emenda de Plenário ao Substitutivo. Sim: 7; Não: 407; Total: 414. | Maioria do partido: nao (1 sim / 49 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2480979-91](../../../../../votacoes/2480979-91/) |
-| 14 jul 2025 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 234, de 2024, da Comissão Especial. Sim: 471; Total: 471. | Maioria do partido: sim (63 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2480979-96](../../../../../votacoes/2480979-96/) |
-| 09 jul 2025 | Mantido o texto. Sim: 208; Não: 174; Total: 382. | Maioria do partido: sim (55 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2421211-103](../../../../../votacoes/2421211-103/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

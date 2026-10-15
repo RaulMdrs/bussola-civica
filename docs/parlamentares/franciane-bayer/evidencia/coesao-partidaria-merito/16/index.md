@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Franciane Bayer — Coesão com o próprio partido, Mérito (página 16)"
-description: "A decomposição completa do número de Franciane Bayer: 509 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
+description: "A decomposição completa do número de Franciane Bayer: 511 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Franciane Bayer: 509 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>80,0%</b> é <b>407</b> coincidências em
-<b>509</b> votações computáveis — as outras 102 estão
+<p><b>80,0%</b> é <b>409</b> coincidências em
+<b>511</b> votações computáveis — as outras 102 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 11 set 2024 | Aprovado o Projeto de Lei nº 1.847, de 2024, ressalvados os destaques. Sim: 253; Não: 67; Abstenção: 4; Total: 324. | Maioria do partido: sim (33 sim / 5 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454704-53](../../../../../votacoes/2454704-53/) |
+| 11 set 2024 | Rejeitadas as Emendas de Plenário. Sim: 57; Não: 228; Abstenção: 3; Total: 288. | Maioria do partido: nao (4 sim / 30 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2454704-55](../../../../../votacoes/2454704-55/) |
 | 11 set 2024 | Rejeitada a Emenda de Plenário nº 18. Sim: 133; Não: 204; Total: 337. | Maioria do partido: nao (7 sim / 27 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2454704-58](../../../../../votacoes/2454704-58/) |
 | 11 set 2024 | Mantido o texto. Sim: 206; Não: 70; Total: 276. | Maioria do partido: sim (30 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2454704-64](../../../../../votacoes/2454704-64/) |
 | 11 set 2024 | Mantido o texto. Sim: 200; Não: 80; Abstenção: 1; Total: 281. | Maioria do partido: sim (28 sim / 6 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2454704-67](../../../../../votacoes/2454704-67/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 | 11 jul 2024 | Aprovado, em primeiro turno, o Substitutivo adotado pelo Relator da Comissão Especial à Proposta de Emenda à Constituição nº 9, de 2023, ressalvado o destaque. Sim: 344; não: 89; abstenção: 4; total: 437. | Maioria do partido: sim (36 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2352476-149](../../../../../votacoes/2352476-149/) |
 | 11 jul 2024 | Mantido o texto. Sim: 404; não: 23; abstenção: 1; total: 428. | Maioria do partido: sim (34 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2352476-155](../../../../../votacoes/2352476-155/) |
 | 11 jul 2024 | Aprovado, em primeiro turno, o Substitutivo da Comissão Especial à Proposta de Emenda à Constituição nº 44, de 2023. Sim: 392; não: 22; total: 414. | Maioria do partido: sim (34 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2388029-86](../../../../../votacoes/2388029-86/) |
-| 11 jul 2024 | Aprovada a Emenda de Redação nº 1 à Proposta de Emenda à Constituição nº 44, de 2023. Sim: 361; não: 3; total: 364. | Maioria do partido: sim (32 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2388029-88](../../../../../votacoes/2388029-88/) |
-| 11 jul 2024 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 44, de 2023. Sim: 378; não: 7; total: 385. | Maioria do partido: sim (33 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2388029-94](../../../../../votacoes/2388029-94/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Covatti Filho — Alinhamento com o governo federal, Mérito (página 4)"
-description: "A decomposição completa do número de Covatti Filho: 354 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
+description: "A decomposição completa do número de Covatti Filho: 356 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Covatti Filho: 354 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>36,2%</b> é <b>128</b> coincidências em
-<b>354</b> votações computáveis — as outras 226 estão
+<p><b>36,2%</b> é <b>129</b> coincidências em
+<b>356</b> votações computáveis — as outras 227 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 04 nov 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 8.889, de 2017, adotada pelo relator da Comissão Especial, ressalvados os destaques. Sim: 330; Não: 118; Abstenção: 3; Total: 451. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2157806-137](../../../../../votacoes/2157806-137/) |
+| 04 nov 2025 | Aprovado o Projeto de Lei nº 4.750, de 2025. Sim: 299; Não: 119; Abstenção: 4; Total: 422. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2564274-37](../../../../../votacoes/2564274-37/) |
 | 04 nov 2025 | Mantido o texto. Sim: 377; Não: 50; Abstenção: 2; Total: 429. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [408349-216](../../../../../votacoes/408349-216/) |
 | 03 nov 2025 | Aprovado o Projeto de Lei Complementar nº 204, de 2025, ressalvado o destaque. Sim: 360; Não: 23; Abstenção: 2; Total: 385. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2576234-34](../../../../../votacoes/2576234-34/) |
 | 03 nov 2025 | Mantido o texto. Sim: 387; Não: 30; Abstenção: 1; Total: 418. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2576234-41](../../../../../votacoes/2576234-41/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 | 15 out 2025 | Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Sustação de Andamento de Ação Penal nº 2, de 2025, pela sustação do andamento da Ação Penal. Sim: 268; Não: 167; Abstenção: 4; Total: 439. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2564763-24](../../../../../votacoes/2564763-24/) |
 | 14 out 2025 | Aprovada a Emenda de Plenário nº 2. Sim: 246; Não: 199; Total: 445. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2501358-48](../../../../../votacoes/2501358-48/) |
 | 01 out 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.087, de 2025, adotada pelo relator da Comissão Especial. Sim: 493; Total: 493. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2487436-169](../../../../../votacoes/2487436-169/) |
-| 25 set 2025 | Aprovado o Projeto de Lei nº 358, de 2025. . | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2483447-25](../../../../../votacoes/2483447-25/) |
-| 24 set 2025 | Rejeitada a Emenda de Comissão nº 45. Sim: 132; Não: 275; Abstenção: 1; Total: 408. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2519886-53](../../../../../votacoes/2519886-53/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

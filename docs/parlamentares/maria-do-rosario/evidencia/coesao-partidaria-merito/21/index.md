@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Maria do Rosário — Coesão com o próprio partido, Mérito (página 21)"
-description: "A decomposição completa do número de Maria do Rosário: 431 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 401ª à 420ª."
+description: "A decomposição completa do número de Maria do Rosário: 433 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 401ª à 420ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Maria do Rosário: 431 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>96,8%</b> é <b>417</b> coincidências em
-<b>431</b> votações computáveis — as outras 14 estão
+<p><b>96,8%</b> é <b>419</b> coincidências em
+<b>433</b> votações computáveis — as outras 14 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>401ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>401ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 06 jul 2023 | Mantido o texto. Sim: 379; não: 116; abstenção: 1; total: 496. | Maioria do partido: sim (67 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-353](../../../../../votacoes/2196833-353/) |
+| 06 jul 2023 | Mantido o texto. Sim: 383; não: 103; abstenção: 2; total: 488. | Maioria do partido: sim (66 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-356](../../../../../votacoes/2196833-356/) |
 | 06 jul 2023 | Mantido o texto. Sim: 379; não: 114; abstenção: 2; total: 495. | Maioria do partido: sim (65 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-359](../../../../../votacoes/2196833-359/) |
 | 06 jul 2023 | Mantido o texto. Sim: 344; não: 147; abstenção: 2; total: 493. | Maioria do partido: sim (65 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-362](../../../../../votacoes/2196833-362/) |
 | 06 jul 2023 | Mantido o texto. Sim: 461; não: 24; abstenção: 2; total: 487. | Maioria do partido: sim (57 sim / 5 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-365](../../../../../votacoes/2196833-365/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>401ª</b> à
 | 24 mai 2023 | Mantido o texto. Sim: 326; não: 138; total: 464. | Maioria do partido: sim (65 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357053-59](../../../../../votacoes/2357053-59/) |
 | 24 mai 2023 | Mantido o texto. Sim: 316; não: 160; abstenção: 3; total: 479. | Maioria do partido: sim (64 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357053-62](../../../../../votacoes/2357053-62/) |
 | 24 mai 2023 | Mantido o texto. Sim: 306; não: 170; total: 476. | Maioria do partido: sim (62 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357053-65](../../../../../votacoes/2357053-65/) |
-| 24 mai 2023 | Rejeitada a Emenda de Plenário nº 85. Sim: 126; não: 335; total: 461. | Maioria do partido: nao (0 sim / 63 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2357053-70](../../../../../votacoes/2357053-70/) |
-| 23 mai 2023 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 93, de 2023, adotado pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 372; não: 108; abstenção: 1; total: 481. | Maioria do partido: sim (65 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357053-47](../../../../../votacoes/2357053-47/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

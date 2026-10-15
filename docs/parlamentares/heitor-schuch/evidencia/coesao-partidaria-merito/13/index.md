@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Heitor Schuch — Coesão com o próprio partido, Mérito (página 13)"
-description: "A decomposição completa do número de Heitor Schuch: 330 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
+description: "A decomposição completa do número de Heitor Schuch: 332 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Heitor Schuch: 330 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>92,7%</b> é <b>306</b> coincidências em
-<b>330</b> votações computáveis — as outras 24 estão
+<p><b>92,8%</b> é <b>308</b> coincidências em
+<b>332</b> votações computáveis — as outras 24 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>17 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 15 dez 2023 | Suprimido o texto. Sim: 62; não: 370; total: 432. | Maioria do partido: sim (13 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-146](../../../../../votacoes/259094-146/) |
+| 15 dez 2023 | Mantido o texto. Sim: 352; não: 141; abstenção: 1; total: 494. | Maioria do partido: sim (13 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-149](../../../../../votacoes/259094-149/) |
 | 15 dez 2023 | Mantido o texto. Sim: 324; não: 142; abstenção: 3; total: 469. | Maioria do partido: sim (12 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-166](../../../../../votacoes/259094-166/) |
 | 15 dez 2023 | Suprimido o texto. Sim: 285; não: 192; abstenção: 2; total: 479. | Maioria do partido: sim (9 sim / 4 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-172](../../../../../votacoes/259094-172/) |
 | 15 dez 2023 | Mantido o texto. Sim: 341; não: 153; abstenção: 4; total: 498. | Maioria do partido: sim (9 sim / 4 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-176](../../../../../votacoes/259094-176/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 | 05 dez 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 6.256, de 2019, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 240; não: 180; total: 420. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2231632-97](../../../../../votacoes/2231632-97/) |
 | 29 nov 2023 | Mantido o texto. Sim: 387; não: 38; total: 425. | Maioria do partido: sim (7 sim / 5 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2190084-88](../../../../../votacoes/2190084-88/) |
 | 29 nov 2023 | Aprovada a Emenda de Plenário nº 7. Sim: 253; não: 160; abstenção: 1; total: 414. | Maioria do partido: nao (1 sim / 12 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2190084-93](../../../../../votacoes/2190084-93/) |
-| 29 nov 2023 | Aprovado o Projeto de Lei nº 3.268, de 2021. Sim: 286; não: 121; abstenção: 2; total: 409. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2299903-53](../../../../../votacoes/2299903-53/) |
-| 29 nov 2023 | Aprovado o Projeto de Lei Complementar nº 205, de 2023.Sim: 326; não: 84; abstenção: 1; total: 411. | Maioria do partido: sim (13 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2398741-64](../../../../../votacoes/2398741-64/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

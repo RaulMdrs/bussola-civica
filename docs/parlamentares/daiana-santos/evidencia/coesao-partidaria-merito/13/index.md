@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daiana Santos — Coesão com o próprio partido, Mérito (página 13)"
-description: "A decomposição completa do número de Daiana Santos: 442 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
+description: "A decomposição completa do número de Daiana Santos: 444 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Daiana Santos: 442 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,3%</b> é <b>430</b> coincidências em
-<b>442</b> votações computáveis — as outras 12 estão
+<p><b>97,3%</b> é <b>432</b> coincidências em
+<b>444</b> votações computáveis — as outras 12 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 12 dez 2024 | Mantido o texto. Sim: 229; Não: 106; Abstenção: 1; Total: 336. | Maioria do partido: nao (0 sim / 5 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2194861-82](../../../../../votacoes/2194861-82/) |
+| 12 dez 2024 | Mantido o texto. Sim: 183; Não: 79; Total: 262. | Maioria do partido: nao (0 sim / 5 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2194861-85](../../../../../votacoes/2194861-85/) |
 | 12 dez 2024 | Mantido o texto. Sim: 228; Não: 107; Total: 335. | Maioria do partido: nao (0 sim / 5 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2194861-91](../../../../../votacoes/2194861-91/) |
 | 12 dez 2024 | Mantido o texto. Sim: 196; Não: 84; Total: 280. | Maioria do partido: nao (0 sim / 5 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2194861-94](../../../../../votacoes/2194861-94/) |
 | 12 dez 2024 | Aprovada a Emenda de Plenário n° 1. Sim: 267; Não: 85; Abstenção: 14; Total: 366. | Maioria do partido: nao (0 sim / 5 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2258828-105](../../../../../votacoes/2258828-105/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 | 19 nov 2024 | Rejeitados os artigos 3º e 7º; a supressão do § 4º do art. 4º aprovado pela Câmara, reestabelecendo o referido dispositivo, e rejeitado o § 2º do art. 8º. Sim: 41; Não: 343; Total: 384. | Maioria do partido: nao (0 sim / 5 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2466104-97](../../../../../votacoes/2466104-97/) |
 | 19 nov 2024 | Mantido o texto. Sim: 236; Não: 99; Total: 335. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2467306-39](../../../../../votacoes/2467306-39/) |
 | 05 nov 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 175, de 2024, adotada pelo relator da Comissão de Administração e Serviço Público, ressalvados os destaques. Sim: 330; Não: 74; Abstenção: 2; Total: 406. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2466104-39](../../../../../votacoes/2466104-39/) |
-| 05 nov 2024 | Rejeitada a Emenda de Plenário n° 29. Sim: 25; Não: 348; Abstenção: 1; Total: 374. | Maioria do partido: nao (0 sim / 4 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2466104-52](../../../../../votacoes/2466104-52/) |
-| 30 out 2024 | Mantido o texto. Sim: 292; Não: 106; Total: 398. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-66](../../../../../votacoes/2438459-66/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

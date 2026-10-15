@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daiana Santos — Alinhamento com o governo federal, Mérito (página 12)"
-description: "A decomposição completa do número de Daiana Santos: 348 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
+description: "A decomposição completa do número de Daiana Santos: 350 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Daiana Santos: 348 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>95,1%</b> é <b>331</b> coincidências em
-<b>348</b> votações computáveis — as outras 17 estão
+<p><b>95,1%</b> é <b>333</b> coincidências em
+<b>350</b> votações computáveis — as outras 17 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 14 ago 2024 | Mantido o texto. Sim: 283; não: 64; abstenção: 2; total: 349. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2448974-50](../../../../../votacoes/2448974-50/) |
+| 14 ago 2024 | Mantido o texto. Sim: 292; não: 89; total: 381. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2448974-56](../../../../../votacoes/2448974-56/) |
 | 13 ago 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 108, de 2024, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 303; não: 142; total: 445. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-55](../../../../../votacoes/2438459-55/) |
 | 11 jul 2024 | Aprovado, em primeiro turno, o Substitutivo da Comissão Especial à Proposta de Emenda à Constituição nº 44, de 2023. Sim: 392; não: 22; total: 414. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2388029-86](../../../../../votacoes/2388029-86/) |
 | 11 jul 2024 | Aprovada a Emenda de Redação nº 1 à Proposta de Emenda à Constituição nº 44, de 2023. Sim: 361; não: 3; total: 364. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2388029-88](../../../../../votacoes/2388029-88/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 | 28 mai 2024 | Mantido o texto. Sim: 266; não: 139; abstenção: 1; total: 406. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422697-69](../../../../../votacoes/2422697-69/) |
 | 28 mai 2024 | Mantido o texto. Sim: 280; não: 121; total: 401. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422697-75](../../../../../votacoes/2422697-75/) |
 | 22 mai 2024 | Mantido o texto. Sim: 320; não: 113; total: 433. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2349493-103](../../../../../votacoes/2349493-103/) |
-| 22 mai 2024 | Rejeitado o Destaque. Sim: 148; não: 292; total: 440. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2349493-118](../../../../../votacoes/2349493-118/) |
-| 21 mai 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 709, de 2023, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 336; não: 120; abstenção: 1; total: 457. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2349493-82](../../../../../votacoes/2349493-82/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

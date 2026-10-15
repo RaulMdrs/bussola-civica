@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Pompeo de Mattos — Alinhamento com o governo federal, Mérito (página 12)"
-description: "A decomposição completa do número de Pompeo de Mattos: 375 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
+description: "A decomposição completa do número de Pompeo de Mattos: 377 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Pompeo de Mattos: 375 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>84,5%</b> é <b>317</b> coincidências em
-<b>375</b> votações computáveis — as outras 58 estão
+<p><b>84,6%</b> é <b>319</b> coincidências em
+<b>377</b> votações computáveis — as outras 58 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 30 out 2024 | Rejeitada a Emenda de Plenário n° 8. Sim: 156; Não: 245; Total: 401. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2456554-50](../../../../../votacoes/2456554-50/) |
+| 12 set 2024 | Aprovada a Emenda de Redação n° 1 Sim: 231; Não: 54; Abstenção: 1; Total: 286. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454704-76](../../../../../votacoes/2454704-76/) |
 | 11 set 2024 | Aprovado o Projeto de Lei nº 1.847, de 2024, ressalvados os destaques. Sim: 253; Não: 67; Abstenção: 4; Total: 324. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454704-53](../../../../../votacoes/2454704-53/) |
 | 11 set 2024 | Rejeitadas as Emendas de Plenário. Sim: 57; Não: 228; Abstenção: 3; Total: 288. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2454704-55](../../../../../votacoes/2454704-55/) |
 | 11 set 2024 | Rejeitada a Emenda de Plenário nº 18. Sim: 133; Não: 204; Total: 337. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2454704-58](../../../../../votacoes/2454704-58/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 | 10 jul 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 68, de 2024, adotada pelo relator da Comissão Especial, ressalvados os destaques. Sim: 336; não: 142; abstenção: 2; total: 480. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430143-72](../../../../../votacoes/2430143-72/) |
 | 10 jul 2024 | Aprovada a Emenda de Plenário nº 766. Sim: 477; não: 3; abstenção: 2; total: 482. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430143-98](../../../../../votacoes/2430143-98/) |
 | 09 jul 2024 | Rejeitado o Recurso nº 18/2024, contra apreciação terminativa do inciso I do caput do art. 35-D, da Lei nº 9394/96, contida no art. 1º do Substitutivo do Senado Federal, apresentado ao PL nº 5230/23. Sim: 126; não: 302; total: 428. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2399598-108](../../../../../votacoes/2399598-108/) |
-| 09 jul 2024 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 5.230, de 2023,com parecer pela aprovação, ressalvados os dispositivos com parecer pela rejeição. Sim: 437; não: 1; total: 438. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2399598-112](../../../../../votacoes/2399598-112/) |
-| 03 jul 2024 | Aprovada a Medida Provisória nº 1.210, de 2024. Sim: 336; total: 336. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422095-37](../../../../../votacoes/2422095-37/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

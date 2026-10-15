@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Osmar Terra — Coesão com o próprio partido, Mérito (página 15)"
-description: "A decomposição completa do número de Osmar Terra: 447 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
+description: "A decomposição completa do número de Osmar Terra: 449 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Osmar Terra: 447 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>63,8%</b> é <b>285</b> coincidências em
-<b>447</b> votações computáveis — as outras 162 estão
+<p><b>63,9%</b> é <b>287</b> coincidências em
+<b>449</b> votações computáveis — as outras 162 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 11 set 2024 | Mantido o texto. Sim: 189; Não: 140; Total: 329. | Maioria do partido: sim (14 sim / 6 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2454704-70](../../../../../votacoes/2454704-70/) |
+| 10 set 2024 | Aprovado o Projeto de Lei Complementar nº 72, de 2024. Sim: 432; Não: 2; Abstenção: 1; Total: 435. | Maioria do partido: sim (30 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2447191-41](../../../../../votacoes/2447191-41/) |
 | 09 set 2024 | Aprovado o Substitutivo ao Projeto de Lei nº 3.010, de 2019, adotado pelo Relator da Comissão de Saúde. Sim: 450; Não: 1; Abstenção: 2; Total: 453. | Maioria do partido: sim (34 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2204088-88](../../../../../votacoes/2204088-88/) |
 | 28 ago 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 519, de 2018, adotada pelo relator da Comissão Especial, ressalvado o destaque. Sim: 439; não: 3; abstenção: 3; total: 445. | Maioria do partido: sim (32 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2178408-165](../../../../../votacoes/2178408-165/) |
 | 28 ago 2024 | Mantido o texto. Sim: 305; não: 132; abstenção: 1; total: 438. | Maioria do partido: sim (26 sim / 7 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2178408-173](../../../../../votacoes/2178408-173/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 | 11 jul 2024 | Aprovado, em primeiro turno, o Substitutivo da Comissão Especial à Proposta de Emenda à Constituição nº 44, de 2023. Sim: 392; não: 22; total: 414. | Maioria do partido: sim (33 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2388029-86](../../../../../votacoes/2388029-86/) |
 | 11 jul 2024 | Aprovada a Emenda de Redação nº 1 à Proposta de Emenda à Constituição nº 44, de 2023. Sim: 361; não: 3; total: 364. | Maioria do partido: sim (26 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2388029-88](../../../../../votacoes/2388029-88/) |
 | 11 jul 2024 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 44, de 2023. Sim: 378; não: 7; total: 385. | Maioria do partido: sim (30 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2388029-94](../../../../../votacoes/2388029-94/) |
-| 11 jul 2024 | Mantido o texto. Sim: 258; não: 102; total: 360. | Maioria do partido: sim (22 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2447183-64](../../../../../votacoes/2447183-64/) |
-| 10 jul 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 68, de 2024, adotada pelo relator da Comissão Especial, ressalvados os destaques. Sim: 336; não: 142; abstenção: 2; total: 480. | Maioria do partido: sim (35 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2430143-72](../../../../../votacoes/2430143-72/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

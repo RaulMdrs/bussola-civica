@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Heitor Schuch — Alinhamento com o governo federal, Mérito (página 4)"
-description: "A decomposição completa do número de Heitor Schuch: 277 votações em 14 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
+description: "A decomposição completa do número de Heitor Schuch: 279 votações em 14 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Heitor Schuch: 277 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>88,1%</b> é <b>244</b> coincidências em
-<b>277</b> votações computáveis — as outras 33 estão
+<p><b>87,8%</b> é <b>245</b> coincidências em
+<b>279</b> votações computáveis — as outras 34 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>14 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 19 ago 2025 | Mantido o texto. Sim: 228; Não: 143; Abstenção: 1; Total: 372. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2530336-50](../../../../../votacoes/2530336-50/) |
+| 12 ago 2025 | Aprovado o Substitutivo da Comissão de Trabalho, de Administração e Serviço Público ao Projeto de Lei nº 2.664 de 2003. Sim: 397; Não: 9; Abstenção: 1; Total: 407. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [146708-38](../../../../../votacoes/146708-38/) |
 | 07 ago 2025 | Rejeitada a Emenda n° 29. Sim: 30; Não: 394; Abstenção: 2; Total: 426. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2498090-44](../../../../../votacoes/2498090-44/) |
 | 07 ago 2025 | Rejeitada a Emenda nº 5. Sim: 16; Não: 399; Abstenção: 1; Total: 416. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2498090-47](../../../../../votacoes/2498090-47/) |
 | 16 jul 2025 | Aprovado o Substitutivo Reformulado ao Projeto de Lei nº 5.122, de 2023, adotado pelo relator da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, ressalvado o destaque. Sim: 346; Não: 93; Abstenção: 1; Total: 440. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2398530-73](../../../../../votacoes/2398530-73/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 | 08 jul 2025 | Mantido o texto. Sim: 316; Não: 110; Total: 426. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2252295-130](../../../../../votacoes/2252295-130/) |
 | 08 jul 2025 | Rejeitada a Preferência. Sim: 103; Não: 281; Total: 384. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2413257-115](../../../../../votacoes/2413257-115/) |
 | 08 jul 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 6.020, de 2023, adotado pela relatora da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 302; Não: 99; Total: 401. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2413257-116](../../../../../votacoes/2413257-116/) |
-| 08 jul 2025 | Rejeitado o Destaque. Sim: 159; Não: 243; Total: 402. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2413257-125](../../../../../votacoes/2413257-125/) |
-| 08 jul 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 769, de 2024, adotado pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 209; Não: 165; Abstenção: 4; Total: 378. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2421211-88](../../../../../votacoes/2421211-88/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

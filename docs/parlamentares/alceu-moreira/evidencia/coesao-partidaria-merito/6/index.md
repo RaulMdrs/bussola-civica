@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alceu Moreira — Coesão com o próprio partido, Mérito (página 6)"
-description: "A decomposição completa do número de Alceu Moreira: 505 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
+description: "A decomposição completa do número de Alceu Moreira: 507 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alceu Moreira: 505 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>75,4%</b> é <b>381</b> coincidências em
-<b>505</b> votações computáveis — as outras 124 estão
+<p><b>75,5%</b> é <b>383</b> coincidências em
+<b>507</b> votações computáveis — as outras 124 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 18 nov 2025 | Rejeitada a preferência. Sim: 107; Não: 298; Abstenção: 2; Total: 407. | Maioria do partido: nao (3 sim / 29 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2579832-99](../../../../../votacoes/2579832-99/) |
+| 12 nov 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 18, de 2021, adotada pelo relator da Comissão de Saúde, ressalvado o destaque. Sim: 348; Não: 100; Abstenção: 1; Total: 449. | Maioria do partido: sim (28 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2270325-88](../../../../../votacoes/2270325-88/) |
 | 12 nov 2025 | Rejeitada a Emenda de Plenário nº 6. Sim: 148; Não: 215; Total: 363. | Maioria do partido: sim (13 sim / 9 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2270325-92](../../../../../votacoes/2270325-92/) |
 | 11 nov 2025 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 124, de 2022, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 411; Não: 3; Total: 414. | Maioria do partido: sim (28 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2481858-53](../../../../../votacoes/2481858-53/) |
 | 05 nov 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 347, de 2003, adotado pelo relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvado o destaque. Sim: 427; Não: 1; Total: 428. | Maioria do partido: sim (34 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [106701-223](../../../../../votacoes/106701-223/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 | 04 nov 2025 | Aprovado o Projeto de Lei nº 4.750, de 2025. Sim: 299; Não: 119; Abstenção: 4; Total: 422. | Maioria do partido: sim (27 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2564274-37](../../../../../votacoes/2564274-37/) |
 | 04 nov 2025 | Mantido o texto. Sim: 377; Não: 50; Abstenção: 2; Total: 429. | Maioria do partido: sim (30 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [408349-216](../../../../../votacoes/408349-216/) |
 | 03 nov 2025 | Aprovado o Projeto de Lei Complementar nº 204, de 2025, ressalvado o destaque. Sim: 360; Não: 23; Abstenção: 2; Total: 385. | Maioria do partido: sim (28 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2576234-34](../../../../../votacoes/2576234-34/) |
-| 03 nov 2025 | Mantido o texto. Sim: 387; Não: 30; Abstenção: 1; Total: 418. | Maioria do partido: sim (30 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2576234-41](../../../../../votacoes/2576234-41/) |
-| 30 out 2025 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 169, de 2019. Sim: 386; Não: 15; Abstenção: 1; Total: 402. | Maioria do partido: sim (30 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2225224-117](../../../../../votacoes/2225224-117/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

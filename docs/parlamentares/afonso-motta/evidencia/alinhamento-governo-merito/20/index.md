@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Motta — Alinhamento com o governo federal, Mérito (página 20)"
-description: "A decomposição completa do número de Afonso Motta: 391 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 391ª."
+description: "A decomposição completa do número de Afonso Motta: 393 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 393ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Afonso Motta: 391 votaçõ
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>85,7%</b> é <b>335</b> coincidências em
-<b>391</b> votações computáveis — as outras 56 estão
+<p><b>85,5%</b> é <b>336</b> coincidências em
+<b>393</b> votações computáveis — as outras 57 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
-<b>391ª</b>.</p>
+<b>393ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 23 mai 2023 | Mantido o texto. Sim: 429; não: 20; abstenção: 1; total: 450. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357053-53](../../../../../votacoes/2357053-53/) |
+| 17 mai 2023 | Aprovado o Substitutivo ao Projeto de Lei nº 6.385, de 2016, da Comissão de Ciência e Tecnologia, Comunicação e Informática. Sim: 217; não: 180; total: 397. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2115253-118](../../../../../votacoes/2115253-118/) |
 | 10 mai 2023 | Aprovado o Projeto de Lei nº 1.987, de 2023. Sim: 346; não: 72; abstenção: 3; total: 421. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357055-29](../../../../../votacoes/2357055-29/) |
 | 04 mai 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.085, de 2023, adotada pela relatora da Comissão de Defesa dos Direitos da Mulher, ressalvados os destaques. Sim: 325; não: 36; abstenção: 3; total: 364. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2351179-51](../../../../../votacoes/2351179-51/) |
 | 03 mai 2023 | Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 98, de 2023, adotado pelo relator da Comissão de Desenvolvimento Urbano. Sim: 295; não: 136; abstenção: 1; total: 432. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2355135-49](../../../../../votacoes/2355135-49/) |

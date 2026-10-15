@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Fernanda Melchionna — Alinhamento com o governo federal, Mérito (página 5)"
-description: "A decomposição completa do número de Fernanda Melchionna: 360 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
+description: "A decomposição completa do número de Fernanda Melchionna: 362 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,10 +11,10 @@ description: "A decomposição completa do número de Fernanda Melchionna: 360 v
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>83,1%</b> é <b>299</b> coincidências em
-<b>360</b> votações computáveis — as outras 61 estão
+<p><b>83,1%</b> é <b>301</b> coincidências em
+<b>362</b> votações computáveis — as outras 61 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
-repartida em <b>18 páginas</b> de até 20 votações,
+repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 <b>100ª</b>.</p>
 </div>
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 04 nov 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 8.889, de 2017, adotada pelo relator da Comissão Especial, ressalvados os destaques. Sim: 330; Não: 118; Abstenção: 3; Total: 451. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2157806-137](../../../../../votacoes/2157806-137/) |
+| 04 nov 2025 | Aprovado o Projeto de Lei nº 4.750, de 2025. Sim: 299; Não: 119; Abstenção: 4; Total: 422. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2564274-37](../../../../../votacoes/2564274-37/) |
 | 04 nov 2025 | Mantido o texto. Sim: 377; Não: 50; Abstenção: 2; Total: 429. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [408349-216](../../../../../votacoes/408349-216/) |
 | 30 out 2025 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 169, de 2019. Sim: 386; Não: 15; Abstenção: 1; Total: 402. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2225224-117](../../../../../votacoes/2225224-117/) |
 | 30 out 2025 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 169, de 2019. Sim: 417; Não: 17; Abstenção: 1; Total: 435. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2225224-125](../../../../../votacoes/2225224-125/) |
@@ -43,13 +45,11 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 | 28 out 2025 | Mantido o texto. Sim: 409; Não: 21; Total: 430. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [374450-132](../../../../../votacoes/374450-132/) |
 | 15 out 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 2.225, de 2024, adotado pela relatora da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvado o destaque. Sim: 285; Não: 86; Abstenção: 2; Total: 373. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438687-71](../../../../../votacoes/2438687-71/) |
 | 15 out 2025 | Suprimido o texto. Sim: 169; Não: 200; Total: 369. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438687-76](../../../../../votacoes/2438687-76/) |
-| 15 out 2025 | Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Sustação de Andamento de Ação Penal nº 2, de 2025, pela sustação do andamento da Ação Penal. Sim: 268; Não: 167; Abstenção: 4; Total: 439. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2564763-24](../../../../../votacoes/2564763-24/) |
-| 14 out 2025 | Aprovada a Emenda de Plenário nº 2. Sim: 246; Não: 199; Total: 445. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2501358-48](../../../../../votacoes/2501358-48/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">
 <a class="passo" href="../4/" rel="prev">← Anteriores</a>
-<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../3/">3</a><a href="../4/">4</a><b aria-current="page">5</b><a href="../6/">6</a><a href="../7/">7</a><span class="salto">…</span><a href="../18/">18</a></span>
+<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../3/">3</a><a href="../4/">4</a><b aria-current="page">5</b><a href="../6/">6</a><a href="../7/">7</a><span class="salto">…</span><a href="../19/">19</a></span>
 <a class="passo" href="../6/" rel="next">Próximas →</a>
 </nav>
 

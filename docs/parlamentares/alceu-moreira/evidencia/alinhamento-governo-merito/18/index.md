@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alceu Moreira — Alinhamento com o governo federal, Mérito (página 18)"
-description: "A decomposição completa do número de Alceu Moreira: 408 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
+description: "A decomposição completa do número de Alceu Moreira: 410 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alceu Moreira: 408 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>59,8%</b> é <b>244</b> coincidências em
-<b>408</b> votações computáveis — as outras 164 estão
+<p><b>59,8%</b> é <b>245</b> coincidências em
+<b>410</b> votações computáveis — as outras 165 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 nov 2023 | Aprovado o Projeto de Lei nº 3.954, de 2023. Sim: 307; não: 27; abstenção: 1; total: 338. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2333929-40](../../../../../votacoes/2333929-40/) |
+| 29 nov 2023 | Aprovado o Projeto de Lei Complementar nº 205, de 2023.Sim: 326; não: 84; abstenção: 1; total: 411. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2398741-64](../../../../../votacoes/2398741-64/) |
 | 22 nov 2023 | Rejeitada a Emenda do Senado Federal ao Projeto de Lei nº 4.416, de 2023. Sim: 31, não: 375, abstenção: 2, total: 408. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2312373-140](../../../../../votacoes/2312373-140/) |
 | 25 out 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.173, de 2023, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 323; não: 119; abstenção: 1; total: 443. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2383287-43](../../../../../votacoes/2383287-43/) |
 | 25 out 2023 | Rejeitada a Emenda de Plenário nº 12. Sim: 116; não: 303; abstenção: 1; total: 420. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2383287-47](../../../../../votacoes/2383287-47/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 | 05 set 2023 | Rejeitada a Emenda de Plenário nº 1. Sim: 101; não: 301; total: 402. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2336393-59](../../../../../votacoes/2336393-59/) |
 | 05 set 2023 | Rejeitada a Emenda de Plenário nº 2. Sim: 51; não: 347; abstenção: 1; total: 399. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2336393-61](../../../../../votacoes/2336393-61/) |
 | 05 set 2023 | Rejeitada a Emenda de Plenário nº 4. Sim: 148; não: 231; abstenção: 1; total: 380. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2336393-64](../../../../../votacoes/2336393-64/) |
-| 30 ago 2023 | Aprovado o Substitutivo ao Projeto de Lei nº 334, de 2023, adotado pela Relatora da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 430; não: 17; total: 447. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2350586-63](../../../../../votacoes/2350586-63/) |
-| 23 ago 2023 | Aprovada a Medida Provisória nº 1.172, de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 439; não: 1; abstenção: 1; total: 441. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2359135-39](../../../../../votacoes/2359135-39/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

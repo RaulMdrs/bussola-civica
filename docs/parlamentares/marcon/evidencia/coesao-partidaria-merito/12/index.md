@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcon — Coesão com o próprio partido, Mérito (página 12)"
-description: "A decomposição completa do número de Marcon: 496 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
+description: "A decomposição completa do número de Marcon: 498 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcon: 496 votações em 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>95,6%</b> é <b>474</b> coincidências em
-<b>496</b> votações computáveis — as outras 22 estão
+<p><b>95,6%</b> é <b>476</b> coincidências em
+<b>498</b> votações computáveis — as outras 22 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 22 mai 2025 | Aprovado o Projeto de Decreto Legislativo nº 308, de 2024. Sim: 363; Não: 11; Abstenção: 1; Total: 375. | Maioria do partido: sim (45 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2442331-46](../../../../../votacoes/2442331-46/) |
+| 22 mai 2025 | Aprovado o Projeto de Decreto Legislativo nº 344, de 2024. Sim: 280; Não: 5; Total: 285. | Maioria do partido: sim (34 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2456110-50](../../../../../votacoes/2456110-50/) |
 | 22 mai 2025 | Aprovado o Projeto de Decreto Legislativo nº 725 de 2024. Sim: 397; Não: 5; Total: 402. | Maioria do partido: sim (56 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2481257-37](../../../../../votacoes/2481257-37/) |
 | 21 mai 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.466, de 2025, adotada pelo relator da Comissão de Administração e Serviço Público, ressalvado o destaque. Sim: 388; Não: 43; Total: 431. | Maioria do partido: sim (61 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2494408-30](../../../../../votacoes/2494408-30/) |
 | 21 mai 2025 | Mantido o texto. Sim: 290; Não: 134; Total: 424. | Maioria do partido: sim (61 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2494408-43](../../../../../votacoes/2494408-43/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 | 01 abr 2025 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 316; Não: 88; Abstenção: 1; Total: 405. | Maioria do partido: sim (58 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2463814-44](../../../../../votacoes/2463814-44/) |
 | 01 abr 2025 | Aprovada a Medida Provisória nº 1.268, de 2024. Sim: 317; Não: 92; Abstenção: 2; Total: 411. | Maioria do partido: sim (58 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2463814-46](../../../../../votacoes/2463814-46/) |
 | 27 mar 2025 | Aprovado o Projeto de Decreto Legislativo nº 478, de 2023. Sim: 310; Não: 5; Abstenção: 10; Total: 325. | Maioria do partido: sim (53 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2410601-46](../../../../../votacoes/2410601-46/) |
-| 27 mar 2025 | Aprovado o Projeto de Decreto Legislativo nº 311, de 2024. Sim: 270; Não: 7; Abstenção: 5; Total: 282. | Maioria do partido: sim (50 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2442848-50](../../../../../votacoes/2442848-50/) |
-| 25 mar 2025 | Aprovado o Projeto de Lei nº 2.379, de 2023. Sim: 275; Não: 113; Abstenção: 5; Total: 393. | Maioria do partido: sim (59 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2360457-45](../../../../../votacoes/2360457-45/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

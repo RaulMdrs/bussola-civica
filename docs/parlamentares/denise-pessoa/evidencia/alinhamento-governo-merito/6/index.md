@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Denise Pessôa — Alinhamento com o governo federal, Mérito (página 6)"
-description: "A decomposição completa do número de Denise Pessôa: 403 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
+description: "A decomposição completa do número de Denise Pessôa: 405 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Denise Pessôa: 403 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>96,0%</b> é <b>387</b> coincidências em
-<b>403</b> votações computáveis — as outras 16 estão
+<p><b>96,0%</b> é <b>389</b> coincidências em
+<b>405</b> votações computáveis — as outras 16 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 28 out 2025 | Mantido o texto. Sim: 409; Não: 21; Total: 430. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [374450-132](../../../../../votacoes/374450-132/) |
+| 15 out 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 2.225, de 2024, adotado pela relatora da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvado o destaque. Sim: 285; Não: 86; Abstenção: 2; Total: 373. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438687-71](../../../../../votacoes/2438687-71/) |
 | 15 out 2025 | Suprimido o texto. Sim: 169; Não: 200; Total: 369. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438687-76](../../../../../votacoes/2438687-76/) |
 | 15 out 2025 | Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Sustação de Andamento de Ação Penal nº 2, de 2025, pela sustação do andamento da Ação Penal. Sim: 268; Não: 167; Abstenção: 4; Total: 439. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2564763-24](../../../../../votacoes/2564763-24/) |
 | 14 out 2025 | Aprovada a Emenda de Plenário nº 2. Sim: 246; Não: 199; Total: 445. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2501358-48](../../../../../votacoes/2501358-48/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 | 03 set 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 235, de 2019, adotada pelo relator da Comissão de Educação, ressalvados os destaques. Sim: 347; Não: 89; Total: 436. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2318217-77](../../../../../votacoes/2318217-77/) |
 | 03 set 2025 | Rejeitada a inclusão. Sim: 119; Não: 310; Abstenção: 1; Total: 430. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2318217-81](../../../../../votacoes/2318217-81/) |
 | 03 set 2025 | Mantido o texto. Sim: 311; Não: 35; Total: 346. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2318217-86](../../../../../votacoes/2318217-86/) |
-| 03 set 2025 | Mantido o texto. Sim: 313; Não: 119; Abstenção: 1; Total: 433. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2318217-90](../../../../../votacoes/2318217-90/) |
-| 03 set 2025 | Rejeitada a Emenda de Plenário nº 10. Sim: 165; Não: 276; Total: 441. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2318217-93](../../../../../votacoes/2318217-93/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

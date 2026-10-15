@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcel van Hattem — Alinhamento com o governo federal, Mérito (página 17)"
-description: "A decomposição completa do número de Marcel van Hattem: 404 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
+description: "A decomposição completa do número de Marcel van Hattem: 406 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcel van Hattem: 404 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>27,7%</b> é <b>112</b> coincidências em
-<b>404</b> votações computáveis — as outras 292 estão
+<p><b>27,8%</b> é <b>113</b> coincidências em
+<b>406</b> votações computáveis — as outras 293 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 13 dez 2023 | Aprovado o Projeto de Lei Complementar nº 243, de 2023. Sim: 370; não: 77; abstenção: 4; total: 451. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2409076-34](../../../../../votacoes/2409076-34/) |
+| 29 nov 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 11.247, de 2018, adotada pelo relator da Comissão de Minas e Energia, ressalvados os destaques. Sim: 403; não: 16; total: 419. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2190084-79](../../../../../votacoes/2190084-79/) |
 | 29 nov 2023 | Mantido o texto. Sim: 387; não: 38; total: 425. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2190084-88](../../../../../votacoes/2190084-88/) |
 | 29 nov 2023 | Aprovada a Emenda de Plenário nº 7. Sim: 253; não: 160; abstenção: 1; total: 414. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2190084-93](../../../../../votacoes/2190084-93/) |
 | 29 nov 2023 | Aprovado o Projeto de Lei nº 3.268, de 2021. Sim: 286; não: 121; abstenção: 2; total: 409. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2299903-53](../../../../../votacoes/2299903-53/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 | 25 out 2023 | Rejeitada a Emenda de Plenário nº 8. Sim: 127; não: 302; total: 429. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383287-61](../../../../../votacoes/2383287-61/) |
 | 18 out 2023 | Aprovado o Projeto de Decreto Legislativo nº 745, de 2017. Sim: 323; não: 98; abstenção: 3; total: 424. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2149303-50](../../../../../votacoes/2149303-50/) |
 | 03 out 2023 | Rejeitada a Emenda de Plenário nº 4. Sim: 57; não: 270; total: 327. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2224999-104](../../../../../votacoes/2224999-104/) |
-| 03 out 2023 | Rejeitada a Emenda nº 33 do Senado Federal. Sim: 159; não: 251; abstenção: 6; total: 416. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2309053-179](../../../../../votacoes/2309053-179/) |
-| 14 set 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 136, de 2023, adotada pelo Relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 349; não: 68; abstenção: 2; total: 419. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2372071-41](../../../../../votacoes/2372071-41/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

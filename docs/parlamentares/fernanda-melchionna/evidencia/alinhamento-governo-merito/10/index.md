@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Fernanda Melchionna — Alinhamento com o governo federal, Mérito (página 10)"
-description: "A decomposição completa do número de Fernanda Melchionna: 360 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
+description: "A decomposição completa do número de Fernanda Melchionna: 362 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,10 +11,10 @@ description: "A decomposição completa do número de Fernanda Melchionna: 360 v
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>83,1%</b> é <b>299</b> coincidências em
-<b>360</b> votações computáveis — as outras 61 estão
+<p><b>83,1%</b> é <b>301</b> coincidências em
+<b>362</b> votações computáveis — as outras 61 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
-repartida em <b>18 páginas</b> de até 20 votações,
+repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 <b>200ª</b>.</p>
 </div>
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 28 abr 2025 | Mantido o texto. Sim: 256; Não: 123; Abstenção: 1; Total: 380. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2483495-62](../../../../../votacoes/2483495-62/) |
+| 01 abr 2025 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 316; Não: 88; Abstenção: 1; Total: 405. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2463814-44](../../../../../votacoes/2463814-44/) |
 | 01 abr 2025 | Aprovada a Medida Provisória nº 1.268, de 2024. Sim: 317; Não: 92; Abstenção: 2; Total: 411. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2463814-46](../../../../../votacoes/2463814-46/) |
 | 18 mar 2025 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 22, de 2025, adotado pelo relator da Comissão de Finanças e Tributação. Sim: 347; Não: 114; Total: 461. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2485066-33](../../../../../votacoes/2485066-33/) |
 | 18 mar 2025 | Aprovado o Projeto de Lei Complementar nº 58, de 2025, ressalvado o destaque. Sim: 413; Não: 1; Total: 414. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2486199-32](../../../../../votacoes/2486199-32/) |
@@ -43,13 +45,11 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 | 14 ago 2024 | Aprovado o Projeto de Lei Complementar nº 57, de 2022. Sim: 423; não: 21; abstenção: 1; total: 445. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2320081-66](../../../../../votacoes/2320081-66/) |
 | 14 ago 2024 | Aprovada a Emenda da Comissão de Finanças e Tributação. Sim: 421; não: 12; total: 433. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2320081-68](../../../../../votacoes/2320081-68/) |
 | 14 ago 2024 | Aprovado o Projeto de Lei nº 397, de 2024, ressalvados os destaques. Sim: 318; não: 76; total: 394. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2448974-43](../../../../../votacoes/2448974-43/) |
-| 14 ago 2024 | Mantido o texto. Sim: 292; não: 89; total: 381. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2448974-56](../../../../../votacoes/2448974-56/) |
-| 13 ago 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 108, de 2024, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 303; não: 142; total: 445. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-55](../../../../../votacoes/2438459-55/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">
 <a class="passo" href="../9/" rel="prev">← Anteriores</a>
-<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../8/">8</a><a href="../9/">9</a><b aria-current="page">10</b><a href="../11/">11</a><a href="../12/">12</a><span class="salto">…</span><a href="../18/">18</a></span>
+<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../8/">8</a><a href="../9/">9</a><b aria-current="page">10</b><a href="../11/">11</a><a href="../12/">12</a><span class="salto">…</span><a href="../19/">19</a></span>
 <a class="passo" href="../11/" rel="next">Próximas →</a>
 </nav>
 

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Pompeo de Mattos — Coesão com o próprio partido, Mérito (página 5)"
-description: "A decomposição completa do número de Pompeo de Mattos: 463 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
+description: "A decomposição completa do número de Pompeo de Mattos: 465 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Pompeo de Mattos: 463 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>89,4%</b> é <b>414</b> coincidências em
-<b>463</b> votações computáveis — as outras 49 estão
+<p><b>89,5%</b> é <b>416</b> coincidências em
+<b>465</b> votações computáveis — as outras 49 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>24 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 26 nov 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 331, de 2020, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 386; Não: 7; Total: 393. | Maioria do partido: sim (9 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2237596-92](../../../../../votacoes/2237596-92/) |
+| 26 nov 2025 | Mantido o texto. Sim: 313; Não: 88; Abstenção: 2; Total: 403. | Maioria do partido: sim (8 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2524984-37](../../../../../votacoes/2524984-37/) |
 | 26 nov 2025 | Mantido o texto. Sim: 278; Não: 107; Total: 385. | Maioria do partido: nao (0 sim / 12 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2555110-45](../../../../../votacoes/2555110-45/) |
 | 18 nov 2025 | Aprovada a Emenda de Plenário nº 25. Sim: 349; Não: 40; Abstenção: 1; Total: 390. | Maioria do partido: nao (3 sim / 9 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2579832-105](../../../../../votacoes/2579832-105/) |
 | 18 nov 2025 | Rejeitada a Preferência. Sim: 156; Não: 306; Total: 462. | Maioria do partido: sim (9 sim / 6 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2579832-61](../../../../../votacoes/2579832-61/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 | 05 nov 2025 | Mantido o texto. Sim: 382; Não: 17; Total: 399. | Maioria do partido: sim (14 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2483863-74](../../../../../votacoes/2483863-74/) |
 | 04 nov 2025 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 39, de 2022. Sim: 417; Não: 6; Abstenção: 1; Total: 424. | Maioria do partido: sim (13 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2122682-86](../../../../../votacoes/2122682-86/) |
 | 04 nov 2025 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 39, de 2022. Sim: 414; Não: 3; Abstenção: 2; Total: 419. | Maioria do partido: sim (15 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2122682-94](../../../../../votacoes/2122682-94/) |
-| 04 nov 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 8.889, de 2017, adotada pelo relator da Comissão Especial, ressalvados os destaques. Sim: 330; Não: 118; Abstenção: 3; Total: 451. | Maioria do partido: sim (13 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2157806-137](../../../../../votacoes/2157806-137/) |
-| 04 nov 2025 | Mantido o texto. Sim: 377; Não: 50; Abstenção: 2; Total: 429. | Maioria do partido: nao (1 sim / 13 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [408349-216](../../../../../votacoes/408349-216/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

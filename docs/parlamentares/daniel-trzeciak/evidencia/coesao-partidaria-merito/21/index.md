@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daniel Trzeciak — Coesão com o próprio partido, Mérito (página 21)"
-description: "A decomposição completa do número de Daniel Trzeciak: 488 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 401ª à 420ª."
+description: "A decomposição completa do número de Daniel Trzeciak: 490 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 401ª à 420ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Daniel Trzeciak: 488 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>72,3%</b> é <b>353</b> coincidências em
-<b>488</b> votações computáveis — as outras 135 estão
+<p><b>72,4%</b> é <b>355</b> coincidências em
+<b>490</b> votações computáveis — as outras 135 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>401ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>401ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 25 out 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.173, de 2023, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 323; não: 119; abstenção: 1; total: 443. | Maioria do partido: sim (9 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2383287-43](../../../../../votacoes/2383287-43/) |
+| 25 out 2023 | Rejeitada a Emenda de Plenário nº 12. Sim: 116; não: 303; abstenção: 1; total: 420. | Maioria do partido: nao (2 sim / 8 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383287-47](../../../../../votacoes/2383287-47/) |
 | 25 out 2023 | Rejeitada a Emenda de Plenário nº 27. Sim: 116; não: 277; abstenção: 1; total: 394. | Maioria do partido: sim (6 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2383287-50](../../../../../votacoes/2383287-50/) |
 | 25 out 2023 | Rejeitada a Emenda de Plenário nº 19. Sim: 116; não: 318; total: 434. | Maioria do partido: nao (2 sim / 8 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383287-53](../../../../../votacoes/2383287-53/) |
 | 25 out 2023 | Rejeitada a Emenda de Plenário nº 8. Sim: 127; não: 302; total: 429. | Maioria do partido: nao (2 sim / 7 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383287-61](../../../../../votacoes/2383287-61/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>401ª</b> à
 | 14 set 2023 | Rejeitada a Emenda de Plenário nº 13. Sim: 154; não: 245; abstenção: 1; total: 400. | Maioria do partido: sim (9 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387066-89](../../../../../votacoes/2387066-89/) |
 | 14 set 2023 | Suprimido o texto. Sim: 207; não: 215; abstenção: 2; total: 424. | Maioria do partido: sim (7 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2387066-91](../../../../../votacoes/2387066-91/) |
 | 14 set 2023 | Aprovada a Emenda de Plenário nº 30. Sim: 246; não: 172; abstenção: 1; total: 419. | Maioria do partido: nao (2 sim / 8 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2387066-94](../../../../../votacoes/2387066-94/) |
-| 14 set 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 192, de 2023, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 345; não: 55; abstenção: 1; total: 401. | Maioria do partido: sim (6 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2387067-33](../../../../../votacoes/2387067-33/) |
-| 13 set 2023 | Aprovada a Emenda de Plenário nº 34. Sim: 203; não: 164; total: 367. | Maioria do partido: sim (9 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2374400-58](../../../../../votacoes/2374400-58/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

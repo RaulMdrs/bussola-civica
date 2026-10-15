@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daniel Trzeciak — Alinhamento com o governo federal, Mérito (página 12)"
-description: "A decomposição completa do número de Daniel Trzeciak: 395 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
+description: "A decomposição completa do número de Daniel Trzeciak: 397 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Daniel Trzeciak: 395 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>49,1%</b> é <b>194</b> coincidências em
-<b>395</b> votações computáveis — as outras 201 estão
+<p><b>49,1%</b> é <b>195</b> coincidências em
+<b>397</b> votações computáveis — as outras 202 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 09 set 2024 | Aprovado o Substitutivo ao Projeto de Lei nº 3.010, de 2019, adotado pelo Relator da Comissão de Saúde. Sim: 450; Não: 1; Abstenção: 2; Total: 453. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2204088-88](../../../../../votacoes/2204088-88/) |
+| 28 ago 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 519, de 2018, adotada pelo relator da Comissão Especial, ressalvado o destaque. Sim: 439; não: 3; abstenção: 3; total: 445. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2178408-165](../../../../../votacoes/2178408-165/) |
 | 28 ago 2024 | Mantido o texto. Sim: 305; não: 132; abstenção: 1; total: 438. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2178408-173](../../../../../votacoes/2178408-173/) |
 | 14 ago 2024 | Aprovado o Projeto de Lei Complementar nº 57, de 2022. Sim: 423; não: 21; abstenção: 1; total: 445. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2320081-66](../../../../../votacoes/2320081-66/) |
 | 14 ago 2024 | Aprovada a Emenda da Comissão de Finanças e Tributação. Sim: 421; não: 12; total: 433. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2320081-68](../../../../../votacoes/2320081-68/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 | 09 jul 2024 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 5.230, de 2023,com parecer pela aprovação, ressalvados os dispositivos com parecer pela rejeição. Sim: 437; não: 1; total: 438. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2399598-112](../../../../../votacoes/2399598-112/) |
 | 11 jun 2024 | Aprovadas as Emendas do Senado Federal nºs 1 a 2; e 4 a 12 ao Projeto de Lei nº 914, de 2024. Sim: 380; não: 26; total: 406. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422697-129](../../../../../votacoes/2422697-129/) |
 | 04 jun 2024 | Aprovado o Projeto de Lei Complementar nº 459, de 2017. Sim: 384; não: 59; abstenção: 1; total: 444. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2166464-128](../../../../../votacoes/2166464-128/) |
-| 04 jun 2024 | Rejeitadas as Emendas de Plenário. Sim: 2; não: 413; abstenção: 1; total: 416. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2166464-132](../../../../../votacoes/2166464-132/) |
-| 28 mai 2024 | Aprovada a Emenda de Plenário nº 26. Sim: 174; não: 159; abstenção: 1; total: 334. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2422697-66](../../../../../votacoes/2422697-66/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

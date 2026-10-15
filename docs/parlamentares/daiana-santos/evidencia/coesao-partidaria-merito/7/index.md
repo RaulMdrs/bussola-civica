@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daiana Santos — Coesão com o próprio partido, Mérito (página 7)"
-description: "A decomposição completa do número de Daiana Santos: 442 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
+description: "A decomposição completa do número de Daiana Santos: 444 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Daiana Santos: 442 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,3%</b> é <b>430</b> coincidências em
-<b>442</b> votações computáveis — as outras 12 estão
+<p><b>97,3%</b> é <b>432</b> coincidências em
+<b>444</b> votações computáveis — as outras 12 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 24 set 2025 | Rejeitada a Emenda de Plenário nº 1. Sim: 45; Não: 288; Abstenção: 1; Total: 334. | Maioria do partido: nao (1 sim / 4 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2541109-40](../../../../../votacoes/2541109-40/) |
+| 24 set 2025 | Mantido o texto. Sim: 281; Não: 148; Total: 429. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2541109-45](../../../../../votacoes/2541109-45/) |
 | 24 set 2025 | Mantido o texto. Sim: 293; Não: 133; Total: 426. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2541109-48](../../../../../votacoes/2541109-48/) |
 | 17 set 2025 | Aprovada a Emenda Aglutinativa de Plenário nº 1. Sim: 314; Não: 168; Total: 482. | Maioria do partido: nao (0 sim / 8 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2270800-175](../../../../../votacoes/2270800-175/) |
 | 17 set 2025 | Aprovada a Preferência. Sim: 436; Não: 14; Total: 450. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2515300-36](../../../../../votacoes/2515300-36/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 | 03 set 2025 | Mantido o texto. Sim: 311; Não: 35; Total: 346. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2318217-86](../../../../../votacoes/2318217-86/) |
 | 03 set 2025 | Mantido o texto. Sim: 313; Não: 119; Abstenção: 1; Total: 433. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2318217-90](../../../../../votacoes/2318217-90/) |
 | 03 set 2025 | Rejeitada a Emenda de Plenário nº 10. Sim: 165; Não: 276; Total: 441. | Maioria do partido: nao (0 sim / 8 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2318217-93](../../../../../votacoes/2318217-93/) |
-| 03 set 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 128, de 2022, adotada pelo relator da Comissão de Segurança Pública e Combate ao Crime Organizado. Sim: 369; Não: 4; Total: 373. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2335185-89](../../../../../votacoes/2335185-89/) |
-| 03 set 2025 | Mantido o texto. Sim: 259; Não: 126; Total: 385. | Maioria do partido: nao (0 sim / 8 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2430953-270](../../../../../votacoes/2430953-270/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

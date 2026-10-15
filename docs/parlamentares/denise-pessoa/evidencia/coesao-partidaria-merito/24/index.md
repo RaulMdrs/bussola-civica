@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Denise Pessôa — Coesão com o próprio partido, Mérito (página 24)"
-description: "A decomposição completa do número de Denise Pessôa: 514 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 461ª à 480ª."
+description: "A decomposição completa do número de Denise Pessôa: 516 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 461ª à 480ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Denise Pessôa: 514 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,1%</b> é <b>499</b> coincidências em
-<b>514</b> votações computáveis — as outras 15 estão
+<p><b>97,1%</b> é <b>501</b> coincidências em
+<b>516</b> votações computáveis — as outras 15 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>461ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>461ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 22 ago 2023 | Aprovadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 93-B, de 2023, nºs 4, 10 e 14, ressalvados os destaques. Sim: 379; não: 64; total: 443. | Maioria do partido: sim (60 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357053-108](../../../../../votacoes/2357053-108/) |
+| 22 ago 2023 | Rejeitadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 93-B, de 2023, nºs 1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 13 e 15, ressalvados os destaques. Sim: 19; não: 423; abstenção: 2; total: 444. | Maioria do partido: nao (3 sim / 60 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2357053-110](../../../../../votacoes/2357053-110/) |
 | 22 ago 2023 | Rejeitada a Emenda nº 5 do Senado Federal. Sim: 176; não: 265; abstenção: 1; total: 442. | Maioria do partido: sim (53 sim / 7 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357053-119](../../../../../votacoes/2357053-119/) |
 | 22 ago 2023 | Rejeitada a Emenda nº 15 do Senado Federal. Sim: 153; não: 270; abstenção: 1; total: 424. | Maioria do partido: nao (1 sim / 59 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2357053-122](../../../../../votacoes/2357053-122/) |
 | 09 ago 2023 | Aprovado o Substitutivo ao Projeto de Lei nº 996, de 2015, adotado pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 335; não: 49; abstenção: 1; total: 385 | Maioria do partido: sim (53 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [1197773-90](../../../../../votacoes/1197773-90/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>461ª</b> à
 | 06 jul 2023 | Mantido o texto. Sim: 317; não: 170; total: 487. | Maioria do partido: sim (65 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-331](../../../../../votacoes/2196833-331/) |
 | 06 jul 2023 | Mantido o texto. Sim: 390; não: 108; abstenção: 1; total: 499. | Maioria do partido: sim (66 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-349](../../../../../votacoes/2196833-349/) |
 | 06 jul 2023 | Mantido o texto. Sim: 379; não: 116; abstenção: 1; total: 496. | Maioria do partido: sim (67 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-353](../../../../../votacoes/2196833-353/) |
-| 06 jul 2023 | Mantido o texto. Sim: 383; não: 103; abstenção: 2; total: 488. | Maioria do partido: sim (66 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-356](../../../../../votacoes/2196833-356/) |
-| 06 jul 2023 | Mantido o texto. Sim: 379; não: 114; abstenção: 2; total: 495. | Maioria do partido: sim (65 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-359](../../../../../votacoes/2196833-359/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

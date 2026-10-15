@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Covatti Filho — Coesão com o próprio partido, Mérito (página 20)"
-description: "A decomposição completa do número de Covatti Filho: 429 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 400ª."
+description: "A decomposição completa do número de Covatti Filho: 431 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 400ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Covatti Filho: 429 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>57,3%</b> é <b>246</b> coincidências em
-<b>429</b> votações computáveis — as outras 183 estão
+<p><b>57,5%</b> é <b>248</b> coincidências em
+<b>431</b> votações computáveis — as outras 183 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 09 ago 2023 | Aprovado o Substitutivo ao Projeto de Lei nº 996, de 2015, adotado pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 335; não: 49; abstenção: 1; total: 385 | Maioria do partido: sim (31 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [1197773-90](../../../../../votacoes/1197773-90/) |
+| 09 ago 2023 | Rejeitada a Emenda de Plenário nº 3. Sim: 117; não: 264; abstenção: 1; total: 382. | Maioria do partido: nao (3 sim / 29 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [1197773-99](../../../../../votacoes/1197773-99/) |
 | 07 jul 2023 | Mantido o texto. Sim: 336; não: 132; total: 468. | Maioria do partido: sim (34 sim / 10 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-386](../../../../../votacoes/2196833-386/) |
 | 07 jul 2023 | Mantido o texto. Sim: 349; não: 84; abstenção: 2; total: 435. | Maioria do partido: sim (37 sim / 8 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-390](../../../../../votacoes/2196833-390/) |
 | 07 jul 2023 | Mantido o texto. Sim: 370; não: 28; abstenção: 3; total: 401. | Maioria do partido: sim (38 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-392](../../../../../votacoes/2196833-392/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
 | 06 jul 2023 | Mantido o texto. Sim: 344; não: 147; abstenção: 2; total: 493. | Maioria do partido: nao (8 sim / 40 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2196833-362](../../../../../votacoes/2196833-362/) |
 | 06 jul 2023 | Mantido o texto. Sim: 461; não: 24; abstenção: 2; total: 487. | Maioria do partido: sim (45 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-365](../../../../../votacoes/2196833-365/) |
 | 06 jul 2023 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques. Sim: 375; não: 113; abstenção:3; total: 491. | Maioria do partido: sim (39 sim / 9 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-373](../../../../../votacoes/2196833-373/) |
-| 06 jul 2023 | Mantido o texto. Sim: 423; não: 37; abstenção: 1; total: 461. | Maioria do partido: sim (45 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-380](../../../../../votacoes/2196833-380/) |
-| 13 jun 2023 | Aprovado o Projeto de Lei nº 2.250, de 2023. Sim: 318; não: 31; total: 349. | Maioria do partido: sim (31 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2358922-21](../../../../../votacoes/2358922-21/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

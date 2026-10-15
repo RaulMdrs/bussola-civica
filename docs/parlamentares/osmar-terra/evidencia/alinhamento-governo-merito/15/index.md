@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Osmar Terra — Alinhamento com o governo federal, Mérito (página 15)"
-description: "A decomposição completa do número de Osmar Terra: 357 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
+description: "A decomposição completa do número de Osmar Terra: 359 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Osmar Terra: 357 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>30,3%</b> é <b>108</b> coincidências em
-<b>357</b> votações computáveis — as outras 249 estão
+<p><b>30,4%</b> é <b>109</b> coincidências em
+<b>359</b> votações computáveis — as outras 250 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 15 dez 2023 | Mantido o texto. Sim: 352; não: 141; abstenção: 1; total: 494. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-149](../../../../../votacoes/259094-149/) |
+| 15 dez 2023 | Suprimido o texto. Sim: 285; não: 192; abstenção: 2; total: 479. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-172](../../../../../votacoes/259094-172/) |
 | 15 dez 2023 | Mantido o texto. Sim: 341; não: 153; abstenção: 4; total: 498. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-176](../../../../../votacoes/259094-176/) |
 | 15 dez 2023 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques. Sim: 365; não: 118; abstenção: 1; total: 484. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-190](../../../../../votacoes/259094-190/) |
 | 15 dez 2023 | Mantido o texto. Sim: 333; não: 154; total: 487. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-193](../../../../../votacoes/259094-193/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 | 08 nov 2023 | Aprovado o Projeto de Lei nº 4.287, de 2023. Sim: 369; não: 5; total: 374. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2391935-43](../../../../../votacoes/2391935-43/) |
 | 07 nov 2023 | Aprovada a Emenda de Plenário n° 3. Sim: 311; Não: 107; total: 418. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2344909-65](../../../../../votacoes/2344909-65/) |
 | 25 out 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.173, de 2023, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 323; não: 119; abstenção: 1; total: 443. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2383287-43](../../../../../votacoes/2383287-43/) |
-| 25 out 2023 | Rejeitada a Emenda de Plenário nº 12. Sim: 116; não: 303; abstenção: 1; total: 420. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383287-47](../../../../../votacoes/2383287-47/) |
-| 25 out 2023 | Rejeitada a Emenda de Plenário nº 27. Sim: 116; não: 277; abstenção: 1; total: 394. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383287-50](../../../../../votacoes/2383287-50/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

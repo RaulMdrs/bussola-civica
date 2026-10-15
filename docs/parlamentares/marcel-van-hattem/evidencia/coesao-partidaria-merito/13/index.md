@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcel van Hattem — Coesão com o próprio partido, Mérito (página 13)"
-description: "A decomposição completa do número de Marcel van Hattem: 513 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
+description: "A decomposição completa do número de Marcel van Hattem: 515 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcel van Hattem: 513 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>99,2%</b> é <b>509</b> coincidências em
-<b>513</b> votações computáveis — as outras 4 estão
+<p><b>99,2%</b> é <b>511</b> coincidências em
+<b>515</b> votações computáveis — as outras 4 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 21 mai 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.466, de 2025, adotada pelo relator da Comissão de Administração e Serviço Público, ressalvado o destaque. Sim: 388; Não: 43; Total: 431. | Maioria do partido: nao (0 sim / 4 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2494408-30](../../../../../votacoes/2494408-30/) |
+| 21 mai 2025 | Mantido o texto. Sim: 290; Não: 134; Total: 424. | Maioria do partido: nao (0 sim / 4 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2494408-43](../../../../../votacoes/2494408-43/) |
 | 07 mai 2025 | Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Sustação de Andamento de Ação Penal nº 1, de 2025, pela sustação do andamento da Ação Penal. . Sim: 315; Não: 143; Abstenção: 4; Total: 462. | Maioria do partido: sim (4 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2494565-52](../../../../../votacoes/2494565-52/) |
 | 06 mai 2025 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 177, de 2023, adotado pelo relator da Comissão de Finanças e Tributação. Sim: 270; Não: 207; Abstenção: 1; Total: 478. | Maioria do partido: nao (0 sim / 4 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2383019-54](../../../../../votacoes/2383019-54/) |
 | 29 abr 2025 | Mantido o texto. Sim: 269; Não: 124; Total: 393. | Maioria do partido: nao (0 sim / 3 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2456731-79](../../../../../votacoes/2456731-79/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 | 18 fev 2025 | Aprovado o Projeto de Lei Complementar nº 223, de 2023. Sim: 407; Não: 6; Total: 413. | Maioria do partido: sim (1 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2397890-55](../../../../../votacoes/2397890-55/) |
 | 12 fev 2025 | Aprovado o Projeto de Lei nº 2.215, de 2024. Sim: 273; Não: 136; Total: 409. | Maioria do partido: nao (0 sim / 2 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438467-47](../../../../../votacoes/2438467-47/) |
 | 11 fev 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 9.133, de 2017, adotado pela relatora da Comissão de Educação. Sim: 297; Não: 107; Abstenção: 1; Total: 405. | Maioria do partido: nao (0 sim / 2 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2162802-89](../../../../../votacoes/2162802-89/) |
-| 19 dez 2024 | Aprovado o Projeto de Lei nº 3.802, de 2024. Sim: 340; Não: 117; Abstenção: 1; Total: 458. | Maioria do partido: nao (0 sim / 3 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2460010-43](../../../../../votacoes/2460010-43/) |
-| 19 dez 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.614, de 2024, adotada pelo relator da Comissão Especial, ressalvado o destaque. Sim: 264; Não: 209; Total: 473. | Maioria do partido: nao (0 sim / 3 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2473375-59](../../../../../votacoes/2473375-59/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

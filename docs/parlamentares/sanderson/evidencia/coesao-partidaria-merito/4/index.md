@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Sanderson — Coesão com o próprio partido, Mérito (página 4)"
-description: "A decomposição completa do número de Sanderson: 505 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
+description: "A decomposição completa do número de Sanderson: 507 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Sanderson: 505 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>93,5%</b> é <b>472</b> coincidências em
-<b>505</b> votações computáveis — as outras 33 estão
+<p><b>93,5%</b> é <b>474</b> coincidências em
+<b>507</b> votações computáveis — as outras 33 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 16 dez 2025 | Suprimido o texto. Sim: 221; Não: 242; Abstenção: 2; Total: 465. | Maioria do partido: sim (64 sim / 8 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-146](../../../../../votacoes/2438459-146/) |
+| 16 dez 2025 | Mantido o texto. Sim: 286; Não: 116; Total: 402. | Maioria do partido: nao (10 sim / 49 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2520670-66](../../../../../votacoes/2520670-66/) |
 | 15 dez 2025 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 108, de 2024, com parecer pela aprovação, excetuadas as modificações indicadas no Parecer da Comissão de Indústria, Comércio e Serviços. Sim: 330; Não: 104; Total: 434. | Maioria do partido: nao (7 sim / 55 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438459-113](../../../../../votacoes/2438459-113/) |
 | 15 dez 2025 | Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei complementar nº 108, de 2024, com parecer pela rejeição, indicados no Parecer da Comissão de Indústria, Comércio e Serviços. Sim: 77; Não: 252; Total: 329. | Maioria do partido: sim (37 sim / 11 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-115](../../../../../votacoes/2438459-115/) |
 | 15 dez 2025 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 163, de 2025. Sim: 320; Não: 109; Total: 429. | Maioria do partido: nao (6 sim / 60 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2541109-88](../../../../../votacoes/2541109-88/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 | 09 dez 2025 | Mantido o texto. Sim: 302; Não: 124; Total: 426. | Maioria do partido: sim (74 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2471177-108](../../../../../votacoes/2471177-108/) |
 | 09 dez 2025 | Mantido o texto. Sim: 298; Não: 117; Total: 415. | Maioria do partido: sim (73 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2471177-111](../../../../../votacoes/2471177-111/) |
 | 09 dez 2025 | Mantido o texto. Sim: 286; Não: 107; Total: 393. | Maioria do partido: sim (71 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2471177-114](../../../../../votacoes/2471177-114/) |
-| 09 dez 2025 | Mantido o texto. Sim: 298; Não: 112; Total: 410. | Maioria do partido: sim (71 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2471177-117](../../../../../votacoes/2471177-117/) |
-| 09 dez 2025 | Aprovado o Projeto de Lei Complementar nº 125, de 2022. Sim: 436; Não: 2; Total: 438. | Maioria do partido: sim (72 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2559194-42](../../../../../votacoes/2559194-42/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

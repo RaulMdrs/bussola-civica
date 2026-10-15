@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Franciane Bayer — Coesão com o próprio partido, Mérito (página 11)"
-description: "A decomposição completa do número de Franciane Bayer: 509 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
+description: "A decomposição completa do número de Franciane Bayer: 511 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Franciane Bayer: 509 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>80,0%</b> é <b>407</b> coincidências em
-<b>509</b> votações computáveis — as outras 102 estão
+<p><b>80,0%</b> é <b>409</b> coincidências em
+<b>511</b> votações computáveis — as outras 102 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 11 jun 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.149, de 2004, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 273; Não: 153; Abstenção: 1; Total: 427. | Maioria do partido: sim (32 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [264726-144](../../../../../votacoes/264726-144/) |
+| 11 jun 2025 | Mantido o texto. Sim: 256; Não: 153; Abstenção: 2; Total: 411. | Maioria do partido: sim (29 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [264726-148](../../../../../votacoes/264726-148/) |
 | 11 jun 2025 | Mantido o texto. Sim: 249; Não: 154; Abstenção: 2; Total: 405. | Maioria do partido: sim (30 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [264726-157](../../../../../votacoes/264726-157/) |
 | 11 jun 2025 | Aprovada a Emenda. Sim: 214; Não: 107; Total: 321. | Maioria do partido: sim (25 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [622019-72](../../../../../votacoes/622019-72/) |
 | 11 jun 2025 | Aprovado o Projeto de Lei nº 7.906, de 2014, ressalvados os destaques. Sim: 204; Não: 128; Total: 332. | Maioria do partido: sim (26 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [622019-73](../../../../../votacoes/622019-73/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 | 27 mai 2025 | Mantido o texto. Sim: 319; Não: 93; Total: 412. | Maioria do partido: sim (27 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2121642-102](../../../../../votacoes/2121642-102/) |
 | 27 mai 2025 | Mantido o texto. Sim: 310; Não: 105; Abstenção: 1; Total: 416. | Maioria do partido: sim (29 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2121642-105](../../../../../votacoes/2121642-105/) |
 | 27 mai 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 6.969, de 2013, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvado o destaque. Sim: 378; Não: 66; Abstenção: 1; Total: 445. | Maioria do partido: sim (34 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [604557-191](../../../../../votacoes/604557-191/) |
-| 27 mai 2025 | Mantido o texto. Sim: 351; Não: 68; Abstenção: 1; Total: 420. | Maioria do partido: sim (31 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [604557-205](../../../../../votacoes/604557-205/) |
-| 26 mai 2025 | Mantido o texto. Sim: 231; Não: 202; Abstenção: 8; Total: 441. | Maioria do partido: nao (10 sim / 20 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2233324-100](../../../../../votacoes/2233324-100/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

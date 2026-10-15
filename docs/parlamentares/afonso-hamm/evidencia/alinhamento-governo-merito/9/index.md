@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Hamm — Alinhamento com o governo federal, Mérito (página 9)"
-description: "A decomposição completa do número de Afonso Hamm: 353 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
+description: "A decomposição completa do número de Afonso Hamm: 354 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Afonso Hamm: 353 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>49,6%</b> é <b>175</b> coincidências em
-<b>353</b> votações computáveis — as outras 178 estão
+<p><b>49,4%</b> é <b>175</b> coincidências em
+<b>354</b> votações computáveis — as outras 179 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 25 fev 2025 | Aprovado o Projeto de Lei nº 4.187, de 2024. Sim: 269; Não: 136; Abstenção: 2; Total: 407. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2466108-33](../../../../../votacoes/2466108-33/) |
 | 18 fev 2025 | Rejeitado o Substitutivo ao Projeto de Lei Complementar nº 223, de 2023, da Comissão de Indústria, Comércio e Serviços. Sim: 34; Não: 356; Abstenção: 1; Total: 391. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2397890-54](../../../../../votacoes/2397890-54/) |
 | 18 fev 2025 | Aprovado o Projeto de Lei Complementar nº 223, de 2023. Sim: 407; Não: 6; Total: 413. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2397890-55](../../../../../votacoes/2397890-55/) |
 | 12 fev 2025 | Aprovado o Projeto de Lei nº 2.215, de 2024. Sim: 273; Não: 136; Total: 409. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438467-47](../../../../../votacoes/2438467-47/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 | 17 dez 2024 | Aprovada a Emenda de Redação n° 2. Sim: 314; Não: 117; Abstenção: 1; Total: 432. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430143-144](../../../../../votacoes/2430143-144/) |
 | 17 dez 2024 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 210, de 2024, adotado pelo relator da Comissão Especial. Sim: 318; Não: 149; Total: 467. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2473389-58](../../../../../votacoes/2473389-58/) |
 | 17 dez 2024 | Rejeitada a Emenda de Plenário nº 9. Sim: 227; Não: 233; Abstenção: 1; Total: 461. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2473389-62](../../../../../votacoes/2473389-62/) |
-| 17 dez 2024 | Rejeitada a Emenda de Plenário nº 19. Sim: 186; Não: 256; Total: 442. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2473389-65](../../../../../votacoes/2473389-65/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

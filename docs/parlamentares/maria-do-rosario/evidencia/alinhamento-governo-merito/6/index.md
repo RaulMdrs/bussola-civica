@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Maria do Rosário — Alinhamento com o governo federal, Mérito (página 6)"
-description: "A decomposição completa do número de Maria do Rosário: 346 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
+description: "A decomposição completa do número de Maria do Rosário: 348 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Maria do Rosário: 346 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>95,1%</b> é <b>329</b> coincidências em
-<b>346</b> votações computáveis — as outras 17 estão
+<p><b>95,1%</b> é <b>331</b> coincidências em
+<b>348</b> votações computáveis — as outras 17 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 03 set 2025 | Mantido o texto. Sim: 313; Não: 119; Abstenção: 1; Total: 433. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2318217-90](../../../../../votacoes/2318217-90/) |
+| 03 set 2025 | Rejeitada a Emenda de Plenário nº 10. Sim: 165; Não: 276; Total: 441. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2318217-93](../../../../../votacoes/2318217-93/) |
 | 03 set 2025 | Mantido o texto. Sim: 266; Não: 86; Total: 352. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2430953-277](../../../../../votacoes/2430953-277/) |
 | 03 set 2025 | Rejeitada a Emenda de Plenário nº 14. Sim: 108; Não: 241; Abstenção: 1; Total: 350. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430953-280](../../../../../votacoes/2430953-280/) |
 | 26 ago 2025 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 143, de 2020, da Comissão de Finanças e Tributação. Sim: 371; Não: 10; Total: 381. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2253943-133](../../../../../votacoes/2253943-133/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 | 16 jul 2025 | Aprovada a Emenda do Senado Federal nº 18. Sim: 221; Não: 77; Abstenção: 1; Total: 299. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [257161-476](../../../../../votacoes/257161-476/) |
 | 16 jul 2025 | Aprovada a Emenda do Senado nº 28. Sim: 229; Não: 82; Abstenção: 1; Total: 312. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [257161-479](../../../../../votacoes/257161-479/) |
 | 15 jul 2025 | Aprovado, em primeiro turno, o Substitutivo da Comissão Especial à Proposta de Emenda Constitucional nº 66, de 2023, ressalvados os destaques. Sim: 404; Não: 67; Abstenção: 3; Total: 474. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454495-144](../../../../../votacoes/2454495-144/) |
-| 15 jul 2025 | Mantido o texto. Sim: 318; Não: 144; Abstenção: 2; Total: 464. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454495-154](../../../../../votacoes/2454495-154/) |
-| 15 jul 2025 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 66, de 2023, ressalvado o destaque. Sim: 367; Não: 97; Abstenção: 2; Total: 466. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454495-166](../../../../../votacoes/2454495-166/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

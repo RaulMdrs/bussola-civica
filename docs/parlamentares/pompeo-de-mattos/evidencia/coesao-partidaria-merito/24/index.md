@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Pompeo de Mattos — Coesão com o próprio partido, Mérito (página 24)"
-description: "A decomposição completa do número de Pompeo de Mattos: 463 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 461ª à 463ª."
+description: "A decomposição completa do número de Pompeo de Mattos: 465 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 461ª à 465ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Pompeo de Mattos: 463 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>89,4%</b> é <b>414</b> coincidências em
-<b>463</b> votações computáveis — as outras 49 estão
+<p><b>89,5%</b> é <b>416</b> coincidências em
+<b>465</b> votações computáveis — as outras 49 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>24 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>461ª</b> à
-<b>463ª</b>.</p>
+<b>465ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>461ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 25 abr 2023 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 139, de 2022, adotado pelo Relator da Comissão de Finanças e Tributação. Sim: 360; não: 3; total: 363. | Maioria do partido: sim (11 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2337246-43](../../../../../votacoes/2337246-43/) |
+| 25 abr 2023 | Mantido o texto. Sim: 289; não: 108; total: 397. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2344938-48](../../../../../votacoes/2344938-48/) |
 | 25 abr 2023 | Mantido o texto. Sim: 282; não: 115; total: 397. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2344938-60](../../../../../votacoes/2344938-60/) |
 | 25 abr 2023 | Rejeitada a Emenda de Comissão nº 9. Sim: 132; não: 242; total: 374. | Maioria do partido: nao (2 sim / 8 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2344938-71](../../../../../votacoes/2344938-71/) |
 | 30 mar 2023 | Aprovada a Medida Provisória nº 1.152 de 2022, na forma do Projeto de Lei de Conversão, ressalvado o destaque. Sim: 369; não: 10; total: 379. | Maioria do partido: sim (14 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345468-38](../../../../../votacoes/2345468-38/) |

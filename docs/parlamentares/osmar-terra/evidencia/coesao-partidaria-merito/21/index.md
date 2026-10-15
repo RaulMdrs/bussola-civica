@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Osmar Terra — Coesão com o próprio partido, Mérito (página 21)"
-description: "A decomposição completa do número de Osmar Terra: 447 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 401ª à 420ª."
+description: "A decomposição completa do número de Osmar Terra: 449 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 401ª à 420ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Osmar Terra: 447 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>63,8%</b> é <b>285</b> coincidências em
-<b>447</b> votações computáveis — as outras 162 estão
+<p><b>63,9%</b> é <b>287</b> coincidências em
+<b>449</b> votações computáveis — as outras 162 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>401ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>401ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 30 ago 2023 | Rejeitada a Emenda de Plenário nº 8. Sim: 116; não: 325; total: 441. | Maioria do partido: nao (1 sim / 34 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2350586-73](../../../../../votacoes/2350586-73/) |
+| 23 ago 2023 | Aprovada a Medida Provisória nº 1.172, de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 439; não: 1; abstenção: 1; total: 441. | Maioria do partido: sim (36 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2359135-39](../../../../../votacoes/2359135-39/) |
 | 22 ago 2023 | Aprovadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 93-B, de 2023, nºs 4, 10 e 14, ressalvados os destaques. Sim: 379; não: 64; total: 443. | Maioria do partido: sim (35 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2357053-108](../../../../../votacoes/2357053-108/) |
 | 22 ago 2023 | Rejeitada a Emenda nº 5 do Senado Federal. Sim: 176; não: 265; abstenção: 1; total: 442. | Maioria do partido: sim (19 sim / 16 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2357053-119](../../../../../votacoes/2357053-119/) |
 | 22 ago 2023 | Rejeitada a Emenda nº 15 do Senado Federal. Sim: 153; não: 270; abstenção: 1; total: 424. | Maioria do partido: sim (32 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2357053-122](../../../../../votacoes/2357053-122/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>401ª</b> à
 | 06 jul 2023 | Mantido o texto. Sim: 379; não: 116; abstenção: 1; total: 496. | Maioria do partido: sim (38 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-353](../../../../../votacoes/2196833-353/) |
 | 06 jul 2023 | Mantido o texto. Sim: 383; não: 103; abstenção: 2; total: 488. | Maioria do partido: sim (37 sim / 4 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-356](../../../../../votacoes/2196833-356/) |
 | 06 jul 2023 | Mantido o texto. Sim: 379; não: 114; abstenção: 2; total: 495. | Maioria do partido: sim (36 sim / 6 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-359](../../../../../votacoes/2196833-359/) |
-| 06 jul 2023 | Mantido o texto. Sim: 344; não: 147; abstenção: 2; total: 493. | Maioria do partido: sim (38 sim / 4 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-362](../../../../../votacoes/2196833-362/) |
-| 06 jul 2023 | Mantido o texto. Sim: 461; não: 24; abstenção: 2; total: 487. | Maioria do partido: sim (40 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-365](../../../../../votacoes/2196833-365/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

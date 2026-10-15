@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Mauricio Marcon — Coesão com o próprio partido, Mérito (página 14)"
-description: "A decomposição completa do número de Mauricio Marcon: 526 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
+description: "A decomposição completa do número de Mauricio Marcon: 528 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Mauricio Marcon: 526 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>51,3%</b> é <b>270</b> coincidências em
-<b>526</b> votações computáveis — as outras 256 estão
+<p><b>51,5%</b> é <b>272</b> coincidências em
+<b>528</b> votações computáveis — as outras 256 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>27 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 19 dez 2024 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 31, de 2007, ressalvado o destaque. Sim: 348; Não: 146; Total: 494. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [347421-221](../../../../../votacoes/347421-221/) |
+| 19 dez 2024 | Mantido o texto. Sim: 358; Não: 129; Abstenção: 1; Total: 488. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [347421-224](../../../../../votacoes/347421-224/) |
 | 18 dez 2024 | Aprovadas as Emendas do Senado Federal ao Projeto de Lei nº 327, de 2021, com parecer pela aprovação, com exceção da Emenda nº 3; do inciso II, do §1º, do art. 3º da Emenda nº 2; do §2º, do art. 3º da Emenda nº 4; e do inciso VIII e da exclusão do §4º promovida pelo art. 1º da Emenda nº 5. Sim: 448; Não: 14; Abstenção: 1; Total: 463. | Maioria do partido: sim (11 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2269745-144](../../../../../votacoes/2269745-144/) |
 | 18 dez 2024 | Aprovada a Emenda Aglutinativa nº 1. Sim: 444; Não: 16; Abstenção: 1; Total: 461. | Maioria do partido: sim (11 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2473389-80](../../../../../votacoes/2473389-80/) |
 | 18 dez 2024 | Aprovada a preferência. Sim: 294; Não: 172; Total: 466. | Maioria do partido: sim (10 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [347421-192](../../../../../votacoes/347421-192/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 | 12 dez 2024 | Mantido o texto. Sim: 196; Não: 84; Total: 280. | Maioria do partido: sim (5 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2194861-94](../../../../../votacoes/2194861-94/) |
 | 12 dez 2024 | Aprovada a Emenda de Plenário n° 1. Sim: 267; Não: 85; Abstenção: 14; Total: 366. | Maioria do partido: sim (8 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2258828-105](../../../../../votacoes/2258828-105/) |
 | 10 dez 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 121, de 2024, adotada pelo relator da Comissão de Finanças e Tributação, ressalvado o destaque. Sim: 413; Não: 4; Total: 417. | Maioria do partido: sim (11 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454400-42](../../../../../votacoes/2454400-42/) |
-| 10 dez 2024 | Rejeitada a Emenda de Plenário n° 20. Sim: 110; Não: 307; Total: 417. | Maioria do partido: nao (1 sim / 9 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2454400-46](../../../../../votacoes/2454400-46/) |
-| 05 dez 2024 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 136, de 2024, adotado pela relatora da Comissão de Segurança Pública e Combate ao Crime Organizado. Sim: 348; Não: 57; Total: 405. | Maioria do partido: sim (11 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454257-27](../../../../../votacoes/2454257-27/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

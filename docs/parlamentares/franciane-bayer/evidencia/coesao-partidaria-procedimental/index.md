@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Franciane Bayer — Coesão com o próprio partido, Procedimental"
-description: "A decomposição completa do número de Franciane Bayer: 472 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 1ª à 20ª."
+description: "A decomposição completa do número de Franciane Bayer: 473 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 1ª à 20ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Franciane Bayer: 472 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>83,1%</b> é <b>392</b> coincidências em
-<b>472</b> votações computáveis — as outras 80 estão
+<p><b>82,9%</b> é <b>392</b> coincidências em
+<b>473</b> votações computáveis — as outras 81 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>24 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 14 out 2026 | Rejeitado o Requerimento. Sim: 11; Não: 387; Total: 398. | Maioria do partido: nao (1 sim / 32 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2635476-23](../../../../votacoes/2635476-23/) |
 | 01 set 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 320; Não: 67; Abstenção: 1; Total: 388. | Maioria do partido: sim (25 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2643915-8](../../../../votacoes/2643915-8/) |
 | 14 jul 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 139; Abstenção: 1; Total: 416. | Maioria do partido: sim (33 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2637721-10](../../../../votacoes/2637721-10/) |
 | 01 jul 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 279; Não: 162; Abstenção: 1; Total: 442. | Maioria do partido: sim (30 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2606189-10](../../../../votacoes/2606189-10/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
 | 28 abr 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; Não: 104; Total: 434. | Maioria do partido: sim (36 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2618104-8](../../../../votacoes/2618104-8/) |
 | 22 abr 2026 | Rejeitado o Requerimento. Sim: 120; Não: 270; Total: 390. | Maioria do partido: nao (2 sim / 30 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2368697-43](../../../../votacoes/2368697-43/) |
 | 22 abr 2026 | Rejeitado o Requerimento. Sim: 119; Não: 241; Total: 360. | Maioria do partido: nao (4 sim / 20 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2368697-49](../../../../votacoes/2368697-49/) |
-| 22 abr 2026 | Rejeitado o Requerimento. Sim: 127; Não: 268; Total: 395. | Maioria do partido: nao (5 sim / 21 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2419128-78](../../../../votacoes/2419128-78/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

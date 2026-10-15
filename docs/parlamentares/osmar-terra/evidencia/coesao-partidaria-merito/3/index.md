@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Osmar Terra — Coesão com o próprio partido, Mérito (página 3)"
-description: "A decomposição completa do número de Osmar Terra: 447 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
+description: "A decomposição completa do número de Osmar Terra: 449 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Osmar Terra: 447 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>63,8%</b> é <b>285</b> coincidências em
-<b>447</b> votações computáveis — as outras 162 estão
+<p><b>63,9%</b> é <b>287</b> coincidências em
+<b>449</b> votações computáveis — as outras 162 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 02 mar 2026 | Aprovado o Projeto de Lei nº 6.139, de 2023, ressalvado o destaque. Sim: 340; Não: 108; Abstenção: 1; Total: 449. | Maioria do partido: nao (22 sim / 52 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2543171-49](../../../../../votacoes/2543171-49/) |
+| 02 mar 2026 | Rejeitada a Emenda de Plenário ao Substitutivo. Sim: 194; Não: 207; Abstenção: 3; Total: 404. | Maioria do partido: sim (66 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [589982-124](../../../../../votacoes/589982-124/) |
 | 02 mar 2026 | Mantido o texto. Sim: 235; Não: 121; Abstenção: 2; Total: 358. | Maioria do partido: nao (3 sim / 61 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [589982-129](../../../../../votacoes/589982-129/) |
 | 25 fev 2026 | Aprovado o Projeto de Decreto Legislativo nº 50, de 2026, adotado pelo relator da Comissão de Relações Exteriores e de Defesa Nacional. Sim: 307; Não: 136; Abstenção: 1; Total: 444. | Maioria do partido: nao (6 sim / 68 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2603342-42](../../../../../votacoes/2603342-42/) |
 | 24 fev 2026 | Rejeitada a Emenda de Plenário nº 68. Sim: 105; Não: 232; Total: 337. | Maioria do partido: nao (0 sim / 60 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2600838-46](../../../../../votacoes/2600838-46/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 | 15 dez 2025 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 163, de 2025. Sim: 320; Não: 109; Total: 429. | Maioria do partido: nao (6 sim / 60 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2541109-88](../../../../../votacoes/2541109-88/) |
 | 15 dez 2025 | Aprovado o Projeto de Lei nº 4.278, de 2025, ressalvado o destaque. Sim: 325; Não: 119; Abstenção: 3; Total: 447. | Maioria do partido: nao (19 sim / 51 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2554285-48](../../../../../votacoes/2554285-48/) |
 | 15 dez 2025 | Mantido o texto. Sim: 293; Não: 120; Abstenção: 4; Total: 417. | Maioria do partido: nao (14 sim / 50 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2554285-51](../../../../../votacoes/2554285-51/) |
-| 10 dez 2025 | Rejeitado o Parecer da Comissão de Constituição e Justiça e de Cidadania à Representação nº 2, de 2025, que conclui pela procedência da representação e pela perda do mandato da Dep. Carla Zambelli. Sim: 227; Não: 170; Abstenção: 10; Total: 407. | Maioria do partido: nao (1 sim / 72 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2525122-81](../../../../../votacoes/2525122-81/) |
-| 10 dez 2025 | Aprovada a Preferência. Sim: 226; Não: 220; Abstenção: 3; Total: 449. | Maioria do partido: nao (3 sim / 74 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2595686-29](../../../../../votacoes/2595686-29/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

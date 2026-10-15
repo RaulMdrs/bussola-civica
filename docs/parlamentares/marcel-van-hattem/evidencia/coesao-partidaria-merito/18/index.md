@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcel van Hattem — Coesão com o próprio partido, Mérito (página 18)"
-description: "A decomposição completa do número de Marcel van Hattem: 513 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
+description: "A decomposição completa do número de Marcel van Hattem: 515 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcel van Hattem: 513 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>99,2%</b> é <b>509</b> coincidências em
-<b>513</b> votações computáveis — as outras 4 estão
+<p><b>99,2%</b> é <b>511</b> coincidências em
+<b>515</b> votações computáveis — as outras 4 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 28 mai 2024 | Mantido o texto. Sim: 266; não: 139; abstenção: 1; total: 406. | Maioria do partido: nao (0 sim / 2 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2422697-69](../../../../../votacoes/2422697-69/) |
+| 28 mai 2024 | Aprovada a Emenda de Plenário n° 75. Sim: 273; não: 111; total: 384. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422697-72](../../../../../votacoes/2422697-72/) |
 | 28 mai 2024 | Mantido o texto. Sim: 280; não: 121; total: 401. | Maioria do partido: nao (0 sim / 2 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2422697-75](../../../../../votacoes/2422697-75/) |
 | 28 mai 2024 | Rejeitada a Emenda de Plenário n° 7. Sim: 187; não: 202; abstenção: 1; total: 390. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422697-83](../../../../../votacoes/2422697-83/) |
 | 22 mai 2024 | Mantido o texto. Sim: 320; não: 113; total: 433. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2349493-103](../../../../../votacoes/2349493-103/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 | 14 mai 2024 | Mantido o texto. Sim: 277; não: 145; total: 422. | Maioria do partido: nao (0 sim / 2 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2433327-66](../../../../../votacoes/2433327-66/) |
 | 08 mai 2024 | Aprovado o Projeto de Lei nº 1.366, de 2022. Sim: 309; não: 131; abstenção: 2; total: 442. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2324721-94](../../../../../votacoes/2324721-94/) |
 | 16 abr 2024 | Aprovado o Substitutivo ao Projeto de Lei nº 1.548, de 2022, adotado pelo relator da Comissão de Finanças e Tributação. Sim: 383; não: 19; total: 402. | Maioria do partido: sim (1 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2326582-61](../../../../../votacoes/2326582-61/) |
-| 10 abr 2024 | Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Comunicação de Medida Cautelar nº 1/2024. Sim: 277; não: 129; abstenção: 28; total: 434. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2423268-40](../../../../../votacoes/2423268-40/) |
-| 09 abr 2024 | Aprovada a Subemenda Substitutiva Global Reformulada ao Projeto de Lei Complementar nº 233, de 2023, adotada pelo relator da Comissão de Viação e Transportes. Sim: 304; não: 136; total: 440. | Maioria do partido: nao (0 sim / 2 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2400758-62](../../../../../votacoes/2400758-62/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

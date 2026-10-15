@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Franciane Bayer — Coesão com o próprio partido, Mérito (página 23)"
-description: "A decomposição completa do número de Franciane Bayer: 509 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 441ª à 460ª."
+description: "A decomposição completa do número de Franciane Bayer: 511 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 441ª à 460ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Franciane Bayer: 509 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>80,0%</b> é <b>407</b> coincidências em
-<b>509</b> votações computáveis — as outras 102 estão
+<p><b>80,0%</b> é <b>409</b> coincidências em
+<b>511</b> votações computáveis — as outras 102 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>441ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>441ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 25 out 2023 | Rejeitada a Emenda de Plenário nº 8. Sim: 127; não: 302; total: 429. | Maioria do partido: nao (3 sim / 33 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2383287-61](../../../../../votacoes/2383287-61/) |
+| 18 out 2023 | Aprovado o Projeto de Decreto Legislativo nº 745, de 2017. Sim: 323; não: 98; abstenção: 3; total: 424. | Maioria do partido: sim (34 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2149303-50](../../../../../votacoes/2149303-50/) |
 | 03 out 2023 | Rejeitada a Emenda de Plenário nº 4. Sim: 57; não: 270; total: 327. | Maioria do partido: nao (2 sim / 28 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2224999-104](../../../../../votacoes/2224999-104/) |
 | 03 out 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 5.497, de 2019, adotada pela relatora da Comissão de Cultura, ressalvados os destaques. Sim: 312; não: 25; abstenção: 8; total: 345. | Maioria do partido: sim (30 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2224999-96](../../../../../votacoes/2224999-96/) |
 | 03 out 2023 | Aprovadas as Emendas do Senado Federal de nºs 1, 2, 3, 5, 6, 7, 8, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 26, 27, 30, 31, 32, 33, 34, 36, 37, 39, 40, 41, 42 (exceto o § 7º do art. 37 da Lei nº 9.492, de 1997), 43, 44, 45, 46, 49 e 50 ao Projeto de Lei nº 4.188, de 2021. Sim: 305; não: 11; abstenção: 5; total: 321. | Maioria do partido: sim (33 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2309053-174](../../../../../votacoes/2309053-174/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>441ª</b> à
 | 14 set 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 192, de 2023, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 345; não: 55; abstenção: 1; total: 401. | Maioria do partido: sim (32 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387067-33](../../../../../votacoes/2387067-33/) |
 | 13 set 2023 | Rejeitada a Emenda de Plenário nº 26. Sim: 82; não: 342; abstenção: 8; total: 432. | Maioria do partido: nao (13 sim / 17 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2374400-46](../../../../../votacoes/2374400-46/) |
 | 13 set 2023 | Suprimido o texto. Sim: 222; não: 242; abstenção: 2; total: 466. | Maioria do partido: nao (4 sim / 34 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2374400-53](../../../../../votacoes/2374400-53/) |
-| 13 set 2023 | Aprovada a Emenda de Plenário nº 34. Sim: 203; não: 164; total: 367. | Maioria do partido: sim (33 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2374400-58](../../../../../votacoes/2374400-58/) |
-| 13 set 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.438, de 2023, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 367; não: 86; abstenção: 1; total: 454. | Maioria do partido: sim (35 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387066-63](../../../../../votacoes/2387066-63/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

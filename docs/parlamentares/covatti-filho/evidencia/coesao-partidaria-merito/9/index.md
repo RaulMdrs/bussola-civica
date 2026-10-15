@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Covatti Filho — Coesão com o próprio partido, Mérito (página 9)"
-description: "A decomposição completa do número de Covatti Filho: 429 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
+description: "A decomposição completa do número de Covatti Filho: 431 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Covatti Filho: 429 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>57,3%</b> é <b>246</b> coincidências em
-<b>429</b> votações computáveis — as outras 183 estão
+<p><b>57,5%</b> é <b>248</b> coincidências em
+<b>431</b> votações computáveis — as outras 183 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 28 mai 2025 | Suprimido o texto. Sim: 152; Não: 220; Abstenção: 1; Total: 373. | Maioria do partido: nao (2 sim / 30 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2453934-72](../../../../../votacoes/2453934-72/) |
+| 27 mai 2025 | Mantido o texto. Sim: 319; Não: 93; Total: 412. | Maioria do partido: sim (27 sim / 7 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2121642-102](../../../../../votacoes/2121642-102/) |
 | 27 mai 2025 | Mantido o texto. Sim: 310; Não: 105; Abstenção: 1; Total: 416. | Maioria do partido: sim (29 sim / 7 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2121642-105](../../../../../votacoes/2121642-105/) |
 | 27 mai 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 6.969, de 2013, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvado o destaque. Sim: 378; Não: 66; Abstenção: 1; Total: 445. | Maioria do partido: sim (33 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [604557-191](../../../../../votacoes/604557-191/) |
 | 27 mai 2025 | Mantido o texto. Sim: 351; Não: 68; Abstenção: 1; Total: 420. | Maioria do partido: sim (32 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [604557-205](../../../../../votacoes/604557-205/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 | 29 abr 2025 | Mantido o texto. Sim: 266; Não: 118; Total: 384. | Maioria do partido: sim (26 sim / 7 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2456731-84](../../../../../votacoes/2456731-84/) |
 | 28 abr 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 363, de 2025, adotado pela relatora da Comissão de Cultura, ressalvados os destaques. Sim: 278; Não: 111; Total: 389. | Maioria do partido: sim (20 sim / 11 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2483495-52](../../../../../votacoes/2483495-52/) |
 | 28 abr 2025 | Mantido o texto. Sim: 266; Não: 113; Total: 379. | Maioria do partido: sim (19 sim / 12 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2483495-56](../../../../../votacoes/2483495-56/) |
-| 28 abr 2025 | Mantido o texto. Sim: 251; Não: 117; Total: 368. | Maioria do partido: sim (17 sim / 10 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2483495-59](../../../../../votacoes/2483495-59/) |
-| 28 abr 2025 | Mantido o texto. Sim: 256; Não: 123; Abstenção: 1; Total: 380. | Maioria do partido: sim (22 sim / 10 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2483495-62](../../../../../votacoes/2483495-62/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

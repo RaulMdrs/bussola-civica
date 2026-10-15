@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Franciane Bayer — Alinhamento com o governo federal, Procedimental (página 11)"
-description: "A decomposição completa do número de Franciane Bayer: 358 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
+description: "A decomposição completa do número de Franciane Bayer: 359 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Franciane Bayer: 358 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>64,2%</b> é <b>230</b> coincidências em
-<b>358</b> votações computáveis — as outras 128 estão
+<p><b>64,1%</b> é <b>230</b> coincidências em
+<b>359</b> votações computáveis — as outras 129 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 30 out 2024 | Rejeitado o Requerimento. Sim: 71; Não: 221; Total: 292. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438459-63](../../../../../votacoes/2438459-63/) |
 | 16 out 2024 | Rejeitado o Requerimento. Sim: 105; Não: 292; Total: 397. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2244008-82](../../../../../votacoes/2244008-82/) |
 | 15 out 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 140; Abstenção: 1; Total: 417. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2451405-8](../../../../../votacoes/2451405-8/) |
 | 18 set 2024 | Rejeitado o Requerimento. Sim: 22; Não: 342; Abstenção: 2; Total: 366. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2452037-70](../../../../../votacoes/2452037-70/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 | 09 set 2024 | Rejeitado o Requerimento. Sim: 14; Não: 348; Abstenção: 1; Total: 363. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2204088-80](../../../../../votacoes/2204088-80/) |
 | 09 set 2024 | Rejeitado o Requerimento. Sim: 5; Não: 366; Abstenção: 3; Total: 374. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2204088-85](../../../../../votacoes/2204088-85/) |
 | 09 set 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 293; Não: 118; Abstenção: 4; Total: 415. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2455033-10](../../../../../votacoes/2455033-10/) |
-| 09 set 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 316; Não: 19; Abstenção: 4; Total: 339. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2457208-7](../../../../../votacoes/2457208-7/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

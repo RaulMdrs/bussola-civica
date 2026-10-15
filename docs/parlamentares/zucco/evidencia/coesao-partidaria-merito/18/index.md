@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Zucco — Coesão com o próprio partido, Mérito (página 18)"
-description: "A decomposição completa do número de Zucco: 551 votações em 28 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
+description: "A decomposição completa do número de Zucco: 553 votações em 28 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Zucco: 551 votações em 2
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>82,8%</b> é <b>456</b> coincidências em
-<b>551</b> votações computáveis — as outras 95 estão
+<p><b>82,8%</b> é <b>458</b> coincidências em
+<b>553</b> votações computáveis — as outras 95 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>28 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 09 jul 2024 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 5.230, de 2023,com parecer pela aprovação, ressalvados os dispositivos com parecer pela rejeição. Sim: 437; não: 1; total: 438. | Maioria do partido: sim (84 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2399598-112](../../../../../votacoes/2399598-112/) |
+| 03 jul 2024 | Aprovada a Medida Provisória nº 1.210, de 2024. Sim: 336; total: 336. | Maioria do partido: sim (64 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422095-37](../../../../../votacoes/2422095-37/) |
 | 19 jun 2024 | Mantido o texto. Sim: 313; não: 116; total: 429. | Maioria do partido: nao (9 sim / 72 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2236291-85](../../../../../votacoes/2236291-85/) |
 | 12 jun 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Resolução nº 32, de 2024, adotada pelo relator da Mesa Diretora. Sim: 400; não: 29; abstenção: 1; total: 430. | Maioria do partido: sim (71 sim / 11 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2439876-43](../../../../../votacoes/2439876-43/) |
 | 11 jun 2024 | Aprovadas as Emendas do Senado Federal nºs 1 a 2; e 4 a 12 ao Projeto de Lei nº 914, de 2024. Sim: 380; não: 26; total: 406. | Maioria do partido: sim (72 sim / 11 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422697-129](../../../../../votacoes/2422697-129/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 | 21 mai 2024 | Mantido o texto. Sim: 315; não: 120; total: 435. | Maioria do partido: sim (83 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2349493-92](../../../../../votacoes/2349493-92/) |
 | 21 mai 2024 | Mantido o texto. Sim: 313; não: 119; total: 432. | Maioria do partido: sim (81 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2349493-95](../../../../../votacoes/2349493-95/) |
 | 21 mai 2024 | Rejeitada a Emenda de Plenário nº 26. Sim: 179; não: 229; total: 408. | Maioria do partido: sim (76 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2425883-50](../../../../../votacoes/2425883-50/) |
-| 14 mai 2024 | Aprovado o Substitutivo ao Projeto de Lei nº 6.235, de 2023, adotado pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 339; não: 96; abstenção: 1; total: 436. | Maioria do partido: nao (16 sim / 62 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2416733-42](../../../../../votacoes/2416733-42/) |
-| 14 mai 2024 | Mantido o texto. Sim: 402; não: 10; total: 412. | Maioria do partido: sim (77 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2416733-46](../../../../../votacoes/2416733-46/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

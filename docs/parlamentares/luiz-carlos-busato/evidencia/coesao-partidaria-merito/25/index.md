@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Luiz Carlos Busato — Coesão com o próprio partido, Mérito (página 25)"
-description: "A decomposição completa do número de Luiz Carlos Busato: 495 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 481ª à 495ª."
+description: "A decomposição completa do número de Luiz Carlos Busato: 497 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 481ª à 497ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Luiz Carlos Busato: 495 vo
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>91,9%</b> é <b>455</b> coincidências em
-<b>495</b> votações computáveis — as outras 40 estão
+<p><b>91,8%</b> é <b>456</b> coincidências em
+<b>497</b> votações computáveis — as outras 41 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>481ª</b> à
-<b>495ª</b>.</p>
+<b>497ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>481ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 30 mai 2023 | Rejeitada a Emenda de Comissão nº 98. Sim: 159; não: 270; total: 429. | Maioria do partido: sim (39 sim / 9 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2349947-42](../../../../../votacoes/2349947-42/) |
+| 30 mai 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 490, de 2007, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 283; não: 155; abstenção: 1; total: 439. | Maioria do partido: sim (47 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [345311-270](../../../../../votacoes/345311-270/) |
 | 30 mai 2023 | Mantido o texto. Sim: 288; não: 148; abstenção: 2; total: 438. | Maioria do partido: sim (46 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [345311-276](../../../../../votacoes/345311-276/) |
 | 30 mai 2023 | Mantido o texto. Sim: 290; não: 142; abstenção: 1; total: 433. | Maioria do partido: sim (45 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [345311-279](../../../../../votacoes/345311-279/) |
 | 24 mai 2023 | Rejeitada a Emenda nº 1 e restabelecidos os dispositivos aprovados pela câmara consubstanciados no Projeto de Lei de Conversão nº 6, de 2023. Sim: 66; não: 364; abtenção: 2; total: 432. | Maioria do partido: nao (6 sim / 38 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2345368-78](../../../../../votacoes/2345368-78/) |

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Giovani Cherini — Coesão com o próprio partido, Procedimental (página 10)"
-description: "A decomposição completa do número de Giovani Cherini: 434 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
+description: "A decomposição completa do número de Giovani Cherini: 435 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Giovani Cherini: 434 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>92,2%</b> é <b>400</b> coincidências em
-<b>434</b> votações computáveis — as outras 34 estão
+<p><b>92,2%</b> é <b>401</b> coincidências em
+<b>435</b> votações computáveis — as outras 34 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 27 mai 2025 | Rejeitado o Requerimento. Sim: 84; Não: 315; Abstenção: 1; Total: 400. | Maioria do partido: sim (59 sim / 8 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2121642-95](../../../../../votacoes/2121642-95/) |
 | 27 mai 2025 | Rejeitado o Requerimento. | Maioria do partido: nao (3 sim / 68 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2355104-96](../../../../../votacoes/2355104-96/) |
 | 27 mai 2025 | Rejeitado o Requerimento. Sim: 77; Não: 285; Total: 362. | Maioria do partido: nao (1 sim / 65 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2453219-36](../../../../../votacoes/2453219-36/) |
 | 26 mai 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 286; Não: 113; Total: 399. | Maioria do partido: nao (5 sim / 69 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2193584-7](../../../../../votacoes/2193584-7/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 | 06 mai 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 268; Não: 199; Total: 467. | Maioria do partido: nao (18 sim / 61 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2503292-9](../../../../../votacoes/2503292-9/) |
 | 05 mai 2025 | Rejeitado o Requerimento. Sim: 111; Não: 261; Total: 372. | Maioria do partido: sim (61 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2233324-71](../../../../../votacoes/2233324-71/) |
 | 05 mai 2025 | Rejeitado o Requerimento. Sim: 108; Não: 261; Total: 369. | Maioria do partido: sim (61 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2233324-75](../../../../../votacoes/2233324-75/) |
-| 05 mai 2025 | Rejeitado o Requerimento. Sim: 113; Não: 248; Total: 361. | Maioria do partido: sim (61 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2233324-83](../../../../../votacoes/2233324-83/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

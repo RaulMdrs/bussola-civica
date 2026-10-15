@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Carlos Gomes — Coesão com o próprio partido, Mérito (página 7)"
-description: "A decomposição completa do número de Carlos Gomes: 126 votações em 7 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 126ª."
+description: "A decomposição completa do número de Carlos Gomes: 128 votações em 7 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 128ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Carlos Gomes: 126 votaçõ
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,6%</b> é <b>123</b> coincidências em
-<b>126</b> votações computáveis — as outras 3 estão
+<p><b>97,7%</b> é <b>125</b> coincidências em
+<b>128</b> votações computáveis — as outras 3 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>7 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
-<b>126ª</b>.</p>
+<b>128ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 27 abr 2023 | Aprovada a Emenda de Plenário nº 7. Sim: 181; não: 171; total: 352. | Maioria do partido: nao (0 sim / 24 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2345484-83](../../../../../votacoes/2345484-83/) |
+| 25 abr 2023 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 139, de 2022, adotado pelo Relator da Comissão de Finanças e Tributação. Sim: 360; não: 3; total: 363. | Maioria do partido: sim (31 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2337246-43](../../../../../votacoes/2337246-43/) |
 | 25 abr 2023 | Mantido o texto. Sim: 282; não: 115; total: 397. | Maioria do partido: sim (29 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2344938-60](../../../../../votacoes/2344938-60/) |
 | 25 abr 2023 | Rejeitada a Emenda de Comissão nº 9. Sim: 132; não: 242; total: 374. | Maioria do partido: nao (4 sim / 29 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2344938-71](../../../../../votacoes/2344938-71/) |
 | 30 mar 2023 | Aprovada a Emenda de Plenário nº 4. Sim: 150; não: 122; total: 272. | Maioria do partido: sim (21 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345368-50](../../../../../votacoes/2345368-50/) |

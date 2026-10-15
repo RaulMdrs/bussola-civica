@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Luiz Carlos Busato — Coesão com o próprio partido, Mérito (página 3)"
-description: "A decomposição completa do número de Luiz Carlos Busato: 495 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
+description: "A decomposição completa do número de Luiz Carlos Busato: 497 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Luiz Carlos Busato: 495 vo
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>91,9%</b> é <b>455</b> coincidências em
-<b>495</b> votações computáveis — as outras 40 estão
+<p><b>91,8%</b> é <b>456</b> coincidências em
+<b>497</b> votações computáveis — as outras 41 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 17 mar 2026 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 6, de 2024, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 417; Não: 1; Total: 418. | Maioria do partido: sim (45 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2418774-66](../../../../../votacoes/2418774-66/) |
+| 11 mar 2026 | Mantido o texto. Sim: 213; Não: 152; Abstenção: 3; Total: 368. | Maioria do partido: sim (30 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2596663-47](../../../../../votacoes/2596663-47/) |
 | 10 mar 2026 | Mantido o texto. Sim: 408; Não: 13; Total: 421. | Maioria do partido: sim (39 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2449741-72](../../../../../votacoes/2449741-72/) |
 | 04 mar 2026 | Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à Constituição nº 18, de 2025, adotado pelo relator da Comissão Especial. Sim: 487; Não: 15; Abstenção: 1; Total: 503. | Maioria do partido: sim (55 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2500080-320](../../../../../votacoes/2500080-320/) |
 | 03 mar 2026 | Aprovado o Projeto de Lei nº 5.490, de 2025. Sim: 248; Não: 164; Abstenção: 2; Total: 414. | Maioria do partido: nao (20 sim / 23 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2578879-38](../../../../../votacoes/2578879-38/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 | 16 dez 2025 | Suprimido o texto. Sim: 221; Não: 242; Abstenção: 2; Total: 465. | Maioria do partido: sim (41 sim / 13 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-146](../../../../../votacoes/2438459-146/) |
 | 16 dez 2025 | Aprovadas as Emendas de Redação nºs 1, 2 e 4. Sim: 408; Não: 3; Abstenção: 1; Total: 412. | Maioria do partido: sim (48 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-148](../../../../../votacoes/2438459-148/) |
 | 16 dez 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 128, de 2025, adotada pelo relator da Comissão de Desenvolvimento Econômico, ressalvado o destaque. Sim: 310; Não: 85; Abstenção: 1; Total: 396. | Maioria do partido: sim (35 sim / 14 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2520670-52](../../../../../votacoes/2520670-52/) |
-| 16 dez 2025 | Mantido o texto. Sim: 286; Não: 116; Total: 402. | Maioria do partido: sim (32 sim / 16 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2520670-66](../../../../../votacoes/2520670-66/) |
-| 15 dez 2025 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 108, de 2024, com parecer pela aprovação, excetuadas as modificações indicadas no Parecer da Comissão de Indústria, Comércio e Serviços. Sim: 330; Não: 104; Total: 434. | Maioria do partido: sim (32 sim / 16 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-113](../../../../../votacoes/2438459-113/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

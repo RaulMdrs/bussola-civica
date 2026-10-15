@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Zucco — Coesão com o próprio partido, Mérito (página 25)"
-description: "A decomposição completa do número de Zucco: 551 votações em 28 páginas, uma por linha, com link para a fonte. Esta traz da 481ª à 500ª."
+description: "A decomposição completa do número de Zucco: 553 votações em 28 páginas, uma por linha, com link para a fonte. Esta traz da 481ª à 500ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Zucco: 551 votações em 2
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>82,8%</b> é <b>456</b> coincidências em
-<b>551</b> votações computáveis — as outras 95 estão
+<p><b>82,8%</b> é <b>458</b> coincidências em
+<b>553</b> votações computáveis — as outras 95 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>28 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>481ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>481ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 13 set 2023 | Rejeitada a Emenda de Plenário nº 26. Sim: 82; não: 342; abstenção: 8; total: 432. | Maioria do partido: nao (13 sim / 17 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2374400-46](../../../../../votacoes/2374400-46/) |
+| 13 set 2023 | Suprimido o texto. Sim: 222; não: 242; abstenção: 2; total: 466. | Maioria do partido: nao (4 sim / 34 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2374400-53](../../../../../votacoes/2374400-53/) |
 | 13 set 2023 | Aprovada a Emenda de Plenário nº 34. Sim: 203; não: 164; total: 367. | Maioria do partido: sim (33 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2374400-58](../../../../../votacoes/2374400-58/) |
 | 13 set 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.438, de 2023, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 367; não: 86; abstenção: 1; total: 454. | Maioria do partido: sim (35 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387066-63](../../../../../votacoes/2387066-63/) |
 | 12 set 2023 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 16, de 2021. Sim: 464; não: 3; abstenção: 1; total: 468. | Maioria do partido: sim (34 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2288318-70](../../../../../votacoes/2288318-70/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>481ª</b> à
 | 09 ago 2023 | Aprovado o Substitutivo ao Projeto de Lei nº 996, de 2015, adotado pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 335; não: 49; abstenção: 1; total: 385 | Maioria do partido: sim (22 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [1197773-90](../../../../../votacoes/1197773-90/) |
 | 09 ago 2023 | Rejeitada a Emenda de Plenário nº 3. Sim: 117; não: 264; abstenção: 1; total: 382. | Maioria do partido: nao (3 sim / 24 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [1197773-99](../../../../../votacoes/1197773-99/) |
 | 08 ago 2023 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 143, de 2019, da Comissão de Finanças e Tributação. Sim: 347; não: 18; abstenção: 1; total: 366. | Maioria do partido: sim (30 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2205254-76](../../../../../votacoes/2205254-76/) |
-| 07 jul 2023 | Mantido o texto. Sim: 336; não: 132; total: 468. | Maioria do partido: sim (34 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-386](../../../../../votacoes/2196833-386/) |
-| 07 jul 2023 | Mantido o texto. Sim: 349; não: 84; abstenção: 2; total: 435. | Maioria do partido: sim (34 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-390](../../../../../votacoes/2196833-390/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Lucas Redecker — Alinhamento com o governo federal, Procedimental (página 8)"
-description: "A decomposição completa do número de Lucas Redecker: 389 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
+description: "A decomposição completa do número de Lucas Redecker: 390 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Lucas Redecker: 389 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>41,9%</b> é <b>163</b> coincidências em
-<b>389</b> votações computáveis — as outras 226 estão
+<p><b>42,1%</b> é <b>164</b> coincidências em
+<b>390</b> votações computáveis — as outras 226 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 11 jun 2025 | Aprovado o Requerimento. Sim: 235; Não: 142; Total: 377. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [264726-136](../../../../../votacoes/264726-136/) |
 | 02 jun 2025 | Rejeitado o Requerimento. Sim: 101; Não: 230; Total: 331. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2497990-25](../../../../../votacoes/2497990-25/) |
 | 02 jun 2025 | Rejeitado o Requerimento. Sim: 89; Não: 206; Total: 295. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2497990-28](../../../../../votacoes/2497990-28/) |
 | 29 mai 2025 | Rejeitado o Requerimento. Sim: 102; Não: 258; Total: 360. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2297512-65](../../../../../votacoes/2297512-65/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 | 05 mai 2025 | Rejeitado o Requerimento. Sim: 108; Não: 261; Total: 369. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2233324-75](../../../../../votacoes/2233324-75/) |
 | 05 mai 2025 | Rejeitado o Requerimento. Sim: 113; Não: 248; Total: 361. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2233324-83](../../../../../votacoes/2233324-83/) |
 | 29 abr 2025 | Rejeitado o Requerimento. Sim: 102; Não: 244; Total: 346. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2456731-67](../../../../../votacoes/2456731-67/) |
-| 28 abr 2025 | Rejeitado o Requerimento. Sim: 98; Não: 229; Total: 327. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2483495-34](../../../../../votacoes/2483495-34/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

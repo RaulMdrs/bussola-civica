@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Motta — Coesão com o próprio partido, Mérito (página 10)"
-description: "A decomposição completa do número de Afonso Motta: 485 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
+description: "A decomposição completa do número de Afonso Motta: 487 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Afonso Motta: 485 votaçõ
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>92,0%</b> é <b>446</b> coincidências em
-<b>485</b> votações computáveis — as outras 39 estão
+<p><b>91,8%</b> é <b>447</b> coincidências em
+<b>487</b> votações computáveis — as outras 40 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 11 jun 2025 | Mantido o texto. Sim: 214; Não: 146; Total: 360. | Maioria do partido: sim (11 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2497816-47](../../../../../votacoes/2497816-47/) |
+| 11 jun 2025 | Mantido o texto. Sim: 226; Não: 130; Total: 356. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2497816-50](../../../../../votacoes/2497816-50/) |
 | 11 jun 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.149, de 2004, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 273; Não: 153; Abstenção: 1; Total: 427. | Maioria do partido: sim (14 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [264726-144](../../../../../votacoes/264726-144/) |
 | 11 jun 2025 | Mantido o texto. Sim: 256; Não: 153; Abstenção: 2; Total: 411. | Maioria do partido: sim (14 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [264726-148](../../../../../votacoes/264726-148/) |
 | 11 jun 2025 | Mantido o texto. Sim: 249; Não: 154; Abstenção: 2; Total: 405. | Maioria do partido: sim (13 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [264726-157](../../../../../votacoes/264726-157/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 | 27 mai 2025 | Mantido o texto. Sim: 351; Não: 68; Abstenção: 1; Total: 420. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [604557-205](../../../../../votacoes/604557-205/) |
 | 26 mai 2025 | Mantido o texto. Sim: 231; Não: 202; Abstenção: 8; Total: 441. | Maioria do partido: sim (13 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2233324-100](../../../../../votacoes/2233324-100/) |
 | 26 mai 2025 | Mantido o texto. Sim: 284; Não: 147; Abstenção: 2; Total: 433. | Maioria do partido: sim (13 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2233324-103](../../../../../votacoes/2233324-103/) |
-| 26 mai 2025 | Mantido o texto. Sim: 233; Não: 174; Abstenção: 3; Total: 410. | Maioria do partido: sim (13 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2233324-106](../../../../../votacoes/2233324-106/) |
-| 26 mai 2025 | Aprovado o Projeto de Lei nº 1.708, de 2025. Sim: 289; Não: 136; Total: 425. | Maioria do partido: sim (13 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2497993-33](../../../../../votacoes/2497993-33/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daniel Trzeciak — Coesão com o próprio partido, Mérito (página 4)"
-description: "A decomposição completa do número de Daniel Trzeciak: 488 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
+description: "A decomposição completa do número de Daniel Trzeciak: 490 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Daniel Trzeciak: 488 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>72,3%</b> é <b>353</b> coincidências em
-<b>488</b> votações computáveis — as outras 135 estão
+<p><b>72,4%</b> é <b>355</b> coincidências em
+<b>490</b> votações computáveis — as outras 135 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 10 dez 2025 | Aprovada a Preferência. Sim: 226; Não: 220; Abstenção: 3; Total: 449. | Maioria do partido: nao (5 sim / 7 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2595686-29](../../../../../votacoes/2595686-29/) |
+| 10 dez 2025 | Aprovada a Emenda de Plenário nº 1. Sim: 318; Não: 141; Abstenção: 3; Total: 462. | Maioria do partido: sim (7 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2595686-31](../../../../../votacoes/2595686-31/) |
 | 09 dez 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 2.162, de 2023, adotado pelo relator da Comissão Especial, ressalvados os destaques. Sim: 291; Não: 148; Abstenção: 1; Total: 440. | Maioria do partido: sim (9 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2358548-89](../../../../../votacoes/2358548-89/) |
 | 09 dez 2025 | Mantido o texto. Sim: 230; Não: 34; Abstenção: 4; Total: 268. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2358548-90](../../../../../votacoes/2358548-90/) |
 | 09 dez 2025 | Mantido o texto. Sim: 229; Não: 26; Abstenção: 3; Total: 258. | Maioria do partido: sim (6 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2358548-93](../../../../../votacoes/2358548-93/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 | 26 nov 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 331, de 2020, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 386; Não: 7; Total: 393. | Maioria do partido: sim (9 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2237596-92](../../../../../votacoes/2237596-92/) |
 | 26 nov 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 2.829, de 2025, adotado pelo relator da Comissão de Administração e Serviço Público, ressalvado o destaque. Sim: 350; Não: 77; Abstenção: 2; Total: 429. | Maioria do partido: sim (7 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2524984-33](../../../../../votacoes/2524984-33/) |
 | 26 nov 2025 | Mantido o texto. Sim: 313; Não: 88; Abstenção: 2; Total: 403. | Maioria do partido: nao (4 sim / 5 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2524984-37](../../../../../votacoes/2524984-37/) |
-| 26 nov 2025 | Mantido o texto. Sim: 278; Não: 107; Total: 385. | Maioria do partido: sim (9 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2555110-45](../../../../../votacoes/2555110-45/) |
-| 18 nov 2025 | Aprovada a Emenda de Plenário nº 25. Sim: 349; Não: 40; Abstenção: 1; Total: 390. | Maioria do partido: sim (8 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2579832-105](../../../../../votacoes/2579832-105/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

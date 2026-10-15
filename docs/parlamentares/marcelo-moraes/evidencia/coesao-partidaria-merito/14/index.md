@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcelo Moraes — Coesão com o próprio partido, Mérito (página 14)"
-description: "A decomposição completa do número de Marcelo Moraes: 434 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
+description: "A decomposição completa do número de Marcelo Moraes: 435 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcelo Moraes: 434 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>94,0%</b> é <b>408</b> coincidências em
-<b>434</b> votações computáveis — as outras 26 estão
+<p><b>94,0%</b> é <b>409</b> coincidências em
+<b>435</b> votações computáveis — as outras 26 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 30 out 2024 | Rejeitada a Emenda de Plenário n° 9. Sim: 135; Não: 229; Total: 364. | Maioria do partido: sim (63 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2456554-54](../../../../../votacoes/2456554-54/) |
 | 30 out 2024 | Aprovada a Emenda de Plenario n° 10. Sim: 227; Não: 198; Abstenção: 2; Total: 427. | Maioria do partido: sim (74 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2456554-57](../../../../../votacoes/2456554-57/) |
 | 16 out 2024 | Rejeitada a Emenda de Plenário nº 1. Sim: 149; Não: 204; Total: 353. | Maioria do partido: nao (4 sim / 66 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [565397-185](../../../../../votacoes/565397-185/) |
 | 11 set 2024 | Rejeitada a Emenda de Plenário nº 18. Sim: 133; Não: 204; Total: 337. | Maioria do partido: sim (59 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454704-58](../../../../../votacoes/2454704-58/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 | 11 jul 2024 | Mantido o texto. Sim: 258; não: 102; total: 360. | Maioria do partido: nao (6 sim / 61 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2447183-64](../../../../../votacoes/2447183-64/) |
 | 10 jul 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 68, de 2024, adotada pelo relator da Comissão Especial, ressalvados os destaques. Sim: 336; não: 142; abstenção: 2; total: 480. | Maioria do partido: nao (11 sim / 75 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2430143-72](../../../../../votacoes/2430143-72/) |
 | 10 jul 2024 | Rejeitada a Emenda de Plenário nº 747. Sim: 229; não: 233; abstenção: 1; total: 463. | Maioria do partido: sim (79 sim / 6 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430143-76](../../../../../votacoes/2430143-76/) |
-| 10 jul 2024 | Rejeitada a Emenda de Plenário nº 104. Sim: 155; não: 316; abstenção: 2; total: 473. | Maioria do partido: nao (0 sim / 85 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2430143-95](../../../../../votacoes/2430143-95/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

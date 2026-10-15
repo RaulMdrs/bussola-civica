@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daniel Trzeciak — Alinhamento com o governo federal, Mérito (página 8)"
-description: "A decomposição completa do número de Daniel Trzeciak: 395 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
+description: "A decomposição completa do número de Daniel Trzeciak: 397 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Daniel Trzeciak: 395 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>49,1%</b> é <b>194</b> coincidências em
-<b>395</b> votações computáveis — as outras 201 estão
+<p><b>49,1%</b> é <b>195</b> coincidências em
+<b>397</b> votações computáveis — as outras 202 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 08 jul 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 2.583, de 2020, adotado pelo relator da Comissão de Saúde, ressalvados os destaques. Sim: 352; Não: 63; Total: 415. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2252295-120](../../../../../votacoes/2252295-120/) |
+| 08 jul 2025 | Mantido o texto. Sim: 316; Não: 110; Total: 426. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2252295-130](../../../../../votacoes/2252295-130/) |
 | 08 jul 2025 | Rejeitada a Preferência. Sim: 103; Não: 281; Total: 384. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2413257-115](../../../../../votacoes/2413257-115/) |
 | 08 jul 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 6.020, de 2023, adotado pela relatora da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 302; Não: 99; Total: 401. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2413257-116](../../../../../votacoes/2413257-116/) |
 | 08 jul 2025 | Rejeitado o Destaque. Sim: 159; Não: 243; Total: 402. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2413257-125](../../../../../votacoes/2413257-125/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 | 28 mai 2025 | Suprimido o texto. Sim: 152; Não: 220; Abstenção: 1; Total: 373. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2453934-72](../../../../../votacoes/2453934-72/) |
 | 27 mai 2025 | Mantido o texto. Sim: 319; Não: 93; Total: 412. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2121642-102](../../../../../votacoes/2121642-102/) |
 | 27 mai 2025 | Mantido o texto. Sim: 310; Não: 105; Abstenção: 1; Total: 416. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2121642-105](../../../../../votacoes/2121642-105/) |
-| 27 mai 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 6.969, de 2013, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvado o destaque. Sim: 378; Não: 66; Abstenção: 1; Total: 445. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [604557-191](../../../../../votacoes/604557-191/) |
-| 27 mai 2025 | Mantido o texto. Sim: 351; Não: 68; Abstenção: 1; Total: 420. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [604557-205](../../../../../votacoes/604557-205/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

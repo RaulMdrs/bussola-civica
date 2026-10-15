@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Denise Pessôa — Coesão com o próprio partido, Procedimental (página 19)"
-description: "A decomposição completa do número de Denise Pessôa: 481 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 380ª."
+description: "A decomposição completa do número de Denise Pessôa: 482 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 380ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Denise Pessôa: 481 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>98,3%</b> é <b>473</b> coincidências em
-<b>481</b> votações computáveis — as outras 8 estão
+<p><b>98,3%</b> é <b>474</b> coincidências em
+<b>482</b> votações computáveis — as outras 8 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 21 dez 2023 | Rejeitado o Requerimento. Sim: 51; não: 295; total: 346. | Maioria do partido: nao (1 sim / 54 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [1548579-122](../../../../../votacoes/1548579-122/) |
 | 21 dez 2023 | Rejeitado o Requerimento. Sim: 106; não: 281; total: 387. | Maioria do partido: nao (1 sim / 53 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2374400-101](../../../../../votacoes/2374400-101/) |
 | 21 dez 2023 | Rejeitado o Requerimento. Sim: 100; não: 275; total: 375. | Maioria do partido: nao (0 sim / 50 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2374400-106](../../../../../votacoes/2374400-106/) |
 | 21 dez 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 318; não: 21; abstenção: 2; total:341. | Maioria do partido: sim (54 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2410517-10](../../../../../votacoes/2410517-10/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
 | 15 dez 2023 | Rejeitado o Requerimento. Sim: 49; não: 323; abstenção: 1; total: 373. | Maioria do partido: nao (0 sim / 59 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [259094-187](../../../../../votacoes/259094-187/) |
 | 14 dez 2023 | Rejeitado o Requerimento. Sim: 38; não: 219; abstenção: 2; total: 259. | Maioria do partido: nao (1 sim / 45 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2387579-19](../../../../../votacoes/2387579-19/) |
 | 14 dez 2023 | Rejeitado o Requerimento. Sim: 62; não: 201; total: 263. | Maioria do partido: nao (0 sim / 39 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2387579-27](../../../../../votacoes/2387579-27/) |
-| 13 dez 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 370; não: 5; abstenção: 1; total: 376. | Maioria do partido: sim (53 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2410669-8](../../../../../votacoes/2410669-8/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

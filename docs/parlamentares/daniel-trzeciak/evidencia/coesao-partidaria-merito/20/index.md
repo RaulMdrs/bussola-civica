@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daniel Trzeciak — Coesão com o próprio partido, Mérito (página 20)"
-description: "A decomposição completa do número de Daniel Trzeciak: 488 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 400ª."
+description: "A decomposição completa do número de Daniel Trzeciak: 490 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 400ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Daniel Trzeciak: 488 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>72,3%</b> é <b>353</b> coincidências em
-<b>488</b> votações computáveis — as outras 135 estão
+<p><b>72,4%</b> é <b>355</b> coincidências em
+<b>490</b> votações computáveis — as outras 135 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 14 dez 2023 | Mantido o texto. Sim: 246; não: 29; total: 275. | Maioria do partido: nao (2 sim / 3 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2387579-46](../../../../../votacoes/2387579-46/) |
+| 14 dez 2023 | Mantido o texto. Sim: 238; não: 36; abstenção: 1; total: 275. | Maioria do partido: nao (3 sim / 5 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2387579-49](../../../../../votacoes/2387579-49/) |
 | 13 dez 2023 | Aprovado o Projeto de Lei Complementar nº 243, de 2023. Sim: 370; não: 77; abstenção: 4; total: 451. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2409076-34](../../../../../votacoes/2409076-34/) |
 | 05 dez 2023 | Aprovado o Projeto de Lei Complementar nº 116, de 2023. Sim: 395; não: 20; abstenção: 1; total:416. | Maioria do partido: sim (9 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [1701755-60](../../../../../votacoes/1701755-60/) |
 | 05 dez 2023 | Aprovada a Emenda de Plenário n° 1. Sim: 257; não: 144; abstenção: 2; total: 403. | Maioria do partido: sim (6 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2231632-102](../../../../../votacoes/2231632-102/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
 | 08 nov 2023 | Mantido o texto. Sim: 268; não: 124; total: 392. | Maioria do partido: nao (1 sim / 7 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2115253-179](../../../../../votacoes/2115253-179/) |
 | 08 nov 2023 | Aprovado o Projeto de Lei nº 4.287, de 2023. Sim: 369; não: 5; total: 374. | Maioria do partido: sim (9 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2391935-43](../../../../../votacoes/2391935-43/) |
 | 31 out 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 3.780, de 2023, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 269; não: 87; abstenção: 1; total: 357. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2376169-62](../../../../../votacoes/2376169-62/) |
-| 25 out 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.173, de 2023, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 323; não: 119; abstenção: 1; total: 443. | Maioria do partido: sim (9 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2383287-43](../../../../../votacoes/2383287-43/) |
-| 25 out 2023 | Rejeitada a Emenda de Plenário nº 12. Sim: 116; não: 303; abstenção: 1; total: 420. | Maioria do partido: nao (2 sim / 8 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383287-47](../../../../../votacoes/2383287-47/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

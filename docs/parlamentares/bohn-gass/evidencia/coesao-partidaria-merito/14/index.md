@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Bohn Gass — Coesão com o próprio partido, Mérito (página 14)"
-description: "A decomposição completa do número de Bohn Gass: 524 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
+description: "A decomposição completa do número de Bohn Gass: 526 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Bohn Gass: 524 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,9%</b> é <b>513</b> coincidências em
-<b>524</b> votações computáveis — as outras 11 estão
+<p><b>97,9%</b> é <b>515</b> coincidências em
+<b>526</b> votações computáveis — as outras 11 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>27 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 17 dez 2024 | Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela rejeição. Sim: 18; Não: 328; Abstenção: 7; Total: 353. | Maioria do partido: nao (0 sim / 60 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2430143-142](../../../../../votacoes/2430143-142/) |
+| 17 dez 2024 | Aprovada a Emenda de Redação n° 2. Sim: 314; Não: 117; Abstenção: 1; Total: 432. | Maioria do partido: sim (62 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430143-144](../../../../../votacoes/2430143-144/) |
 | 17 dez 2024 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 210, de 2024, adotado pelo relator da Comissão Especial. Sim: 318; Não: 149; Total: 467. | Maioria do partido: sim (63 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2473389-58](../../../../../votacoes/2473389-58/) |
 | 17 dez 2024 | Rejeitada a Emenda de Plenário nº 9. Sim: 227; Não: 233; Abstenção: 1; Total: 461. | Maioria do partido: nao (0 sim / 65 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2473389-62](../../../../../votacoes/2473389-62/) |
 | 17 dez 2024 | Rejeitada a Emenda de Plenário nº 19. Sim: 186; Não: 256; Total: 442. | Maioria do partido: nao (30 sim / 32 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2473389-65](../../../../../votacoes/2473389-65/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 | 03 dez 2024 | Aprovado o Projeto de Decreto Legislativo nº 361, de 2024. Sim: 296; Não: 108; Total: 404. | Maioria do partido: sim (59 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2462730-34](../../../../../votacoes/2462730-34/) |
 | 27 nov 2024 | Aprovado o Projeto de Lei nº 3.819, de 2024. Sim: 364; Não: 47; Abstenção: 1; Total: 412. | Maioria do partido: sim (59 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2461207-38](../../../../../votacoes/2461207-38/) |
 | 27 nov 2024 | Aprovada a Emenda de Plenário nº 1. Sim: 266; Não: 78; Abstenção: 4; Total: 348. | Maioria do partido: sim (41 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [480184-129](../../../../../votacoes/480184-129/) |
-| 19 nov 2024 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 2.148, de 2015, com exceção do art. 56. Sim: 336; Não: 38; Abstenção: 2; Total: 376. | Maioria do partido: sim (52 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [1548579-194](../../../../../votacoes/1548579-194/) |
-| 19 nov 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.958, de 2021, adotada pela relatora da Comissão de Direitos Humanos, Minorias e Igualdade Racial. Sim: 241; Não: 94; Abstenção: 2; Total: 337. | Maioria do partido: sim (54 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2439779-55](../../../../../votacoes/2439779-55/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Covatti Filho — Coesão com o próprio partido, Mérito (página 2)"
-description: "A decomposição completa do número de Covatti Filho: 429 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
+description: "A decomposição completa do número de Covatti Filho: 431 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Covatti Filho: 429 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>57,3%</b> é <b>246</b> coincidências em
-<b>429</b> votações computáveis — as outras 183 estão
+<p><b>57,5%</b> é <b>248</b> coincidências em
+<b>431</b> votações computáveis — as outras 183 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 25 fev 2026 | Aprovado o Projeto de Decreto Legislativo nº 50, de 2026, adotado pelo relator da Comissão de Relações Exteriores e de Defesa Nacional. Sim: 307; Não: 136; Abstenção: 1; Total: 444. | Maioria do partido: sim (31 sim / 11 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2603342-42](../../../../../votacoes/2603342-42/) |
+| 24 fev 2026 | Rejeitada a Emenda de Plenário nº 68. Sim: 105; Não: 232; Total: 337. | Maioria do partido: nao (0 sim / 27 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2600838-46](../../../../../votacoes/2600838-46/) |
 | 10 fev 2026 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 14, de 2026, adotado pelo relator da Comissão de Indústria, Comércio e Serviços. Sim: 317; Não: 61; Abstenção: 2; Total: 380. | Maioria do partido: sim (29 sim / 5 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2601040-31](../../../../../votacoes/2601040-31/) |
 | 02 fev 2026 | Aprovada a Medida Provisória nº 1.313 de 2025, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 415; Não: 29; Abstenção: 2; Total: 446. | Maioria do partido: sim (37 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2557414-32](../../../../../votacoes/2557414-32/) |
 | 02 fev 2026 | Mantido o texto. Sim: 401; Não: 34; Total: 435. | Maioria do partido: sim (41 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2557414-41](../../../../../votacoes/2557414-41/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 | 10 dez 2025 | Aprovada a Emenda de Plenário nº 1. Sim: 318; Não: 141; Abstenção: 3; Total: 462. | Maioria do partido: sim (37 sim / 7 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2595686-31](../../../../../votacoes/2595686-31/) |
 | 09 dez 2025 | Mantido o texto. Sim: 218; Não: 136; Abstenção: 1; Total: 355. | Maioria do partido: sim (29 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2358548-81](../../../../../votacoes/2358548-81/) |
 | 09 dez 2025 | Mantido o texto. Sim: 208; Não: 121; Total: 329. | Maioria do partido: sim (26 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2358548-86](../../../../../votacoes/2358548-86/) |
-| 09 dez 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 2.162, de 2023, adotado pelo relator da Comissão Especial, ressalvados os destaques. Sim: 291; Não: 148; Abstenção: 1; Total: 440. | Maioria do partido: sim (38 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2358548-89](../../../../../votacoes/2358548-89/) |
-| 09 dez 2025 | Mantido o texto. Sim: 230; Não: 34; Abstenção: 4; Total: 268. | Maioria do partido: sim (25 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2358548-90](../../../../../votacoes/2358548-90/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

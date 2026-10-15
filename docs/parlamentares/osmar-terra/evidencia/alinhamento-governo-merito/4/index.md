@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Osmar Terra — Alinhamento com o governo federal, Mérito (página 4)"
-description: "A decomposição completa do número de Osmar Terra: 357 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
+description: "A decomposição completa do número de Osmar Terra: 359 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Osmar Terra: 357 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>30,3%</b> é <b>108</b> coincidências em
-<b>357</b> votações computáveis — as outras 249 estão
+<p><b>30,4%</b> é <b>109</b> coincidências em
+<b>359</b> votações computáveis — as outras 250 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 18 nov 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 5.582, de 2025, adotado pelo relator da Comissão de Segurança Pública e Combate ao Crime Organizado, ressalvados os destaques. Sim: 370; Não: 110; Abstenção: 3; Total: 483. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2579832-62](../../../../../votacoes/2579832-62/) |
+| 18 nov 2025 | Rejeitada a Emenda de Plenário nº 33. Sim: 142; Não: 298; Abstenção: 1; Total: 441. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2579832-95](../../../../../votacoes/2579832-95/) |
 | 18 nov 2025 | Mantido o texto. Sim: 298; Não: 109; Abstenção: 1; Total: 408. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2579832-96](../../../../../votacoes/2579832-96/) |
 | 18 nov 2025 | Rejeitada a preferência. Sim: 107; Não: 298; Abstenção: 2; Total: 407. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2579832-99](../../../../../votacoes/2579832-99/) |
 | 11 nov 2025 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 124, de 2022, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 411; Não: 3; Total: 414. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2481858-53](../../../../../votacoes/2481858-53/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 | 03 nov 2025 | Mantido o texto. Sim: 387; Não: 30; Abstenção: 1; Total: 418. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2576234-41](../../../../../votacoes/2576234-41/) |
 | 30 out 2025 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 169, de 2019. Sim: 386; Não: 15; Abstenção: 1; Total: 402. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2225224-117](../../../../../votacoes/2225224-117/) |
 | 29 out 2025 | Mantido o texto. Sim: 293; Não: 143; Total: 436. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2279186-104](../../../../../votacoes/2279186-104/) |
-| 29 out 2025 | Rejeitada a Emenda de Plenário nº 1. Sim: 143; Não: 263; Abstenção: 1; Total: 407. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2279186-107](../../../../../votacoes/2279186-107/) |
-| 29 out 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 458, de 2021, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 286; Não: 146; Abstenção: 1; Total: 433. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2279186-86](../../../../../votacoes/2279186-86/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Giovani Cherini — Alinhamento com o governo federal, Mérito (página 7)"
-description: "A decomposição completa do número de Giovani Cherini: 385 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
+description: "A decomposição completa do número de Giovani Cherini: 387 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Giovani Cherini: 385 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>33,8%</b> é <b>130</b> coincidências em
-<b>385</b> votações computáveis — as outras 255 estão
+<p><b>33,9%</b> é <b>131</b> coincidências em
+<b>387</b> votações computáveis — as outras 256 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 27 ago 2025 | Mantido o texto. Sim: 243; Não: 133; Total: 376. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2432423-93](../../../../../votacoes/2432423-93/) |
+| 26 ago 2025 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 143, de 2020, da Comissão de Finanças e Tributação. Sim: 371; Não: 10; Total: 381. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2253943-133](../../../../../votacoes/2253943-133/) |
 | 12 ago 2025 | Aprovado o Substitutivo da Comissão de Trabalho, de Administração e Serviço Público ao Projeto de Lei nº 2.664 de 2003. Sim: 397; Não: 9; Abstenção: 1; Total: 407. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [146708-38](../../../../../votacoes/146708-38/) |
 | 12 ago 2025 | Aprovado o Projeto de Lei nº 1.856, de 2025. Sim: 424; Não: 4; Abstenção: 2; Total: 430. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2500260-34](../../../../../votacoes/2500260-34/) |
 | 16 jul 2025 | Aprovado o Substitutivo Reformulado ao Projeto de Lei nº 5.122, de 2023, adotado pelo relator da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, ressalvado o destaque. Sim: 346; Não: 93; Abstenção: 1; Total: 440. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2398530-73](../../../../../votacoes/2398530-73/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 | 14 jul 2025 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 234, de 2024, da Comissão Especial. Sim: 471; Total: 471. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2480979-96](../../../../../votacoes/2480979-96/) |
 | 08 jul 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 2.583, de 2020, adotado pelo relator da Comissão de Saúde, ressalvados os destaques. Sim: 352; Não: 63; Total: 415. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2252295-120](../../../../../votacoes/2252295-120/) |
 | 08 jul 2025 | Mantido o texto. Sim: 316; Não: 110; Total: 426. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2252295-130](../../../../../votacoes/2252295-130/) |
-| 08 jul 2025 | Rejeitada a Preferência. Sim: 103; Não: 281; Total: 384. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2413257-115](../../../../../votacoes/2413257-115/) |
-| 08 jul 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 6.020, de 2023, adotado pela relatora da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 302; Não: 99; Total: 401. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2413257-116](../../../../../votacoes/2413257-116/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alexandre Lindenmeyer — Coesão com o próprio partido, Mérito (página 13)"
-description: "A decomposição completa do número de Alexandre Lindenmeyer: 469 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
+description: "A decomposição completa do número de Alexandre Lindenmeyer: 471 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alexandre Lindenmeyer: 469
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>96,4%</b> é <b>452</b> coincidências em
-<b>469</b> votações computáveis — as outras 17 estão
+<p><b>96,4%</b> é <b>454</b> coincidências em
+<b>471</b> votações computáveis — as outras 17 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>24 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 27 nov 2024 | Aprovado o Projeto de Lei nº 3.819, de 2024. Sim: 364; Não: 47; Abstenção: 1; Total: 412. | Maioria do partido: sim (59 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2461207-38](../../../../../votacoes/2461207-38/) |
+| 19 nov 2024 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 2.148, de 2015, com exceção do art. 56. Sim: 336; Não: 38; Abstenção: 2; Total: 376. | Maioria do partido: sim (52 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [1548579-194](../../../../../votacoes/1548579-194/) |
 | 19 nov 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.958, de 2021, adotada pela relatora da Comissão de Direitos Humanos, Minorias e Igualdade Racial. Sim: 241; Não: 94; Abstenção: 2; Total: 337. | Maioria do partido: sim (54 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2439779-55](../../../../../votacoes/2439779-55/) |
 | 19 nov 2024 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 175, de 2024, com exceção dos artigos 3º e 7º, da supressão do § 4º do art. 4º aprovado pela Câmara e do § 2º do art. 8º. Sim: 356; Não: 35; Total: 391. | Maioria do partido: sim (53 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2466104-95](../../../../../votacoes/2466104-95/) |
 | 19 nov 2024 | Rejeitados os artigos 3º e 7º; a supressão do § 4º do art. 4º aprovado pela Câmara, reestabelecendo o referido dispositivo, e rejeitado o § 2º do art. 8º. Sim: 41; Não: 343; Total: 384. | Maioria do partido: nao (0 sim / 56 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2466104-97](../../../../../votacoes/2466104-97/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 | 11 set 2024 | Rejeitada a Emenda de Plenário nº 18. Sim: 133; Não: 204; Total: 337. | Maioria do partido: nao (0 sim / 50 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2454704-58](../../../../../votacoes/2454704-58/) |
 | 11 set 2024 | Mantido o texto. Sim: 206; Não: 70; Total: 276. | Maioria do partido: sim (50 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454704-64](../../../../../votacoes/2454704-64/) |
 | 11 set 2024 | Mantido o texto. Sim: 200; Não: 80; Abstenção: 1; Total: 281. | Maioria do partido: sim (48 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454704-67](../../../../../votacoes/2454704-67/) |
-| 11 set 2024 | Mantido o texto. Sim: 189; Não: 140; Total: 329. | Maioria do partido: sim (46 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454704-70](../../../../../votacoes/2454704-70/) |
-| 10 set 2024 | Aprovado o Projeto de Lei Complementar nº 72, de 2024. Sim: 432; Não: 2; Abstenção: 1; Total: 435. | Maioria do partido: sim (55 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2447191-41](../../../../../votacoes/2447191-41/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

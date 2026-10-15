@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Any Ortiz — Coesão com o próprio partido, Mérito (página 9)"
-description: "A decomposição completa do número de Any Ortiz: 400 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
+description: "A decomposição completa do número de Any Ortiz: 402 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,10 +11,10 @@ description: "A decomposição completa do número de Any Ortiz: 400 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>64,0%</b> é <b>256</b> coincidências em
-<b>400</b> votações computáveis — as outras 144 estão
+<p><b>64,2%</b> é <b>258</b> coincidências em
+<b>402</b> votações computáveis — as outras 144 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
-repartida em <b>20 páginas</b> de até 20 votações,
+repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 <b>180ª</b>.</p>
 </div>
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 11 jun 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.149, de 2004, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 273; Não: 153; Abstenção: 1; Total: 427. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [264726-144](../../../../../votacoes/264726-144/) |
+| 11 jun 2025 | Mantido o texto. Sim: 256; Não: 153; Abstenção: 2; Total: 411. | Maioria do partido: sim (1 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [264726-148](../../../../../votacoes/264726-148/) |
 | 11 jun 2025 | Mantido o texto. Sim: 249; Não: 154; Abstenção: 2; Total: 405. | Maioria do partido: sim (1 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [264726-157](../../../../../votacoes/264726-157/) |
 | 11 jun 2025 | Aprovado o Projeto de Lei nº 7.906, de 2014, ressalvados os destaques. Sim: 204; Não: 128; Total: 332. | Maioria do partido: nao (0 sim / 1 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [622019-73](../../../../../votacoes/622019-73/) |
 | 10 jun 2025 | Aprovada a Emenda de Plenário n° 1. Sim: 318; Não: 116; Total: 434. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2355104-126](../../../../../votacoes/2355104-126/) |
@@ -43,13 +45,11 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 | 21 mai 2025 | Mantido o texto. Sim: 290; Não: 134; Total: 424. | Maioria do partido: nao (0 sim / 1 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2494408-43](../../../../../votacoes/2494408-43/) |
 | 07 mai 2025 | Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Sustação de Andamento de Ação Penal nº 1, de 2025, pela sustação do andamento da Ação Penal. . Sim: 315; Não: 143; Abstenção: 4; Total: 462. | Maioria do partido: nao (0 sim / 1 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2494565-52](../../../../../votacoes/2494565-52/) |
 | 06 mai 2025 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 177, de 2023, adotado pelo relator da Comissão de Finanças e Tributação. Sim: 270; Não: 207; Abstenção: 1; Total: 478. | Maioria do partido: nao (0 sim / 3 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2383019-54](../../../../../votacoes/2383019-54/) |
-| 05 mai 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 6.366, de 2019, adotada pela relatora da Comissão de Cultura, ressalvados os destaques. Sim: 233; Não: 125; Total: 358. | Maioria do partido: sim (1 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2233324-86](../../../../../votacoes/2233324-86/) |
-| 29 abr 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 3.469, de 2024, adotado pelo relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvados os destaques. Sim: 261; Não: 108; Total: 369. | Maioria do partido: sim (1 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2456731-71](../../../../../votacoes/2456731-71/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">
 <a class="passo" href="../8/" rel="prev">← Anteriores</a>
-<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../7/">7</a><a href="../8/">8</a><b aria-current="page">9</b><a href="../10/">10</a><a href="../11/">11</a><span class="salto">…</span><a href="../20/">20</a></span>
+<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../7/">7</a><a href="../8/">8</a><b aria-current="page">9</b><a href="../10/">10</a><a href="../11/">11</a><span class="salto">…</span><a href="../21/">21</a></span>
 <a class="passo" href="../10/" rel="next">Próximas →</a>
 </nav>
 

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcon — Alinhamento com o governo federal, Procedimental (página 15)"
-description: "A decomposição completa do número de Marcon: 359 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
+description: "A decomposição completa do número de Marcon: 360 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcon: 359 votações em 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>96,7%</b> é <b>347</b> coincidências em
-<b>359</b> votações computáveis — as outras 12 estão
+<p><b>96,7%</b> é <b>348</b> coincidências em
+<b>360</b> votações computáveis — as outras 12 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 14 dez 2023 | Rejeitado o Requerimento. Sim: 38; não: 219; abstenção: 2; total: 259. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2387579-19](../../../../../votacoes/2387579-19/) |
 | 13 dez 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 370; não: 5; abstenção: 1; total: 376. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2410669-8](../../../../../votacoes/2410669-8/) |
 | 13 dez 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 309; não: 94; total: 403. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2411730-8](../../../../../votacoes/2411730-8/) |
 | 13 dez 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 351; não: 102; total: 453. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2412712-8](../../../../../votacoes/2412712-8/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 | 07 nov 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 277; não: 33 ; total:310. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2390639-8](../../../../../votacoes/2390639-8/) |
 | 07 nov 2023 | Rejeitado o Requerimento. Sim: 94; não: 279; total: 373. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2397925-16](../../../../../votacoes/2397925-16/) |
 | 07 nov 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 309; não: 35; total: 344. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2399396-7](../../../../../votacoes/2399396-7/) |
-| 30 out 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 358; não: 55; total: 413. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2400115-8](../../../../../votacoes/2400115-8/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

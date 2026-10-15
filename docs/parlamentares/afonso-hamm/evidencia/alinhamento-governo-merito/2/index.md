@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Hamm — Alinhamento com o governo federal, Mérito (página 2)"
-description: "A decomposição completa do número de Afonso Hamm: 353 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
+description: "A decomposição completa do número de Afonso Hamm: 354 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Afonso Hamm: 353 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>49,6%</b> é <b>175</b> coincidências em
-<b>353</b> votações computáveis — as outras 178 estão
+<p><b>49,4%</b> é <b>175</b> coincidências em
+<b>354</b> votações computáveis — as outras 179 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 07 abr 2026 | Mantido o texto. Sim: 268; Não: 99; Total: 367. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2581700-31](../../../../../votacoes/2581700-31/) |
 | 25 mar 2026 | Aprovado o Projeto de Lei nº 6.359, de 2025. Sim: 258; Não: 140; Abstenção: 1; Total: 399. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2595984-34](../../../../../votacoes/2595984-34/) |
 | 25 mar 2026 | Aprovado o Projeto de Lei Complementar nº 77, de 2026, ressalvado o destaque. Sim: 391; Não: 33; Abstenção: 2; Total: 426. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2611717-33](../../../../../votacoes/2611717-33/) |
 | 24 mar 2026 | Mantido o texto. Sim: 295; Não: 120; Abstenção: 1; Total: 416. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2487399-57](../../../../../votacoes/2487399-57/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 | 16 dez 2025 | Mantido o texto. Sim: 286; Não: 116; Total: 402. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2520670-66](../../../../../votacoes/2520670-66/) |
 | 15 dez 2025 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 108, de 2024, com parecer pela aprovação, excetuadas as modificações indicadas no Parecer da Comissão de Indústria, Comércio e Serviços. Sim: 330; Não: 104; Total: 434. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2438459-113](../../../../../votacoes/2438459-113/) |
 | 15 dez 2025 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 163, de 2025. Sim: 320; Não: 109; Total: 429. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2541109-88](../../../../../votacoes/2541109-88/) |
-| 15 dez 2025 | Aprovado o Projeto de Lei nº 4.278, de 2025, ressalvado o destaque. Sim: 325; Não: 119; Abstenção: 3; Total: 447. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2554285-48](../../../../../votacoes/2554285-48/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

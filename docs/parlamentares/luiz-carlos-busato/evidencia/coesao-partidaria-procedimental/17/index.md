@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Luiz Carlos Busato — Coesão com o próprio partido, Procedimental (página 17)"
-description: "A decomposição completa do número de Luiz Carlos Busato: 471 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
+description: "A decomposição completa do número de Luiz Carlos Busato: 472 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Luiz Carlos Busato: 471 vo
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>94,7%</b> é <b>446</b> coincidências em
-<b>471</b> votações computáveis — as outras 25 estão
+<p><b>94,7%</b> é <b>447</b> coincidências em
+<b>472</b> votações computáveis — as outras 25 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>24 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 16 abr 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 293; não: 111; abstenção: 1; total: 405. | Maioria do partido: sim (35 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2401881-9](../../../../../votacoes/2401881-9/) |
 | 16 abr 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 408; não: 1; total: 409. | Maioria do partido: sim (37 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2408682-8](../../../../../votacoes/2408682-8/) |
 | 16 abr 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 366; total: 366. | Maioria do partido: sim (36 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2408948-7](../../../../../votacoes/2408948-7/) |
 | 09 abr 2024 | Rejeitado o Requerimento. Sim: 105; não: 292; total: 397. | Maioria do partido: nao (6 sim / 34 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2419197-28](../../../../../votacoes/2419197-28/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 | 28 fev 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 395; não: 8; abstenção: 2; total: 405. | Maioria do partido: sim (43 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2408107-9](../../../../../votacoes/2408107-9/) |
 | 27 fev 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 258; não: 164; abstenção: 3; total: 425. | Maioria do partido: nao (7 sim / 37 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2379378-9](../../../../../votacoes/2379378-9/) |
 | 27 fev 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 285; não: 103; abstenção: 1; total: 389. | Maioria do partido: sim (31 sim / 9 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2403068-11](../../../../../votacoes/2403068-11/) |
-| 27 fev 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 339; não: 82; abstenção: 1; total: 422. | Maioria do partido: sim (31 sim / 13 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2415411-9](../../../../../votacoes/2415411-9/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

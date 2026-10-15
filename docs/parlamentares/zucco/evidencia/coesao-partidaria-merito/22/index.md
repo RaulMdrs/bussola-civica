@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Zucco — Coesão com o próprio partido, Mérito (página 22)"
-description: "A decomposição completa do número de Zucco: 551 votações em 28 páginas, uma por linha, com link para a fonte. Esta traz da 421ª à 440ª."
+description: "A decomposição completa do número de Zucco: 553 votações em 28 páginas, uma por linha, com link para a fonte. Esta traz da 421ª à 440ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Zucco: 551 votações em 2
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>82,8%</b> é <b>456</b> coincidências em
-<b>551</b> votações computáveis — as outras 95 estão
+<p><b>82,8%</b> é <b>458</b> coincidências em
+<b>553</b> votações computáveis — as outras 95 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>28 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>421ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>421ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 15 dez 2023 | Mantido o texto. Sim: 341; não: 153; abstenção: 4; total: 498. | Maioria do partido: sim (26 sim / 14 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-176](../../../../../votacoes/259094-176/) |
+| 15 dez 2023 | Suprimido o texto. Sim: 299; não: 192; abstenção: 2; total: 493. | Maioria do partido: nao (8 sim / 32 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [259094-179](../../../../../votacoes/259094-179/) |
 | 15 dez 2023 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques. Sim: 365; não: 118; abstenção: 1; total: 484. | Maioria do partido: sim (36 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-190](../../../../../votacoes/259094-190/) |
 | 15 dez 2023 | Mantido o texto. Sim: 333; não: 154; total: 487. | Maioria do partido: sim (34 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-193](../../../../../votacoes/259094-193/) |
 | 15 dez 2023 | Suprimido o texto. Sim: 293; não: 198; abstenção: 1; total: 492. | Maioria do partido: sim (28 sim / 11 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-199](../../../../../votacoes/259094-199/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>421ª</b> à
 | 29 nov 2023 | Mantido o texto. Sim: 276; não: 105; total: 381. | Maioria do partido: sim (34 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2125189-191](../../../../../votacoes/2125189-191/) |
 | 29 nov 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 11.247, de 2018, adotada pelo relator da Comissão de Minas e Energia, ressalvados os destaques. Sim: 403; não: 16; total: 419. | Maioria do partido: sim (36 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2190084-79](../../../../../votacoes/2190084-79/) |
 | 29 nov 2023 | Mantido o texto. Sim: 387; não: 38; total: 425. | Maioria do partido: sim (36 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2190084-88](../../../../../votacoes/2190084-88/) |
-| 29 nov 2023 | Aprovada a Emenda de Plenário nº 7. Sim: 253; não: 160; abstenção: 1; total: 414. | Maioria do partido: sim (33 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2190084-93](../../../../../votacoes/2190084-93/) |
-| 29 nov 2023 | Aprovado o Projeto de Lei nº 3.268, de 2021. Sim: 286; não: 121; abstenção: 2; total: 409. | Maioria do partido: sim (23 sim / 10 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2299903-53](../../../../../votacoes/2299903-53/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

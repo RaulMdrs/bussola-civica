@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Maria do Rosário — Alinhamento com o governo federal, Procedimental (página 15)"
-description: "A decomposição completa do número de Maria do Rosário: 285 votações em 15 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 285ª."
+description: "A decomposição completa do número de Maria do Rosário: 286 votações em 15 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 286ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Maria do Rosário: 285 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,9%</b> é <b>279</b> coincidências em
-<b>285</b> votações computáveis — as outras 6 estão
+<p><b>97,9%</b> é <b>280</b> coincidências em
+<b>286</b> votações computáveis — as outras 6 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>15 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
-<b>285ª</b>.</p>
+<b>286ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 17 mai 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 367; não: 102; abstenção: 1; total: 470. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2362292-8](../../../../../votacoes/2362292-8/) |
 | 16 mai 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 274; não: 157; abstenção: 1; total: 432. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2359287-7](../../../../../votacoes/2359287-7/) |
 | 16 mai 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 356; não: 89; abstenção: 1; total: 446. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2362137-8](../../../../../votacoes/2362137-8/) |
 | 03 mai 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 322; não: 136; abstenção: 2; total: 460. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2357871-9](../../../../../votacoes/2357871-9/) |

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daniel Trzeciak — Coesão com o próprio partido, Mérito (página 16)"
-description: "A decomposição completa do número de Daniel Trzeciak: 488 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
+description: "A decomposição completa do número de Daniel Trzeciak: 490 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Daniel Trzeciak: 488 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>72,3%</b> é <b>353</b> coincidências em
-<b>488</b> votações computáveis — as outras 135 estão
+<p><b>72,4%</b> é <b>355</b> coincidências em
+<b>490</b> votações computáveis — as outras 135 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 28 mai 2024 | Mantido o texto. Sim: 266; não: 139; abstenção: 1; total: 406. | Maioria do partido: sim (5 sim / 4 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2422697-69](../../../../../votacoes/2422697-69/) |
+| 28 mai 2024 | Aprovada a Emenda de Plenário n° 75. Sim: 273; não: 111; total: 384. | Maioria do partido: nao (2 sim / 7 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2422697-72](../../../../../votacoes/2422697-72/) |
 | 28 mai 2024 | Mantido o texto. Sim: 280; não: 121; total: 401. | Maioria do partido: sim (6 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2422697-75](../../../../../votacoes/2422697-75/) |
 | 28 mai 2024 | Rejeitada a Emenda de Plenário n° 7. Sim: 187; não: 202; abstenção: 1; total: 390. | Maioria do partido: sim (8 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422697-83](../../../../../votacoes/2422697-83/) |
 | 22 mai 2024 | Mantido o texto. Sim: 320; não: 113; total: 433. | Maioria do partido: sim (9 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2349493-103](../../../../../votacoes/2349493-103/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 | 14 mai 2024 | Rejeitada a Emenda de Plenário nº 4. Sim: 184; não: 223; abstenção: 1; total: 409. | Maioria do partido: sim (10 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2433327-60](../../../../../votacoes/2433327-60/) |
 | 14 mai 2024 | Mantido o texto. Sim: 277; não: 145; total: 422. | Maioria do partido: nao (2 sim / 9 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2433327-66](../../../../../votacoes/2433327-66/) |
 | 08 mai 2024 | Aprovado o Projeto de Lei nº 1.366, de 2022. Sim: 309; não: 131; abstenção: 2; total: 442. | Maioria do partido: sim (8 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2324721-94](../../../../../votacoes/2324721-94/) |
-| 16 abr 2024 | Aprovado o Substitutivo ao Projeto de Lei nº 1.548, de 2022, adotado pelo relator da Comissão de Finanças e Tributação. Sim: 383; não: 19; total: 402. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2326582-61](../../../../../votacoes/2326582-61/) |
-| 10 abr 2024 | Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Comunicação de Medida Cautelar nº 1/2024. Sim: 277; não: 129; abstenção: 28; total: 434. | Maioria do partido: sim (6 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2423268-40](../../../../../votacoes/2423268-40/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

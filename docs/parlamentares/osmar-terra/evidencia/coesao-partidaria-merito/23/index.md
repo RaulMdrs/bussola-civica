@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Osmar Terra — Coesão com o próprio partido, Mérito (página 23)"
-description: "A decomposição completa do número de Osmar Terra: 447 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 441ª à 447ª."
+description: "A decomposição completa do número de Osmar Terra: 449 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 441ª à 449ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Osmar Terra: 447 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>63,8%</b> é <b>285</b> coincidências em
-<b>447</b> votações computáveis — as outras 162 estão
+<p><b>63,9%</b> é <b>287</b> coincidências em
+<b>449</b> votações computáveis — as outras 162 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>441ª</b> à
-<b>447ª</b>.</p>
+<b>449ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>441ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 23 mai 2023 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 93, de 2023, adotado pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 372; não: 108; abstenção: 1; total: 481. | Maioria do partido: sim (32 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2357053-47](../../../../../votacoes/2357053-47/) |
+| 23 mai 2023 | Rejeitadas as Emendas de Plenário ao Substitutivo, ressalvados os destaques. Sim: 102; não: 346; abstenção: 1; total: 449. | Maioria do partido: nao (2 sim / 30 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2357053-50](../../../../../votacoes/2357053-50/) |
 | 23 mai 2023 | Mantido o texto. Sim: 429; não: 20; abstenção: 1; total: 450. | Maioria do partido: sim (34 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357053-53](../../../../../votacoes/2357053-53/) |
 | 03 mai 2023 | Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 98, de 2023, adotado pelo relator da Comissão de Desenvolvimento Urbano. Sim: 295; não: 136; abstenção: 1; total: 432. | Maioria do partido: sim (30 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2355135-49](../../../../../votacoes/2355135-49/) |
 | 27 abr 2023 | Aprovada a Emenda de Plenário nº 7. Sim: 181; não: 171; total: 352. | Maioria do partido: nao (7 sim / 21 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2345484-83](../../../../../votacoes/2345484-83/) |

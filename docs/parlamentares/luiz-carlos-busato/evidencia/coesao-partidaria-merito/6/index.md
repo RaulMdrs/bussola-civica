@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Luiz Carlos Busato — Coesão com o próprio partido, Mérito (página 6)"
-description: "A decomposição completa do número de Luiz Carlos Busato: 495 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
+description: "A decomposição completa do número de Luiz Carlos Busato: 497 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Luiz Carlos Busato: 495 vo
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>91,9%</b> é <b>455</b> coincidências em
-<b>495</b> votações computáveis — as outras 40 estão
+<p><b>91,8%</b> é <b>456</b> coincidências em
+<b>497</b> votações computáveis — as outras 41 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 05 nov 2025 | Mantido o texto. Sim: 295; Não: 118; Total: 413. | Maioria do partido: sim (31 sim / 16 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2448069-50](../../../../../votacoes/2448069-50/) |
+| 05 nov 2025 | Aprovado o Projeto de Decreto Legislativo nº 3, de 2025. Sim: 317; Não: 111; Abstenção: 1; Total: 429. | Maioria do partido: sim (45 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2482078-57](../../../../../votacoes/2482078-57/) |
 | 05 nov 2025 | Mantido o texto. Sim: 382; Não: 17; Total: 399. | Maioria do partido: sim (44 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2483863-74](../../../../../votacoes/2483863-74/) |
 | 05 nov 2025 | Aprovado o Projeto de Lei nº 3.292, de 2025. Sim: 265; Não: 33; Total: 298. | Maioria do partido: sim (28 sim / 7 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2533204-41](../../../../../votacoes/2533204-41/) |
 | 04 nov 2025 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 39, de 2022. Sim: 417; Não: 6; Abstenção: 1; Total: 424. | Maioria do partido: sim (42 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2122682-86](../../../../../votacoes/2122682-86/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 | 29 out 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 458, de 2021, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 286; Não: 146; Abstenção: 1; Total: 433. | Maioria do partido: sim (30 sim / 14 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2279186-86](../../../../../votacoes/2279186-86/) |
 | 29 out 2025 | Mantido o texto. Sim: 260; Não: 132; Total: 392. | Maioria do partido: sim (24 sim / 20 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2279186-92](../../../../../votacoes/2279186-92/) |
 | 29 out 2025 | Mantido o texto. Sim: 276; Não: 125; Total: 401. | Maioria do partido: sim (23 sim / 16 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2279186-94](../../../../../votacoes/2279186-94/) |
-| 29 out 2025 | Mantido o texto. Sim: 269; Não: 152; Total: 421. | Maioria do partido: sim (29 sim / 14 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2279186-97](../../../../../votacoes/2279186-97/) |
-| 29 out 2025 | Aprovada a Emenda de Plenário nº 5. Sim: 223; Não: 174; Total: 397. | Maioria do partido: nao (17 sim / 21 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2279186-99](../../../../../votacoes/2279186-99/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

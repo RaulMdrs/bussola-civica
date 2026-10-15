@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Motta — Coesão com o próprio partido, Mérito (página 17)"
-description: "A decomposição completa do número de Afonso Motta: 485 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
+description: "A decomposição completa do número de Afonso Motta: 487 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Afonso Motta: 485 votaçõ
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>92,0%</b> é <b>446</b> coincidências em
-<b>485</b> votações computáveis — as outras 39 estão
+<p><b>91,8%</b> é <b>447</b> coincidências em
+<b>487</b> votações computáveis — as outras 40 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 26 mar 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 3, de 2024, adotada pela relatora da Comissão de Indústria, Comércio e Serviços. Sim: 378; não: 25; total: 403. | Maioria do partido: sim (14 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2416826-49](../../../../../votacoes/2416826-49/) |
+| 20 mar 2024 | Mantido o texto. Sim: 279; não: 93; total: 372. | Maioria do partido: sim (15 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2269745-79](../../../../../votacoes/2269745-79/) |
 | 20 mar 2024 | Rejeitada a Emenda de Plenário nº 1. Sim: 195; não: 222; total: 417. | Maioria do partido: sim (15 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2269745-81](../../../../../votacoes/2269745-81/) |
 | 20 mar 2024 | Mantido o texto. Sim: 225; não: 187; total: 412. | Maioria do partido: sim (12 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2269745-84](../../../../../votacoes/2269745-84/) |
 | 20 mar 2024 | Mantido o texto. Sim: 283; não: 135; total: 418. | Maioria do partido: sim (15 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2269745-86](../../../../../votacoes/2269745-86/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 | 13 mar 2024 | Mantido o texto. Sim: 288; não: 62; abstenção: 1; total: 351. | Maioria do partido: sim (14 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2238434-87](../../../../../votacoes/2238434-87/) |
 | 13 mar 2024 | Rejeitada a Emenda de Plenário nº 18. Sim: 98; não: 314; total: 412. | Maioria do partido: nao (0 sim / 13 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2238434-89](../../../../../votacoes/2238434-89/) |
 | 13 mar 2024 | Rejeitada a Emenda de Plenário nº 21. Sim: 191; não; 232; abstenção: 2; total: 425. | Maioria do partido: nao (0 sim / 15 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2238434-94](../../../../../votacoes/2238434-94/) |
-| 12 mar 2024 | Rejeitado o Recurso nº 3/2024, contra Parecer Terminativo da Comissão de Finanças e Tributação às Emendas de Plenário, de 2024. Sim: 139; não: 290; total: 429. | Maioria do partido: nao (1 sim / 15 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2417025-45](../../../../../votacoes/2417025-45/) |
-| 12 mar 2024 | Rejeitada a preferência. Sim: 130; não: 303; total: 433. | Maioria do partido: nao (0 sim / 16 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2417025-55](../../../../../votacoes/2417025-55/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

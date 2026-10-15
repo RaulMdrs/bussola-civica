@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Bibo Nunes — Coesão com o próprio partido, Mérito (página 26)"
-description: "A decomposição completa do número de Bibo Nunes: 521 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 501ª à 520ª."
+description: "A decomposição completa do número de Bibo Nunes: 523 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 501ª à 520ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Bibo Nunes: 521 votações
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>95,0%</b> é <b>495</b> coincidências em
-<b>521</b> votações computáveis — as outras 26 estão
+<p><b>95,0%</b> é <b>497</b> coincidências em
+<b>523</b> votações computáveis — as outras 26 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>27 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>501ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>501ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 30 mai 2023 | Mantido o texto. Sim: 290; não: 142; abstenção: 1; total: 433. | Maioria do partido: sim (80 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [345311-279](../../../../../votacoes/345311-279/) |
+| 24 mai 2023 | Rejeitada a Emenda nº 1 e restabelecidos os dispositivos aprovados pela câmara consubstanciados no Projeto de Lei de Conversão nº 6, de 2023. Sim: 66; não: 364; abtenção: 2; total: 432. | Maioria do partido: nao (1 sim / 88 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2345368-78](../../../../../votacoes/2345368-78/) |
 | 24 mai 2023 | Mantido o texto. Sim: 326; não: 138; total: 464. | Maioria do partido: nao (8 sim / 74 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2357053-59](../../../../../votacoes/2357053-59/) |
 | 24 mai 2023 | Mantido o texto. Sim: 316; não: 160; abstenção: 3; total: 479. | Maioria do partido: nao (14 sim / 75 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2357053-62](../../../../../votacoes/2357053-62/) |
 | 24 mai 2023 | Mantido o texto. Sim: 306; não: 170; total: 476. | Maioria do partido: nao (13 sim / 77 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2357053-65](../../../../../votacoes/2357053-65/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>501ª</b> à
 | 25 abr 2023 | Mantido o texto. Sim: 282; não: 115; total: 397. | Maioria do partido: nao (4 sim / 80 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2344938-60](../../../../../votacoes/2344938-60/) |
 | 25 abr 2023 | Rejeitada a Emenda de Comissão nº 9. Sim: 132; não: 242; total: 374. | Maioria do partido: nao (2 sim / 69 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2344938-71](../../../../../votacoes/2344938-71/) |
 | 30 mar 2023 | Aprovada a Emenda de Plenário nº 4. Sim: 150; não: 122; total: 272. | Maioria do partido: sim (60 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345368-50](../../../../../votacoes/2345368-50/) |
-| 30 mar 2023 | Rejeitada a Emenda de Comissão nº 15. Sim: 143; não: 195; total: 338. | Maioria do partido: sim (64 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345368-56](../../../../../votacoes/2345368-56/) |
-| 30 mar 2023 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e à adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 327; não: 27; total: 354. | Maioria do partido: sim (73 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345378-38](../../../../../votacoes/2345378-38/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

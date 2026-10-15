@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Maria do Rosário — Alinhamento com o governo federal, Mérito (página 12)"
-description: "A decomposição completa do número de Maria do Rosário: 346 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
+description: "A decomposição completa do número de Maria do Rosário: 348 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Maria do Rosário: 346 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>95,1%</b> é <b>329</b> coincidências em
-<b>346</b> votações computáveis — as outras 17 estão
+<p><b>95,1%</b> é <b>331</b> coincidências em
+<b>348</b> votações computáveis — as outras 17 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 22 mai 2024 | Mantido o texto. Sim: 320; não: 113; total: 433. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2349493-103](../../../../../votacoes/2349493-103/) |
+| 22 mai 2024 | Rejeitado o Destaque. Sim: 148; não: 292; total: 440. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2349493-118](../../../../../votacoes/2349493-118/) |
 | 21 mai 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 709, de 2023, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 336; não: 120; abstenção: 1; total: 457. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2349493-82](../../../../../votacoes/2349493-82/) |
 | 21 mai 2024 | Mantido o texto. Sim: 322; não: 116; total: 438. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2349493-86](../../../../../votacoes/2349493-86/) |
 | 21 mai 2024 | Mantido o texto. Sim: 320; não: 119; total: 439. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2349493-89](../../../../../votacoes/2349493-89/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 | 20 mar 2024 | Mantido o texto. Sim: 382; não: 21; abstenção: 5; total: 408. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2269745-88](../../../../../votacoes/2269745-88/) |
 | 20 mar 2024 | Mantido o texto. Sim: 315; não: 87; abstenção: 1; total: 403. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2269745-90](../../../../../votacoes/2269745-90/) |
 | 20 mar 2024 | Aprovada a Emenda de Plenário nº 20. Sim: 306; não: 121; abstenção: 1; total: 428. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2269745-93](../../../../../votacoes/2269745-93/) |
-| 20 mar 2024 | Rejeitada a Emenda de Plenário nº 40. Sim: 35; não: 375; total: 410. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2399598-70](../../../../../votacoes/2399598-70/) |
-| 19 mar 2024 | Aprovado o Substitutivo ao Projeto de Lei nº 6.233, de 2023, adotado pelo relator da Comissão de Finanças e Tributação. Sim: 388; não: 3; abstenção: 1; total: 392. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2416729-28](../../../../../votacoes/2416729-28/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

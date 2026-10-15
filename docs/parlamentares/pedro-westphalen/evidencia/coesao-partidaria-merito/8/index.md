@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Pedro Westphalen — Coesão com o próprio partido, Mérito (página 8)"
-description: "A decomposição completa do número de Pedro Westphalen: 493 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
+description: "A decomposição completa do número de Pedro Westphalen: 495 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Pedro Westphalen: 493 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>70,0%</b> é <b>345</b> coincidências em
-<b>493</b> votações computáveis — as outras 148 estão
+<p><b>70,1%</b> é <b>347</b> coincidências em
+<b>495</b> votações computáveis — as outras 148 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 17 set 2025 | Aprovada a Medida Provisória nº 1.300, de 2025, na forma da Emenda Aglutinativa nº 1, ressalvados os destaques. Sim: 423; Não: 36; Total: 459. | Maioria do partido: sim (40 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2515300-38](../../../../../votacoes/2515300-38/) |
+| 17 set 2025 | Mantido o texto. Sim: 321; Não: 117; Total: 438. | Maioria do partido: sim (32 sim / 8 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2515300-64](../../../../../votacoes/2515300-64/) |
 | 17 set 2025 | Mantido o texto. Sim: 322; Não: 125; Abstenção: 1; Total: 448. | Maioria do partido: sim (33 sim / 10 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2515300-71](../../../../../votacoes/2515300-71/) |
 | 16 set 2025 | Aprovado, em primeiro turno, o Substitutivo Reformulado à Proposta de Emenda à Constituição nº 3, de 2021, adotado pelo Relator da Comissão Especial. Sim: 353; Não: 134; Abstenção: 1; Total: 488. | Maioria do partido: sim (45 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2270800-135](../../../../../votacoes/2270800-135/) |
 | 16 set 2025 | Mantido o texto. Sim: 322; Não: 147; Abstenção: 1; Total: 470. | Maioria do partido: sim (45 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2270800-148](../../../../../votacoes/2270800-148/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 | 19 ago 2025 | Mantido o texto. Sim: 230; Não: 143; Total: 373. | Maioria do partido: sim (22 sim / 15 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2530336-46](../../../../../votacoes/2530336-46/) |
 | 19 ago 2025 | Mantido o texto. Sim: 228; Não: 143; Abstenção: 1; Total: 372. | Maioria do partido: nao (17 sim / 18 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2530336-50](../../../../../votacoes/2530336-50/) |
 | 19 ago 2025 | Mantido o texto. Sim: 246; Não: 146; Abstenção: 1; Total: 393. | Maioria do partido: sim (23 sim / 17 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2530336-53](../../../../../votacoes/2530336-53/) |
-| 12 ago 2025 | Aprovado o Substitutivo da Comissão de Trabalho, de Administração e Serviço Público ao Projeto de Lei nº 2.664 de 2003. Sim: 397; Não: 9; Abstenção: 1; Total: 407. | Maioria do partido: sim (35 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [146708-38](../../../../../votacoes/146708-38/) |
-| 12 ago 2025 | Aprovado o Projeto de Lei nº 1.856, de 2025. Sim: 424; Não: 4; Abstenção: 2; Total: 430. | Maioria do partido: sim (40 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2500260-34](../../../../../votacoes/2500260-34/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

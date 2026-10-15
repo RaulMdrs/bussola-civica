@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Carlos Gomes — Alinhamento com o governo federal, Procedimental (página 5)"
-description: "A decomposição completa do número de Carlos Gomes: 119 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
+description: "A decomposição completa do número de Carlos Gomes: 120 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Carlos Gomes: 119 votaçõ
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>74,8%</b> é <b>89</b> coincidências em
-<b>119</b> votações computáveis — as outras 30 estão
+<p><b>75,0%</b> é <b>90</b> coincidências em
+<b>120</b> votações computáveis — as outras 30 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>6 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 04 set 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 360; não: 18; total: 378. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2336833-9](../../../../../votacoes/2336833-9/) |
 | 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 415; total: 415. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2331282-8](../../../../../votacoes/2331282-8/) |
 | 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 390; não: 15; total: 405. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2377273-8](../../../../../votacoes/2377273-8/) |
 | 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 408; não: 1; total: 409. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2377516-12](../../../../../votacoes/2377516-12/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 | 05 jul 2023 | Rejeitado o Requerimento. Sim: 148; não: 302; abstenção: 1; total: 451. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2196833-307](../../../../../votacoes/2196833-307/) |
 | 20 jun 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 278; não: 88; abstenção: 4; total: 370. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2369594-8](../../../../../votacoes/2369594-8/) |
 | 31 mai 2023 | Rejeitado o Requerimento. Sim: 130; não: 337; abstenção: 1; total: 468. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2345493-31](../../../../../votacoes/2345493-31/) |
-| 31 mai 2023 | Aprovado o Requerimento. Sim: 324; não: 114; abstenção: 1; total: 439. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345493-35](../../../../../votacoes/2345493-35/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

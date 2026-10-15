@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Any Ortiz — Alinhamento com o governo federal, Mérito (página 12)"
-description: "A decomposição completa do número de Any Ortiz: 384 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
+description: "A decomposição completa do número de Any Ortiz: 386 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Any Ortiz: 384 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>35,4%</b> é <b>136</b> coincidências em
-<b>384</b> votações computáveis — as outras 248 estão
+<p><b>35,5%</b> é <b>137</b> coincidências em
+<b>386</b> votações computáveis — as outras 249 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 17 dez 2024 | Aprovada a Emenda de Redação n° 2. Sim: 314; Não: 117; Abstenção: 1; Total: 432. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2430143-144](../../../../../votacoes/2430143-144/) |
+| 17 dez 2024 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 210, de 2024, adotado pelo relator da Comissão Especial. Sim: 318; Não: 149; Total: 467. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2473389-58](../../../../../votacoes/2473389-58/) |
 | 17 dez 2024 | Rejeitada a Emenda de Plenário nº 9. Sim: 227; Não: 233; Abstenção: 1; Total: 461. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2473389-62](../../../../../votacoes/2473389-62/) |
 | 17 dez 2024 | Rejeitada a Emenda de Plenário nº 19. Sim: 186; Não: 256; Total: 442. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2473389-65](../../../../../votacoes/2473389-65/) |
 | 17 dez 2024 | Rejeitada a Emenda de Plenário n° 38. Sim: 59; Não: 385; Abstenção: 1; Total: 445. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2473389-68](../../../../../votacoes/2473389-68/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 | 16 out 2024 | Rejeitada a Emenda de Plenário nº 1. Sim: 149; Não: 204; Total: 353. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [565397-185](../../../../../votacoes/565397-185/) |
 | 11 set 2024 | Aprovado o Projeto de Lei nº 1.847, de 2024, ressalvados os destaques. Sim: 253; Não: 67; Abstenção: 4; Total: 324. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454704-53](../../../../../votacoes/2454704-53/) |
 | 11 set 2024 | Mantido o texto. Sim: 200; Não: 80; Abstenção: 1; Total: 281. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2454704-67](../../../../../votacoes/2454704-67/) |
-| 11 set 2024 | Mantido o texto. Sim: 189; Não: 140; Total: 329. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2454704-70](../../../../../votacoes/2454704-70/) |
-| 10 set 2024 | Aprovado o Projeto de Lei Complementar nº 72, de 2024. Sim: 432; Não: 2; Abstenção: 1; Total: 435. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2447191-41](../../../../../votacoes/2447191-41/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daiana Santos — Alinhamento com o governo federal, Mérito (página 11)"
-description: "A decomposição completa do número de Daiana Santos: 348 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
+description: "A decomposição completa do número de Daiana Santos: 350 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Daiana Santos: 348 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>95,1%</b> é <b>331</b> coincidências em
-<b>348</b> votações computáveis — as outras 17 estão
+<p><b>95,1%</b> é <b>333</b> coincidências em
+<b>350</b> votações computáveis — as outras 17 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 30 out 2024 | Mantido o texto. Sim: 292; Não: 106; Total: 398. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-66](../../../../../votacoes/2438459-66/) |
+| 30 out 2024 | Aprovada a Emenda Aglutinativa n° 1. Sim: 403; Total: 403. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-69](../../../../../votacoes/2438459-69/) |
 | 30 out 2024 | Rejeitada a Emenda de Plenário n° 8. Sim: 156; Não: 245; Total: 401. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2456554-50](../../../../../votacoes/2456554-50/) |
 | 30 out 2024 | Rejeitada a Emenda de Plenário n° 9. Sim: 135; Não: 229; Total: 364. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2456554-54](../../../../../votacoes/2456554-54/) |
 | 30 out 2024 | Aprovada a Emenda de Plenario n° 10. Sim: 227; Não: 198; Abstenção: 2; Total: 427. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2456554-57](../../../../../votacoes/2456554-57/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 | 14 ago 2024 | Aprovado o Projeto de Lei Complementar nº 57, de 2022. Sim: 423; não: 21; abstenção: 1; total: 445. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2320081-66](../../../../../votacoes/2320081-66/) |
 | 14 ago 2024 | Aprovada a Emenda da Comissão de Finanças e Tributação. Sim: 421; não: 12; total: 433. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2320081-68](../../../../../votacoes/2320081-68/) |
 | 14 ago 2024 | Aprovado o Projeto de Lei nº 397, de 2024, ressalvados os destaques. Sim: 318; não: 76; total: 394. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2448974-43](../../../../../votacoes/2448974-43/) |
-| 14 ago 2024 | Mantido o texto. Sim: 283; não: 64; abstenção: 2; total: 349. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2448974-50](../../../../../votacoes/2448974-50/) |
-| 14 ago 2024 | Mantido o texto. Sim: 292; não: 89; total: 381. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2448974-56](../../../../../votacoes/2448974-56/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

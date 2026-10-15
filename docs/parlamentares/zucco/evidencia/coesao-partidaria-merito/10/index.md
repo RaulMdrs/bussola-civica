@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Zucco — Coesão com o próprio partido, Mérito (página 10)"
-description: "A decomposição completa do número de Zucco: 551 votações em 28 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
+description: "A decomposição completa do número de Zucco: 553 votações em 28 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Zucco: 551 votações em 2
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>82,8%</b> é <b>456</b> coincidências em
-<b>551</b> votações computáveis — as outras 95 estão
+<p><b>82,8%</b> é <b>458</b> coincidências em
+<b>553</b> votações computáveis — as outras 95 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>28 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 16 jul 2025 | Aprovada a Emenda do Senado Federal nº 1. Sim: 242; Não: 117; Total: 359. | Maioria do partido: sim (67 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [257161-462](../../../../../votacoes/257161-462/) |
+| 16 jul 2025 | Aprovada a Emenda do Senado Federal nº 3. Sim: 232; Não: 104; Total: 336. | Maioria do partido: sim (63 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [257161-465](../../../../../votacoes/257161-465/) |
 | 16 jul 2025 | Aprovada a Emenda do Senado Federal nº 4. Sim: 234; Não: 101; Total: 335. | Maioria do partido: sim (59 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [257161-467](../../../../../votacoes/257161-467/) |
 | 16 jul 2025 | Aprovada a Emenda do Senado Federal nº 18. Sim: 221; Não: 77; Abstenção: 1; Total: 299. | Maioria do partido: sim (59 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [257161-476](../../../../../votacoes/257161-476/) |
 | 16 jul 2025 | Aprovada a Emenda do Senado nº 28. Sim: 229; Não: 82; Abstenção: 1; Total: 312. | Maioria do partido: sim (65 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [257161-479](../../../../../votacoes/257161-479/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 | 08 jul 2025 | Rejeitada a Preferência. Sim: 103; Não: 281; Total: 384. | Maioria do partido: sim (60 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2413257-115](../../../../../votacoes/2413257-115/) |
 | 08 jul 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 6.020, de 2023, adotado pela relatora da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 302; Não: 99; Total: 401. | Maioria do partido: nao (6 sim / 62 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2413257-116](../../../../../votacoes/2413257-116/) |
 | 08 jul 2025 | Rejeitado o Destaque. Sim: 159; Não: 243; Total: 402. | Maioria do partido: sim (61 sim / 6 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2413257-125](../../../../../votacoes/2413257-125/) |
-| 08 jul 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 769, de 2024, adotado pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 209; Não: 165; Abstenção: 4; Total: 378. | Maioria do partido: nao (6 sim / 64 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2421211-88](../../../../../votacoes/2421211-88/) |
-| 02 jul 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.112, de 2023, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 334; Não: 65; Total: 399. | Maioria do partido: sim (72 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2351284-38](../../../../../votacoes/2351284-38/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

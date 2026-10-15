@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Mauricio Marcon — Alinhamento com o governo federal, Mérito (página 5)"
-description: "A decomposição completa do número de Mauricio Marcon: 416 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
+description: "A decomposição completa do número de Mauricio Marcon: 418 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Mauricio Marcon: 416 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>28,8%</b> é <b>120</b> coincidências em
-<b>416</b> votações computáveis — as outras 296 estão
+<p><b>28,9%</b> é <b>121</b> coincidências em
+<b>418</b> votações computáveis — as outras 297 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 03 nov 2025 | Mantido o texto. Sim: 387; Não: 30; Abstenção: 1; Total: 418. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2576234-41](../../../../../votacoes/2576234-41/) |
+| 30 out 2025 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 169, de 2019. Sim: 417; Não: 17; Abstenção: 1; Total: 435. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2225224-125](../../../../../votacoes/2225224-125/) |
 | 30 out 2025 | Suprimido o texto. Sim: 148; Não: 233; Abstenção: 1; Total: 382. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2535328-36](../../../../../votacoes/2535328-36/) |
 | 29 out 2025 | Mantido o texto. Sim: 293; Não: 143; Total: 436. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2279186-104](../../../../../votacoes/2279186-104/) |
 | 29 out 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 458, de 2021, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 286; Não: 146; Abstenção: 1; Total: 433. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2279186-86](../../../../../votacoes/2279186-86/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 | 25 set 2025 | Aprovado o Projeto de Lei nº 358, de 2025. . | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2483447-25](../../../../../votacoes/2483447-25/) |
 | 24 set 2025 | Aprovada a Medida Provisória, na forma da Emenda Aglutinativa nº 1, ressalvados os destaques. Sim: 403; Não: 6; Total: 409. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2519886-34](../../../../../votacoes/2519886-34/) |
 | 24 set 2025 | Rejeitada a Emenda de Comissão nº 45. Sim: 132; Não: 275; Abstenção: 1; Total: 408. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2519886-53](../../../../../votacoes/2519886-53/) |
-| 24 set 2025 | Aprovado o Projeto de Lei Complementar nº 163, de 2025, ressalvados os destaques. Sim: 296; Não: 145; Abstenção: 2; Total: 443. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2541109-38](../../../../../votacoes/2541109-38/) |
-| 24 set 2025 | Rejeitada a Emenda de Plenário nº 1. Sim: 45; Não: 288; Abstenção: 1; Total: 334. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2541109-40](../../../../../votacoes/2541109-40/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

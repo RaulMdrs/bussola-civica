@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daniel Trzeciak — Coesão com o próprio partido, Mérito (página 19)"
-description: "A decomposição completa do número de Daniel Trzeciak: 488 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 380ª."
+description: "A decomposição completa do número de Daniel Trzeciak: 490 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 380ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Daniel Trzeciak: 488 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>72,3%</b> é <b>353</b> coincidências em
-<b>488</b> votações computáveis — as outras 135 estão
+<p><b>72,4%</b> é <b>355</b> coincidências em
+<b>490</b> votações computáveis — as outras 135 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 15 dez 2023 | Rejeitada a Emenda de Comissão n° 40.Sim: 49; não: 304; total: 353. | Maioria do partido: sim (7 sim / 5 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2384692-43](../../../../../votacoes/2384692-43/) |
+| 15 dez 2023 | Rejeitada a Emenda de Comissão nº 72. Sim: 50; não: 320; total: 370. | Maioria do partido: sim (7 sim / 5 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2384692-49](../../../../../votacoes/2384692-49/) |
 | 15 dez 2023 | Aprovada a preferência. Sim: 309; não: 28; abstenção: 3; total: 340. | Maioria do partido: sim (11 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-134](../../../../../votacoes/259094-134/) |
 | 15 dez 2023 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques. Sim: 371; não: 121; abstenção: 3; total: 495. | Maioria do partido: sim (11 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-136](../../../../../votacoes/259094-136/) |
 | 15 dez 2023 | Mantido o texto. Sim: 326; não: 161: total: 487. | Maioria do partido: sim (10 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-140](../../../../../votacoes/259094-140/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
 | 14 dez 2023 | Aprovada a Medida Provisória nº 1.187 de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 229; não: 49; total: 278. | Maioria do partido: nao (3 sim / 5 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2387579-37](../../../../../votacoes/2387579-37/) |
 | 14 dez 2023 | Mantido o texto. Sim: 225; não: 32; total: 257. | Maioria do partido: nao (1 sim / 4 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2387579-40](../../../../../votacoes/2387579-40/) |
 | 14 dez 2023 | Mantido o texto. Sim: 241; não: 38; total: 279. | Maioria do partido: nao (2 sim / 7 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2387579-43](../../../../../votacoes/2387579-43/) |
-| 14 dez 2023 | Mantido o texto. Sim: 246; não: 29; total: 275. | Maioria do partido: nao (2 sim / 3 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2387579-46](../../../../../votacoes/2387579-46/) |
-| 14 dez 2023 | Mantido o texto. Sim: 238; não: 36; abstenção: 1; total: 275. | Maioria do partido: nao (3 sim / 5 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2387579-49](../../../../../votacoes/2387579-49/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

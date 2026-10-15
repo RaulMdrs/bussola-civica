@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daniel Trzeciak — Alinhamento com o governo federal, Mérito (página 11)"
-description: "A decomposição completa do número de Daniel Trzeciak: 395 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
+description: "A decomposição completa do número de Daniel Trzeciak: 397 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Daniel Trzeciak: 395 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>49,1%</b> é <b>194</b> coincidências em
-<b>395</b> votações computáveis — as outras 201 estão
+<p><b>49,1%</b> é <b>195</b> coincidências em
+<b>397</b> votações computáveis — as outras 202 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 17 dez 2024 | Aprovados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela aprovação. Sim: 324; Não: 123; Abstenção: 3; Total: 450. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2430143-140](../../../../../votacoes/2430143-140/) |
+| 17 dez 2024 | Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela rejeição. Sim: 18; Não: 328; Abstenção: 7; Total: 353. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2430143-142](../../../../../votacoes/2430143-142/) |
 | 17 dez 2024 | Aprovada a Emenda de Redação n° 2. Sim: 314; Não: 117; Abstenção: 1; Total: 432. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2430143-144](../../../../../votacoes/2430143-144/) |
 | 17 dez 2024 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 210, de 2024, adotado pelo relator da Comissão Especial. Sim: 318; Não: 149; Total: 467. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2473389-58](../../../../../votacoes/2473389-58/) |
 | 17 dez 2024 | Rejeitada a Emenda de Plenário nº 9. Sim: 227; Não: 233; Abstenção: 1; Total: 461. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2473389-62](../../../../../votacoes/2473389-62/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 | 30 out 2024 | Rejeitada a Emenda de Plenário n° 9. Sim: 135; Não: 229; Total: 364. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2456554-54](../../../../../votacoes/2456554-54/) |
 | 30 out 2024 | Aprovada a Emenda de Plenario n° 10. Sim: 227; Não: 198; Abstenção: 2; Total: 427. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2456554-57](../../../../../votacoes/2456554-57/) |
 | 10 set 2024 | Aprovado o Projeto de Lei Complementar nº 72, de 2024. Sim: 432; Não: 2; Abstenção: 1; Total: 435. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2447191-41](../../../../../votacoes/2447191-41/) |
-| 09 set 2024 | Aprovado o Substitutivo ao Projeto de Lei nº 3.010, de 2019, adotado pelo Relator da Comissão de Saúde. Sim: 450; Não: 1; Abstenção: 2; Total: 453. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2204088-88](../../../../../votacoes/2204088-88/) |
-| 28 ago 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 519, de 2018, adotada pelo relator da Comissão Especial, ressalvado o destaque. Sim: 439; não: 3; abstenção: 3; total: 445. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2178408-165](../../../../../votacoes/2178408-165/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

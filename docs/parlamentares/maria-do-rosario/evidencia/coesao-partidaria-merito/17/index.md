@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Maria do Rosário — Coesão com o próprio partido, Mérito (página 17)"
-description: "A decomposição completa do número de Maria do Rosário: 431 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
+description: "A decomposição completa do número de Maria do Rosário: 433 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Maria do Rosário: 431 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>96,8%</b> é <b>417</b> coincidências em
-<b>431</b> votações computáveis — as outras 14 estão
+<p><b>96,8%</b> é <b>419</b> coincidências em
+<b>433</b> votações computáveis — as outras 14 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 15 dez 2023 | Rejeitada a Emenda de Comissão nº 26. Sim: 56; não:336; abstenção: 2; total: 394. | Maioria do partido: nao (2 sim / 65 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2384692-38](../../../../../votacoes/2384692-38/) |
+| 15 dez 2023 | Rejeitada a Emenda de Comissão n° 40.Sim: 49; não: 304; total: 353. | Maioria do partido: nao (0 sim / 61 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2384692-43](../../../../../votacoes/2384692-43/) |
 | 15 dez 2023 | Rejeitada a Emenda de Comissão nº 52. Sim: 49; não: 325; total: 375. | Maioria do partido: nao (1 sim / 63 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2384692-45](../../../../../votacoes/2384692-45/) |
 | 15 dez 2023 | Rejeitada a Emenda de Comissão nº 72. Sim: 50; não: 320; total: 370. | Maioria do partido: nao (1 sim / 59 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2384692-49](../../../../../votacoes/2384692-49/) |
 | 15 dez 2023 | Aprovada a preferência. Sim: 309; não: 28; abstenção: 3; total: 340. | Maioria do partido: sim (57 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-134](../../../../../votacoes/259094-134/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 | 15 dez 2023 | Suprimido o texto. Sim: 293; não: 198; abstenção: 1; total: 492. | Maioria do partido: sim (63 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-199](../../../../../votacoes/259094-199/) |
 | 14 dez 2023 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião pelo não atendimento dos pressupostos constitucionais de relevância e urgência e pela inadequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 221; não: 40; abstenção: 3; total: 264. | Maioria do partido: sim (47 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387579-35](../../../../../votacoes/2387579-35/) |
 | 14 dez 2023 | Aprovada a Medida Provisória nº 1.187 de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 229; não: 49; total: 278. | Maioria do partido: sim (47 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387579-37](../../../../../votacoes/2387579-37/) |
-| 14 dez 2023 | Mantido o texto. Sim: 225; não: 32; total: 257. | Maioria do partido: sim (42 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387579-40](../../../../../votacoes/2387579-40/) |
-| 14 dez 2023 | Mantido o texto. Sim: 241; não: 38; total: 279. | Maioria do partido: sim (41 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387579-43](../../../../../votacoes/2387579-43/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Bohn Gass — Coesão com o próprio partido, Procedimental (página 9)"
-description: "A decomposição completa do número de Bohn Gass: 495 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
+description: "A decomposição completa do número de Bohn Gass: 496 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Bohn Gass: 495 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>99,4%</b> é <b>492</b> coincidências em
-<b>495</b> votações computáveis — as outras 3 estão
+<p><b>99,4%</b> é <b>493</b> coincidências em
+<b>496</b> votações computáveis — as outras 3 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 15 jul 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 323; Não: 55; Abstenção: 2; Total: 380. | Maioria do partido: sim (55 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2533420-8](../../../../../votacoes/2533420-8/) |
 | 15 jul 2025 | Aprovado o Requerimento nº 2.779/2025, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões previsto no § 6º do art. 202 do RICD, para apreciação do segundo turno da PEC 66, de 2023. Sim: 319; Não: 70; Total: 389. | Maioria do partido: sim (47 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2536848-6](../../../../../votacoes/2536848-6/) |
 | 09 jul 2025 | Rejeitado o Requerimento. Sim: 110; Não: 159; Total: 269. | Maioria do partido: nao (0 sim / 40 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2421211-100](../../../../../votacoes/2421211-100/) |
 | 08 jul 2025 | Rejeitado o Requerimento. Sim: 90; Não: 288; Abstenção: 1; Total: 379. | Maioria do partido: nao (1 sim / 52 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2413257-114](../../../../../votacoes/2413257-114/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 | 11 jun 2025 | Rejeitado o Requerimento. Sim: 141; Não: 240; Total: 381. | Maioria do partido: nao (0 sim / 55 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2497816-35](../../../../../votacoes/2497816-35/) |
 | 11 jun 2025 | Rejeitado o Requerimento. Sim: 110; Não: 205; Total: 315. | Maioria do partido: nao (0 sim / 46 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2497816-41](../../../../../votacoes/2497816-41/) |
 | 11 jun 2025 | Rejeitado o Requerimento. Sim: 105; Não: 205; Total: 310. | Maioria do partido: nao (0 sim / 43 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [264726-127](../../../../../votacoes/264726-127/) |
-| 11 jun 2025 | Rejeitado o Requerimento. Sim: 132; Não: 223; Total: 355. | Maioria do partido: nao (0 sim / 51 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [264726-131](../../../../../votacoes/264726-131/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

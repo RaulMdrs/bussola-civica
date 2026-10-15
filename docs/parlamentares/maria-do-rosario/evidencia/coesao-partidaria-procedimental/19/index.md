@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Maria do Rosário — Coesão com o próprio partido, Procedimental (página 19)"
-description: "A decomposição completa do número de Maria do Rosário: 373 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 373ª."
+description: "A decomposição completa do número de Maria do Rosário: 374 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 374ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Maria do Rosário: 373 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>98,9%</b> é <b>369</b> coincidências em
-<b>373</b> votações computáveis — as outras 4 estão
+<p><b>98,9%</b> é <b>370</b> coincidências em
+<b>374</b> votações computáveis — as outras 4 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
-<b>373ª</b>.</p>
+<b>374ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 17 mai 2023 | Rejeitado o Requerimento. Sim: 184; não: 213; total: 397. | Maioria do partido: nao (1 sim / 57 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2115253-104](../../../../../votacoes/2115253-104/) |
 | 17 mai 2023 | Rejeitado o Requerimento. Sim: 187; não: 232; total: 419. | Maioria do partido: nao (0 sim / 58 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2115253-111](../../../../../votacoes/2115253-111/) |
 | 17 mai 2023 | Rejeitado o Requerimento. Sim: 173; não: 221; total: 394. | Maioria do partido: nao (0 sim / 51 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2115253-116](../../../../../votacoes/2115253-116/) |
 | 17 mai 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 367; não: 102; abstenção: 1; total: 470. | Maioria do partido: sim (64 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2362292-8](../../../../../votacoes/2362292-8/) |

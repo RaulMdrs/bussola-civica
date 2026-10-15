@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alceu Moreira — Alinhamento com o governo federal, Mérito (página 10)"
-description: "A decomposição completa do número de Alceu Moreira: 408 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
+description: "A decomposição completa do número de Alceu Moreira: 410 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alceu Moreira: 408 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>59,8%</b> é <b>244</b> coincidências em
-<b>408</b> votações computáveis — as outras 164 estão
+<p><b>59,8%</b> é <b>245</b> coincidências em
+<b>410</b> votações computáveis — as outras 165 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 26 mai 2025 | Mantido o texto. Sim: 231; Não: 202; Abstenção: 8; Total: 441. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2233324-100](../../../../../votacoes/2233324-100/) |
+| 26 mai 2025 | Mantido o texto. Sim: 284; Não: 147; Abstenção: 2; Total: 433. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2233324-103](../../../../../votacoes/2233324-103/) |
 | 26 mai 2025 | Mantido o texto. Sim: 233; Não: 174; Abstenção: 3; Total: 410. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2233324-106](../../../../../votacoes/2233324-106/) |
 | 26 mai 2025 | Aprovado o Projeto de Lei nº 1.708, de 2025. Sim: 289; Não: 136; Total: 425. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2497993-33](../../../../../votacoes/2497993-33/) |
 | 22 mai 2025 | Aprovado o Projeto de Decreto Legislativo nº 308, de 2024. Sim: 363; Não: 11; Abstenção: 1; Total: 375. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2442331-46](../../../../../votacoes/2442331-46/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 | 28 abr 2025 | Mantido o texto. Sim: 256; Não: 123; Abstenção: 1; Total: 380. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2483495-62](../../../../../votacoes/2483495-62/) |
 | 01 abr 2025 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 316; Não: 88; Abstenção: 1; Total: 405. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2463814-44](../../../../../votacoes/2463814-44/) |
 | 01 abr 2025 | Aprovada a Medida Provisória nº 1.268, de 2024. Sim: 317; Não: 92; Abstenção: 2; Total: 411. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2463814-46](../../../../../votacoes/2463814-46/) |
-| 26 fev 2025 | Rejeitada a Emenda de Plenário nº 2. Sim: 57; Não: 331; Total: 388. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [255291-105](../../../../../votacoes/255291-105/) |
-| 25 fev 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 167, de 2024, adotada pelo relator da Comissão de Indústria, Comércio e Serviços. Sim: 399; Total: 399. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2463712-40](../../../../../votacoes/2463712-40/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

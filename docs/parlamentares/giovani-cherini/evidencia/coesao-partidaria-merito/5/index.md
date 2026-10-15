@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Giovani Cherini — Coesão com o próprio partido, Mérito (página 5)"
-description: "A decomposição completa do número de Giovani Cherini: 488 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
+description: "A decomposição completa do número de Giovani Cherini: 490 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Giovani Cherini: 488 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>93,4%</b> é <b>456</b> coincidências em
-<b>488</b> votações computáveis — as outras 32 estão
+<p><b>93,5%</b> é <b>458</b> coincidências em
+<b>490</b> votações computáveis — as outras 32 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 26 nov 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 331, de 2020, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 386; Não: 7; Total: 393. | Maioria do partido: sim (67 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2237596-92](../../../../../votacoes/2237596-92/) |
+| 26 nov 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 2.829, de 2025, adotado pelo relator da Comissão de Administração e Serviço Público, ressalvado o destaque. Sim: 350; Não: 77; Abstenção: 2; Total: 429. | Maioria do partido: sim (42 sim / 29 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2524984-33](../../../../../votacoes/2524984-33/) |
 | 26 nov 2025 | Mantido o texto. Sim: 313; Não: 88; Abstenção: 2; Total: 403. | Maioria do partido: sim (42 sim / 29 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2524984-37](../../../../../votacoes/2524984-37/) |
 | 26 nov 2025 | Mantido o texto. Sim: 278; Não: 107; Total: 385. | Maioria do partido: sim (66 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2555110-45](../../../../../votacoes/2555110-45/) |
 | 18 nov 2025 | Aprovada a Emenda de Plenário nº 25. Sim: 349; Não: 40; Abstenção: 1; Total: 390. | Maioria do partido: sim (69 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2579832-105](../../../../../votacoes/2579832-105/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 | 05 nov 2025 | Mantido o texto. Sim: 295; Não: 118; Total: 413. | Maioria do partido: nao (4 sim / 61 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2448069-50](../../../../../votacoes/2448069-50/) |
 | 05 nov 2025 | Aprovado o Projeto de Decreto Legislativo nº 3, de 2025. Sim: 317; Não: 111; Abstenção: 1; Total: 429. | Maioria do partido: sim (73 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2482078-57](../../../../../votacoes/2482078-57/) |
 | 05 nov 2025 | Mantido o texto. Sim: 382; Não: 17; Total: 399. | Maioria do partido: sim (60 sim / 5 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2483863-74](../../../../../votacoes/2483863-74/) |
-| 04 nov 2025 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 39, de 2022. Sim: 417; Não: 6; Abstenção: 1; Total: 424. | Maioria do partido: sim (64 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2122682-86](../../../../../votacoes/2122682-86/) |
-| 04 nov 2025 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 39, de 2022. Sim: 414; Não: 3; Abstenção: 2; Total: 419. | Maioria do partido: sim (67 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2122682-94](../../../../../votacoes/2122682-94/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

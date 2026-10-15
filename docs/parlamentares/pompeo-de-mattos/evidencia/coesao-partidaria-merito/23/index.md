@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Pompeo de Mattos — Coesão com o próprio partido, Mérito (página 23)"
-description: "A decomposição completa do número de Pompeo de Mattos: 463 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 441ª à 460ª."
+description: "A decomposição completa do número de Pompeo de Mattos: 465 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 441ª à 460ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Pompeo de Mattos: 463 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>89,4%</b> é <b>414</b> coincidências em
-<b>463</b> votações computáveis — as outras 49 estão
+<p><b>89,5%</b> é <b>416</b> coincidências em
+<b>465</b> votações computáveis — as outras 49 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>24 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>441ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>441ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 13 jun 2023 | Aprovado o Projeto de Lei nº 2.250, de 2023. Sim: 318; não: 31; total: 349. | Maioria do partido: nao (0 sim / 14 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2358922-21](../../../../../votacoes/2358922-21/) |
+| 31 mai 2023 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião pelo atendimento dos pressupostos constitucionais de relevância e urgência e pela inadequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 319; não: 111; abstenção: 1; total: 431. | Maioria do partido: sim (17 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345493-38](../../../../../votacoes/2345493-38/) |
 | 31 mai 2023 | Aprovada a Medida Provisória nº 1.154 de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 337; não: 125; abstenção: 1; total: 463. | Maioria do partido: sim (17 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345493-41](../../../../../votacoes/2345493-41/) |
 | 31 mai 2023 | Mantido o texto. Sim: 324; não: 114; abstenção: 1; total: 439. | Maioria do partido: sim (17 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345493-44](../../../../../votacoes/2345493-44/) |
 | 31 mai 2023 | Mantido o texto. Sim: 260; não: 186; abstenção: 2; total: 448. | Maioria do partido: sim (17 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345493-47](../../../../../votacoes/2345493-47/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>441ª</b> à
 | 04 mai 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.085, de 2023, adotada pela relatora da Comissão de Defesa dos Direitos da Mulher, ressalvados os destaques. Sim: 325; não: 36; abstenção: 3; total: 364. | Maioria do partido: sim (14 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2351179-51](../../../../../votacoes/2351179-51/) |
 | 03 mai 2023 | Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 98, de 2023, adotado pelo relator da Comissão de Desenvolvimento Urbano. Sim: 295; não: 136; abstenção: 1; total: 432. | Maioria do partido: nao (3 sim / 12 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2355135-49](../../../../../votacoes/2355135-49/) |
 | 27 abr 2023 | Aprovada a Emenda de Plenário nº 7. Sim: 181; não: 171; total: 352. | Maioria do partido: nao (1 sim / 8 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2345484-83](../../../../../votacoes/2345484-83/) |
-| 25 abr 2023 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 139, de 2022, adotado pelo Relator da Comissão de Finanças e Tributação. Sim: 360; não: 3; total: 363. | Maioria do partido: sim (11 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2337246-43](../../../../../votacoes/2337246-43/) |
-| 25 abr 2023 | Mantido o texto. Sim: 289; não: 108; total: 397. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2344938-48](../../../../../votacoes/2344938-48/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

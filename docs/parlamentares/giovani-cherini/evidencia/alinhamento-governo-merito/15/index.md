@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Giovani Cherini — Alinhamento com o governo federal, Mérito (página 15)"
-description: "A decomposição completa do número de Giovani Cherini: 385 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
+description: "A decomposição completa do número de Giovani Cherini: 387 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Giovani Cherini: 385 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>33,8%</b> é <b>130</b> coincidências em
-<b>385</b> votações computáveis — as outras 255 estão
+<p><b>33,9%</b> é <b>131</b> coincidências em
+<b>387</b> votações computáveis — as outras 256 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 19 mar 2024 | Mantido o texto. Sim: 305; não: 107; total: 412. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2416804-48](../../../../../votacoes/2416804-48/) |
+| 13 mar 2024 | Mantido o texto. Sim: 382; não: 48; total: 430. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2238434-100](../../../../../votacoes/2238434-100/) |
 | 13 mar 2024 | Rejeitado o Art. 15 da Emenda de Plenário nº 4. Sim: 38; não: 376; abstenção: 1; total: 415. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2238434-104](../../../../../votacoes/2238434-104/) |
 | 13 mar 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 528, de 2020, adotada pelo relator da Comissão de Minas e Energia, ressalvados os destaques. Sim: 429; não: 19; abstenção: 3; total: 451. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2238434-80](../../../../../votacoes/2238434-80/) |
 | 13 mar 2024 | Rejeitada a Emenda de Plenário nº 22. Sim: 14; não: 362; total: 376. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2238434-85](../../../../../votacoes/2238434-85/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 | 15 dez 2023 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião pelo não atendimento dos pressupostos constitucionais de relevância e urgência e pela inadequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 338; não: 47; abstenção: 2; total: 387. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2384692-33](../../../../../votacoes/2384692-33/) |
 | 15 dez 2023 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques. Sim: 371; não: 121; abstenção: 3; total: 495. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-136](../../../../../votacoes/259094-136/) |
 | 15 dez 2023 | Mantido o texto. Sim: 326; não: 161: total: 487. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-140](../../../../../votacoes/259094-140/) |
-| 15 dez 2023 | Mantido o texto. Sim: 445; não: 29; abstenção: 2; total: 476. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-143](../../../../../votacoes/259094-143/) |
-| 15 dez 2023 | Suprimido o texto. Sim: 62; não: 370; total: 432. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [259094-146](../../../../../votacoes/259094-146/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

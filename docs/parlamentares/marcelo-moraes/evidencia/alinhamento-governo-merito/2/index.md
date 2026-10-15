@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcelo Moraes — Alinhamento com o governo federal, Mérito (página 2)"
-description: "A decomposição completa do número de Marcelo Moraes: 338 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
+description: "A decomposição completa do número de Marcelo Moraes: 339 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcelo Moraes: 338 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>31,1%</b> é <b>105</b> coincidências em
-<b>338</b> votações computáveis — as outras 233 estão
+<p><b>31,3%</b> é <b>106</b> coincidências em
+<b>339</b> votações computáveis — as outras 233 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>17 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 07 abr 2026 | Mantido o texto. Sim: 268; Não: 99; Total: 367. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2581700-31](../../../../../votacoes/2581700-31/) |
 | 25 mar 2026 | Aprovado o Projeto de Lei nº 6.359, de 2025. Sim: 258; Não: 140; Abstenção: 1; Total: 399. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2595984-34](../../../../../votacoes/2595984-34/) |
 | 25 mar 2026 | Aprovado o Projeto de Lei Complementar nº 77, de 2026, ressalvado o destaque. Sim: 391; Não: 33; Abstenção: 2; Total: 426. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2611717-33](../../../../../votacoes/2611717-33/) |
 | 25 mar 2026 | Mantido o texto. Sim: 284; Não: 86; Abstenção: 3; Total: 373. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2611717-38](../../../../../votacoes/2611717-38/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 | 16 dez 2025 | Suprimido o texto. Sim: 63; Não: 373; Abstenção: 1; Total: 437. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438459-135](../../../../../votacoes/2438459-135/) |
 | 16 dez 2025 | Mantido o texto. Sim: 441; Não: 3; Total: 444. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-139](../../../../../votacoes/2438459-139/) |
 | 16 dez 2025 | Mantido o texto. Sim: 423; Não: 23; Abstenção: 1; Total: 447. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-141](../../../../../votacoes/2438459-141/) |
-| 16 dez 2025 | Suprimido o texto. Sim: 15; Não: 334; Total: 349. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438459-143](../../../../../votacoes/2438459-143/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

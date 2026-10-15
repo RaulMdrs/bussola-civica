@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alceu Moreira — Coesão com o próprio partido, Mérito (página 20)"
-description: "A decomposição completa do número de Alceu Moreira: 505 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 400ª."
+description: "A decomposição completa do número de Alceu Moreira: 507 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 400ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alceu Moreira: 505 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>75,4%</b> é <b>381</b> coincidências em
-<b>505</b> votações computáveis — as outras 124 estão
+<p><b>75,5%</b> é <b>383</b> coincidências em
+<b>507</b> votações computáveis — as outras 124 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 13 mar 2024 | Rejeitada a Emenda de Plenário nº 22. Sim: 14; não: 362; total: 376. | Maioria do partido: nao (0 sim / 32 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2238434-85](../../../../../votacoes/2238434-85/) |
+| 13 mar 2024 | Mantido o texto. Sim: 288; não: 62; abstenção: 1; total: 351. | Maioria do partido: sim (28 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2238434-87](../../../../../votacoes/2238434-87/) |
 | 13 mar 2024 | Rejeitada a Emenda de Plenário nº 18. Sim: 98; não: 314; total: 412. | Maioria do partido: nao (3 sim / 32 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2238434-89](../../../../../votacoes/2238434-89/) |
 | 13 mar 2024 | Rejeitada a Emenda de Plenário nº 21. Sim: 191; não; 232; abstenção: 2; total: 425. | Maioria do partido: sim (18 sim / 16 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2238434-94](../../../../../votacoes/2238434-94/) |
 | 13 mar 2024 | Rejeitada a Emenda de Plenário nº 19. Sim: 152; não: 279; total: 431. | Maioria do partido: nao (10 sim / 20 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2238434-99](../../../../../votacoes/2238434-99/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
 | 15 dez 2023 | Rejeitada a Emenda de Comissão nº 26. Sim: 56; não:336; abstenção: 2; total: 394. | Maioria do partido: nao (4 sim / 30 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2384692-38](../../../../../votacoes/2384692-38/) |
 | 15 dez 2023 | Rejeitada a Emenda de Comissão n° 40.Sim: 49; não: 304; total: 353. | Maioria do partido: nao (6 sim / 15 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2384692-43](../../../../../votacoes/2384692-43/) |
 | 15 dez 2023 | Rejeitada a Emenda de Comissão nº 52. Sim: 49; não: 325; total: 375. | Maioria do partido: nao (6 sim / 25 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2384692-45](../../../../../votacoes/2384692-45/) |
-| 15 dez 2023 | Rejeitada a Emenda de Comissão nº 72. Sim: 50; não: 320; total: 370. | Maioria do partido: nao (7 sim / 26 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2384692-49](../../../../../votacoes/2384692-49/) |
-| 15 dez 2023 | Aprovada a preferência. Sim: 309; não: 28; abstenção: 3; total: 340. | Maioria do partido: sim (32 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-134](../../../../../votacoes/259094-134/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Giovani Cherini — Coesão com o próprio partido, Mérito (página 18)"
-description: "A decomposição completa do número de Giovani Cherini: 488 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
+description: "A decomposição completa do número de Giovani Cherini: 490 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Giovani Cherini: 488 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>93,4%</b> é <b>456</b> coincidências em
-<b>488</b> votações computáveis — as outras 32 estão
+<p><b>93,5%</b> é <b>458</b> coincidências em
+<b>490</b> votações computáveis — as outras 32 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 09 abr 2024 | Aprovada a Subemenda Substitutiva Global Reformulada ao Projeto de Lei Complementar nº 233, de 2023, adotada pelo relator da Comissão de Viação e Transportes. Sim: 304; não: 136; total: 440. | Maioria do partido: nao (20 sim / 58 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2400758-62](../../../../../votacoes/2400758-62/) |
+| 09 abr 2024 | Rejeitada a Emenda de Plenário n° 4. Sim: 86; não: 178; total: 264. | Maioria do partido: sim (36 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2419197-54](../../../../../votacoes/2419197-54/) |
 | 26 mar 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 3, de 2024, adotada pela relatora da Comissão de Indústria, Comércio e Serviços. Sim: 378; não: 25; total: 403. | Maioria do partido: sim (77 sim / 5 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2416826-49](../../../../../votacoes/2416826-49/) |
 | 20 mar 2024 | Mantido o texto. Sim: 279; não: 93; total: 372. | Maioria do partido: nao (9 sim / 66 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2269745-79](../../../../../votacoes/2269745-79/) |
 | 20 mar 2024 | Rejeitada a Emenda de Plenário nº 1. Sim: 195; não: 222; total: 417. | Maioria do partido: sim (75 sim / 5 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2269745-81](../../../../../votacoes/2269745-81/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 | 13 mar 2024 | Rejeitada a Emenda de Plenário nº 22. Sim: 14; não: 362; total: 376. | Maioria do partido: nao (0 sim / 73 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2238434-85](../../../../../votacoes/2238434-85/) |
 | 13 mar 2024 | Mantido o texto. Sim: 288; não: 62; abstenção: 1; total: 351. | Maioria do partido: nao (6 sim / 44 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2238434-87](../../../../../votacoes/2238434-87/) |
 | 13 mar 2024 | Rejeitada a Emenda de Plenário nº 18. Sim: 98; não: 314; total: 412. | Maioria do partido: sim (58 sim / 15 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2238434-89](../../../../../votacoes/2238434-89/) |
-| 13 mar 2024 | Rejeitada a Emenda de Plenário nº 21. Sim: 191; não; 232; abstenção: 2; total: 425. | Maioria do partido: sim (74 sim / 7 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2238434-94](../../../../../votacoes/2238434-94/) |
-| 13 mar 2024 | Rejeitada a Emenda de Plenário nº 19. Sim: 152; não: 279; total: 431. | Maioria do partido: sim (75 sim / 7 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2238434-99](../../../../../votacoes/2238434-99/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

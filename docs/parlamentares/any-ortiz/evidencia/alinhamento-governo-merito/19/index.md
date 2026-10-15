@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Any Ortiz — Alinhamento com o governo federal, Mérito (página 19)"
-description: "A decomposição completa do número de Any Ortiz: 384 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 380ª."
+description: "A decomposição completa do número de Any Ortiz: 386 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 380ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Any Ortiz: 384 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>35,4%</b> é <b>136</b> coincidências em
-<b>384</b> votações computáveis — as outras 248 estão
+<p><b>35,5%</b> é <b>137</b> coincidências em
+<b>386</b> votações computáveis — as outras 249 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 07 jul 2023 | Suprimido o texto. Sim: 112; não: 284; abstenção: 1; total: 397. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2360503-74](../../../../../votacoes/2360503-74/) |
+| 07 jul 2023 | Mantido o texto. Sim: 327; não: 96; abstenção: 1; total: 424. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2367064-66](../../../../../votacoes/2367064-66/) |
 | 07 jul 2023 | Mantido o texto. Sim: 251; não: 206; total: 457. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2367064-82](../../../../../votacoes/2367064-82/) |
 | 06 jul 2023 | Aprovado, em primeiro turno, o Substitutivo adotado pelo relator da Comissão Especial à Proposta de Emenda Constitucional nº 45, de 2019, ressalvados os destaques. Sim: 382; não: 118; abstenção: 3; total: 503. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-326](../../../../../votacoes/2196833-326/) |
 | 06 jul 2023 | Aprovada a Emenda Aglutinativa nº 1. Sim: 379; não: 114; abstenção: 1; total: 494. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-328](../../../../../votacoes/2196833-328/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
 | 30 mai 2023 | Mantido o texto. Sim: 288; não: 148; abstenção: 2; total: 438. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [345311-276](../../../../../votacoes/345311-276/) |
 | 30 mai 2023 | Mantido o texto. Sim: 290; não: 142; abstenção: 1; total: 433. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [345311-279](../../../../../votacoes/345311-279/) |
 | 17 mai 2023 | Aprovado o Substitutivo ao Projeto de Lei nº 6.385, de 2016, da Comissão de Ciência e Tecnologia, Comunicação e Informática. Sim: 217; não: 180; total: 397. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2115253-118](../../../../../votacoes/2115253-118/) |
-| 10 mai 2023 | Aprovado o Projeto de Lei nº 1.987, de 2023. Sim: 346; não: 72; abstenção: 3; total: 421. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357055-29](../../../../../votacoes/2357055-29/) |
-| 04 mai 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.085, de 2023, adotada pela relatora da Comissão de Defesa dos Direitos da Mulher, ressalvados os destaques. Sim: 325; não: 36; abstenção: 3; total: 364. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2351179-51](../../../../../votacoes/2351179-51/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

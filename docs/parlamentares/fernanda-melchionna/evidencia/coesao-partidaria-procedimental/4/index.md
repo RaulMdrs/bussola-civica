@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Fernanda Melchionna — Coesão com o próprio partido, Procedimental (página 4)"
-description: "A decomposição completa do número de Fernanda Melchionna: 402 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
+description: "A decomposição completa do número de Fernanda Melchionna: 403 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Fernanda Melchionna: 402 v
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>98,0%</b> é <b>394</b> coincidências em
-<b>402</b> votações computáveis — as outras 8 estão
+<p><b>98,0%</b> é <b>395</b> coincidências em
+<b>403</b> votações computáveis — as outras 8 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 09 fev 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 298; Não: 132; Total: 430. | Maioria do partido: nao (0 sim / 9 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2601522-8](../../../../../votacoes/2601522-8/) |
 | 09 fev 2026 | Rejeitado o Recurso nº 2, de 2026, contra parecer terminativo da Comissão de Constituição e Justiça e de Cidadania à Emenda de Plenário nº 3 oferecida ao Projeto de Lei nº 1.743, de 2024. Sim: 151; Não: 244; Abstenção: 3; Total: 398. | Maioria do partido: nao (0 sim / 8 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2601794-5](../../../../../votacoes/2601794-5/) |
 | 02 fev 2026 | Rejeitado o Requerimento. Sim: 22; Não: 362; Total: 384. | Maioria do partido: nao (0 sim / 8 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2557414-24](../../../../../votacoes/2557414-24/) |
 | 16 dez 2025 | Rejeitado o Requerimento. Sim: 114; Não: 319; Abstenção: 2; Total: 435. | Maioria do partido: nao (0 sim / 10 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2520670-40](../../../../../votacoes/2520670-40/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 | 12 nov 2025 | Rejeitado o Requerimento de Urgência (Art. 155 do RICD). Sim: 72; Não: 350; Abstenção: 4; Total: 426. | Maioria do partido: nao (0 sim / 10 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2564132-13](../../../../../votacoes/2564132-13/) |
 | 12 nov 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 303; Não: 55; Total: 358. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2570219-7](../../../../../votacoes/2570219-7/) |
 | 12 nov 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 323; Não: 86; Total: 409. | Maioria do partido: nao (0 sim / 8 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2583550-7](../../../../../votacoes/2583550-7/) |
-| 12 nov 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 300; Não: 114; Total: 414. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2583574-8](../../../../../votacoes/2583574-8/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

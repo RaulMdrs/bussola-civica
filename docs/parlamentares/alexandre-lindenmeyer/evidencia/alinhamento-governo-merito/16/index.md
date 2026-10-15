@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alexandre Lindenmeyer — Alinhamento com o governo federal, Mérito (página 16)"
-description: "A decomposição completa do número de Alexandre Lindenmeyer: 378 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
+description: "A decomposição completa do número de Alexandre Lindenmeyer: 380 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alexandre Lindenmeyer: 378
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>95,8%</b> é <b>362</b> coincidências em
-<b>378</b> votações computáveis — as outras 16 estão
+<p><b>95,8%</b> é <b>364</b> coincidências em
+<b>380</b> votações computáveis — as outras 16 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 08 nov 2023 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 6.385-C, de 2016, ressalvados os destaques. Sim: 296; não: 121; abstenção: 2; total: 419. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2115253-175](../../../../../votacoes/2115253-175/) |
+| 08 nov 2023 | Mantido o texto. Sim: 268; não: 124; total: 392. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2115253-179](../../../../../votacoes/2115253-179/) |
 | 08 nov 2023 | Aprovado o Projeto de Lei nº 4.287, de 2023. Sim: 369; não: 5; total: 374. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2391935-43](../../../../../votacoes/2391935-43/) |
 | 07 nov 2023 | Aprovada a Emenda de Plenário n° 3. Sim: 311; Não: 107; total: 418. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2344909-65](../../../../../votacoes/2344909-65/) |
 | 06 nov 2023 | Mantido o texto. Sim: 284 ; não: 106; total: .390. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345281-63](../../../../../votacoes/2345281-63/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 | 27 set 2023 | Aprovada a Medida Provisória nº 1.177, de 2023. Sim: 270; não: 1; abstenção: 1; total: 272. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2367600-49](../../../../../votacoes/2367600-49/) |
 | 14 set 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 136, de 2023, adotada pelo Relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 349; não: 68; abstenção: 2; total: 419. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2372071-41](../../../../../votacoes/2372071-41/) |
 | 14 set 2023 | Mantido o texto. Sim: 270; não: 146; abstenção: 1; total: 417. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2372071-44](../../../../../votacoes/2372071-44/) |
-| 13 set 2023 | Rejeitada a Emenda de Plenário nº 26. Sim: 82; não: 342; abstenção: 8; total: 432. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2374400-46](../../../../../votacoes/2374400-46/) |
-| 13 set 2023 | Suprimido o texto. Sim: 222; não: 242; abstenção: 2; total: 466. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2374400-53](../../../../../votacoes/2374400-53/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

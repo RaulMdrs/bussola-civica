@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Lucas Redecker — Alinhamento com o governo federal, Mérito (página 10)"
-description: "A decomposição completa do número de Lucas Redecker: 427 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
+description: "A decomposição completa do número de Lucas Redecker: 429 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Lucas Redecker: 427 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>42,4%</b> é <b>181</b> coincidências em
-<b>427</b> votações computáveis — as outras 246 estão
+<p><b>42,4%</b> é <b>182</b> coincidências em
+<b>429</b> votações computáveis — as outras 247 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 27 mai 2025 | Mantido o texto. Sim: 351; Não: 68; Abstenção: 1; Total: 420. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [604557-205](../../../../../votacoes/604557-205/) |
+| 26 mai 2025 | Mantido o texto. Sim: 231; Não: 202; Abstenção: 8; Total: 441. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2233324-100](../../../../../votacoes/2233324-100/) |
 | 26 mai 2025 | Mantido o texto. Sim: 284; Não: 147; Abstenção: 2; Total: 433. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2233324-103](../../../../../votacoes/2233324-103/) |
 | 26 mai 2025 | Mantido o texto. Sim: 233; Não: 174; Abstenção: 3; Total: 410. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2233324-106](../../../../../votacoes/2233324-106/) |
 | 26 mai 2025 | Aprovado o Projeto de Lei nº 1.708, de 2025. Sim: 289; Não: 136; Total: 425. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2497993-33](../../../../../votacoes/2497993-33/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 | 25 mar 2025 | Aprovado o Projeto de Lei nº 2.379, de 2023. Sim: 275; Não: 113; Abstenção: 5; Total: 393. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2360457-45](../../../../../votacoes/2360457-45/) |
 | 18 mar 2025 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 22, de 2025, adotado pelo relator da Comissão de Finanças e Tributação. Sim: 347; Não: 114; Total: 461. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2485066-33](../../../../../votacoes/2485066-33/) |
 | 18 mar 2025 | Aprovado o Projeto de Lei Complementar nº 58, de 2025, ressalvado o destaque. Sim: 413; Não: 1; Total: 414. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2486199-32](../../../../../votacoes/2486199-32/) |
-| 18 mar 2025 | Mantido o texto. Sim: 386; Não: 27; Total: 413. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2486199-35](../../../../../votacoes/2486199-35/) |
-| 26 fev 2025 | Rejeitada a Emenda de Plenário nº 2. Sim: 57; Não: 331; Total: 388. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [255291-105](../../../../../votacoes/255291-105/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

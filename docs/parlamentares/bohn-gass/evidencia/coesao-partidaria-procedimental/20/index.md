@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Bohn Gass — Coesão com o próprio partido, Procedimental (página 20)"
-description: "A decomposição completa do número de Bohn Gass: 495 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 400ª."
+description: "A decomposição completa do número de Bohn Gass: 496 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 400ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Bohn Gass: 495 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>99,4%</b> é <b>492</b> coincidências em
-<b>495</b> votações computáveis — as outras 3 estão
+<p><b>99,4%</b> é <b>493</b> coincidências em
+<b>496</b> votações computáveis — as outras 3 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 18 dez 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 304; não: 141; total: 445. | Maioria do partido: nao (1 sim / 60 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2360062-8](../../../../../votacoes/2360062-8/) |
 | 15 dez 2023 | Rejeitado o Requerimento. Sim: 42; não: 331; abstenção: 1; total: 374. | Maioria do partido: nao (0 sim / 60 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2384692-27](../../../../../votacoes/2384692-27/) |
 | 15 dez 2023 | Aprovado o Requerimento nº 4.314/2023, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões previsto no § 6º do art. 202 do RICD, para apreciação do segundo turno da PEC 45, de 2019. Sim: 309; não: 33; abstenção: 1; total: 343. | Maioria do partido: sim (57 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2414224-6](../../../../../votacoes/2414224-6/) |
 | 15 dez 2023 | Rejeitado o Requerimento. Sim: 44; não: 318; abstenção: 3; total: 365. | Maioria do partido: nao (0 sim / 57 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [259094-125](../../../../../votacoes/259094-125/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
 | 05 dez 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 397; total:397. | Maioria do partido: sim (46 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2406964-10](../../../../../votacoes/2406964-10/) |
 | 29 nov 2023 | Rejeitado o Requerimento. Sim: 106; não: 308; total: 414. | Maioria do partido: sim (58 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2125189-174](../../../../../votacoes/2125189-174/) |
 | 29 nov 2023 | Aprovado o Requerimento de Urgência (art. 155 do RICD). Sim: 302; não: 57; total: 359. | Maioria do partido: sim (47 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2407960-8](../../../../../votacoes/2407960-8/) |
-| 22 nov 2023 | Rejeitado o requerimento. Sim: 45; não: 371, total: 416. | Maioria do partido: nao (1 sim / 57 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2312373-128](../../../../../votacoes/2312373-128/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

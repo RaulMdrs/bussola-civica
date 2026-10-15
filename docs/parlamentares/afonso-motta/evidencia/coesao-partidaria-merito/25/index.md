@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Motta — Coesão com o próprio partido, Mérito (página 25)"
-description: "A decomposição completa do número de Afonso Motta: 485 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 481ª à 485ª."
+description: "A decomposição completa do número de Afonso Motta: 487 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 481ª à 487ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Afonso Motta: 485 votaçõ
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>92,0%</b> é <b>446</b> coincidências em
-<b>485</b> votações computáveis — as outras 39 estão
+<p><b>91,8%</b> é <b>447</b> coincidências em
+<b>487</b> votações computáveis — as outras 40 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>481ª</b> à
-<b>485ª</b>.</p>
+<b>487ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>481ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 25 abr 2023 | Mantido o texto. Sim: 289; não: 108; total: 397. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2344938-48](../../../../../votacoes/2344938-48/) |
+| 25 abr 2023 | Mantido o texto. Sim: 282; não: 115; total: 397. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2344938-60](../../../../../votacoes/2344938-60/) |
 | 25 abr 2023 | Rejeitada a Emenda de Comissão nº 9. Sim: 132; não: 242; total: 374. | Maioria do partido: nao (2 sim / 8 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2344938-71](../../../../../votacoes/2344938-71/) |
 | 30 mar 2023 | Aprovada a Emenda de Plenário nº 4. Sim: 150; não: 122; total: 272. | Maioria do partido: nao (0 sim / 10 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2345368-50](../../../../../votacoes/2345368-50/) |
 | 30 mar 2023 | Rejeitada a Emenda de Comissão nº 15. Sim: 143; não: 195; total: 338. | Maioria do partido: nao (0 sim / 12 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2345368-56](../../../../../votacoes/2345368-56/) |

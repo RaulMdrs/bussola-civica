@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Hamm — Coesão com o próprio partido, Mérito (página 12)"
-description: "A decomposição completa do número de Afonso Hamm: 450 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
+description: "A decomposição completa do número de Afonso Hamm: 451 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Afonso Hamm: 450 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>70,2%</b> é <b>316</b> coincidências em
-<b>450</b> votações computáveis — as outras 134 estão
+<p><b>70,3%</b> é <b>317</b> coincidências em
+<b>451</b> votações computáveis — as outras 134 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 19 dez 2024 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 31, de 2007, ressalvado o destaque. Sim: 348; Não: 146; Total: 494. | Maioria do partido: sim (40 sim / 8 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [347421-221](../../../../../votacoes/347421-221/) |
 | 19 dez 2024 | Mantido o texto. Sim: 358; Não: 129; Abstenção: 1; Total: 488. | Maioria do partido: sim (42 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [347421-224](../../../../../votacoes/347421-224/) |
 | 18 dez 2024 | Aprovadas as Emendas do Senado Federal ao Projeto de Lei nº 327, de 2021, com parecer pela aprovação, com exceção da Emenda nº 3; do inciso II, do §1º, do art. 3º da Emenda nº 2; do §2º, do art. 3º da Emenda nº 4; e do inciso VIII e da exclusão do §4º promovida pelo art. 1º da Emenda nº 5. Sim: 448; Não: 14; Abstenção: 1; Total: 463. | Maioria do partido: sim (45 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2269745-144](../../../../../votacoes/2269745-144/) |
 | 18 dez 2024 | Aprovada a Emenda Aglutinativa nº 1. Sim: 444; Não: 16; Abstenção: 1; Total: 461. | Maioria do partido: sim (44 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2473389-80](../../../../../votacoes/2473389-80/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 | 05 dez 2024 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 136, de 2024, adotado pela relatora da Comissão de Segurança Pública e Combate ao Crime Organizado. Sim: 348; Não: 57; Total: 405. | Maioria do partido: sim (31 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454257-27](../../../../../votacoes/2454257-27/) |
 | 27 nov 2024 | Aprovado o Projeto de Lei nº 3.819, de 2024. Sim: 364; Não: 47; Abstenção: 1; Total: 412. | Maioria do partido: sim (37 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2461207-38](../../../../../votacoes/2461207-38/) |
 | 27 nov 2024 | Aprovada a Emenda de Plenário nº 1. Sim: 266; Não: 78; Abstenção: 4; Total: 348. | Maioria do partido: sim (35 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [480184-129](../../../../../votacoes/480184-129/) |
-| 19 nov 2024 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 2.148, de 2015, com exceção do art. 56. Sim: 336; Não: 38; Abstenção: 2; Total: 376. | Maioria do partido: sim (40 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [1548579-194](../../../../../votacoes/1548579-194/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Luiz Carlos Busato — Coesão com o próprio partido, Mérito (página 4)"
-description: "A decomposição completa do número de Luiz Carlos Busato: 495 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
+description: "A decomposição completa do número de Luiz Carlos Busato: 497 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Luiz Carlos Busato: 495 vo
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>91,9%</b> é <b>455</b> coincidências em
-<b>495</b> votações computáveis — as outras 40 estão
+<p><b>91,8%</b> é <b>456</b> coincidências em
+<b>497</b> votações computáveis — as outras 41 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 16 dez 2025 | Mantido o texto. Sim: 286; Não: 116; Total: 402. | Maioria do partido: sim (32 sim / 16 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2520670-66](../../../../../votacoes/2520670-66/) |
+| 15 dez 2025 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 108, de 2024, com parecer pela aprovação, excetuadas as modificações indicadas no Parecer da Comissão de Indústria, Comércio e Serviços. Sim: 330; Não: 104; Total: 434. | Maioria do partido: sim (32 sim / 16 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-113](../../../../../votacoes/2438459-113/) |
 | 15 dez 2025 | Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei complementar nº 108, de 2024, com parecer pela rejeição, indicados no Parecer da Comissão de Indústria, Comércio e Serviços. Sim: 77; Não: 252; Total: 329. | Maioria do partido: nao (15 sim / 24 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438459-115](../../../../../votacoes/2438459-115/) |
 | 15 dez 2025 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 163, de 2025. Sim: 320; Não: 109; Total: 429. | Maioria do partido: sim (38 sim / 12 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2541109-88](../../../../../votacoes/2541109-88/) |
 | 15 dez 2025 | Aprovado o Projeto de Lei nº 4.278, de 2025, ressalvado o destaque. Sim: 325; Não: 119; Abstenção: 3; Total: 447. | Maioria do partido: sim (37 sim / 16 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2554285-48](../../../../../votacoes/2554285-48/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 | 02 dez 2025 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 72, de 2023. Sim: 412; Não: 4; Total: 416. | Maioria do partido: sim (42 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422905-68](../../../../../votacoes/2422905-68/) |
 | 02 dez 2025 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 72, de 2023. Sim: 397; Não: 3; Total: 400. | Maioria do partido: sim (45 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422905-75](../../../../../votacoes/2422905-75/) |
 | 02 dez 2025 | Mantido o texto. Sim: 300; Não: 123; Total: 423. | Maioria do partido: sim (42 sim / 7 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2541991-38](../../../../../votacoes/2541991-38/) |
-| 26 nov 2025 | Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 453, de 2017, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 427; Não: 18; Total: 445. | Maioria do partido: sim (44 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2164336-110](../../../../../votacoes/2164336-110/) |
-| 26 nov 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 331, de 2020, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 386; Não: 7; Total: 393. | Maioria do partido: sim (42 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2237596-92](../../../../../votacoes/2237596-92/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

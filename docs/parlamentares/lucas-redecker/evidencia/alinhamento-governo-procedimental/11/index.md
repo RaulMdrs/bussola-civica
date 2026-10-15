@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Lucas Redecker — Alinhamento com o governo federal, Procedimental (página 11)"
-description: "A decomposição completa do número de Lucas Redecker: 389 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
+description: "A decomposição completa do número de Lucas Redecker: 390 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Lucas Redecker: 389 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>41,9%</b> é <b>163</b> coincidências em
-<b>389</b> votações computáveis — as outras 226 estão
+<p><b>42,1%</b> é <b>164</b> coincidências em
+<b>390</b> votações computáveis — as outras 226 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 04 dez 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 260; Não: 98; Abstenção: 2; Total: 360. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2475018-8](../../../../../votacoes/2475018-8/) |
 | 03 dez 2024 | Rejeitado o Requerimento. Sim: 38; Não: 357; Total: 395. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2462730-28](../../../../../votacoes/2462730-28/) |
 | 27 nov 2024 | Rejeitado o Requerimento. Sim: 113; Não: 268; Total: 381. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [559138-237](../../../../../votacoes/559138-237/) |
 | 27 nov 2024 | Rejeitado o Requerimento. Sim: 116; Não: 274; Total: 390. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [559138-241](../../../../../votacoes/559138-241/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 | 18 set 2024 | Rejeitado o Requerimento. Sim: 22; Não: 342; Abstenção: 2; Total: 366. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2452037-70](../../../../../votacoes/2452037-70/) |
 | 11 set 2024 | Rejeitado o Requerimento. Sim: 14; Não: 280; Abstenção: 2; Total: 296. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2238434-146](../../../../../votacoes/2238434-146/) |
 | 11 set 2024 | Rejeitado o Requerimento. Sim: 22; Não: 309; Abstenção: 2; Total: 333. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2238434-150](../../../../../votacoes/2238434-150/) |
-| 11 set 2024 | Rejeitado o Requerimento. Sim: 9; Não: 352; Abstenção: 1; Total: 362. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2408709-73](../../../../../votacoes/2408709-73/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

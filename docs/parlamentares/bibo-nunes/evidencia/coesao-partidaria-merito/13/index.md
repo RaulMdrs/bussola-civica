@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Bibo Nunes — Coesão com o próprio partido, Mérito (página 13)"
-description: "A decomposição completa do número de Bibo Nunes: 521 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
+description: "A decomposição completa do número de Bibo Nunes: 523 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Bibo Nunes: 521 votações
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>95,0%</b> é <b>495</b> coincidências em
-<b>521</b> votações computáveis — as outras 26 estão
+<p><b>95,0%</b> é <b>497</b> coincidências em
+<b>523</b> votações computáveis — as outras 26 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>27 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 abr 2025 | Mantido o texto. Sim: 275; Não: 121; Total: 396. | Maioria do partido: nao (5 sim / 64 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2456731-75](../../../../../votacoes/2456731-75/) |
+| 29 abr 2025 | Mantido o texto. Sim: 269; Não: 124; Total: 393. | Maioria do partido: nao (6 sim / 63 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2456731-79](../../../../../votacoes/2456731-79/) |
 | 29 abr 2025 | Mantido o texto. Sim: 266; Não: 118; Total: 384. | Maioria do partido: nao (5 sim / 63 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2456731-84](../../../../../votacoes/2456731-84/) |
 | 28 abr 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 363, de 2025, adotado pela relatora da Comissão de Cultura, ressalvados os destaques. Sim: 278; Não: 111; Total: 389. | Maioria do partido: nao (10 sim / 57 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2483495-52](../../../../../votacoes/2483495-52/) |
 | 28 abr 2025 | Mantido o texto. Sim: 266; Não: 113; Total: 379. | Maioria do partido: nao (9 sim / 55 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2483495-56](../../../../../votacoes/2483495-56/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 | 25 fev 2025 | Aprovado o Projeto de Lei nº 4.187, de 2024. Sim: 269; Não: 136; Abstenção: 2; Total: 407. | Maioria do partido: nao (12 sim / 64 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2466108-33](../../../../../votacoes/2466108-33/) |
 | 18 fev 2025 | Rejeitado o Substitutivo ao Projeto de Lei Complementar nº 223, de 2023, da Comissão de Indústria, Comércio e Serviços. Sim: 34; Não: 356; Abstenção: 1; Total: 391. | Maioria do partido: nao (2 sim / 74 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2397890-54](../../../../../votacoes/2397890-54/) |
 | 18 fev 2025 | Aprovado o Projeto de Lei Complementar nº 223, de 2023. Sim: 407; Não: 6; Total: 413. | Maioria do partido: sim (73 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2397890-55](../../../../../votacoes/2397890-55/) |
-| 12 fev 2025 | Aprovado o Projeto de Lei nº 2.215, de 2024. Sim: 273; Não: 136; Total: 409. | Maioria do partido: nao (5 sim / 74 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438467-47](../../../../../votacoes/2438467-47/) |
-| 11 fev 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 9.133, de 2017, adotado pela relatora da Comissão de Educação. Sim: 297; Não: 107; Abstenção: 1; Total: 405. | Maioria do partido: nao (13 sim / 57 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2162802-89](../../../../../votacoes/2162802-89/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

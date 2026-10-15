@@ -12,7 +12,7 @@ description: "Os 3 senadores gaúchos: coesão partidária a partir das votaçõ
 <div class="interrompe">
 <h4>Não compare estes números com os dos deputados</h4>
 <p>O Senado tem outro universo: <b>117 votações abertas</b> no
-período, contra 1.125 nominais da Câmara, porque
+período, contra 1.128 nominais da Câmara, porque
 <b>67% das votações do Senado são secretas</b> — nelas a origem
 confirma que o senador votou, não como.</p>
 </div>

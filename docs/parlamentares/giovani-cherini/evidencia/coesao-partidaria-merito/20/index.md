@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Giovani Cherini — Coesão com o próprio partido, Mérito (página 20)"
-description: "A decomposição completa do número de Giovani Cherini: 488 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 400ª."
+description: "A decomposição completa do número de Giovani Cherini: 490 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 400ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Giovani Cherini: 488 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>93,4%</b> é <b>456</b> coincidências em
-<b>488</b> votações computáveis — as outras 32 estão
+<p><b>93,5%</b> é <b>458</b> coincidências em
+<b>490</b> votações computáveis — as outras 32 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 15 dez 2023 | Mantido o texto. Sim: 437; não: 10; total: 447. | Maioria do partido: sim (81 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-151](../../../../../votacoes/259094-151/) |
+| 15 dez 2023 | Mantido o texto. Sim: 324; não: 142; abstenção: 3; total: 469. | Maioria do partido: sim (48 sim / 38 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-166](../../../../../votacoes/259094-166/) |
 | 15 dez 2023 | Mantido o texto. Sim: 341; não: 153; abstenção: 4; total: 498. | Maioria do partido: sim (48 sim / 40 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-176](../../../../../votacoes/259094-176/) |
 | 15 dez 2023 | Suprimido o texto. Sim: 299; não: 192; abstenção: 2; total: 493. | Maioria do partido: nao (43 sim / 45 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [259094-179](../../../../../votacoes/259094-179/) |
 | 15 dez 2023 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques. Sim: 365; não: 118; abstenção: 1; total: 484. | Maioria do partido: nao (15 sim / 73 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [259094-190](../../../../../votacoes/259094-190/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
 | 29 nov 2023 | Aprovado o Projeto de Lei nº 3.268, de 2021. Sim: 286; não: 121; abstenção: 2; total: 409. | Maioria do partido: nao (14 sim / 63 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2299903-53](../../../../../votacoes/2299903-53/) |
 | 29 nov 2023 | Aprovado o Projeto de Lei Complementar nº 205, de 2023.Sim: 326; não: 84; abstenção: 1; total: 411. | Maioria do partido: nao (27 sim / 54 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2398741-64](../../../../../votacoes/2398741-64/) |
 | 22 nov 2023 | Rejeitada a Emenda do Senado Federal ao Projeto de Lei nº 4.416, de 2023. Sim: 31, não: 375, abstenção: 2, total: 408. | Maioria do partido: nao (6 sim / 68 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2312373-140](../../../../../votacoes/2312373-140/) |
-| 22 nov 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.768, de 2023, adotada pela Relatora da Comissão de Indústria, Comércio e Serviços, ressalvados os destaques. Sim: 423; não: 11; abstenção: 1; total: 435. | Maioria do partido: sim (72 sim / 5 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2355510-53](../../../../../votacoes/2355510-53/) |
-| 22 nov 2023 | Aprovado o Projeto de Lei nº 4.035, de 2023, ressalvados os destaques. Sim: 235; não: 110; abstenção: 1; total: 346. | Maioria do partido: nao (6 sim / 55 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2381043-63](../../../../../votacoes/2381043-63/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daiana Santos — Alinhamento com o governo federal, Mérito (página 10)"
-description: "A decomposição completa do número de Daiana Santos: 348 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
+description: "A decomposição completa do número de Daiana Santos: 350 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Daiana Santos: 348 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>95,1%</b> é <b>331</b> coincidências em
-<b>348</b> votações computáveis — as outras 17 estão
+<p><b>95,1%</b> é <b>333</b> coincidências em
+<b>350</b> votações computáveis — as outras 17 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 18 dez 2024 | Aprovada a preferência. Sim: 294; Não: 172; Total: 466. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [347421-192](../../../../../votacoes/347421-192/) |
+| 17 dez 2024 | Aprovados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela aprovação. Sim: 324; Não: 123; Abstenção: 3; Total: 450. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430143-140](../../../../../votacoes/2430143-140/) |
 | 17 dez 2024 | Rejeitados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela rejeição. Sim: 18; Não: 328; Abstenção: 7; Total: 353. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2430143-142](../../../../../votacoes/2430143-142/) |
 | 17 dez 2024 | Aprovada a Emenda de Redação n° 2. Sim: 314; Não: 117; Abstenção: 1; Total: 432. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430143-144](../../../../../votacoes/2430143-144/) |
 | 17 dez 2024 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 210, de 2024, adotado pelo relator da Comissão Especial. Sim: 318; Não: 149; Total: 467. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2473389-58](../../../../../votacoes/2473389-58/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 | 19 nov 2024 | Rejeitados os artigos 3º e 7º; a supressão do § 4º do art. 4º aprovado pela Câmara, reestabelecendo o referido dispositivo, e rejeitado o § 2º do art. 8º. Sim: 41; Não: 343; Total: 384. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2466104-97](../../../../../votacoes/2466104-97/) |
 | 19 nov 2024 | Mantido o texto. Sim: 236; Não: 99; Total: 335. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2467306-39](../../../../../votacoes/2467306-39/) |
 | 05 nov 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 175, de 2024, adotada pelo relator da Comissão de Administração e Serviço Público, ressalvados os destaques. Sim: 330; Não: 74; Abstenção: 2; Total: 406. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2466104-39](../../../../../votacoes/2466104-39/) |
-| 30 out 2024 | Mantido o texto. Sim: 292; Não: 106; Total: 398. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-66](../../../../../votacoes/2438459-66/) |
-| 30 out 2024 | Aprovada a Emenda Aglutinativa n° 1. Sim: 403; Total: 403. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-69](../../../../../votacoes/2438459-69/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

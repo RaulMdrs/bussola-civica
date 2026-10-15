@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Carlos Gomes — Alinhamento com o governo federal, Mérito (página 4)"
-description: "A decomposição completa do número de Carlos Gomes: 102 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
+description: "A decomposição completa do número de Carlos Gomes: 104 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Carlos Gomes: 102 votaçõ
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>85,3%</b> é <b>87</b> coincidências em
-<b>102</b> votações computáveis — as outras 15 estão
+<p><b>84,6%</b> é <b>88</b> coincidências em
+<b>104</b> votações computáveis — as outras 16 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>6 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 23 ago 2023 | Aprovada a Medida Provisória nº 1.172, de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 439; não: 1; abstenção: 1; total: 441. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2359135-39](../../../../../votacoes/2359135-39/) |
+| 22 ago 2023 | Aprovadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 93-B, de 2023, nºs 4, 10 e 14, ressalvados os destaques. Sim: 379; não: 64; total: 443. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357053-108](../../../../../votacoes/2357053-108/) |
 | 22 ago 2023 | Rejeitadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 93-B, de 2023, nºs 1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 13 e 15, ressalvados os destaques. Sim: 19; não: 423; abstenção: 2; total: 444. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2357053-110](../../../../../votacoes/2357053-110/) |
 | 07 jul 2023 | Mantido o texto. Sim: 336; não: 132; total: 468. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-386](../../../../../votacoes/2196833-386/) |
 | 07 jul 2023 | Mantido o texto. Sim: 349; não: 84; abstenção: 2; total: 435. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-390](../../../../../votacoes/2196833-390/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 | 06 jul 2023 | Mantido o texto. Sim: 461; não: 24; abstenção: 2; total: 487. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-365](../../../../../votacoes/2196833-365/) |
 | 06 jul 2023 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques. Sim: 375; não: 113; abstenção:3; total: 491. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-373](../../../../../votacoes/2196833-373/) |
 | 06 jul 2023 | Mantido o texto. Sim: 423; não: 37; abstenção: 1; total: 461. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-380](../../../../../votacoes/2196833-380/) |
-| 14 jun 2023 | Aprovada a Medida Provisória nº 1.165 de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 353; não: 58; abstenção: 1; total: 412. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2351990-37](../../../../../votacoes/2351990-37/) |
-| 13 jun 2023 | Aprovado o Projeto de Lei nº 2.250, de 2023. Sim: 318; não: 31; total: 349. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2358922-21](../../../../../votacoes/2358922-21/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

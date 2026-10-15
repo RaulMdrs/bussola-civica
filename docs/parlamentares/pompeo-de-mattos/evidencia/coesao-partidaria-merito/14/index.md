@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Pompeo de Mattos — Coesão com o próprio partido, Mérito (página 14)"
-description: "A decomposição completa do número de Pompeo de Mattos: 463 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
+description: "A decomposição completa do número de Pompeo de Mattos: 465 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Pompeo de Mattos: 463 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>89,4%</b> é <b>414</b> coincidências em
-<b>463</b> votações computáveis — as outras 49 estão
+<p><b>89,5%</b> é <b>416</b> coincidências em
+<b>465</b> votações computáveis — as outras 49 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>24 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 17 dez 2024 | Rejeitada a Emenda de Plenário nº 9. Sim: 227; Não: 233; Abstenção: 1; Total: 461. | Maioria do partido: sim (16 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2473389-62](../../../../../votacoes/2473389-62/) |
+| 17 dez 2024 | Rejeitada a Emenda de Plenário nº 19. Sim: 186; Não: 256; Total: 442. | Maioria do partido: nao (2 sim / 13 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2473389-65](../../../../../votacoes/2473389-65/) |
 | 17 dez 2024 | Rejeitada a Emenda de Plenário n° 38. Sim: 59; Não: 385; Abstenção: 1; Total: 445. | Maioria do partido: sim (15 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2473389-68](../../../../../votacoes/2473389-68/) |
 | 12 dez 2024 | Aprovado o Substitutivo Reformulado ao Projeto de Lei nº 1.637, de 2019, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 238; Não: 111; Abstenção: 2; Total: 351. | Maioria do partido: nao (1 sim / 8 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2194861-77](../../../../../votacoes/2194861-77/) |
 | 12 dez 2024 | Aprovada a Emenda de Plenário n° 1. Sim: 267; Não: 85; Abstenção: 14; Total: 366. | Maioria do partido: sim (6 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2258828-105](../../../../../votacoes/2258828-105/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 | 30 out 2024 | Rejeitada a Emenda de Plenário n° 8. Sim: 156; Não: 245; Total: 401. | Maioria do partido: nao (0 sim / 16 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2456554-50](../../../../../votacoes/2456554-50/) |
 | 12 set 2024 | Aprovada a Emenda de Redação n° 1 Sim: 231; Não: 54; Abstenção: 1; Total: 286. | Maioria do partido: sim (11 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454704-76](../../../../../votacoes/2454704-76/) |
 | 11 set 2024 | Aprovado o Projeto de Lei nº 1.847, de 2024, ressalvados os destaques. Sim: 253; Não: 67; Abstenção: 4; Total: 324. | Maioria do partido: sim (15 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454704-53](../../../../../votacoes/2454704-53/) |
-| 11 set 2024 | Rejeitadas as Emendas de Plenário. Sim: 57; Não: 228; Abstenção: 3; Total: 288. | Maioria do partido: nao (0 sim / 13 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2454704-55](../../../../../votacoes/2454704-55/) |
-| 11 set 2024 | Rejeitada a Emenda de Plenário nº 18. Sim: 133; Não: 204; Total: 337. | Maioria do partido: nao (0 sim / 11 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2454704-58](../../../../../votacoes/2454704-58/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

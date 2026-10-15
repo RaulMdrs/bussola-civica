@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Sanderson — Coesão com o próprio partido, Mérito (página 13)"
-description: "A decomposição completa do número de Sanderson: 505 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
+description: "A decomposição completa do número de Sanderson: 507 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Sanderson: 505 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>93,5%</b> é <b>472</b> coincidências em
-<b>505</b> votações computáveis — as outras 33 estão
+<p><b>93,5%</b> é <b>474</b> coincidências em
+<b>507</b> votações computáveis — as outras 33 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 abr 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 3.469, de 2024, adotado pelo relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvados os destaques. Sim: 261; Não: 108; Total: 369. | Maioria do partido: nao (7 sim / 59 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2456731-71](../../../../../votacoes/2456731-71/) |
+| 29 abr 2025 | Mantido o texto. Sim: 275; Não: 121; Total: 396. | Maioria do partido: nao (5 sim / 64 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2456731-75](../../../../../votacoes/2456731-75/) |
 | 29 abr 2025 | Mantido o texto. Sim: 269; Não: 124; Total: 393. | Maioria do partido: nao (6 sim / 63 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2456731-79](../../../../../votacoes/2456731-79/) |
 | 29 abr 2025 | Mantido o texto. Sim: 266; Não: 118; Total: 384. | Maioria do partido: nao (5 sim / 63 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2456731-84](../../../../../votacoes/2456731-84/) |
 | 28 abr 2025 | Mantido o texto. Sim: 266; Não: 113; Total: 379. | Maioria do partido: nao (9 sim / 55 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2483495-56](../../../../../votacoes/2483495-56/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 | 25 fev 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 167, de 2024, adotada pelo relator da Comissão de Indústria, Comércio e Serviços. Sim: 399; Total: 399. | Maioria do partido: sim (75 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2463712-40](../../../../../votacoes/2463712-40/) |
 | 25 fev 2025 | Aprovado o Projeto de Lei nº 4.187, de 2024. Sim: 269; Não: 136; Abstenção: 2; Total: 407. | Maioria do partido: nao (12 sim / 64 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2466108-33](../../../../../votacoes/2466108-33/) |
 | 18 fev 2025 | Rejeitado o Substitutivo ao Projeto de Lei Complementar nº 223, de 2023, da Comissão de Indústria, Comércio e Serviços. Sim: 34; Não: 356; Abstenção: 1; Total: 391. | Maioria do partido: nao (2 sim / 74 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2397890-54](../../../../../votacoes/2397890-54/) |
-| 18 fev 2025 | Aprovado o Projeto de Lei Complementar nº 223, de 2023. Sim: 407; Não: 6; Total: 413. | Maioria do partido: sim (73 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2397890-55](../../../../../votacoes/2397890-55/) |
-| 12 fev 2025 | Aprovado o Projeto de Lei nº 2.215, de 2024. Sim: 273; Não: 136; Total: 409. | Maioria do partido: nao (5 sim / 74 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438467-47](../../../../../votacoes/2438467-47/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

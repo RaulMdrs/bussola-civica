@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Osmar Terra — Alinhamento com o governo federal, Mérito (página 2)"
-description: "A decomposição completa do número de Osmar Terra: 357 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
+description: "A decomposição completa do número de Osmar Terra: 359 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Osmar Terra: 357 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>30,3%</b> é <b>108</b> coincidências em
-<b>357</b> votações computáveis — as outras 249 estão
+<p><b>30,4%</b> é <b>109</b> coincidências em
+<b>359</b> votações computáveis — as outras 250 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 08 abr 2026 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 383, de 2017, na forma da Emenda Aglutinativa nº 2. Sim: 464; Não: 16; Total: 480. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2162116-169](../../../../../votacoes/2162116-169/) |
+| 07 abr 2026 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 109, de 2025, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 381; Não: 2; Total: 383. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2503998-75](../../../../../votacoes/2503998-75/) |
 | 07 abr 2026 | Mantido o texto. Sim: 268; Não: 99; Total: 367. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2581700-31](../../../../../votacoes/2581700-31/) |
 | 25 mar 2026 | Aprovado o Projeto de Lei nº 6.359, de 2025. Sim: 258; Não: 140; Abstenção: 1; Total: 399. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2595984-34](../../../../../votacoes/2595984-34/) |
 | 25 mar 2026 | Aprovado o Projeto de Lei Complementar nº 77, de 2026, ressalvado o destaque. Sim: 391; Não: 33; Abstenção: 2; Total: 426. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2611717-33](../../../../../votacoes/2611717-33/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 | 16 dez 2025 | Mantido o texto. Sim: 441; Não: 3; Total: 444. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-139](../../../../../votacoes/2438459-139/) |
 | 16 dez 2025 | Mantido o texto. Sim: 423; Não: 23; Abstenção: 1; Total: 447. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-141](../../../../../votacoes/2438459-141/) |
 | 16 dez 2025 | Suprimido o texto. Sim: 15; Não: 334; Total: 349. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438459-143](../../../../../votacoes/2438459-143/) |
-| 16 dez 2025 | Suprimido o texto. Sim: 221; Não: 242; Abstenção: 2; Total: 465. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2438459-146](../../../../../votacoes/2438459-146/) |
-| 16 dez 2025 | Aprovadas as Emendas de Redação nºs 1, 2 e 4. Sim: 408; Não: 3; Abstenção: 1; Total: 412. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-148](../../../../../votacoes/2438459-148/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

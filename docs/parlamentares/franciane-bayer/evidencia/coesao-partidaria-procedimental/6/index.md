@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Franciane Bayer — Coesão com o próprio partido, Procedimental (página 6)"
-description: "A decomposição completa do número de Franciane Bayer: 472 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
+description: "A decomposição completa do número de Franciane Bayer: 473 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Franciane Bayer: 472 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>83,1%</b> é <b>392</b> coincidências em
-<b>472</b> votações computáveis — as outras 80 estão
+<p><b>82,9%</b> é <b>392</b> coincidências em
+<b>473</b> votações computáveis — as outras 81 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>24 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 24 set 2025 | Rejeitado o Requerimento. Sim: 156; Não: 280; Total: 436. | Maioria do partido: nao (5 sim / 36 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2541109-27](../../../../../votacoes/2541109-27/) |
 | 18 set 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 369; Não: 38; Total: 407. | Maioria do partido: sim (35 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2558692-10](../../../../../votacoes/2558692-10/) |
 | 17 set 2025 | Rejeitado o Requerimento. Sim: 132; Não: 309; Total: 441. | Maioria do partido: nao (2 sim / 37 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2270800-172](../../../../../votacoes/2270800-172/) |
 | 17 set 2025 | Rejeitado o Requerimento. Sim: 118; Não: 326; Total: 444. | Maioria do partido: nao (3 sim / 39 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2515300-26](../../../../../votacoes/2515300-26/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 | 27 ago 2025 | Rejeitado o Requerimento. Sim: 116; Não: 269; Total: 385. | Maioria do partido: nao (3 sim / 32 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2432423-82](../../../../../votacoes/2432423-82/) |
 | 27 ago 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 349; Não: 11; Total: 360. | Maioria do partido: sim (32 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2552333-8](../../../../../votacoes/2552333-8/) |
 | 19 ago 2025 | Rejeitado o Requerimento. Sim: 23; Não: 380; Total: 403. | Maioria do partido: nao (1 sim / 32 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2503832-40](../../../../../votacoes/2503832-40/) |
-| 19 ago 2025 | Rejeitado o Requerimento. Sim: 131; Não: 228; Total: 359. | Maioria do partido: nao (4 sim / 28 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2530336-32](../../../../../votacoes/2530336-32/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

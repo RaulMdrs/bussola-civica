@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Fernanda Melchionna — Alinhamento com o governo federal, Mérito (página 15)"
-description: "A decomposição completa do número de Fernanda Melchionna: 360 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
+description: "A decomposição completa do número de Fernanda Melchionna: 362 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,10 +11,10 @@ description: "A decomposição completa do número de Fernanda Melchionna: 360 v
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>83,1%</b> é <b>299</b> coincidências em
-<b>360</b> votações computáveis — as outras 61 estão
+<p><b>83,1%</b> é <b>301</b> coincidências em
+<b>362</b> votações computáveis — as outras 61 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
-repartida em <b>18 páginas</b> de até 20 votações,
+repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 <b>300ª</b>.</p>
 </div>
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 nov 2023 | Aprovado o Projeto de Lei nº 3.954, de 2023. Sim: 307; não: 27; abstenção: 1; total: 338. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2333929-40](../../../../../votacoes/2333929-40/) |
+| 29 nov 2023 | Aprovado o Projeto de Lei Complementar nº 205, de 2023.Sim: 326; não: 84; abstenção: 1; total: 411. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2398741-64](../../../../../votacoes/2398741-64/) |
 | 08 nov 2023 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 6.385-C, de 2016, ressalvados os destaques. Sim: 296; não: 121; abstenção: 2; total: 419. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2115253-175](../../../../../votacoes/2115253-175/) |
 | 08 nov 2023 | Mantido o texto. Sim: 268; não: 124; total: 392. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2115253-179](../../../../../votacoes/2115253-179/) |
 | 08 nov 2023 | Aprovado o Projeto de Lei nº 4.287, de 2023. Sim: 369; não: 5; total: 374. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2391935-43](../../../../../votacoes/2391935-43/) |
@@ -43,13 +45,11 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 | 03 out 2023 | Rejeitada a Emenda nº 33 do Senado Federal. Sim: 159; não: 251; abstenção: 6; total: 416. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2309053-179](../../../../../votacoes/2309053-179/) |
 | 27 set 2023 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 275; não: 2; abstenção: 4; total: 281. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2367600-45](../../../../../votacoes/2367600-45/) |
 | 27 set 2023 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em que manifesta opinião pelo não atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 259; não: 1; abstenção: 3; total: 263. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2367600-47](../../../../../votacoes/2367600-47/) |
-| 27 set 2023 | Aprovada a Medida Provisória nº 1.177, de 2023. Sim: 270; não: 1; abstenção: 1; total: 272. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2367600-49](../../../../../votacoes/2367600-49/) |
-| 14 set 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 136, de 2023, adotada pelo Relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 349; não: 68; abstenção: 2; total: 419. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2372071-41](../../../../../votacoes/2372071-41/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">
 <a class="passo" href="../14/" rel="prev">← Anteriores</a>
-<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../13/">13</a><a href="../14/">14</a><b aria-current="page">15</b><a href="../16/">16</a><a href="../17/">17</a><a href="../18/">18</a></span>
+<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../13/">13</a><a href="../14/">14</a><b aria-current="page">15</b><a href="../16/">16</a><a href="../17/">17</a><span class="salto">…</span><a href="../19/">19</a></span>
 <a class="passo" href="../16/" rel="next">Próximas →</a>
 </nav>
 

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Covatti Filho — Coesão com o próprio partido, Mérito (página 17)"
-description: "A decomposição completa do número de Covatti Filho: 429 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
+description: "A decomposição completa do número de Covatti Filho: 431 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Covatti Filho: 429 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>57,3%</b> é <b>246</b> coincidências em
-<b>429</b> votações computáveis — as outras 183 estão
+<p><b>57,5%</b> é <b>248</b> coincidências em
+<b>431</b> votações computáveis — as outras 183 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 15 dez 2023 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques. Sim: 365; não: 118; abstenção: 1; total: 484. | Maioria do partido: sim (36 sim / 9 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-190](../../../../../votacoes/259094-190/) |
+| 15 dez 2023 | Mantido o texto. Sim: 333; não: 154; total: 487. | Maioria do partido: sim (33 sim / 13 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-193](../../../../../votacoes/259094-193/) |
 | 15 dez 2023 | Suprimido o texto. Sim: 293; não: 198; abstenção: 1; total: 492. | Maioria do partido: sim (27 sim / 21 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-199](../../../../../votacoes/259094-199/) |
 | 14 dez 2023 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião pelo não atendimento dos pressupostos constitucionais de relevância e urgência e pela inadequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 221; não: 40; abstenção: 3; total: 264. | Maioria do partido: sim (22 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2387579-35](../../../../../votacoes/2387579-35/) |
 | 14 dez 2023 | Mantido o texto. Sim: 225; não: 32; total: 257. | Maioria do partido: sim (21 sim / 4 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2387579-40](../../../../../votacoes/2387579-40/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 | 22 nov 2023 | Aprovado o Projeto de Lei nº 4.035, de 2023, ressalvados os destaques. Sim: 235; não: 110; abstenção: 1; total: 346. | Maioria do partido: sim (29 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2381043-63](../../../../../votacoes/2381043-63/) |
 | 22 nov 2023 | Mantido o texto. Sim: 205; não: 53; abstenção: 5; total: 263. | Maioria do partido: sim (23 sim / 7 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2381043-66](../../../../../votacoes/2381043-66/) |
 | 21 nov 2023 | Aprovado o Substitutivo ao Projeto de Lei nº 5.228, de 2019, apensado, adotado pela relatora da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família, ressalvados os destaques. Sim: 286; não: 91; total: 377. | Maioria do partido: sim (35 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [575585-92](../../../../../votacoes/575585-92/) |
-| 21 nov 2023 | Mantido o texto. Sim: 312; não: 104; total: 416. | Maioria do partido: sim (35 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [575585-99](../../../../../votacoes/575585-99/) |
-| 08 nov 2023 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 6.385-C, de 2016, ressalvados os destaques. Sim: 296; não: 121; abstenção: 2; total: 419. | Maioria do partido: sim (39 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2115253-175](../../../../../votacoes/2115253-175/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

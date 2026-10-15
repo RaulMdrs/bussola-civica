@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Heitor Schuch — Alinhamento com o governo federal, Mérito (página 14)"
-description: "A decomposição completa do número de Heitor Schuch: 277 votações em 14 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 277ª."
+description: "A decomposição completa do número de Heitor Schuch: 279 votações em 14 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 279ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Heitor Schuch: 277 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>88,1%</b> é <b>244</b> coincidências em
-<b>277</b> votações computáveis — as outras 33 estão
+<p><b>87,8%</b> é <b>245</b> coincidências em
+<b>279</b> votações computáveis — as outras 34 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>14 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
-<b>277ª</b>.</p>
+<b>279ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 31 mai 2023 | Aprovada a Medida Provisória nº 1.154 de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 337; não: 125; abstenção: 1; total: 463. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345493-41](../../../../../votacoes/2345493-41/) |
+| 31 mai 2023 | Mantido o texto. Sim: 324; não: 114; abstenção: 1; total: 439. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345493-44](../../../../../votacoes/2345493-44/) |
 | 31 mai 2023 | Mantido o texto. Sim: 260; não: 186; abstenção: 2; total: 448. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345493-47](../../../../../votacoes/2345493-47/) |
 | 31 mai 2023 | Rejeitada a Emenda de Comissão nº 14. Sim: 182; não: ; 243; abstenção: 2; total: 427. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2345493-50](../../../../../votacoes/2345493-50/) |
 | 30 mai 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 490, de 2007, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 283; não: 155; abstenção: 1; total: 439. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [345311-270](../../../../../votacoes/345311-270/) |

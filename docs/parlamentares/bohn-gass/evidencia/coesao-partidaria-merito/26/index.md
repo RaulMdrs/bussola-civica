@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Bohn Gass — Coesão com o próprio partido, Mérito (página 26)"
-description: "A decomposição completa do número de Bohn Gass: 524 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 501ª à 520ª."
+description: "A decomposição completa do número de Bohn Gass: 526 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 501ª à 520ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Bohn Gass: 524 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,9%</b> é <b>513</b> coincidências em
-<b>524</b> votações computáveis — as outras 11 estão
+<p><b>97,9%</b> é <b>515</b> coincidências em
+<b>526</b> votações computáveis — as outras 11 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>27 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>501ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>501ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 31 mai 2023 | Rejeitada a Emenda de Comissão nº 14. Sim: 182; não: ; 243; abstenção: 2; total: 427. | Maioria do partido: nao (1 sim / 58 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2345493-50](../../../../../votacoes/2345493-50/) |
+| 30 mai 2023 | Rejeitada a Emenda de Comissão nº 98. Sim: 159; não: 270; total: 429. | Maioria do partido: nao (0 sim / 60 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2349947-42](../../../../../votacoes/2349947-42/) |
 | 30 mai 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 490, de 2007, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 283; não: 155; abstenção: 1; total: 439. | Maioria do partido: nao (0 sim / 64 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [345311-270](../../../../../votacoes/345311-270/) |
 | 30 mai 2023 | Mantido o texto. Sim: 288; não: 148; abstenção: 2; total: 438. | Maioria do partido: nao (0 sim / 64 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [345311-276](../../../../../votacoes/345311-276/) |
 | 30 mai 2023 | Mantido o texto. Sim: 290; não: 142; abstenção: 1; total: 433. | Maioria do partido: nao (1 sim / 60 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [345311-279](../../../../../votacoes/345311-279/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>501ª</b> à
 | 27 abr 2023 | Aprovada a Emenda de Plenário nº 7. Sim: 181; não: 171; total: 352. | Maioria do partido: sim (51 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345484-83](../../../../../votacoes/2345484-83/) |
 | 25 abr 2023 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 139, de 2022, adotado pelo Relator da Comissão de Finanças e Tributação. Sim: 360; não: 3; total: 363. | Maioria do partido: sim (52 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2337246-43](../../../../../votacoes/2337246-43/) |
 | 25 abr 2023 | Mantido o texto. Sim: 289; não: 108; total: 397. | Maioria do partido: sim (60 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2344938-48](../../../../../votacoes/2344938-48/) |
-| 25 abr 2023 | Mantido o texto. Sim: 282; não: 115; total: 397. | Maioria do partido: sim (58 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2344938-60](../../../../../votacoes/2344938-60/) |
-| 25 abr 2023 | Rejeitada a Emenda de Comissão nº 9. Sim: 132; não: 242; total: 374. | Maioria do partido: sim (57 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2344938-71](../../../../../votacoes/2344938-71/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

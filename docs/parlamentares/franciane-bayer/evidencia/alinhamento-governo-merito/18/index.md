@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Franciane Bayer — Alinhamento com o governo federal, Mérito (página 18)"
-description: "A decomposição completa do número de Franciane Bayer: 396 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
+description: "A decomposição completa do número de Franciane Bayer: 398 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Franciane Bayer: 396 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>57,8%</b> é <b>229</b> coincidências em
-<b>396</b> votações computáveis — as outras 167 estão
+<p><b>57,8%</b> é <b>230</b> coincidências em
+<b>398</b> votações computáveis — as outras 168 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 06 nov 2023 | Mantido o texto. Sim: 284 ; não: 106; total: .390. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345281-63](../../../../../votacoes/2345281-63/) |
+| 25 out 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.173, de 2023, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 323; não: 119; abstenção: 1; total: 443. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2383287-43](../../../../../votacoes/2383287-43/) |
 | 25 out 2023 | Rejeitada a Emenda de Plenário nº 12. Sim: 116; não: 303; abstenção: 1; total: 420. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2383287-47](../../../../../votacoes/2383287-47/) |
 | 25 out 2023 | Rejeitada a Emenda de Plenário nº 27. Sim: 116; não: 277; abstenção: 1; total: 394. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2383287-50](../../../../../votacoes/2383287-50/) |
 | 25 out 2023 | Rejeitada a Emenda de Plenário nº 19. Sim: 116; não: 318; total: 434. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2383287-53](../../../../../votacoes/2383287-53/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 | 05 set 2023 | Mantido o texto. Sim: 349; não: 24; abstenção: 2; total: 375. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2336393-56](../../../../../votacoes/2336393-56/) |
 | 05 set 2023 | Rejeitada a Emenda de Plenário nº 1. Sim: 101; não: 301; total: 402. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2336393-59](../../../../../votacoes/2336393-59/) |
 | 05 set 2023 | Rejeitada a Emenda de Plenário nº 2. Sim: 51; não: 347; abstenção: 1; total: 399. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2336393-61](../../../../../votacoes/2336393-61/) |
-| 05 set 2023 | Rejeitada a Emenda de Plenário nº 4. Sim: 148; não: 231; abstenção: 1; total: 380. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2336393-64](../../../../../votacoes/2336393-64/) |
-| 05 set 2023 | Rejeitada a Emenda de Plenário nº 8. Sim: 135; não: 261; total: 396. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2336393-67](../../../../../votacoes/2336393-67/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Denise Pessôa — Alinhamento com o governo federal, Mérito (página 11)"
-description: "A decomposição completa do número de Denise Pessôa: 403 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
+description: "A decomposição completa do número de Denise Pessôa: 405 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Denise Pessôa: 403 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>96,0%</b> é <b>387</b> coincidências em
-<b>403</b> votações computáveis — as outras 16 estão
+<p><b>96,0%</b> é <b>389</b> coincidências em
+<b>405</b> votações computáveis — as outras 16 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 19 dez 2024 | Mantido o texto. Sim: 277; Não: 174; Abstenção: 1; Total: 452. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2473375-78](../../../../../votacoes/2473375-78/) |
+| 19 dez 2024 | Aprovada, em primeiro turno, a Emenda Aglutinativa Substitutiva à Proposta de Emenda à Constituição nº 31, de 2007. Sim: 344; Não: 154; Abstenção: 2; Total: 500. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [347421-200](../../../../../votacoes/347421-200/) |
 | 19 dez 2024 | Suprimido o texto. Sim: 4; Não: 360; Total: 364. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [347421-202](../../../../../votacoes/347421-202/) |
 | 19 dez 2024 | Mantido o texto. Sim: 349; Não: 143; Abstenção: 1; Total: 493. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [347421-205](../../../../../votacoes/347421-205/) |
 | 19 dez 2024 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 31, de 2007, ressalvado o destaque. Sim: 348; Não: 146; Total: 494. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [347421-221](../../../../../votacoes/347421-221/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 | 05 dez 2024 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 136, de 2024, adotado pela relatora da Comissão de Segurança Pública e Combate ao Crime Organizado. Sim: 348; Não: 57; Total: 405. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454257-27](../../../../../votacoes/2454257-27/) |
 | 03 dez 2024 | Aprovado o Projeto de Decreto Legislativo nº 361, de 2024. Sim: 296; Não: 108; Total: 404. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2462730-34](../../../../../votacoes/2462730-34/) |
 | 27 nov 2024 | Aprovado o Projeto de Lei nº 3.819, de 2024. Sim: 364; Não: 47; Abstenção: 1; Total: 412. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2461207-38](../../../../../votacoes/2461207-38/) |
-| 05 nov 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 175, de 2024, adotada pelo relator da Comissão de Administração e Serviço Público, ressalvados os destaques. Sim: 330; Não: 74; Abstenção: 2; Total: 406. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2466104-39](../../../../../votacoes/2466104-39/) |
-| 30 out 2024 | Mantido o texto. Sim: 292; Não: 106; Total: 398. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-66](../../../../../votacoes/2438459-66/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Lucas Redecker — Coesão com o próprio partido, Procedimental (página 26)"
-description: "A decomposição completa do número de Lucas Redecker: 506 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 501ª à 506ª."
+description: "A decomposição completa do número de Lucas Redecker: 507 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 501ª à 507ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Lucas Redecker: 506 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>57,3%</b> é <b>290</b> coincidências em
-<b>506</b> votações computáveis — as outras 216 estão
+<p><b>57,4%</b> é <b>291</b> coincidências em
+<b>507</b> votações computáveis — as outras 216 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>501ª</b> à
-<b>506ª</b>.</p>
+<b>507ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>501ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 11 abr 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 264; não: 144; total: 408. | Maioria do partido: nao (5 sim / 6 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2352500-11](../../../../../votacoes/2352500-11/) |
 | 11 abr 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 319; não: 106; total: 425. | Maioria do partido: sim (10 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2354899-8](../../../../../votacoes/2354899-8/) |
 | 22 mar 2023 | Rejeitado o Requerimento. Sim: 56; não: 247; total: 303. | Maioria do partido: nao (3 sim / 4 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2301683-33](../../../../../votacoes/2301683-33/) |
 | 21 mar 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 397; não: 1 ; total: 398. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2350702-8](../../../../../votacoes/2350702-8/) |

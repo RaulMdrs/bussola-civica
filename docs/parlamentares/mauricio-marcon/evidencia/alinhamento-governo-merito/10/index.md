@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Mauricio Marcon — Alinhamento com o governo federal, Mérito (página 10)"
-description: "A decomposição completa do número de Mauricio Marcon: 416 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
+description: "A decomposição completa do número de Mauricio Marcon: 418 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Mauricio Marcon: 416 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>28,8%</b> é <b>120</b> coincidências em
-<b>416</b> votações computáveis — as outras 296 estão
+<p><b>28,9%</b> é <b>121</b> coincidências em
+<b>418</b> votações computáveis — as outras 297 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 abr 2025 | Mantido o texto. Sim: 275; Não: 121; Total: 396. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2456731-75](../../../../../votacoes/2456731-75/) |
+| 29 abr 2025 | Mantido o texto. Sim: 269; Não: 124; Total: 393. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2456731-79](../../../../../votacoes/2456731-79/) |
 | 29 abr 2025 | Mantido o texto. Sim: 266; Não: 118; Total: 384. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2456731-84](../../../../../votacoes/2456731-84/) |
 | 28 abr 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 363, de 2025, adotado pela relatora da Comissão de Cultura, ressalvados os destaques. Sim: 278; Não: 111; Total: 389. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2483495-52](../../../../../votacoes/2483495-52/) |
 | 28 abr 2025 | Mantido o texto. Sim: 266; Não: 113; Total: 379. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2483495-56](../../../../../votacoes/2483495-56/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 | 25 fev 2025 | Aprovado o Projeto de Lei nº 4.187, de 2024. Sim: 269; Não: 136; Abstenção: 2; Total: 407. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2466108-33](../../../../../votacoes/2466108-33/) |
 | 18 fev 2025 | Rejeitado o Substitutivo ao Projeto de Lei Complementar nº 223, de 2023, da Comissão de Indústria, Comércio e Serviços. Sim: 34; Não: 356; Abstenção: 1; Total: 391. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2397890-54](../../../../../votacoes/2397890-54/) |
 | 18 fev 2025 | Aprovado o Projeto de Lei Complementar nº 223, de 2023. Sim: 407; Não: 6; Total: 413. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2397890-55](../../../../../votacoes/2397890-55/) |
-| 12 fev 2025 | Aprovado o Projeto de Lei nº 2.215, de 2024. Sim: 273; Não: 136; Total: 409. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2438467-47](../../../../../votacoes/2438467-47/) |
-| 11 fev 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 9.133, de 2017, adotado pela relatora da Comissão de Educação. Sim: 297; Não: 107; Abstenção: 1; Total: 405. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2162802-89](../../../../../votacoes/2162802-89/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

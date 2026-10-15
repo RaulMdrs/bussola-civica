@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Paulo Pimenta — Coesão com o próprio partido, Procedimental (página 12)"
-description: "A decomposição completa do número de Paulo Pimenta: 234 votações em 12 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 234ª."
+description: "A decomposição completa do número de Paulo Pimenta: 235 votações em 12 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 235ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Paulo Pimenta: 234 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>98,7%</b> é <b>231</b> coincidências em
-<b>234</b> votações computáveis — as outras 3 estão
+<p><b>98,7%</b> é <b>232</b> coincidências em
+<b>235</b> votações computáveis — as outras 3 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>12 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
-<b>234ª</b>.</p>
+<b>235ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 08 abr 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 262; Não: 105; Abstenção: 1; Total: 368. | Maioria do partido: sim (48 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2494644-8](../../../../../votacoes/2494644-8/) |
 | 08 abr 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 259; Não: 113; Abstenção: 3; Total: 375. | Maioria do partido: sim (46 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2494645-8](../../../../../votacoes/2494645-8/) |
 | 08 abr 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 291; Não: 110; Total: 401. | Maioria do partido: sim (52 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2494647-7](../../../../../votacoes/2494647-7/) |
 | 08 abr 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 279; Não: 113; Total: 392. | Maioria do partido: sim (52 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2494658-8](../../../../../votacoes/2494658-8/) |

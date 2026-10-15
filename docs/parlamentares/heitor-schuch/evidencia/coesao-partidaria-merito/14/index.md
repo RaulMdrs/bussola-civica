@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Heitor Schuch — Coesão com o próprio partido, Mérito (página 14)"
-description: "A decomposição completa do número de Heitor Schuch: 330 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
+description: "A decomposição completa do número de Heitor Schuch: 332 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Heitor Schuch: 330 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>92,7%</b> é <b>306</b> coincidências em
-<b>330</b> votações computáveis — as outras 24 estão
+<p><b>92,8%</b> é <b>308</b> coincidências em
+<b>332</b> votações computáveis — as outras 24 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>17 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 nov 2023 | Aprovado o Projeto de Lei nº 3.268, de 2021. Sim: 286; não: 121; abstenção: 2; total: 409. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2299903-53](../../../../../votacoes/2299903-53/) |
+| 29 nov 2023 | Aprovado o Projeto de Lei Complementar nº 205, de 2023.Sim: 326; não: 84; abstenção: 1; total: 411. | Maioria do partido: sim (13 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2398741-64](../../../../../votacoes/2398741-64/) |
 | 22 nov 2023 | Rejeitada a Emenda do Senado Federal ao Projeto de Lei nº 4.416, de 2023. Sim: 31, não: 375, abstenção: 2, total: 408. | Maioria do partido: nao (0 sim / 11 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2312373-140](../../../../../votacoes/2312373-140/) |
 | 22 nov 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.768, de 2023, adotada pela Relatora da Comissão de Indústria, Comércio e Serviços, ressalvados os destaques. Sim: 423; não: 11; abstenção: 1; total: 435. | Maioria do partido: sim (10 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2355510-53](../../../../../votacoes/2355510-53/) |
 | 21 nov 2023 | Mantido o texto. Sim: 312; não: 104; total: 416. | Maioria do partido: sim (9 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [575585-99](../../../../../votacoes/575585-99/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 | 27 set 2023 | Aprovada a Medida Provisória nº 1.177, de 2023. Sim: 270; não: 1; abstenção: 1; total: 272. | Maioria do partido: sim (11 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2367600-49](../../../../../votacoes/2367600-49/) |
 | 14 set 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 136, de 2023, adotada pelo Relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 349; não: 68; abstenção: 2; total: 419. | Maioria do partido: sim (13 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2372071-41](../../../../../votacoes/2372071-41/) |
 | 14 set 2023 | Mantido o texto. Sim: 270; não: 146; abstenção: 1; total: 417. | Maioria do partido: sim (11 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2372071-44](../../../../../votacoes/2372071-44/) |
-| 13 set 2023 | Rejeitada a Emenda de Plenário nº 26. Sim: 82; não: 342; abstenção: 8; total: 432. | Maioria do partido: nao (2 sim / 11 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2374400-46](../../../../../votacoes/2374400-46/) |
-| 13 set 2023 | Aprovada a Emenda de Plenário nº 34. Sim: 203; não: 164; total: 367. | Maioria do partido: nao (0 sim / 9 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2374400-58](../../../../../votacoes/2374400-58/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

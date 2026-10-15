@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Osmar Terra — Alinhamento com o governo federal, Mérito (página 16)"
-description: "A decomposição completa do número de Osmar Terra: 357 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
+description: "A decomposição completa do número de Osmar Terra: 359 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Osmar Terra: 357 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>30,3%</b> é <b>108</b> coincidências em
-<b>357</b> votações computáveis — as outras 249 estão
+<p><b>30,4%</b> é <b>109</b> coincidências em
+<b>359</b> votações computáveis — as outras 250 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 25 out 2023 | Rejeitada a Emenda de Plenário nº 12. Sim: 116; não: 303; abstenção: 1; total: 420. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383287-47](../../../../../votacoes/2383287-47/) |
+| 25 out 2023 | Rejeitada a Emenda de Plenário nº 27. Sim: 116; não: 277; abstenção: 1; total: 394. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383287-50](../../../../../votacoes/2383287-50/) |
 | 25 out 2023 | Rejeitada a Emenda de Plenário nº 19. Sim: 116; não: 318; total: 434. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383287-53](../../../../../votacoes/2383287-53/) |
 | 25 out 2023 | Rejeitada a Emenda de Plenário nº 8. Sim: 127; não: 302; total: 429. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383287-61](../../../../../votacoes/2383287-61/) |
 | 18 out 2023 | Aprovado o Projeto de Decreto Legislativo nº 745, de 2017. Sim: 323; não: 98; abstenção: 3; total: 424. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2149303-50](../../../../../votacoes/2149303-50/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 | 22 ago 2023 | Aprovadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 93-B, de 2023, nºs 4, 10 e 14, ressalvados os destaques. Sim: 379; não: 64; total: 443. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2357053-108](../../../../../votacoes/2357053-108/) |
 | 07 jul 2023 | Mantido o texto. Sim: 336; não: 132; total: 468. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-386](../../../../../votacoes/2196833-386/) |
 | 07 jul 2023 | Mantido o texto. Sim: 349; não: 84; abstenção: 2; total: 435. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-390](../../../../../votacoes/2196833-390/) |
-| 07 jul 2023 | Mantido o texto. Sim: 370; não: 28; abstenção: 3; total: 401. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-392](../../../../../votacoes/2196833-392/) |
-| 07 jul 2023 | Suprimido o texto. Sim: 307; não: 166; abstenção: 5; total: 478. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-395](../../../../../votacoes/2196833-395/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

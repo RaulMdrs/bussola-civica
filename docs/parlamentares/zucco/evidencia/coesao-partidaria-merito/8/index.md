@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Zucco — Coesão com o próprio partido, Mérito (página 8)"
-description: "A decomposição completa do número de Zucco: 551 votações em 28 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
+description: "A decomposição completa do número de Zucco: 553 votações em 28 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Zucco: 551 votações em 2
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>82,8%</b> é <b>456</b> coincidências em
-<b>551</b> votações computáveis — as outras 95 estão
+<p><b>82,8%</b> é <b>458</b> coincidências em
+<b>553</b> votações computáveis — as outras 95 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>28 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 24 set 2025 | Aprovado o Projeto de Lei Complementar nº 163, de 2025, ressalvados os destaques. Sim: 296; Não: 145; Abstenção: 2; Total: 443. | Maioria do partido: nao (5 sim / 70 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2541109-38](../../../../../votacoes/2541109-38/) |
+| 24 set 2025 | Rejeitada a Emenda de Plenário nº 1. Sim: 45; Não: 288; Abstenção: 1; Total: 334. | Maioria do partido: nao (11 sim / 48 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2541109-40](../../../../../votacoes/2541109-40/) |
 | 24 set 2025 | Mantido o texto. Sim: 281; Não: 148; Total: 429. | Maioria do partido: nao (5 sim / 67 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2541109-45](../../../../../votacoes/2541109-45/) |
 | 24 set 2025 | Mantido o texto. Sim: 293; Não: 133; Total: 426. | Maioria do partido: nao (6 sim / 65 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2541109-48](../../../../../votacoes/2541109-48/) |
 | 17 set 2025 | Aprovada a Emenda Aglutinativa de Plenário nº 1. Sim: 314; Não: 168; Total: 482. | Maioria do partido: sim (84 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2270800-175](../../../../../votacoes/2270800-175/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 | 03 set 2025 | Rejeitada a inclusão. Sim: 119; Não: 310; Abstenção: 1; Total: 430. | Maioria do partido: nao (0 sim / 73 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2318217-81](../../../../../votacoes/2318217-81/) |
 | 03 set 2025 | Mantido o texto. Sim: 311; Não: 35; Total: 346. | Maioria do partido: sim (47 sim / 15 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2318217-86](../../../../../votacoes/2318217-86/) |
 | 03 set 2025 | Mantido o texto. Sim: 313; Não: 119; Abstenção: 1; Total: 433. | Maioria do partido: nao (4 sim / 71 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2318217-90](../../../../../votacoes/2318217-90/) |
-| 03 set 2025 | Rejeitada a Emenda de Plenário nº 10. Sim: 165; Não: 276; Total: 441. | Maioria do partido: sim (72 sim / 5 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2318217-93](../../../../../votacoes/2318217-93/) |
-| 03 set 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 128, de 2022, adotada pelo relator da Comissão de Segurança Pública e Combate ao Crime Organizado. Sim: 369; Não: 4; Total: 373. | Maioria do partido: sim (63 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2335185-89](../../../../../votacoes/2335185-89/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

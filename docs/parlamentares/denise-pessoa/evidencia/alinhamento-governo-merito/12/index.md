@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Denise Pessôa — Alinhamento com o governo federal, Mérito (página 12)"
-description: "A decomposição completa do número de Denise Pessôa: 403 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
+description: "A decomposição completa do número de Denise Pessôa: 405 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Denise Pessôa: 403 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>96,0%</b> é <b>387</b> coincidências em
-<b>403</b> votações computáveis — as outras 16 estão
+<p><b>96,0%</b> é <b>389</b> coincidências em
+<b>405</b> votações computáveis — as outras 16 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 05 nov 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 175, de 2024, adotada pelo relator da Comissão de Administração e Serviço Público, ressalvados os destaques. Sim: 330; Não: 74; Abstenção: 2; Total: 406. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2466104-39](../../../../../votacoes/2466104-39/) |
+| 30 out 2024 | Mantido o texto. Sim: 292; Não: 106; Total: 398. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-66](../../../../../votacoes/2438459-66/) |
 | 30 out 2024 | Aprovada a Emenda Aglutinativa n° 1. Sim: 403; Total: 403. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-69](../../../../../votacoes/2438459-69/) |
 | 30 out 2024 | Rejeitada a Emenda de Plenário n° 8. Sim: 156; Não: 245; Total: 401. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2456554-50](../../../../../votacoes/2456554-50/) |
 | 30 out 2024 | Rejeitada a Emenda de Plenário n° 9. Sim: 135; Não: 229; Total: 364. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2456554-54](../../../../../votacoes/2456554-54/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 | 10 jul 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 68, de 2024, adotada pelo relator da Comissão Especial, ressalvados os destaques. Sim: 336; não: 142; abstenção: 2; total: 480. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430143-72](../../../../../votacoes/2430143-72/) |
 | 10 jul 2024 | Rejeitada a Emenda de Plenário nº 747. Sim: 229; não: 233; abstenção: 1; total: 463. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2430143-76](../../../../../votacoes/2430143-76/) |
 | 10 jul 2024 | Aprovada a Emenda de Plenário nº 766. Sim: 477; não: 3; abstenção: 2; total: 482. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430143-98](../../../../../votacoes/2430143-98/) |
-| 09 jul 2024 | Rejeitado o Recurso nº 18/2024, contra apreciação terminativa do inciso I do caput do art. 35-D, da Lei nº 9394/96, contida no art. 1º do Substitutivo do Senado Federal, apresentado ao PL nº 5230/23. Sim: 126; não: 302; total: 428. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2399598-108](../../../../../votacoes/2399598-108/) |
-| 09 jul 2024 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 5.230, de 2023,com parecer pela aprovação, ressalvados os dispositivos com parecer pela rejeição. Sim: 437; não: 1; total: 438. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2399598-112](../../../../../votacoes/2399598-112/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

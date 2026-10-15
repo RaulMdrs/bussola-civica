@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Hamm — Alinhamento com o governo federal, Mérito (página 11)"
-description: "A decomposição completa do número de Afonso Hamm: 353 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
+description: "A decomposição completa do número de Afonso Hamm: 354 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Afonso Hamm: 353 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>49,6%</b> é <b>175</b> coincidências em
-<b>353</b> votações computáveis — as outras 178 estão
+<p><b>49,4%</b> é <b>175</b> coincidências em
+<b>354</b> votações computáveis — as outras 179 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 11 set 2024 | Rejeitada a Emenda de Plenário nº 18. Sim: 133; Não: 204; Total: 337. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2454704-58](../../../../../votacoes/2454704-58/) |
 | 11 set 2024 | Mantido o texto. Sim: 206; Não: 70; Total: 276. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454704-64](../../../../../votacoes/2454704-64/) |
 | 11 set 2024 | Mantido o texto. Sim: 200; Não: 80; Abstenção: 1; Total: 281. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454704-67](../../../../../votacoes/2454704-67/) |
 | 11 set 2024 | Mantido o texto. Sim: 189; Não: 140; Total: 329. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2454704-70](../../../../../votacoes/2454704-70/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 | 10 jul 2024 | Rejeitada a Emenda de Plenário nº 747. Sim: 229; não: 233; abstenção: 1; total: 463. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2430143-76](../../../../../votacoes/2430143-76/) |
 | 10 jul 2024 | Aprovada a Emenda de Plenário nº 766. Sim: 477; não: 3; abstenção: 2; total: 482. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430143-98](../../../../../votacoes/2430143-98/) |
 | 09 jul 2024 | Rejeitado o Recurso nº 18/2024, contra apreciação terminativa do inciso I do caput do art. 35-D, da Lei nº 9394/96, contida no art. 1º do Substitutivo do Senado Federal, apresentado ao PL nº 5230/23. Sim: 126; não: 302; total: 428. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2399598-108](../../../../../votacoes/2399598-108/) |
-| 09 jul 2024 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 5.230, de 2023,com parecer pela aprovação, ressalvados os dispositivos com parecer pela rejeição. Sim: 437; não: 1; total: 438. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2399598-112](../../../../../votacoes/2399598-112/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daiana Santos — Coesão com o próprio partido, Mérito (página 10)"
-description: "A decomposição completa do número de Daiana Santos: 442 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
+description: "A decomposição completa do número de Daiana Santos: 444 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Daiana Santos: 442 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,3%</b> é <b>430</b> coincidências em
-<b>442</b> votações computáveis — as outras 12 estão
+<p><b>97,3%</b> é <b>432</b> coincidências em
+<b>444</b> votações computáveis — as outras 12 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 10 jun 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 4.497, de 2024, adotado pela relatora da Comissão de Relações Exteriores e de Defesa Nacional, ressalvados os destaques. Sim: 328; Não: 100; Abstenção: 1; Total: 429. | Maioria do partido: nao (0 sim / 7 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2471177-56](../../../../../votacoes/2471177-56/) |
+| 28 mai 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 3.224, de 2024, adotado pela relatora da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família, ressalvados os destaques. Sim: 277; Não: 123; Total: 400. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2453934-59](../../../../../votacoes/2453934-59/) |
 | 28 mai 2025 | Mantido o texto. Sim: 264; Não: 110; Abstenção: 1; Total: 375. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2453934-65](../../../../../votacoes/2453934-65/) |
 | 28 mai 2025 | Suprimido o texto. Sim: 152; Não: 220; Abstenção: 1; Total: 373. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2453934-72](../../../../../votacoes/2453934-72/) |
 | 27 mai 2025 | Mantido o texto. Sim: 319; Não: 93; Total: 412. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2121642-102](../../../../../votacoes/2121642-102/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 | 07 mai 2025 | Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Sustação de Andamento de Ação Penal nº 1, de 2025, pela sustação do andamento da Ação Penal. . Sim: 315; Não: 143; Abstenção: 4; Total: 462. | Maioria do partido: nao (0 sim / 7 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2494565-52](../../../../../votacoes/2494565-52/) |
 | 06 mai 2025 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 177, de 2023, adotado pelo relator da Comissão de Finanças e Tributação. Sim: 270; Não: 207; Abstenção: 1; Total: 478. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2383019-54](../../../../../votacoes/2383019-54/) |
 | 29 abr 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 3.469, de 2024, adotado pelo relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvados os destaques. Sim: 261; Não: 108; Total: 369. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2456731-71](../../../../../votacoes/2456731-71/) |
-| 29 abr 2025 | Mantido o texto. Sim: 275; Não: 121; Total: 396. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2456731-75](../../../../../votacoes/2456731-75/) |
-| 29 abr 2025 | Mantido o texto. Sim: 269; Não: 124; Total: 393. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2456731-79](../../../../../votacoes/2456731-79/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

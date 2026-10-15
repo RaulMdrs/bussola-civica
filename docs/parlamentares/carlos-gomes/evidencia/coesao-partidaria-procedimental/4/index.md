@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Carlos Gomes — Coesão com o próprio partido, Procedimental (página 4)"
-description: "A decomposição completa do número de Carlos Gomes: 146 votações em 8 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
+description: "A decomposição completa do número de Carlos Gomes: 147 votações em 8 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Carlos Gomes: 146 votaçõ
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>96,6%</b> é <b>141</b> coincidências em
-<b>146</b> votações computáveis — as outras 5 estão
+<p><b>96,6%</b> é <b>142</b> coincidências em
+<b>147</b> votações computáveis — as outras 5 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>8 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 09 fev 2026 | Rejeitado o Recurso nº 2, de 2026, contra parecer terminativo da Comissão de Constituição e Justiça e de Cidadania à Emenda de Plenário nº 3 oferecida ao Projeto de Lei nº 1.743, de 2024. Sim: 151; Não: 244; Abstenção: 3; Total: 398. | Maioria do partido: nao (5 sim / 31 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2601794-5](../../../../../votacoes/2601794-5/) |
 | 12 nov 2025 | Rejeitado o Requerimento de Urgência (Art. 155 do RICD). Sim: 72; Não: 350; Abstenção: 4; Total: 426. | Maioria do partido: nao (2 sim / 35 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2564132-13](../../../../../votacoes/2564132-13/) |
 | 12 nov 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 303; Não: 55; Total: 358. | Maioria do partido: sim (27 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2570219-7](../../../../../votacoes/2570219-7/) |
 | 12 nov 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 323; Não: 86; Total: 409. | Maioria do partido: sim (35 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2583550-7](../../../../../votacoes/2583550-7/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 | 31 out 2023 | Rejeitado o Requerimento. Sim: 81; não: 234; total: 315. | Maioria do partido: nao (0 sim / 23 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2376169-40](../../../../../votacoes/2376169-40/) |
 | 31 out 2023 | Rejeitado o Requerimento. Sim: 93; não: 246; total: 339. | Maioria do partido: nao (0 sim / 28 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2376169-46](../../../../../votacoes/2376169-46/) |
 | 31 out 2023 | Rejeitado o Requerimento. Sim: 96; não: 268; abstenção: 1; total: 365. | Maioria do partido: nao (4 sim / 21 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [503670-99](../../../../../votacoes/503670-99/) |
-| 30 out 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 358; não: 55; total: 413. | Maioria do partido: sim (27 sim / 5 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2400115-8](../../../../../votacoes/2400115-8/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

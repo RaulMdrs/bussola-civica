@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Bohn Gass — Alinhamento com o governo federal, Mérito (página 9)"
-description: "A decomposição completa do número de Bohn Gass: 410 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
+description: "A decomposição completa do número de Bohn Gass: 412 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Bohn Gass: 410 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,3%</b> é <b>399</b> coincidências em
-<b>410</b> votações computáveis — as outras 11 estão
+<p><b>97,3%</b> é <b>401</b> coincidências em
+<b>412</b> votações computáveis — as outras 11 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 mai 2025 | Aprovado o Projeto de Decreto Legislativo nº 609, de 2021. . Sim: 392; Não: 7; Total: 399. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2297512-70](../../../../../votacoes/2297512-70/) |
+| 28 mai 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 3.224, de 2024, adotado pela relatora da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família, ressalvados os destaques. Sim: 277; Não: 123; Total: 400. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2453934-59](../../../../../votacoes/2453934-59/) |
 | 28 mai 2025 | Suprimido o texto. Sim: 152; Não: 220; Abstenção: 1; Total: 373. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2453934-72](../../../../../votacoes/2453934-72/) |
 | 27 mai 2025 | Mantido o texto. Sim: 319; Não: 93; Total: 412. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2121642-102](../../../../../votacoes/2121642-102/) |
 | 27 mai 2025 | Mantido o texto. Sim: 310; Não: 105; Abstenção: 1; Total: 416. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2121642-105](../../../../../votacoes/2121642-105/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 | 28 abr 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 363, de 2025, adotado pela relatora da Comissão de Cultura, ressalvados os destaques. Sim: 278; Não: 111; Total: 389. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2483495-52](../../../../../votacoes/2483495-52/) |
 | 28 abr 2025 | Mantido o texto. Sim: 266; Não: 113; Total: 379. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2483495-56](../../../../../votacoes/2483495-56/) |
 | 28 abr 2025 | Mantido o texto. Sim: 251; Não: 117; Total: 368. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2483495-59](../../../../../votacoes/2483495-59/) |
-| 28 abr 2025 | Mantido o texto. Sim: 256; Não: 123; Abstenção: 1; Total: 380. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2483495-62](../../../../../votacoes/2483495-62/) |
-| 01 abr 2025 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 316; Não: 88; Abstenção: 1; Total: 405. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2463814-44](../../../../../votacoes/2463814-44/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

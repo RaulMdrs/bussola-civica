@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcon — Coesão com o próprio partido, Mérito (página 18)"
-description: "A decomposição completa do número de Marcon: 496 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
+description: "A decomposição completa do número de Marcon: 498 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcon: 496 votações em 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>95,6%</b> é <b>474</b> coincidências em
-<b>496</b> votações computáveis — as outras 22 estão
+<p><b>95,6%</b> é <b>476</b> coincidências em
+<b>498</b> votações computáveis — as outras 22 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 14 mai 2024 | Aprovado o Substitutivo ao Projeto de Lei Complementar n. 85, de 2024, adotado pelo Relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 404; não: 2; total: 406. | Maioria do partido: sim (57 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2433327-49](../../../../../votacoes/2433327-49/) |
+| 14 mai 2024 | Rejeitada a Emenda de Plenário nº 5. Sim: 199; não: 221; abstenção: 2; total: 422. | Maioria do partido: nao (0 sim / 58 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2433327-54](../../../../../votacoes/2433327-54/) |
 | 14 mai 2024 | Rejeitada a Emenda de Plenário nº 3. Sim: 215; não: 226; abstenção: 1; total: 442. | Maioria do partido: nao (0 sim / 61 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2433327-57](../../../../../votacoes/2433327-57/) |
 | 14 mai 2024 | Rejeitada a Emenda de Plenário nº 4. Sim: 184; não: 223; abstenção: 1; total: 409. | Maioria do partido: nao (0 sim / 57 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2433327-60](../../../../../votacoes/2433327-60/) |
 | 14 mai 2024 | Mantido o texto. Sim: 277; não: 145; total: 422. | Maioria do partido: sim (63 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2433327-66](../../../../../votacoes/2433327-66/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 | 19 mar 2024 | Aprovado o Substitutivo ao Projeto de Lei nº 6.233, de 2023, adotado pelo relator da Comissão de Finanças e Tributação. Sim: 388; não: 3; abstenção: 1; total: 392. | Maioria do partido: sim (53 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2416729-28](../../../../../votacoes/2416729-28/) |
 | 19 mar 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2, de 2024, adotada pelo relator da Comissão de Indústria, Comércio e Serviços, ressalvados os destaques. Sim: 314; não: 96; total: 410. | Maioria do partido: sim (59 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2416804-43](../../../../../votacoes/2416804-43/) |
 | 19 mar 2024 | Mantido o texto. Sim: 305; não: 107; total: 412. | Maioria do partido: sim (52 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2416804-48](../../../../../votacoes/2416804-48/) |
-| 19 mar 2024 | Mantido o texto. Sim: 287; não: 96; abstenção: 1; total: 384. | Maioria do partido: sim (55 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2416804-51](../../../../../votacoes/2416804-51/) |
-| 19 mar 2024 | Rejeitada a Emenda de Plenário nº 12. Sim: 142; não: 287; total: 429. | Maioria do partido: nao (0 sim / 61 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2416804-54](../../../../../votacoes/2416804-54/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

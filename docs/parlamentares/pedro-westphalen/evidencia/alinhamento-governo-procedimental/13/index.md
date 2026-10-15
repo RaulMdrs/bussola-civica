@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Pedro Westphalen — Alinhamento com o governo federal, Procedimental (página 13)"
-description: "A decomposição completa do número de Pedro Westphalen: 327 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
+description: "A decomposição completa do número de Pedro Westphalen: 328 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Pedro Westphalen: 327 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>42,2%</b> é <b>138</b> coincidências em
-<b>327</b> votações computáveis — as outras 189 estão
+<p><b>42,4%</b> é <b>139</b> coincidências em
+<b>328</b> votações computáveis — as outras 189 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>17 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 12 mar 2024 | Rejeitado o Requerimento. Sim: 97; não: 293; total: 390. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2417025-29](../../../../../votacoes/2417025-29/) |
 | 12 mar 2024 | Rejeitado o Requerimento. Sim: 112; não: 305; total: 417. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2417025-50](../../../../../votacoes/2417025-50/) |
 | 12 mar 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 270; não: 88; total: 358. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2420014-8](../../../../../votacoes/2420014-8/) |
 | 12 mar 2024 | Rejeitado o Recurso. Sim: 139; não: 290; total: 429. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2420577-7](../../../../../votacoes/2420577-7/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 | 15 dez 2023 | Rejeitado o Requerimento. Sim: 44; não: 318; abstenção: 3; total: 365. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [259094-125](../../../../../votacoes/259094-125/) |
 | 15 dez 2023 | Aprovado o Requerimento. Sim: 340; não: 42; abstenção: 3; total: 385. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-129](../../../../../votacoes/259094-129/) |
 | 15 dez 2023 | Rejeitado o Requerimento. Sim: 49; não: 323; abstenção: 1; total: 373. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [259094-187](../../../../../votacoes/259094-187/) |
-| 13 dez 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 370; não: 5; abstenção: 1; total: 376. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2410669-8](../../../../../votacoes/2410669-8/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

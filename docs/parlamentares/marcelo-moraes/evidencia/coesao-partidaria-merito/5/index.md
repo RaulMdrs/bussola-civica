@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcelo Moraes — Coesão com o próprio partido, Mérito (página 5)"
-description: "A decomposição completa do número de Marcelo Moraes: 434 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
+description: "A decomposição completa do número de Marcelo Moraes: 435 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcelo Moraes: 434 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>94,0%</b> é <b>408</b> coincidências em
-<b>434</b> votações computáveis — as outras 26 estão
+<p><b>94,0%</b> é <b>409</b> coincidências em
+<b>435</b> votações computáveis — as outras 26 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 12 nov 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 18, de 2021, adotada pelo relator da Comissão de Saúde, ressalvado o destaque. Sim: 348; Não: 100; Abstenção: 1; Total: 449. | Maioria do partido: sim (75 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2270325-88](../../../../../votacoes/2270325-88/) |
 | 11 nov 2025 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 124, de 2022, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 411; Não: 3; Total: 414. | Maioria do partido: sim (74 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2481858-53](../../../../../votacoes/2481858-53/) |
 | 05 nov 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 347, de 2003, adotado pelo relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvado o destaque. Sim: 427; Não: 1; Total: 428. | Maioria do partido: sim (69 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [106701-223](../../../../../votacoes/106701-223/) |
 | 05 nov 2025 | Aprovada a Emenda de Plenário n. 7. Sim: 269; Não: 154; Total: 423. | Maioria do partido: sim (62 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [106701-227](../../../../../votacoes/106701-227/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 | 03 nov 2025 | Aprovado o Projeto de Lei Complementar nº 204, de 2025, ressalvado o destaque. Sim: 360; Não: 23; Abstenção: 2; Total: 385. | Maioria do partido: sim (56 sim / 5 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2576234-34](../../../../../votacoes/2576234-34/) |
 | 03 nov 2025 | Mantido o texto. Sim: 387; Não: 30; Abstenção: 1; Total: 418. | Maioria do partido: sim (60 sim / 7 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2576234-41](../../../../../votacoes/2576234-41/) |
 | 30 out 2025 | Suprimido o texto. Sim: 148; Não: 233; Abstenção: 1; Total: 382. | Maioria do partido: nao (2 sim / 63 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2535328-36](../../../../../votacoes/2535328-36/) |
-| 29 out 2025 | Mantido o texto. Sim: 293; Não: 143; Total: 436. | Maioria do partido: nao (5 sim / 69 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2279186-104](../../../../../votacoes/2279186-104/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

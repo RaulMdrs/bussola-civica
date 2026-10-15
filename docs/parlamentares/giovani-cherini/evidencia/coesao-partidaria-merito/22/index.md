@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Giovani Cherini — Coesão com o próprio partido, Mérito (página 22)"
-description: "A decomposição completa do número de Giovani Cherini: 488 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 421ª à 440ª."
+description: "A decomposição completa do número de Giovani Cherini: 490 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 421ª à 440ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Giovani Cherini: 488 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>93,4%</b> é <b>456</b> coincidências em
-<b>488</b> votações computáveis — as outras 32 estão
+<p><b>93,5%</b> é <b>458</b> coincidências em
+<b>490</b> votações computáveis — as outras 32 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>421ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>421ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 14 set 2023 | Rejeitada a Emenda de Plenário nº 1. | Maioria do partido: nao (0 sim / 65 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2387066-80](../../../../../votacoes/2387066-80/) |
+| 14 set 2023 | Rejeitada a Emenda de Plenário nº 45. Sim: 90; não: 316; abstenção: 1; total: 407. | Maioria do partido: nao (1 sim / 77 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2387066-84](../../../../../votacoes/2387066-84/) |
 | 14 set 2023 | Rejeitada a Emenda de Plenário nº 13. Sim: 154; não: 245; abstenção: 1; total: 400. | Maioria do partido: nao (4 sim / 76 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2387066-89](../../../../../votacoes/2387066-89/) |
 | 14 set 2023 | Suprimido o texto. Sim: 207; não: 215; abstenção: 2; total: 424. | Maioria do partido: nao (1 sim / 83 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2387066-91](../../../../../votacoes/2387066-91/) |
 | 14 set 2023 | Aprovada a Emenda de Plenário nº 30. Sim: 246; não: 172; abstenção: 1; total: 419. | Maioria do partido: sim (85 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387066-94](../../../../../votacoes/2387066-94/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>421ª</b> à
 | 30 ago 2023 | Aprovado o Substitutivo ao Projeto de Lei nº 334, de 2023, adotado pela Relatora da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 430; não: 17; total: 447. | Maioria do partido: sim (83 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2350586-63](../../../../../votacoes/2350586-63/) |
 | 23 ago 2023 | Aprovada a Medida Provisória nº 1.172, de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 439; não: 1; abstenção: 1; total: 441. | Maioria do partido: sim (84 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2359135-39](../../../../../votacoes/2359135-39/) |
 | 22 ago 2023 | Aprovadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 93-B, de 2023, nºs 4, 10 e 14, ressalvados os destaques. Sim: 379; não: 64; total: 443. | Maioria do partido: sim (47 sim / 42 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2357053-108](../../../../../votacoes/2357053-108/) |
-| 22 ago 2023 | Rejeitadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 93-B, de 2023, nºs 1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 13 e 15, ressalvados os destaques. Sim: 19; não: 423; abstenção: 2; total: 444. | Maioria do partido: nao (0 sim / 80 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2357053-110](../../../../../votacoes/2357053-110/) |
-| 22 ago 2023 | Rejeitada a Emenda nº 5 do Senado Federal. Sim: 176; não: 265; abstenção: 1; total: 442. | Maioria do partido: nao (2 sim / 79 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2357053-119](../../../../../votacoes/2357053-119/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

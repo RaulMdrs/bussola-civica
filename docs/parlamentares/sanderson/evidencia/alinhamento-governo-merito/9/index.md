@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Sanderson — Alinhamento com o governo federal, Mérito (página 9)"
-description: "A decomposição completa do número de Sanderson: 391 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
+description: "A decomposição completa do número de Sanderson: 393 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Sanderson: 391 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>29,7%</b> é <b>116</b> coincidências em
-<b>391</b> votações computáveis — as outras 275 estão
+<p><b>29,8%</b> é <b>117</b> coincidências em
+<b>393</b> votações computáveis — as outras 276 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 11 jun 2025 | Mantido o texto. Sim: 226; Não: 130; Total: 356. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2497816-50](../../../../../votacoes/2497816-50/) |
+| 11 jun 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.149, de 2004, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 273; Não: 153; Abstenção: 1; Total: 427. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [264726-144](../../../../../votacoes/264726-144/) |
 | 11 jun 2025 | Mantido o texto. Sim: 256; Não: 153; Abstenção: 2; Total: 411. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [264726-148](../../../../../votacoes/264726-148/) |
 | 11 jun 2025 | Mantido o texto. Sim: 225; Não: 117; Total: 342. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [622019-76](../../../../../votacoes/622019-76/) |
 | 29 mai 2025 | Aprovada a parte da Emenda nº 3. Sim: 285; Não: 116; Abstenção: 3; Total: 404. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2306513-116](../../../../../votacoes/2306513-116/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 | 22 mai 2025 | Aprovado o Projeto de Decreto Legislativo nº 725 de 2024. Sim: 397; Não: 5; Total: 402. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2481257-37](../../../../../votacoes/2481257-37/) |
 | 21 mai 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.466, de 2025, adotada pelo relator da Comissão de Administração e Serviço Público, ressalvado o destaque. Sim: 388; Não: 43; Total: 431. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2494408-30](../../../../../votacoes/2494408-30/) |
 | 21 mai 2025 | Mantido o texto. Sim: 290; Não: 134; Total: 424. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2494408-43](../../../../../votacoes/2494408-43/) |
-| 07 mai 2025 | Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Sustação de Andamento de Ação Penal nº 1, de 2025, pela sustação do andamento da Ação Penal. . Sim: 315; Não: 143; Abstenção: 4; Total: 462. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2494565-52](../../../../../votacoes/2494565-52/) |
-| 05 mai 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 6.366, de 2019, adotada pela relatora da Comissão de Cultura, ressalvados os destaques. Sim: 233; Não: 125; Total: 358. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2233324-86](../../../../../votacoes/2233324-86/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

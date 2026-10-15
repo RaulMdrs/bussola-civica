@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alexandre Lindenmeyer — Coesão com o próprio partido, Procedimental (página 21)"
-description: "A decomposição completa do número de Alexandre Lindenmeyer: 401 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 401ª à 401ª."
+description: "A decomposição completa do número de Alexandre Lindenmeyer: 402 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 401ª à 402ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Alexandre Lindenmeyer: 401
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>98,8%</b> é <b>396</b> coincidências em
-<b>401</b> votações computáveis — as outras 5 estão
+<p><b>98,8%</b> é <b>397</b> coincidências em
+<b>402</b> votações computáveis — as outras 5 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>401ª</b> à
-<b>401ª</b>.</p>
+<b>402ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>401ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 11 abr 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 319; não: 106; total: 425. | Maioria do partido: nao (0 sim / 62 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2354899-8](../../../../../votacoes/2354899-8/) |
 | 21 mar 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 397; não: 1 ; total: 398. | Maioria do partido: sim (59 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2350702-8](../../../../../votacoes/2350702-8/) |
 {: .t-evid}
 

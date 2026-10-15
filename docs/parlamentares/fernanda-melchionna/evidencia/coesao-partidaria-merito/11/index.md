@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Fernanda Melchionna — Coesão com o próprio partido, Mérito (página 11)"
-description: "A decomposição completa do número de Fernanda Melchionna: 458 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
+description: "A decomposição completa do número de Fernanda Melchionna: 460 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Fernanda Melchionna: 458 v
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>98,0%</b> é <b>449</b> coincidências em
-<b>458</b> votações computáveis — as outras 9 estão
+<p><b>98,0%</b> é <b>451</b> coincidências em
+<b>460</b> votações computáveis — as outras 9 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 11 jun 2025 | Mantido o texto. Sim: 249; Não: 154; Abstenção: 2; Total: 405. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [264726-157](../../../../../votacoes/264726-157/) |
+| 11 jun 2025 | Aprovado o Projeto de Lei nº 7.906, de 2014, ressalvados os destaques. Sim: 204; Não: 128; Total: 332. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [622019-73](../../../../../votacoes/622019-73/) |
 | 10 jun 2025 | Aprovada a Emenda de Plenário n° 1. Sim: 318; Não: 116; Total: 434. | Maioria do partido: nao (0 sim / 9 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2355104-126](../../../../../votacoes/2355104-126/) |
 | 10 jun 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 4.497, de 2024, adotado pela relatora da Comissão de Relações Exteriores e de Defesa Nacional, ressalvados os destaques. Sim: 328; Não: 100; Abstenção: 1; Total: 429. | Maioria do partido: nao (0 sim / 9 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2471177-56](../../../../../votacoes/2471177-56/) |
 | 10 jun 2025 | Mantido o texto. Sim: 257; Não: 88; Total: 345. | Maioria do partido: nao (0 sim / 9 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2471177-64](../../../../../votacoes/2471177-64/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 | 26 mai 2025 | Aprovado o Projeto de Lei nº 1.708, de 2025. Sim: 289; Não: 136; Total: 425. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2497993-33](../../../../../votacoes/2497993-33/) |
 | 22 mai 2025 | Aprovado o Projeto de Decreto Legislativo nº 308, de 2024. Sim: 363; Não: 11; Abstenção: 1; Total: 375. | Maioria do partido: sim (8 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2442331-46](../../../../../votacoes/2442331-46/) |
 | 22 mai 2025 | Aprovado o Projeto de Decreto Legislativo nº 725 de 2024. Sim: 397; Não: 5; Total: 402. | Maioria do partido: sim (10 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2481257-37](../../../../../votacoes/2481257-37/) |
-| 21 mai 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.466, de 2025, adotada pelo relator da Comissão de Administração e Serviço Público, ressalvado o destaque. Sim: 388; Não: 43; Total: 431. | Maioria do partido: sim (11 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2494408-30](../../../../../votacoes/2494408-30/) |
-| 21 mai 2025 | Mantido o texto. Sim: 290; Não: 134; Total: 424. | Maioria do partido: sim (11 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2494408-43](../../../../../votacoes/2494408-43/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

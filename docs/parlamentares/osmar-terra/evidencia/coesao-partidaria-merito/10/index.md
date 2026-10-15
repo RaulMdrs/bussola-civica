@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Osmar Terra — Coesão com o próprio partido, Mérito (página 10)"
-description: "A decomposição completa do número de Osmar Terra: 447 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
+description: "A decomposição completa do número de Osmar Terra: 449 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Osmar Terra: 447 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>63,8%</b> é <b>285</b> coincidências em
-<b>447</b> votações computáveis — as outras 162 estão
+<p><b>63,9%</b> é <b>287</b> coincidências em
+<b>449</b> votações computáveis — as outras 162 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 08 jul 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 6.020, de 2023, adotado pela relatora da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 302; Não: 99; Total: 401. | Maioria do partido: sim (19 sim / 8 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2413257-116](../../../../../votacoes/2413257-116/) |
+| 08 jul 2025 | Rejeitado o Destaque. Sim: 159; Não: 243; Total: 402. | Maioria do partido: sim (19 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2413257-125](../../../../../votacoes/2413257-125/) |
 | 08 jul 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 769, de 2024, adotado pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 209; Não: 165; Abstenção: 4; Total: 378. | Maioria do partido: sim (14 sim / 11 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2421211-88](../../../../../votacoes/2421211-88/) |
 | 02 jul 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.112, de 2023, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 334; Não: 65; Total: 399. | Maioria do partido: sim (36 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2351284-38](../../../../../votacoes/2351284-38/) |
 | 01 jul 2025 | Mantido o texto. Sim: 274; Não: 73; Abstenção: 1; Total: 348. | Maioria do partido: sim (20 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2191678-93](../../../../../votacoes/2191678-93/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 | 11 jun 2025 | Mantido o texto. Sim: 197; Não: 106; Abstenção: 1; Total: 304. | Maioria do partido: sim (9 sim / 7 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [622019-81](../../../../../votacoes/622019-81/) |
 | 10 jun 2025 | Aprovada a Emenda de Plenário n° 1. Sim: 318; Não: 116; Total: 434. | Maioria do partido: sim (33 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2355104-126](../../../../../votacoes/2355104-126/) |
 | 10 jun 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 4.497, de 2024, adotado pela relatora da Comissão de Relações Exteriores e de Defesa Nacional, ressalvados os destaques. Sim: 328; Não: 100; Abstenção: 1; Total: 429. | Maioria do partido: sim (35 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2471177-56](../../../../../votacoes/2471177-56/) |
-| 29 mai 2025 | Aprovado o Projeto de Decreto Legislativo nº 609, de 2021. . Sim: 392; Não: 7; Total: 399. | Maioria do partido: sim (26 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2297512-70](../../../../../votacoes/2297512-70/) |
-| 28 mai 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 3.224, de 2024, adotado pela relatora da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família, ressalvados os destaques. Sim: 277; Não: 123; Total: 400. | Maioria do partido: sim (21 sim / 7 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2453934-59](../../../../../votacoes/2453934-59/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

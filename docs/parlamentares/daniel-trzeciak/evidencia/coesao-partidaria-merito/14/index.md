@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daniel Trzeciak — Coesão com o próprio partido, Mérito (página 14)"
-description: "A decomposição completa do número de Daniel Trzeciak: 488 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
+description: "A decomposição completa do número de Daniel Trzeciak: 490 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Daniel Trzeciak: 488 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>72,3%</b> é <b>353</b> coincidências em
-<b>488</b> votações computáveis — as outras 135 estão
+<p><b>72,4%</b> é <b>355</b> coincidências em
+<b>490</b> votações computáveis — as outras 135 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 27 nov 2024 | Aprovado o Projeto de Lei nº 3.819, de 2024. Sim: 364; Não: 47; Abstenção: 1; Total: 412. | Maioria do partido: sim (10 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2461207-38](../../../../../votacoes/2461207-38/) |
+| 27 nov 2024 | Aprovada a Emenda de Plenário nº 1. Sim: 266; Não: 78; Abstenção: 4; Total: 348. | Maioria do partido: sim (7 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [480184-129](../../../../../votacoes/480184-129/) |
 | 19 nov 2024 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 2.148, de 2015, com exceção do art. 56. Sim: 336; Não: 38; Abstenção: 2; Total: 376. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [1548579-194](../../../../../votacoes/1548579-194/) |
 | 19 nov 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.958, de 2021, adotada pela relatora da Comissão de Direitos Humanos, Minorias e Igualdade Racial. Sim: 241; Não: 94; Abstenção: 2; Total: 337. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2439779-55](../../../../../votacoes/2439779-55/) |
 | 19 nov 2024 | Mantido o texto. Sim: 236; Não: 99; Total: 335. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2467306-39](../../../../../votacoes/2467306-39/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 | 14 ago 2024 | Aprovado o Projeto de Lei nº 397, de 2024, ressalvados os destaques. Sim: 318; não: 76; total: 394. | Maioria do partido: sim (9 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2448974-43](../../../../../votacoes/2448974-43/) |
 | 14 ago 2024 | Mantido o texto. Sim: 283; não: 64; abstenção: 2; total: 349. | Maioria do partido: sim (9 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2448974-50](../../../../../votacoes/2448974-50/) |
 | 14 ago 2024 | Mantido o texto. Sim: 292; não: 89; total: 381. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2448974-56](../../../../../votacoes/2448974-56/) |
-| 13 ago 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 108, de 2024, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 303; não: 142; total: 445. | Maioria do partido: sim (9 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2438459-55](../../../../../votacoes/2438459-55/) |
-| 11 jul 2024 | Aprovado, em primeiro turno, o Substitutivo adotado pelo Relator da Comissão Especial à Proposta de Emenda à Constituição nº 9, de 2023, ressalvado o destaque. Sim: 344; não: 89; abstenção: 4; total: 437. | Maioria do partido: sim (7 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2352476-149](../../../../../votacoes/2352476-149/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

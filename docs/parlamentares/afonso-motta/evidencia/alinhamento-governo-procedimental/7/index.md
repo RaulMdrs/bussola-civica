@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Motta — Alinhamento com o governo federal, Procedimental (página 7)"
-description: "A decomposição completa do número de Afonso Motta: 359 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
+description: "A decomposição completa do número de Afonso Motta: 360 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Afonso Motta: 359 votaçõ
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>88,3%</b> é <b>317</b> coincidências em
-<b>359</b> votações computáveis — as outras 42 estão
+<p><b>88,3%</b> é <b>318</b> coincidências em
+<b>360</b> votações computáveis — as outras 42 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 09 jul 2025 | Rejeitado o Requerimento. Sim: 110; Não: 159; Total: 269. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2421211-100](../../../../../votacoes/2421211-100/) |
 | 08 jul 2025 | Rejeitado o Requerimento. Sim: 90; Não: 288; Abstenção: 1; Total: 379. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2413257-114](../../../../../votacoes/2413257-114/) |
 | 08 jul 2025 | Rejeitado o Requerimento. Sim: 158; Não: 239; Abstenção: 3; Total: 400. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2421211-77](../../../../../votacoes/2421211-77/) |
 | 08 jul 2025 | Rejeitado o Requerimento. Sim: 158; Não: 211; Abstenção: 3; Total: 372. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2421211-85](../../../../../votacoes/2421211-85/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 | 27 mai 2025 | Rejeitado o Requerimento. Sim: 82; Não: 311; Abstenção: 1; Total: 394. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2121642-88](../../../../../votacoes/2121642-88/) |
 | 27 mai 2025 | Rejeitado o Requerimento. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2355104-96](../../../../../votacoes/2355104-96/) |
 | 27 mai 2025 | Rejeitado o Requerimento. Sim: 77; Não: 285; Total: 362. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2453219-36](../../../../../votacoes/2453219-36/) |
-| 26 mai 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 286; Não: 113; Total: 399. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2193584-7](../../../../../votacoes/2193584-7/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alexandre Lindenmeyer — Alinhamento com o governo federal, Procedimental (página 3)"
-description: "A decomposição completa do número de Alexandre Lindenmeyer: 312 votações em 16 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
+description: "A decomposição completa do número de Alexandre Lindenmeyer: 313 votações em 16 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alexandre Lindenmeyer: 312
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>98,4%</b> é <b>307</b> coincidências em
-<b>312</b> votações computáveis — as outras 5 estão
+<p><b>98,4%</b> é <b>308</b> coincidências em
+<b>313</b> votações computáveis — as outras 5 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>16 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 02 fev 2026 | Rejeitado o Requerimento. Sim: 22; Não: 362; Total: 384. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2557414-24](../../../../../votacoes/2557414-24/) |
 | 16 dez 2025 | Rejeitado o Requerimento. Sim: 114; Não: 319; Abstenção: 2; Total: 435. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2520670-40](../../../../../votacoes/2520670-40/) |
 | 15 dez 2025 | Rejeitado o Requerimento. Sim: 108; Não: 290; Total: 398. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2541109-77](../../../../../votacoes/2541109-77/) |
 | 15 dez 2025 | Rejeitado o Requerimento. Sim: 127; Não: 292; Abstenção: 1; Total: 420. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2554285-43](../../../../../votacoes/2554285-43/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 | 29 out 2025 | Rejeitado o Requerimento. Sim: 88; Não: 270; Total: 358. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2486461-64](../../../../../votacoes/2486461-64/) |
 | 29 out 2025 | Rejeitado o Requerimento. Sim: 126; Não: 264; Total: 390. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [545304-120](../../../../../votacoes/545304-120/) |
 | 29 out 2025 | Rejeitado o Requerimento. Sim: 148; Não: 277; Total: 425. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [545304-128](../../../../../votacoes/545304-128/) |
-| 28 out 2025 | Rejeitado o Requerimento. Sim: 104; Não: 309; Total: 413. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2503426-44](../../../../../votacoes/2503426-44/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Denise Pessôa — Coesão com o próprio partido, Mérito (página 22)"
-description: "A decomposição completa do número de Denise Pessôa: 514 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 421ª à 440ª."
+description: "A decomposição completa do número de Denise Pessôa: 516 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 421ª à 440ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Denise Pessôa: 514 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,1%</b> é <b>499</b> coincidências em
-<b>514</b> votações computáveis — as outras 15 estão
+<p><b>97,1%</b> é <b>501</b> coincidências em
+<b>516</b> votações computáveis — as outras 15 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>421ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>421ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 07 nov 2023 | Aprovada a Emenda de Plenário n° 3. Sim: 311; Não: 107; total: 418. | Maioria do partido: nao (1 sim / 51 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2344909-65](../../../../../votacoes/2344909-65/) |
+| 07 nov 2023 | Aprovado o Projeto de Lei nº 5.086, de 2023. Sim: 372; não: 26; abstenção: 1; total: 399. | Maioria do partido: sim (52 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2397925-25](../../../../../votacoes/2397925-25/) |
 | 06 nov 2023 | Mantido o texto. Sim: 284 ; não: 106; total: .390. | Maioria do partido: sim (52 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345281-63](../../../../../votacoes/2345281-63/) |
 | 31 out 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 3.780, de 2023, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 269; não: 87; abstenção: 1; total: 357. | Maioria do partido: nao (0 sim / 47 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2376169-62](../../../../../votacoes/2376169-62/) |
 | 25 out 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.173, de 2023, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 323; não: 119; abstenção: 1; total: 443. | Maioria do partido: sim (63 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2383287-43](../../../../../votacoes/2383287-43/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>421ª</b> à
 | 27 set 2023 | Aprovada a Medida Provisória nº 1.177, de 2023. Sim: 270; não: 1; abstenção: 1; total: 272. | Maioria do partido: sim (57 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2367600-49](../../../../../votacoes/2367600-49/) |
 | 14 set 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 136, de 2023, adotada pelo Relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 349; não: 68; abstenção: 2; total: 419. | Maioria do partido: sim (59 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2372071-41](../../../../../votacoes/2372071-41/) |
 | 14 set 2023 | Mantido o texto. Sim: 270; não: 146; abstenção: 1; total: 417. | Maioria do partido: sim (59 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2372071-44](../../../../../votacoes/2372071-44/) |
-| 14 set 2023 | Rejeitada a Emenda de Plenário nº 31. Sim: 125; não: 249; total: 374. | Maioria do partido: nao (2 sim / 49 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2387066-100](../../../../../votacoes/2387066-100/) |
-| 14 set 2023 | Rejeitada a Emenda nº 38. Sim: 38; não: 329; abstenção: 1; total: 368. | Maioria do partido: nao (1 sim / 49 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2387066-101](../../../../../votacoes/2387066-101/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

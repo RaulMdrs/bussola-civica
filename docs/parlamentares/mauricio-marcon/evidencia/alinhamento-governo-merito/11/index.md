@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Mauricio Marcon — Alinhamento com o governo federal, Mérito (página 11)"
-description: "A decomposição completa do número de Mauricio Marcon: 416 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
+description: "A decomposição completa do número de Mauricio Marcon: 418 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Mauricio Marcon: 416 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>28,8%</b> é <b>120</b> coincidências em
-<b>416</b> votações computáveis — as outras 296 estão
+<p><b>28,9%</b> é <b>121</b> coincidências em
+<b>418</b> votações computáveis — as outras 297 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 12 fev 2025 | Aprovado o Projeto de Lei nº 2.215, de 2024. Sim: 273; Não: 136; Total: 409. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2438467-47](../../../../../votacoes/2438467-47/) |
+| 11 fev 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 9.133, de 2017, adotado pela relatora da Comissão de Educação. Sim: 297; Não: 107; Abstenção: 1; Total: 405. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2162802-89](../../../../../votacoes/2162802-89/) |
 | 19 dez 2024 | Aprovado o Projeto de Lei nº 3.802, de 2024. Sim: 340; Não: 117; Abstenção: 1; Total: 458. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2460010-43](../../../../../votacoes/2460010-43/) |
 | 19 dez 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.614, de 2024, adotada pelo relator da Comissão Especial, ressalvado o destaque. Sim: 264; Não: 209; Total: 473. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2473375-59](../../../../../votacoes/2473375-59/) |
 | 19 dez 2024 | Mantido o texto. Sim: 277; Não: 174; Abstenção: 1; Total: 452. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2473375-78](../../../../../votacoes/2473375-78/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 | 17 dez 2024 | Rejeitada a Emenda de Plenário nº 9. Sim: 227; Não: 233; Abstenção: 1; Total: 461. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2473389-62](../../../../../votacoes/2473389-62/) |
 | 17 dez 2024 | Rejeitada a Emenda de Plenário nº 19. Sim: 186; Não: 256; Total: 442. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2473389-65](../../../../../votacoes/2473389-65/) |
 | 17 dez 2024 | Rejeitada a Emenda de Plenário n° 38. Sim: 59; Não: 385; Abstenção: 1; Total: 445. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2473389-68](../../../../../votacoes/2473389-68/) |
-| 12 dez 2024 | Aprovada a Emenda de Plenário n° 1. Sim: 267; Não: 85; Abstenção: 14; Total: 366. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2258828-105](../../../../../votacoes/2258828-105/) |
-| 10 dez 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 121, de 2024, adotada pelo relator da Comissão de Finanças e Tributação, ressalvado o destaque. Sim: 413; Não: 4; Total: 417. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454400-42](../../../../../votacoes/2454400-42/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

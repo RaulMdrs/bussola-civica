@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alexandre Lindenmeyer — Alinhamento com o governo federal, Procedimental (página 2)"
-description: "A decomposição completa do número de Alexandre Lindenmeyer: 312 votações em 16 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
+description: "A decomposição completa do número de Alexandre Lindenmeyer: 313 votações em 16 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alexandre Lindenmeyer: 312
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>98,4%</b> é <b>307</b> coincidências em
-<b>312</b> votações computáveis — as outras 5 estão
+<p><b>98,4%</b> é <b>308</b> coincidências em
+<b>313</b> votações computáveis — as outras 5 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>16 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 18 mar 2026 | Rejeitado o Requerimento. Sim: 125; Não: 297; Total: 422. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2462009-60](../../../../../votacoes/2462009-60/) |
 | 18 mar 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 276; Não: 186; Total: 462. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2579791-17](../../../../../votacoes/2579791-17/) |
 | 18 mar 2026 | Rejeitado o Recurso nº 6/2026 contra parecer terminativo da Comissão de Constituição e Justiça e de Cidadania à Emenda de Plenário de nº 3 oferecida ao Projeto de Lei nº 3.880, de 2024 (Art. 132, § 2º C/C Art. 144, Caput, RICD). Sim: 152; Não: 254; Abstenção: 1; Total: 407. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2610645-5](../../../../../votacoes/2610645-5/) |
 | 17 mar 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 430; Total: 430. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2398003-10](../../../../../votacoes/2398003-10/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 | 09 fev 2026 | Rejeitado o Requerimento. Sim: 126; Não: 296; Total: 422. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2562173-21](../../../../../votacoes/2562173-21/) |
 | 09 fev 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 307; Não: 113; Abstenção: 3; Total: 423. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2600122-8](../../../../../votacoes/2600122-8/) |
 | 09 fev 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 298; Não: 132; Total: 430. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2601522-8](../../../../../votacoes/2601522-8/) |
-| 02 fev 2026 | Rejeitado o Requerimento. Sim: 22; Não: 362; Total: 384. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2557414-24](../../../../../votacoes/2557414-24/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

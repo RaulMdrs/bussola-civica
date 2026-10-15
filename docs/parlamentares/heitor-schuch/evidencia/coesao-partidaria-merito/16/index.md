@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Heitor Schuch — Coesão com o próprio partido, Mérito (página 16)"
-description: "A decomposição completa do número de Heitor Schuch: 330 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
+description: "A decomposição completa do número de Heitor Schuch: 332 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Heitor Schuch: 330 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>92,7%</b> é <b>306</b> coincidências em
-<b>330</b> votações computáveis — as outras 24 estão
+<p><b>92,8%</b> é <b>308</b> coincidências em
+<b>332</b> votações computáveis — as outras 24 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>17 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 06 jul 2023 | Aprovado, em primeiro turno, o Substitutivo adotado pelo relator da Comissão Especial à Proposta de Emenda Constitucional nº 45, de 2019, ressalvados os destaques. Sim: 382; não: 118; abstenção: 3; total: 503. | Maioria do partido: sim (14 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-326](../../../../../votacoes/2196833-326/) |
+| 06 jul 2023 | Aprovada a Emenda Aglutinativa nº 1. Sim: 379; não: 114; abstenção: 1; total: 494. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-328](../../../../../votacoes/2196833-328/) |
 | 06 jul 2023 | Mantido o texto. Sim: 317; não: 170; total: 487. | Maioria do partido: sim (12 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-331](../../../../../votacoes/2196833-331/) |
 | 06 jul 2023 | Mantido o texto. Sim: 390; não: 108; abstenção: 1; total: 499. | Maioria do partido: sim (14 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-349](../../../../../votacoes/2196833-349/) |
 | 06 jul 2023 | Mantido o texto. Sim: 379; não: 116; abstenção: 1; total: 496. | Maioria do partido: sim (14 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-353](../../../../../votacoes/2196833-353/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 | 24 mai 2023 | Rejeitada a Emenda nº 1 e restabelecidos os dispositivos aprovados pela câmara consubstanciados no Projeto de Lei de Conversão nº 6, de 2023. Sim: 66; não: 364; abtenção: 2; total: 432. | Maioria do partido: sim (7 sim / 5 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345368-78](../../../../../votacoes/2345368-78/) |
 | 24 mai 2023 | Mantido o texto. Sim: 326; não: 138; total: 464. | Maioria do partido: sim (13 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357053-59](../../../../../votacoes/2357053-59/) |
 | 24 mai 2023 | Mantido o texto. Sim: 316; não: 160; abstenção: 3; total: 479. | Maioria do partido: sim (13 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357053-62](../../../../../votacoes/2357053-62/) |
-| 24 mai 2023 | Mantido o texto. Sim: 306; não: 170; total: 476. | Maioria do partido: sim (13 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357053-65](../../../../../votacoes/2357053-65/) |
-| 24 mai 2023 | Rejeitada a Emenda de Plenário nº 85. Sim: 126; não: 335; total: 461. | Maioria do partido: nao (0 sim / 13 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2357053-70](../../../../../votacoes/2357053-70/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

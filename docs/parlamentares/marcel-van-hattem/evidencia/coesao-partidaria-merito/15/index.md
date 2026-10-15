@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcel van Hattem — Coesão com o próprio partido, Mérito (página 15)"
-description: "A decomposição completa do número de Marcel van Hattem: 513 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
+description: "A decomposição completa do número de Marcel van Hattem: 515 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcel van Hattem: 513 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>99,2%</b> é <b>509</b> coincidências em
-<b>513</b> votações computáveis — as outras 4 estão
+<p><b>99,2%</b> é <b>511</b> coincidências em
+<b>515</b> votações computáveis — as outras 4 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 12 dez 2024 | Mantido o texto. Sim: 183; Não: 79; Total: 262. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2194861-85](../../../../../votacoes/2194861-85/) |
+| 12 dez 2024 | Mantido o texto. Sim: 228; Não: 107; Total: 335. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2194861-91](../../../../../votacoes/2194861-91/) |
 | 12 dez 2024 | Mantido o texto. Sim: 196; Não: 84; Total: 280. | Maioria do partido: sim (1 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2194861-94](../../../../../votacoes/2194861-94/) |
 | 12 dez 2024 | Aprovada a Emenda de Plenário n° 1. Sim: 267; Não: 85; Abstenção: 14; Total: 366. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2258828-105](../../../../../votacoes/2258828-105/) |
 | 12 dez 2024 | Aprovado o Substitutivo ao Projeto de Lei nº 4.120, de 2024, adotado pela relatora da Comissão de Segurança Pública e Combate ao Crime Organizado. Sim: 280; Não: 78; Total: 358. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2465140-45](../../../../../votacoes/2465140-45/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 | 19 nov 2024 | Mantido o texto. Sim: 236; Não: 99; Total: 335. | Maioria do partido: nao (0 sim / 3 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2467306-39](../../../../../votacoes/2467306-39/) |
 | 05 nov 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 175, de 2024, adotada pelo relator da Comissão de Administração e Serviço Público, ressalvados os destaques. Sim: 330; Não: 74; Abstenção: 2; Total: 406. | Maioria do partido: nao (0 sim / 2 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2466104-39](../../../../../votacoes/2466104-39/) |
 | 05 nov 2024 | Rejeitada a Emenda de Plenário n° 29. Sim: 25; Não: 348; Abstenção: 1; Total: 374. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2466104-52](../../../../../votacoes/2466104-52/) |
-| 30 out 2024 | Mantido o texto. Sim: 292; Não: 106; Total: 398. | Maioria do partido: nao (0 sim / 2 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438459-66](../../../../../votacoes/2438459-66/) |
-| 30 out 2024 | Aprovada a Emenda Aglutinativa n° 1. Sim: 403; Total: 403. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-69](../../../../../votacoes/2438459-69/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

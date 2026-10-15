@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Bibo Nunes — Alinhamento com o governo federal, Mérito (página 17)"
-description: "A decomposição completa do número de Bibo Nunes: 404 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
+description: "A decomposição completa do número de Bibo Nunes: 406 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Bibo Nunes: 404 votações
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>32,7%</b> é <b>132</b> coincidências em
-<b>404</b> votações computáveis — as outras 272 estão
+<p><b>32,8%</b> é <b>133</b> coincidências em
+<b>406</b> votações computáveis — as outras 273 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 15 dez 2023 | Suprimido o texto. Sim: 293; não: 198; abstenção: 1; total: 492. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-199](../../../../../votacoes/259094-199/) |
+| 13 dez 2023 | Aprovado o Projeto de Lei Complementar nº 243, de 2023. Sim: 370; não: 77; abstenção: 4; total: 451. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2409076-34](../../../../../votacoes/2409076-34/) |
 | 05 dez 2023 | Aprovada a Emenda de Plenário n° 1. Sim: 257; não: 144; abstenção: 2; total: 403. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2231632-102](../../../../../votacoes/2231632-102/) |
 | 05 dez 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 6.256, de 2019, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 240; não: 180; total: 420. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2231632-97](../../../../../votacoes/2231632-97/) |
 | 29 nov 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 11.247, de 2018, adotada pelo relator da Comissão de Minas e Energia, ressalvados os destaques. Sim: 403; não: 16; total: 419. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2190084-79](../../../../../votacoes/2190084-79/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 | 25 out 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.173, de 2023, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 323; não: 119; abstenção: 1; total: 443. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2383287-43](../../../../../votacoes/2383287-43/) |
 | 25 out 2023 | Rejeitada a Emenda de Plenário nº 12. Sim: 116; não: 303; abstenção: 1; total: 420. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383287-47](../../../../../votacoes/2383287-47/) |
 | 25 out 2023 | Rejeitada a Emenda de Plenário nº 27. Sim: 116; não: 277; abstenção: 1; total: 394. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383287-50](../../../../../votacoes/2383287-50/) |
-| 25 out 2023 | Rejeitada a Emenda de Plenário nº 19. Sim: 116; não: 318; total: 434. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383287-53](../../../../../votacoes/2383287-53/) |
-| 25 out 2023 | Rejeitada a Emenda de Plenário nº 8. Sim: 127; não: 302; total: 429. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383287-61](../../../../../votacoes/2383287-61/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

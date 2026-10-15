@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Covatti Filho — Coesão com o próprio partido, Procedimental (página 13)"
-description: "A decomposição completa do número de Covatti Filho: 373 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
+description: "A decomposição completa do número de Covatti Filho: 374 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Covatti Filho: 373 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>50,4%</b> é <b>188</b> coincidências em
-<b>373</b> votações computáveis — as outras 185 estão
+<p><b>50,5%</b> é <b>189</b> coincidências em
+<b>374</b> votações computáveis — as outras 185 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 22 mai 2024 | Rejeitado o Requerimento. Sim: 115; não: 305; total: 420. | Maioria do partido: nao (1 sim / 34 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2349493-100](../../../../../votacoes/2349493-100/) |
 | 21 mai 2024 | Rejeitado o Requerimento de Urgência (Art. 155 do RICD). Sim: 243; Não: 170; Abstenção: 1; Total: 414. | Maioria do partido: sim (29 sim / 11 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2319364-20](../../../../../votacoes/2319364-20/) |
 | 21 mai 2024 | Rejeitado o Requerimento. Sim: 124; não: 327; abstenção: 1; total: 452. | Maioria do partido: nao (1 sim / 44 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2349493-69](../../../../../votacoes/2349493-69/) |
 | 21 mai 2024 | Aprovado o Requerimento. Sim: 313; não: 120; total: 433. | Maioria do partido: sim (41 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2349493-73](../../../../../votacoes/2349493-73/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 | 09 abr 2024 | Rejeitado o Requerimento. Sim: 88; não: 257; total: 345. | Maioria do partido: nao (7 sim / 30 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2419197-39](../../../../../votacoes/2419197-39/) |
 | 09 abr 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 299; não: 110; abstenção: 1; total: 410. | Maioria do partido: sim (27 sim / 9 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2424952-9](../../../../../votacoes/2424952-9/) |
 | 09 abr 2024 | Aprovado o Requerimento. Sim: 275; não: 139; abstenção: 1; total: 415. | Maioria do partido: sim (27 sim / 14 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2424953-8](../../../../../votacoes/2424953-8/) |
-| 27 mar 2024 | Rejeitado o Requerimento. Sim: 106; não: 259; total: 365. | Maioria do partido: nao (3 sim / 24 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2400758-37](../../../../../votacoes/2400758-37/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

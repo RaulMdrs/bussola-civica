@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Hamm — Coesão com o próprio partido, Mérito (página 7)"
-description: "A decomposição completa do número de Afonso Hamm: 450 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
+description: "A decomposição completa do número de Afonso Hamm: 451 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Afonso Hamm: 450 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>70,2%</b> é <b>316</b> coincidências em
-<b>450</b> votações computáveis — as outras 134 estão
+<p><b>70,3%</b> é <b>317</b> coincidências em
+<b>451</b> votações computáveis — as outras 134 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 24 set 2025 | Aprovado o Projeto de Lei Complementar nº 163, de 2025, ressalvados os destaques. Sim: 296; Não: 145; Abstenção: 2; Total: 443. | Maioria do partido: sim (25 sim / 16 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2541109-38](../../../../../votacoes/2541109-38/) |
 | 17 set 2025 | Aprovada a Emenda Aglutinativa de Plenário nº 1. Sim: 314; Não: 168; Total: 482. | Maioria do partido: sim (45 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2270800-175](../../../../../votacoes/2270800-175/) |
 | 17 set 2025 | Aprovada a Preferência. Sim: 436; Não: 14; Total: 450. | Maioria do partido: sim (40 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2515300-36](../../../../../votacoes/2515300-36/) |
 | 17 set 2025 | Aprovada a Medida Provisória nº 1.300, de 2025, na forma da Emenda Aglutinativa nº 1, ressalvados os destaques. Sim: 423; Não: 36; Total: 459. | Maioria do partido: sim (41 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2515300-38](../../../../../votacoes/2515300-38/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 | 19 ago 2025 | Mantido o texto. Sim: 228; Não: 143; Abstenção: 1; Total: 372. | Maioria do partido: nao (17 sim / 18 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2530336-50](../../../../../votacoes/2530336-50/) |
 | 19 ago 2025 | Mantido o texto. Sim: 246; Não: 146; Abstenção: 1; Total: 393. | Maioria do partido: sim (23 sim / 17 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2530336-53](../../../../../votacoes/2530336-53/) |
 | 12 ago 2025 | Aprovado o Substitutivo da Comissão de Trabalho, de Administração e Serviço Público ao Projeto de Lei nº 2.664 de 2003. Sim: 397; Não: 9; Abstenção: 1; Total: 407. | Maioria do partido: sim (35 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [146708-38](../../../../../votacoes/146708-38/) |
-| 12 ago 2025 | Aprovado o Projeto de Lei nº 1.856, de 2025. Sim: 424; Não: 4; Abstenção: 2; Total: 430. | Maioria do partido: sim (40 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2500260-34](../../../../../votacoes/2500260-34/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

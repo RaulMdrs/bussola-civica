@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcon — Alinhamento com o governo federal, Mérito (página 6)"
-description: "A decomposição completa do número de Marcon: 401 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
+description: "A decomposição completa do número de Marcon: 403 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcon: 401 votações em 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>94,5%</b> é <b>379</b> coincidências em
-<b>401</b> votações computáveis — as outras 22 estão
+<p><b>94,5%</b> é <b>381</b> coincidências em
+<b>403</b> votações computáveis — as outras 22 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 14 out 2025 | Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 242, de 2025, da Comissão de Finanças e Tributação. Sim: 375; Não: 15; Total: 390. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2517547-55](../../../../../votacoes/2517547-55/) |
+| 01 out 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.087, de 2025, adotada pelo relator da Comissão Especial. Sim: 493; Total: 493. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2487436-169](../../../../../votacoes/2487436-169/) |
 | 24 set 2025 | Aprovada a Medida Provisória, na forma da Emenda Aglutinativa nº 1, ressalvados os destaques. Sim: 403; Não: 6; Total: 409. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2519886-34](../../../../../votacoes/2519886-34/) |
 | 24 set 2025 | Rejeitada a Emenda de Comissão nº 45. Sim: 132; Não: 275; Abstenção: 1; Total: 408. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2519886-53](../../../../../votacoes/2519886-53/) |
 | 24 set 2025 | Rejeitada a Emenda de Plenário nº 1. Sim: 45; Não: 288; Abstenção: 1; Total: 334. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2541109-40](../../../../../votacoes/2541109-40/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 | 03 set 2025 | Mantido o texto. Sim: 266; Não: 86; Total: 352. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2430953-277](../../../../../votacoes/2430953-277/) |
 | 03 set 2025 | Rejeitada a Emenda de Plenário nº 14. Sim: 108; Não: 241; Abstenção: 1; Total: 350. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430953-280](../../../../../votacoes/2430953-280/) |
 | 27 ago 2025 | Rejeitada a preferência. Sim: 129; Não: 262; Total: 391. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2432423-87](../../../../../votacoes/2432423-87/) |
-| 27 ago 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.707, de 2024, adotada pelo relator da Comissão de Minas e Energia, ressalvado o destaque. Sim: 278; Não: 110; Abstenção: 1; Total: 389. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2432423-88](../../../../../votacoes/2432423-88/) |
-| 27 ago 2025 | Mantido o texto. Sim: 243; Não: 133; Total: 376. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2432423-93](../../../../../votacoes/2432423-93/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

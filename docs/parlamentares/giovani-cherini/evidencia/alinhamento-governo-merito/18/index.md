@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Giovani Cherini — Alinhamento com o governo federal, Mérito (página 18)"
-description: "A decomposição completa do número de Giovani Cherini: 385 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
+description: "A decomposição completa do número de Giovani Cherini: 387 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Giovani Cherini: 385 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>33,8%</b> é <b>130</b> coincidências em
-<b>385</b> votações computáveis — as outras 255 estão
+<p><b>33,9%</b> é <b>131</b> coincidências em
+<b>387</b> votações computáveis — as outras 256 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 23 ago 2023 | Aprovada a Medida Provisória nº 1.172, de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 439; não: 1; abstenção: 1; total: 441. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2359135-39](../../../../../votacoes/2359135-39/) |
+| 22 ago 2023 | Aprovadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 93-B, de 2023, nºs 4, 10 e 14, ressalvados os destaques. Sim: 379; não: 64; total: 443. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2357053-108](../../../../../votacoes/2357053-108/) |
 | 22 ago 2023 | Rejeitadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 93-B, de 2023, nºs 1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 13 e 15, ressalvados os destaques. Sim: 19; não: 423; abstenção: 2; total: 444. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2357053-110](../../../../../votacoes/2357053-110/) |
 | 07 jul 2023 | Mantido o texto. Sim: 336; não: 132; total: 468. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-386](../../../../../votacoes/2196833-386/) |
 | 07 jul 2023 | Mantido o texto. Sim: 349; não: 84; abstenção: 2; total: 435. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-390](../../../../../votacoes/2196833-390/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 | 06 jul 2023 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques. Sim: 375; não: 113; abstenção:3; total: 491. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-373](../../../../../votacoes/2196833-373/) |
 | 06 jul 2023 | Mantido o texto. Sim: 423; não: 37; abstenção: 1; total: 461. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-380](../../../../../votacoes/2196833-380/) |
 | 14 jun 2023 | Aprovada a Medida Provisória nº 1.165 de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 353; não: 58; abstenção: 1; total: 412. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2351990-37](../../../../../votacoes/2351990-37/) |
-| 13 jun 2023 | Aprovado o Projeto de Lei nº 2.250, de 2023. Sim: 318; não: 31; total: 349. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2358922-21](../../../../../votacoes/2358922-21/) |
-| 31 mai 2023 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião pelo atendimento dos pressupostos constitucionais de relevância e urgência e pela inadequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 319; não: 111; abstenção: 1; total: 431. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2345493-38](../../../../../votacoes/2345493-38/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

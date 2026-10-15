@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alceu Moreira — Alinhamento com o governo federal, Procedimental (página 4)"
-description: "A decomposição completa do número de Alceu Moreira: 329 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
+description: "A decomposição completa do número de Alceu Moreira: 330 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alceu Moreira: 329 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>56,5%</b> é <b>186</b> coincidências em
-<b>329</b> votações computáveis — as outras 143 estão
+<p><b>56,7%</b> é <b>187</b> coincidências em
+<b>330</b> votações computáveis — as outras 143 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>17 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 09 dez 2025 | Rejeitado o Requerimento. Sim: 147; Não: 287; Total: 434. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2358548-55](../../../../../votacoes/2358548-55/) |
 | 26 nov 2025 | Rejeitado o Requerimento. Sim: 127; Não: 270; Total: 397. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2524984-25](../../../../../votacoes/2524984-25/) |
 | 18 nov 2025 | Rejeitado o Requerimento. Sim: 114; Não: 335; Total: 449. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2579832-49](../../../../../votacoes/2579832-49/) |
 | 18 nov 2025 | Aprovado o Requerimento. Sim: 335; Não: 111; Total: 446. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2579832-54](../../../../../votacoes/2579832-54/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 | 03 nov 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 275; Não: 146; Total: 421. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2579995-8](../../../../../votacoes/2579995-8/) |
 | 03 nov 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 295; Não: 118; Total: 413. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2579996-8](../../../../../votacoes/2579996-8/) |
 | 03 nov 2025 | Rejeitado o Requerimento de Urgência (Art. 155 do RICD). Sim: 236; Não: 178; Total: 414. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2579999-8](../../../../../votacoes/2579999-8/) |
-| 03 nov 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 386; Não: 26; Abstenção: 3; Total: 415. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2580122-8](../../../../../votacoes/2580122-8/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

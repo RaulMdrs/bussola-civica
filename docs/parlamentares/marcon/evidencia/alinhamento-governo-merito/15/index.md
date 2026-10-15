@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcon — Alinhamento com o governo federal, Mérito (página 15)"
-description: "A decomposição completa do número de Marcon: 401 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
+description: "A decomposição completa do número de Marcon: 403 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcon: 401 votações em 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>94,5%</b> é <b>379</b> coincidências em
-<b>401</b> votações computáveis — as outras 22 estão
+<p><b>94,5%</b> é <b>381</b> coincidências em
+<b>403</b> votações computáveis — as outras 22 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 20 mar 2024 | Mantido o texto. Sim: 279; não: 93; total: 372. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2269745-79](../../../../../votacoes/2269745-79/) |
+| 20 mar 2024 | Mantido o texto. Sim: 225; não: 187; total: 412. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2269745-84](../../../../../votacoes/2269745-84/) |
 | 20 mar 2024 | Mantido o texto. Sim: 283; não: 135; total: 418. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2269745-86](../../../../../votacoes/2269745-86/) |
 | 20 mar 2024 | Mantido o texto. Sim: 382; não: 21; abstenção: 5; total: 408. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2269745-88](../../../../../votacoes/2269745-88/) |
 | 20 mar 2024 | Mantido o texto. Sim: 315; não: 87; abstenção: 1; total: 403. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2269745-90](../../../../../votacoes/2269745-90/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 | 12 mar 2024 | Rejeitada a preferência. Sim: 130; não: 303; total: 433. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2417025-55](../../../../../votacoes/2417025-55/) |
 | 28 fev 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 9.543, de 2018, adotada pelo relator da Comissão de Minas e Energia. Sim: 325; não: 97; abstenção: 1; total: 423. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2167882-83](../../../../../votacoes/2167882-83/) |
 | 21 fev 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 175, de 2023, adotada pelo relator da Comissão de Saúde. Sim: 426; não: 4; total: 430. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2382257-49](../../../../../votacoes/2382257-49/) |
-| 21 fev 2024 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 425; total: 425. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2388837-35](../../../../../votacoes/2388837-35/) |
-| 21 dez 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.148, de 2015, adotada pelo relator da Comissão Especial, ressalvado o destaque. Sim: 299; não: 103; abstenção: 1; total: 403. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [1548579-126](../../../../../votacoes/1548579-126/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

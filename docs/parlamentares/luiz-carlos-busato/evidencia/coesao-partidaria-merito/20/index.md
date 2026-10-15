@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Luiz Carlos Busato — Coesão com o próprio partido, Mérito (página 20)"
-description: "A decomposição completa do número de Luiz Carlos Busato: 495 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 400ª."
+description: "A decomposição completa do número de Luiz Carlos Busato: 497 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 400ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Luiz Carlos Busato: 495 vo
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>91,9%</b> é <b>455</b> coincidências em
-<b>495</b> votações computáveis — as outras 40 estão
+<p><b>91,8%</b> é <b>456</b> coincidências em
+<b>497</b> votações computáveis — as outras 41 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 14 dez 2023 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião pelo não atendimento dos pressupostos constitucionais de relevância e urgência e pela inadequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 221; não: 40; abstenção: 3; total: 264. | Maioria do partido: sim (21 sim / 9 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387579-35](../../../../../votacoes/2387579-35/) |
+| 14 dez 2023 | Aprovada a Medida Provisória nº 1.187 de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 229; não: 49; total: 278. | Maioria do partido: sim (21 sim / 16 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387579-37](../../../../../votacoes/2387579-37/) |
 | 14 dez 2023 | Mantido o texto. Sim: 225; não: 32; total: 257. | Maioria do partido: sim (24 sim / 8 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387579-40](../../../../../votacoes/2387579-40/) |
 | 14 dez 2023 | Mantido o texto. Sim: 241; não: 38; total: 279. | Maioria do partido: sim (31 sim / 11 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387579-43](../../../../../votacoes/2387579-43/) |
 | 14 dez 2023 | Mantido o texto. Sim: 246; não: 29; total: 275. | Maioria do partido: sim (30 sim / 9 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387579-46](../../../../../votacoes/2387579-46/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
 | 29 nov 2023 | Aprovado o Projeto de Lei nº 3.954, de 2023. Sim: 307; não: 27; abstenção: 1; total: 338. | Maioria do partido: sim (32 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2333929-40](../../../../../votacoes/2333929-40/) |
 | 29 nov 2023 | Aprovado o Projeto de Lei Complementar nº 205, de 2023.Sim: 326; não: 84; abstenção: 1; total: 411. | Maioria do partido: sim (31 sim / 8 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2398741-64](../../../../../votacoes/2398741-64/) |
 | 22 nov 2023 | Rejeitada a Emenda do Senado Federal ao Projeto de Lei nº 4.416, de 2023. Sim: 31, não: 375, abstenção: 2, total: 408. | Maioria do partido: nao (2 sim / 41 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2312373-140](../../../../../votacoes/2312373-140/) |
-| 22 nov 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.768, de 2023, adotada pela Relatora da Comissão de Indústria, Comércio e Serviços, ressalvados os destaques. Sim: 423; não: 11; abstenção: 1; total: 435. | Maioria do partido: sim (43 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2355510-53](../../../../../votacoes/2355510-53/) |
-| 22 nov 2023 | Aprovado o Projeto de Lei nº 4.035, de 2023, ressalvados os destaques. Sim: 235; não: 110; abstenção: 1; total: 346. | Maioria do partido: sim (17 sim / 14 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2381043-63](../../../../../votacoes/2381043-63/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

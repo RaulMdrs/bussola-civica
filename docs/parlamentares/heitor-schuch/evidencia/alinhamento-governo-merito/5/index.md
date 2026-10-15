@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Heitor Schuch — Alinhamento com o governo federal, Mérito (página 5)"
-description: "A decomposição completa do número de Heitor Schuch: 277 votações em 14 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
+description: "A decomposição completa do número de Heitor Schuch: 279 votações em 14 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Heitor Schuch: 277 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>88,1%</b> é <b>244</b> coincidências em
-<b>277</b> votações computáveis — as outras 33 estão
+<p><b>87,8%</b> é <b>245</b> coincidências em
+<b>279</b> votações computáveis — as outras 34 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>14 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 08 jul 2025 | Rejeitado o Destaque. Sim: 159; Não: 243; Total: 402. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2413257-125](../../../../../votacoes/2413257-125/) |
+| 08 jul 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 769, de 2024, adotado pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 209; Não: 165; Abstenção: 4; Total: 378. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2421211-88](../../../../../votacoes/2421211-88/) |
 | 01 jul 2025 | Mantido o texto. Sim: 274; Não: 73; Abstenção: 1; Total: 348. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2191678-93](../../../../../votacoes/2191678-93/) |
 | 25 jun 2025 | Mantido o texto. Sim: 295; Não: 80; Abstenção: 2; Total: 377. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2465240-36](../../../../../votacoes/2465240-36/) |
 | 25 jun 2025 | Aprovado o Projeto de Resolução nº 27, de 2025. Sim: 272; Não: 117; Abstenção: 1; Total: 390. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2487358-48](../../../../../votacoes/2487358-48/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 | 26 mai 2025 | Aprovado o Projeto de Lei nº 1.708, de 2025. Sim: 289; Não: 136; Total: 425. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2497993-33](../../../../../votacoes/2497993-33/) |
 | 22 mai 2025 | Aprovado o Projeto de Decreto Legislativo nº 308, de 2024. Sim: 363; Não: 11; Abstenção: 1; Total: 375. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2442331-46](../../../../../votacoes/2442331-46/) |
 | 22 mai 2025 | Aprovado o Projeto de Decreto Legislativo nº 725 de 2024. Sim: 397; Não: 5; Total: 402. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2481257-37](../../../../../votacoes/2481257-37/) |
-| 21 mai 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.466, de 2025, adotada pelo relator da Comissão de Administração e Serviço Público, ressalvado o destaque. Sim: 388; Não: 43; Total: 431. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2494408-30](../../../../../votacoes/2494408-30/) |
-| 21 mai 2025 | Mantido o texto. Sim: 290; Não: 134; Total: 424. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2494408-43](../../../../../votacoes/2494408-43/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

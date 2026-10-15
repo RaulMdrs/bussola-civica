@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Sanderson — Coesão com o próprio partido, Mérito (página 22)"
-description: "A decomposição completa do número de Sanderson: 505 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 421ª à 440ª."
+description: "A decomposição completa do número de Sanderson: 507 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 421ª à 440ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Sanderson: 505 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>93,5%</b> é <b>472</b> coincidências em
-<b>505</b> votações computáveis — as outras 33 estão
+<p><b>93,5%</b> é <b>474</b> coincidências em
+<b>507</b> votações computáveis — as outras 33 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>421ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>421ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 06 nov 2023 | Mantido o texto. Sim: 284 ; não: 106; total: .390. | Maioria do partido: nao (6 sim / 74 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2345281-63](../../../../../votacoes/2345281-63/) |
+| 31 out 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 3.780, de 2023, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 269; não: 87; abstenção: 1; total: 357. | Maioria do partido: sim (79 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2376169-62](../../../../../votacoes/2376169-62/) |
 | 25 out 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.173, de 2023, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 323; não: 119; abstenção: 1; total: 443. | Maioria do partido: nao (12 sim / 72 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2383287-43](../../../../../votacoes/2383287-43/) |
 | 25 out 2023 | Rejeitada a Emenda de Plenário nº 12. Sim: 116; não: 303; abstenção: 1; total: 420. | Maioria do partido: sim (72 sim / 11 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2383287-47](../../../../../votacoes/2383287-47/) |
 | 25 out 2023 | Rejeitada a Emenda de Plenário nº 27. Sim: 116; não: 277; abstenção: 1; total: 394. | Maioria do partido: sim (72 sim / 7 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2383287-50](../../../../../votacoes/2383287-50/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>421ª</b> à
 | 14 set 2023 | Aprovada a Emenda de Plenário nº 30. Sim: 246; não: 172; abstenção: 1; total: 419. | Maioria do partido: sim (85 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387066-94](../../../../../votacoes/2387066-94/) |
 | 14 set 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 192, de 2023, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 345; não: 55; abstenção: 1; total: 401. | Maioria do partido: sim (70 sim / 11 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387067-33](../../../../../votacoes/2387067-33/) |
 | 13 set 2023 | Rejeitada a Emenda de Plenário nº 26. Sim: 82; não: 342; abstenção: 8; total: 432. | Maioria do partido: nao (30 sim / 44 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2374400-46](../../../../../votacoes/2374400-46/) |
-| 13 set 2023 | Suprimido o texto. Sim: 222; não: 242; abstenção: 2; total: 466. | Maioria do partido: nao (6 sim / 83 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2374400-53](../../../../../votacoes/2374400-53/) |
-| 13 set 2023 | Aprovada a Emenda de Plenário nº 34. Sim: 203; não: 164; total: 367. | Maioria do partido: sim (68 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2374400-58](../../../../../votacoes/2374400-58/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

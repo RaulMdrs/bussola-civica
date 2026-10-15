@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Fernanda Melchionna — Coesão com o próprio partido, Mérito (página 23)"
-description: "A decomposição completa do número de Fernanda Melchionna: 458 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 441ª à 458ª."
+description: "A decomposição completa do número de Fernanda Melchionna: 460 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 441ª à 460ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Fernanda Melchionna: 458 v
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>98,0%</b> é <b>449</b> coincidências em
-<b>458</b> votações computáveis — as outras 9 estão
+<p><b>98,0%</b> é <b>451</b> coincidências em
+<b>460</b> votações computáveis — as outras 9 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>441ª</b> à
-<b>458ª</b>.</p>
+<b>460ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>441ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 24 mai 2023 | Mantido o texto. Sim: 326; não: 138; total: 464. | Maioria do partido: sim (10 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357053-59](../../../../../votacoes/2357053-59/) |
+| 24 mai 2023 | Mantido o texto. Sim: 316; não: 160; abstenção: 3; total: 479. | Maioria do partido: nao (0 sim / 10 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2357053-62](../../../../../votacoes/2357053-62/) |
 | 24 mai 2023 | Mantido o texto. Sim: 306; não: 170; total: 476. | Maioria do partido: sim (10 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357053-65](../../../../../votacoes/2357053-65/) |
 | 24 mai 2023 | Rejeitada a Emenda de Plenário nº 85. Sim: 126; não: 335; total: 461. | Maioria do partido: nao (0 sim / 10 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2357053-70](../../../../../votacoes/2357053-70/) |
 | 23 mai 2023 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 93, de 2023, adotado pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 372; não: 108; abstenção: 1; total: 481. | Maioria do partido: nao (0 sim / 11 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2357053-47](../../../../../votacoes/2357053-47/) |

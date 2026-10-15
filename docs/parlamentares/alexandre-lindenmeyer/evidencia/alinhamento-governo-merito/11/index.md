@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alexandre Lindenmeyer — Alinhamento com o governo federal, Mérito (página 11)"
-description: "A decomposição completa do número de Alexandre Lindenmeyer: 378 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
+description: "A decomposição completa do número de Alexandre Lindenmeyer: 380 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alexandre Lindenmeyer: 378
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>95,8%</b> é <b>362</b> coincidências em
-<b>378</b> votações computáveis — as outras 16 estão
+<p><b>95,8%</b> é <b>364</b> coincidências em
+<b>380</b> votações computáveis — as outras 16 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 11 set 2024 | Aprovado o Projeto de Lei nº 1.847, de 2024, ressalvados os destaques. Sim: 253; Não: 67; Abstenção: 4; Total: 324. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454704-53](../../../../../votacoes/2454704-53/) |
+| 11 set 2024 | Rejeitadas as Emendas de Plenário. Sim: 57; Não: 228; Abstenção: 3; Total: 288. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2454704-55](../../../../../votacoes/2454704-55/) |
 | 11 set 2024 | Rejeitada a Emenda de Plenário nº 18. Sim: 133; Não: 204; Total: 337. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2454704-58](../../../../../votacoes/2454704-58/) |
 | 11 set 2024 | Mantido o texto. Sim: 206; Não: 70; Total: 276. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454704-64](../../../../../votacoes/2454704-64/) |
 | 11 set 2024 | Mantido o texto. Sim: 200; Não: 80; Abstenção: 1; Total: 281. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454704-67](../../../../../votacoes/2454704-67/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 | 10 jul 2024 | Rejeitada a Emenda de Plenário nº 747. Sim: 229; não: 233; abstenção: 1; total: 463. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2430143-76](../../../../../votacoes/2430143-76/) |
 | 10 jul 2024 | Aprovada a Emenda de Plenário nº 766. Sim: 477; não: 3; abstenção: 2; total: 482. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430143-98](../../../../../votacoes/2430143-98/) |
 | 09 jul 2024 | Rejeitado o Recurso nº 18/2024, contra apreciação terminativa do inciso I do caput do art. 35-D, da Lei nº 9394/96, contida no art. 1º do Substitutivo do Senado Federal, apresentado ao PL nº 5230/23. Sim: 126; não: 302; total: 428. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2399598-108](../../../../../votacoes/2399598-108/) |
-| 03 jul 2024 | Aprovada a Medida Provisória nº 1.210, de 2024. Sim: 336; total: 336. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422095-37](../../../../../votacoes/2422095-37/) |
-| 19 jun 2024 | Mantido o texto. Sim: 313; não: 116; total: 429. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2236291-85](../../../../../votacoes/2236291-85/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

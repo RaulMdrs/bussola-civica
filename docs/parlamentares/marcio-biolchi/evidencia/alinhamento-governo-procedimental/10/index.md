@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Márcio Biolchi — Alinhamento com o governo federal, Procedimental (página 10)"
-description: "A decomposição completa do número de Márcio Biolchi: 310 votações em 16 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
+description: "A decomposição completa do número de Márcio Biolchi: 311 votações em 16 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Márcio Biolchi: 310 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>78,1%</b> é <b>242</b> coincidências em
-<b>310</b> votações computáveis — as outras 68 estão
+<p><b>78,1%</b> é <b>243</b> coincidências em
+<b>311</b> votações computáveis — as outras 68 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>16 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 10 set 2024 | Rejeitado o Requerimento. Sim: 16; Não: 316; Abstenção: 3; Total: 335. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2447191-38](../../../../../votacoes/2447191-38/) |
 | 10 set 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 339; Não: 39; Abstenção: 2; Total: 380. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2457424-6](../../../../../votacoes/2457424-6/) |
 | 09 set 2024 | Rejeitado o Requerimento. Sim: 14; Não: 348; Abstenção: 1; Total: 363. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2204088-80](../../../../../votacoes/2204088-80/) |
 | 09 set 2024 | Rejeitado o Requerimento. Sim: 5; Não: 366; Abstenção: 3; Total: 374. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2204088-85](../../../../../votacoes/2204088-85/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 | 09 jul 2024 | Rejeitado o Recurso 18/2024. Sim: 126. não: 302: total: 428. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2447901-6](../../../../../votacoes/2447901-6/) |
 | 19 jun 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 277; não: 138; total: 415. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2441271-7](../../../../../votacoes/2441271-7/) |
 | 22 mai 2024 | Rejeitado o Requerimento. Sim: 115; não: 305; total: 420. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2349493-100](../../../../../votacoes/2349493-100/) |
-| 21 mai 2024 | Rejeitado o Requerimento de Urgência (Art. 155 do RICD). Sim: 243; Não: 170; Abstenção: 1; Total: 414. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2319364-20](../../../../../votacoes/2319364-20/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

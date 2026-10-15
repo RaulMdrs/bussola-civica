@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Denise Pessôa — Alinhamento com o governo federal, Mérito (página 14)"
-description: "A decomposição completa do número de Denise Pessôa: 403 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
+description: "A decomposição completa do número de Denise Pessôa: 405 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Denise Pessôa: 403 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>96,0%</b> é <b>387</b> coincidências em
-<b>403</b> votações computáveis — as outras 16 estão
+<p><b>96,0%</b> é <b>389</b> coincidências em
+<b>405</b> votações computáveis — as outras 16 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 09 abr 2024 | Aprovada a Subemenda Substitutiva Global Reformulada ao Projeto de Lei Complementar nº 233, de 2023, adotada pelo relator da Comissão de Viação e Transportes. Sim: 304; não: 136; total: 440. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2400758-62](../../../../../votacoes/2400758-62/) |
+| 09 abr 2024 | Rejeitada a Emenda de Plenário n° 4. Sim: 86; não: 178; total: 264. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2419197-54](../../../../../votacoes/2419197-54/) |
 | 26 mar 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 3, de 2024, adotada pela relatora da Comissão de Indústria, Comércio e Serviços. Sim: 378; não: 25; total: 403. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2416826-49](../../../../../votacoes/2416826-49/) |
 | 20 mar 2024 | Mantido o texto. Sim: 279; não: 93; total: 372. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2269745-79](../../../../../votacoes/2269745-79/) |
 | 20 mar 2024 | Mantido o texto. Sim: 225; não: 187; total: 412. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2269745-84](../../../../../votacoes/2269745-84/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 | 13 mar 2024 | Rejeitada a Emenda de Plenário nº 22. Sim: 14; não: 362; total: 376. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2238434-85](../../../../../votacoes/2238434-85/) |
 | 13 mar 2024 | Rejeitada a Emenda de Plenário nº 18. Sim: 98; não: 314; total: 412. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2238434-89](../../../../../votacoes/2238434-89/) |
 | 13 mar 2024 | Rejeitada a Emenda de Plenário nº 21. Sim: 191; não; 232; abstenção: 2; total: 425. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2238434-94](../../../../../votacoes/2238434-94/) |
-| 12 mar 2024 | Rejeitado o Recurso nº 3/2024, contra Parecer Terminativo da Comissão de Finanças e Tributação às Emendas de Plenário, de 2024. Sim: 139; não: 290; total: 429. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2417025-45](../../../../../votacoes/2417025-45/) |
-| 12 mar 2024 | Rejeitada a preferência. Sim: 130; não: 303; total: 433. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2417025-55](../../../../../votacoes/2417025-55/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

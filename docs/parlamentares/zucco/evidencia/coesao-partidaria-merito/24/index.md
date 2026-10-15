@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Zucco — Coesão com o próprio partido, Mérito (página 24)"
-description: "A decomposição completa do número de Zucco: 551 votações em 28 páginas, uma por linha, com link para a fonte. Esta traz da 461ª à 480ª."
+description: "A decomposição completa do número de Zucco: 553 votações em 28 páginas, uma por linha, com link para a fonte. Esta traz da 461ª à 480ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Zucco: 551 votações em 2
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>82,8%</b> é <b>456</b> coincidências em
-<b>551</b> votações computáveis — as outras 95 estão
+<p><b>82,8%</b> é <b>458</b> coincidências em
+<b>553</b> votações computáveis — as outras 95 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>28 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>461ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>461ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 25 out 2023 | Rejeitada a Emenda de Plenário nº 19. Sim: 116; não: 318; total: 434. | Maioria do partido: nao (1 sim / 33 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383287-53](../../../../../votacoes/2383287-53/) |
+| 25 out 2023 | Rejeitada a Emenda de Plenário nº 8. Sim: 127; não: 302; total: 429. | Maioria do partido: nao (2 sim / 34 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383287-61](../../../../../votacoes/2383287-61/) |
 | 18 out 2023 | Aprovado o Projeto de Decreto Legislativo nº 745, de 2017. Sim: 323; não: 98; abstenção: 3; total: 424. | Maioria do partido: sim (34 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2149303-50](../../../../../votacoes/2149303-50/) |
 | 04 out 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.245, de 2023, adotada pelo Relator da Comissão de Educação, ressalvados os destaques. Sim: 309; não: 28; abstenção: 3; total: 340. | Maioria do partido: sim (31 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2358915-67](../../../../../votacoes/2358915-67/) |
 | 03 out 2023 | Rejeitada a Emenda de Plenário nº 4. Sim: 57; não: 270; total: 327. | Maioria do partido: nao (2 sim / 28 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2224999-104](../../../../../votacoes/2224999-104/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>461ª</b> à
 | 14 set 2023 | Suprimido o texto. Sim: 207; não: 215; abstenção: 2; total: 424. | Maioria do partido: sim (29 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2387066-91](../../../../../votacoes/2387066-91/) |
 | 14 set 2023 | Aprovada a Emenda de Plenário nº 30. Sim: 246; não: 172; abstenção: 1; total: 419. | Maioria do partido: sim (30 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387066-94](../../../../../votacoes/2387066-94/) |
 | 14 set 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 192, de 2023, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 345; não: 55; abstenção: 1; total: 401. | Maioria do partido: sim (32 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387067-33](../../../../../votacoes/2387067-33/) |
-| 13 set 2023 | Rejeitada a Emenda de Plenário nº 26. Sim: 82; não: 342; abstenção: 8; total: 432. | Maioria do partido: nao (13 sim / 17 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2374400-46](../../../../../votacoes/2374400-46/) |
-| 13 set 2023 | Suprimido o texto. Sim: 222; não: 242; abstenção: 2; total: 466. | Maioria do partido: nao (4 sim / 34 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2374400-53](../../../../../votacoes/2374400-53/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

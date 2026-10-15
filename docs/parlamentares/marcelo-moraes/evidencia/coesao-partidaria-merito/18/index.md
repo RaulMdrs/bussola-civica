@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcelo Moraes — Coesão com o próprio partido, Mérito (página 18)"
-description: "A decomposição completa do número de Marcelo Moraes: 434 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
+description: "A decomposição completa do número de Marcelo Moraes: 435 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcelo Moraes: 434 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>94,0%</b> é <b>408</b> coincidências em
-<b>434</b> votações computáveis — as outras 26 estão
+<p><b>94,0%</b> é <b>409</b> coincidências em
+<b>435</b> votações computáveis — as outras 26 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 nov 2023 | Mantido o texto. Sim: 276; não: 105; total: 381. | Maioria do partido: sim (74 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2125189-191](../../../../../votacoes/2125189-191/) |
 | 29 nov 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 11.247, de 2018, adotada pelo relator da Comissão de Minas e Energia, ressalvados os destaques. Sim: 403; não: 16; total: 419. | Maioria do partido: sim (81 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2190084-79](../../../../../votacoes/2190084-79/) |
 | 29 nov 2023 | Mantido o texto. Sim: 387; não: 38; total: 425. | Maioria do partido: sim (81 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2190084-88](../../../../../votacoes/2190084-88/) |
 | 29 nov 2023 | Aprovada a Emenda de Plenário nº 7. Sim: 253; não: 160; abstenção: 1; total: 414. | Maioria do partido: sim (61 sim / 18 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2190084-93](../../../../../votacoes/2190084-93/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 | 25 out 2023 | Rejeitada a Emenda de Plenário nº 12. Sim: 116; não: 303; abstenção: 1; total: 420. | Maioria do partido: sim (72 sim / 11 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2383287-47](../../../../../votacoes/2383287-47/) |
 | 25 out 2023 | Rejeitada a Emenda de Plenário nº 27. Sim: 116; não: 277; abstenção: 1; total: 394. | Maioria do partido: sim (72 sim / 7 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2383287-50](../../../../../votacoes/2383287-50/) |
 | 25 out 2023 | Rejeitada a Emenda de Plenário nº 19. Sim: 116; não: 318; total: 434. | Maioria do partido: sim (74 sim / 10 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2383287-53](../../../../../votacoes/2383287-53/) |
-| 25 out 2023 | Rejeitada a Emenda de Plenário nº 8. Sim: 127; não: 302; total: 429. | Maioria do partido: sim (72 sim / 9 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2383287-61](../../../../../votacoes/2383287-61/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

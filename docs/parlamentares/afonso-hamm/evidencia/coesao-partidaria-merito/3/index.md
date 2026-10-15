@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Hamm — Coesão com o próprio partido, Mérito (página 3)"
-description: "A decomposição completa do número de Afonso Hamm: 450 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
+description: "A decomposição completa do número de Afonso Hamm: 451 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Afonso Hamm: 450 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>70,2%</b> é <b>316</b> coincidências em
-<b>450</b> votações computáveis — as outras 134 estão
+<p><b>70,3%</b> é <b>317</b> coincidências em
+<b>451</b> votações computáveis — as outras 134 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 10 fev 2026 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 14, de 2026, adotado pelo relator da Comissão de Indústria, Comércio e Serviços. Sim: 317; Não: 61; Abstenção: 2; Total: 380. | Maioria do partido: sim (29 sim / 5 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2601040-31](../../../../../votacoes/2601040-31/) |
 | 02 fev 2026 | Aprovada a Medida Provisória nº 1.313 de 2025, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 415; Não: 29; Abstenção: 2; Total: 446. | Maioria do partido: sim (37 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2557414-32](../../../../../votacoes/2557414-32/) |
 | 02 fev 2026 | Mantido o texto. Sim: 401; Não: 34; Total: 435. | Maioria do partido: sim (40 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2557414-41](../../../../../votacoes/2557414-41/) |
 | 16 dez 2025 | Mantido o texto. Sim: 441; Não: 3; Total: 444. | Maioria do partido: sim (42 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-139](../../../../../votacoes/2438459-139/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 | 09 dez 2025 | Mantido o texto. Sim: 208; Não: 121; Total: 329. | Maioria do partido: sim (26 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2358548-86](../../../../../votacoes/2358548-86/) |
 | 09 dez 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 2.162, de 2023, adotado pelo relator da Comissão Especial, ressalvados os destaques. Sim: 291; Não: 148; Abstenção: 1; Total: 440. | Maioria do partido: sim (38 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2358548-89](../../../../../votacoes/2358548-89/) |
 | 09 dez 2025 | Mantido o texto. Sim: 230; Não: 34; Abstenção: 4; Total: 268. | Maioria do partido: sim (25 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2358548-90](../../../../../votacoes/2358548-90/) |
-| 09 dez 2025 | Mantido o texto. Sim: 229; Não: 26; Abstenção: 3; Total: 258. | Maioria do partido: sim (24 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2358548-93](../../../../../votacoes/2358548-93/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

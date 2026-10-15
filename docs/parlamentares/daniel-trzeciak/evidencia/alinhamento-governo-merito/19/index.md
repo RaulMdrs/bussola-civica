@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daniel Trzeciak — Alinhamento com o governo federal, Mérito (página 19)"
-description: "A decomposição completa do número de Daniel Trzeciak: 395 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 380ª."
+description: "A decomposição completa do número de Daniel Trzeciak: 397 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 380ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Daniel Trzeciak: 395 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>49,1%</b> é <b>194</b> coincidências em
-<b>395</b> votações computáveis — as outras 201 estão
+<p><b>49,1%</b> é <b>195</b> coincidências em
+<b>397</b> votações computáveis — as outras 202 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 06 jul 2023 | Mantido o texto. Sim: 379; não: 116; abstenção: 1; total: 496. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-353](../../../../../votacoes/2196833-353/) |
+| 06 jul 2023 | Mantido o texto. Sim: 383; não: 103; abstenção: 2; total: 488. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-356](../../../../../votacoes/2196833-356/) |
 | 06 jul 2023 | Mantido o texto. Sim: 379; não: 114; abstenção: 2; total: 495. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-359](../../../../../votacoes/2196833-359/) |
 | 06 jul 2023 | Mantido o texto. Sim: 344; não: 147; abstenção: 2; total: 493. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-362](../../../../../votacoes/2196833-362/) |
 | 06 jul 2023 | Mantido o texto. Sim: 461; não: 24; abstenção: 2; total: 487. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-365](../../../../../votacoes/2196833-365/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
 | 30 mai 2023 | Mantido o texto. Sim: 290; não: 142; abstenção: 1; total: 433. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [345311-279](../../../../../votacoes/345311-279/) |
 | 24 mai 2023 | Rejeitada a Emenda nº 1 e restabelecidos os dispositivos aprovados pela câmara consubstanciados no Projeto de Lei de Conversão nº 6, de 2023. Sim: 66; não: 364; abtenção: 2; total: 432. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2345368-78](../../../../../votacoes/2345368-78/) |
 | 24 mai 2023 | Mantido o texto. Sim: 326; não: 138; total: 464. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2357053-59](../../../../../votacoes/2357053-59/) |
-| 24 mai 2023 | Mantido o texto. Sim: 316; não: 160; abstenção: 3; total: 479. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2357053-62](../../../../../votacoes/2357053-62/) |
-| 24 mai 2023 | Mantido o texto. Sim: 306; não: 170; total: 476. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2357053-65](../../../../../votacoes/2357053-65/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

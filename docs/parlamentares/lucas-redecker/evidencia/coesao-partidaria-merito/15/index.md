@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Lucas Redecker — Coesão com o próprio partido, Mérito (página 15)"
-description: "A decomposição completa do número de Lucas Redecker: 540 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
+description: "A decomposição completa do número de Lucas Redecker: 542 votações em 28 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,10 +11,10 @@ description: "A decomposição completa do número de Lucas Redecker: 540 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>64,3%</b> é <b>347</b> coincidências em
-<b>540</b> votações computáveis — as outras 193 estão
+<p><b>64,4%</b> é <b>349</b> coincidências em
+<b>542</b> votações computáveis — as outras 193 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
-repartida em <b>27 páginas</b> de até 20 votações,
+repartida em <b>28 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 <b>300ª</b>.</p>
 </div>
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 17 dez 2024 | Rejeitada a Emenda de Plenário nº 19. Sim: 186; Não: 256; Total: 442. | Maioria do partido: sim (9 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2473389-65](../../../../../votacoes/2473389-65/) |
+| 17 dez 2024 | Rejeitada a Emenda de Plenário n° 38. Sim: 59; Não: 385; Abstenção: 1; Total: 445. | Maioria do partido: sim (8 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2473389-68](../../../../../votacoes/2473389-68/) |
 | 12 dez 2024 | Aprovado o Substitutivo Reformulado ao Projeto de Lei nº 1.637, de 2019, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 238; Não: 111; Abstenção: 2; Total: 351. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2194861-77](../../../../../votacoes/2194861-77/) |
 | 12 dez 2024 | Mantido o texto. Sim: 176; Não: 86; Total: 262. | Maioria do partido: sim (3 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2194861-79](../../../../../votacoes/2194861-79/) |
 | 12 dez 2024 | Mantido o texto. Sim: 229; Não: 106; Abstenção: 1; Total: 336. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2194861-82](../../../../../votacoes/2194861-82/) |
@@ -43,13 +45,11 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 | 05 nov 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 175, de 2024, adotada pelo relator da Comissão de Administração e Serviço Público, ressalvados os destaques. Sim: 330; Não: 74; Abstenção: 2; Total: 406. | Maioria do partido: sim (7 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2466104-39](../../../../../votacoes/2466104-39/) |
 | 05 nov 2024 | Rejeitada a Emenda de Plenário n° 29. Sim: 25; Não: 348; Abstenção: 1; Total: 374. | Maioria do partido: nao (0 sim / 7 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2466104-52](../../../../../votacoes/2466104-52/) |
 | 30 out 2024 | Mantido o texto. Sim: 292; Não: 106; Total: 398. | Maioria do partido: sim (8 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2438459-66](../../../../../votacoes/2438459-66/) |
-| 30 out 2024 | Aprovada a Emenda Aglutinativa n° 1. Sim: 403; Total: 403. | Maioria do partido: sim (10 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-69](../../../../../votacoes/2438459-69/) |
-| 30 out 2024 | Rejeitada a Emenda de Plenário n° 8. Sim: 136; Não: 262; Total: 398. | Maioria do partido: nao (2 sim / 6 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438459-77](../../../../../votacoes/2438459-77/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">
 <a class="passo" href="../14/" rel="prev">← Anteriores</a>
-<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../13/">13</a><a href="../14/">14</a><b aria-current="page">15</b><a href="../16/">16</a><a href="../17/">17</a><span class="salto">…</span><a href="../27/">27</a></span>
+<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../13/">13</a><a href="../14/">14</a><b aria-current="page">15</b><a href="../16/">16</a><a href="../17/">17</a><span class="salto">…</span><a href="../28/">28</a></span>
 <a class="passo" href="../16/" rel="next">Próximas →</a>
 </nav>
 

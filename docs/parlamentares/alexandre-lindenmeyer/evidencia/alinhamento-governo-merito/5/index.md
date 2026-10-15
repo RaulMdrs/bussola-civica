@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alexandre Lindenmeyer — Alinhamento com o governo federal, Mérito (página 5)"
-description: "A decomposição completa do número de Alexandre Lindenmeyer: 378 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
+description: "A decomposição completa do número de Alexandre Lindenmeyer: 380 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alexandre Lindenmeyer: 378
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>95,8%</b> é <b>362</b> coincidências em
-<b>378</b> votações computáveis — as outras 16 estão
+<p><b>95,8%</b> é <b>364</b> coincidências em
+<b>380</b> votações computáveis — as outras 16 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 15 out 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 2.225, de 2024, adotado pela relatora da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvado o destaque. Sim: 285; Não: 86; Abstenção: 2; Total: 373. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438687-71](../../../../../votacoes/2438687-71/) |
+| 15 out 2025 | Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Sustação de Andamento de Ação Penal nº 2, de 2025, pela sustação do andamento da Ação Penal. Sim: 268; Não: 167; Abstenção: 4; Total: 439. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2564763-24](../../../../../votacoes/2564763-24/) |
 | 14 out 2025 | Aprovada a Emenda de Plenário nº 2. Sim: 246; Não: 199; Total: 445. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2501358-48](../../../../../votacoes/2501358-48/) |
 | 01 out 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.087, de 2025, adotada pelo relator da Comissão Especial. Sim: 493; Total: 493. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2487436-169](../../../../../votacoes/2487436-169/) |
 | 25 set 2025 | Aprovado o Projeto de Lei nº 358, de 2025. . | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2483447-25](../../../../../votacoes/2483447-25/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 | 03 set 2025 | Rejeitada a inclusão. Sim: 119; Não: 310; Abstenção: 1; Total: 430. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2318217-81](../../../../../votacoes/2318217-81/) |
 | 03 set 2025 | Mantido o texto. Sim: 311; Não: 35; Total: 346. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2318217-86](../../../../../votacoes/2318217-86/) |
 | 03 set 2025 | Mantido o texto. Sim: 313; Não: 119; Abstenção: 1; Total: 433. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2318217-90](../../../../../votacoes/2318217-90/) |
-| 03 set 2025 | Rejeitada a Emenda de Plenário nº 10. Sim: 165; Não: 276; Total: 441. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2318217-93](../../../../../votacoes/2318217-93/) |
-| 03 set 2025 | Rejeitada a Emenda de Plenário nº 14. Sim: 108; Não: 241; Abstenção: 1; Total: 350. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430953-280](../../../../../votacoes/2430953-280/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

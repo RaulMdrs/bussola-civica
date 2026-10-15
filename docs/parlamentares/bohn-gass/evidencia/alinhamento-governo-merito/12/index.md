@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Bohn Gass — Alinhamento com o governo federal, Mérito (página 12)"
-description: "A decomposição completa do número de Bohn Gass: 410 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
+description: "A decomposição completa do número de Bohn Gass: 412 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Bohn Gass: 410 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,3%</b> é <b>399</b> coincidências em
-<b>410</b> votações computáveis — as outras 11 estão
+<p><b>97,3%</b> é <b>401</b> coincidências em
+<b>412</b> votações computáveis — as outras 11 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 19 nov 2024 | Rejeitados os artigos 3º e 7º; a supressão do § 4º do art. 4º aprovado pela Câmara, reestabelecendo o referido dispositivo, e rejeitado o § 2º do art. 8º. Sim: 41; Não: 343; Total: 384. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2466104-97](../../../../../votacoes/2466104-97/) |
+| 19 nov 2024 | Mantido o texto. Sim: 236; Não: 99; Total: 335. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2467306-39](../../../../../votacoes/2467306-39/) |
 | 05 nov 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 175, de 2024, adotada pelo relator da Comissão de Administração e Serviço Público, ressalvados os destaques. Sim: 330; Não: 74; Abstenção: 2; Total: 406. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2466104-39](../../../../../votacoes/2466104-39/) |
 | 30 out 2024 | Mantido o texto. Sim: 292; Não: 106; Total: 398. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-66](../../../../../votacoes/2438459-66/) |
 | 30 out 2024 | Aprovada a Emenda Aglutinativa n° 1. Sim: 403; Total: 403. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-69](../../../../../votacoes/2438459-69/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 | 28 ago 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 519, de 2018, adotada pelo relator da Comissão Especial, ressalvado o destaque. Sim: 439; não: 3; abstenção: 3; total: 445. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2178408-165](../../../../../votacoes/2178408-165/) |
 | 28 ago 2024 | Mantido o texto. Sim: 305; não: 132; abstenção: 1; total: 438. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2178408-173](../../../../../votacoes/2178408-173/) |
 | 26 ago 2024 | Mantido o texto. Sim: 257; não: 150; abstenção: 1; total: 408. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2432975-44](../../../../../votacoes/2432975-44/) |
-| 14 ago 2024 | Aprovado o Projeto de Lei Complementar nº 57, de 2022. Sim: 423; não: 21; abstenção: 1; total: 445. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2320081-66](../../../../../votacoes/2320081-66/) |
-| 14 ago 2024 | Aprovada a Emenda da Comissão de Finanças e Tributação. Sim: 421; não: 12; total: 433. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2320081-68](../../../../../votacoes/2320081-68/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

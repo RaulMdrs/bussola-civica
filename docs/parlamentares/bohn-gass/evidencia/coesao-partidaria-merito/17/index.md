@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Bohn Gass — Coesão com o próprio partido, Mérito (página 17)"
-description: "A decomposição completa do número de Bohn Gass: 524 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
+description: "A decomposição completa do número de Bohn Gass: 526 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Bohn Gass: 524 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,9%</b> é <b>513</b> coincidências em
-<b>524</b> votações computáveis — as outras 11 estão
+<p><b>97,9%</b> é <b>515</b> coincidências em
+<b>526</b> votações computáveis — as outras 11 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>27 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 11 jul 2024 | Mantido o texto. Sim: 258; não: 102; total: 360. | Maioria do partido: sim (46 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2447183-64](../../../../../votacoes/2447183-64/) |
+| 10 jul 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 68, de 2024, adotada pelo relator da Comissão Especial, ressalvados os destaques. Sim: 336; não: 142; abstenção: 2; total: 480. | Maioria do partido: sim (65 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430143-72](../../../../../votacoes/2430143-72/) |
 | 10 jul 2024 | Rejeitada a Emenda de Plenário nº 747. Sim: 229; não: 233; abstenção: 1; total: 463. | Maioria do partido: nao (0 sim / 60 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2430143-76](../../../../../votacoes/2430143-76/) |
 | 10 jul 2024 | Rejeitada a Emenda de Plenário nº 104. Sim: 155; não: 316; abstenção: 2; total: 473. | Maioria do partido: sim (65 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430143-95](../../../../../votacoes/2430143-95/) |
 | 10 jul 2024 | Aprovada a Emenda de Plenário nº 766. Sim: 477; não: 3; abstenção: 2; total: 482. | Maioria do partido: sim (65 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430143-98](../../../../../votacoes/2430143-98/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 | 22 mai 2024 | Mantido o texto. Sim: 320; não: 113; total: 433. | Maioria do partido: nao (0 sim / 61 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2349493-103](../../../../../votacoes/2349493-103/) |
 | 22 mai 2024 | Rejeitado o Destaque. Sim: 148; não: 292; total: 440. | Maioria do partido: sim (61 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2349493-118](../../../../../votacoes/2349493-118/) |
 | 21 mai 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 709, de 2023, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 336; não: 120; abstenção: 1; total: 457. | Maioria do partido: nao (0 sim / 63 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2349493-82](../../../../../votacoes/2349493-82/) |
-| 21 mai 2024 | Mantido o texto. Sim: 322; não: 116; total: 438. | Maioria do partido: nao (0 sim / 59 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2349493-86](../../../../../votacoes/2349493-86/) |
-| 21 mai 2024 | Mantido o texto. Sim: 320; não: 119; total: 439. | Maioria do partido: nao (1 sim / 61 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2349493-89](../../../../../votacoes/2349493-89/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

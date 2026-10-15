@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Franciane Bayer — Coesão com o próprio partido, Mérito (página 14)"
-description: "A decomposição completa do número de Franciane Bayer: 509 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
+description: "A decomposição completa do número de Franciane Bayer: 511 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Franciane Bayer: 509 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>80,0%</b> é <b>407</b> coincidências em
-<b>509</b> votações computáveis — as outras 102 estão
+<p><b>80,0%</b> é <b>409</b> coincidências em
+<b>511</b> votações computáveis — as outras 102 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 19 dez 2024 | Aprovada, em primeiro turno, a Emenda Aglutinativa Substitutiva à Proposta de Emenda à Constituição nº 31, de 2007. Sim: 344; Não: 154; Abstenção: 2; Total: 500. | Maioria do partido: sim (38 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [347421-200](../../../../../votacoes/347421-200/) |
+| 19 dez 2024 | Suprimido o texto. Sim: 4; Não: 360; Total: 364. | Maioria do partido: nao (0 sim / 32 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [347421-202](../../../../../votacoes/347421-202/) |
 | 19 dez 2024 | Mantido o texto. Sim: 349; Não: 143; Abstenção: 1; Total: 493. | Maioria do partido: sim (36 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [347421-205](../../../../../votacoes/347421-205/) |
 | 19 dez 2024 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 31, de 2007, ressalvado o destaque. Sim: 348; Não: 146; Total: 494. | Maioria do partido: sim (40 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [347421-221](../../../../../votacoes/347421-221/) |
 | 19 dez 2024 | Mantido o texto. Sim: 358; Não: 129; Abstenção: 1; Total: 488. | Maioria do partido: sim (41 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [347421-224](../../../../../votacoes/347421-224/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 | 12 dez 2024 | Mantido o texto. Sim: 229; Não: 106; Abstenção: 1; Total: 336. | Maioria do partido: sim (32 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2194861-82](../../../../../votacoes/2194861-82/) |
 | 12 dez 2024 | Mantido o texto. Sim: 183; Não: 79; Total: 262. | Maioria do partido: sim (22 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2194861-85](../../../../../votacoes/2194861-85/) |
 | 12 dez 2024 | Mantido o texto. Sim: 228; Não: 107; Total: 335. | Maioria do partido: sim (35 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2194861-91](../../../../../votacoes/2194861-91/) |
-| 12 dez 2024 | Mantido o texto. Sim: 196; Não: 84; Total: 280. | Maioria do partido: sim (28 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2194861-94](../../../../../votacoes/2194861-94/) |
-| 12 dez 2024 | Aprovada a Emenda de Plenário n° 1. Sim: 267; Não: 85; Abstenção: 14; Total: 366. | Maioria do partido: sim (28 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2258828-105](../../../../../votacoes/2258828-105/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

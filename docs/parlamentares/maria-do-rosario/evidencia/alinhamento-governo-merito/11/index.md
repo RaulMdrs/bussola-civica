@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Maria do Rosário — Alinhamento com o governo federal, Mérito (página 11)"
-description: "A decomposição completa do número de Maria do Rosário: 346 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
+description: "A decomposição completa do número de Maria do Rosário: 348 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Maria do Rosário: 346 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>95,1%</b> é <b>329</b> coincidências em
-<b>346</b> votações computáveis — as outras 17 estão
+<p><b>95,1%</b> é <b>331</b> coincidências em
+<b>348</b> votações computáveis — as outras 17 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 16 out 2024 | Rejeitada a Emenda de Plenário nº 1. Sim: 149; Não: 204; Total: 353. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [565397-185](../../../../../votacoes/565397-185/) |
+| 12 set 2024 | Aprovada a Emenda de Redação n° 1 Sim: 231; Não: 54; Abstenção: 1; Total: 286. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454704-76](../../../../../votacoes/2454704-76/) |
 | 10 set 2024 | Aprovado o Projeto de Lei Complementar nº 72, de 2024. Sim: 432; Não: 2; Abstenção: 1; Total: 435. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2447191-41](../../../../../votacoes/2447191-41/) |
 | 09 set 2024 | Aprovado o Substitutivo ao Projeto de Lei nº 3.010, de 2019, adotado pelo Relator da Comissão de Saúde. Sim: 450; Não: 1; Abstenção: 2; Total: 453. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2204088-88](../../../../../votacoes/2204088-88/) |
 | 28 ago 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 519, de 2018, adotada pelo relator da Comissão Especial, ressalvado o destaque. Sim: 439; não: 3; abstenção: 3; total: 445. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2178408-165](../../../../../votacoes/2178408-165/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 | 04 jun 2024 | Rejeitadas as Emendas de Plenário. Sim: 2; não: 413; abstenção: 1; total: 416. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2166464-132](../../../../../votacoes/2166464-132/) |
 | 28 mai 2024 | Mantido o texto. Sim: 266; não: 139; abstenção: 1; total: 406. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422697-69](../../../../../votacoes/2422697-69/) |
 | 28 mai 2024 | Mantido o texto. Sim: 280; não: 121; total: 401. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422697-75](../../../../../votacoes/2422697-75/) |
-| 22 mai 2024 | Mantido o texto. Sim: 320; não: 113; total: 433. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2349493-103](../../../../../votacoes/2349493-103/) |
-| 22 mai 2024 | Rejeitado o Destaque. Sim: 148; não: 292; total: 440. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2349493-118](../../../../../votacoes/2349493-118/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

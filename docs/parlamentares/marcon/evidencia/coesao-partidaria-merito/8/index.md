@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcon — Coesão com o próprio partido, Mérito (página 8)"
-description: "A decomposição completa do número de Marcon: 496 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
+description: "A decomposição completa do número de Marcon: 498 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcon: 496 votações em 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>95,6%</b> é <b>474</b> coincidências em
-<b>496</b> votações computáveis — as outras 22 estão
+<p><b>95,6%</b> é <b>476</b> coincidências em
+<b>498</b> votações computáveis — as outras 22 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 17 set 2025 | Mantido o texto. Sim: 322; Não: 125; Abstenção: 1; Total: 448. | Maioria do partido: sim (62 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2515300-71](../../../../../votacoes/2515300-71/) |
+| 16 set 2025 | Aprovado, em primeiro turno, o Substitutivo Reformulado à Proposta de Emenda à Constituição nº 3, de 2021, adotado pelo Relator da Comissão Especial. Sim: 353; Não: 134; Abstenção: 1; Total: 488. | Maioria do partido: nao (12 sim / 50 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2270800-135](../../../../../votacoes/2270800-135/) |
 | 16 set 2025 | Mantido o texto. Sim: 322; Não: 147; Abstenção: 1; Total: 470. | Maioria do partido: nao (8 sim / 52 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2270800-148](../../../../../votacoes/2270800-148/) |
 | 16 set 2025 | Mantido o texto. Sim: 317; Não: 156; Abstenção: 1; Total: 474. | Maioria do partido: nao (7 sim / 53 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2270800-151](../../../../../votacoes/2270800-151/) |
 | 16 set 2025 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 3, de 2021, ressalvado os destaques. Sim: 344; Não: 133; Total: 477. | Maioria do partido: nao (10 sim / 49 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2270800-160](../../../../../votacoes/2270800-160/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 | 27 ago 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.707, de 2024, adotada pelo relator da Comissão de Minas e Energia, ressalvado o destaque. Sim: 278; Não: 110; Abstenção: 1; Total: 389. | Maioria do partido: sim (52 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2432423-88](../../../../../votacoes/2432423-88/) |
 | 27 ago 2025 | Mantido o texto. Sim: 243; Não: 133; Total: 376. | Maioria do partido: sim (49 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2432423-93](../../../../../votacoes/2432423-93/) |
 | 26 ago 2025 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 143, de 2020, da Comissão de Finanças e Tributação. Sim: 371; Não: 10; Total: 381. | Maioria do partido: sim (49 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2253943-133](../../../../../votacoes/2253943-133/) |
-| 19 ago 2025 | Aprovado o Projeto de Lei nº 3.181, de 2025, ressalvados os destaques . Sim: 210; Não: 166; Total: 376. | Maioria do partido: sim (50 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2530336-43](../../../../../votacoes/2530336-43/) |
-| 12 ago 2025 | Aprovado o Substitutivo da Comissão de Trabalho, de Administração e Serviço Público ao Projeto de Lei nº 2.664 de 2003. Sim: 397; Não: 9; Abstenção: 1; Total: 407. | Maioria do partido: sim (51 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [146708-38](../../../../../votacoes/146708-38/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

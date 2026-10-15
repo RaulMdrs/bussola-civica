@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcel van Hattem — Alinhamento com o governo federal, Mérito (página 21)"
-description: "A decomposição completa do número de Marcel van Hattem: 404 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 401ª à 404ª."
+description: "A decomposição completa do número de Marcel van Hattem: 406 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 401ª à 406ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Marcel van Hattem: 404 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>27,7%</b> é <b>112</b> coincidências em
-<b>404</b> votações computáveis — as outras 292 estão
+<p><b>27,8%</b> é <b>113</b> coincidências em
+<b>406</b> votações computáveis — as outras 293 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>401ª</b> à
-<b>404ª</b>.</p>
+<b>406ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>401ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 25 abr 2023 | Mantido o texto. Sim: 282; não: 115; total: 397. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2344938-60](../../../../../votacoes/2344938-60/) |
+| 25 abr 2023 | Rejeitada a Emenda de Comissão nº 9. Sim: 132; não: 242; total: 374. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2344938-71](../../../../../votacoes/2344938-71/) |
 | 30 mar 2023 | Aprovada a Emenda de Plenário nº 4. Sim: 150; não: 122; total: 272. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2345368-50](../../../../../votacoes/2345368-50/) |
 | 30 mar 2023 | Rejeitada a Emenda de Comissão nº 15. Sim: 143; não: 195; total: 338. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2345368-56](../../../../../votacoes/2345368-56/) |
 | 30 mar 2023 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e à adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 327; não: 27; total: 354. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345378-38](../../../../../votacoes/2345378-38/) |

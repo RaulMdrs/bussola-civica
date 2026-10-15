@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alceu Moreira — Alinhamento com o governo federal, Mérito (página 12)"
-description: "A decomposição completa do número de Alceu Moreira: 408 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
+description: "A decomposição completa do número de Alceu Moreira: 410 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alceu Moreira: 408 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>59,8%</b> é <b>244</b> coincidências em
-<b>408</b> votações computáveis — as outras 164 estão
+<p><b>59,8%</b> é <b>245</b> coincidências em
+<b>410</b> votações computáveis — as outras 165 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 17 dez 2024 | Aprovada a Emenda de Redação n° 2. Sim: 314; Não: 117; Abstenção: 1; Total: 432. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430143-144](../../../../../votacoes/2430143-144/) |
+| 17 dez 2024 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 210, de 2024, adotado pelo relator da Comissão Especial. Sim: 318; Não: 149; Total: 467. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2473389-58](../../../../../votacoes/2473389-58/) |
 | 17 dez 2024 | Rejeitada a Emenda de Plenário nº 9. Sim: 227; Não: 233; Abstenção: 1; Total: 461. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2473389-62](../../../../../votacoes/2473389-62/) |
 | 17 dez 2024 | Rejeitada a Emenda de Plenário nº 19. Sim: 186; Não: 256; Total: 442. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2473389-65](../../../../../votacoes/2473389-65/) |
 | 17 dez 2024 | Rejeitada a Emenda de Plenário n° 38. Sim: 59; Não: 385; Abstenção: 1; Total: 445. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2473389-68](../../../../../votacoes/2473389-68/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 | 12 set 2024 | Aprovada a Emenda de Redação n° 1 Sim: 231; Não: 54; Abstenção: 1; Total: 286. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2454704-76](../../../../../votacoes/2454704-76/) |
 | 11 set 2024 | Aprovado o Projeto de Lei nº 1.847, de 2024, ressalvados os destaques. Sim: 253; Não: 67; Abstenção: 4; Total: 324. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454704-53](../../../../../votacoes/2454704-53/) |
 | 11 set 2024 | Rejeitadas as Emendas de Plenário. Sim: 57; Não: 228; Abstenção: 3; Total: 288. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2454704-55](../../../../../votacoes/2454704-55/) |
-| 11 set 2024 | Rejeitada a Emenda de Plenário nº 18. Sim: 133; Não: 204; Total: 337. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2454704-58](../../../../../votacoes/2454704-58/) |
-| 11 set 2024 | Mantido o texto. Sim: 206; Não: 70; Total: 276. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454704-64](../../../../../votacoes/2454704-64/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

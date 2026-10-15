@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Sanderson — Coesão com o próprio partido, Mérito (página 6)"
-description: "A decomposição completa do número de Sanderson: 505 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
+description: "A decomposição completa do número de Sanderson: 507 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Sanderson: 505 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>93,5%</b> é <b>472</b> coincidências em
-<b>505</b> votações computáveis — as outras 33 estão
+<p><b>93,5%</b> é <b>474</b> coincidências em
+<b>507</b> votações computáveis — as outras 33 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 05 nov 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 347, de 2003, adotado pelo relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvado o destaque. Sim: 427; Não: 1; Total: 428. | Maioria do partido: sim (69 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [106701-223](../../../../../votacoes/106701-223/) |
+| 05 nov 2025 | Aprovada a Emenda de Plenário n. 7. Sim: 269; Não: 154; Total: 423. | Maioria do partido: sim (62 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [106701-227](../../../../../votacoes/106701-227/) |
 | 05 nov 2025 | Aprovada a Emenda Aglutinativa nº 1. Sim: 325; Não: 94; Total: 419. | Maioria do partido: nao (24 sim / 37 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2157806-168](../../../../../votacoes/2157806-168/) |
 | 05 nov 2025 | Mantido o texto. Sim: 327; Não: 98; Total: 425. | Maioria do partido: nao (25 sim / 41 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2157806-177](../../../../../votacoes/2157806-177/) |
 | 05 nov 2025 | Mantido o texto. Sim: 274; Não: 101; Total: 375. | Maioria do partido: sim (66 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2386051-101](../../../../../votacoes/2386051-101/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 | 29 out 2025 | Mantido o texto. Sim: 293; Não: 143; Total: 436. | Maioria do partido: nao (5 sim / 69 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2279186-104](../../../../../votacoes/2279186-104/) |
 | 29 out 2025 | Rejeitada a Emenda de Plenário nº 1. Sim: 143; Não: 263; Abstenção: 1; Total: 407. | Maioria do partido: sim (67 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2279186-107](../../../../../votacoes/2279186-107/) |
 | 29 out 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 458, de 2021, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 286; Não: 146; Abstenção: 1; Total: 433. | Maioria do partido: nao (5 sim / 66 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2279186-86](../../../../../votacoes/2279186-86/) |
-| 29 out 2025 | Mantido o texto. Sim: 260; Não: 132; Total: 392. | Maioria do partido: nao (4 sim / 63 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2279186-92](../../../../../votacoes/2279186-92/) |
-| 29 out 2025 | Mantido o texto. Sim: 276; Não: 125; Total: 401. | Maioria do partido: nao (5 sim / 69 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2279186-94](../../../../../votacoes/2279186-94/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

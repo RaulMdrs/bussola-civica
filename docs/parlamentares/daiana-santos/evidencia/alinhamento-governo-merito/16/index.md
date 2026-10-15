@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daiana Santos — Alinhamento com o governo federal, Mérito (página 16)"
-description: "A decomposição completa do número de Daiana Santos: 348 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
+description: "A decomposição completa do número de Daiana Santos: 350 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Daiana Santos: 348 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>95,1%</b> é <b>331</b> coincidências em
-<b>348</b> votações computáveis — as outras 17 estão
+<p><b>95,1%</b> é <b>333</b> coincidências em
+<b>350</b> votações computáveis — as outras 17 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 nov 2023 | Aprovada a Emenda de Plenário nº 7. Sim: 253; não: 160; abstenção: 1; total: 414. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2190084-93](../../../../../votacoes/2190084-93/) |
+| 29 nov 2023 | Aprovado o Projeto de Lei nº 3.268, de 2021. Sim: 286; não: 121; abstenção: 2; total: 409. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2299903-53](../../../../../votacoes/2299903-53/) |
 | 29 nov 2023 | Aprovado o Projeto de Lei nº 3.954, de 2023. Sim: 307; não: 27; abstenção: 1; total: 338. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2333929-40](../../../../../votacoes/2333929-40/) |
 | 29 nov 2023 | Aprovado o Projeto de Lei Complementar nº 205, de 2023.Sim: 326; não: 84; abstenção: 1; total: 411. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2398741-64](../../../../../votacoes/2398741-64/) |
 | 22 nov 2023 | Rejeitada a Emenda do Senado Federal ao Projeto de Lei nº 4.416, de 2023. Sim: 31, não: 375, abstenção: 2, total: 408. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2312373-140](../../../../../votacoes/2312373-140/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 | 05 set 2023 | Rejeitada a Emenda de Plenário nº 1. Sim: 101; não: 301; total: 402. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2336393-59](../../../../../votacoes/2336393-59/) |
 | 05 set 2023 | Rejeitada a Emenda de Plenário nº 2. Sim: 51; não: 347; abstenção: 1; total: 399. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2336393-61](../../../../../votacoes/2336393-61/) |
 | 05 set 2023 | Rejeitada a Emenda de Plenário nº 4. Sim: 148; não: 231; abstenção: 1; total: 380. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2336393-64](../../../../../votacoes/2336393-64/) |
-| 05 set 2023 | Rejeitada a Emenda de Plenário nº 8. Sim: 135; não: 261; total: 396. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2336393-67](../../../../../votacoes/2336393-67/) |
-| 30 ago 2023 | Aprovado o Substitutivo ao Projeto de Lei nº 334, de 2023, adotado pela Relatora da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 430; não: 17; total: 447. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2350586-63](../../../../../votacoes/2350586-63/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

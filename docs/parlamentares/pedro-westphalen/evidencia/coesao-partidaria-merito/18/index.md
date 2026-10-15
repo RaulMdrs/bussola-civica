@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Pedro Westphalen — Coesão com o próprio partido, Mérito (página 18)"
-description: "A decomposição completa do número de Pedro Westphalen: 493 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
+description: "A decomposição completa do número de Pedro Westphalen: 495 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Pedro Westphalen: 493 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>70,0%</b> é <b>345</b> coincidências em
-<b>493</b> votações computáveis — as outras 148 estão
+<p><b>70,1%</b> é <b>347</b> coincidências em
+<b>495</b> votações computáveis — as outras 148 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 08 mai 2024 | Aprovado o Projeto de Lei nº 1.366, de 2022. Sim: 309; não: 131; abstenção: 2; total: 442. | Maioria do partido: sim (39 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2324721-94](../../../../../votacoes/2324721-94/) |
+| 16 abr 2024 | Aprovado o Substitutivo ao Projeto de Lei nº 1.548, de 2022, adotado pelo relator da Comissão de Finanças e Tributação. Sim: 383; não: 19; total: 402. | Maioria do partido: sim (41 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2326582-61](../../../../../votacoes/2326582-61/) |
 | 10 abr 2024 | Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Comunicação de Medida Cautelar nº 1/2024. Sim: 277; não: 129; abstenção: 28; total: 434. | Maioria do partido: sim (18 sim / 9 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2423268-40](../../../../../votacoes/2423268-40/) |
 | 09 abr 2024 | Aprovada a Subemenda Substitutiva Global Reformulada ao Projeto de Lei Complementar nº 233, de 2023, adotada pelo relator da Comissão de Viação e Transportes. Sim: 304; não: 136; total: 440. | Maioria do partido: sim (28 sim / 14 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2400758-62](../../../../../votacoes/2400758-62/) |
 | 09 abr 2024 | Rejeitada a Emenda de Plenário n° 4. Sim: 86; não: 178; total: 264. | Maioria do partido: sim (22 sim / 5 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2419197-54](../../../../../votacoes/2419197-54/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 | 19 mar 2024 | Rejeitada a Emenda de Plenário nº 12. Sim: 142; não: 287; total: 429. | Maioria do partido: nao (11 sim / 25 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2416804-54](../../../../../votacoes/2416804-54/) |
 | 13 mar 2024 | Mantido o texto. Sim: 382; não: 48; total: 430. | Maioria do partido: sim (40 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2238434-100](../../../../../votacoes/2238434-100/) |
 | 13 mar 2024 | Rejeitado o Art. 15 da Emenda de Plenário nº 4. Sim: 38; não: 376; abstenção: 1; total: 415. | Maioria do partido: nao (2 sim / 37 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2238434-104](../../../../../votacoes/2238434-104/) |
-| 13 mar 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 528, de 2020, adotada pelo relator da Comissão de Minas e Energia, ressalvados os destaques. Sim: 429; não: 19; abstenção: 3; total: 451. | Maioria do partido: sim (42 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2238434-80](../../../../../votacoes/2238434-80/) |
-| 13 mar 2024 | Rejeitada a Emenda de Plenário nº 22. Sim: 14; não: 362; total: 376. | Maioria do partido: nao (1 sim / 40 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2238434-85](../../../../../votacoes/2238434-85/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

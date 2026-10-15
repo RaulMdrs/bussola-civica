@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcelo Moraes — Alinhamento com o governo federal, Procedimental (página 7)"
-description: "A decomposição completa do número de Marcelo Moraes: 282 votações em 15 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
+description: "A decomposição completa do número de Marcelo Moraes: 283 votações em 15 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcelo Moraes: 282 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>16,7%</b> é <b>47</b> coincidências em
-<b>282</b> votações computáveis — as outras 235 estão
+<p><b>17,0%</b> é <b>48</b> coincidências em
+<b>283</b> votações computáveis — as outras 235 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>15 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 11 jun 2025 | Rejeitado o Requerimento. Sim: 75; Não: 189; Abstenção: 2; Total: 266. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2413257-96](../../../../../votacoes/2413257-96/) |
 | 11 jun 2025 | Rejeitado o Requerimento. Sim: 105; Não: 205; Total: 310. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [264726-127](../../../../../votacoes/264726-127/) |
 | 11 jun 2025 | Aprovado o Requerimento. Sim: 235; Não: 142; Total: 377. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [264726-136](../../../../../votacoes/264726-136/) |
 | 02 jun 2025 | Rejeitado o Requerimento. Sim: 101; Não: 230; Total: 331. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2497990-25](../../../../../votacoes/2497990-25/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 | 05 mai 2025 | Rejeitado o Requerimento. Sim: 111; Não: 261; Total: 372. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2233324-71](../../../../../votacoes/2233324-71/) |
 | 05 mai 2025 | Rejeitado o Requerimento. Sim: 108; Não: 261; Total: 369. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2233324-75](../../../../../votacoes/2233324-75/) |
 | 05 mai 2025 | Rejeitado o Requerimento. Sim: 113; Não: 248; Total: 361. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2233324-83](../../../../../votacoes/2233324-83/) |
-| 29 abr 2025 | Rejeitado o Requerimento. Sim: 102; Não: 244; Total: 346. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2456731-67](../../../../../votacoes/2456731-67/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

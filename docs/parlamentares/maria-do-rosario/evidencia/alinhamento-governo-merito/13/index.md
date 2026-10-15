@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Maria do Rosário — Alinhamento com o governo federal, Mérito (página 13)"
-description: "A decomposição completa do número de Maria do Rosário: 346 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
+description: "A decomposição completa do número de Maria do Rosário: 348 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Maria do Rosário: 346 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>95,1%</b> é <b>329</b> coincidências em
-<b>346</b> votações computáveis — as outras 17 estão
+<p><b>95,1%</b> é <b>331</b> coincidências em
+<b>348</b> votações computáveis — as outras 17 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 20 mar 2024 | Rejeitada a Emenda de Plenário nº 40. Sim: 35; não: 375; total: 410. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2399598-70](../../../../../votacoes/2399598-70/) |
+| 19 mar 2024 | Aprovado o Substitutivo ao Projeto de Lei nº 6.233, de 2023, adotado pelo relator da Comissão de Finanças e Tributação. Sim: 388; não: 3; abstenção: 1; total: 392. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2416729-28](../../../../../votacoes/2416729-28/) |
 | 19 mar 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2, de 2024, adotada pelo relator da Comissão de Indústria, Comércio e Serviços, ressalvados os destaques. Sim: 314; não: 96; total: 410. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2416804-43](../../../../../votacoes/2416804-43/) |
 | 19 mar 2024 | Mantido o texto. Sim: 305; não: 107; total: 412. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2416804-48](../../../../../votacoes/2416804-48/) |
 | 19 mar 2024 | Mantido o texto. Sim: 287; não: 96; abstenção: 1; total: 384. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2416804-51](../../../../../votacoes/2416804-51/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 | 15 dez 2023 | Mantido o texto. Sim: 326; não: 161: total: 487. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-140](../../../../../votacoes/259094-140/) |
 | 15 dez 2023 | Mantido o texto. Sim: 445; não: 29; abstenção: 2; total: 476. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-143](../../../../../votacoes/259094-143/) |
 | 15 dez 2023 | Suprimido o texto. Sim: 62; não: 370; total: 432. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [259094-146](../../../../../votacoes/259094-146/) |
-| 15 dez 2023 | Mantido o texto. Sim: 352; não: 141; abstenção: 1; total: 494. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-149](../../../../../votacoes/259094-149/) |
-| 15 dez 2023 | Mantido o texto. Sim: 437; não: 10; total: 447. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-151](../../../../../votacoes/259094-151/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

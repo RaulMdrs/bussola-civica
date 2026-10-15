@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Paulo Pimenta — Alinhamento com o governo federal, Mérito (página 11)"
-description: "A decomposição completa do número de Paulo Pimenta: 205 votações em 11 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 205ª."
+description: "A decomposição completa do número de Paulo Pimenta: 207 votações em 11 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 207ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Paulo Pimenta: 205 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,1%</b> é <b>199</b> coincidências em
-<b>205</b> votações computáveis — as outras 6 estão
+<p><b>97,1%</b> é <b>201</b> coincidências em
+<b>207</b> votações computáveis — as outras 6 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>11 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
-<b>205ª</b>.</p>
+<b>207ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 26 fev 2025 | Rejeitada a Emenda de Plenário nº 2. Sim: 57; Não: 331; Total: 388. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [255291-105](../../../../../votacoes/255291-105/) |
+| 25 fev 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 167, de 2024, adotada pelo relator da Comissão de Indústria, Comércio e Serviços. Sim: 399; Total: 399. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2463712-40](../../../../../votacoes/2463712-40/) |
 | 25 fev 2025 | Aprovado o Projeto de Lei nº 4.187, de 2024. Sim: 269; Não: 136; Abstenção: 2; Total: 407. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2466108-33](../../../../../votacoes/2466108-33/) |
 | 18 fev 2025 | Rejeitado o Substitutivo ao Projeto de Lei Complementar nº 223, de 2023, da Comissão de Indústria, Comércio e Serviços. Sim: 34; Não: 356; Abstenção: 1; Total: 391. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2397890-54](../../../../../votacoes/2397890-54/) |
 | 18 fev 2025 | Aprovado o Projeto de Lei Complementar nº 223, de 2023. Sim: 407; Não: 6; Total: 413. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2397890-55](../../../../../votacoes/2397890-55/) |

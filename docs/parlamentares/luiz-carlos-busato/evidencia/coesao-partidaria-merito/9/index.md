@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Luiz Carlos Busato — Coesão com o próprio partido, Mérito (página 9)"
-description: "A decomposição completa do número de Luiz Carlos Busato: 495 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
+description: "A decomposição completa do número de Luiz Carlos Busato: 497 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Luiz Carlos Busato: 495 vo
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>91,9%</b> é <b>455</b> coincidências em
-<b>495</b> votações computáveis — as outras 40 estão
+<p><b>91,8%</b> é <b>456</b> coincidências em
+<b>497</b> votações computáveis — as outras 41 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 27 ago 2025 | Rejeitada a preferência. Sim: 129; Não: 262; Total: 391. | Maioria do partido: nao (17 sim / 25 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2432423-87](../../../../../votacoes/2432423-87/) |
+| 27 ago 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.707, de 2024, adotada pelo relator da Comissão de Minas e Energia, ressalvado o destaque. Sim: 278; Não: 110; Abstenção: 1; Total: 389. | Maioria do partido: sim (25 sim / 15 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2432423-88](../../../../../votacoes/2432423-88/) |
 | 26 ago 2025 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 143, de 2020, da Comissão de Finanças e Tributação. Sim: 371; Não: 10; Total: 381. | Maioria do partido: sim (44 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2253943-133](../../../../../votacoes/2253943-133/) |
 | 19 ago 2025 | Mantido o texto. Sim: 230; Não: 143; Total: 373. | Maioria do partido: sim (26 sim / 20 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2530336-46](../../../../../votacoes/2530336-46/) |
 | 19 ago 2025 | Mantido o texto. Sim: 228; Não: 143; Abstenção: 1; Total: 372. | Maioria do partido: sim (23 sim / 21 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2530336-50](../../../../../votacoes/2530336-50/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 | 16 jul 2025 | Aprovada a Emenda do Senado nº 28. Sim: 229; Não: 82; Abstenção: 1; Total: 312. | Maioria do partido: sim (34 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [257161-479](../../../../../votacoes/257161-479/) |
 | 15 jul 2025 | Aprovado, em primeiro turno, o Substitutivo da Comissão Especial à Proposta de Emenda Constitucional nº 66, de 2023, ressalvados os destaques. Sim: 404; Não: 67; Abstenção: 3; Total: 474. | Maioria do partido: sim (45 sim / 8 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454495-144](../../../../../votacoes/2454495-144/) |
 | 15 jul 2025 | Rejeitada a Emenda nº 5. Sim: 117; Não: 335; Abstenção: 3; Total: 455. | Maioria do partido: nao (15 sim / 36 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2454495-151](../../../../../votacoes/2454495-151/) |
-| 15 jul 2025 | Mantido o texto. Sim: 318; Não: 144; Abstenção: 2; Total: 464. | Maioria do partido: sim (36 sim / 18 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454495-154](../../../../../votacoes/2454495-154/) |
-| 15 jul 2025 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 66, de 2023, ressalvado o destaque. Sim: 367; Não: 97; Abstenção: 2; Total: 466. | Maioria do partido: sim (43 sim / 8 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454495-166](../../../../../votacoes/2454495-166/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

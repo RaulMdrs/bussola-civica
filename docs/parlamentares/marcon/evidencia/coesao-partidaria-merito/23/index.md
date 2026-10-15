@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcon — Coesão com o próprio partido, Mérito (página 23)"
-description: "A decomposição completa do número de Marcon: 496 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 441ª à 460ª."
+description: "A decomposição completa do número de Marcon: 498 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 441ª à 460ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcon: 496 votações em 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>95,6%</b> é <b>474</b> coincidências em
-<b>496</b> votações computáveis — as outras 22 estão
+<p><b>95,6%</b> é <b>476</b> coincidências em
+<b>498</b> votações computáveis — as outras 22 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>441ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>441ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 13 set 2023 | Aprovada a Emenda de Plenário nº 34. Sim: 203; não: 164; total: 367. | Maioria do partido: nao (3 sim / 43 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2374400-58](../../../../../votacoes/2374400-58/) |
+| 13 set 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.438, de 2023, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 367; não: 86; abstenção: 1; total: 454. | Maioria do partido: sim (60 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387066-63](../../../../../votacoes/2387066-63/) |
 | 12 set 2023 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 16, de 2021. Sim: 464; não: 3; abstenção: 1; total: 468. | Maioria do partido: sim (64 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2288318-70](../../../../../votacoes/2288318-70/) |
 | 12 set 2023 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 16, de 2021. Sim: 453; não: 3; total: 456. | Maioria do partido: sim (63 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2288318-78](../../../../../votacoes/2288318-78/) |
 | 23 ago 2023 | Aprovada a Medida Provisória nº 1.172, de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 439; não: 1; abstenção: 1; total: 441. | Maioria do partido: sim (57 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2359135-39](../../../../../votacoes/2359135-39/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>441ª</b> à
 | 07 jul 2023 | Mantido o texto. Sim: 251; não: 206; total: 457. | Maioria do partido: sim (65 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2367064-82](../../../../../votacoes/2367064-82/) |
 | 06 jul 2023 | Aprovado, em primeiro turno, o Substitutivo adotado pelo relator da Comissão Especial à Proposta de Emenda Constitucional nº 45, de 2019, ressalvados os destaques. Sim: 382; não: 118; abstenção: 3; total: 503. | Maioria do partido: sim (66 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-326](../../../../../votacoes/2196833-326/) |
 | 06 jul 2023 | Aprovada a Emenda Aglutinativa nº 1. Sim: 379; não: 114; abstenção: 1; total: 494. | Maioria do partido: sim (66 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-328](../../../../../votacoes/2196833-328/) |
-| 06 jul 2023 | Mantido o texto. Sim: 317; não: 170; total: 487. | Maioria do partido: sim (65 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-331](../../../../../votacoes/2196833-331/) |
-| 06 jul 2023 | Mantido o texto. Sim: 390; não: 108; abstenção: 1; total: 499. | Maioria do partido: sim (66 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-349](../../../../../votacoes/2196833-349/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcel van Hattem — Coesão com o próprio partido, Mérito (página 16)"
-description: "A decomposição completa do número de Marcel van Hattem: 513 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
+description: "A decomposição completa do número de Marcel van Hattem: 515 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcel van Hattem: 513 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>99,2%</b> é <b>509</b> coincidências em
-<b>513</b> votações computáveis — as outras 4 estão
+<p><b>99,2%</b> é <b>511</b> coincidências em
+<b>515</b> votações computáveis — as outras 4 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 30 out 2024 | Mantido o texto. Sim: 292; Não: 106; Total: 398. | Maioria do partido: nao (0 sim / 2 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438459-66](../../../../../votacoes/2438459-66/) |
+| 30 out 2024 | Aprovada a Emenda Aglutinativa n° 1. Sim: 403; Total: 403. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-69](../../../../../votacoes/2438459-69/) |
 | 30 out 2024 | Rejeitada a Emenda de Plenário n° 8. Sim: 136; Não: 262; Total: 398. | Maioria do partido: nao (0 sim / 3 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438459-77](../../../../../votacoes/2438459-77/) |
 | 30 out 2024 | Rejeitada a Emenda de Plenário n° 8. Sim: 156; Não: 245; Total: 401. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2456554-50](../../../../../votacoes/2456554-50/) |
 | 30 out 2024 | Aprovada a Emenda de Plenario n° 10. Sim: 227; Não: 198; Abstenção: 2; Total: 427. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2456554-57](../../../../../votacoes/2456554-57/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 | 14 ago 2024 | Mantido o texto. Sim: 292; não: 89; total: 381. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2448974-56](../../../../../votacoes/2448974-56/) |
 | 13 ago 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 108, de 2024, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 303; não: 142; total: 445. | Maioria do partido: nao (0 sim / 2 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438459-55](../../../../../votacoes/2438459-55/) |
 | 11 jul 2024 | Aprovado, em primeiro turno, o Substitutivo adotado pelo Relator da Comissão Especial à Proposta de Emenda à Constituição nº 9, de 2023, ressalvado o destaque. Sim: 344; não: 89; abstenção: 4; total: 437. | Maioria do partido: nao (0 sim / 2 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2352476-149](../../../../../votacoes/2352476-149/) |
-| 11 jul 2024 | Mantido o texto. Sim: 404; não: 23; abstenção: 1; total: 428. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2352476-155](../../../../../votacoes/2352476-155/) |
-| 11 jul 2024 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 9, de 2023, ressalvado o destaque. Sim: 338; não: 83; abstenção: 4; Total: 425. | Maioria do partido: nao (0 sim / 2 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2352476-168](../../../../../votacoes/2352476-168/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

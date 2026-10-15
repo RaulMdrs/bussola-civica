@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Fernanda Melchionna — Coesão com o próprio partido, Mérito (página 14)"
-description: "A decomposição completa do número de Fernanda Melchionna: 458 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
+description: "A decomposição completa do número de Fernanda Melchionna: 460 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Fernanda Melchionna: 458 v
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>98,0%</b> é <b>449</b> coincidências em
-<b>458</b> votações computáveis — as outras 9 estão
+<p><b>98,0%</b> é <b>451</b> coincidências em
+<b>460</b> votações computáveis — as outras 9 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 11 jul 2024 | Mantido o texto. Sim: 379; não: 23; abstenção: 1; total: 403. | Maioria do partido: nao (0 sim / 11 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2352476-171](../../../../../votacoes/2352476-171/) |
+| 11 jul 2024 | Aprovado, em primeiro turno, o Substitutivo da Comissão Especial à Proposta de Emenda à Constituição nº 44, de 2023. Sim: 392; não: 22; total: 414. | Maioria do partido: sim (10 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2388029-86](../../../../../votacoes/2388029-86/) |
 | 11 jul 2024 | Aprovada a Emenda de Redação nº 1 à Proposta de Emenda à Constituição nº 44, de 2023. Sim: 361; não: 3; total: 364. | Maioria do partido: sim (9 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2388029-88](../../../../../votacoes/2388029-88/) |
 | 11 jul 2024 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 44, de 2023. Sim: 378; não: 7; total: 385. | Maioria do partido: sim (10 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2388029-94](../../../../../votacoes/2388029-94/) |
 | 11 jul 2024 | Mantido o texto. Sim: 258; não: 102; total: 360. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2447183-64](../../../../../votacoes/2447183-64/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 | 28 mai 2024 | Aprovada a Emenda de Plenário n° 75. Sim: 273; não: 111; total: 384. | Maioria do partido: sim (5 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422697-72](../../../../../votacoes/2422697-72/) |
 | 28 mai 2024 | Mantido o texto. Sim: 280; não: 121; total: 401. | Maioria do partido: sim (11 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422697-75](../../../../../votacoes/2422697-75/) |
 | 28 mai 2024 | Rejeitada a Emenda de Plenário n° 7. Sim: 187; não: 202; abstenção: 1; total: 390. | Maioria do partido: nao (0 sim / 10 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2422697-83](../../../../../votacoes/2422697-83/) |
-| 22 mai 2024 | Mantido o texto. Sim: 320; não: 113; total: 433. | Maioria do partido: nao (1 sim / 10 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2349493-103](../../../../../votacoes/2349493-103/) |
-| 22 mai 2024 | Rejeitado o Destaque. Sim: 148; não: 292; total: 440. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2349493-118](../../../../../votacoes/2349493-118/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Mauricio Marcon — Coesão com o próprio partido, Procedimental"
-description: "A decomposição completa do número de Mauricio Marcon: 499 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 1ª à 20ª."
+description: "A decomposição completa do número de Mauricio Marcon: 500 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 1ª à 20ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Mauricio Marcon: 499 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>44,5%</b> é <b>222</b> coincidências em
-<b>499</b> votações computáveis — as outras 277 estão
+<p><b>44,6%</b> é <b>223</b> coincidências em
+<b>500</b> votações computáveis — as outras 277 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 14 out 2026 | Rejeitado o Requerimento. Sim: 11; Não: 387; Total: 398. | Maioria do partido: nao (2 sim / 74 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2635476-23](../../../../votacoes/2635476-23/) |
 | 01 set 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 320; Não: 67; Abstenção: 1; Total: 388. | Maioria do partido: sim (42 sim / 30 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2643915-8](../../../../votacoes/2643915-8/) |
 | 02 jul 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 305; Não: 112; Abstenção: 1; Total: 418. | Maioria do partido: sim (82 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2610579-7](../../../../votacoes/2610579-7/) |
 | 01 jul 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 279; Não: 162; Abstenção: 1; Total: 442. | Maioria do partido: sim (84 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2606189-10](../../../../votacoes/2606189-10/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
 | 28 abr 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; Não: 104; Total: 434. | Maioria do partido: sim (82 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2618104-8](../../../../votacoes/2618104-8/) |
 | 22 abr 2026 | Rejeitado o Requerimento. Sim: 117; Não: 278; Total: 395. | Maioria do partido: sim (70 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2368697-38](../../../../votacoes/2368697-38/) |
 | 22 abr 2026 | Rejeitado o Requerimento. Sim: 119; Não: 241; Total: 360. | Maioria do partido: sim (67 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2368697-49](../../../../votacoes/2368697-49/) |
-| 22 abr 2026 | Rejeitado o Requerimento. Sim: 127; Não: 268; Total: 395. | Maioria do partido: sim (72 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2419128-78](../../../../votacoes/2419128-78/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

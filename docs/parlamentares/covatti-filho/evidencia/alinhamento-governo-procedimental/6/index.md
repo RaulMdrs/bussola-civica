@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Covatti Filho — Alinhamento com o governo federal, Procedimental (página 6)"
-description: "A decomposição completa do número de Covatti Filho: 288 votações em 15 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
+description: "A decomposição completa do número de Covatti Filho: 289 votações em 15 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Covatti Filho: 288 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>31,9%</b> é <b>92</b> coincidências em
-<b>288</b> votações computáveis — as outras 196 estão
+<p><b>32,2%</b> é <b>93</b> coincidências em
+<b>289</b> votações computáveis — as outras 196 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>15 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 28 mai 2025 | Rejeitado o Requerimento. Sim: 105; Não: 289; Total: 394. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2341047-60](../../../../../votacoes/2341047-60/) |
 | 27 mai 2025 | Rejeitado o Requerimento. Sim: 82; Não: 311; Abstenção: 1; Total: 394. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2121642-88](../../../../../votacoes/2121642-88/) |
 | 27 mai 2025 | Rejeitado o Requerimento. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2355104-96](../../../../../votacoes/2355104-96/) |
 | 27 mai 2025 | Rejeitado o Requerimento. Sim: 77; Não: 285; Total: 362. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2453219-36](../../../../../votacoes/2453219-36/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 | 28 abr 2025 | Aprovado o Requerimento. Sim: 274; Não: 122; Total: 396. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2483495-47](../../../../../votacoes/2483495-47/) |
 | 23 abr 2025 | Rejeitado o Requerimento. Sim: 102; Não: 241; Total: 343. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2456731-58](../../../../../votacoes/2456731-58/) |
 | 02 abr 2025 | Rejeitado o Requerimento. Sim: 85; Não: 283; Abstenção: 1; Total: 369. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2492307-32](../../../../../votacoes/2492307-32/) |
-| 02 abr 2025 | Aprovado o Requerimento. Sim: 300; Não: 92; Total: 392. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2492307-38](../../../../../votacoes/2492307-38/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

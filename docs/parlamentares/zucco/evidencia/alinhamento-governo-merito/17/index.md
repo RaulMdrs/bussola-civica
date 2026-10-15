@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Zucco — Alinhamento com o governo federal, Mérito (página 17)"
-description: "A decomposição completa do número de Zucco: 432 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
+description: "A decomposição completa do número de Zucco: 434 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Zucco: 432 votações em 2
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>31,5%</b> é <b>136</b> coincidências em
-<b>432</b> votações computáveis — as outras 296 estão
+<p><b>31,6%</b> é <b>137</b> coincidências em
+<b>434</b> votações computáveis — as outras 297 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 15 dez 2023 | Rejeitada a Emenda de Comissão n° 40.Sim: 49; não: 304; total: 353. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2384692-43](../../../../../votacoes/2384692-43/) |
+| 15 dez 2023 | Rejeitada a Emenda de Comissão nº 52. Sim: 49; não: 325; total: 375. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2384692-45](../../../../../votacoes/2384692-45/) |
 | 15 dez 2023 | Rejeitada a Emenda de Comissão nº 72. Sim: 50; não: 320; total: 370. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2384692-49](../../../../../votacoes/2384692-49/) |
 | 15 dez 2023 | Aprovada a preferência. Sim: 309; não: 28; abstenção: 3; total: 340. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-134](../../../../../votacoes/259094-134/) |
 | 15 dez 2023 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques. Sim: 371; não: 121; abstenção: 3; total: 495. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-136](../../../../../votacoes/259094-136/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 | 14 dez 2023 | Mantido o texto. Sim: 225; não: 32; total: 257. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2387579-40](../../../../../votacoes/2387579-40/) |
 | 14 dez 2023 | Mantido o texto. Sim: 241; não: 38; total: 279. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2387579-43](../../../../../votacoes/2387579-43/) |
 | 14 dez 2023 | Mantido o texto. Sim: 246; não: 29; total: 275. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2387579-46](../../../../../votacoes/2387579-46/) |
-| 14 dez 2023 | Mantido o texto. Sim: 238; não: 36; abstenção: 1; total: 275. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2387579-49](../../../../../votacoes/2387579-49/) |
-| 13 dez 2023 | Aprovado o Projeto de Lei Complementar nº 243, de 2023. Sim: 370; não: 77; abstenção: 4; total: 451. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2409076-34](../../../../../votacoes/2409076-34/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

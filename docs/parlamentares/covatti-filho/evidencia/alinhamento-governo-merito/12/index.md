@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Covatti Filho — Alinhamento com o governo federal, Mérito (página 12)"
-description: "A decomposição completa do número de Covatti Filho: 354 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
+description: "A decomposição completa do número de Covatti Filho: 356 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Covatti Filho: 354 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>36,2%</b> é <b>128</b> coincidências em
-<b>354</b> votações computáveis — as outras 226 estão
+<p><b>36,2%</b> é <b>129</b> coincidências em
+<b>356</b> votações computáveis — as outras 227 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 14 mai 2024 | Mantido o texto. Sim: 402; não: 10; total: 412. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2416733-46](../../../../../votacoes/2416733-46/) |
+| 14 mai 2024 | Rejeitada a Emenda de Plenário nº 5. Sim: 199; não: 221; abstenção: 2; total: 422. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2433327-54](../../../../../votacoes/2433327-54/) |
 | 14 mai 2024 | Rejeitada a Emenda de Plenário nº 3. Sim: 215; não: 226; abstenção: 1; total: 442. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2433327-57](../../../../../votacoes/2433327-57/) |
 | 14 mai 2024 | Rejeitada a Emenda de Plenário nº 4. Sim: 184; não: 223; abstenção: 1; total: 409. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2433327-60](../../../../../votacoes/2433327-60/) |
 | 14 mai 2024 | Mantido o texto. Sim: 277; não: 145; total: 422. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2433327-66](../../../../../votacoes/2433327-66/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 | 19 mar 2024 | Mantido o texto. Sim: 287; não: 96; abstenção: 1; total: 384. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2416804-51](../../../../../votacoes/2416804-51/) |
 | 13 mar 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 528, de 2020, adotada pelo relator da Comissão de Minas e Energia, ressalvados os destaques. Sim: 429; não: 19; abstenção: 3; total: 451. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2238434-80](../../../../../votacoes/2238434-80/) |
 | 13 mar 2024 | Rejeitada a Emenda de Plenário nº 22. Sim: 14; não: 362; total: 376. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2238434-85](../../../../../votacoes/2238434-85/) |
-| 13 mar 2024 | Rejeitada a Emenda de Plenário nº 18. Sim: 98; não: 314; total: 412. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2238434-89](../../../../../votacoes/2238434-89/) |
-| 13 mar 2024 | Rejeitada a Emenda de Plenário nº 21. Sim: 191; não; 232; abstenção: 2; total: 425. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2238434-94](../../../../../votacoes/2238434-94/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

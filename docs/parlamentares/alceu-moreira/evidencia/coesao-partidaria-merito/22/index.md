@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alceu Moreira — Coesão com o próprio partido, Mérito (página 22)"
-description: "A decomposição completa do número de Alceu Moreira: 505 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 421ª à 440ª."
+description: "A decomposição completa do número de Alceu Moreira: 507 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 421ª à 440ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alceu Moreira: 505 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>75,4%</b> é <b>381</b> coincidências em
-<b>505</b> votações computáveis — as outras 124 estão
+<p><b>75,5%</b> é <b>383</b> coincidências em
+<b>507</b> votações computáveis — as outras 124 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>421ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>421ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 14 dez 2023 | Mantido o texto. Sim: 238; não: 36; abstenção: 1; total: 275. | Maioria do partido: sim (22 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387579-49](../../../../../votacoes/2387579-49/) |
+| 13 dez 2023 | Aprovado o Projeto de Lei Complementar nº 243, de 2023. Sim: 370; não: 77; abstenção: 4; total: 451. | Maioria do partido: sim (31 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2409076-34](../../../../../votacoes/2409076-34/) |
 | 05 dez 2023 | Aprovado o Projeto de Lei Complementar nº 116, de 2023. Sim: 395; não: 20; abstenção: 1; total:416. | Maioria do partido: sim (34 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [1701755-60](../../../../../votacoes/1701755-60/) |
 | 29 nov 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 7.082, de 2017, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 305; não: 101; abstenção: 1; total: 407. | Maioria do partido: sim (30 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2125189-176](../../../../../votacoes/2125189-176/) |
 | 29 nov 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 11.247, de 2018, adotada pelo relator da Comissão de Minas e Energia, ressalvados os destaques. Sim: 403; não: 16; total: 419. | Maioria do partido: sim (29 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2190084-79](../../../../../votacoes/2190084-79/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>421ª</b> à
 | 25 out 2023 | Rejeitada a Emenda de Plenário nº 19. Sim: 116; não: 318; total: 434. | Maioria do partido: nao (5 sim / 28 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2383287-53](../../../../../votacoes/2383287-53/) |
 | 25 out 2023 | Rejeitada a Emenda de Plenário nº 8. Sim: 127; não: 302; total: 429. | Maioria do partido: nao (6 sim / 27 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383287-61](../../../../../votacoes/2383287-61/) |
 | 04 out 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.245, de 2023, adotada pelo Relator da Comissão de Educação, ressalvados os destaques. Sim: 309; não: 28; abstenção: 3; total: 340. | Maioria do partido: sim (30 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2358915-67](../../../../../votacoes/2358915-67/) |
-| 03 out 2023 | Rejeitada a Emenda de Plenário nº 4. Sim: 57; não: 270; total: 327. | Maioria do partido: nao (3 sim / 29 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2224999-104](../../../../../votacoes/2224999-104/) |
-| 03 out 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 5.497, de 2019, adotada pela relatora da Comissão de Cultura, ressalvados os destaques. Sim: 312; não: 25; abstenção: 8; total: 345. | Maioria do partido: sim (28 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2224999-96](../../../../../votacoes/2224999-96/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Sanderson — Alinhamento com o governo federal, Mérito (página 12)"
-description: "A decomposição completa do número de Sanderson: 391 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
+description: "A decomposição completa do número de Sanderson: 393 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Sanderson: 391 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>29,7%</b> é <b>116</b> coincidências em
-<b>391</b> votações computáveis — as outras 275 estão
+<p><b>29,8%</b> é <b>117</b> coincidências em
+<b>393</b> votações computáveis — as outras 276 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 12 dez 2024 | Aprovada a Emenda de Plenário n° 1. Sim: 267; Não: 85; Abstenção: 14; Total: 366. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2258828-105](../../../../../votacoes/2258828-105/) |
+| 10 dez 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 121, de 2024, adotada pelo relator da Comissão de Finanças e Tributação, ressalvado o destaque. Sim: 413; Não: 4; Total: 417. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454400-42](../../../../../votacoes/2454400-42/) |
 | 05 dez 2024 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 136, de 2024, adotado pela relatora da Comissão de Segurança Pública e Combate ao Crime Organizado. Sim: 348; Não: 57; Total: 405. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454257-27](../../../../../votacoes/2454257-27/) |
 | 03 dez 2024 | Aprovado o Projeto de Decreto Legislativo nº 361, de 2024. Sim: 296; Não: 108; Total: 404. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2462730-34](../../../../../votacoes/2462730-34/) |
 | 27 nov 2024 | Aprovado o Projeto de Lei nº 3.819, de 2024. Sim: 364; Não: 47; Abstenção: 1; Total: 412. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2461207-38](../../../../../votacoes/2461207-38/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 | 16 out 2024 | Rejeitada a Emenda de Plenário nº 1. Sim: 149; Não: 204; Total: 353. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [565397-185](../../../../../votacoes/565397-185/) |
 | 11 set 2024 | Rejeitada a Emenda de Plenário nº 18. Sim: 133; Não: 204; Total: 337. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2454704-58](../../../../../votacoes/2454704-58/) |
 | 11 set 2024 | Mantido o texto. Sim: 200; Não: 80; Abstenção: 1; Total: 281. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2454704-67](../../../../../votacoes/2454704-67/) |
-| 11 set 2024 | Mantido o texto. Sim: 189; Não: 140; Total: 329. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2454704-70](../../../../../votacoes/2454704-70/) |
-| 10 set 2024 | Aprovado o Projeto de Lei Complementar nº 72, de 2024. Sim: 432; Não: 2; Abstenção: 1; Total: 435. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2447191-41](../../../../../votacoes/2447191-41/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

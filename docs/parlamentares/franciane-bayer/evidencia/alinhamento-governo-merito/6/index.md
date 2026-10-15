@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Franciane Bayer — Alinhamento com o governo federal, Mérito (página 6)"
-description: "A decomposição completa do número de Franciane Bayer: 396 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
+description: "A decomposição completa do número de Franciane Bayer: 398 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Franciane Bayer: 396 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>57,8%</b> é <b>229</b> coincidências em
-<b>396</b> votações computáveis — as outras 167 estão
+<p><b>57,8%</b> é <b>230</b> coincidências em
+<b>398</b> votações computáveis — as outras 168 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 14 out 2025 | Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 242, de 2025, da Comissão de Finanças e Tributação. Sim: 375; Não: 15; Total: 390. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2517547-55](../../../../../votacoes/2517547-55/) |
+| 01 out 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.087, de 2025, adotada pelo relator da Comissão Especial. Sim: 493; Total: 493. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2487436-169](../../../../../votacoes/2487436-169/) |
 | 24 set 2025 | Aprovada a Medida Provisória, na forma da Emenda Aglutinativa nº 1, ressalvados os destaques. Sim: 403; Não: 6; Total: 409. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2519886-34](../../../../../votacoes/2519886-34/) |
 | 24 set 2025 | Rejeitada a Emenda de Comissão nº 45. Sim: 132; Não: 275; Abstenção: 1; Total: 408. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2519886-53](../../../../../votacoes/2519886-53/) |
 | 24 set 2025 | Aprovado o Projeto de Lei Complementar nº 163, de 2025, ressalvados os destaques. Sim: 296; Não: 145; Abstenção: 2; Total: 443. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2541109-38](../../../../../votacoes/2541109-38/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 | 26 ago 2025 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 143, de 2020, da Comissão de Finanças e Tributação. Sim: 371; Não: 10; Total: 381. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2253943-133](../../../../../votacoes/2253943-133/) |
 | 19 ago 2025 | Mantido o texto. Sim: 230; Não: 143; Total: 373. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2530336-46](../../../../../votacoes/2530336-46/) |
 | 19 ago 2025 | Mantido o texto. Sim: 228; Não: 143; Abstenção: 1; Total: 372. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2530336-50](../../../../../votacoes/2530336-50/) |
-| 19 ago 2025 | Mantido o texto. Sim: 246; Não: 146; Abstenção: 1; Total: 393. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2530336-53](../../../../../votacoes/2530336-53/) |
-| 12 ago 2025 | Aprovado o Substitutivo da Comissão de Trabalho, de Administração e Serviço Público ao Projeto de Lei nº 2.664 de 2003. Sim: 397; Não: 9; Abstenção: 1; Total: 407. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [146708-38](../../../../../votacoes/146708-38/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

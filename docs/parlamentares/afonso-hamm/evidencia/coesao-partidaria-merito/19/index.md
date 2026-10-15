@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Hamm — Coesão com o próprio partido, Mérito (página 19)"
-description: "A decomposição completa do número de Afonso Hamm: 450 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 380ª."
+description: "A decomposição completa do número de Afonso Hamm: 451 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 380ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Afonso Hamm: 450 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>70,2%</b> é <b>316</b> coincidências em
-<b>450</b> votações computáveis — as outras 134 estão
+<p><b>70,3%</b> é <b>317</b> coincidências em
+<b>451</b> votações computáveis — as outras 134 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 nov 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 7.082, de 2017, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 305; não: 101; abstenção: 1; total: 407. | Maioria do partido: sim (39 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2125189-176](../../../../../votacoes/2125189-176/) |
 | 29 nov 2023 | Rejeitada a Emenda de Plenário nº 17. Sim: 119; não: 278; total: 397. | Maioria do partido: nao (1 sim / 37 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2125189-180](../../../../../votacoes/2125189-180/) |
 | 29 nov 2023 | Mantido o texto. Sim: 276; não: 105; total: 381. | Maioria do partido: sim (34 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2125189-191](../../../../../votacoes/2125189-191/) |
 | 29 nov 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 11.247, de 2018, adotada pelo relator da Comissão de Minas e Energia, ressalvados os destaques. Sim: 403; não: 16; total: 419. | Maioria do partido: sim (37 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2190084-79](../../../../../votacoes/2190084-79/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
 | 25 out 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.173, de 2023, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 323; não: 119; abstenção: 1; total: 443. | Maioria do partido: sim (30 sim / 9 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2383287-43](../../../../../votacoes/2383287-43/) |
 | 25 out 2023 | Rejeitada a Emenda de Plenário nº 12. Sim: 116; não: 303; abstenção: 1; total: 420. | Maioria do partido: nao (4 sim / 30 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383287-47](../../../../../votacoes/2383287-47/) |
 | 25 out 2023 | Rejeitada a Emenda de Plenário nº 19. Sim: 116; não: 318; total: 434. | Maioria do partido: nao (6 sim / 33 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383287-53](../../../../../votacoes/2383287-53/) |
-| 25 out 2023 | Rejeitada a Emenda de Plenário nº 8. Sim: 127; não: 302; total: 429. | Maioria do partido: nao (8 sim / 30 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383287-61](../../../../../votacoes/2383287-61/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

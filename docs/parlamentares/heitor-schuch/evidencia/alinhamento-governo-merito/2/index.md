@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Heitor Schuch — Alinhamento com o governo federal, Mérito (página 2)"
-description: "A decomposição completa do número de Heitor Schuch: 277 votações em 14 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
+description: "A decomposição completa do número de Heitor Schuch: 279 votações em 14 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Heitor Schuch: 277 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>88,1%</b> é <b>244</b> coincidências em
-<b>277</b> votações computáveis — as outras 33 estão
+<p><b>87,8%</b> é <b>245</b> coincidências em
+<b>279</b> votações computáveis — as outras 34 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>14 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 02 mar 2026 | Aprovado o Projeto de Lei nº 6.139, de 2023, ressalvado o destaque. Sim: 340; Não: 108; Abstenção: 1; Total: 449. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2543171-49](../../../../../votacoes/2543171-49/) |
+| 25 fev 2026 | Aprovado o Projeto de Decreto Legislativo nº 50, de 2026, adotado pelo relator da Comissão de Relações Exteriores e de Defesa Nacional. Sim: 307; Não: 136; Abstenção: 1; Total: 444. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2603342-42](../../../../../votacoes/2603342-42/) |
 | 10 fev 2026 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 14, de 2026, adotado pelo relator da Comissão de Indústria, Comércio e Serviços. Sim: 317; Não: 61; Abstenção: 2; Total: 380. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2601040-31](../../../../../votacoes/2601040-31/) |
 | 09 fev 2026 | Aprovada a Medida Provisória nº 1.317, de 2025, na forma do Projeto de Lei de Conversão. Sim: 271; Não: 127; Total: 398. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2562173-30](../../../../../votacoes/2562173-30/) |
 | 02 fev 2026 | Aprovada a Medida Provisória nº 1.313 de 2025, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 415; Não: 29; Abstenção: 2; Total: 446. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2557414-32](../../../../../votacoes/2557414-32/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 | 05 nov 2025 | Mantido o texto. Sim: 327; Não: 98; Total: 425. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2157806-177](../../../../../votacoes/2157806-177/) |
 | 05 nov 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.357, de 2023, adotada pelo relator da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, ressalvados os destaques. Sim: 287; Não: 113; Total: 400. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2386051-93](../../../../../votacoes/2386051-93/) |
 | 04 nov 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 8.889, de 2017, adotada pelo relator da Comissão Especial, ressalvados os destaques. Sim: 330; Não: 118; Abstenção: 3; Total: 451. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2157806-137](../../../../../votacoes/2157806-137/) |
-| 04 nov 2025 | Mantido o texto. Sim: 377; Não: 50; Abstenção: 2; Total: 429. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [408349-216](../../../../../votacoes/408349-216/) |
-| 03 nov 2025 | Aprovado o Projeto de Lei Complementar nº 204, de 2025, ressalvado o destaque. Sim: 360; Não: 23; Abstenção: 2; Total: 385. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2576234-34](../../../../../votacoes/2576234-34/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

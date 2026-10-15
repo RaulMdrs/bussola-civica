@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Covatti Filho — Alinhamento com o governo federal, Procedimental (página 5)"
-description: "A decomposição completa do número de Covatti Filho: 288 votações em 15 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
+description: "A decomposição completa do número de Covatti Filho: 289 votações em 15 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Covatti Filho: 288 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>31,9%</b> é <b>92</b> coincidências em
-<b>288</b> votações computáveis — as outras 196 estão
+<p><b>32,2%</b> é <b>93</b> coincidências em
+<b>289</b> votações computáveis — as outras 196 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>15 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 12 ago 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 426; Não: 4; Total: 430. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2502719-8](../../../../../votacoes/2502719-8/) |
 | 12 ago 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 431; Total: 431. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2536814-8](../../../../../votacoes/2536814-8/) |
 | 12 ago 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 384; Não: 13; Total: 397. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2536992-8](../../../../../votacoes/2536992-8/) |
 | 12 ago 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 323; Não: 123; Total: 446. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2543003-8](../../../../../votacoes/2543003-8/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 | 29 mai 2025 | Rejeitado o Requerimento. Sim: 102; Não: 258; Total: 360. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2297512-65](../../../../../votacoes/2297512-65/) |
 | 29 mai 2025 | Rejeitado o Requerimento. Sim: 48; Não: 322; Abstenção: 1; Total: 371. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2306513-111](../../../../../votacoes/2306513-111/) |
 | 29 mai 2025 | Rejeitado o Requerimento. Sim: 121; Não: 270; Total: 391. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2324988-18](../../../../../votacoes/2324988-18/) |
-| 28 mai 2025 | Rejeitado o Requerimento. Sim: 105; Não: 289; Total: 394. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2341047-60](../../../../../votacoes/2341047-60/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

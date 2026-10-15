@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcel van Hattem — Alinhamento com o governo federal, Mérito (página 18)"
-description: "A decomposição completa do número de Marcel van Hattem: 404 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
+description: "A decomposição completa do número de Marcel van Hattem: 406 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcel van Hattem: 404 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>27,7%</b> é <b>112</b> coincidências em
-<b>404</b> votações computáveis — as outras 292 estão
+<p><b>27,8%</b> é <b>113</b> coincidências em
+<b>406</b> votações computáveis — as outras 293 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 03 out 2023 | Rejeitada a Emenda nº 33 do Senado Federal. Sim: 159; não: 251; abstenção: 6; total: 416. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2309053-179](../../../../../votacoes/2309053-179/) |
+| 14 set 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 136, de 2023, adotada pelo Relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 349; não: 68; abstenção: 2; total: 419. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2372071-41](../../../../../votacoes/2372071-41/) |
 | 14 set 2023 | Mantido o texto. Sim: 270; não: 146; abstenção: 1; total: 417. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2372071-44](../../../../../votacoes/2372071-44/) |
 | 13 set 2023 | Rejeitada a Emenda de Plenário nº 26. Sim: 82; não: 342; abstenção: 8; total: 432. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2374400-46](../../../../../votacoes/2374400-46/) |
 | 13 set 2023 | Suprimido o texto. Sim: 222; não: 242; abstenção: 2; total: 466. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2374400-53](../../../../../votacoes/2374400-53/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 | 07 jul 2023 | Mantido o texto. Sim: 336; não: 132; total: 468. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-386](../../../../../votacoes/2196833-386/) |
 | 07 jul 2023 | Mantido o texto. Sim: 349; não: 84; abstenção: 2; total: 435. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-390](../../../../../votacoes/2196833-390/) |
 | 07 jul 2023 | Mantido o texto. Sim: 370; não: 28; abstenção: 3; total: 401. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-392](../../../../../votacoes/2196833-392/) |
-| 07 jul 2023 | Suprimido o texto. Sim: 307; não: 166; abstenção: 5; total: 478. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-395](../../../../../votacoes/2196833-395/) |
-| 07 jul 2023 | Suprimido o texto. Sim: 112; não: 284; abstenção: 1; total: 397. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2360503-74](../../../../../votacoes/2360503-74/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Hamm — Alinhamento com o governo federal, Mérito (página 5)"
-description: "A decomposição completa do número de Afonso Hamm: 353 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
+description: "A decomposição completa do número de Afonso Hamm: 354 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Afonso Hamm: 353 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>49,6%</b> é <b>175</b> coincidências em
-<b>353</b> votações computáveis — as outras 178 estão
+<p><b>49,4%</b> é <b>175</b> coincidências em
+<b>354</b> votações computáveis — as outras 179 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 28 out 2025 | Mantido o texto. Sim: 409; Não: 21; Total: 430. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [374450-132](../../../../../votacoes/374450-132/) |
 | 15 out 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 2.225, de 2024, adotado pela relatora da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvado o destaque. Sim: 285; Não: 86; Abstenção: 2; Total: 373. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438687-71](../../../../../votacoes/2438687-71/) |
 | 15 out 2025 | Suprimido o texto. Sim: 169; Não: 200; Total: 369. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2438687-76](../../../../../votacoes/2438687-76/) |
 | 15 out 2025 | Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Sustação de Andamento de Ação Penal nº 2, de 2025, pela sustação do andamento da Ação Penal. Sim: 268; Não: 167; Abstenção: 4; Total: 439. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2564763-24](../../../../../votacoes/2564763-24/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 | 27 ago 2025 | Mantido o texto. Sim: 243; Não: 133; Total: 376. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2432423-93](../../../../../votacoes/2432423-93/) |
 | 26 ago 2025 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 143, de 2020, da Comissão de Finanças e Tributação. Sim: 371; Não: 10; Total: 381. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2253943-133](../../../../../votacoes/2253943-133/) |
 | 19 ago 2025 | Mantido o texto. Sim: 230; Não: 143; Total: 373. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2530336-46](../../../../../votacoes/2530336-46/) |
-| 19 ago 2025 | Mantido o texto. Sim: 228; Não: 143; Abstenção: 1; Total: 372. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2530336-50](../../../../../votacoes/2530336-50/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

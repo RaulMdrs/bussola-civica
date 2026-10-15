@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daiana Santos — Coesão com o próprio partido, Mérito (página 19)"
-description: "A decomposição completa do número de Daiana Santos: 442 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 380ª."
+description: "A decomposição completa do número de Daiana Santos: 444 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 380ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Daiana Santos: 442 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,3%</b> é <b>430</b> coincidências em
-<b>442</b> votações computáveis — as outras 12 estão
+<p><b>97,3%</b> é <b>432</b> coincidências em
+<b>444</b> votações computáveis — as outras 12 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 15 dez 2023 | Mantido o texto. Sim: 445; não: 29; abstenção: 2; total: 476. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-143](../../../../../votacoes/259094-143/) |
+| 15 dez 2023 | Mantido o texto. Sim: 352; não: 141; abstenção: 1; total: 494. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-149](../../../../../votacoes/259094-149/) |
 | 15 dez 2023 | Mantido o texto. Sim: 437; não: 10; total: 447. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-151](../../../../../votacoes/259094-151/) |
 | 15 dez 2023 | Mantido o texto. Sim: 324; não: 142; abstenção: 3; total: 469. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-166](../../../../../votacoes/259094-166/) |
 | 15 dez 2023 | Suprimido o texto. Sim: 285; não: 192; abstenção: 2; total: 479. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-172](../../../../../votacoes/259094-172/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
 | 05 dez 2023 | Aprovada a Emenda de Plenário n° 1. Sim: 257; não: 144; abstenção: 2; total: 403. | Maioria do partido: nao (0 sim / 6 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2231632-102](../../../../../votacoes/2231632-102/) |
 | 29 nov 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 7.082, de 2017, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 305; não: 101; abstenção: 1; total: 407. | Maioria do partido: nao (0 sim / 6 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2125189-176](../../../../../votacoes/2125189-176/) |
 | 29 nov 2023 | Rejeitada a Emenda de Plenário nº 17. Sim: 119; não: 278; total: 397. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2125189-180](../../../../../votacoes/2125189-180/) |
-| 29 nov 2023 | Mantido o texto. Sim: 276; não: 105; total: 381. | Maioria do partido: nao (0 sim / 6 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2125189-191](../../../../../votacoes/2125189-191/) |
-| 29 nov 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 11.247, de 2018, adotada pelo relator da Comissão de Minas e Energia, ressalvados os destaques. Sim: 403; não: 16; total: 419. | Maioria do partido: sim (4 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2190084-79](../../../../../votacoes/2190084-79/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

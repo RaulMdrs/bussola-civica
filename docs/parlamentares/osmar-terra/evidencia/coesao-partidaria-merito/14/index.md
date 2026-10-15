@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Osmar Terra — Coesão com o próprio partido, Mérito (página 14)"
-description: "A decomposição completa do número de Osmar Terra: 447 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
+description: "A decomposição completa do número de Osmar Terra: 449 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Osmar Terra: 447 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>63,8%</b> é <b>285</b> coincidências em
-<b>447</b> votações computáveis — as outras 162 estão
+<p><b>63,9%</b> é <b>287</b> coincidências em
+<b>449</b> votações computáveis — as outras 162 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 03 dez 2024 | Aprovado o Projeto de Decreto Legislativo nº 361, de 2024. Sim: 296; Não: 108; Total: 404. | Maioria do partido: sim (24 sim / 6 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2462730-34](../../../../../votacoes/2462730-34/) |
+| 27 nov 2024 | Aprovada a Emenda de Plenário nº 1. Sim: 266; Não: 78; Abstenção: 4; Total: 348. | Maioria do partido: sim (20 sim / 6 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [480184-129](../../../../../votacoes/480184-129/) |
 | 19 nov 2024 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 2.148, de 2015, com exceção do art. 56. Sim: 336; Não: 38; Abstenção: 2; Total: 376. | Maioria do partido: sim (29 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [1548579-194](../../../../../votacoes/1548579-194/) |
 | 19 nov 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.958, de 2021, adotada pela relatora da Comissão de Direitos Humanos, Minorias e Igualdade Racial. Sim: 241; Não: 94; Abstenção: 2; Total: 337. | Maioria do partido: sim (21 sim / 6 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2439779-55](../../../../../votacoes/2439779-55/) |
 | 19 nov 2024 | Aprovado o Projeto de Decreto Legislativo nº 343, de 2024. Sim: 364; Não: 2; Total: 366. | Maioria do partido: sim (28 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2456109-35](../../../../../votacoes/2456109-35/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 | 11 set 2024 | Rejeitadas as Emendas de Plenário. Sim: 57; Não: 228; Abstenção: 3; Total: 288. | Maioria do partido: nao (3 sim / 15 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2454704-55](../../../../../votacoes/2454704-55/) |
 | 11 set 2024 | Mantido o texto. Sim: 206; Não: 70; Total: 276. | Maioria do partido: sim (17 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2454704-64](../../../../../votacoes/2454704-64/) |
 | 11 set 2024 | Mantido o texto. Sim: 200; Não: 80; Abstenção: 1; Total: 281. | Maioria do partido: sim (15 sim / 7 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2454704-67](../../../../../votacoes/2454704-67/) |
-| 11 set 2024 | Mantido o texto. Sim: 189; Não: 140; Total: 329. | Maioria do partido: sim (14 sim / 6 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2454704-70](../../../../../votacoes/2454704-70/) |
-| 10 set 2024 | Aprovado o Projeto de Lei Complementar nº 72, de 2024. Sim: 432; Não: 2; Abstenção: 1; Total: 435. | Maioria do partido: sim (30 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2447191-41](../../../../../votacoes/2447191-41/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

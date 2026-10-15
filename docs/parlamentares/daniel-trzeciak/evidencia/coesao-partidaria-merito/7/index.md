@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daniel Trzeciak — Coesão com o próprio partido, Mérito (página 7)"
-description: "A decomposição completa do número de Daniel Trzeciak: 488 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
+description: "A decomposição completa do número de Daniel Trzeciak: 490 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Daniel Trzeciak: 488 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>72,3%</b> é <b>353</b> coincidências em
-<b>488</b> votações computáveis — as outras 135 estão
+<p><b>72,4%</b> é <b>355</b> coincidências em
+<b>490</b> votações computáveis — as outras 135 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 28 out 2025 | Mantido o texto. Sim: 409; Não: 21; Total: 430. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [374450-132](../../../../../votacoes/374450-132/) |
+| 15 out 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 2.225, de 2024, adotado pela relatora da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvado o destaque. Sim: 285; Não: 86; Abstenção: 2; Total: 373. | Maioria do partido: sim (7 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438687-71](../../../../../votacoes/2438687-71/) |
 | 15 out 2025 | Suprimido o texto. Sim: 169; Não: 200; Total: 369. | Maioria do partido: nao (2 sim / 7 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438687-76](../../../../../votacoes/2438687-76/) |
 | 15 out 2025 | Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Sustação de Andamento de Ação Penal nº 2, de 2025, pela sustação do andamento da Ação Penal. Sim: 268; Não: 167; Abstenção: 4; Total: 439. | Maioria do partido: sim (6 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2564763-24](../../../../../votacoes/2564763-24/) |
 | 14 out 2025 | Aprovada a Emenda de Plenário nº 2. Sim: 246; Não: 199; Total: 445. | Maioria do partido: nao (3 sim / 8 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2501358-48](../../../../../votacoes/2501358-48/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 | 17 set 2025 | Mantido o texto. Sim: 321; Não: 117; Total: 438. | Maioria do partido: sim (6 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2515300-64](../../../../../votacoes/2515300-64/) |
 | 16 set 2025 | Aprovado, em primeiro turno, o Substitutivo Reformulado à Proposta de Emenda à Constituição nº 3, de 2021, adotado pelo Relator da Comissão Especial. Sim: 353; Não: 134; Abstenção: 1; Total: 488. | Maioria do partido: sim (6 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2270800-135](../../../../../votacoes/2270800-135/) |
 | 16 set 2025 | Mantido o texto. Sim: 322; Não: 147; Abstenção: 1; Total: 470. | Maioria do partido: sim (5 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2270800-148](../../../../../votacoes/2270800-148/) |
-| 16 set 2025 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 3, de 2021, ressalvado os destaques. Sim: 344; Não: 133; Total: 477. | Maioria do partido: sim (6 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2270800-160](../../../../../votacoes/2270800-160/) |
-| 16 set 2025 | Suprimido o texto. Sim: 296; Não: 174; Total: 470. | Maioria do partido: nao (4 sim / 6 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2270800-165](../../../../../votacoes/2270800-165/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

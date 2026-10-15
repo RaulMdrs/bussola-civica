@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daniel Trzeciak — Alinhamento com o governo federal, Mérito (página 16)"
-description: "A decomposição completa do número de Daniel Trzeciak: 395 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
+description: "A decomposição completa do número de Daniel Trzeciak: 397 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Daniel Trzeciak: 395 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>49,1%</b> é <b>194</b> coincidências em
-<b>395</b> votações computáveis — as outras 201 estão
+<p><b>49,1%</b> é <b>195</b> coincidências em
+<b>397</b> votações computáveis — as outras 202 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 15 dez 2023 | Mantido o texto. Sim: 437; não: 10; total: 447. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-151](../../../../../votacoes/259094-151/) |
+| 15 dez 2023 | Suprimido o texto. Sim: 285; não: 192; abstenção: 2; total: 479. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-172](../../../../../votacoes/259094-172/) |
 | 15 dez 2023 | Mantido o texto. Sim: 341; não: 153; abstenção: 4; total: 498. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-176](../../../../../votacoes/259094-176/) |
 | 15 dez 2023 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques. Sim: 365; não: 118; abstenção: 1; total: 484. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-190](../../../../../votacoes/259094-190/) |
 | 15 dez 2023 | Mantido o texto. Sim: 333; não: 154; total: 487. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-193](../../../../../votacoes/259094-193/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 | 29 nov 2023 | Aprovada a Emenda de Plenário nº 7. Sim: 253; não: 160; abstenção: 1; total: 414. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2190084-93](../../../../../votacoes/2190084-93/) |
 | 29 nov 2023 | Aprovado o Projeto de Lei nº 3.268, de 2021. Sim: 286; não: 121; abstenção: 2; total: 409. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2299903-53](../../../../../votacoes/2299903-53/) |
 | 29 nov 2023 | Aprovado o Projeto de Lei nº 3.954, de 2023. Sim: 307; não: 27; abstenção: 1; total: 338. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2333929-40](../../../../../votacoes/2333929-40/) |
-| 29 nov 2023 | Aprovado o Projeto de Lei Complementar nº 205, de 2023.Sim: 326; não: 84; abstenção: 1; total: 411. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2398741-64](../../../../../votacoes/2398741-64/) |
-| 22 nov 2023 | Rejeitada a Emenda do Senado Federal ao Projeto de Lei nº 4.416, de 2023. Sim: 31, não: 375, abstenção: 2, total: 408. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2312373-140](../../../../../votacoes/2312373-140/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcelo Moraes — Alinhamento com o governo federal, Mérito (página 5)"
-description: "A decomposição completa do número de Marcelo Moraes: 338 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
+description: "A decomposição completa do número de Marcelo Moraes: 339 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcelo Moraes: 338 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>31,1%</b> é <b>105</b> coincidências em
-<b>338</b> votações computáveis — as outras 233 estão
+<p><b>31,3%</b> é <b>106</b> coincidências em
+<b>339</b> votações computáveis — as outras 233 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>17 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 out 2025 | Mantido o texto. Sim: 260; Não: 132; Total: 392. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2279186-92](../../../../../votacoes/2279186-92/) |
 | 29 out 2025 | Mantido o texto. Sim: 276; Não: 125; Total: 401. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2279186-94](../../../../../votacoes/2279186-94/) |
 | 29 out 2025 | Mantido o texto. Sim: 269; Não: 152; Total: 421. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2279186-97](../../../../../votacoes/2279186-97/) |
 | 29 out 2025 | Aprovada a Emenda de Plenário nº 5. Sim: 223; Não: 174; Total: 397. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2279186-99](../../../../../votacoes/2279186-99/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 | 24 set 2025 | Mantido o texto. Sim: 293; Não: 133; Total: 426. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2541109-48](../../../../../votacoes/2541109-48/) |
 | 17 set 2025 | Aprovada a Medida Provisória nº 1.300, de 2025, na forma da Emenda Aglutinativa nº 1, ressalvados os destaques. Sim: 423; Não: 36; Total: 459. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2515300-38](../../../../../votacoes/2515300-38/) |
 | 17 set 2025 | Mantido o texto. Sim: 321; Não: 117; Total: 438. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2515300-64](../../../../../votacoes/2515300-64/) |
-| 17 set 2025 | Mantido o texto. Sim: 322; Não: 125; Abstenção: 1; Total: 448. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2515300-71](../../../../../votacoes/2515300-71/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

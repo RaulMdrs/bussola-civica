@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcelo Moraes — Alinhamento com o governo federal, Procedimental (página 15)"
-description: "A decomposição completa do número de Marcelo Moraes: 282 votações em 15 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 282ª."
+description: "A decomposição completa do número de Marcelo Moraes: 283 votações em 15 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 283ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Marcelo Moraes: 282 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>16,7%</b> é <b>47</b> coincidências em
-<b>282</b> votações computáveis — as outras 235 estão
+<p><b>17,0%</b> é <b>48</b> coincidências em
+<b>283</b> votações computáveis — as outras 235 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>15 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
-<b>282ª</b>.</p>
+<b>283ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 11 abr 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 319; não: 106; total: 425. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2354899-8](../../../../../votacoes/2354899-8/) |
 | 15 mar 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 280; não: 97; abstenção: 1; total: 378. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2350706-6](../../../../../votacoes/2350706-6/) |
 | 14 mar 2023 | Aprovado o Requerimento de Urgência (Art. 154 do RICD). Sim: 366; não: 41; abstenção: 1; total: 408. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2351332-7](../../../../../votacoes/2351332-7/) |
 {: .t-evid}

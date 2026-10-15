@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alexandre Lindenmeyer — Coesão com o próprio partido, Mérito (página 7)"
-description: "A decomposição completa do número de Alexandre Lindenmeyer: 469 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
+description: "A decomposição completa do número de Alexandre Lindenmeyer: 471 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alexandre Lindenmeyer: 469
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>96,4%</b> é <b>452</b> coincidências em
-<b>469</b> votações computáveis — as outras 17 estão
+<p><b>96,4%</b> é <b>454</b> coincidências em
+<b>471</b> votações computáveis — as outras 17 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>24 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 16 set 2025 | Aprovado, em primeiro turno, o Substitutivo Reformulado à Proposta de Emenda à Constituição nº 3, de 2021, adotado pelo Relator da Comissão Especial. Sim: 353; Não: 134; Abstenção: 1; Total: 488. | Maioria do partido: nao (12 sim / 50 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2270800-135](../../../../../votacoes/2270800-135/) |
+| 16 set 2025 | Mantido o texto. Sim: 322; Não: 147; Abstenção: 1; Total: 470. | Maioria do partido: nao (8 sim / 52 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2270800-148](../../../../../votacoes/2270800-148/) |
 | 16 set 2025 | Mantido o texto. Sim: 317; Não: 156; Abstenção: 1; Total: 474. | Maioria do partido: nao (7 sim / 53 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2270800-151](../../../../../votacoes/2270800-151/) |
 | 16 set 2025 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 3, de 2021, ressalvado os destaques. Sim: 344; Não: 133; Total: 477. | Maioria do partido: nao (10 sim / 49 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2270800-160](../../../../../votacoes/2270800-160/) |
 | 16 set 2025 | Suprimido o texto. Sim: 296; Não: 174; Total: 470. | Maioria do partido: nao (8 sim / 50 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2270800-165](../../../../../votacoes/2270800-165/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 | 12 ago 2025 | Aprovado o Projeto de Lei nº 1.856, de 2025. Sim: 424; Não: 4; Abstenção: 2; Total: 430. | Maioria do partido: sim (56 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2500260-34](../../../../../votacoes/2500260-34/) |
 | 07 ago 2025 | Rejeitada a Emenda n° 29. Sim: 30; Não: 394; Abstenção: 2; Total: 426. | Maioria do partido: nao (2 sim / 56 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2498090-44](../../../../../votacoes/2498090-44/) |
 | 07 ago 2025 | Rejeitada a Emenda nº 5. Sim: 16; Não: 399; Abstenção: 1; Total: 416. | Maioria do partido: nao (0 sim / 58 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2498090-47](../../../../../votacoes/2498090-47/) |
-| 16 jul 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 1.872, de 2025, adotado pela relatora da Comissão de Finanças e Tributação, ressalvado o destaque. . Sim: 264; Não: 169; Abstenção: 4; Total: 437. | Maioria do partido: sim (63 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2500330-43](../../../../../votacoes/2500330-43/) |
-| 16 jul 2025 | Aprovadas. Sim: 267; Não: 116; Total: 383. | Maioria do partido: nao (1 sim / 56 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [257161-454](../../../../../votacoes/257161-454/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

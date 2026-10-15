@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Mauricio Marcon — Coesão com o próprio partido, Mérito (página 5)"
-description: "A decomposição completa do número de Mauricio Marcon: 526 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
+description: "A decomposição completa do número de Mauricio Marcon: 528 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Mauricio Marcon: 526 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>51,3%</b> é <b>270</b> coincidências em
-<b>526</b> votações computáveis — as outras 256 estão
+<p><b>51,5%</b> é <b>272</b> coincidências em
+<b>528</b> votações computáveis — as outras 256 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>27 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 26 nov 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 2.829, de 2025, adotado pelo relator da Comissão de Administração e Serviço Público, ressalvado o destaque. Sim: 350; Não: 77; Abstenção: 2; Total: 429. | Maioria do partido: sim (13 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2524984-33](../../../../../votacoes/2524984-33/) |
+| 26 nov 2025 | Mantido o texto. Sim: 278; Não: 107; Total: 385. | Maioria do partido: sim (12 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2555110-45](../../../../../votacoes/2555110-45/) |
 | 18 nov 2025 | Aprovada a Emenda de Plenário nº 25. Sim: 349; Não: 40; Abstenção: 1; Total: 390. | Maioria do partido: sim (8 sim / 6 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2579832-105](../../../../../votacoes/2579832-105/) |
 | 18 nov 2025 | Rejeitada a Preferência. Sim: 156; Não: 306; Total: 462. | Maioria do partido: nao (5 sim / 10 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2579832-61](../../../../../votacoes/2579832-61/) |
 | 18 nov 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 5.582, de 2025, adotado pelo relator da Comissão de Segurança Pública e Combate ao Crime Organizado, ressalvados os destaques. Sim: 370; Não: 110; Abstenção: 3; Total: 483. | Maioria do partido: sim (11 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2579832-62](../../../../../votacoes/2579832-62/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 | 05 nov 2025 | Mantido o texto. Sim: 382; Não: 17; Total: 399. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2483863-74](../../../../../votacoes/2483863-74/) |
 | 04 nov 2025 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 39, de 2022. Sim: 417; Não: 6; Abstenção: 1; Total: 424. | Maioria do partido: sim (13 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2122682-86](../../../../../votacoes/2122682-86/) |
 | 04 nov 2025 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 39, de 2022. Sim: 414; Não: 3; Abstenção: 2; Total: 419. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2122682-94](../../../../../votacoes/2122682-94/) |
-| 04 nov 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 8.889, de 2017, adotada pelo relator da Comissão Especial, ressalvados os destaques. Sim: 330; Não: 118; Abstenção: 3; Total: 451. | Maioria do partido: sim (12 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2157806-137](../../../../../votacoes/2157806-137/) |
-| 04 nov 2025 | Aprovado o Projeto de Lei nº 4.750, de 2025. Sim: 299; Não: 119; Abstenção: 4; Total: 422. | Maioria do partido: sim (14 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2564274-37](../../../../../votacoes/2564274-37/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

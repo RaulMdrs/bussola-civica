@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Osmar Terra — Alinhamento com o governo federal, Mérito (página 8)"
-description: "A decomposição completa do número de Osmar Terra: 357 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
+description: "A decomposição completa do número de Osmar Terra: 359 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Osmar Terra: 357 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>30,3%</b> é <b>108</b> coincidências em
-<b>357</b> votações computáveis — as outras 249 estão
+<p><b>30,4%</b> é <b>109</b> coincidências em
+<b>359</b> votações computáveis — as outras 250 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 08 jul 2025 | Rejeitado o Destaque. Sim: 159; Não: 243; Total: 402. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2413257-125](../../../../../votacoes/2413257-125/) |
+| 08 jul 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 769, de 2024, adotado pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 209; Não: 165; Abstenção: 4; Total: 378. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2421211-88](../../../../../votacoes/2421211-88/) |
 | 01 jul 2025 | Mantido o texto. Sim: 274; Não: 73; Abstenção: 1; Total: 348. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2191678-93](../../../../../votacoes/2191678-93/) |
 | 25 jun 2025 | Mantido o texto. Sim: 295; Não: 80; Abstenção: 2; Total: 377. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2465240-36](../../../../../votacoes/2465240-36/) |
 | 25 jun 2025 | Aprovado o Projeto de Resolução nº 27, de 2025. Sim: 272; Não: 117; Abstenção: 1; Total: 390. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2487358-48](../../../../../votacoes/2487358-48/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 | 26 mai 2025 | Mantido o texto. Sim: 284; Não: 147; Abstenção: 2; Total: 433. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2233324-103](../../../../../votacoes/2233324-103/) |
 | 26 mai 2025 | Mantido o texto. Sim: 233; Não: 174; Abstenção: 3; Total: 410. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2233324-106](../../../../../votacoes/2233324-106/) |
 | 26 mai 2025 | Aprovado o Projeto de Lei nº 1.708, de 2025. Sim: 289; Não: 136; Total: 425. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2497993-33](../../../../../votacoes/2497993-33/) |
-| 21 mai 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.466, de 2025, adotada pelo relator da Comissão de Administração e Serviço Público, ressalvado o destaque. Sim: 388; Não: 43; Total: 431. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2494408-30](../../../../../votacoes/2494408-30/) |
-| 21 mai 2025 | Mantido o texto. Sim: 290; Não: 134; Total: 424. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2494408-43](../../../../../votacoes/2494408-43/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

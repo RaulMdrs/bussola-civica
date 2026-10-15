@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Hamm — Coesão com o próprio partido, Mérito (página 11)"
-description: "A decomposição completa do número de Afonso Hamm: 450 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
+description: "A decomposição completa do número de Afonso Hamm: 451 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Afonso Hamm: 450 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>70,2%</b> é <b>316</b> coincidências em
-<b>450</b> votações computáveis — as outras 134 estão
+<p><b>70,3%</b> é <b>317</b> coincidências em
+<b>451</b> votações computáveis — as outras 134 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 28 abr 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 363, de 2025, adotado pela relatora da Comissão de Cultura, ressalvados os destaques. Sim: 278; Não: 111; Total: 389. | Maioria do partido: sim (20 sim / 11 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2483495-52](../../../../../votacoes/2483495-52/) |
 | 28 abr 2025 | Mantido o texto. Sim: 266; Não: 113; Total: 379. | Maioria do partido: sim (19 sim / 12 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2483495-56](../../../../../votacoes/2483495-56/) |
 | 22 abr 2025 | Aprovado o Projeto de Lei nº 2, de 2025. . Sim: 276; Não: 68; Total: 344. | Maioria do partido: sim (21 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2481875-38](../../../../../votacoes/2481875-38/) |
 | 01 abr 2025 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 316; Não: 88; Abstenção: 1; Total: 405. | Maioria do partido: sim (27 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2463814-44](../../../../../votacoes/2463814-44/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 | 19 dez 2024 | Mantido o texto. Sim: 277; Não: 174; Abstenção: 1; Total: 452. | Maioria do partido: sim (30 sim / 14 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2473375-78](../../../../../votacoes/2473375-78/) |
 | 19 dez 2024 | Aprovada, em primeiro turno, a Emenda Aglutinativa Substitutiva à Proposta de Emenda à Constituição nº 31, de 2007. Sim: 344; Não: 154; Abstenção: 2; Total: 500. | Maioria do partido: sim (38 sim / 11 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [347421-200](../../../../../votacoes/347421-200/) |
 | 19 dez 2024 | Mantido o texto. Sim: 349; Não: 143; Abstenção: 1; Total: 493. | Maioria do partido: sim (41 sim / 7 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [347421-205](../../../../../votacoes/347421-205/) |
-| 19 dez 2024 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 31, de 2007, ressalvado o destaque. Sim: 348; Não: 146; Total: 494. | Maioria do partido: sim (40 sim / 8 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [347421-221](../../../../../votacoes/347421-221/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

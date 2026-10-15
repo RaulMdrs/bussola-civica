@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Pedro Westphalen — Alinhamento com o governo federal, Mérito (página 5)"
-description: "A decomposição completa do número de Pedro Westphalen: 383 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
+description: "A decomposição completa do número de Pedro Westphalen: 385 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Pedro Westphalen: 383 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>49,9%</b> é <b>191</b> coincidências em
-<b>383</b> votações computáveis — as outras 192 estão
+<p><b>49,9%</b> é <b>192</b> coincidências em
+<b>385</b> votações computáveis — as outras 193 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 30 out 2025 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 169, de 2019. Sim: 386; Não: 15; Abstenção: 1; Total: 402. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2225224-117](../../../../../votacoes/2225224-117/) |
+| 30 out 2025 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 169, de 2019. Sim: 417; Não: 17; Abstenção: 1; Total: 435. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2225224-125](../../../../../votacoes/2225224-125/) |
 | 30 out 2025 | Rejeitada a Emenda de Comissão n° 23. Sim: 157; Não: 198; Abstenção: 1; Total: 356. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2535328-24](../../../../../votacoes/2535328-24/) |
 | 30 out 2025 | Suprimido o texto. Sim: 148; Não: 233; Abstenção: 1; Total: 382. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2535328-36](../../../../../votacoes/2535328-36/) |
 | 29 out 2025 | Mantido o texto. Sim: 293; Não: 143; Total: 436. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2279186-104](../../../../../votacoes/2279186-104/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 | 14 out 2025 | Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 242, de 2025, da Comissão de Finanças e Tributação. Sim: 375; Não: 15; Total: 390. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2517547-55](../../../../../votacoes/2517547-55/) |
 | 01 out 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.087, de 2025, adotada pelo relator da Comissão Especial. Sim: 493; Total: 493. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2487436-169](../../../../../votacoes/2487436-169/) |
 | 25 set 2025 | Aprovado o Projeto de Lei nº 358, de 2025. . | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2483447-25](../../../../../votacoes/2483447-25/) |
-| 24 set 2025 | Aprovada a Medida Provisória, na forma da Emenda Aglutinativa nº 1, ressalvados os destaques. Sim: 403; Não: 6; Total: 409. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2519886-34](../../../../../votacoes/2519886-34/) |
-| 24 set 2025 | Rejeitada a Emenda de Comissão nº 45. Sim: 132; Não: 275; Abstenção: 1; Total: 408. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2519886-53](../../../../../votacoes/2519886-53/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

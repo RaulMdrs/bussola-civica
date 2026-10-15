@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daiana Santos — Coesão com o próprio partido, Procedimental (página 6)"
-description: "A decomposição completa do número de Daiana Santos: 427 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
+description: "A decomposição completa do número de Daiana Santos: 428 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Daiana Santos: 427 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>98,1%</b> é <b>419</b> coincidências em
-<b>427</b> votações computáveis — as outras 8 estão
+<p><b>98,1%</b> é <b>420</b> coincidências em
+<b>428</b> votações computáveis — as outras 8 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 22 out 2025 | Rejeitado o Requerimento. Sim: 50; Não: 370; Total: 420. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2571484-9](../../../../../votacoes/2571484-9/) |
 | 22 out 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 398; Não: 30; Abstenção: 3; Total: 431. | Maioria do partido: sim (4 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2573921-8](../../../../../votacoes/2573921-8/) |
 | 14 out 2025 | Rejeitado o Requerimento. Sim: 13; Não: 409; Total: 422. | Maioria do partido: nao (0 sim / 8 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2501358-37](../../../../../votacoes/2501358-37/) |
 | 08 out 2025 | Aprovado o Requerimento. Sim: 251; Não: 193; Total: 444. | Maioria do partido: nao (0 sim / 8 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2525180-26](../../../../../votacoes/2525180-26/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 | 10 set 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 300; Não: 99; Total: 399. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2556109-8](../../../../../votacoes/2556109-8/) |
 | 09 set 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 350; Não: 94; Total: 444. | Maioria do partido: nao (0 sim / 7 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2558261-8](../../../../../votacoes/2558261-8/) |
 | 09 set 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2558444-7](../../../../../votacoes/2558444-7/) |
-| 09 set 2025 | Aprovado, por unanimidade, o Requerimento de Urgência (Art. 155 do RICD). Sim: 310; Não: 115; Total: 425. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2558628-8](../../../../../votacoes/2558628-8/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

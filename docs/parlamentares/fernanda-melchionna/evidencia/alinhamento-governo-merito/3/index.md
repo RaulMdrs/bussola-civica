@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Fernanda Melchionna — Alinhamento com o governo federal, Mérito (página 3)"
-description: "A decomposição completa do número de Fernanda Melchionna: 360 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
+description: "A decomposição completa do número de Fernanda Melchionna: 362 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,10 +11,10 @@ description: "A decomposição completa do número de Fernanda Melchionna: 360 v
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>83,1%</b> é <b>299</b> coincidências em
-<b>360</b> votações computáveis — as outras 61 estão
+<p><b>83,1%</b> é <b>301</b> coincidências em
+<b>362</b> votações computáveis — as outras 61 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
-repartida em <b>18 páginas</b> de até 20 votações,
+repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 <b>60ª</b>.</p>
 </div>
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 02 fev 2026 | Mantido o texto. Sim: 401; Não: 34; Total: 435. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2557414-41](../../../../../votacoes/2557414-41/) |
+| 16 dez 2025 | Suprimido o texto. Sim: 63; Não: 373; Abstenção: 1; Total: 437. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438459-135](../../../../../votacoes/2438459-135/) |
 | 16 dez 2025 | Mantido o texto. Sim: 441; Não: 3; Total: 444. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-139](../../../../../votacoes/2438459-139/) |
 | 16 dez 2025 | Mantido o texto. Sim: 423; Não: 23; Abstenção: 1; Total: 447. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2438459-141](../../../../../votacoes/2438459-141/) |
 | 16 dez 2025 | Suprimido o texto. Sim: 15; Não: 334; Total: 349. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438459-143](../../../../../votacoes/2438459-143/) |
@@ -43,13 +45,11 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 | 09 dez 2025 | Mantido o texto. Sim: 302; Não: 124; Total: 426. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2471177-108](../../../../../votacoes/2471177-108/) |
 | 09 dez 2025 | Mantido o texto. Sim: 298; Não: 117; Total: 415. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2471177-111](../../../../../votacoes/2471177-111/) |
 | 09 dez 2025 | Mantido o texto. Sim: 298; Não: 112; Total: 410. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2471177-117](../../../../../votacoes/2471177-117/) |
-| 09 dez 2025 | Aprovado o Projeto de Lei Complementar nº 125, de 2022. Sim: 436; Não: 2; Total: 438. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2559194-42](../../../../../votacoes/2559194-42/) |
-| 09 dez 2025 | Rejeitadas as Emendas de Plenário. Sim: 8; Não: 382; Total: 390. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2559194-44](../../../../../votacoes/2559194-44/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">
 <a class="passo" href="../2/" rel="prev">← Anteriores</a>
-<span class="paginas"><a href="../">1</a><a href="../2/">2</a><b aria-current="page">3</b><a href="../4/">4</a><a href="../5/">5</a><span class="salto">…</span><a href="../18/">18</a></span>
+<span class="paginas"><a href="../">1</a><a href="../2/">2</a><b aria-current="page">3</b><a href="../4/">4</a><a href="../5/">5</a><span class="salto">…</span><a href="../19/">19</a></span>
 <a class="passo" href="../4/" rel="next">Próximas →</a>
 </nav>
 

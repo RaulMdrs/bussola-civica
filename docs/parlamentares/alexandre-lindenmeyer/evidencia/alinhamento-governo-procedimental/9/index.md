@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alexandre Lindenmeyer — Alinhamento com o governo federal, Procedimental (página 9)"
-description: "A decomposição completa do número de Alexandre Lindenmeyer: 312 votações em 16 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
+description: "A decomposição completa do número de Alexandre Lindenmeyer: 313 votações em 16 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alexandre Lindenmeyer: 312
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>98,4%</b> é <b>307</b> coincidências em
-<b>312</b> votações computáveis — as outras 5 estão
+<p><b>98,4%</b> é <b>308</b> coincidências em
+<b>313</b> votações computáveis — as outras 5 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>16 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 13 nov 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 272; Não: 140; Abstenção: 3; Total: 415. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2462049-9](../../../../../votacoes/2462049-9/) |
 | 13 nov 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 323; Não: 106; Total: 429. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2467823-9](../../../../../votacoes/2467823-9/) |
 | 13 nov 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2469074-8](../../../../../votacoes/2469074-8/) |
 | 12 nov 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 285; Não: 78; Abstenção: 1; Total: 364. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2431821-7](../../../../../votacoes/2431821-7/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 | 11 set 2024 | Rejeitado o Requerimento. Sim: 57; Não: 269; Abstenção: 4; Total: 330. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2454704-40](../../../../../votacoes/2454704-40/) |
 | 11 set 2024 | Rejeitado o Requerimento. Sim: 53; Não: 240; Abstenção: 2; Total: 295. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2454704-50](../../../../../votacoes/2454704-50/) |
 | 10 set 2024 | Rejeitado o Requerimento. Sim: 20; Não: 350; Abstenção: 2; Total: 372. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2447191-32](../../../../../votacoes/2447191-32/) |
-| 10 set 2024 | Rejeitado o Requerimento. Sim: 16; Não: 316; Abstenção: 3; Total: 335. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2447191-38](../../../../../votacoes/2447191-38/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

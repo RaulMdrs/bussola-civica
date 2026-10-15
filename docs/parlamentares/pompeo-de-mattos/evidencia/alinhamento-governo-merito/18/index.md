@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Pompeo de Mattos — Alinhamento com o governo federal, Mérito (página 18)"
-description: "A decomposição completa do número de Pompeo de Mattos: 375 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
+description: "A decomposição completa do número de Pompeo de Mattos: 377 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Pompeo de Mattos: 375 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>84,5%</b> é <b>317</b> coincidências em
-<b>375</b> votações computáveis — as outras 58 estão
+<p><b>84,6%</b> é <b>319</b> coincidências em
+<b>377</b> votações computáveis — as outras 58 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 07 jul 2023 | Mantido o texto. Sim: 327; não: 96; abstenção: 1; total: 424. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2367064-66](../../../../../votacoes/2367064-66/) |
+| 07 jul 2023 | Mantido o texto. Sim: 251; não: 206; total: 457. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2367064-82](../../../../../votacoes/2367064-82/) |
 | 06 jul 2023 | Aprovado, em primeiro turno, o Substitutivo adotado pelo relator da Comissão Especial à Proposta de Emenda Constitucional nº 45, de 2019, ressalvados os destaques. Sim: 382; não: 118; abstenção: 3; total: 503. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-326](../../../../../votacoes/2196833-326/) |
 | 06 jul 2023 | Aprovada a Emenda Aglutinativa nº 1. Sim: 379; não: 114; abstenção: 1; total: 494. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-328](../../../../../votacoes/2196833-328/) |
 | 06 jul 2023 | Mantido o texto. Sim: 317; não: 170; total: 487. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-331](../../../../../votacoes/2196833-331/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 | 31 mai 2023 | Mantido o texto. Sim: 324; não: 114; abstenção: 1; total: 439. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345493-44](../../../../../votacoes/2345493-44/) |
 | 31 mai 2023 | Mantido o texto. Sim: 260; não: 186; abstenção: 2; total: 448. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345493-47](../../../../../votacoes/2345493-47/) |
 | 31 mai 2023 | Rejeitada a Emenda de Comissão nº 14. Sim: 182; não: ; 243; abstenção: 2; total: 427. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2345493-50](../../../../../votacoes/2345493-50/) |
-| 24 mai 2023 | Rejeitada a Emenda nº 1 e restabelecidos os dispositivos aprovados pela câmara consubstanciados no Projeto de Lei de Conversão nº 6, de 2023. Sim: 66; não: 364; abtenção: 2; total: 432. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2345368-78](../../../../../votacoes/2345368-78/) |
-| 24 mai 2023 | Mantido o texto. Sim: 326; não: 138; total: 464. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357053-59](../../../../../votacoes/2357053-59/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

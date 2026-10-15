@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daniel Trzeciak — Coesão com o próprio partido, Mérito (página 12)"
-description: "A decomposição completa do número de Daniel Trzeciak: 488 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
+description: "A decomposição completa do número de Daniel Trzeciak: 490 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Daniel Trzeciak: 488 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>72,3%</b> é <b>353</b> coincidências em
-<b>488</b> votações computáveis — as outras 135 estão
+<p><b>72,4%</b> é <b>355</b> coincidências em
+<b>490</b> votações computáveis — as outras 135 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 28 abr 2025 | Mantido o texto. Sim: 266; Não: 113; Total: 379. | Maioria do partido: sim (9 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2483495-56](../../../../../votacoes/2483495-56/) |
+| 28 abr 2025 | Mantido o texto. Sim: 251; Não: 117; Total: 368. | Maioria do partido: sim (9 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2483495-59](../../../../../votacoes/2483495-59/) |
 | 28 abr 2025 | Mantido o texto. Sim: 256; Não: 123; Abstenção: 1; Total: 380. | Maioria do partido: sim (8 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2483495-62](../../../../../votacoes/2483495-62/) |
 | 22 abr 2025 | Aprovado o Projeto de Lei nº 2, de 2025. . Sim: 276; Não: 68; Total: 344. | Maioria do partido: sim (6 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2481875-38](../../../../../votacoes/2481875-38/) |
 | 01 abr 2025 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 316; Não: 88; Abstenção: 1; Total: 405. | Maioria do partido: sim (9 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2463814-44](../../../../../votacoes/2463814-44/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 | 19 dez 2024 | Aprovado o Projeto de Lei nº 3.802, de 2024. Sim: 340; Não: 117; Abstenção: 1; Total: 458. | Maioria do partido: sim (9 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2460010-43](../../../../../votacoes/2460010-43/) |
 | 19 dez 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.614, de 2024, adotada pelo relator da Comissão Especial, ressalvado o destaque. Sim: 264; Não: 209; Total: 473. | Maioria do partido: sim (9 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2473375-59](../../../../../votacoes/2473375-59/) |
 | 19 dez 2024 | Mantido o texto. Sim: 277; Não: 174; Abstenção: 1; Total: 452. | Maioria do partido: sim (9 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2473375-78](../../../../../votacoes/2473375-78/) |
-| 19 dez 2024 | Aprovada, em primeiro turno, a Emenda Aglutinativa Substitutiva à Proposta de Emenda à Constituição nº 31, de 2007. Sim: 344; Não: 154; Abstenção: 2; Total: 500. | Maioria do partido: sim (9 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [347421-200](../../../../../votacoes/347421-200/) |
-| 19 dez 2024 | Suprimido o texto. Sim: 4; Não: 360; Total: 364. | Maioria do partido: nao (0 sim / 9 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [347421-202](../../../../../votacoes/347421-202/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

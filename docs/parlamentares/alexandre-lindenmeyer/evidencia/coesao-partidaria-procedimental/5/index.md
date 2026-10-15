@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alexandre Lindenmeyer — Coesão com o próprio partido, Procedimental (página 5)"
-description: "A decomposição completa do número de Alexandre Lindenmeyer: 401 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
+description: "A decomposição completa do número de Alexandre Lindenmeyer: 402 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alexandre Lindenmeyer: 401
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>98,8%</b> é <b>396</b> coincidências em
-<b>401</b> votações computáveis — as outras 5 estão
+<p><b>98,8%</b> é <b>397</b> coincidências em
+<b>402</b> votações computáveis — as outras 5 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 28 out 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 284; Não: 129; Total: 413. | Maioria do partido: sim (54 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2538979-10](../../../../../votacoes/2538979-10/) |
 | 28 out 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 300; Não: 130; Total: 430. | Maioria do partido: sim (63 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2566565-10](../../../../../votacoes/2566565-10/) |
 | 27 out 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 271; Não: 127; Abstenção: 3; Total: 401. | Maioria do partido: sim (58 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2566427-8](../../../../../votacoes/2566427-8/) |
 | 22 out 2025 | Rejeitado o Recurso nº 22, de 2025 (art. 58, § 1º c/c art. 132, § 2º, RICD). Sim: 95; Não: 344; Abstenção: 2; Total: 441. | Maioria do partido: nao (2 sim / 55 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2571484-12](../../../../../votacoes/2571484-12/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 | 16 set 2025 | Rejeitado o Requerimento. Sim: 137; Não: 324; Total: 461. | Maioria do partido: sim (61 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2270800-126](../../../../../votacoes/2270800-126/) |
 | 16 set 2025 | Aprovado o Requerimento. Sim: 346; Não: 122; Total: 468. | Maioria do partido: nao (7 sim / 52 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2270800-130](../../../../../votacoes/2270800-130/) |
 | 16 set 2025 | Aprovado o Requerimento nº 3.818/2025, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões previsto no § 6º do art. 202 do RICD, para apreciação do segundo turno da PEC 3, de 2021. Sim: 332; Não: 117; Total: 449. | Maioria do partido: nao (10 sim / 46 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2561475-6](../../../../../votacoes/2561475-6/) |
-| 10 set 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 288; Não: 125; Total: 413. | Maioria do partido: sim (54 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2545773-8](../../../../../votacoes/2545773-8/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

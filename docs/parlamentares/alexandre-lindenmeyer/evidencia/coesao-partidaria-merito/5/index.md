@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alexandre Lindenmeyer — Coesão com o próprio partido, Mérito (página 5)"
-description: "A decomposição completa do número de Alexandre Lindenmeyer: 469 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
+description: "A decomposição completa do número de Alexandre Lindenmeyer: 471 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alexandre Lindenmeyer: 469
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>96,4%</b> é <b>452</b> coincidências em
-<b>469</b> votações computáveis — as outras 17 estão
+<p><b>96,4%</b> é <b>454</b> coincidências em
+<b>471</b> votações computáveis — as outras 17 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>24 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 05 nov 2025 | Mantido o texto. Sim: 295; Não: 118; Total: 413. | Maioria do partido: sim (55 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2448069-50](../../../../../votacoes/2448069-50/) |
+| 05 nov 2025 | Aprovado o Projeto de Decreto Legislativo nº 3, de 2025. Sim: 317; Não: 111; Abstenção: 1; Total: 429. | Maioria do partido: nao (2 sim / 59 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2482078-57](../../../../../votacoes/2482078-57/) |
 | 05 nov 2025 | Mantido o texto. Sim: 382; Não: 17; Total: 399. | Maioria do partido: sim (55 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2483863-74](../../../../../votacoes/2483863-74/) |
 | 04 nov 2025 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 39, de 2022. Sim: 417; Não: 6; Abstenção: 1; Total: 424. | Maioria do partido: sim (53 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2122682-86](../../../../../votacoes/2122682-86/) |
 | 04 nov 2025 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 39, de 2022. Sim: 414; Não: 3; Abstenção: 2; Total: 419. | Maioria do partido: sim (57 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2122682-94](../../../../../votacoes/2122682-94/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 | 29 out 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 3.899, de 2012, adotado pelo relator da Comissão Especial, ressalvados os destaques. Sim: 275; Não: 133; Abstenção: 1; Total: 409. | Maioria do partido: sim (59 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [545304-134](../../../../../votacoes/545304-134/) |
 | 29 out 2025 | Suprimido o texto. Sim: 173; Não: 238; Total: 411. | Maioria do partido: sim (58 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [545304-154](../../../../../votacoes/545304-154/) |
 | 28 out 2025 | Aprovada a Emenda de Plenário nº 1. Sim: 445; Não: 10; Total: 455. | Maioria do partido: sim (62 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2570007-66](../../../../../votacoes/2570007-66/) |
-| 28 out 2025 | Aprovada a Emenda de Plenário nº 6. Sim: 426; Não: 17; Total: 443. | Maioria do partido: sim (63 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2570007-69](../../../../../votacoes/2570007-69/) |
-| 28 out 2025 | Mantido o texto. Sim: 409; Não: 21; Total: 430. | Maioria do partido: sim (60 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [374450-132](../../../../../votacoes/374450-132/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

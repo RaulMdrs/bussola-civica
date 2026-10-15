@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcon — Alinhamento com o governo federal, Mérito (página 13)"
-description: "A decomposição completa do número de Marcon: 401 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
+description: "A decomposição completa do número de Marcon: 403 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcon: 401 votações em 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>94,5%</b> é <b>379</b> coincidências em
-<b>401</b> votações computáveis — as outras 22 estão
+<p><b>94,5%</b> é <b>381</b> coincidências em
+<b>403</b> votações computáveis — as outras 22 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 28 ago 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 519, de 2018, adotada pelo relator da Comissão Especial, ressalvado o destaque. Sim: 439; não: 3; abstenção: 3; total: 445. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2178408-165](../../../../../votacoes/2178408-165/) |
+| 28 ago 2024 | Mantido o texto. Sim: 305; não: 132; abstenção: 1; total: 438. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2178408-173](../../../../../votacoes/2178408-173/) |
 | 26 ago 2024 | Mantido o texto. Sim: 257; não: 150; abstenção: 1; total: 408. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2432975-44](../../../../../votacoes/2432975-44/) |
 | 14 ago 2024 | Aprovado o Projeto de Lei Complementar nº 57, de 2022. Sim: 423; não: 21; abstenção: 1; total: 445. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2320081-66](../../../../../votacoes/2320081-66/) |
 | 14 ago 2024 | Aprovada a Emenda da Comissão de Finanças e Tributação. Sim: 421; não: 12; total: 433. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2320081-68](../../../../../votacoes/2320081-68/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 | 19 jun 2024 | Mantido o texto. Sim: 313; não: 116; total: 429. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2236291-85](../../../../../votacoes/2236291-85/) |
 | 11 jun 2024 | Aprovadas as Emendas do Senado Federal nºs 1 a 2; e 4 a 12 ao Projeto de Lei nº 914, de 2024. Sim: 380; não: 26; total: 406. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422697-129](../../../../../votacoes/2422697-129/) |
 | 04 jun 2024 | Aprovado o Projeto de Lei Complementar nº 459, de 2017. Sim: 384; não: 59; abstenção: 1; total: 444. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2166464-128](../../../../../votacoes/2166464-128/) |
-| 04 jun 2024 | Rejeitadas as Emendas de Plenário. Sim: 2; não: 413; abstenção: 1; total: 416. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2166464-132](../../../../../votacoes/2166464-132/) |
-| 28 mai 2024 | Aprovada a Emenda de Plenário nº 26. Sim: 174; não: 159; abstenção: 1; total: 334. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422697-66](../../../../../votacoes/2422697-66/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

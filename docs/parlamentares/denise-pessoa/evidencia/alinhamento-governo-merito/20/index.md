@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Denise Pessôa — Alinhamento com o governo federal, Mérito (página 20)"
-description: "A decomposição completa do número de Denise Pessôa: 403 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 400ª."
+description: "A decomposição completa do número de Denise Pessôa: 405 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 400ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Denise Pessôa: 403 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>96,0%</b> é <b>387</b> coincidências em
-<b>403</b> votações computáveis — as outras 16 estão
+<p><b>96,0%</b> é <b>389</b> coincidências em
+<b>405</b> votações computáveis — as outras 16 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 31 mai 2023 | Aprovada a Medida Provisória nº 1.154 de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 337; não: 125; abstenção: 1; total: 463. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345493-41](../../../../../votacoes/2345493-41/) |
+| 31 mai 2023 | Mantido o texto. Sim: 324; não: 114; abstenção: 1; total: 439. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345493-44](../../../../../votacoes/2345493-44/) |
 | 31 mai 2023 | Mantido o texto. Sim: 260; não: 186; abstenção: 2; total: 448. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345493-47](../../../../../votacoes/2345493-47/) |
 | 31 mai 2023 | Rejeitada a Emenda de Comissão nº 14. Sim: 182; não: ; 243; abstenção: 2; total: 427. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2345493-50](../../../../../votacoes/2345493-50/) |
 | 30 mai 2023 | Rejeitada a Emenda de Comissão nº 98. Sim: 159; não: 270; total: 429. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2349947-42](../../../../../votacoes/2349947-42/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
 | 10 mai 2023 | Aprovado o Projeto de Lei nº 1.987, de 2023. Sim: 346; não: 72; abstenção: 3; total: 421. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357055-29](../../../../../votacoes/2357055-29/) |
 | 04 mai 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.085, de 2023, adotada pela relatora da Comissão de Defesa dos Direitos da Mulher, ressalvados os destaques. Sim: 325; não: 36; abstenção: 3; total: 364. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2351179-51](../../../../../votacoes/2351179-51/) |
 | 03 mai 2023 | Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 98, de 2023, adotado pelo relator da Comissão de Desenvolvimento Urbano. Sim: 295; não: 136; abstenção: 1; total: 432. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2355135-49](../../../../../votacoes/2355135-49/) |
-| 25 abr 2023 | Mantido o texto. Sim: 289; não: 108; total: 397. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2344938-48](../../../../../votacoes/2344938-48/) |
-| 30 mar 2023 | Aprovada a Emenda de Plenário nº 4. Sim: 150; não: 122; total: 272. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2345368-50](../../../../../votacoes/2345368-50/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

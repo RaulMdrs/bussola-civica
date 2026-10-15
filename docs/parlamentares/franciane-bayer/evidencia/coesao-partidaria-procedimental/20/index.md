@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Franciane Bayer — Coesão com o próprio partido, Procedimental (página 20)"
-description: "A decomposição completa do número de Franciane Bayer: 472 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 400ª."
+description: "A decomposição completa do número de Franciane Bayer: 473 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 400ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Franciane Bayer: 472 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>83,1%</b> é <b>392</b> coincidências em
-<b>472</b> votações computáveis — as outras 80 estão
+<p><b>82,9%</b> é <b>392</b> coincidências em
+<b>473</b> votações computáveis — as outras 81 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>24 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 nov 2023 | Rejeitado o Requerimento. Sim: 98; não: 292; abstenção: 1; total: 391. | Maioria do partido: nao (1 sim / 31 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2125189-161](../../../../../votacoes/2125189-161/) |
 | 29 nov 2023 | Rejeitado o Requerimento. Sim: 106; não: 308; total: 414. | Maioria do partido: nao (2 sim / 33 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2125189-174](../../../../../votacoes/2125189-174/) |
 | 29 nov 2023 | Aprovado o Requerimento de Urgência (art. 155 do RICD). Sim: 302; não: 57; total: 359. | Maioria do partido: sim (28 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2407960-8](../../../../../votacoes/2407960-8/) |
 | 22 nov 2023 | Rejeitado o requerimento. Sim: 45; não: 371, total: 416. | Maioria do partido: nao (2 sim / 35 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2312373-128](../../../../../votacoes/2312373-128/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
 | 07 nov 2023 | Rejeitado o Requerimento. Sim: 94; não: 279; total: 373. | Maioria do partido: nao (3 sim / 25 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2397925-16](../../../../../votacoes/2397925-16/) |
 | 07 nov 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 309; não: 35; total: 344. | Maioria do partido: sim (26 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2399396-7](../../../../../votacoes/2399396-7/) |
 | 31 out 2023 | Rejeitado o Requerimento. Sim: 81; não: 234; total: 315. | Maioria do partido: nao (0 sim / 23 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2376169-40](../../../../../votacoes/2376169-40/) |
-| 31 out 2023 | Rejeitado o Requerimento. Sim: 93; não: 246; total: 339. | Maioria do partido: nao (0 sim / 28 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2376169-46](../../../../../votacoes/2376169-46/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

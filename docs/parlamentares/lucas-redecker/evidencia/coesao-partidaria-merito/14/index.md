@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Lucas Redecker — Coesão com o próprio partido, Mérito (página 14)"
-description: "A decomposição completa do número de Lucas Redecker: 540 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
+description: "A decomposição completa do número de Lucas Redecker: 542 votações em 28 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,10 +11,10 @@ description: "A decomposição completa do número de Lucas Redecker: 540 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>64,3%</b> é <b>347</b> coincidências em
-<b>540</b> votações computáveis — as outras 193 estão
+<p><b>64,4%</b> é <b>349</b> coincidências em
+<b>542</b> votações computáveis — as outras 193 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
-repartida em <b>27 páginas</b> de até 20 votações,
+repartida em <b>28 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 <b>280ª</b>.</p>
 </div>
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 25 fev 2025 | Aprovado o Projeto de Lei nº 4.187, de 2024. Sim: 269; Não: 136; Abstenção: 2; Total: 407. | Maioria do partido: sim (4 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2466108-33](../../../../../votacoes/2466108-33/) |
+| 18 fev 2025 | Rejeitado o Substitutivo ao Projeto de Lei Complementar nº 223, de 2023, da Comissão de Indústria, Comércio e Serviços. Sim: 34; Não: 356; Abstenção: 1; Total: 391. | Maioria do partido: nao (1 sim / 9 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2397890-54](../../../../../votacoes/2397890-54/) |
 | 18 fev 2025 | Aprovado o Projeto de Lei Complementar nº 223, de 2023. Sim: 407; Não: 6; Total: 413. | Maioria do partido: sim (10 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2397890-55](../../../../../votacoes/2397890-55/) |
 | 11 fev 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 9.133, de 2017, adotado pela relatora da Comissão de Educação. Sim: 297; Não: 107; Abstenção: 1; Total: 405. | Maioria do partido: sim (8 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2162802-89](../../../../../votacoes/2162802-89/) |
 | 19 dez 2024 | Aprovado o Projeto de Lei nº 3.802, de 2024. Sim: 340; Não: 117; Abstenção: 1; Total: 458. | Maioria do partido: sim (10 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2460010-43](../../../../../votacoes/2460010-43/) |
@@ -43,13 +45,11 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 | 17 dez 2024 | Aprovada a Emenda de Redação n° 2. Sim: 314; Não: 117; Abstenção: 1; Total: 432. | Maioria do partido: sim (8 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2430143-144](../../../../../votacoes/2430143-144/) |
 | 17 dez 2024 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 210, de 2024, adotado pelo relator da Comissão Especial. Sim: 318; Não: 149; Total: 467. | Maioria do partido: sim (10 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2473389-58](../../../../../votacoes/2473389-58/) |
 | 17 dez 2024 | Rejeitada a Emenda de Plenário nº 9. Sim: 227; Não: 233; Abstenção: 1; Total: 461. | Maioria do partido: nao (3 sim / 5 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2473389-62](../../../../../votacoes/2473389-62/) |
-| 17 dez 2024 | Rejeitada a Emenda de Plenário nº 19. Sim: 186; Não: 256; Total: 442. | Maioria do partido: sim (9 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2473389-65](../../../../../votacoes/2473389-65/) |
-| 17 dez 2024 | Rejeitada a Emenda de Plenário n° 38. Sim: 59; Não: 385; Abstenção: 1; Total: 445. | Maioria do partido: sim (8 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2473389-68](../../../../../votacoes/2473389-68/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">
 <a class="passo" href="../13/" rel="prev">← Anteriores</a>
-<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../12/">12</a><a href="../13/">13</a><b aria-current="page">14</b><a href="../15/">15</a><a href="../16/">16</a><span class="salto">…</span><a href="../27/">27</a></span>
+<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../12/">12</a><a href="../13/">13</a><b aria-current="page">14</b><a href="../15/">15</a><a href="../16/">16</a><span class="salto">…</span><a href="../28/">28</a></span>
 <a class="passo" href="../15/" rel="next">Próximas →</a>
 </nav>
 

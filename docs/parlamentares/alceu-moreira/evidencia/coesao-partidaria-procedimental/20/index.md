@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alceu Moreira — Coesão com o próprio partido, Procedimental (página 20)"
-description: "A decomposição completa do número de Alceu Moreira: 423 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 400ª."
+description: "A decomposição completa do número de Alceu Moreira: 424 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 400ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alceu Moreira: 423 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>73,5%</b> é <b>311</b> coincidências em
-<b>423</b> votações computáveis — as outras 112 estão
+<p><b>73,6%</b> é <b>312</b> coincidências em
+<b>424</b> votações computáveis — as outras 112 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 03 out 2023 | Rejeitado o Requerimento. Sim: 19; não: 283; abstenção: 2; total: 304. | Maioria do partido: nao (2 sim / 26 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2224999-88](../../../../../votacoes/2224999-88/) |
 | 03 out 2023 | Rejeitado o Requerimento. Sim: 10; não: 243; abstenção: 4; total: 257. | Maioria do partido: nao (1 sim / 22 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2309053-157](../../../../../votacoes/2309053-157/) |
 | 03 out 2023 | Rejeitado o Requerimento. Sim: 22; não: 266; abstenção: 2; total: 290. | Maioria do partido: nao (2 sim / 23 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2309053-167](../../../../../votacoes/2309053-167/) |
 | 20 set 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 285; não: 113; abstenção: 2; total: 400. | Maioria do partido: sim (25 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2282142-9](../../../../../votacoes/2282142-9/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
 | 08 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 287; não: 95; abstenção: 1; total: 383. | Maioria do partido: sim (22 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2372983-7](../../../../../votacoes/2372983-7/) |
 | 08 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 311; não: 45; total: 356. | Maioria do partido: sim (20 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2375497-8](../../../../../votacoes/2375497-8/) |
 | 08 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 346; não: 34; total: 380. | Maioria do partido: sim (24 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2375501-8](../../../../../votacoes/2375501-8/) |
-| 01 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 328; não: 48; total: 376. | Maioria do partido: sim (27 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2355627-8](../../../../../votacoes/2355627-8/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

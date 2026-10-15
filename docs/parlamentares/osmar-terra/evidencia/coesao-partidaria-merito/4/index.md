@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Osmar Terra — Coesão com o próprio partido, Mérito (página 4)"
-description: "A decomposição completa do número de Osmar Terra: 447 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
+description: "A decomposição completa do número de Osmar Terra: 449 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Osmar Terra: 447 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>63,8%</b> é <b>285</b> coincidências em
-<b>447</b> votações computáveis — as outras 162 estão
+<p><b>63,9%</b> é <b>287</b> coincidências em
+<b>449</b> votações computáveis — as outras 162 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 10 dez 2025 | Rejeitado o Parecer da Comissão de Constituição e Justiça e de Cidadania à Representação nº 2, de 2025, que conclui pela procedência da representação e pela perda do mandato da Dep. Carla Zambelli. Sim: 227; Não: 170; Abstenção: 10; Total: 407. | Maioria do partido: nao (1 sim / 72 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2525122-81](../../../../../votacoes/2525122-81/) |
+| 10 dez 2025 | Aprovada a Preferência. Sim: 226; Não: 220; Abstenção: 3; Total: 449. | Maioria do partido: nao (3 sim / 74 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2595686-29](../../../../../votacoes/2595686-29/) |
 | 10 dez 2025 | Aprovada a Emenda de Plenário nº 1. Sim: 318; Não: 141; Abstenção: 3; Total: 462. | Maioria do partido: nao (7 sim / 69 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2595686-31](../../../../../votacoes/2595686-31/) |
 | 09 dez 2025 | Mantido o texto. Sim: 218; Não: 136; Abstenção: 1; Total: 355. | Maioria do partido: sim (65 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2358548-81](../../../../../votacoes/2358548-81/) |
 | 09 dez 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 2.162, de 2023, adotado pelo relator da Comissão Especial, ressalvados os destaques. Sim: 291; Não: 148; Abstenção: 1; Total: 440. | Maioria do partido: sim (75 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2358548-89](../../../../../votacoes/2358548-89/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 | 02 dez 2025 | Mantido o texto. Sim: 300; Não: 123; Total: 423. | Maioria do partido: sim (65 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2541991-38](../../../../../votacoes/2541991-38/) |
 | 26 nov 2025 | Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 453, de 2017, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 427; Não: 18; Total: 445. | Maioria do partido: sim (75 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2164336-110](../../../../../votacoes/2164336-110/) |
 | 26 nov 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 331, de 2020, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 386; Não: 7; Total: 393. | Maioria do partido: sim (67 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2237596-92](../../../../../votacoes/2237596-92/) |
-| 26 nov 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 2.829, de 2025, adotado pelo relator da Comissão de Administração e Serviço Público, ressalvado o destaque. Sim: 350; Não: 77; Abstenção: 2; Total: 429. | Maioria do partido: sim (42 sim / 29 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2524984-33](../../../../../votacoes/2524984-33/) |
-| 26 nov 2025 | Mantido o texto. Sim: 278; Não: 107; Total: 385. | Maioria do partido: sim (66 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2555110-45](../../../../../votacoes/2555110-45/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

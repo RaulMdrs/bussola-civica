@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Paulo Pimenta — Alinhamento com o governo federal, Mérito (página 7)"
-description: "A decomposição completa do número de Paulo Pimenta: 205 votações em 11 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
+description: "A decomposição completa do número de Paulo Pimenta: 207 votações em 11 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Paulo Pimenta: 205 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,1%</b> é <b>199</b> coincidências em
-<b>205</b> votações computáveis — as outras 6 estão
+<p><b>97,1%</b> é <b>201</b> coincidências em
+<b>207</b> votações computáveis — as outras 6 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>11 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 03 set 2025 | Mantido o texto. Sim: 313; Não: 119; Abstenção: 1; Total: 433. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2318217-90](../../../../../votacoes/2318217-90/) |
+| 03 set 2025 | Rejeitada a Emenda de Plenário nº 10. Sim: 165; Não: 276; Total: 441. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2318217-93](../../../../../votacoes/2318217-93/) |
 | 03 set 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 128, de 2022, adotada pelo relator da Comissão de Segurança Pública e Combate ao Crime Organizado. Sim: 369; Não: 4; Total: 373. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2335185-89](../../../../../votacoes/2335185-89/) |
 | 03 set 2025 | Mantido o texto. Sim: 266; Não: 86; Total: 352. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2430953-277](../../../../../votacoes/2430953-277/) |
 | 03 set 2025 | Rejeitada a Emenda de Plenário nº 14. Sim: 108; Não: 241; Abstenção: 1; Total: 350. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430953-280](../../../../../votacoes/2430953-280/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 | 16 jul 2025 | Aprovada a Emenda do Senado Federal nº 1. Sim: 242; Não: 117; Total: 359. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [257161-462](../../../../../votacoes/257161-462/) |
 | 16 jul 2025 | Aprovada a Emenda do Senado Federal nº 4. Sim: 234; Não: 101; Total: 335. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [257161-467](../../../../../votacoes/257161-467/) |
 | 16 jul 2025 | Aprovada a Emenda do Senado Federal nº 18. Sim: 221; Não: 77; Abstenção: 1; Total: 299. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [257161-476](../../../../../votacoes/257161-476/) |
-| 16 jul 2025 | Aprovada a Emenda do Senado nº 28. Sim: 229; Não: 82; Abstenção: 1; Total: 312. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [257161-479](../../../../../votacoes/257161-479/) |
-| 15 jul 2025 | Aprovado, em primeiro turno, o Substitutivo da Comissão Especial à Proposta de Emenda Constitucional nº 66, de 2023, ressalvados os destaques. Sim: 404; Não: 67; Abstenção: 3; Total: 474. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454495-144](../../../../../votacoes/2454495-144/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

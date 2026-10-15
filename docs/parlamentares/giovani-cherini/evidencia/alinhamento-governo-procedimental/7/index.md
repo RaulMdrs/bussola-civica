@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Giovani Cherini — Alinhamento com o governo federal, Procedimental (página 7)"
-description: "A decomposição completa do número de Giovani Cherini: 335 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
+description: "A decomposição completa do número de Giovani Cherini: 336 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Giovani Cherini: 335 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>22,4%</b> é <b>75</b> coincidências em
-<b>335</b> votações computáveis — as outras 260 estão
+<p><b>22,6%</b> é <b>76</b> coincidências em
+<b>336</b> votações computáveis — as outras 260 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>17 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 26 jun 2025 | Rejeitado o Requerimento. Sim: 79; Não: 225; Total: 304. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2381043-85](../../../../../votacoes/2381043-85/) |
 | 25 jun 2025 | Rejeitado o Requerimento. Sim: 104; Não: 349; Total: 453. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2515648-29](../../../../../votacoes/2515648-29/) |
 | 25 jun 2025 | Rejeitado o Requerimento. Sim: 99; Não: 354; Total: 453. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2515648-36](../../../../../votacoes/2515648-36/) |
 | 11 jun 2025 | Rejeitado o Requerimento. Sim: 105; Não: 205; Total: 310. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [264726-127](../../../../../votacoes/264726-127/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 | 26 mai 2025 | Rejeitado o Requerimento. Sim: 128; Não: 284; Total: 412. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2497993-30](../../../../../votacoes/2497993-30/) |
 | 26 mai 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 297; Não: 133; Total: 430. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2515228-8](../../../../../votacoes/2515228-8/) |
 | 26 mai 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 286; Não: 144; Abstenção: 2; Total: 432. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2515229-8](../../../../../votacoes/2515229-8/) |
-| 22 mai 2025 | Rejeitado o Requerimento. Sim: 92; Não: 268; Total: 360. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2456110-43](../../../../../votacoes/2456110-43/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

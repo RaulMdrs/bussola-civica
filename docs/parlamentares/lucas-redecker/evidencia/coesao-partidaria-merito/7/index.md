@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Lucas Redecker — Coesão com o próprio partido, Mérito (página 7)"
-description: "A decomposição completa do número de Lucas Redecker: 540 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
+description: "A decomposição completa do número de Lucas Redecker: 542 votações em 28 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,10 +11,10 @@ description: "A decomposição completa do número de Lucas Redecker: 540 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>64,3%</b> é <b>347</b> coincidências em
-<b>540</b> votações computáveis — as outras 193 estão
+<p><b>64,4%</b> é <b>349</b> coincidências em
+<b>542</b> votações computáveis — as outras 193 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
-repartida em <b>27 páginas</b> de até 20 votações,
+repartida em <b>28 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 <b>140ª</b>.</p>
 </div>
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 30 out 2025 | Suprimido o texto. Sim: 148; Não: 233; Abstenção: 1; Total: 382. | Maioria do partido: nao (4 sim / 7 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2535328-36](../../../../../votacoes/2535328-36/) |
+| 29 out 2025 | Mantido o texto. Sim: 293; Não: 143; Total: 436. | Maioria do partido: sim (5 sim / 4 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2279186-104](../../../../../votacoes/2279186-104/) |
 | 29 out 2025 | Rejeitada a Emenda de Plenário nº 1. Sim: 143; Não: 263; Abstenção: 1; Total: 407. | Maioria do partido: sim (9 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2279186-107](../../../../../votacoes/2279186-107/) |
 | 29 out 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 458, de 2021, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 286; Não: 146; Abstenção: 1; Total: 433. | Maioria do partido: sim (8 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2279186-86](../../../../../votacoes/2279186-86/) |
 | 29 out 2025 | Mantido o texto. Sim: 260; Não: 132; Total: 392. | Maioria do partido: sim (8 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2279186-92](../../../../../votacoes/2279186-92/) |
@@ -43,13 +45,11 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 | 15 out 2025 | Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Sustação de Andamento de Ação Penal nº 2, de 2025, pela sustação do andamento da Ação Penal. Sim: 268; Não: 167; Abstenção: 4; Total: 439. | Maioria do partido: sim (6 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2564763-24](../../../../../votacoes/2564763-24/) |
 | 14 out 2025 | Aprovada a Emenda de Plenário nº 2. Sim: 246; Não: 199; Total: 445. | Maioria do partido: nao (3 sim / 8 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2501358-48](../../../../../votacoes/2501358-48/) |
 | 14 out 2025 | Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 242, de 2025, da Comissão de Finanças e Tributação. Sim: 375; Não: 15; Total: 390. | Maioria do partido: sim (11 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2517547-55](../../../../../votacoes/2517547-55/) |
-| 07 out 2025 | Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à Constituição nº 14, de 2021, da Comissão Especial. Sim: 446; Não: 20; Total: 466. | Maioria do partido: sim (11 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2284555-280](../../../../../votacoes/2284555-280/) |
-| 07 out 2025 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 14, de 2021. Sim: 426; Não: 10; Total: 436. | Maioria do partido: sim (11 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2284555-287](../../../../../votacoes/2284555-287/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">
 <a class="passo" href="../6/" rel="prev">← Anteriores</a>
-<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../5/">5</a><a href="../6/">6</a><b aria-current="page">7</b><a href="../8/">8</a><a href="../9/">9</a><span class="salto">…</span><a href="../27/">27</a></span>
+<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../5/">5</a><a href="../6/">6</a><b aria-current="page">7</b><a href="../8/">8</a><a href="../9/">9</a><span class="salto">…</span><a href="../28/">28</a></span>
 <a class="passo" href="../8/" rel="next">Próximas →</a>
 </nav>
 

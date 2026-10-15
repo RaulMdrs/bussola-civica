@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcel van Hattem — Alinhamento com o governo federal, Mérito (página 13)"
-description: "A decomposição completa do número de Marcel van Hattem: 404 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
+description: "A decomposição completa do número de Marcel van Hattem: 406 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcel van Hattem: 404 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>27,7%</b> é <b>112</b> coincidências em
-<b>404</b> votações computáveis — as outras 292 estão
+<p><b>27,8%</b> é <b>113</b> coincidências em
+<b>406</b> votações computáveis — as outras 293 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 28 ago 2024 | Mantido o texto. Sim: 305; não: 132; abstenção: 1; total: 438. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2178408-173](../../../../../votacoes/2178408-173/) |
+| 26 ago 2024 | Mantido o texto. Sim: 257; não: 150; abstenção: 1; total: 408. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2432975-44](../../../../../votacoes/2432975-44/) |
 | 14 ago 2024 | Aprovado o Projeto de Lei Complementar nº 57, de 2022. Sim: 423; não: 21; abstenção: 1; total: 445. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2320081-66](../../../../../votacoes/2320081-66/) |
 | 14 ago 2024 | Aprovada a Emenda da Comissão de Finanças e Tributação. Sim: 421; não: 12; total: 433. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2320081-68](../../../../../votacoes/2320081-68/) |
 | 14 ago 2024 | Aprovado o Projeto de Lei nº 397, de 2024, ressalvados os destaques. Sim: 318; não: 76; total: 394. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2448974-43](../../../../../votacoes/2448974-43/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 | 03 jul 2024 | Aprovada a Medida Provisória nº 1.210, de 2024. Sim: 336; total: 336. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422095-37](../../../../../votacoes/2422095-37/) |
 | 19 jun 2024 | Mantido o texto. Sim: 313; não: 116; total: 429. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2236291-85](../../../../../votacoes/2236291-85/) |
 | 11 jun 2024 | Aprovadas as Emendas do Senado Federal nºs 1 a 2; e 4 a 12 ao Projeto de Lei nº 914, de 2024. Sim: 380; não: 26; total: 406. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2422697-129](../../../../../votacoes/2422697-129/) |
-| 04 jun 2024 | Aprovado o Projeto de Lei Complementar nº 459, de 2017. Sim: 384; não: 59; abstenção: 1; total: 444. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2166464-128](../../../../../votacoes/2166464-128/) |
-| 04 jun 2024 | Rejeitadas as Emendas de Plenário. Sim: 2; não: 413; abstenção: 1; total: 416. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2166464-132](../../../../../votacoes/2166464-132/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

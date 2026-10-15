@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Covatti Filho — Alinhamento com o governo federal, Mérito (página 7)"
-description: "A decomposição completa do número de Covatti Filho: 354 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
+description: "A decomposição completa do número de Covatti Filho: 356 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Covatti Filho: 354 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>36,2%</b> é <b>128</b> coincidências em
-<b>354</b> votações computáveis — as outras 226 estão
+<p><b>36,2%</b> é <b>129</b> coincidências em
+<b>356</b> votações computáveis — as outras 227 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 08 jul 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 769, de 2024, adotado pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 209; Não: 165; Abstenção: 4; Total: 378. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2421211-88](../../../../../votacoes/2421211-88/) |
+| 26 jun 2025 | Mantido o texto. Sim: 226; Não: 109; Total: 335. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2381043-91](../../../../../votacoes/2381043-91/) |
 | 25 jun 2025 | Aprovado o Projeto de Resolução nº 27, de 2025. Sim: 272; Não: 117; Abstenção: 1; Total: 390. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2487358-48](../../../../../votacoes/2487358-48/) |
 | 25 jun 2025 | Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 214, de 2025, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 383; Não: 98; Total: 481. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2515648-44](../../../../../votacoes/2515648-44/) |
 | 29 mai 2025 | Aprovado o Projeto de Decreto Legislativo nº 609, de 2021. . Sim: 392; Não: 7; Total: 399. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2297512-70](../../../../../votacoes/2297512-70/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 | 07 mai 2025 | Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Sustação de Andamento de Ação Penal nº 1, de 2025, pela sustação do andamento da Ação Penal. . Sim: 315; Não: 143; Abstenção: 4; Total: 462. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2494565-52](../../../../../votacoes/2494565-52/) |
 | 05 mai 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 6.366, de 2019, adotada pela relatora da Comissão de Cultura, ressalvados os destaques. Sim: 233; Não: 125; Total: 358. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2233324-86](../../../../../votacoes/2233324-86/) |
 | 29 abr 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 3.469, de 2024, adotado pelo relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvados os destaques. Sim: 261; Não: 108; Total: 369. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2456731-71](../../../../../votacoes/2456731-71/) |
-| 29 abr 2025 | Mantido o texto. Sim: 275; Não: 121; Total: 396. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2456731-75](../../../../../votacoes/2456731-75/) |
-| 29 abr 2025 | Mantido o texto. Sim: 269; Não: 124; Total: 393. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2456731-79](../../../../../votacoes/2456731-79/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

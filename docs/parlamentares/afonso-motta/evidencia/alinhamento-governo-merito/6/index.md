@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Motta — Alinhamento com o governo federal, Mérito (página 6)"
-description: "A decomposição completa do número de Afonso Motta: 391 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
+description: "A decomposição completa do número de Afonso Motta: 393 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Afonso Motta: 391 votaçõ
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>85,7%</b> é <b>335</b> coincidências em
-<b>391</b> votações computáveis — as outras 56 estão
+<p><b>85,5%</b> é <b>336</b> coincidências em
+<b>393</b> votações computáveis — as outras 57 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 09 set 2025 | Aprovado o Projeto de Lei Complementar nº 92, de 2024. Sim: 425; Não: 1; Total: 426. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2481721-32](../../../../../votacoes/2481721-32/) |
+| 03 set 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 235, de 2019, adotada pelo relator da Comissão de Educação, ressalvados os destaques. Sim: 347; Não: 89; Total: 436. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2318217-77](../../../../../votacoes/2318217-77/) |
 | 03 set 2025 | Rejeitada a inclusão. Sim: 119; Não: 310; Abstenção: 1; Total: 430. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2318217-81](../../../../../votacoes/2318217-81/) |
 | 03 set 2025 | Mantido o texto. Sim: 311; Não: 35; Total: 346. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2318217-86](../../../../../votacoes/2318217-86/) |
 | 03 set 2025 | Mantido o texto. Sim: 313; Não: 119; Abstenção: 1; Total: 433. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2318217-90](../../../../../votacoes/2318217-90/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 | 07 ago 2025 | Rejeitada a Emenda n° 29. Sim: 30; Não: 394; Abstenção: 2; Total: 426. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2498090-44](../../../../../votacoes/2498090-44/) |
 | 07 ago 2025 | Rejeitada a Emenda nº 5. Sim: 16; Não: 399; Abstenção: 1; Total: 416. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2498090-47](../../../../../votacoes/2498090-47/) |
 | 16 jul 2025 | Aprovado o Substitutivo Reformulado ao Projeto de Lei nº 5.122, de 2023, adotado pelo relator da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, ressalvado o destaque. Sim: 346; Não: 93; Abstenção: 1; Total: 440. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2398530-73](../../../../../votacoes/2398530-73/) |
-| 16 jul 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 1.872, de 2025, adotado pela relatora da Comissão de Finanças e Tributação, ressalvado o destaque. . Sim: 264; Não: 169; Abstenção: 4; Total: 437. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2500330-43](../../../../../votacoes/2500330-43/) |
-| 16 jul 2025 | Aprovadas. Sim: 267; Não: 116; Total: 383. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [257161-454](../../../../../votacoes/257161-454/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

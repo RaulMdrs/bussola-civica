@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Lucas Redecker — Coesão com o próprio partido, Mérito (página 25)"
-description: "A decomposição completa do número de Lucas Redecker: 540 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 481ª à 500ª."
+description: "A decomposição completa do número de Lucas Redecker: 542 votações em 28 páginas, uma por linha, com link para a fonte. Esta traz da 481ª à 500ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,10 +11,10 @@ description: "A decomposição completa do número de Lucas Redecker: 540 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>64,3%</b> é <b>347</b> coincidências em
-<b>540</b> votações computáveis — as outras 193 estão
+<p><b>64,4%</b> é <b>349</b> coincidências em
+<b>542</b> votações computáveis — as outras 193 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
-repartida em <b>27 páginas</b> de até 20 votações,
+repartida em <b>28 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>481ª</b> à
 <b>500ª</b>.</p>
 </div>
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>481ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 05 set 2023 | Rejeitada a Emenda de Plenário nº 4. Sim: 148; não: 231; abstenção: 1; total: 380. | Maioria do partido: nao (1 sim / 8 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2336393-64](../../../../../votacoes/2336393-64/) |
+| 05 set 2023 | Rejeitada a Emenda de Plenário nº 8. Sim: 135; não: 261; total: 396. | Maioria do partido: sim (9 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2336393-67](../../../../../votacoes/2336393-67/) |
 | 30 ago 2023 | Aprovado o Substitutivo ao Projeto de Lei nº 334, de 2023, adotado pela Relatora da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 430; não: 17; total: 447. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2350586-63](../../../../../votacoes/2350586-63/) |
 | 30 ago 2023 | Rejeitada a Emenda de Plenário nº 8. Sim: 116; não: 325; total: 441. | Maioria do partido: nao (1 sim / 10 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2350586-73](../../../../../votacoes/2350586-73/) |
 | 23 ago 2023 | Aprovada a Medida Provisória nº 1.172, de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 439; não: 1; abstenção: 1; total: 441. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2359135-39](../../../../../votacoes/2359135-39/) |
@@ -43,13 +45,11 @@ da mais recente para a mais antiga. Esta traz da <b>481ª</b> à
 | 07 jul 2023 | Mantido o texto. Sim: 242; não: 175; total: 417. | Maioria do partido: nao (2 sim / 9 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2367064-68](../../../../../votacoes/2367064-68/) |
 | 07 jul 2023 | Mantido o texto. Sim: 251; não: 206; total: 457. | Maioria do partido: nao (1 sim / 10 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2367064-82](../../../../../votacoes/2367064-82/) |
 | 06 jul 2023 | Aprovado, em primeiro turno, o Substitutivo adotado pelo relator da Comissão Especial à Proposta de Emenda Constitucional nº 45, de 2019, ressalvados os destaques. Sim: 382; não: 118; abstenção: 3; total: 503. | Maioria do partido: sim (11 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-326](../../../../../votacoes/2196833-326/) |
-| 06 jul 2023 | Aprovada a Emenda Aglutinativa nº 1. Sim: 379; não: 114; abstenção: 1; total: 494. | Maioria do partido: sim (10 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-328](../../../../../votacoes/2196833-328/) |
-| 06 jul 2023 | Mantido o texto. Sim: 317; não: 170; total: 487. | Maioria do partido: sim (11 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-331](../../../../../votacoes/2196833-331/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">
 <a class="passo" href="../24/" rel="prev">← Anteriores</a>
-<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../23/">23</a><a href="../24/">24</a><b aria-current="page">25</b><a href="../26/">26</a><a href="../27/">27</a></span>
+<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../23/">23</a><a href="../24/">24</a><b aria-current="page">25</b><a href="../26/">26</a><a href="../27/">27</a><a href="../28/">28</a></span>
 <a class="passo" href="../26/" rel="next">Próximas →</a>
 </nav>
 

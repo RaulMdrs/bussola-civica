@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Franciane Bayer — Coesão com o próprio partido, Mérito (página 24)"
-description: "A decomposição completa do número de Franciane Bayer: 509 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 461ª à 480ª."
+description: "A decomposição completa do número de Franciane Bayer: 511 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 461ª à 480ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Franciane Bayer: 509 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>80,0%</b> é <b>407</b> coincidências em
-<b>509</b> votações computáveis — as outras 102 estão
+<p><b>80,0%</b> é <b>409</b> coincidências em
+<b>511</b> votações computáveis — as outras 102 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>461ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>461ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 13 set 2023 | Aprovada a Emenda de Plenário nº 34. Sim: 203; não: 164; total: 367. | Maioria do partido: sim (33 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2374400-58](../../../../../votacoes/2374400-58/) |
+| 13 set 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.438, de 2023, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 367; não: 86; abstenção: 1; total: 454. | Maioria do partido: sim (35 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387066-63](../../../../../votacoes/2387066-63/) |
 | 12 set 2023 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 16, de 2021. Sim: 464; não: 3; abstenção: 1; total: 468. | Maioria do partido: sim (34 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2288318-70](../../../../../votacoes/2288318-70/) |
 | 12 set 2023 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 16, de 2021. Sim: 453; não: 3; total: 456. | Maioria do partido: sim (32 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2288318-78](../../../../../votacoes/2288318-78/) |
 | 05 set 2023 | Mantido o texto. Sim: 349; não: 24; abstenção: 2; total: 375. | Maioria do partido: sim (29 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2336393-56](../../../../../votacoes/2336393-56/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>461ª</b> à
 | 09 ago 2023 | Rejeitada a Emenda de Plenário nº 3. Sim: 117; não: 264; abstenção: 1; total: 382. | Maioria do partido: nao (4 sim / 23 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [1197773-99](../../../../../votacoes/1197773-99/) |
 | 08 ago 2023 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 143, de 2019, da Comissão de Finanças e Tributação. Sim: 347; não: 18; abstenção: 1; total: 366. | Maioria do partido: sim (30 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2205254-76](../../../../../votacoes/2205254-76/) |
 | 13 jun 2023 | Aprovado o Projeto de Lei nº 2.250, de 2023. Sim: 318; não: 31; total: 349. | Maioria do partido: sim (26 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2358922-21](../../../../../votacoes/2358922-21/) |
-| 31 mai 2023 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião pelo atendimento dos pressupostos constitucionais de relevância e urgência e pela inadequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 319; não: 111; abstenção: 1; total: 431. | Maioria do partido: sim (31 sim / 4 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2345493-38](../../../../../votacoes/2345493-38/) |
-| 31 mai 2023 | Aprovada a Medida Provisória nº 1.154 de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 337; não: 125; abstenção: 1; total: 463. | Maioria do partido: sim (30 sim / 6 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2345493-41](../../../../../votacoes/2345493-41/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

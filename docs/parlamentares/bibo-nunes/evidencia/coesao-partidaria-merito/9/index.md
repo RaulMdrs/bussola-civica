@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Bibo Nunes — Coesão com o próprio partido, Mérito (página 9)"
-description: "A decomposição completa do número de Bibo Nunes: 521 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
+description: "A decomposição completa do número de Bibo Nunes: 523 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Bibo Nunes: 521 votações
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>95,0%</b> é <b>495</b> coincidências em
-<b>521</b> votações computáveis — as outras 26 estão
+<p><b>95,0%</b> é <b>497</b> coincidências em
+<b>523</b> votações computáveis — as outras 26 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>27 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 03 set 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 128, de 2022, adotada pelo relator da Comissão de Segurança Pública e Combate ao Crime Organizado. Sim: 369; Não: 4; Total: 373. | Maioria do partido: sim (63 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2335185-89](../../../../../votacoes/2335185-89/) |
+| 03 set 2025 | Mantido o texto. Sim: 259; Não: 126; Total: 385. | Maioria do partido: sim (68 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430953-270](../../../../../votacoes/2430953-270/) |
 | 03 set 2025 | Mantido o texto. Sim: 266; Não: 86; Total: 352. | Maioria do partido: sim (64 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430953-277](../../../../../votacoes/2430953-277/) |
 | 03 set 2025 | Rejeitada a Emenda de Plenário nº 14. Sim: 108; Não: 241; Abstenção: 1; Total: 350. | Maioria do partido: nao (5 sim / 59 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2430953-280](../../../../../votacoes/2430953-280/) |
 | 27 ago 2025 | Rejeitada a preferência. Sim: 129; Não: 262; Total: 391. | Maioria do partido: sim (68 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2432423-87](../../../../../votacoes/2432423-87/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 | 16 jul 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 1.872, de 2025, adotado pela relatora da Comissão de Finanças e Tributação, ressalvado o destaque. . Sim: 264; Não: 169; Abstenção: 4; Total: 437. | Maioria do partido: nao (7 sim / 70 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2500330-43](../../../../../votacoes/2500330-43/) |
 | 16 jul 2025 | Aprovadas. Sim: 267; Não: 116; Total: 383. | Maioria do partido: sim (72 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [257161-454](../../../../../votacoes/257161-454/) |
 | 16 jul 2025 | Aprovada a Emenda do Senado Federal nº 1. Sim: 242; Não: 117; Total: 359. | Maioria do partido: sim (67 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [257161-462](../../../../../votacoes/257161-462/) |
-| 16 jul 2025 | Aprovada a Emenda do Senado Federal nº 3. Sim: 232; Não: 104; Total: 336. | Maioria do partido: sim (63 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [257161-465](../../../../../votacoes/257161-465/) |
-| 16 jul 2025 | Aprovada a Emenda do Senado Federal nº 4. Sim: 234; Não: 101; Total: 335. | Maioria do partido: sim (59 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [257161-467](../../../../../votacoes/257161-467/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

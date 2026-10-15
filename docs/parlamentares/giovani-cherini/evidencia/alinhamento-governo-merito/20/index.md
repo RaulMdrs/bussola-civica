@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Giovani Cherini — Alinhamento com o governo federal, Mérito (página 20)"
-description: "A decomposição completa do número de Giovani Cherini: 385 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 385ª."
+description: "A decomposição completa do número de Giovani Cherini: 387 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 387ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Giovani Cherini: 385 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>33,8%</b> é <b>130</b> coincidências em
-<b>385</b> votações computáveis — as outras 255 estão
+<p><b>33,9%</b> é <b>131</b> coincidências em
+<b>387</b> votações computáveis — as outras 256 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
-<b>385ª</b>.</p>
+<b>387ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 03 mai 2023 | Aprovado o Substitutivo ao Projeto de Decreto Legislativo nº 98, de 2023, adotado pelo relator da Comissão de Desenvolvimento Urbano. Sim: 295; não: 136; abstenção: 1; total: 432. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2355135-49](../../../../../votacoes/2355135-49/) |
+| 25 abr 2023 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 139, de 2022, adotado pelo Relator da Comissão de Finanças e Tributação. Sim: 360; não: 3; total: 363. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2337246-43](../../../../../votacoes/2337246-43/) |
 | 25 abr 2023 | Mantido o texto. Sim: 289; não: 108; total: 397. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2344938-48](../../../../../votacoes/2344938-48/) |
 | 25 abr 2023 | Rejeitada a Emenda de Comissão nº 9. Sim: 132; não: 242; total: 374. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2344938-71](../../../../../votacoes/2344938-71/) |
 | 30 mar 2023 | Aprovada a Emenda de Plenário nº 4. Sim: 150; não: 122; total: 272. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2345368-50](../../../../../votacoes/2345368-50/) |

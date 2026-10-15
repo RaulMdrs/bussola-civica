@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Motta — Coesão com o próprio partido, Procedimental (página 23)"
-description: "A decomposição completa do número de Afonso Motta: 467 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 441ª à 460ª."
+description: "A decomposição completa do número de Afonso Motta: 468 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 441ª à 460ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Afonso Motta: 467 votaçõ
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>94,9%</b> é <b>443</b> coincidências em
-<b>467</b> votações computáveis — as outras 24 estão
+<p><b>94,9%</b> é <b>444</b> coincidências em
+<b>468</b> votações computáveis — as outras 24 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>24 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>441ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>441ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 14 jun 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 318; não: 118; abstenção: 2; total: 438. | Maioria do partido: sim (13 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2367595-12](../../../../../votacoes/2367595-12/) |
 | 31 mai 2023 | Rejeitado o Requerimento. Sim: 130; não: 337; abstenção: 1; total: 468. | Maioria do partido: nao (0 sim / 17 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2345493-31](../../../../../votacoes/2345493-31/) |
 | 31 mai 2023 | Aprovado o Requerimento. Sim: 324; não: 114; abstenção: 1; total: 439. | Maioria do partido: sim (16 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345493-35](../../../../../votacoes/2345493-35/) |
 | 24 mai 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 324; não: 131; abstenção: 1; total: 456. | Maioria do partido: nao (4 sim / 12 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2362190-9](../../../../../votacoes/2362190-9/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>441ª</b> à
 | 03 mai 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 322; não: 136; abstenção: 2; total: 460. | Maioria do partido: nao (4 sim / 12 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2357871-9](../../../../../votacoes/2357871-9/) |
 | 26 abr 2023 | Aprovado o Requerimento. Sim: 204; não: 202; abstenção: 1; total: 407. | Maioria do partido: nao (2 sim / 11 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2345484-39](../../../../../votacoes/2345484-39/) |
 | 25 abr 2023 | Aprovado o Requerimento de Urgência (Art. 154 do RICD). Sim: 238; não: 192; total: 430. | Maioria do partido: sim (12 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2310837-8](../../../../../votacoes/2310837-8/) |
-| 11 abr 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 296; não: 107; total: 403. | Maioria do partido: sim (12 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2326749-8](../../../../../votacoes/2326749-8/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

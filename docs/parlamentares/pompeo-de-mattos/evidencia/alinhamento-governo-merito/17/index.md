@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Pompeo de Mattos — Alinhamento com o governo federal, Mérito (página 17)"
-description: "A decomposição completa do número de Pompeo de Mattos: 375 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
+description: "A decomposição completa do número de Pompeo de Mattos: 377 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Pompeo de Mattos: 375 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>84,5%</b> é <b>317</b> coincidências em
-<b>375</b> votações computáveis — as outras 58 estão
+<p><b>84,6%</b> é <b>319</b> coincidências em
+<b>377</b> votações computáveis — as outras 58 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 03 out 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 5.497, de 2019, adotada pela relatora da Comissão de Cultura, ressalvados os destaques. Sim: 312; não: 25; abstenção: 8; total: 345. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2224999-96](../../../../../votacoes/2224999-96/) |
+| 03 out 2023 | Rejeitada a Emenda nº 33 do Senado Federal. Sim: 159; não: 251; abstenção: 6; total: 416. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2309053-179](../../../../../votacoes/2309053-179/) |
 | 27 set 2023 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 275; não: 2; abstenção: 4; total: 281. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2367600-45](../../../../../votacoes/2367600-45/) |
 | 27 set 2023 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em que manifesta opinião pelo não atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 259; não: 1; abstenção: 3; total: 263. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2367600-47](../../../../../votacoes/2367600-47/) |
 | 27 set 2023 | Aprovada a Medida Provisória nº 1.177, de 2023. Sim: 270; não: 1; abstenção: 1; total: 272. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2367600-49](../../../../../votacoes/2367600-49/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 | 07 jul 2023 | Mantido o texto. Sim: 349; não: 84; abstenção: 2; total: 435. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-390](../../../../../votacoes/2196833-390/) |
 | 07 jul 2023 | Mantido o texto. Sim: 370; não: 28; abstenção: 3; total: 401. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-392](../../../../../votacoes/2196833-392/) |
 | 07 jul 2023 | Suprimido o texto. Sim: 307; não: 166; abstenção: 5; total: 478. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-395](../../../../../votacoes/2196833-395/) |
-| 07 jul 2023 | Mantido o texto. Sim: 327; não: 96; abstenção: 1; total: 424. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2367064-66](../../../../../votacoes/2367064-66/) |
-| 07 jul 2023 | Mantido o texto. Sim: 251; não: 206; total: 457. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2367064-82](../../../../../votacoes/2367064-82/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

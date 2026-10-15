@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Giovani Cherini — Coesão com o próprio partido, Mérito (página 15)"
-description: "A decomposição completa do número de Giovani Cherini: 488 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
+description: "A decomposição completa do número de Giovani Cherini: 490 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Giovani Cherini: 488 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>93,4%</b> é <b>456</b> coincidências em
-<b>488</b> votações computáveis — as outras 32 estão
+<p><b>93,5%</b> é <b>458</b> coincidências em
+<b>490</b> votações computáveis — as outras 32 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 30 out 2024 | Rejeitada a Emenda de Plenário n° 9. Sim: 135; Não: 229; Total: 364. | Maioria do partido: sim (63 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2456554-54](../../../../../votacoes/2456554-54/) |
+| 30 out 2024 | Aprovada a Emenda de Plenario n° 10. Sim: 227; Não: 198; Abstenção: 2; Total: 427. | Maioria do partido: sim (74 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2456554-57](../../../../../votacoes/2456554-57/) |
 | 16 out 2024 | Rejeitada a Emenda de Plenário nº 1. Sim: 149; Não: 204; Total: 353. | Maioria do partido: nao (4 sim / 66 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [565397-185](../../../../../votacoes/565397-185/) |
 | 11 set 2024 | Rejeitada a Emenda de Plenário nº 18. Sim: 133; Não: 204; Total: 337. | Maioria do partido: sim (59 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454704-58](../../../../../votacoes/2454704-58/) |
 | 11 set 2024 | Mantido o texto. Sim: 206; Não: 70; Total: 276. | Maioria do partido: sim (5 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2454704-64](../../../../../votacoes/2454704-64/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 | 14 ago 2024 | Mantido o texto. Sim: 292; não: 89; total: 381. | Maioria do partido: sim (73 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2448974-56](../../../../../votacoes/2448974-56/) |
 | 13 ago 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 108, de 2024, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 303; não: 142; total: 445. | Maioria do partido: nao (5 sim / 77 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438459-55](../../../../../votacoes/2438459-55/) |
 | 11 jul 2024 | Aprovado, em primeiro turno, o Substitutivo adotado pelo Relator da Comissão Especial à Proposta de Emenda à Constituição nº 9, de 2023, ressalvado o destaque. Sim: 344; não: 89; abstenção: 4; total: 437. | Maioria do partido: sim (46 sim / 30 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2352476-149](../../../../../votacoes/2352476-149/) |
-| 11 jul 2024 | Mantido o texto. Sim: 404; não: 23; abstenção: 1; total: 428. | Maioria do partido: sim (74 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2352476-155](../../../../../votacoes/2352476-155/) |
-| 11 jul 2024 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 9, de 2023, ressalvado o destaque. Sim: 338; não: 83; abstenção: 4; Total: 425. | Maioria do partido: sim (46 sim / 29 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2352476-168](../../../../../votacoes/2352476-168/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

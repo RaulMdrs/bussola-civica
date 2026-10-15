@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Hamm — Coesão com o próprio partido, Mérito (página 4)"
-description: "A decomposição completa do número de Afonso Hamm: 450 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
+description: "A decomposição completa do número de Afonso Hamm: 451 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Afonso Hamm: 450 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>70,2%</b> é <b>316</b> coincidências em
-<b>450</b> votações computáveis — as outras 134 estão
+<p><b>70,3%</b> é <b>317</b> coincidências em
+<b>451</b> votações computáveis — as outras 134 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 09 dez 2025 | Mantido o texto. Sim: 229; Não: 26; Abstenção: 3; Total: 258. | Maioria do partido: sim (24 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2358548-93](../../../../../votacoes/2358548-93/) |
 | 09 dez 2025 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 4.497, de 2024, ressalvados os destaques. Sim: 310; Não: 115; Total: 425. | Maioria do partido: sim (37 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2471177-102](../../../../../votacoes/2471177-102/) |
 | 09 dez 2025 | Mantido o texto. Sim: 283; Não: 116; Total: 399. | Maioria do partido: sim (40 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2471177-105](../../../../../votacoes/2471177-105/) |
 | 09 dez 2025 | Mantido o texto. Sim: 302; Não: 124; Total: 426. | Maioria do partido: sim (40 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2471177-108](../../../../../votacoes/2471177-108/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 | 18 nov 2025 | Rejeitada a Preferência. Sim: 156; Não: 306; Total: 462. | Maioria do partido: nao (2 sim / 43 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2579832-61](../../../../../votacoes/2579832-61/) |
 | 18 nov 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 5.582, de 2025, adotado pelo relator da Comissão de Segurança Pública e Combate ao Crime Organizado, ressalvados os destaques. Sim: 370; Não: 110; Abstenção: 3; Total: 483. | Maioria do partido: sim (46 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2579832-62](../../../../../votacoes/2579832-62/) |
 | 18 nov 2025 | Rejeitada a preferência. Sim: 107; Não: 298; Abstenção: 2; Total: 407. | Maioria do partido: nao (1 sim / 41 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2579832-99](../../../../../votacoes/2579832-99/) |
-| 12 nov 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 18, de 2021, adotada pelo relator da Comissão de Saúde, ressalvado o destaque. Sim: 348; Não: 100; Abstenção: 1; Total: 449. | Maioria do partido: sim (38 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2270325-88](../../../../../votacoes/2270325-88/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

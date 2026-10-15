@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Sanderson — Alinhamento com o governo federal, Mérito (página 3)"
-description: "A decomposição completa do número de Sanderson: 391 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
+description: "A decomposição completa do número de Sanderson: 393 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Sanderson: 391 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>29,7%</b> é <b>116</b> coincidências em
-<b>391</b> votações computáveis — as outras 275 estão
+<p><b>29,8%</b> é <b>117</b> coincidências em
+<b>393</b> votações computáveis — as outras 276 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 09 fev 2026 | Aprovada a Medida Provisória nº 1.317, de 2025, na forma do Projeto de Lei de Conversão. Sim: 271; Não: 127; Total: 398. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2562173-30](../../../../../votacoes/2562173-30/) |
+| 02 fev 2026 | Aprovada a Medida Provisória nº 1.313 de 2025, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 415; Não: 29; Abstenção: 2; Total: 446. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2557414-32](../../../../../votacoes/2557414-32/) |
 | 02 fev 2026 | Mantido o texto. Sim: 401; Não: 34; Total: 435. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2557414-41](../../../../../votacoes/2557414-41/) |
 | 16 dez 2025 | Suprimido o texto. Sim: 63; Não: 373; Abstenção: 1; Total: 437. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2438459-135](../../../../../votacoes/2438459-135/) |
 | 16 dez 2025 | Mantido o texto. Sim: 441; Não: 3; Total: 444. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-139](../../../../../votacoes/2438459-139/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 | 09 dez 2025 | Mantido o texto. Sim: 283; Não: 116; Total: 399. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2471177-105](../../../../../votacoes/2471177-105/) |
 | 09 dez 2025 | Mantido o texto. Sim: 302; Não: 124; Total: 426. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2471177-108](../../../../../votacoes/2471177-108/) |
 | 09 dez 2025 | Mantido o texto. Sim: 298; Não: 117; Total: 415. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2471177-111](../../../../../votacoes/2471177-111/) |
-| 09 dez 2025 | Mantido o texto. Sim: 298; Não: 112; Total: 410. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2471177-117](../../../../../votacoes/2471177-117/) |
-| 09 dez 2025 | Aprovado o Projeto de Lei Complementar nº 125, de 2022. Sim: 436; Não: 2; Total: 438. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2559194-42](../../../../../votacoes/2559194-42/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

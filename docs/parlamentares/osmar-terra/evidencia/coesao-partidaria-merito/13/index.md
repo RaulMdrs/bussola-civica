@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Osmar Terra — Coesão com o próprio partido, Mérito (página 13)"
-description: "A decomposição completa do número de Osmar Terra: 447 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
+description: "A decomposição completa do número de Osmar Terra: 449 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Osmar Terra: 447 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>63,8%</b> é <b>285</b> coincidências em
-<b>447</b> votações computáveis — as outras 162 estão
+<p><b>63,9%</b> é <b>287</b> coincidências em
+<b>449</b> votações computáveis — as outras 162 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 19 dez 2024 | Mantido o texto. Sim: 277; Não: 174; Abstenção: 1; Total: 452. | Maioria do partido: sim (34 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2473375-78](../../../../../votacoes/2473375-78/) |
+| 19 dez 2024 | Aprovada, em primeiro turno, a Emenda Aglutinativa Substitutiva à Proposta de Emenda à Constituição nº 31, de 2007. Sim: 344; Não: 154; Abstenção: 2; Total: 500. | Maioria do partido: sim (36 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [347421-200](../../../../../votacoes/347421-200/) |
 | 19 dez 2024 | Suprimido o texto. Sim: 4; Não: 360; Total: 364. | Maioria do partido: nao (0 sim / 30 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [347421-202](../../../../../votacoes/347421-202/) |
 | 19 dez 2024 | Mantido o texto. Sim: 349; Não: 143; Abstenção: 1; Total: 493. | Maioria do partido: sim (40 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [347421-205](../../../../../votacoes/347421-205/) |
 | 19 dez 2024 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 31, de 2007, ressalvado o destaque. Sim: 348; Não: 146; Total: 494. | Maioria do partido: sim (35 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [347421-221](../../../../../votacoes/347421-221/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 | 10 dez 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 121, de 2024, adotada pelo relator da Comissão de Finanças e Tributação, ressalvado o destaque. Sim: 413; Não: 4; Total: 417. | Maioria do partido: sim (28 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454400-42](../../../../../votacoes/2454400-42/) |
 | 10 dez 2024 | Rejeitada a Emenda de Plenário n° 20. Sim: 110; Não: 307; Total: 417. | Maioria do partido: nao (2 sim / 23 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2454400-46](../../../../../votacoes/2454400-46/) |
 | 04 dez 2024 | Rejeitadas as Emendas do Senado Federal ao Projeto de Lei nº 996, de 2015, ressalvados os destaques. Sim: 23; Não: 404; Abstenção: 1; Total: 428. | Maioria do partido: nao (1 sim / 30 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [1197773-140](../../../../../votacoes/1197773-140/) |
-| 03 dez 2024 | Aprovado o Projeto de Decreto Legislativo nº 361, de 2024. Sim: 296; Não: 108; Total: 404. | Maioria do partido: sim (24 sim / 6 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2462730-34](../../../../../votacoes/2462730-34/) |
-| 27 nov 2024 | Aprovada a Emenda de Plenário nº 1. Sim: 266; Não: 78; Abstenção: 4; Total: 348. | Maioria do partido: sim (20 sim / 6 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [480184-129](../../../../../votacoes/480184-129/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

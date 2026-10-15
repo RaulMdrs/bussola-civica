@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Carlos Gomes — Coesão com o próprio partido, Mérito (página 4)"
-description: "A decomposição completa do número de Carlos Gomes: 126 votações em 7 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
+description: "A decomposição completa do número de Carlos Gomes: 128 votações em 7 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Carlos Gomes: 126 votaçõ
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,6%</b> é <b>123</b> coincidências em
-<b>126</b> votações computáveis — as outras 3 estão
+<p><b>97,7%</b> é <b>125</b> coincidências em
+<b>128</b> votações computáveis — as outras 3 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>7 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 21 nov 2023 | Aprovado o Substitutivo ao Projeto de Lei nº 5.228, de 2019, apensado, adotado pela relatora da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família, ressalvados os destaques. Sim: 286; não: 91; total: 377. | Maioria do partido: sim (33 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [575585-92](../../../../../votacoes/575585-92/) |
+| 21 nov 2023 | Mantido o texto. Sim: 312; não: 104; total: 416. | Maioria do partido: sim (35 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [575585-99](../../../../../votacoes/575585-99/) |
 | 07 nov 2023 | Aprovada a Emenda de Plenário n° 3. Sim: 311; Não: 107; total: 418. | Maioria do partido: sim (33 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2344909-65](../../../../../votacoes/2344909-65/) |
 | 07 nov 2023 | Aprovado o Projeto de Lei nº 5.086, de 2023. Sim: 372; não: 26; abstenção: 1; total: 399. | Maioria do partido: sim (32 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2397925-25](../../../../../votacoes/2397925-25/) |
 | 06 nov 2023 | Mantido o texto. Sim: 284 ; não: 106; total: .390. | Maioria do partido: sim (30 sim / 5 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345281-63](../../../../../votacoes/2345281-63/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 | 05 set 2023 | Rejeitada a Emenda de Plenário nº 1. Sim: 101; não: 301; total: 402. | Maioria do partido: nao (2 sim / 30 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2336393-59](../../../../../votacoes/2336393-59/) |
 | 05 set 2023 | Rejeitada a Emenda de Plenário nº 2. Sim: 51; não: 347; abstenção: 1; total: 399. | Maioria do partido: sim (30 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2336393-61](../../../../../votacoes/2336393-61/) |
 | 05 set 2023 | Rejeitada a Emenda de Plenário nº 8. Sim: 135; não: 261; total: 396. | Maioria do partido: nao (4 sim / 28 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2336393-67](../../../../../votacoes/2336393-67/) |
-| 23 ago 2023 | Aprovada a Medida Provisória nº 1.172, de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 439; não: 1; abstenção: 1; total: 441. | Maioria do partido: sim (37 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2359135-39](../../../../../votacoes/2359135-39/) |
-| 22 ago 2023 | Aprovadas as Emendas do Senado Federal ao Projeto de Lei Complementar nº 93-B, de 2023, nºs 4, 10 e 14, ressalvados os destaques. Sim: 379; não: 64; total: 443. | Maioria do partido: sim (33 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357053-108](../../../../../votacoes/2357053-108/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

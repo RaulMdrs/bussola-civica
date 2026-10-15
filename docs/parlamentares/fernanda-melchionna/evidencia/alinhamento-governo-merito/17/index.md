@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Fernanda Melchionna — Alinhamento com o governo federal, Mérito (página 17)"
-description: "A decomposição completa do número de Fernanda Melchionna: 360 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
+description: "A decomposição completa do número de Fernanda Melchionna: 362 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,10 +11,10 @@ description: "A decomposição completa do número de Fernanda Melchionna: 360 v
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>83,1%</b> é <b>299</b> coincidências em
-<b>360</b> votações computáveis — as outras 61 estão
+<p><b>83,1%</b> é <b>301</b> coincidências em
+<b>362</b> votações computáveis — as outras 61 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
-repartida em <b>18 páginas</b> de até 20 votações,
+repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 <b>340ª</b>.</p>
 </div>
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 07 jul 2023 | Mantido o texto. Sim: 327; não: 96; abstenção: 1; total: 424. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2367064-66](../../../../../votacoes/2367064-66/) |
+| 07 jul 2023 | Mantido o texto. Sim: 251; não: 206; total: 457. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2367064-82](../../../../../votacoes/2367064-82/) |
 | 06 jul 2023 | Aprovada a Emenda Aglutinativa nº 1. Sim: 379; não: 114; abstenção: 1; total: 494. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-328](../../../../../votacoes/2196833-328/) |
 | 06 jul 2023 | Mantido o texto. Sim: 317; não: 170; total: 487. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-331](../../../../../votacoes/2196833-331/) |
 | 06 jul 2023 | Mantido o texto. Sim: 390; não: 108; abstenção: 1; total: 499. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-349](../../../../../votacoes/2196833-349/) |
@@ -43,13 +45,11 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 | 31 mai 2023 | Rejeitada a Emenda de Comissão nº 14. Sim: 182; não: ; 243; abstenção: 2; total: 427. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2345493-50](../../../../../votacoes/2345493-50/) |
 | 30 mai 2023 | Rejeitada a Emenda de Comissão nº 98. Sim: 159; não: 270; total: 429. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2349947-42](../../../../../votacoes/2349947-42/) |
 | 30 mai 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 490, de 2007, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 283; não: 155; abstenção: 1; total: 439. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [345311-270](../../../../../votacoes/345311-270/) |
-| 30 mai 2023 | Mantido o texto. Sim: 288; não: 148; abstenção: 2; total: 438. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [345311-276](../../../../../votacoes/345311-276/) |
-| 30 mai 2023 | Mantido o texto. Sim: 290; não: 142; abstenção: 1; total: 433. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [345311-279](../../../../../votacoes/345311-279/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">
 <a class="passo" href="../16/" rel="prev">← Anteriores</a>
-<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../15/">15</a><a href="../16/">16</a><b aria-current="page">17</b><a href="../18/">18</a></span>
+<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../15/">15</a><a href="../16/">16</a><b aria-current="page">17</b><a href="../18/">18</a><a href="../19/">19</a></span>
 <a class="passo" href="../18/" rel="next">Próximas →</a>
 </nav>
 

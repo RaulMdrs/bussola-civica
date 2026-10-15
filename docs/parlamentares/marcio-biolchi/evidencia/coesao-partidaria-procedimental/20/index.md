@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Márcio Biolchi — Coesão com o próprio partido, Procedimental (página 20)"
-description: "A decomposição completa do número de Márcio Biolchi: 391 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 391ª."
+description: "A decomposição completa do número de Márcio Biolchi: 392 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 392ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Márcio Biolchi: 391 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>91,6%</b> é <b>358</b> coincidências em
-<b>391</b> votações computáveis — as outras 33 estão
+<p><b>91,6%</b> é <b>359</b> coincidências em
+<b>392</b> votações computáveis — as outras 33 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
-<b>391ª</b>.</p>
+<b>392ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 10 mai 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; não: 43; abstenção: 1; total: 374. | Maioria do partido: sim (26 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2354502-8](../../../../../votacoes/2354502-8/) |
 | 09 mai 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 348; não: 48; abstenção: 2; total: 398. | Maioria do partido: sim (25 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357639-9](../../../../../votacoes/2357639-9/) |
 | 09 mai 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 346; não: 53; abstenção: 3; total: 402. | Maioria do partido: sim (28 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2358527-8](../../../../../votacoes/2358527-8/) |
 | 03 mai 2023 | Rejeitado o Requerimento. Sim: 114; não: 265; abstenção: 2; total: 381. | Maioria do partido: nao (0 sim / 26 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2355135-39](../../../../../votacoes/2355135-39/) |

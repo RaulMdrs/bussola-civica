@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daiana Santos — Alinhamento com o governo federal, Procedimental (página 5)"
-description: "A decomposição completa do número de Daiana Santos: 335 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
+description: "A decomposição completa do número de Daiana Santos: 336 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Daiana Santos: 335 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,6%</b> é <b>327</b> coincidências em
-<b>335</b> votações computáveis — as outras 8 estão
+<p><b>97,6%</b> é <b>328</b> coincidências em
+<b>336</b> votações computáveis — as outras 8 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>17 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 08 out 2025 | Aprovado o Requerimento. Sim: 251; Não: 193; Total: 444. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2525180-26](../../../../../votacoes/2525180-26/) |
 | 25 set 2025 | Rejeitado o Requerimento. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2483447-18](../../../../../votacoes/2483447-18/) |
 | 24 set 2025 | Rejeitado o Requerimento. Sim: 84; Não: 325; Abstenção: 1; Total: 410. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2519886-26](../../../../../votacoes/2519886-26/) |
 | 24 set 2025 | Rejeitado o Requerimento. Sim: 156; Não: 280; Total: 436. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2541109-27](../../../../../votacoes/2541109-27/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 | 19 ago 2025 | Rejeitado o Requerimento. Sim: 117; Não: 277; Total: 394. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2535455-16](../../../../../votacoes/2535455-16/) |
 | 19 ago 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 266; Não: 114; Abstenção: 1; Total: 381. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2549432-7](../../../../../votacoes/2549432-7/) |
 | 13 ago 2025 | Rejeitado o Requerimento. Sim: 119; Não: 295; Total: 414. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2370495-47](../../../../../votacoes/2370495-47/) |
-| 13 ago 2025 | Rejeitado o Requerimento. Sim: 110; Não: 294; Total: 404. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2370495-50](../../../../../votacoes/2370495-50/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

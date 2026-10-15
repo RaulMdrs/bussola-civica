@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Bohn Gass — Alinhamento com o governo federal, Mérito (página 18)"
-description: "A decomposição completa do número de Bohn Gass: 410 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
+description: "A decomposição completa do número de Bohn Gass: 412 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Bohn Gass: 410 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,3%</b> é <b>399</b> coincidências em
-<b>410</b> votações computáveis — as outras 11 estão
+<p><b>97,3%</b> é <b>401</b> coincidências em
+<b>412</b> votações computáveis — as outras 11 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 25 out 2023 | Rejeitada a Emenda de Plenário nº 19. Sim: 116; não: 318; total: 434. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2383287-53](../../../../../votacoes/2383287-53/) |
+| 25 out 2023 | Rejeitada a Emenda de Plenário nº 8. Sim: 127; não: 302; total: 429. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2383287-61](../../../../../votacoes/2383287-61/) |
 | 04 out 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.245, de 2023, adotada pelo Relator da Comissão de Educação, ressalvados os destaques. Sim: 309; não: 28; abstenção: 3; total: 340. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2358915-67](../../../../../votacoes/2358915-67/) |
 | 03 out 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 5.497, de 2019, adotada pela relatora da Comissão de Cultura, ressalvados os destaques. Sim: 312; não: 25; abstenção: 8; total: 345. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2224999-96](../../../../../votacoes/2224999-96/) |
 | 03 out 2023 | Aprovadas as Emendas do Senado Federal de nºs 1, 2, 3, 5, 6, 7, 8, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 26, 27, 30, 31, 32, 33, 34, 36, 37, 39, 40, 41, 42 (exceto o § 7º do art. 37 da Lei nº 9.492, de 1997), 43, 44, 45, 46, 49 e 50 ao Projeto de Lei nº 4.188, de 2021. Sim: 305; não: 11; abstenção: 5; total: 321. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2309053-174](../../../../../votacoes/2309053-174/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 | 05 set 2023 | Rejeitada a Emenda de Plenário nº 2. Sim: 51; não: 347; abstenção: 1; total: 399. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2336393-61](../../../../../votacoes/2336393-61/) |
 | 05 set 2023 | Rejeitada a Emenda de Plenário nº 4. Sim: 148; não: 231; abstenção: 1; total: 380. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2336393-64](../../../../../votacoes/2336393-64/) |
 | 05 set 2023 | Rejeitada a Emenda de Plenário nº 8. Sim: 135; não: 261; total: 396. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2336393-67](../../../../../votacoes/2336393-67/) |
-| 30 ago 2023 | Aprovado o Substitutivo ao Projeto de Lei nº 334, de 2023, adotado pela Relatora da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 430; não: 17; total: 447. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2350586-63](../../../../../votacoes/2350586-63/) |
-| 23 ago 2023 | Aprovada a Medida Provisória nº 1.172, de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 439; não: 1; abstenção: 1; total: 441. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2359135-39](../../../../../votacoes/2359135-39/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

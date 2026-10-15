@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Hamm — Coesão com o próprio partido, Mérito (página 6)"
-description: "A decomposição completa do número de Afonso Hamm: 450 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
+description: "A decomposição completa do número de Afonso Hamm: 451 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Afonso Hamm: 450 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>70,2%</b> é <b>316</b> coincidências em
-<b>450</b> votações computáveis — as outras 134 estão
+<p><b>70,3%</b> é <b>317</b> coincidências em
+<b>451</b> votações computáveis — as outras 134 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 out 2025 | Mantido o texto. Sim: 269; Não: 152; Total: 421. | Maioria do partido: sim (28 sim / 8 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2279186-97](../../../../../votacoes/2279186-97/) |
 | 29 out 2025 | Aprovada a Emenda de Plenário nº 5. Sim: 223; Não: 174; Total: 397. | Maioria do partido: nao (9 sim / 26 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2279186-99](../../../../../votacoes/2279186-99/) |
 | 29 out 2025 | Rejeitada a preferência. Sim: 162; Não: 234; Total: 396. | Maioria do partido: nao (9 sim / 24 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [545304-132](../../../../../votacoes/545304-132/) |
 | 29 out 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 3.899, de 2012, adotado pelo relator da Comissão Especial, ressalvados os destaques. Sim: 275; Não: 133; Abstenção: 1; Total: 409. | Maioria do partido: sim (28 sim / 9 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [545304-134](../../../../../votacoes/545304-134/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 | 25 set 2025 | Aprovado o Projeto de Lei nº 358, de 2025. . | Maioria do partido: sim (30 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2483447-25](../../../../../votacoes/2483447-25/) |
 | 24 set 2025 | Aprovada a Medida Provisória, na forma da Emenda Aglutinativa nº 1, ressalvados os destaques. Sim: 403; Não: 6; Total: 409. | Maioria do partido: sim (33 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2519886-34](../../../../../votacoes/2519886-34/) |
 | 24 set 2025 | Rejeitada a Emenda de Comissão nº 45. Sim: 132; Não: 275; Abstenção: 1; Total: 408. | Maioria do partido: nao (8 sim / 26 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2519886-53](../../../../../votacoes/2519886-53/) |
-| 24 set 2025 | Aprovado o Projeto de Lei Complementar nº 163, de 2025, ressalvados os destaques. Sim: 296; Não: 145; Abstenção: 2; Total: 443. | Maioria do partido: sim (25 sim / 16 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2541109-38](../../../../../votacoes/2541109-38/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

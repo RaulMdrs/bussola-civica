@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Zucco — Alinhamento com o governo federal, Mérito (página 7)"
-description: "A decomposição completa do número de Zucco: 432 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
+description: "A decomposição completa do número de Zucco: 434 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Zucco: 432 votações em 2
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>31,5%</b> é <b>136</b> coincidências em
-<b>432</b> votações computáveis — as outras 296 estão
+<p><b>31,6%</b> é <b>137</b> coincidências em
+<b>434</b> votações computáveis — as outras 297 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 03 set 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 128, de 2022, adotada pelo relator da Comissão de Segurança Pública e Combate ao Crime Organizado. Sim: 369; Não: 4; Total: 373. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2335185-89](../../../../../votacoes/2335185-89/) |
+| 03 set 2025 | Mantido o texto. Sim: 266; Não: 86; Total: 352. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2430953-277](../../../../../votacoes/2430953-277/) |
 | 03 set 2025 | Rejeitada a Emenda de Plenário nº 14. Sim: 108; Não: 241; Abstenção: 1; Total: 350. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2430953-280](../../../../../votacoes/2430953-280/) |
 | 27 ago 2025 | Rejeitada a preferência. Sim: 129; Não: 262; Total: 391. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2432423-87](../../../../../votacoes/2432423-87/) |
 | 27 ago 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.707, de 2024, adotada pelo relator da Comissão de Minas e Energia, ressalvado o destaque. Sim: 278; Não: 110; Abstenção: 1; Total: 389. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2432423-88](../../../../../votacoes/2432423-88/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 | 16 jul 2025 | Aprovada a Emenda do Senado Federal nº 1. Sim: 242; Não: 117; Total: 359. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [257161-462](../../../../../votacoes/257161-462/) |
 | 16 jul 2025 | Aprovada a Emenda do Senado Federal nº 4. Sim: 234; Não: 101; Total: 335. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [257161-467](../../../../../votacoes/257161-467/) |
 | 16 jul 2025 | Aprovada a Emenda do Senado Federal nº 18. Sim: 221; Não: 77; Abstenção: 1; Total: 299. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [257161-476](../../../../../votacoes/257161-476/) |
-| 16 jul 2025 | Aprovada a Emenda do Senado nº 28. Sim: 229; Não: 82; Abstenção: 1; Total: 312. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [257161-479](../../../../../votacoes/257161-479/) |
-| 15 jul 2025 | Aprovado, em primeiro turno, o Substitutivo da Comissão Especial à Proposta de Emenda Constitucional nº 66, de 2023, ressalvados os destaques. Sim: 404; Não: 67; Abstenção: 3; Total: 474. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454495-144](../../../../../votacoes/2454495-144/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcelo Moraes — Coesão com o próprio partido, Mérito (página 12)"
-description: "A decomposição completa do número de Marcelo Moraes: 434 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
+description: "A decomposição completa do número de Marcelo Moraes: 435 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcelo Moraes: 434 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>94,0%</b> é <b>408</b> coincidências em
-<b>434</b> votações computáveis — as outras 26 estão
+<p><b>94,0%</b> é <b>409</b> coincidências em
+<b>435</b> votações computáveis — as outras 26 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 18 mar 2025 | Aprovado o Projeto de Lei Complementar nº 58, de 2025, ressalvado o destaque. Sim: 413; Não: 1; Total: 414. | Maioria do partido: sim (70 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2486199-32](../../../../../votacoes/2486199-32/) |
 | 18 mar 2025 | Mantido o texto. Sim: 386; Não: 27; Total: 413. | Maioria do partido: sim (64 sim / 5 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2486199-35](../../../../../votacoes/2486199-35/) |
 | 26 fev 2025 | Rejeitada a Emenda de Plenário nº 2. Sim: 57; Não: 331; Total: 388. | Maioria do partido: nao (3 sim / 77 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [255291-105](../../../../../votacoes/255291-105/) |
 | 25 fev 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 167, de 2024, adotada pelo relator da Comissão de Indústria, Comércio e Serviços. Sim: 399; Total: 399. | Maioria do partido: sim (75 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2463712-40](../../../../../votacoes/2463712-40/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 | 18 dez 2024 | Aprovada a preferência. Sim: 294; Não: 172; Total: 466. | Maioria do partido: nao (7 sim / 79 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [347421-192](../../../../../votacoes/347421-192/) |
 | 17 dez 2024 | Aprovados os dispositivos do Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 68, de 2024, com parecer pela aprovação. Sim: 324; Não: 123; Abstenção: 3; Total: 450. | Maioria do partido: nao (8 sim / 68 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2430143-140](../../../../../votacoes/2430143-140/) |
 | 17 dez 2024 | Aprovada a Emenda de Redação n° 2. Sim: 314; Não: 117; Abstenção: 1; Total: 432. | Maioria do partido: nao (6 sim / 69 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2430143-144](../../../../../votacoes/2430143-144/) |
-| 17 dez 2024 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 210, de 2024, adotado pelo relator da Comissão Especial. Sim: 318; Não: 149; Total: 467. | Maioria do partido: nao (11 sim / 70 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2473389-58](../../../../../votacoes/2473389-58/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

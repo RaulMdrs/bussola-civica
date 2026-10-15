@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Mauricio Marcon — Alinhamento com o governo federal, Procedimental (página 5)"
-description: "A decomposição completa do número de Mauricio Marcon: 388 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
+description: "A decomposição completa do número de Mauricio Marcon: 389 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Mauricio Marcon: 388 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>20,4%</b> é <b>79</b> coincidências em
-<b>388</b> votações computáveis — as outras 309 estão
+<p><b>20,6%</b> é <b>80</b> coincidências em
+<b>389</b> votações computáveis — as outras 309 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 out 2025 | Rejeitado o Requerimento. Sim: 126; Não: 264; Total: 390. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [545304-120](../../../../../votacoes/545304-120/) |
 | 29 out 2025 | Rejeitado o Requerimento. Sim: 148; Não: 277; Total: 425. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [545304-128](../../../../../votacoes/545304-128/) |
 | 28 out 2025 | Rejeitado o Requerimento. Sim: 104; Não: 309; Total: 413. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2503426-44](../../../../../votacoes/2503426-44/) |
 | 28 out 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 284; Não: 129; Total: 413. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2538979-10](../../../../../votacoes/2538979-10/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 | 10 set 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 300; Não: 99; Total: 399. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2556109-8](../../../../../votacoes/2556109-8/) |
 | 09 set 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 350; Não: 94; Total: 444. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2558261-8](../../../../../votacoes/2558261-8/) |
 | 09 set 2025 | Aprovado, por unanimidade, o Requerimento de Urgência (Art. 155 do RICD). Sim: 310; Não: 115; Total: 425. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2558628-8](../../../../../votacoes/2558628-8/) |
-| 27 ago 2025 | Rejeitado o Requerimento. Sim: 115; Não: 275; Total: 390. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2432423-70](../../../../../votacoes/2432423-70/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

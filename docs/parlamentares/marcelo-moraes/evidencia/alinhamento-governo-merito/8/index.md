@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcelo Moraes — Alinhamento com o governo federal, Mérito (página 8)"
-description: "A decomposição completa do número de Marcelo Moraes: 338 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
+description: "A decomposição completa do número de Marcelo Moraes: 339 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcelo Moraes: 338 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>31,1%</b> é <b>105</b> coincidências em
-<b>338</b> votações computáveis — as outras 233 estão
+<p><b>31,3%</b> é <b>106</b> coincidências em
+<b>339</b> votações computáveis — as outras 233 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>17 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 11 jun 2025 | Mantido o texto. Sim: 256; Não: 153; Abstenção: 2; Total: 411. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [264726-148](../../../../../votacoes/264726-148/) |
 | 11 jun 2025 | Mantido o texto. Sim: 225; Não: 117; Total: 342. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [622019-76](../../../../../votacoes/622019-76/) |
 | 29 mai 2025 | Aprovado o Projeto de Decreto Legislativo nº 609, de 2021. . Sim: 392; Não: 7; Total: 399. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2297512-70](../../../../../votacoes/2297512-70/) |
 | 29 mai 2025 | Aprovada a parte da Emenda nº 3. Sim: 285; Não: 116; Abstenção: 3; Total: 404. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2306513-116](../../../../../votacoes/2306513-116/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 | 21 mai 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 1.466, de 2025, adotada pelo relator da Comissão de Administração e Serviço Público, ressalvado o destaque. Sim: 388; Não: 43; Total: 431. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2494408-30](../../../../../votacoes/2494408-30/) |
 | 21 mai 2025 | Mantido o texto. Sim: 290; Não: 134; Total: 424. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2494408-43](../../../../../votacoes/2494408-43/) |
 | 07 mai 2025 | Aprovado o parecer da Comissão de Constituição e Justiça e de Cidadania à Sustação de Andamento de Ação Penal nº 1, de 2025, pela sustação do andamento da Ação Penal. . Sim: 315; Não: 143; Abstenção: 4; Total: 462. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2494565-52](../../../../../votacoes/2494565-52/) |
-| 05 mai 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 6.366, de 2019, adotada pela relatora da Comissão de Cultura, ressalvados os destaques. Sim: 233; Não: 125; Total: 358. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2233324-86](../../../../../votacoes/2233324-86/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

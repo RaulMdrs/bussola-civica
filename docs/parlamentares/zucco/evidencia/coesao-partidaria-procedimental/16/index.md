@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Zucco — Coesão com o próprio partido, Procedimental (página 16)"
-description: "A decomposição completa do número de Zucco: 498 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
+description: "A decomposição completa do número de Zucco: 499 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Zucco: 498 votações em 2
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>81,5%</b> é <b>406</b> coincidências em
-<b>498</b> votações computáveis — as outras 92 estão
+<p><b>81,6%</b> é <b>407</b> coincidências em
+<b>499</b> votações computáveis — as outras 92 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 28 ago 2024 | Rejeitado o Requerimento. Sim: 27; não: 394; total: 421. | Maioria do partido: nao (5 sim / 74 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [1672576-221](../../../../../votacoes/1672576-221/) |
 | 28 ago 2024 | Rejeitado o Requerimento. Sim: 114; não: 301; total: 415. | Maioria do partido: sim (67 sim / 9 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2178408-157](../../../../../votacoes/2178408-157/) |
 | 28 ago 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 350; não: 60; total: 410. | Maioria do partido: nao (34 sim / 44 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2452211-7](../../../../../votacoes/2452211-7/) |
 | 28 ago 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 338; não: 105; total: 443. | Maioria do partido: nao (20 sim / 63 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2454155-9](../../../../../votacoes/2454155-9/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 | 11 jul 2024 | Aprovado o Requerimento nº 2.581/2024, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões previsto no § 6º do art. 202 do RICD, para apreciação do segundo turno da PEC nº 9, de 2023. Sim: 300; não: 50; abstenção: 1; total: 351. | Maioria do partido: sim (48 sim / 16 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2448947-5](../../../../../votacoes/2448947-5/) |
 | 10 jul 2024 | Rejeitado o Requerimento. Sim: 115; não: 239; abstenção: 3; total: 357. | Maioria do partido: sim (59 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430143-45](../../../../../votacoes/2430143-45/) |
 | 10 jul 2024 | Rejeitado o Requerimento. Sim: 134; não: 309; abstenção: 4; total: 447. | Maioria do partido: sim (74 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430143-57](../../../../../votacoes/2430143-57/) |
-| 09 jul 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 322; não: 137; abstenção: 3; total: 462. | Maioria do partido: nao (8 sim / 79 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2447439-8](../../../../../votacoes/2447439-8/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

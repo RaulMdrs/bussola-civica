@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Motta — Coesão com o próprio partido, Procedimental (página 11)"
-description: "A decomposição completa do número de Afonso Motta: 467 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
+description: "A decomposição completa do número de Afonso Motta: 468 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Afonso Motta: 467 votaçõ
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>94,9%</b> é <b>443</b> coincidências em
-<b>467</b> votações computáveis — as outras 24 estão
+<p><b>94,9%</b> é <b>444</b> coincidências em
+<b>468</b> votações computáveis — as outras 24 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>24 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 22 mai 2025 | Rejeitado o Requerimento. Sim: 103; Não: 300; Total: 403. | Maioria do partido: nao (0 sim / 12 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2456110-48](../../../../../votacoes/2456110-48/) |
 | 22 mai 2025 | Rejeitado o Requerimento. Sim: 73; Não: 216; Total: 289. | Maioria do partido: nao (0 sim / 12 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2481257-29](../../../../../votacoes/2481257-29/) |
 | 22 mai 2025 | Rejeitado o Requerimento. Sim: 94; Não: 278; Total: 372. | Maioria do partido: nao (0 sim / 13 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2481257-34](../../../../../votacoes/2481257-34/) |
 | 21 mai 2025 | Rejeitado o Requerimento. Sim: 93; Não: 242; Total: 335. | Maioria do partido: nao (0 sim / 10 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2494408-21](../../../../../votacoes/2494408-21/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 | 08 abr 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 259; Não: 113; Abstenção: 3; Total: 375. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2494645-8](../../../../../votacoes/2494645-8/) |
 | 08 abr 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 279; Não: 113; Total: 392. | Maioria do partido: sim (14 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2494658-8](../../../../../votacoes/2494658-8/) |
 | 02 abr 2025 | Rejeitado o Requerimento. Sim: 85; Não: 283; Abstenção: 1; Total: 369. | Maioria do partido: nao (0 sim / 12 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2492307-32](../../../../../votacoes/2492307-32/) |
-| 02 abr 2025 | Aprovado o Requerimento. Sim: 300; Não: 92; Total: 392. | Maioria do partido: sim (14 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2492307-38](../../../../../votacoes/2492307-38/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

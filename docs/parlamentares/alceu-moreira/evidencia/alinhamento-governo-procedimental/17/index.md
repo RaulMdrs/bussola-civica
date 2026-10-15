@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alceu Moreira — Alinhamento com o governo federal, Procedimental (página 17)"
-description: "A decomposição completa do número de Alceu Moreira: 329 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 329ª."
+description: "A decomposição completa do número de Alceu Moreira: 330 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 330ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Alceu Moreira: 329 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>56,5%</b> é <b>186</b> coincidências em
-<b>329</b> votações computáveis — as outras 143 estão
+<p><b>56,7%</b> é <b>187</b> coincidências em
+<b>330</b> votações computáveis — as outras 143 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>17 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
-<b>329ª</b>.</p>
+<b>330ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 23 mai 2023 | Rejeitado o Requerimento. Sim: 105; não: 342; abstenção: 2; total: 449. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2357053-30](../../../../../votacoes/2357053-30/) |
 | 23 mai 2023 | Aprovado o Requerimento. Sim: 371; não: 105; abstenção: 2; total: 478. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357053-38](../../../../../votacoes/2357053-38/) |
 | 10 mai 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; não: 43; abstenção: 1; total: 374. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2354502-8](../../../../../votacoes/2354502-8/) |
 | 03 mai 2023 | Rejeitado o Requerimento. Sim: 114; não: 265; abstenção: 2; total: 381. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2355135-39](../../../../../votacoes/2355135-39/) |

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alexandre Lindenmeyer — Alinhamento com o governo federal, Mérito (página 19)"
-description: "A decomposição completa do número de Alexandre Lindenmeyer: 378 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 378ª."
+description: "A decomposição completa do número de Alexandre Lindenmeyer: 380 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 380ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Alexandre Lindenmeyer: 378
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>95,8%</b> é <b>362</b> coincidências em
-<b>378</b> votações computáveis — as outras 16 estão
+<p><b>95,8%</b> é <b>364</b> coincidências em
+<b>380</b> votações computáveis — as outras 16 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
-<b>378ª</b>.</p>
+<b>380ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 24 mai 2023 | Rejeitada a Emenda nº 1 e restabelecidos os dispositivos aprovados pela câmara consubstanciados no Projeto de Lei de Conversão nº 6, de 2023. Sim: 66; não: 364; abtenção: 2; total: 432. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2345368-78](../../../../../votacoes/2345368-78/) |
+| 24 mai 2023 | Mantido o texto. Sim: 326; não: 138; total: 464. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357053-59](../../../../../votacoes/2357053-59/) |
 | 24 mai 2023 | Mantido o texto. Sim: 316; não: 160; abstenção: 3; total: 479. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357053-62](../../../../../votacoes/2357053-62/) |
 | 24 mai 2023 | Mantido o texto. Sim: 306; não: 170; total: 476. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357053-65](../../../../../votacoes/2357053-65/) |
 | 24 mai 2023 | Rejeitada a Emenda de Plenário nº 85. Sim: 126; não: 335; total: 461. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2357053-70](../../../../../votacoes/2357053-70/) |

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Lucas Redecker — Alinhamento com o governo federal, Mérito (página 5)"
-description: "A decomposição completa do número de Lucas Redecker: 427 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
+description: "A decomposição completa do número de Lucas Redecker: 429 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Lucas Redecker: 427 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>42,4%</b> é <b>181</b> coincidências em
-<b>427</b> votações computáveis — as outras 246 estão
+<p><b>42,4%</b> é <b>182</b> coincidências em
+<b>429</b> votações computáveis — as outras 247 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 05 nov 2025 | Mantido o texto. Sim: 274; Não: 101; Total: 375. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2386051-101](../../../../../votacoes/2386051-101/) |
+| 05 nov 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 4.357, de 2023, adotada pelo relator da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural, ressalvados os destaques. Sim: 287; Não: 113; Total: 400. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2386051-93](../../../../../votacoes/2386051-93/) |
 | 05 nov 2025 | Mantido o texto. Sim: 295; Não: 118; Total: 413. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2448069-50](../../../../../votacoes/2448069-50/) |
 | 04 nov 2025 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 39, de 2022. Sim: 417; Não: 6; Abstenção: 1; Total: 424. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2122682-86](../../../../../votacoes/2122682-86/) |
 | 04 nov 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 8.889, de 2017, adotada pelo relator da Comissão Especial, ressalvados os destaques. Sim: 330; Não: 118; Abstenção: 3; Total: 451. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2157806-137](../../../../../votacoes/2157806-137/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 | 29 out 2025 | Mantido o texto. Sim: 269; Não: 152; Total: 421. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2279186-97](../../../../../votacoes/2279186-97/) |
 | 29 out 2025 | Aprovada a Emenda de Plenário nº 5. Sim: 223; Não: 174; Total: 397. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2279186-99](../../../../../votacoes/2279186-99/) |
 | 29 out 2025 | Rejeitada a preferência. Sim: 162; Não: 234; Total: 396. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [545304-132](../../../../../votacoes/545304-132/) |
-| 29 out 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 3.899, de 2012, adotado pelo relator da Comissão Especial, ressalvados os destaques. Sim: 275; Não: 133; Abstenção: 1; Total: 409. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [545304-134](../../../../../votacoes/545304-134/) |
-| 29 out 2025 | Suprimido o texto. Sim: 173; Não: 238; Total: 411. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [545304-154](../../../../../votacoes/545304-154/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

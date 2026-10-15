@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Pompeo de Mattos — Coesão com o próprio partido, Procedimental (página 10)"
-description: "A decomposição completa do número de Pompeo de Mattos: 443 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
+description: "A decomposição completa do número de Pompeo de Mattos: 444 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Pompeo de Mattos: 443 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>90,7%</b> é <b>402</b> coincidências em
-<b>443</b> votações computáveis — as outras 41 estão
+<p><b>90,8%</b> é <b>403</b> coincidências em
+<b>444</b> votações computáveis — as outras 41 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 28 mai 2025 | Rejeitado o Requerimento. Sim: 105; Não: 289; Total: 394. | Maioria do partido: nao (0 sim / 11 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2341047-60](../../../../../votacoes/2341047-60/) |
 | 28 mai 2025 | Rejeitado o Requerimento. Sim: 64; Não: 197; Abstenção: 1; Total: 262. | Maioria do partido: nao (0 sim / 10 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2453934-47](../../../../../votacoes/2453934-47/) |
 | 27 mai 2025 | Rejeitado o Requerimento. Sim: 82; Não: 311; Abstenção: 1; Total: 394. | Maioria do partido: nao (0 sim / 12 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2121642-88](../../../../../votacoes/2121642-88/) |
 | 27 mai 2025 | Rejeitado o Requerimento. Sim: 84; Não: 315; Abstenção: 1; Total: 400. | Maioria do partido: nao (0 sim / 13 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2121642-95](../../../../../votacoes/2121642-95/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 | 22 mai 2025 | Rejeitado o Requerimento. Sim: 73; Não: 216; Total: 289. | Maioria do partido: nao (0 sim / 12 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2481257-29](../../../../../votacoes/2481257-29/) |
 | 22 mai 2025 | Rejeitado o Requerimento. Sim: 94; Não: 278; Total: 372. | Maioria do partido: nao (1 sim / 12 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2481257-34](../../../../../votacoes/2481257-34/) |
 | 21 mai 2025 | Rejeitado o Requerimento. Sim: 93; Não: 242; Total: 335. | Maioria do partido: nao (0 sim / 10 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2494408-21](../../../../../votacoes/2494408-21/) |
-| 06 mai 2025 | Rejeitado o Requerimento. Sim: 156; Não: 288; Abstenção: 2; Total: 446. | Maioria do partido: nao (4 sim / 12 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2383019-46](../../../../../votacoes/2383019-46/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Bohn Gass — Coesão com o próprio partido, Mérito (página 24)"
-description: "A decomposição completa do número de Bohn Gass: 524 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 461ª à 480ª."
+description: "A decomposição completa do número de Bohn Gass: 526 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 461ª à 480ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Bohn Gass: 524 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,9%</b> é <b>513</b> coincidências em
-<b>524</b> votações computáveis — as outras 11 estão
+<p><b>97,9%</b> é <b>515</b> coincidências em
+<b>526</b> votações computáveis — as outras 11 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>27 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>461ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>461ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 12 set 2023 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 16, de 2021. Sim: 464; não: 3; abstenção: 1; total: 468. | Maioria do partido: sim (64 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2288318-70](../../../../../votacoes/2288318-70/) |
+| 12 set 2023 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 16, de 2021. Sim: 453; não: 3; total: 456. | Maioria do partido: sim (63 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2288318-78](../../../../../votacoes/2288318-78/) |
 | 05 set 2023 | Mantido o texto. Sim: 349; não: 24; abstenção: 2; total: 375. | Maioria do partido: sim (50 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2336393-56](../../../../../votacoes/2336393-56/) |
 | 05 set 2023 | Rejeitada a Emenda de Plenário nº 1. Sim: 101; não: 301; total: 402. | Maioria do partido: nao (0 sim / 62 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2336393-59](../../../../../votacoes/2336393-59/) |
 | 05 set 2023 | Rejeitada a Emenda de Plenário nº 2. Sim: 51; não: 347; abstenção: 1; total: 399. | Maioria do partido: nao (1 sim / 60 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2336393-61](../../../../../votacoes/2336393-61/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>461ª</b> à
 | 07 jul 2023 | Mantido o texto. Sim: 336; não: 132; total: 468. | Maioria do partido: sim (64 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-386](../../../../../votacoes/2196833-386/) |
 | 07 jul 2023 | Mantido o texto. Sim: 349; não: 84; abstenção: 2; total: 435. | Maioria do partido: sim (65 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-390](../../../../../votacoes/2196833-390/) |
 | 07 jul 2023 | Mantido o texto. Sim: 370; não: 28; abstenção: 3; total: 401. | Maioria do partido: sim (60 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-392](../../../../../votacoes/2196833-392/) |
-| 07 jul 2023 | Suprimido o texto. Sim: 307; não: 166; abstenção: 5; total: 478. | Maioria do partido: sim (51 sim / 11 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-395](../../../../../votacoes/2196833-395/) |
-| 07 jul 2023 | Suprimido o texto. Sim: 112; não: 284; abstenção: 1; total: 397. | Maioria do partido: nao (0 sim / 57 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2360503-74](../../../../../votacoes/2360503-74/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Franciane Bayer — Alinhamento com o governo federal, Mérito (página 15)"
-description: "A decomposição completa do número de Franciane Bayer: 396 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
+description: "A decomposição completa do número de Franciane Bayer: 398 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Franciane Bayer: 396 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>57,8%</b> é <b>229</b> coincidências em
-<b>396</b> votações computáveis — as outras 167 estão
+<p><b>57,8%</b> é <b>230</b> coincidências em
+<b>398</b> votações computáveis — as outras 168 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 19 mar 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2, de 2024, adotada pelo relator da Comissão de Indústria, Comércio e Serviços, ressalvados os destaques. Sim: 314; não: 96; total: 410. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2416804-43](../../../../../votacoes/2416804-43/) |
+| 19 mar 2024 | Mantido o texto. Sim: 305; não: 107; total: 412. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2416804-48](../../../../../votacoes/2416804-48/) |
 | 19 mar 2024 | Mantido o texto. Sim: 287; não: 96; abstenção: 1; total: 384. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2416804-51](../../../../../votacoes/2416804-51/) |
 | 13 mar 2024 | Mantido o texto. Sim: 382; não: 48; total: 430. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2238434-100](../../../../../votacoes/2238434-100/) |
 | 13 mar 2024 | Rejeitado o Art. 15 da Emenda de Plenário nº 4. Sim: 38; não: 376; abstenção: 1; total: 415. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2238434-104](../../../../../votacoes/2238434-104/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 | 21 dez 2023 | Rejeitada a Emenda do Senado Federal nº 3. Sim: 120; não: 261; abstenção: 1; total: 382. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2374400-121](../../../../../votacoes/2374400-121/) |
 | 19 dez 2023 | Aprovado o Substitutivo ao Projeto de Lei nº 4.994, de 2023, adotado pelo relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvados os destaques. Sim: 311; não: 103; abstenção: 1; total: 415. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2395883-53](../../../../../votacoes/2395883-53/) |
 | 15 dez 2023 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e à adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 327; não: 43; abstenção:1; total: 371. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2384692-31](../../../../../votacoes/2384692-31/) |
-| 15 dez 2023 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião pelo não atendimento dos pressupostos constitucionais de relevância e urgência e pela inadequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 338; não: 47; abstenção: 2; total: 387. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2384692-33](../../../../../votacoes/2384692-33/) |
-| 15 dez 2023 | Aprovada a Medida Provisória nº 1.185 de 2023, na forma do Projeto de Lei de Conversão, ressalvado o destaque. Sim: 335; não: 56; abstenção: 1; total: 392. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2384692-35](../../../../../votacoes/2384692-35/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

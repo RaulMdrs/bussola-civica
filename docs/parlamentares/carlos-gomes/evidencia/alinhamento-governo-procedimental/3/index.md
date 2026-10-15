@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Carlos Gomes — Alinhamento com o governo federal, Procedimental (página 3)"
-description: "A decomposição completa do número de Carlos Gomes: 119 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
+description: "A decomposição completa do número de Carlos Gomes: 120 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Carlos Gomes: 119 votaçõ
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>74,8%</b> é <b>89</b> coincidências em
-<b>119</b> votações computáveis — as outras 30 estão
+<p><b>75,0%</b> é <b>90</b> coincidências em
+<b>120</b> votações computáveis — as outras 30 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>6 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 03 mar 2026 | Rejeitado o Requerimento. Sim: 148; Não: 237; Abstenção: 1; Total: 386. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2578879-31](../../../../../votacoes/2578879-31/) |
 | 02 mar 2026 | Rejeitado o Requerimento. Sim: 102; Não: 301; Abstenção: 1; Total: 404. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2543171-41](../../../../../votacoes/2543171-41/) |
 | 25 fev 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 308; Não: 120; Total: 428. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2604383-7](../../../../../votacoes/2604383-7/) |
 | 10 fev 2026 | Rejeitado o Requerimento. Sim: 147; Não: 242; Abstenção: 1; Total: 390. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2591974-26](../../../../../votacoes/2591974-26/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 | 22 nov 2023 | Rejeitado o Requerimento. Sim: 132; não: 260; abstenção: 1; total: 393. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2381043-35](../../../../../votacoes/2381043-35/) |
 | 22 nov 2023 | Rejeitado o Requerimento. Sim: 106; não: 255; abstenção: 1; total: 362. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2381043-60](../../../../../votacoes/2381043-60/) |
 | 21 nov 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 301; não: 131; total: 432. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2405312-8](../../../../../votacoes/2405312-8/) |
-| 07 nov 2023 | Rejeitado o Requerimento. Sim: 94; não: 279; total: 373. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2397925-16](../../../../../votacoes/2397925-16/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

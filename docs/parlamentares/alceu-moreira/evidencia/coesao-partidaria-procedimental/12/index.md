@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alceu Moreira — Coesão com o próprio partido, Procedimental (página 12)"
-description: "A decomposição completa do número de Alceu Moreira: 423 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
+description: "A decomposição completa do número de Alceu Moreira: 424 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alceu Moreira: 423 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>73,5%</b> é <b>311</b> coincidências em
-<b>423</b> votações computáveis — as outras 112 estão
+<p><b>73,6%</b> é <b>312</b> coincidências em
+<b>424</b> votações computáveis — as outras 112 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 02 abr 2025 | Aprovado o Requerimento. Sim: 361; Não: 10; Abstenção: 2; Total: 373. | Maioria do partido: sim (29 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2494086-7](../../../../../votacoes/2494086-7/) |
 | 01 abr 2025 | Rejeitado o Requerimento. Sim: 88; Não: 269; Abstenção: 1; Total: 358. | Maioria do partido: nao (4 sim / 23 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2463814-34](../../../../../votacoes/2463814-34/) |
 | 01 abr 2025 | Aprovado o Requerimento. Sim: 308; Não: 88; Total: 396. | Maioria do partido: sim (28 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2463814-40](../../../../../votacoes/2463814-40/) |
 | 25 fev 2025 | Rejeitado o Requerimento. Sim: 138; Não: 266; Total: 404. | Maioria do partido: nao (8 sim / 24 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2466108-28](../../../../../votacoes/2466108-28/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 | 17 dez 2024 | Rejeitado o Requerimento. Sim: 75; Não: 379; Abstenção: 2; Total: 456. | Maioria do partido: nao (3 sim / 30 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2473389-45](../../../../../votacoes/2473389-45/) |
 | 17 dez 2024 | Aprovado o Requerimento. Sim: 308; Não: 148; Total: 456. | Maioria do partido: sim (30 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2473389-53](../../../../../votacoes/2473389-53/) |
 | 16 dez 2024 | Rejeitado o Requerimento. Sim: 46; Não: 232; Total: 278. | Maioria do partido: nao (1 sim / 28 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2430143-125](../../../../../votacoes/2430143-125/) |
-| 16 dez 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 314; Não: 140; Total: 454. | Maioria do partido: sim (30 sim / 6 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2480330-8](../../../../../votacoes/2480330-8/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

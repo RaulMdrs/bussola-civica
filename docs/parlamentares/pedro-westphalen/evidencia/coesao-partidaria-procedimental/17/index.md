@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Pedro Westphalen — Coesão com o próprio partido, Procedimental (página 17)"
-description: "A decomposição completa do número de Pedro Westphalen: 428 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
+description: "A decomposição completa do número de Pedro Westphalen: 429 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Pedro Westphalen: 428 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>64,0%</b> é <b>274</b> coincidências em
-<b>428</b> votações computáveis — as outras 154 estão
+<p><b>64,1%</b> é <b>275</b> coincidências em
+<b>429</b> votações computáveis — as outras 154 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 27 fev 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 339; não: 82; abstenção: 1; total: 422. | Maioria do partido: sim (37 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2415411-9](../../../../../votacoes/2415411-9/) |
 | 27 fev 2024 | Rejeitado o Requerimento. Sim: 237; não: 171; abstenção: 3; total: 411. | Maioria do partido: sim (27 sim / 14 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2418084-8](../../../../../votacoes/2418084-8/) |
 | 21 fev 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 413; não: 13; abstenção: 1; total: 427. | Maioria do partido: sim (43 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2411815-7](../../../../../votacoes/2411815-7/) |
 | 21 dez 2023 | Rejeitado o Requerimento. Sim: 52; não: 267; abstenção: 1; total: 320. | Maioria do partido: nao (7 sim / 30 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [1548579-109](../../../../../votacoes/1548579-109/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 | 15 dez 2023 | Rejeitado o Requerimento. Sim: 49; não: 323; abstenção: 1; total: 373. | Maioria do partido: nao (7 sim / 34 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [259094-187](../../../../../votacoes/259094-187/) |
 | 13 dez 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 370; não: 5; abstenção: 1; total: 376. | Maioria do partido: sim (37 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2410669-8](../../../../../votacoes/2410669-8/) |
 | 13 dez 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 309; não: 94; total: 403. | Maioria do partido: sim (29 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2411730-8](../../../../../votacoes/2411730-8/) |
-| 13 dez 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 351; não: 102; total: 453. | Maioria do partido: sim (39 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2412712-8](../../../../../votacoes/2412712-8/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

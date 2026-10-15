@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Luiz Carlos Busato — Alinhamento com o governo federal, Mérito (página 13)"
-description: "A decomposição completa do número de Luiz Carlos Busato: 395 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
+description: "A decomposição completa do número de Luiz Carlos Busato: 397 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 241ª à 260ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Luiz Carlos Busato: 395 vo
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>77,2%</b> é <b>305</b> coincidências em
-<b>395</b> votações computáveis — as outras 90 estão
+<p><b>77,1%</b> é <b>306</b> coincidências em
+<b>397</b> votações computáveis — as outras 91 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 13 ago 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 108, de 2024, adotada pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 303; não: 142; total: 445. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2438459-55](../../../../../votacoes/2438459-55/) |
+| 11 jul 2024 | Aprovado, em primeiro turno, o Substitutivo da Comissão Especial à Proposta de Emenda à Constituição nº 44, de 2023. Sim: 392; não: 22; total: 414. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2388029-86](../../../../../votacoes/2388029-86/) |
 | 11 jul 2024 | Aprovada a Emenda de Redação nº 1 à Proposta de Emenda à Constituição nº 44, de 2023. Sim: 361; não: 3; total: 364. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2388029-88](../../../../../votacoes/2388029-88/) |
 | 10 jul 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 68, de 2024, adotada pelo relator da Comissão Especial, ressalvados os destaques. Sim: 336; não: 142; abstenção: 2; total: 480. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2430143-72](../../../../../votacoes/2430143-72/) |
 | 10 jul 2024 | Rejeitada a Emenda de Plenário nº 747. Sim: 229; não: 233; abstenção: 1; total: 463. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2430143-76](../../../../../votacoes/2430143-76/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>241ª</b> à
 | 14 mai 2024 | Mantido o texto. Sim: 402; não: 10; total: 412. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2416733-46](../../../../../votacoes/2416733-46/) |
 | 14 mai 2024 | Rejeitada a Emenda de Plenário nº 5. Sim: 199; não: 221; abstenção: 2; total: 422. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2433327-54](../../../../../votacoes/2433327-54/) |
 | 14 mai 2024 | Rejeitada a Emenda de Plenário nº 3. Sim: 215; não: 226; abstenção: 1; total: 442. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2433327-57](../../../../../votacoes/2433327-57/) |
-| 14 mai 2024 | Rejeitada a Emenda de Plenário nº 4. Sim: 184; não: 223; abstenção: 1; total: 409. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2433327-60](../../../../../votacoes/2433327-60/) |
-| 14 mai 2024 | Mantido o texto. Sim: 277; não: 145; total: 422. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2433327-66](../../../../../votacoes/2433327-66/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

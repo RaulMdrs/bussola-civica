@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Zucco — Alinhamento com o governo federal, Mérito (página 15)"
-description: "A decomposição completa do número de Zucco: 432 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
+description: "A decomposição completa do número de Zucco: 434 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Zucco: 432 votações em 2
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>31,5%</b> é <b>136</b> coincidências em
-<b>432</b> votações computáveis — as outras 296 estão
+<p><b>31,6%</b> é <b>137</b> coincidências em
+<b>434</b> votações computáveis — as outras 297 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 14 mai 2024 | Aprovado o Substitutivo ao Projeto de Lei nº 6.235, de 2023, adotado pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 339; não: 96; abstenção: 1; total: 436. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2416733-42](../../../../../votacoes/2416733-42/) |
+| 14 mai 2024 | Mantido o texto. Sim: 402; não: 10; total: 412. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2416733-46](../../../../../votacoes/2416733-46/) |
 | 14 mai 2024 | Aprovado o Substitutivo ao Projeto de Lei Complementar n. 85, de 2024, adotado pelo Relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 404; não: 2; total: 406. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2433327-49](../../../../../votacoes/2433327-49/) |
 | 14 mai 2024 | Rejeitada a Emenda de Plenário nº 5. Sim: 199; não: 221; abstenção: 2; total: 422. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2433327-54](../../../../../votacoes/2433327-54/) |
 | 14 mai 2024 | Rejeitada a Emenda de Plenário nº 3. Sim: 215; não: 226; abstenção: 1; total: 442. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2433327-57](../../../../../votacoes/2433327-57/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 | 19 mar 2024 | Aprovado o Substitutivo ao Projeto de Lei nº 6.233, de 2023, adotado pelo relator da Comissão de Finanças e Tributação. Sim: 388; não: 3; abstenção: 1; total: 392. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2416729-28](../../../../../votacoes/2416729-28/) |
 | 19 mar 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2, de 2024, adotada pelo relator da Comissão de Indústria, Comércio e Serviços, ressalvados os destaques. Sim: 314; não: 96; total: 410. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2416804-43](../../../../../votacoes/2416804-43/) |
 | 19 mar 2024 | Mantido o texto. Sim: 305; não: 107; total: 412. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2416804-48](../../../../../votacoes/2416804-48/) |
-| 19 mar 2024 | Mantido o texto. Sim: 287; não: 96; abstenção: 1; total: 384. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2416804-51](../../../../../votacoes/2416804-51/) |
-| 13 mar 2024 | Mantido o texto. Sim: 382; não: 48; total: 430. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2238434-100](../../../../../votacoes/2238434-100/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

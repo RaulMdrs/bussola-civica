@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Any Ortiz — Alinhamento com o governo federal, Mérito (página 18)"
-description: "A decomposição completa do número de Any Ortiz: 384 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
+description: "A decomposição completa do número de Any Ortiz: 386 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Any Ortiz: 384 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>35,4%</b> é <b>136</b> coincidências em
-<b>384</b> votações computáveis — as outras 248 estão
+<p><b>35,5%</b> é <b>137</b> coincidências em
+<b>386</b> votações computáveis — as outras 249 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 04 out 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.245, de 2023, adotada pelo Relator da Comissão de Educação, ressalvados os destaques. Sim: 309; não: 28; abstenção: 3; total: 340. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2358915-67](../../../../../votacoes/2358915-67/) |
+| 03 out 2023 | Aprovadas as Emendas do Senado Federal de nºs 1, 2, 3, 5, 6, 7, 8, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 26, 27, 30, 31, 32, 33, 34, 36, 37, 39, 40, 41, 42 (exceto o § 7º do art. 37 da Lei nº 9.492, de 1997), 43, 44, 45, 46, 49 e 50 ao Projeto de Lei nº 4.188, de 2021. Sim: 305; não: 11; abstenção: 5; total: 321. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2309053-174](../../../../../votacoes/2309053-174/) |
 | 03 out 2023 | Rejeitadas as Emendas do Senado Federal de nºs 4, 9, 10, 15, 24, 25, 28, 29, 35, 38, 42 (apenas do § 7º do art. 37 da Lei nº 9.492, de 1997), 47 e 48 ao Projeto de Lei nº 4.188, de 2021. Sim: 9; não: 305; abstenção: 5; total: 319. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2309053-176](../../../../../votacoes/2309053-176/) |
 | 03 out 2023 | Rejeitada a Emenda nº 33 do Senado Federal. Sim: 159; não: 251; abstenção: 6; total: 416. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2309053-179](../../../../../votacoes/2309053-179/) |
 | 14 set 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 136, de 2023, adotada pelo Relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 349; não: 68; abstenção: 2; total: 419. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2372071-41](../../../../../votacoes/2372071-41/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 | 07 jul 2023 | Mantido o texto. Sim: 349; não: 84; abstenção: 2; total: 435. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-390](../../../../../votacoes/2196833-390/) |
 | 07 jul 2023 | Mantido o texto. Sim: 370; não: 28; abstenção: 3; total: 401. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-392](../../../../../votacoes/2196833-392/) |
 | 07 jul 2023 | Suprimido o texto. Sim: 307; não: 166; abstenção: 5; total: 478. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-395](../../../../../votacoes/2196833-395/) |
-| 07 jul 2023 | Suprimido o texto. Sim: 112; não: 284; abstenção: 1; total: 397. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2360503-74](../../../../../votacoes/2360503-74/) |
-| 07 jul 2023 | Mantido o texto. Sim: 327; não: 96; abstenção: 1; total: 424. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2367064-66](../../../../../votacoes/2367064-66/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

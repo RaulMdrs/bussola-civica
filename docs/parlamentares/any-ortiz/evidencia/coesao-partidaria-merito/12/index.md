@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Any Ortiz — Coesão com o próprio partido, Mérito (página 12)"
-description: "A decomposição completa do número de Any Ortiz: 400 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
+description: "A decomposição completa do número de Any Ortiz: 402 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 221ª à 240ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,10 +11,10 @@ description: "A decomposição completa do número de Any Ortiz: 400 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>64,0%</b> é <b>256</b> coincidências em
-<b>400</b> votações computáveis — as outras 144 estão
+<p><b>64,2%</b> é <b>258</b> coincidências em
+<b>402</b> votações computáveis — as outras 144 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
-repartida em <b>20 páginas</b> de até 20 votações,
+repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 <b>240ª</b>.</p>
 </div>
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 12 dez 2024 | Mantido o texto. Sim: 228; Não: 107; Total: 335. | Maioria do partido: sim (1 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2194861-91](../../../../../votacoes/2194861-91/) |
+| 12 dez 2024 | Mantido o texto. Sim: 196; Não: 84; Total: 280. | Maioria do partido: sim (1 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2194861-94](../../../../../votacoes/2194861-94/) |
 | 12 dez 2024 | Aprovada a Emenda de Plenário n° 1. Sim: 267; Não: 85; Abstenção: 14; Total: 366. | Maioria do partido: sim (2 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2258828-105](../../../../../votacoes/2258828-105/) |
 | 12 dez 2024 | Aprovado o Substitutivo ao Projeto de Lei nº 4.120, de 2024, adotado pela relatora da Comissão de Segurança Pública e Combate ao Crime Organizado. Sim: 280; Não: 78; Total: 358. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2465140-45](../../../../../votacoes/2465140-45/) |
 | 10 dez 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 121, de 2024, adotada pelo relator da Comissão de Finanças e Tributação, ressalvado o destaque. Sim: 413; Não: 4; Total: 417. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454400-42](../../../../../votacoes/2454400-42/) |
@@ -43,13 +45,11 @@ da mais recente para a mais antiga. Esta traz da <b>221ª</b> à
 | 11 set 2024 | Aprovado o Projeto de Lei nº 1.847, de 2024, ressalvados os destaques. Sim: 253; Não: 67; Abstenção: 4; Total: 324. | Maioria do partido: nao (0 sim / 1 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2454704-53](../../../../../votacoes/2454704-53/) |
 | 11 set 2024 | Mantido o texto. Sim: 189; Não: 140; Total: 329. | Maioria do partido: nao (0 sim / 2 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2454704-70](../../../../../votacoes/2454704-70/) |
 | 10 set 2024 | Aprovado o Projeto de Lei Complementar nº 72, de 2024. Sim: 432; Não: 2; Abstenção: 1; Total: 435. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2447191-41](../../../../../votacoes/2447191-41/) |
-| 09 set 2024 | Aprovado o Substitutivo ao Projeto de Lei nº 3.010, de 2019, adotado pelo Relator da Comissão de Saúde. Sim: 450; Não: 1; Abstenção: 2; Total: 453. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2204088-88](../../../../../votacoes/2204088-88/) |
-| 28 ago 2024 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 519, de 2018, adotada pelo relator da Comissão Especial, ressalvado o destaque. Sim: 439; não: 3; abstenção: 3; total: 445. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2178408-165](../../../../../votacoes/2178408-165/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">
 <a class="passo" href="../11/" rel="prev">← Anteriores</a>
-<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../10/">10</a><a href="../11/">11</a><b aria-current="page">12</b><a href="../13/">13</a><a href="../14/">14</a><span class="salto">…</span><a href="../20/">20</a></span>
+<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../10/">10</a><a href="../11/">11</a><b aria-current="page">12</b><a href="../13/">13</a><a href="../14/">14</a><span class="salto">…</span><a href="../21/">21</a></span>
 <a class="passo" href="../13/" rel="next">Próximas →</a>
 </nav>
 

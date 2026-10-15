@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Márcio Biolchi — Coesão com o próprio partido, Procedimental (página 2)"
-description: "A decomposição completa do número de Márcio Biolchi: 391 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
+description: "A decomposição completa do número de Márcio Biolchi: 392 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Márcio Biolchi: 391 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>91,6%</b> é <b>358</b> coincidências em
-<b>391</b> votações computáveis — as outras 33 estão
+<p><b>91,6%</b> é <b>359</b> coincidências em
+<b>392</b> votações computáveis — as outras 33 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 15 abr 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 355; Não: 29; Total: 384. | Maioria do partido: sim (25 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2578968-7](../../../../../votacoes/2578968-7/) |
 | 15 abr 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 305; Não: 22; Total: 327. | Maioria do partido: sim (23 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2600708-7](../../../../../votacoes/2600708-7/) |
 | 08 abr 2026 | Rejeitado o Requerimento. Sim: 36; Não: 409; Total: 445. | Maioria do partido: nao (0 sim / 25 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2162116-161](../../../../../votacoes/2162116-161/) |
 | 25 mar 2026 | Rejeitado o Requerimento. Sim: 137; Não: 257; Total: 394. | Maioria do partido: sim (13 sim / 7 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2595984-22](../../../../../votacoes/2595984-22/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 | 10 fev 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 277; Não: 119; Abstenção: 1; Total: 397. | Maioria do partido: sim (21 sim / 7 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2600277-9](../../../../../votacoes/2600277-9/) |
 | 10 fev 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 273; Não: 103; Abstenção: 1; Total: 377. | Maioria do partido: sim (16 sim / 6 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2600278-9](../../../../../votacoes/2600278-9/) |
 | 10 fev 2026 | Rejeitado o Requerimento. Sim: 87; Não: 301; Total: 388. | Maioria do partido: nao (5 sim / 20 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2601040-23](../../../../../votacoes/2601040-23/) |
-| 09 fev 2026 | Rejeitado o Requerimento. Sim: 126; Não: 296; Total: 422. | Maioria do partido: nao (7 sim / 24 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2562173-21](../../../../../votacoes/2562173-21/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

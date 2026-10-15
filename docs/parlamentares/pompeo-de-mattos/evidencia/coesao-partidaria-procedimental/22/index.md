@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Pompeo de Mattos — Coesão com o próprio partido, Procedimental (página 22)"
-description: "A decomposição completa do número de Pompeo de Mattos: 443 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 421ª à 440ª."
+description: "A decomposição completa do número de Pompeo de Mattos: 444 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 421ª à 440ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Pompeo de Mattos: 443 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>90,7%</b> é <b>402</b> coincidências em
-<b>443</b> votações computáveis — as outras 41 estão
+<p><b>90,8%</b> é <b>403</b> coincidências em
+<b>444</b> votações computáveis — as outras 41 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>421ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>421ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 31 mai 2023 | Aprovado o Requerimento. Sim: 324; não: 114; abstenção: 1; total: 439. | Maioria do partido: sim (16 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345493-35](../../../../../votacoes/2345493-35/) |
 | 24 mai 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 324; não: 131; abstenção: 1; total: 456. | Maioria do partido: nao (4 sim / 12 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2362190-9](../../../../../votacoes/2362190-9/) |
 | 23 mai 2023 | Rejeitado o Requerimento. Sim: 105; não: 342; abstenção: 2; total: 449. | Maioria do partido: nao (0 sim / 17 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2357053-30](../../../../../votacoes/2357053-30/) |
 | 23 mai 2023 | Aprovado o Requerimento. Sim: 371; não: 105; abstenção: 2; total: 478. | Maioria do partido: sim (17 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357053-38](../../../../../votacoes/2357053-38/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>421ª</b> à
 | 11 abr 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 264; não: 144; total: 408. | Maioria do partido: sim (14 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2352500-11](../../../../../votacoes/2352500-11/) |
 | 11 abr 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 319; não: 106; total: 425. | Maioria do partido: sim (14 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2354899-8](../../../../../votacoes/2354899-8/) |
 | 22 mar 2023 | Rejeitado o Requerimento. Sim: 56; não: 247; total: 303. | Maioria do partido: nao (2 sim / 9 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2301683-33](../../../../../votacoes/2301683-33/) |
-| 21 mar 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 397; não: 1 ; total: 398. | Maioria do partido: sim (14 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2350702-8](../../../../../votacoes/2350702-8/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

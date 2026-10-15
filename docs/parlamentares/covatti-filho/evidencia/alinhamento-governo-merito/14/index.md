@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Covatti Filho — Alinhamento com o governo federal, Mérito (página 14)"
-description: "A decomposição completa do número de Covatti Filho: 354 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
+description: "A decomposição completa do número de Covatti Filho: 356 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Covatti Filho: 354 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>36,2%</b> é <b>128</b> coincidências em
-<b>354</b> votações computáveis — as outras 226 estão
+<p><b>36,2%</b> é <b>129</b> coincidências em
+<b>356</b> votações computáveis — as outras 227 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 15 dez 2023 | Mantido o texto. Sim: 352; não: 141; abstenção: 1; total: 494. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-149](../../../../../votacoes/259094-149/) |
+| 15 dez 2023 | Mantido o texto. Sim: 437; não: 10; total: 447. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-151](../../../../../votacoes/259094-151/) |
 | 15 dez 2023 | Suprimido o texto. Sim: 285; não: 192; abstenção: 2; total: 479. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-172](../../../../../votacoes/259094-172/) |
 | 15 dez 2023 | Mantido o texto. Sim: 341; não: 153; abstenção: 4; total: 498. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-176](../../../../../votacoes/259094-176/) |
 | 15 dez 2023 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques. Sim: 365; não: 118; abstenção: 1; total: 484. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [259094-190](../../../../../votacoes/259094-190/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 | 22 nov 2023 | Aprovado o Projeto de Lei nº 4.035, de 2023, ressalvados os destaques. Sim: 235; não: 110; abstenção: 1; total: 346. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2381043-63](../../../../../votacoes/2381043-63/) |
 | 22 nov 2023 | Mantido o texto. Sim: 205; não: 53; abstenção: 5; total: 263. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2381043-66](../../../../../votacoes/2381043-66/) |
 | 08 nov 2023 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 6.385-C, de 2016, ressalvados os destaques. Sim: 296; não: 121; abstenção: 2; total: 419. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2115253-175](../../../../../votacoes/2115253-175/) |
-| 08 nov 2023 | Mantido o texto. Sim: 268; não: 124; total: 392. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2115253-179](../../../../../votacoes/2115253-179/) |
-| 08 nov 2023 | Aprovado o Projeto de Lei nº 4.287, de 2023. Sim: 369; não: 5; total: 374. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2391935-43](../../../../../votacoes/2391935-43/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

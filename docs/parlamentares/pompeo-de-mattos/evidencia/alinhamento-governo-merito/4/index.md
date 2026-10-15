@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Pompeo de Mattos — Alinhamento com o governo federal, Mérito (página 4)"
-description: "A decomposição completa do número de Pompeo de Mattos: 375 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
+description: "A decomposição completa do número de Pompeo de Mattos: 377 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Pompeo de Mattos: 375 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>84,5%</b> é <b>317</b> coincidências em
-<b>375</b> votações computáveis — as outras 58 estão
+<p><b>84,6%</b> é <b>319</b> coincidências em
+<b>377</b> votações computáveis — as outras 58 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 18 nov 2025 | Aprovada a Emenda de Plenário nº 25. Sim: 349; Não: 40; Abstenção: 1; Total: 390. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2579832-105](../../../../../votacoes/2579832-105/) |
+| 18 nov 2025 | Rejeitada a Preferência. Sim: 156; Não: 306; Total: 462. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2579832-61](../../../../../votacoes/2579832-61/) |
 | 18 nov 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 5.582, de 2025, adotado pelo relator da Comissão de Segurança Pública e Combate ao Crime Organizado, ressalvados os destaques. Sim: 370; Não: 110; Abstenção: 3; Total: 483. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2579832-62](../../../../../votacoes/2579832-62/) |
 | 18 nov 2025 | Rejeitada a Emenda de Plenário nº 33. Sim: 142; Não: 298; Abstenção: 1; Total: 441. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2579832-95](../../../../../votacoes/2579832-95/) |
 | 18 nov 2025 | Mantido o texto. Sim: 298; Não: 109; Abstenção: 1; Total: 408. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2579832-96](../../../../../votacoes/2579832-96/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 | 03 nov 2025 | Mantido o texto. Sim: 387; Não: 30; Abstenção: 1; Total: 418. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2576234-41](../../../../../votacoes/2576234-41/) |
 | 30 out 2025 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 169, de 2019. Sim: 386; Não: 15; Abstenção: 1; Total: 402. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2225224-117](../../../../../votacoes/2225224-117/) |
 | 30 out 2025 | Rejeitada a Emenda de Comissão n° 23. Sim: 157; Não: 198; Abstenção: 1; Total: 356. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2535328-24](../../../../../votacoes/2535328-24/) |
-| 30 out 2025 | Suprimido o texto. Sim: 148; Não: 233; Abstenção: 1; Total: 382. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2535328-36](../../../../../votacoes/2535328-36/) |
-| 29 out 2025 | Mantido o texto. Sim: 293; Não: 143; Total: 436. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2279186-104](../../../../../votacoes/2279186-104/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

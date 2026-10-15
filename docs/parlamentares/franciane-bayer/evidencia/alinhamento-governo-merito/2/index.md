@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Franciane Bayer — Alinhamento com o governo federal, Mérito (página 2)"
-description: "A decomposição completa do número de Franciane Bayer: 396 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
+description: "A decomposição completa do número de Franciane Bayer: 398 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Franciane Bayer: 396 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>57,8%</b> é <b>229</b> coincidências em
-<b>396</b> votações computáveis — as outras 167 estão
+<p><b>57,8%</b> é <b>230</b> coincidências em
+<b>398</b> votações computáveis — as outras 168 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 07 abr 2026 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 109, de 2025, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 381; Não: 2; Total: 383. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2503998-75](../../../../../votacoes/2503998-75/) |
+| 07 abr 2026 | Mantido o texto. Sim: 268; Não: 99; Total: 367. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2581700-31](../../../../../votacoes/2581700-31/) |
 | 24 mar 2026 | Mantido o texto. Sim: 295; Não: 120; Abstenção: 1; Total: 416. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2487399-57](../../../../../votacoes/2487399-57/) |
 | 04 mar 2026 | Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à Constituição nº 18, de 2025, adotado pelo relator da Comissão Especial. Sim: 487; Não: 15; Abstenção: 1; Total: 503. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2500080-320](../../../../../votacoes/2500080-320/) |
 | 04 mar 2026 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 18, de 2025. Sim: 461; Não: 14; Total: 475. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2500080-330](../../../../../votacoes/2500080-330/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 | 16 dez 2025 | Suprimido o texto. Sim: 221; Não: 242; Abstenção: 2; Total: 465. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2438459-146](../../../../../votacoes/2438459-146/) |
 | 16 dez 2025 | Aprovadas as Emendas de Redação nºs 1, 2 e 4. Sim: 408; Não: 3; Abstenção: 1; Total: 412. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-148](../../../../../votacoes/2438459-148/) |
 | 16 dez 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 128, de 2025, adotada pelo relator da Comissão de Desenvolvimento Econômico, ressalvado o destaque. Sim: 310; Não: 85; Abstenção: 1; Total: 396. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2520670-52](../../../../../votacoes/2520670-52/) |
-| 16 dez 2025 | Mantido o texto. Sim: 286; Não: 116; Total: 402. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2520670-66](../../../../../votacoes/2520670-66/) |
-| 15 dez 2025 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei Complementar nº 108, de 2024, com parecer pela aprovação, excetuadas as modificações indicadas no Parecer da Comissão de Indústria, Comércio e Serviços. Sim: 330; Não: 104; Total: 434. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-113](../../../../../votacoes/2438459-113/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

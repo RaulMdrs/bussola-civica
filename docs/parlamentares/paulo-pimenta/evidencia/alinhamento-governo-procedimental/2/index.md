@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Paulo Pimenta — Alinhamento com o governo federal, Procedimental (página 2)"
-description: "A decomposição completa do número de Paulo Pimenta: 162 votações em 9 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
+description: "A decomposição completa do número de Paulo Pimenta: 163 votações em 9 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Paulo Pimenta: 162 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,5%</b> é <b>158</b> coincidências em
-<b>162</b> votações computáveis — as outras 4 estão
+<p><b>97,5%</b> é <b>159</b> coincidências em
+<b>163</b> votações computáveis — as outras 4 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>9 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 15 abr 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 305; Não: 22; Total: 327. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2600708-7](../../../../../votacoes/2600708-7/) |
 | 07 abr 2026 | Rejeitado o Requerimento. Sim: 60; Não: 306; Total: 366. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2503998-70](../../../../../votacoes/2503998-70/) |
 | 25 mar 2026 | Rejeitado o Requerimento. Sim: 137; Não: 257; Total: 394. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2595984-22](../../../../../votacoes/2595984-22/) |
 | 25 mar 2026 | Rejeitado o Requerimento. Sim: 124; Não: 257; Abstenção: 1; Total: 382. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2595984-31](../../../../../votacoes/2595984-31/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 | 03 mar 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 317; Não: 117; Total: 434. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2485383-7](../../../../../votacoes/2485383-7/) |
 | 03 mar 2026 | Rejeitado o Requerimento. Sim: 157; Não: 272; Abstenção: 3; Total: 432. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2578879-27](../../../../../votacoes/2578879-27/) |
 | 03 mar 2026 | Rejeitado o Requerimento. Sim: 148; Não: 237; Abstenção: 1; Total: 386. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2578879-31](../../../../../votacoes/2578879-31/) |
-| 02 mar 2026 | Rejeitado o Requerimento. Sim: 102; Não: 301; Abstenção: 1; Total: 404. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2543171-41](../../../../../votacoes/2543171-41/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

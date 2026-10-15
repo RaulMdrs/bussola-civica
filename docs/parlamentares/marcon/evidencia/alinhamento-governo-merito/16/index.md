@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcon — Alinhamento com o governo federal, Mérito (página 16)"
-description: "A decomposição completa do número de Marcon: 401 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
+description: "A decomposição completa do número de Marcon: 403 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcon: 401 votações em 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>94,5%</b> é <b>379</b> coincidências em
-<b>401</b> votações computáveis — as outras 22 estão
+<p><b>94,5%</b> é <b>381</b> coincidências em
+<b>403</b> votações computáveis — as outras 22 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 21 fev 2024 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 425; total: 425. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2388837-35](../../../../../votacoes/2388837-35/) |
+| 21 dez 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 2.148, de 2015, adotada pelo relator da Comissão Especial, ressalvado o destaque. Sim: 299; não: 103; abstenção: 1; total: 403. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [1548579-126](../../../../../votacoes/1548579-126/) |
 | 21 dez 2023 | Mantido o texto. Sim: 301; não: 81; total: 382. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [1548579-144](../../../../../votacoes/1548579-144/) |
 | 21 dez 2023 | Aprovadas as Emendas do Senado Federal nº 1 (na parte em que altera os arts. 1º e 14 do PL 3.626, de 2023); e das Emendas nºs 2, 4 a 7, 10 a 15, 18 a 22, 25 a 28, 30, 31, 35, 37, 39, 41 e 42. Sim: 292; não: 114; abstenção: 1; total: 407. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2374400-110](../../../../../votacoes/2374400-110/) |
 | 21 dez 2023 | Rejeitada a Emenda do Senado Federal nº 3. Sim: 120; não: 261; abstenção: 1; total: 382. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2374400-121](../../../../../votacoes/2374400-121/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 | 15 dez 2023 | Mantido o texto. Sim: 341; não: 153; abstenção: 4; total: 498. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-176](../../../../../votacoes/259094-176/) |
 | 14 dez 2023 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião pelo não atendimento dos pressupostos constitucionais de relevância e urgência e pela inadequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 221; não: 40; abstenção: 3; total: 264. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387579-35](../../../../../votacoes/2387579-35/) |
 | 14 dez 2023 | Aprovada a Medida Provisória nº 1.187 de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 229; não: 49; total: 278. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387579-37](../../../../../votacoes/2387579-37/) |
-| 14 dez 2023 | Mantido o texto. Sim: 225; não: 32; total: 257. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387579-40](../../../../../votacoes/2387579-40/) |
-| 14 dez 2023 | Mantido o texto. Sim: 241; não: 38; total: 279. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387579-43](../../../../../votacoes/2387579-43/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

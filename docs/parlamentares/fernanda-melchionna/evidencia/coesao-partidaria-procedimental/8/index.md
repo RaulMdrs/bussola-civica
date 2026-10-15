@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Fernanda Melchionna — Coesão com o próprio partido, Procedimental (página 8)"
-description: "A decomposição completa do número de Fernanda Melchionna: 402 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
+description: "A decomposição completa do número de Fernanda Melchionna: 403 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Fernanda Melchionna: 402 v
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>98,0%</b> é <b>394</b> coincidências em
-<b>402</b> votações computáveis — as outras 8 estão
+<p><b>98,0%</b> é <b>395</b> coincidências em
+<b>403</b> votações computáveis — as outras 8 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 19 ago 2025 | Rejeitado o Requerimento. Sim: 117; Não: 277; Total: 394. | Maioria do partido: nao (0 sim / 11 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2535455-16](../../../../../votacoes/2535455-16/) |
 | 13 ago 2025 | Rejeitado o Requerimento. Sim: 119; Não: 295; Total: 414. | Maioria do partido: nao (0 sim / 11 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2370495-47](../../../../../votacoes/2370495-47/) |
 | 13 ago 2025 | Rejeitado o Requerimento. Sim: 110; Não: 294; Total: 404. | Maioria do partido: nao (0 sim / 11 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2370495-50](../../../../../votacoes/2370495-50/) |
 | 12 ago 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 371; Não: 49; Abstenção: 1; Total: 421. | Maioria do partido: sim (13 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2472106-8](../../../../../votacoes/2472106-8/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 | 16 jul 2025 | Rejeitado o Requerimento. Sim: 124; Não: 269; Total: 393. | Maioria do partido: sim (11 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [257161-442](../../../../../votacoes/257161-442/) |
 | 16 jul 2025 | Rejeitado o Requerimento. Sim: 119; Não: 273; Total: 392. | Maioria do partido: sim (10 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [257161-446](../../../../../votacoes/257161-446/) |
 | 16 jul 2025 | Aprovado o Requerimento. Sim: 256; Não: 109; Total: 365. | Maioria do partido: nao (0 sim / 10 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [257161-450](../../../../../votacoes/257161-450/) |
-| 15 jul 2025 | Aprovado o Requerimento. Sim: 338; Não: 28; Total: 366. | Maioria do partido: nao (0 sim / 9 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2454495-142](../../../../../votacoes/2454495-142/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

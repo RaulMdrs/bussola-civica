@@ -18,10 +18,10 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">84,5%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">375 <span>votações computáveis</span></span><span class="n-detalhe">578 <span>votações no exercício</span></span> |
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">85,0%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">334 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">89,4%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">463 <span>votações computáveis</span></span><span class="n-detalhe">578 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">90,7%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">443 <span>votações computáveis</span></span><span class="n-detalhe">537 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">84,6%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">377 <span>votações computáveis</span></span><span class="n-detalhe">580 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">85,1%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">335 <span>votações computáveis</span></span><span class="n-detalhe">538 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">89,5%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">465 <span>votações computáveis</span></span><span class="n-detalhe">580 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">90,8%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">444 <span>votações computáveis</span></span><span class="n-detalhe">538 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
 **Cada percentual acima é um link** para a sua decomposição completa —
@@ -42,16 +42,16 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 
 | Tema | Alinhamento | Votações (n) |
 |---|---:|---:|
+| [Indústria, Comércio e Serviços](../../temas/industria-comercio-e-servicos/) | <span class="valor">96,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>25</b></span> |
 | [Saúde](../../temas/saude/) | <span class="valor">95,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>24</b></span> |
-| [Indústria, Comércio e Serviços](../../temas/industria-comercio-e-servicos/) | <span class="valor">95,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>24</b></span> |
 | [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">94,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>34</b></span> |
+| [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">94,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>17</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">93,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>16</b></span> <span class="aviso-n">amostra pequena</span> |
-| [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">93,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>16</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | <span class="valor">89,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>28</b></span> |
-| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">87,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>196</b></span> |
-| [Economia](../../temas/economia/) | <span class="valor">87,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>57</b></span> |
+| [Economia](../../temas/economia/) | <span class="valor">87,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>58</b></span> |
+| [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">87,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>198</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">84,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>39</b></span> |
-| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">71,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>117</b></span> |
+| [Administração Pública](../../temas/administracao-publica/) | <span class="valor">72,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>118</b></span> |
 | [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">59,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>32</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">52,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>25</b></span> |
 {: .t-temas}
@@ -130,14 +130,14 @@ Acima é amostra, e diz que é. A decomposição completa — **todas** as
 votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
-- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 375 votações
-- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 334 votações
-- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 463 votações
-- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 443 votações
+- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 377 votações
+- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 335 votações
+- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 465 votações
+- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 444 votações
 
 ## O que disse em plenário
 
-São **717 discursos** coletados no período, dos quais **636 substantivos** — os outros 81 são
+São **718 discursos** coletados no período, dos quais **637 substantivos** — os outros 81 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,15 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6634">
+<span class="data">13 out 2026 · 16:40</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73486/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-5404">
 <span class="data">08 jul 2026 · 18:32</span>
@@ -183,20 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5400">
-<span class="data">08 jul 2026 · 15:08</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado Pompeo de Mattos fez apelo para que a Câmara votasse o Projeto de Lei nº 5.583, de 2025, que altera a Lei nº 13.986, de 7 de abril de 2020, para suspender, em caso de calamidade pública, a execução de garantias reais constituídas sobre imóveis rurais e estabelecer prazo mínimo para consolidação da propriedade ou do bem dado em garantia. Além disso, criticou a alienação fiduciária no crédito agrícola, afirmando que o mecanismo retirava máquinas e terras dos agricultores sem ação judicial e favorecia bancos em prejuízo do agro. Por fim, defendeu que o financiamento rural usasse penhor ou hipoteca, mas não fidúcia, para proteger o produtor e a continuidade da produção.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73486/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>78</b></span> | 59 |
+| [2026](discursos/2026/) | <span class="n"><b>79</b></span> | 60 |
 | [2025](discursos/2025/) | <span class="n"><b>222</b></span> | 188 |
 | [2024](discursos/2024/) | <span class="n"><b>150</b></span> | 141 |
 | [2023](discursos/2023/) | <span class="n"><b>267</b></span> | 248 |

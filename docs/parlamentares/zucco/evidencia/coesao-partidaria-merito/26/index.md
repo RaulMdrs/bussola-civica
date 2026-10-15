@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Zucco — Coesão com o próprio partido, Mérito (página 26)"
-description: "A decomposição completa do número de Zucco: 551 votações em 28 páginas, uma por linha, com link para a fonte. Esta traz da 501ª à 520ª."
+description: "A decomposição completa do número de Zucco: 553 votações em 28 páginas, uma por linha, com link para a fonte. Esta traz da 501ª à 520ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Zucco: 551 votações em 2
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>82,8%</b> é <b>456</b> coincidências em
-<b>551</b> votações computáveis — as outras 95 estão
+<p><b>82,8%</b> é <b>458</b> coincidências em
+<b>553</b> votações computáveis — as outras 95 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>28 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>501ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>501ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 07 jul 2023 | Mantido o texto. Sim: 336; não: 132; total: 468. | Maioria do partido: sim (34 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-386](../../../../../votacoes/2196833-386/) |
+| 07 jul 2023 | Mantido o texto. Sim: 349; não: 84; abstenção: 2; total: 435. | Maioria do partido: sim (34 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-390](../../../../../votacoes/2196833-390/) |
 | 07 jul 2023 | Mantido o texto. Sim: 370; não: 28; abstenção: 3; total: 401. | Maioria do partido: sim (33 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-392](../../../../../votacoes/2196833-392/) |
 | 07 jul 2023 | Suprimido o texto. Sim: 307; não: 166; abstenção: 5; total: 478. | Maioria do partido: sim (25 sim / 11 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-395](../../../../../votacoes/2196833-395/) |
 | 07 jul 2023 | Suprimido o texto. Sim: 112; não: 284; abstenção: 1; total: 397. | Maioria do partido: nao (2 sim / 30 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2360503-74](../../../../../votacoes/2360503-74/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>501ª</b> à
 | 06 jul 2023 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 45, de 2019, ressalvados os destaques. Sim: 375; não: 113; abstenção:3; total: 491. | Maioria do partido: sim (36 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-373](../../../../../votacoes/2196833-373/) |
 | 06 jul 2023 | Mantido o texto. Sim: 423; não: 37; abstenção: 1; total: 461. | Maioria do partido: sim (36 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-380](../../../../../votacoes/2196833-380/) |
 | 14 jun 2023 | Aprovada a Medida Provisória nº 1.165 de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 353; não: 58; abstenção: 1; total: 412. | Maioria do partido: sim (26 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2351990-37](../../../../../votacoes/2351990-37/) |
-| 14 jun 2023 | Aprovado o Substitutivo ao Projeto de Lei nº 2.720, de 2023, adotado pelo relator da Constituição e Justiça e de Cidadania. Sim: 252; não: 163; total: 415. | Maioria do partido: sim (27 sim / 6 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2364109-35](../../../../../votacoes/2364109-35/) |
-| 13 jun 2023 | Aprovado o Projeto de Lei nº 2.250, de 2023. Sim: 318; não: 31; total: 349. | Maioria do partido: sim (26 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2358922-21](../../../../../votacoes/2358922-21/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Motta — Alinhamento com o governo federal, Mérito (página 7)"
-description: "A decomposição completa do número de Afonso Motta: 391 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
+description: "A decomposição completa do número de Afonso Motta: 393 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Afonso Motta: 391 votaçõ
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>85,7%</b> é <b>335</b> coincidências em
-<b>391</b> votações computáveis — as outras 56 estão
+<p><b>85,5%</b> é <b>336</b> coincidências em
+<b>393</b> votações computáveis — as outras 57 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 16 jul 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 1.872, de 2025, adotado pela relatora da Comissão de Finanças e Tributação, ressalvado o destaque. . Sim: 264; Não: 169; Abstenção: 4; Total: 437. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2500330-43](../../../../../votacoes/2500330-43/) |
+| 16 jul 2025 | Aprovadas. Sim: 267; Não: 116; Total: 383. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [257161-454](../../../../../votacoes/257161-454/) |
 | 16 jul 2025 | Aprovada a Emenda do Senado Federal nº 1. Sim: 242; Não: 117; Total: 359. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [257161-462](../../../../../votacoes/257161-462/) |
 | 16 jul 2025 | Aprovada a Emenda do Senado Federal nº 4. Sim: 234; Não: 101; Total: 335. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [257161-467](../../../../../votacoes/257161-467/) |
 | 16 jul 2025 | Aprovada a Emenda do Senado Federal nº 18. Sim: 221; Não: 77; Abstenção: 1; Total: 299. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [257161-476](../../../../../votacoes/257161-476/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 | 08 jul 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 6.020, de 2023, adotado pela relatora da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 302; Não: 99; Total: 401. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2413257-116](../../../../../votacoes/2413257-116/) |
 | 08 jul 2025 | Rejeitado o Destaque. Sim: 159; Não: 243; Total: 402. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2413257-125](../../../../../votacoes/2413257-125/) |
 | 08 jul 2025 | Aprovado o Substitutivo ao Projeto de Lei nº 769, de 2024, adotado pelo relator da Comissão de Finanças e Tributação, ressalvados os destaques. Sim: 209; Não: 165; Abstenção: 4; Total: 378. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2421211-88](../../../../../votacoes/2421211-88/) |
-| 01 jul 2025 | Mantido o texto. Sim: 274; Não: 73; Abstenção: 1; Total: 348. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2191678-93](../../../../../votacoes/2191678-93/) |
-| 25 jun 2025 | Mantido o texto. Sim: 295; Não: 80; Abstenção: 2; Total: 377. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2465240-36](../../../../../votacoes/2465240-36/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Luiz Carlos Busato — Alinhamento com o governo federal, Mérito (página 20)"
-description: "A decomposição completa do número de Luiz Carlos Busato: 395 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 395ª."
+description: "A decomposição completa do número de Luiz Carlos Busato: 397 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 397ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Luiz Carlos Busato: 395 vo
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>77,2%</b> é <b>305</b> coincidências em
-<b>395</b> votações computáveis — as outras 90 estão
+<p><b>77,1%</b> é <b>306</b> coincidências em
+<b>397</b> votações computáveis — as outras 91 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
-<b>395ª</b>.</p>
+<b>397ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 31 mai 2023 | Rejeitada a Emenda de Comissão nº 14. Sim: 182; não: ; 243; abstenção: 2; total: 427. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2345493-50](../../../../../votacoes/2345493-50/) |
+| 30 mai 2023 | Rejeitada a Emenda de Comissão nº 98. Sim: 159; não: 270; total: 429. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2349947-42](../../../../../votacoes/2349947-42/) |
 | 30 mai 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 490, de 2007, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 283; não: 155; abstenção: 1; total: 439. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [345311-270](../../../../../votacoes/345311-270/) |
 | 30 mai 2023 | Mantido o texto. Sim: 288; não: 148; abstenção: 2; total: 438. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [345311-276](../../../../../votacoes/345311-276/) |
 | 30 mai 2023 | Mantido o texto. Sim: 290; não: 142; abstenção: 1; total: 433. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [345311-279](../../../../../votacoes/345311-279/) |

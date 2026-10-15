@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcelo Moraes — Alinhamento com o governo federal, Procedimental (página 6)"
-description: "A decomposição completa do número de Marcelo Moraes: 282 votações em 15 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
+description: "A decomposição completa do número de Marcelo Moraes: 283 votações em 15 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcelo Moraes: 282 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>16,7%</b> é <b>47</b> coincidências em
-<b>282</b> votações computáveis — as outras 235 estão
+<p><b>17,0%</b> é <b>48</b> coincidências em
+<b>283</b> votações computáveis — as outras 235 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>15 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 12 ago 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 431; Total: 431. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2536814-8](../../../../../votacoes/2536814-8/) |
 | 12 ago 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 384; Não: 13; Total: 397. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2536992-8](../../../../../votacoes/2536992-8/) |
 | 12 ago 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 323; Não: 123; Total: 446. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2543003-8](../../../../../votacoes/2543003-8/) |
 | 16 jul 2025 | Rejeitado o Requerimento. Sim: 100; Não: 350; Total: 450. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2398530-57](../../../../../votacoes/2398530-57/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 | 25 jun 2025 | Rejeitado o Requerimento. Sim: 99; Não: 354; Total: 453. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2515648-36](../../../../../votacoes/2515648-36/) |
 | 25 jun 2025 | Aprovado o Requerimento. Sim: 353; Não: 102; Total: 455. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2515648-41](../../../../../votacoes/2515648-41/) |
 | 11 jun 2025 | Rejeitado o Requerimento. Sim: 77; Não: 209; Total: 286. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2413257-85](../../../../../votacoes/2413257-85/) |
-| 11 jun 2025 | Rejeitado o Requerimento. Sim: 75; Não: 189; Abstenção: 2; Total: 266. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2413257-96](../../../../../votacoes/2413257-96/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

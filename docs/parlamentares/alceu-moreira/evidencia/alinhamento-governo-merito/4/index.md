@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alceu Moreira — Alinhamento com o governo federal, Mérito (página 4)"
-description: "A decomposição completa do número de Alceu Moreira: 408 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
+description: "A decomposição completa do número de Alceu Moreira: 410 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alceu Moreira: 408 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>59,8%</b> é <b>244</b> coincidências em
-<b>408</b> votações computáveis — as outras 164 estão
+<p><b>59,8%</b> é <b>245</b> coincidências em
+<b>410</b> votações computáveis — as outras 165 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 09 dez 2025 | Mantido o texto. Sim: 283; Não: 116; Total: 399. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2471177-105](../../../../../votacoes/2471177-105/) |
+| 09 dez 2025 | Mantido o texto. Sim: 302; Não: 124; Total: 426. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2471177-108](../../../../../votacoes/2471177-108/) |
 | 09 dez 2025 | Mantido o texto. Sim: 298; Não: 117; Total: 415. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2471177-111](../../../../../votacoes/2471177-111/) |
 | 09 dez 2025 | Mantido o texto. Sim: 298; Não: 112; Total: 410. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2471177-117](../../../../../votacoes/2471177-117/) |
 | 09 dez 2025 | Aprovado o Projeto de Lei Complementar nº 125, de 2022. Sim: 436; Não: 2; Total: 438. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2559194-42](../../../../../votacoes/2559194-42/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 | 05 nov 2025 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 347, de 2003, adotado pelo relator da Comissão de Meio Ambiente e Desenvolvimento Sustentável, ressalvado o destaque. Sim: 427; Não: 1; Total: 428. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [106701-223](../../../../../votacoes/106701-223/) |
 | 05 nov 2025 | Aprovada a Emenda de Plenário n. 7. Sim: 269; Não: 154; Total: 423. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [106701-227](../../../../../votacoes/106701-227/) |
 | 05 nov 2025 | Aprovada a Emenda Aglutinativa nº 1. Sim: 325; Não: 94; Total: 419. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2157806-168](../../../../../votacoes/2157806-168/) |
-| 05 nov 2025 | Mantido o texto. Sim: 327; Não: 98; Total: 425. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2157806-177](../../../../../votacoes/2157806-177/) |
-| 05 nov 2025 | Mantido o texto. Sim: 274; Não: 101; Total: 375. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2386051-101](../../../../../votacoes/2386051-101/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

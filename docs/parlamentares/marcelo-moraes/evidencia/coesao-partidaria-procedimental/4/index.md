@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcelo Moraes — Coesão com o próprio partido, Procedimental (página 4)"
-description: "A decomposição completa do número de Marcelo Moraes: 378 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
+description: "A decomposição completa do número de Marcelo Moraes: 379 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcelo Moraes: 378 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>91,0%</b> é <b>344</b> coincidências em
-<b>378</b> votações computáveis — as outras 34 estão
+<p><b>91,0%</b> é <b>345</b> coincidências em
+<b>379</b> votações computáveis — as outras 34 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 10 dez 2025 | Rejeitado o Requerimento. Sim: 151; Não: 236; Abstenção: 3; Total: 390. | Maioria do partido: sim (69 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2525122-73](../../../../../votacoes/2525122-73/) |
 | 10 dez 2025 | Aprovado o Requerimento. Sim: 242; Não: 181; Abstenção: 1; Total: 424. | Maioria do partido: sim (65 sim / 12 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2595686-22](../../../../../votacoes/2595686-22/) |
 | 09 dez 2025 | Rejeitado o Requerimento. Sim: 146; Não: 294; Total: 440. | Maioria do partido: nao (1 sim / 75 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2358548-51](../../../../../votacoes/2358548-51/) |
 | 09 dez 2025 | Rejeitado o Requerimento. Sim: 147; Não: 287; Total: 434. | Maioria do partido: nao (1 sim / 74 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2358548-55](../../../../../votacoes/2358548-55/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 | 05 nov 2025 | Rejeitado o Requerimento. Sim: 124; Não: 297; Total: 421. | Maioria do partido: nao (2 sim / 67 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2482078-49](../../../../../votacoes/2482078-49/) |
 | 05 nov 2025 | Aprovado o Requerimento. Sim: 310; Não: 120; Abstenção: 1; Total: 431. | Maioria do partido: sim (70 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2482078-54](../../../../../votacoes/2482078-54/) |
 | 05 nov 2025 | Rejeitado o Requerimento. Sim: 134; Não: 267; Total: 401. | Maioria do partido: sim (63 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2526776-31](../../../../../votacoes/2526776-31/) |
-| 05 nov 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 313; Não: 119; Abstenção: 1; Total: 433. | Maioria do partido: sim (74 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2553457-17](../../../../../votacoes/2553457-17/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

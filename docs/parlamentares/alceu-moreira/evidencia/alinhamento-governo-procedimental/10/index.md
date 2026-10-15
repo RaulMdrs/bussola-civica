@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alceu Moreira — Alinhamento com o governo federal, Procedimental (página 10)"
-description: "A decomposição completa do número de Alceu Moreira: 329 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
+description: "A decomposição completa do número de Alceu Moreira: 330 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alceu Moreira: 329 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>56,5%</b> é <b>186</b> coincidências em
-<b>329</b> votações computáveis — as outras 143 estão
+<p><b>56,7%</b> é <b>187</b> coincidências em
+<b>330</b> votações computáveis — as outras 143 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>17 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 04 dez 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 260; Não: 98; Abstenção: 2; Total: 360. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2475018-8](../../../../../votacoes/2475018-8/) |
 | 03 dez 2024 | Rejeitado o Requerimento. Sim: 38; Não: 357; Total: 395. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2462730-28](../../../../../votacoes/2462730-28/) |
 | 27 nov 2024 | Rejeitado o Requerimento. Sim: 113; Não: 268; Total: 381. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [559138-237](../../../../../votacoes/559138-237/) |
 | 27 nov 2024 | Rejeitado o Requerimento. Sim: 116; Não: 274; Total: 390. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [559138-241](../../../../../votacoes/559138-241/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 | 11 set 2024 | Rejeitado o Requerimento. Sim: 9; Não: 352; Abstenção: 1; Total: 362. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2408709-73](../../../../../votacoes/2408709-73/) |
 | 11 set 2024 | Rejeitado o Requerimento. Sim: 1; Não: 347; Total: 348. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2410466-47](../../../../../votacoes/2410466-47/) |
 | 11 set 2024 | Rejeitado o Requerimento. Sim: 2; Não: 377; Abstenção: 4; Total: 383. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2410466-50](../../../../../votacoes/2410466-50/) |
-| 11 set 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 353; Não: 7; Abstenção: 1; Total: 361. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2418020-7](../../../../../votacoes/2418020-7/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

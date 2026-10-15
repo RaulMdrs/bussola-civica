@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Mauricio Marcon — Alinhamento com o governo federal, Mérito (página 21)"
-description: "A decomposição completa do número de Mauricio Marcon: 416 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 401ª à 416ª."
+description: "A decomposição completa do número de Mauricio Marcon: 418 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 401ª à 418ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Mauricio Marcon: 416 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>28,8%</b> é <b>120</b> coincidências em
-<b>416</b> votações computáveis — as outras 296 estão
+<p><b>28,9%</b> é <b>121</b> coincidências em
+<b>418</b> votações computáveis — as outras 297 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>401ª</b> à
-<b>416ª</b>.</p>
+<b>418ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>401ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 30 mai 2023 | Mantido o texto. Sim: 290; não: 142; abstenção: 1; total: 433. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [345311-279](../../../../../votacoes/345311-279/) |
+| 24 mai 2023 | Rejeitada a Emenda nº 1 e restabelecidos os dispositivos aprovados pela câmara consubstanciados no Projeto de Lei de Conversão nº 6, de 2023. Sim: 66; não: 364; abtenção: 2; total: 432. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2345368-78](../../../../../votacoes/2345368-78/) |
 | 24 mai 2023 | Mantido o texto. Sim: 326; não: 138; total: 464. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2357053-59](../../../../../votacoes/2357053-59/) |
 | 24 mai 2023 | Mantido o texto. Sim: 316; não: 160; abstenção: 3; total: 479. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2357053-62](../../../../../votacoes/2357053-62/) |
 | 24 mai 2023 | Mantido o texto. Sim: 306; não: 170; total: 476. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2357053-65](../../../../../votacoes/2357053-65/) |

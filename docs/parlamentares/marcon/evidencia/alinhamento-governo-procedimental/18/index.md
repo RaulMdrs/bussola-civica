@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcon — Alinhamento com o governo federal, Procedimental (página 18)"
-description: "A decomposição completa do número de Marcon: 359 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 359ª."
+description: "A decomposição completa do número de Marcon: 360 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Marcon: 359 votações em 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>96,7%</b> é <b>347</b> coincidências em
-<b>359</b> votações computáveis — as outras 12 estão
+<p><b>96,7%</b> é <b>348</b> coincidências em
+<b>360</b> votações computáveis — as outras 12 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
-<b>359ª</b>.</p>
+<b>360ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 20 jun 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 278; não: 88; abstenção: 4; total: 370. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2369594-8](../../../../../votacoes/2369594-8/) |
 | 31 mai 2023 | Rejeitado o Requerimento. Sim: 130; não: 337; abstenção: 1; total: 468. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2345493-31](../../../../../votacoes/2345493-31/) |
 | 31 mai 2023 | Aprovado o Requerimento. Sim: 324; não: 114; abstenção: 1; total: 439. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2345493-35](../../../../../votacoes/2345493-35/) |
 | 30 mai 2023 | Aprovado o Requerimento. Sim: 311; não: 137; abstenção: 1; total: 449. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [345311-257](../../../../../votacoes/345311-257/) |

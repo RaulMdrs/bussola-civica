@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Mauricio Marcon — Coesão com o próprio partido, Mérito (página 25)"
-description: "A decomposição completa do número de Mauricio Marcon: 526 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 481ª à 500ª."
+description: "A decomposição completa do número de Mauricio Marcon: 528 votações em 27 páginas, uma por linha, com link para a fonte. Esta traz da 481ª à 500ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Mauricio Marcon: 526 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>51,3%</b> é <b>270</b> coincidências em
-<b>526</b> votações computáveis — as outras 256 estão
+<p><b>51,5%</b> é <b>272</b> coincidências em
+<b>528</b> votações computáveis — as outras 256 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>27 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>481ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>481ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 07 jul 2023 | Mantido o texto. Sim: 349; não: 84; abstenção: 2; total: 435. | Maioria do partido: sim (11 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-390](../../../../../votacoes/2196833-390/) |
+| 07 jul 2023 | Mantido o texto. Sim: 370; não: 28; abstenção: 3; total: 401. | Maioria do partido: sim (10 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2196833-392](../../../../../votacoes/2196833-392/) |
 | 07 jul 2023 | Suprimido o texto. Sim: 307; não: 166; abstenção: 5; total: 478. | Maioria do partido: nao (5 sim / 6 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2196833-395](../../../../../votacoes/2196833-395/) |
 | 07 jul 2023 | Suprimido o texto. Sim: 112; não: 284; abstenção: 1; total: 397. | Maioria do partido: nao (0 sim / 10 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2360503-74](../../../../../votacoes/2360503-74/) |
 | 07 jul 2023 | Mantido o texto. Sim: 327; não: 96; abstenção: 1; total: 424. | Maioria do partido: sim (10 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2367064-66](../../../../../votacoes/2367064-66/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>481ª</b> à
 | 06 jul 2023 | Mantido o texto. Sim: 423; não: 37; abstenção: 1; total: 461. | Maioria do partido: sim (11 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2196833-380](../../../../../votacoes/2196833-380/) |
 | 14 jun 2023 | Aprovada a Medida Provisória nº 1.165 de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 353; não: 58; abstenção: 1; total: 412. | Maioria do partido: sim (9 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2351990-37](../../../../../votacoes/2351990-37/) |
 | 14 jun 2023 | Aprovado o Substitutivo ao Projeto de Lei nº 2.720, de 2023, adotado pelo relator da Constituição e Justiça e de Cidadania. Sim: 252; não: 163; total: 415. | Maioria do partido: sim (8 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2364109-35](../../../../../votacoes/2364109-35/) |
-| 31 mai 2023 | Aprovado, em apreciação preliminar, o Parecer da Comissão Mista, na parte em que manifesta opinião pelo atendimento dos pressupostos constitucionais de relevância e urgência e pela inadequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 319; não: 111; abstenção: 1; total: 431. | Maioria do partido: sim (9 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2345493-38](../../../../../votacoes/2345493-38/) |
-| 31 mai 2023 | Aprovada a Medida Provisória nº 1.154 de 2023, na forma do Projeto de Lei de Conversão, ressalvados os destaques. Sim: 337; não: 125; abstenção: 1; total: 463. | Maioria do partido: sim (10 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2345493-41](../../../../../votacoes/2345493-41/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

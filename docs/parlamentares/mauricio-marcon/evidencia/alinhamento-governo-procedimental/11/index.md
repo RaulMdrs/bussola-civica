@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Mauricio Marcon — Alinhamento com o governo federal, Procedimental (página 11)"
-description: "A decomposição completa do número de Mauricio Marcon: 388 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
+description: "A decomposição completa do número de Mauricio Marcon: 389 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Mauricio Marcon: 388 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>20,4%</b> é <b>79</b> coincidências em
-<b>388</b> votações computáveis — as outras 309 estão
+<p><b>20,6%</b> é <b>80</b> coincidências em
+<b>389</b> votações computáveis — as outras 309 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 04 dez 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 260; Não: 98; Abstenção: 2; Total: 360. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2475018-8](../../../../../votacoes/2475018-8/) |
 | 03 dez 2024 | Rejeitado o Requerimento. Sim: 38; Não: 357; Total: 395. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2462730-28](../../../../../votacoes/2462730-28/) |
 | 27 nov 2024 | Rejeitado o Requerimento. Sim: 113; Não: 268; Total: 381. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [559138-237](../../../../../votacoes/559138-237/) |
 | 27 nov 2024 | Rejeitado o Requerimento. Sim: 116; Não: 274; Total: 390. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [559138-241](../../../../../votacoes/559138-241/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 | 05 nov 2024 | Aprovado o Requerimento. Sim: 304; Não: 52; Total: 356. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2466104-30](../../../../../votacoes/2466104-30/) |
 | 05 nov 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 360; Não: 60; Total: 420. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2466682-9](../../../../../votacoes/2466682-9/) |
 | 30 out 2024 | Rejeitado o Requerimento. Sim: 71; Não: 221; Total: 292. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2438459-63](../../../../../votacoes/2438459-63/) |
-| 16 out 2024 | Rejeitado o Requerimento. Sim: 105; Não: 292; Total: 397. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2244008-82](../../../../../votacoes/2244008-82/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

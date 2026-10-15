@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcel van Hattem — Coesão com o próprio partido, Procedimental (página 24)"
-description: "A decomposição completa do número de Marcel van Hattem: 462 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 461ª à 462ª."
+description: "A decomposição completa do número de Marcel van Hattem: 463 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 461ª à 463ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Marcel van Hattem: 462 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>99,8%</b> é <b>461</b> coincidências em
-<b>462</b> votações computáveis — as outras 1 estão
+<p><b>99,8%</b> é <b>462</b> coincidências em
+<b>463</b> votações computáveis — as outras 1 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>24 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>461ª</b> à
-<b>462ª</b>.</p>
+<b>463ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>461ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 15 mar 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 280; não: 97; abstenção: 1; total: 378. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2350706-6](../../../../../votacoes/2350706-6/) |
 | 14 mar 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 374; não: 27; abstenção: 2; total: 403. | Maioria do partido: nao (0 sim / 2 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2345140-8](../../../../../votacoes/2345140-8/) |
 | 14 mar 2023 | Aprovado o Requerimento de Urgência (Art. 154 do RICD). Sim: 366; não: 41; abstenção: 1; total: 408. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2351332-7](../../../../../votacoes/2351332-7/) |
 {: .t-evid}

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Pedro Westphalen — Alinhamento com o governo federal, Procedimental (página 4)"
-description: "A decomposição completa do número de Pedro Westphalen: 327 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
+description: "A decomposição completa do número de Pedro Westphalen: 328 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Pedro Westphalen: 327 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>42,2%</b> é <b>138</b> coincidências em
-<b>327</b> votações computáveis — as outras 189 estão
+<p><b>42,4%</b> é <b>139</b> coincidências em
+<b>328</b> votações computáveis — as outras 189 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>17 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 05 nov 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 313; Não: 119; Abstenção: 1; Total: 433. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2553457-17](../../../../../votacoes/2553457-17/) |
 | 04 nov 2025 | Rejeitado o Requerimento. Sim: 158; Não: 269; Abstenção: 1; Total: 428. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2157806-125](../../../../../votacoes/2157806-125/) |
 | 04 nov 2025 | Rejeitado o Requerimento. Sim: 125; Não: 287; Total: 412. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2564274-29](../../../../../votacoes/2564274-29/) |
 | 03 nov 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 275; Não: 146; Total: 421. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2579995-8](../../../../../votacoes/2579995-8/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 | 14 out 2025 | Rejeitado o Requerimento. Sim: 13; Não: 409; Total: 422. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2501358-37](../../../../../votacoes/2501358-37/) |
 | 08 out 2025 | Aprovado o Requerimento. Sim: 251; Não: 193; Total: 444. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2525180-26](../../../../../votacoes/2525180-26/) |
 | 24 set 2025 | Rejeitado o Requerimento. Sim: 89; Não: 277; Abstenção: 1; Total: 367. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2519886-21](../../../../../votacoes/2519886-21/) |
-| 24 set 2025 | Rejeitado o Requerimento. Sim: 84; Não: 325; Abstenção: 1; Total: 410. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2519886-26](../../../../../votacoes/2519886-26/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

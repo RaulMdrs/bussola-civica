@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Paulo Pimenta — Coesão com o próprio partido, Procedimental (página 6)"
-description: "A decomposição completa do número de Paulo Pimenta: 234 votações em 12 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
+description: "A decomposição completa do número de Paulo Pimenta: 235 votações em 12 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Paulo Pimenta: 234 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>98,7%</b> é <b>231</b> coincidências em
-<b>234</b> votações computáveis — as outras 3 estão
+<p><b>98,7%</b> é <b>232</b> coincidências em
+<b>235</b> votações computáveis — as outras 3 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>12 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 out 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 300; Não: 100; Total: 400. | Maioria do partido: sim (54 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2575077-10](../../../../../votacoes/2575077-10/) |
 | 29 out 2025 | Rejeitado o Requerimento. Sim: 137; Não: 279; Total: 416. | Maioria do partido: nao (0 sim / 60 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [545304-112](../../../../../votacoes/545304-112/) |
 | 29 out 2025 | Rejeitado o Requerimento. Sim: 126; Não: 264; Total: 390. | Maioria do partido: nao (0 sim / 58 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [545304-120](../../../../../votacoes/545304-120/) |
 | 29 out 2025 | Rejeitado o Requerimento. Sim: 148; Não: 277; Total: 425. | Maioria do partido: nao (3 sim / 60 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [545304-128](../../../../../votacoes/545304-128/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 | 24 set 2025 | Rejeitado o Requerimento. Sim: 156; Não: 280; Total: 436. | Maioria do partido: nao (0 sim / 60 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2541109-27](../../../../../votacoes/2541109-27/) |
 | 24 set 2025 | Rejeitado o Requerimento. Sim: 147; Não: 259; Total: 406. | Maioria do partido: nao (0 sim / 55 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2541109-34](../../../../../votacoes/2541109-34/) |
 | 18 set 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 369; Não: 38; Total: 407. | Maioria do partido: sim (49 sim / 5 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2558692-10](../../../../../votacoes/2558692-10/) |
-| 17 set 2025 | Rejeitado o Requerimento. Sim: 132; Não: 309; Total: 441. | Maioria do partido: sim (48 sim / 8 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2270800-172](../../../../../votacoes/2270800-172/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

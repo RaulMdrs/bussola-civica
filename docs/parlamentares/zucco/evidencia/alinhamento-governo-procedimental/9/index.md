@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Zucco — Alinhamento com o governo federal, Procedimental (página 9)"
-description: "A decomposição completa do número de Zucco: 377 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
+description: "A decomposição completa do número de Zucco: 378 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Zucco: 377 votações em 1
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>20,7%</b> é <b>78</b> coincidências em
-<b>377</b> votações computáveis — as outras 299 estão
+<p><b>20,9%</b> é <b>79</b> coincidências em
+<b>378</b> votações computáveis — as outras 299 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 abr 2025 | Rejeitado o Requerimento. Sim: 102; Não: 244; Total: 346. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2456731-67](../../../../../votacoes/2456731-67/) |
 | 28 abr 2025 | Rejeitado o Requerimento. Sim: 98; Não: 229; Total: 327. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2483495-34](../../../../../votacoes/2483495-34/) |
 | 28 abr 2025 | Rejeitado o Requerimento. Sim: 116; Não: 269; Total: 385. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2483495-38](../../../../../votacoes/2483495-38/) |
 | 28 abr 2025 | Aprovado o Requerimento. Sim: 274; Não: 122; Total: 396. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2483495-47](../../../../../votacoes/2483495-47/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 | 25 fev 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 347; Não: 29; Abstenção: 3; Total: 379. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2485227-8](../../../../../votacoes/2485227-8/) |
 | 18 fev 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 266; Não: 140; Abstenção: 2; Total: 408. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2484059-7](../../../../../votacoes/2484059-7/) |
 | 12 fev 2025 | Rejeitado o Requerimento. Sim: 125; Não: 236; Abstenção: 2; Total: 363. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2438467-41](../../../../../votacoes/2438467-41/) |
-| 19 dez 2024 | Rejeitado o Requerimento. Sim: 82; Não: 193; Total: 275. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2460010-35](../../../../../votacoes/2460010-35/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

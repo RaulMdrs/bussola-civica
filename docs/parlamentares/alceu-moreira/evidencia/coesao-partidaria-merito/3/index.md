@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alceu Moreira — Coesão com o próprio partido, Mérito (página 3)"
-description: "A decomposição completa do número de Alceu Moreira: 505 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
+description: "A decomposição completa do número de Alceu Moreira: 507 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alceu Moreira: 505 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>75,4%</b> é <b>381</b> coincidências em
-<b>505</b> votações computáveis — as outras 124 estão
+<p><b>75,5%</b> é <b>383</b> coincidências em
+<b>507</b> votações computáveis — as outras 124 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 18 mar 2026 | Mantido o texto. Sim: 278; Não: 114; Abstenção: 2; Total: 394. | Maioria do partido: sim (20 sim / 7 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2376169-101](../../../../../votacoes/2376169-101/) |
+| 18 mar 2026 | Mantido o texto. Sim: 232; Não: 151; Abstenção: 1; Total: 384. | Maioria do partido: sim (20 sim / 9 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2462009-79](../../../../../votacoes/2462009-79/) |
 | 17 mar 2026 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 6, de 2024, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 417; Não: 1; Total: 418. | Maioria do partido: sim (24 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2418774-66](../../../../../votacoes/2418774-66/) |
 | 11 mar 2026 | Mantido o texto. Sim: 213; Não: 152; Abstenção: 3; Total: 368. | Maioria do partido: sim (11 sim / 7 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2596663-47](../../../../../votacoes/2596663-47/) |
 | 10 mar 2026 | Mantido o texto. Sim: 408; Não: 13; Total: 421. | Maioria do partido: sim (32 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2449741-72](../../../../../votacoes/2449741-72/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 | 02 fev 2026 | Mantido o texto. Sim: 401; Não: 34; Total: 435. | Maioria do partido: sim (30 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2557414-41](../../../../../votacoes/2557414-41/) |
 | 16 dez 2025 | Suprimido o texto. Sim: 63; Não: 373; Abstenção: 1; Total: 437. | Maioria do partido: nao (6 sim / 28 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438459-135](../../../../../votacoes/2438459-135/) |
 | 16 dez 2025 | Mantido o texto. Sim: 441; Não: 3; Total: 444. | Maioria do partido: sim (33 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-139](../../../../../votacoes/2438459-139/) |
-| 16 dez 2025 | Mantido o texto. Sim: 423; Não: 23; Abstenção: 1; Total: 447. | Maioria do partido: sim (30 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-141](../../../../../votacoes/2438459-141/) |
-| 16 dez 2025 | Suprimido o texto. Sim: 15; Não: 334; Total: 349. | Maioria do partido: nao (1 sim / 22 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438459-143](../../../../../votacoes/2438459-143/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

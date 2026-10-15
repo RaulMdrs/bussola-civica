@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Luiz Carlos Busato — Alinhamento com o governo federal, Procedimental (página 10)"
-description: "A decomposição completa do número de Luiz Carlos Busato: 367 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
+description: "A decomposição completa do número de Luiz Carlos Busato: 368 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Luiz Carlos Busato: 367 vo
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>79,3%</b> é <b>291</b> coincidências em
-<b>367</b> votações computáveis — as outras 76 estão
+<p><b>79,3%</b> é <b>292</b> coincidências em
+<b>368</b> votações computáveis — as outras 76 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 18 dez 2024 | Aprovado o Requerimento. Sim: 320; Não: 136; Abstenção: 2; Total: 458. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [347421-188](../../../../../votacoes/347421-188/) |
 | 17 dez 2024 | Rejeitado o Requerimento. Sim: 118; Não: 289; Total: 407. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2430143-137](../../../../../votacoes/2430143-137/) |
 | 17 dez 2024 | Rejeitado o Requerimento de Urgência (Art. 155 do RICD). Sim: 244; Não: 115; Total: 359. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2461217-7](../../../../../votacoes/2461217-7/) |
 | 17 dez 2024 | Rejeitado o Requerimento. Sim: 75; Não: 379; Abstenção: 2; Total: 456. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2473389-45](../../../../../votacoes/2473389-45/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 | 26 nov 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 355; Não: 35; Total: 390. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2469306-8](../../../../../votacoes/2469306-8/) |
 | 26 nov 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 357; Não: 56; Abstenção: 1; Total: 414. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2470275-8](../../../../../votacoes/2470275-8/) |
 | 13 nov 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 262; Não: 111; Total: 373. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2324243-8](../../../../../votacoes/2324243-8/) |
-| 13 nov 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 272; Não: 140; Abstenção: 3; Total: 415. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2462049-9](../../../../../votacoes/2462049-9/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Alceu Moreira — Coesão com o próprio partido, Mérito (página 2)"
-description: "A decomposição completa do número de Alceu Moreira: 505 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
+description: "A decomposição completa do número de Alceu Moreira: 507 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Alceu Moreira: 505 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>75,4%</b> é <b>381</b> coincidências em
-<b>505</b> votações computáveis — as outras 124 estão
+<p><b>75,5%</b> é <b>383</b> coincidências em
+<b>507</b> votações computáveis — as outras 124 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 27 mai 2026 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 221, de 2019. Sim: 472; Não: 22; Total: 494. | Maioria do partido: sim (31 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2233802-424](../../../../../votacoes/2233802-424/) |
+| 27 mai 2026 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 221, de 2019. . Sim: 461; Não: 19; Total: 480. | Maioria do partido: sim (32 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2233802-438](../../../../../votacoes/2233802-438/) |
 | 20 mai 2026 | Rejeitada a Emenda de Plenário nº 2. Sim: 196; Não: 200; Abstenção: 1; Total: 397. | Maioria do partido: nao (10 sim / 13 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2613731-47](../../../../../votacoes/2613731-47/) |
 | 20 mai 2026 | Resultado. Sim: 182; Não: 182; Abstenção: 2; Total: 366. | Maioria do partido: nao (10 sim / 11 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2613731-65](../../../../../votacoes/2613731-65/) |
 | 19 mai 2026 | Aprovado o Projeto de Lei Complementar nº 262, de 2019. Sim: 442; Não: 2; Total: 444. | Maioria do partido: sim (28 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2447983-57](../../../../../votacoes/2447983-57/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 | 25 mar 2026 | Aprovado o Projeto de Lei Complementar nº 77, de 2026, ressalvado o destaque. Sim: 391; Não: 33; Abstenção: 2; Total: 426. | Maioria do partido: sim (28 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2611717-33](../../../../../votacoes/2611717-33/) |
 | 25 mar 2026 | Mantido o texto. Sim: 284; Não: 86; Abstenção: 3; Total: 373. | Maioria do partido: sim (21 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2611717-38](../../../../../votacoes/2611717-38/) |
 | 24 mar 2026 | Mantido o texto. Sim: 295; Não: 120; Abstenção: 1; Total: 416. | Maioria do partido: sim (22 sim / 7 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2487399-57](../../../../../votacoes/2487399-57/) |
-| 18 mar 2026 | Mantido o texto. Sim: 278; Não: 114; Abstenção: 2; Total: 394. | Maioria do partido: sim (20 sim / 7 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2376169-101](../../../../../votacoes/2376169-101/) |
-| 18 mar 2026 | Mantido o texto. Sim: 232; Não: 151; Abstenção: 1; Total: 384. | Maioria do partido: sim (20 sim / 9 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2462009-79](../../../../../votacoes/2462009-79/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

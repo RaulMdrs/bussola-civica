@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Motta — Coesão com o próprio partido, Mérito (página 3)"
-description: "A decomposição completa do número de Afonso Motta: 485 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
+description: "A decomposição completa do número de Afonso Motta: 487 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Afonso Motta: 485 votaçõ
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>92,0%</b> é <b>446</b> coincidências em
-<b>485</b> votações computáveis — as outras 39 estão
+<p><b>91,8%</b> é <b>447</b> coincidências em
+<b>487</b> votações computáveis — as outras 40 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 10 fev 2026 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 14, de 2026, adotado pelo relator da Comissão de Indústria, Comércio e Serviços. Sim: 317; Não: 61; Abstenção: 2; Total: 380. | Maioria do partido: sim (11 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2601040-31](../../../../../votacoes/2601040-31/) |
+| 09 fev 2026 | Aprovada a Medida Provisória nº 1.317, de 2025, na forma do Projeto de Lei de Conversão. Sim: 271; Não: 127; Total: 398. | Maioria do partido: sim (14 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2562173-30](../../../../../votacoes/2562173-30/) |
 | 02 fev 2026 | Mantido o texto. Sim: 401; Não: 34; Total: 435. | Maioria do partido: sim (15 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2557414-41](../../../../../votacoes/2557414-41/) |
 | 16 dez 2025 | Suprimido o texto. Sim: 63; Não: 373; Abstenção: 1; Total: 437. | Maioria do partido: nao (1 sim / 14 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438459-135](../../../../../votacoes/2438459-135/) |
 | 16 dez 2025 | Mantido o texto. Sim: 441; Não: 3; Total: 444. | Maioria do partido: sim (15 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-139](../../../../../votacoes/2438459-139/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 | 09 dez 2025 | Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 4.497, de 2024, ressalvados os destaques. Sim: 310; Não: 115; Total: 425. | Maioria do partido: nao (3 sim / 9 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2471177-102](../../../../../votacoes/2471177-102/) |
 | 09 dez 2025 | Mantido o texto. Sim: 283; Não: 116; Total: 399. | Maioria do partido: nao (2 sim / 10 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2471177-105](../../../../../votacoes/2471177-105/) |
 | 09 dez 2025 | Mantido o texto. Sim: 302; Não: 124; Total: 426. | Maioria do partido: nao (2 sim / 11 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2471177-108](../../../../../votacoes/2471177-108/) |
-| 09 dez 2025 | Mantido o texto. Sim: 298; Não: 117; Total: 415. | Maioria do partido: nao (3 sim / 10 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2471177-111](../../../../../votacoes/2471177-111/) |
-| 09 dez 2025 | Mantido o texto. Sim: 286; Não: 107; Total: 393. | Maioria do partido: nao (2 sim / 10 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2471177-114](../../../../../votacoes/2471177-114/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

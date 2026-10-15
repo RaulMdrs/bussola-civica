@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcelo Moraes — Alinhamento com o governo federal, Procedimental (página 9)"
-description: "A decomposição completa do número de Marcelo Moraes: 282 votações em 15 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
+description: "A decomposição completa do número de Marcelo Moraes: 283 votações em 15 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcelo Moraes: 282 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>16,7%</b> é <b>47</b> coincidências em
-<b>282</b> votações computáveis — as outras 235 estão
+<p><b>17,0%</b> é <b>48</b> coincidências em
+<b>283</b> votações computáveis — as outras 235 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>15 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 18 dez 2024 | Rejeitado o Requerimento. Sim: 137; Não: 302; Abstenção: 1; Total: 440. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2473389-74](../../../../../votacoes/2473389-74/) |
 | 18 dez 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 299; Não: 134; Abstenção: 3; Total: 436. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2480642-7](../../../../../votacoes/2480642-7/) |
 | 18 dez 2024 | Aprovado o Requerimento. Sim: 320; Não: 136; Abstenção: 2; Total: 458. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [347421-188](../../../../../votacoes/347421-188/) |
 | 17 dez 2024 | Rejeitado o Requerimento. Sim: 118; Não: 289; Total: 407. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2430143-137](../../../../../votacoes/2430143-137/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 | 26 nov 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 357; Não: 56; Abstenção: 1; Total: 414. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2470275-8](../../../../../votacoes/2470275-8/) |
 | 13 nov 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 262; Não: 111; Total: 373. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2324243-8](../../../../../votacoes/2324243-8/) |
 | 13 nov 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 272; Não: 140; Abstenção: 3; Total: 415. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2462049-9](../../../../../votacoes/2462049-9/) |
-| 13 nov 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 323; Não: 106; Total: 429. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2467823-9](../../../../../votacoes/2467823-9/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

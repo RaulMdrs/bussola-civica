@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Zucco — Alinhamento com o governo federal, Procedimental (página 19)"
-description: "A decomposição completa do número de Zucco: 377 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 377ª."
+description: "A decomposição completa do número de Zucco: 378 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 378ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Zucco: 377 votações em 1
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>20,7%</b> é <b>78</b> coincidências em
-<b>377</b> votações computáveis — as outras 299 estão
+<p><b>20,9%</b> é <b>79</b> coincidências em
+<b>378</b> votações computáveis — as outras 299 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
-<b>377ª</b>.</p>
+<b>378ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 23 mai 2023 | Aprovado o Requerimento. Sim: 371; não: 105; abstenção: 2; total: 478. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2357053-38](../../../../../votacoes/2357053-38/) |
 | 17 mai 2023 | Rejeitado o Requerimento. Sim: 184; não: 213; total: 397. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2115253-104](../../../../../votacoes/2115253-104/) |
 | 17 mai 2023 | Rejeitado o Requerimento. Sim: 187; não: 232; total: 419. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2115253-111](../../../../../votacoes/2115253-111/) |
 | 17 mai 2023 | Rejeitado o Requerimento. Sim: 173; não: 221; total: 394. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2115253-116](../../../../../votacoes/2115253-116/) |

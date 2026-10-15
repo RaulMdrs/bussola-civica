@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Pedro Westphalen — Coesão com o próprio partido, Mérito (página 20)"
-description: "A decomposição completa do número de Pedro Westphalen: 493 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 400ª."
+description: "A decomposição completa do número de Pedro Westphalen: 495 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 381ª à 400ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Pedro Westphalen: 493 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>70,0%</b> é <b>345</b> coincidências em
-<b>493</b> votações computáveis — as outras 148 estão
+<p><b>70,1%</b> é <b>347</b> coincidências em
+<b>495</b> votações computáveis — as outras 148 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 15 dez 2023 | Aprovada a Medida Provisória nº 1.185 de 2023, na forma do Projeto de Lei de Conversão, ressalvado o destaque. Sim: 335; não: 56; abstenção: 1; total: 392. | Maioria do partido: sim (34 sim / 9 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2384692-35](../../../../../votacoes/2384692-35/) |
+| 15 dez 2023 | Rejeitada a Emenda de Comissão nº 26. Sim: 56; não:336; abstenção: 2; total: 394. | Maioria do partido: nao (5 sim / 37 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2384692-38](../../../../../votacoes/2384692-38/) |
 | 15 dez 2023 | Rejeitada a Emenda de Comissão n° 40.Sim: 49; não: 304; total: 353. | Maioria do partido: nao (7 sim / 34 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2384692-43](../../../../../votacoes/2384692-43/) |
 | 15 dez 2023 | Rejeitada a Emenda de Comissão nº 52. Sim: 49; não: 325; total: 375. | Maioria do partido: nao (7 sim / 35 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2384692-45](../../../../../votacoes/2384692-45/) |
 | 15 dez 2023 | Rejeitada a Emenda de Comissão nº 72. Sim: 50; não: 320; total: 370. | Maioria do partido: nao (7 sim / 36 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2384692-49](../../../../../votacoes/2384692-49/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>381ª</b> à
 | 15 dez 2023 | Suprimido o texto. Sim: 293; não: 198; abstenção: 1; total: 492. | Maioria do partido: sim (27 sim / 21 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-199](../../../../../votacoes/259094-199/) |
 | 14 dez 2023 | Mantido o texto. Sim: 241; não: 38; total: 279. | Maioria do partido: sim (24 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2387579-43](../../../../../votacoes/2387579-43/) |
 | 13 dez 2023 | Aprovado o Projeto de Lei Complementar nº 243, de 2023. Sim: 370; não: 77; abstenção: 4; total: 451. | Maioria do partido: sim (38 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2409076-34](../../../../../votacoes/2409076-34/) |
-| 05 dez 2023 | Aprovado o Projeto de Lei Complementar nº 116, de 2023. Sim: 395; não: 20; abstenção: 1; total:416. | Maioria do partido: sim (39 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [1701755-60](../../../../../votacoes/1701755-60/) |
-| 05 dez 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei nº 6.256, de 2019, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 240; não: 180; total: 420. | Maioria do partido: sim (29 sim / 12 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2231632-97](../../../../../votacoes/2231632-97/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

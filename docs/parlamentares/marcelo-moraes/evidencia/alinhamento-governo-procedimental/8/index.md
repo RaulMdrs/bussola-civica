@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcelo Moraes — Alinhamento com o governo federal, Procedimental (página 8)"
-description: "A decomposição completa do número de Marcelo Moraes: 282 votações em 15 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
+description: "A decomposição completa do número de Marcelo Moraes: 283 votações em 15 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcelo Moraes: 282 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>16,7%</b> é <b>47</b> coincidências em
-<b>282</b> votações computáveis — as outras 235 estão
+<p><b>17,0%</b> é <b>48</b> coincidências em
+<b>283</b> votações computáveis — as outras 235 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>15 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 abr 2025 | Rejeitado o Requerimento. Sim: 102; Não: 244; Total: 346. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2456731-67](../../../../../votacoes/2456731-67/) |
 | 28 abr 2025 | Rejeitado o Requerimento. Sim: 98; Não: 229; Total: 327. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2483495-34](../../../../../votacoes/2483495-34/) |
 | 28 abr 2025 | Rejeitado o Requerimento. Sim: 116; Não: 269; Total: 385. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2483495-38](../../../../../votacoes/2483495-38/) |
 | 28 abr 2025 | Aprovado o Requerimento. Sim: 274; Não: 122; Total: 396. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2483495-47](../../../../../votacoes/2483495-47/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 | 19 dez 2024 | Rejeitado o Requerimento. Sim: 82; Não: 193; Total: 275. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2460010-35](../../../../../votacoes/2460010-35/) |
 | 19 dez 2024 | Aprovado o Requerimento. Sim: 290; Não: 170; Total: 460. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2473375-53](../../../../../votacoes/2473375-53/) |
 | 19 dez 2024 | Rejeitado o Requerimento. Sim: 149; Não: 302; Abstenção: 1; Total: 452. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [347421-198](../../../../../votacoes/347421-198/) |
-| 18 dez 2024 | Rejeitado o Requerimento. Sim: 137; Não: 302; Abstenção: 1; Total: 440. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2473389-74](../../../../../votacoes/2473389-74/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

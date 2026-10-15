@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcel van Hattem — Coesão com o próprio partido, Procedimental (página 15)"
-description: "A decomposição completa do número de Marcel van Hattem: 462 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
+description: "A decomposição completa do número de Marcel van Hattem: 463 votações em 24 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcel van Hattem: 462 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>99,8%</b> é <b>461</b> coincidências em
-<b>462</b> votações computáveis — as outras 1 estão
+<p><b>99,8%</b> é <b>462</b> coincidências em
+<b>463</b> votações computáveis — as outras 1 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>24 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 12 nov 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 350; Não: 17; Total: 367. | Maioria do partido: nao (0 sim / 2 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2418838-7](../../../../../votacoes/2418838-7/) |
 | 12 nov 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 285; Não: 78; Abstenção: 1; Total: 364. | Maioria do partido: nao (0 sim / 2 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2431821-7](../../../../../votacoes/2431821-7/) |
 | 05 nov 2024 | Aprovado o Requerimento. Sim: 304; Não: 52; Total: 356. | Maioria do partido: nao (0 sim / 2 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2466104-30](../../../../../votacoes/2466104-30/) |
 | 05 nov 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 360; Não: 60; Total: 420. | Maioria do partido: nao (0 sim / 3 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2466682-9](../../../../../votacoes/2466682-9/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 | 14 ago 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 347; não: 86; total: 433. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2452555-8](../../../../../votacoes/2452555-8/) |
 | 12 ago 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 308; não: 142; total: 450. | Maioria do partido: nao (0 sim / 1 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2450745-8](../../../../../votacoes/2450745-8/) |
 | 11 jul 2024 | Rejeitado o Requerimento. Sim: 58; não: 302; abstenção: 2; total: 362. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2352476-136](../../../../../votacoes/2352476-136/) |
-| 11 jul 2024 | Rejeitado o Requerimento. Sim: 72; não: 336; abstenção: 2; total: 410. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2352476-141](../../../../../votacoes/2352476-141/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

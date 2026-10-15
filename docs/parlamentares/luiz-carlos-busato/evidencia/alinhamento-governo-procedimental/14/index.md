@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Luiz Carlos Busato — Alinhamento com o governo federal, Procedimental (página 14)"
-description: "A decomposição completa do número de Luiz Carlos Busato: 367 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
+description: "A decomposição completa do número de Luiz Carlos Busato: 368 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Luiz Carlos Busato: 367 vo
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>79,3%</b> é <b>291</b> coincidências em
-<b>367</b> votações computáveis — as outras 76 estão
+<p><b>79,3%</b> é <b>292</b> coincidências em
+<b>368</b> votações computáveis — as outras 76 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 19 mar 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 302; não: 82; abstenção: 1; total: 385. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2421056-8](../../../../../votacoes/2421056-8/) |
 | 12 mar 2024 | Rejeitado o Requerimento. Sim: 97; não: 293; total: 390. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2417025-29](../../../../../votacoes/2417025-29/) |
 | 12 mar 2024 | Rejeitado o Requerimento. Sim: 112; não: 305; total: 417. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2417025-50](../../../../../votacoes/2417025-50/) |
 | 12 mar 2024 | Rejeitado o Recurso. Sim: 139; não: 290; total: 429. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2420577-7](../../../../../votacoes/2420577-7/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 | 19 dez 2023 | Rejeitado o Recurso nº 33/2023, contra a apreciação conclusiva das comissões sobre o Projeto de Lei nº 3.905, de 2021. Sim: 171; não: 262; total: 433. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2400068-23](../../../../../votacoes/2400068-23/) |
 | 19 dez 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 371; não: 60; total: 431. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2407521-8](../../../../../votacoes/2407521-8/) |
 | 15 dez 2023 | Rejeitado o Requerimento. Sim: 32; não: 307; abstenção: 2; total: 341. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2384692-21](../../../../../votacoes/2384692-21/) |
-| 15 dez 2023 | Rejeitado o Requerimento. Sim: 42; não: 331; abstenção: 1; total: 374. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2384692-27](../../../../../votacoes/2384692-27/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

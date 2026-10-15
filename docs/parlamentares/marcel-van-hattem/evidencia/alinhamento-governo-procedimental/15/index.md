@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcel van Hattem — Alinhamento com o governo federal, Procedimental (página 15)"
-description: "A decomposição completa do número de Marcel van Hattem: 345 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
+description: "A decomposição completa do número de Marcel van Hattem: 346 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 281ª à 300ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcel van Hattem: 345 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>12,5%</b> é <b>43</b> coincidências em
-<b>345</b> votações computáveis — as outras 302 estão
+<p><b>12,7%</b> é <b>44</b> coincidências em
+<b>346</b> votações computáveis — as outras 302 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 21 nov 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 301; não: 131; total: 432. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2405312-8](../../../../../votacoes/2405312-8/) |
 | 08 nov 2023 | Rejeitado o Requerimento. Sim: 104; não: 274; total: 378. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2115253-156](../../../../../votacoes/2115253-156/) |
 | 08 nov 2023 | Rejeitado o Requerimento. Sim: 120; não: 269; total: 389. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2115253-167](../../../../../votacoes/2115253-167/) |
 | 07 nov 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 277; não: 33 ; total:310. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2390639-8](../../../../../votacoes/2390639-8/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>281ª</b> à
 | 05 set 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 305; não: 89; total: 394. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2380935-9](../../../../../votacoes/2380935-9/) |
 | 04 set 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 360; não: 18; total: 378. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2336833-9](../../../../../votacoes/2336833-9/) |
 | 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 415; total: 415. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2331282-8](../../../../../votacoes/2331282-8/) |
-| 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 390; não: 15; total: 405. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2377273-8](../../../../../votacoes/2377273-8/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

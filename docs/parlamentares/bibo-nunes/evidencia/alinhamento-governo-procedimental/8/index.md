@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Bibo Nunes — Alinhamento com o governo federal, Procedimental (página 8)"
-description: "A decomposição completa do número de Bibo Nunes: 345 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
+description: "A decomposição completa do número de Bibo Nunes: 346 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Bibo Nunes: 345 votações
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>24,6%</b> é <b>85</b> coincidências em
-<b>345</b> votações computáveis — as outras 260 estão
+<p><b>24,9%</b> é <b>86</b> coincidências em
+<b>346</b> votações computáveis — as outras 260 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 27 mai 2025 | Rejeitado o Requerimento. Sim: 82; Não: 311; Abstenção: 1; Total: 394. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2121642-88](../../../../../votacoes/2121642-88/) |
 | 27 mai 2025 | Rejeitado o Requerimento. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2355104-96](../../../../../votacoes/2355104-96/) |
 | 27 mai 2025 | Rejeitado o Requerimento. Sim: 77; Não: 285; Total: 362. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2453219-36](../../../../../votacoes/2453219-36/) |
 | 26 mai 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 286; Não: 113; Total: 399. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2193584-7](../../../../../votacoes/2193584-7/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 | 28 abr 2025 | Rejeitado o Requerimento. Sim: 98; Não: 229; Total: 327. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2483495-34](../../../../../votacoes/2483495-34/) |
 | 28 abr 2025 | Rejeitado o Requerimento. Sim: 116; Não: 269; Total: 385. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2483495-38](../../../../../votacoes/2483495-38/) |
 | 28 abr 2025 | Aprovado o Requerimento. Sim: 274; Não: 122; Total: 396. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2483495-47](../../../../../votacoes/2483495-47/) |
-| 23 abr 2025 | Rejeitado o Requerimento. Sim: 102; Não: 241; Total: 343. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2456731-58](../../../../../votacoes/2456731-58/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

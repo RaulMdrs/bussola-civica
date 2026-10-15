@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Paulo Pimenta — Alinhamento com o governo federal, Procedimental (página 8)"
-description: "A decomposição completa do número de Paulo Pimenta: 162 votações em 9 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
+description: "A decomposição completa do número de Paulo Pimenta: 163 votações em 9 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Paulo Pimenta: 162 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>97,5%</b> é <b>158</b> coincidências em
-<b>162</b> votações computáveis — as outras 4 estão
+<p><b>97,5%</b> é <b>159</b> coincidências em
+<b>163</b> votações computáveis — as outras 4 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>9 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 22 mai 2025 | Rejeitado o Requerimento. Sim: 92; Não: 268; Total: 360. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2456110-43](../../../../../votacoes/2456110-43/) |
 | 22 mai 2025 | Rejeitado o Requerimento. Sim: 103; Não: 300; Total: 403. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2456110-48](../../../../../votacoes/2456110-48/) |
 | 22 mai 2025 | Rejeitado o Requerimento. Sim: 73; Não: 216; Total: 289. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2481257-29](../../../../../votacoes/2481257-29/) |
 | 22 mai 2025 | Rejeitado o Requerimento. Sim: 94; Não: 278; Total: 372. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2481257-34](../../../../../votacoes/2481257-34/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 | 27 mar 2025 | Rejeitado o Requerimento. Sim: 43; Não: 268; Abstenção: 9; Total: 320. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2442848-42](../../../../../votacoes/2442848-42/) |
 | 25 mar 2025 | Rejeitado o Requerimento. Sim: 129; Não: 261; Abstenção: 2; Total: 392. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2360457-42](../../../../../votacoes/2360457-42/) |
 | 18 mar 2025 | Rejeitado o Requerimento. Sim: 46; Não: 372; Total: 418. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2485066-28](../../../../../votacoes/2485066-28/) |
-| 25 fev 2025 | Rejeitado o Requerimento. Sim: 138; Não: 266; Total: 404. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2466108-28](../../../../../votacoes/2466108-28/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

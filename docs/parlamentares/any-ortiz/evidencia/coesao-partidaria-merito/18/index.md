@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Any Ortiz — Coesão com o próprio partido, Mérito (página 18)"
-description: "A decomposição completa do número de Any Ortiz: 400 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
+description: "A decomposição completa do número de Any Ortiz: 402 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,10 +11,10 @@ description: "A decomposição completa do número de Any Ortiz: 400 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>64,0%</b> é <b>256</b> coincidências em
-<b>400</b> votações computáveis — as outras 144 estão
+<p><b>64,2%</b> é <b>258</b> coincidências em
+<b>402</b> votações computáveis — as outras 144 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
-repartida em <b>20 páginas</b> de até 20 votações,
+repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 <b>360ª</b>.</p>
 </div>
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 21 nov 2023 | Mantido o texto. Sim: 312; não: 104; total: 416. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [575585-99](../../../../../votacoes/575585-99/) |
+| 08 nov 2023 | Aprovado o Projeto de Lei nº 4.287, de 2023. Sim: 369; não: 5; total: 374. | Maioria do partido: sim (1 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2391935-43](../../../../../votacoes/2391935-43/) |
 | 07 nov 2023 | Aprovada a Emenda de Plenário n° 3. Sim: 311; Não: 107; total: 418. | Maioria do partido: sim (1 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2344909-65](../../../../../votacoes/2344909-65/) |
 | 07 nov 2023 | Aprovado o Projeto de Lei nº 5.086, de 2023. Sim: 372; não: 26; abstenção: 1; total: 399. | Maioria do partido: sim (1 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2397925-25](../../../../../votacoes/2397925-25/) |
 | 06 nov 2023 | Mantido o texto. Sim: 284 ; não: 106; total: .390. | Maioria do partido: sim (1 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2345281-63](../../../../../votacoes/2345281-63/) |
@@ -43,13 +45,11 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 | 14 set 2023 | Rejeitada a Emenda de Plenário nº 1. | Maioria do partido: nao (0 sim / 1 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2387066-80](../../../../../votacoes/2387066-80/) |
 | 14 set 2023 | Rejeitada a Emenda de Plenário nº 45. Sim: 90; não: 316; abstenção: 1; total: 407. | Maioria do partido: nao (0 sim / 3 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2387066-84](../../../../../votacoes/2387066-84/) |
 | 14 set 2023 | Suprimido o texto. Sim: 207; não: 215; abstenção: 2; total: 424. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2387066-91](../../../../../votacoes/2387066-91/) |
-| 14 set 2023 | Aprovada a Emenda de Plenário nº 30. Sim: 246; não: 172; abstenção: 1; total: 419. | Maioria do partido: nao (1 sim / 2 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2387066-94](../../../../../votacoes/2387066-94/) |
-| 14 set 2023 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 192, de 2023, adotada pelo Relator da Comissão de Constituição e Justiça e de Cidadania, ressalvados os destaques. Sim: 345; não: 55; abstenção: 1; total: 401. | Maioria do partido: sim (2 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2387067-33](../../../../../votacoes/2387067-33/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">
 <a class="passo" href="../17/" rel="prev">← Anteriores</a>
-<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../16/">16</a><a href="../17/">17</a><b aria-current="page">18</b><a href="../19/">19</a><a href="../20/">20</a></span>
+<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../16/">16</a><a href="../17/">17</a><b aria-current="page">18</b><a href="../19/">19</a><a href="../20/">20</a><a href="../21/">21</a></span>
 <a class="passo" href="../19/" rel="next">Próximas →</a>
 </nav>
 

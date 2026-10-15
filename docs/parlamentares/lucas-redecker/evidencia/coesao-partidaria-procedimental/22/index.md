@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Lucas Redecker — Coesão com o próprio partido, Procedimental (página 22)"
-description: "A decomposição completa do número de Lucas Redecker: 506 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 421ª à 440ª."
+description: "A decomposição completa do número de Lucas Redecker: 507 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 421ª à 440ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Lucas Redecker: 506 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>57,3%</b> é <b>290</b> coincidências em
-<b>506</b> votações computáveis — as outras 216 estão
+<p><b>57,4%</b> é <b>291</b> coincidências em
+<b>507</b> votações computáveis — as outras 216 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>421ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>421ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 07 nov 2023 | Rejeitado o Requerimento. Sim: 94; não: 279; total: 373. | Maioria do partido: nao (1 sim / 6 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2397925-16](../../../../../votacoes/2397925-16/) |
 | 07 nov 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 309; não: 35; total: 344. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2399396-7](../../../../../votacoes/2399396-7/) |
 | 31 out 2023 | Rejeitado o Requerimento. Sim: 81; não: 234; total: 315. | Maioria do partido: nao (0 sim / 8 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2376169-40](../../../../../votacoes/2376169-40/) |
 | 31 out 2023 | Rejeitado o Requerimento. Sim: 93; não: 246; total: 339. | Maioria do partido: nao (0 sim / 7 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2376169-46](../../../../../votacoes/2376169-46/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>421ª</b> à
 | 03 out 2023 | Rejeitado o Requerimento. Sim: 26; não: 281; abstenção: 2; total: 309. | Maioria do partido: nao (0 sim / 9 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2224999-77](../../../../../votacoes/2224999-77/) |
 | 03 out 2023 | Rejeitado o Requerimento. Sim: 19; não: 283; abstenção: 2; total: 304. | Maioria do partido: nao (0 sim / 7 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2224999-88](../../../../../votacoes/2224999-88/) |
 | 03 out 2023 | Rejeitado o Requerimento. Sim: 10; não: 243; abstenção: 4; total: 257. | Maioria do partido: nao (0 sim / 8 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2309053-157](../../../../../votacoes/2309053-157/) |
-| 03 out 2023 | Rejeitado o Requerimento. Sim: 22; não: 266; abstenção: 2; total: 290. | Maioria do partido: nao (0 sim / 8 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2309053-167](../../../../../votacoes/2309053-167/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

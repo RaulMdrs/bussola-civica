@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcel van Hattem — Alinhamento com o governo federal, Mérito (página 3)"
-description: "A decomposição completa do número de Marcel van Hattem: 404 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
+description: "A decomposição completa do número de Marcel van Hattem: 406 votações em 21 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcel van Hattem: 404 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>27,7%</b> é <b>112</b> coincidências em
-<b>404</b> votações computáveis — as outras 292 estão
+<p><b>27,8%</b> é <b>113</b> coincidências em
+<b>406</b> votações computáveis — as outras 293 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>21 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 16 dez 2025 | Suprimido o texto. Sim: 63; Não: 373; Abstenção: 1; Total: 437. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2438459-135](../../../../../votacoes/2438459-135/) |
+| 16 dez 2025 | Mantido o texto. Sim: 441; Não: 3; Total: 444. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-139](../../../../../votacoes/2438459-139/) |
 | 16 dez 2025 | Mantido o texto. Sim: 423; Não: 23; Abstenção: 1; Total: 447. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2438459-141](../../../../../votacoes/2438459-141/) |
 | 16 dez 2025 | Suprimido o texto. Sim: 15; Não: 334; Total: 349. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2438459-143](../../../../../votacoes/2438459-143/) |
 | 16 dez 2025 | Suprimido o texto. Sim: 221; Não: 242; Abstenção: 2; Total: 465. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2438459-146](../../../../../votacoes/2438459-146/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 | 09 dez 2025 | Mantido o texto. Sim: 283; Não: 116; Total: 399. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2471177-105](../../../../../votacoes/2471177-105/) |
 | 09 dez 2025 | Mantido o texto. Sim: 302; Não: 124; Total: 426. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2471177-108](../../../../../votacoes/2471177-108/) |
 | 09 dez 2025 | Mantido o texto. Sim: 298; Não: 117; Total: 415. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2471177-111](../../../../../votacoes/2471177-111/) |
-| 09 dez 2025 | Mantido o texto. Sim: 298; Não: 112; Total: 410. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2471177-117](../../../../../votacoes/2471177-117/) |
-| 09 dez 2025 | Aprovado o Projeto de Lei Complementar nº 125, de 2022. Sim: 436; Não: 2; Total: 438. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2559194-42](../../../../../votacoes/2559194-42/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

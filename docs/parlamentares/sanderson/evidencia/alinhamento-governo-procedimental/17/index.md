@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Sanderson — Alinhamento com o governo federal, Procedimental (página 17)"
-description: "A decomposição completa do número de Sanderson: 326 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 326ª."
+description: "A decomposição completa do número de Sanderson: 327 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 327ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Sanderson: 326 votações 
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>15,6%</b> é <b>51</b> coincidências em
-<b>326</b> votações computáveis — as outras 275 estão
+<p><b>15,9%</b> é <b>52</b> coincidências em
+<b>327</b> votações computáveis — as outras 275 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>17 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
-<b>326ª</b>.</p>
+<b>327ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 25 abr 2023 | Aprovado o Requerimento de Urgência (Art. 154 do RICD). Sim: 238; não: 192; total: 430. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2310837-8](../../../../../votacoes/2310837-8/) |
 | 11 abr 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 264; não: 144; total: 408. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2352500-11](../../../../../votacoes/2352500-11/) |
 | 11 abr 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 319; não: 106; total: 425. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2354899-8](../../../../../votacoes/2354899-8/) |
 | 22 mar 2023 | Rejeitado o Requerimento. Sim: 56; não: 247; total: 303. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2301683-33](../../../../../votacoes/2301683-33/) |

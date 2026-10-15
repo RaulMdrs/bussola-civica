@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Luiz Carlos Busato — Alinhamento com o governo federal, Procedimental (página 16)"
-description: "A decomposição completa do número de Luiz Carlos Busato: 367 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
+description: "A decomposição completa do número de Luiz Carlos Busato: 368 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Luiz Carlos Busato: 367 vo
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>79,3%</b> é <b>291</b> coincidências em
-<b>367</b> votações computáveis — as outras 76 estão
+<p><b>79,3%</b> é <b>292</b> coincidências em
+<b>368</b> votações computáveis — as outras 76 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 08 nov 2023 | Rejeitado o Requerimento. Sim: 104; não: 274; total: 378. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2115253-156](../../../../../votacoes/2115253-156/) |
 | 08 nov 2023 | Rejeitado o Requerimento. Sim: 120; não: 269; total: 389. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2115253-167](../../../../../votacoes/2115253-167/) |
 | 08 nov 2023 | Rejeitado o Requerimento.Sim: 49; não: 288; abstenção: 2; total: 339. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2115253-172](../../../../../votacoes/2115253-172/) |
 | 07 nov 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 277; não: 33 ; total:310. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2390639-8](../../../../../votacoes/2390639-8/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 | 03 out 2023 | Rejeitado o Requerimento. Sim: 29; não: 301; abstenção: 2; total: 332. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2224999-67](../../../../../votacoes/2224999-67/) |
 | 03 out 2023 | Rejeitado o Requerimento. Sim: 19; não: 283; abstenção: 2; total: 304. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2224999-88](../../../../../votacoes/2224999-88/) |
 | 03 out 2023 | Rejeitado o Requerimento. Sim: 22; não: 266; abstenção: 2; total: 290. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2309053-167](../../../../../votacoes/2309053-167/) |
-| 03 out 2023 | Rejeitado o Requerimento. Sim: 26; não: 291; abstenção: 6; total: 323. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2309053-173](../../../../../votacoes/2309053-173/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Covatti Filho — Coesão com o próprio partido, Procedimental (página 7)"
-description: "A decomposição completa do número de Covatti Filho: 373 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
+description: "A decomposição completa do número de Covatti Filho: 374 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Covatti Filho: 373 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>50,4%</b> é <b>188</b> coincidências em
-<b>373</b> votações computáveis — as outras 185 estão
+<p><b>50,5%</b> é <b>189</b> coincidências em
+<b>374</b> votações computáveis — as outras 185 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 16 jul 2025 | Rejeitado o Requerimento. Sim: 174; Não: 268; Abstenção: 1; Total: 443. | Maioria do partido: nao (15 sim / 28 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2500330-36](../../../../../votacoes/2500330-36/) |
 | 16 jul 2025 | Rejeitado o Requerimento. Sim: 124; Não: 269; Total: 393. | Maioria do partido: nao (4 sim / 31 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [257161-442](../../../../../votacoes/257161-442/) |
 | 15 jul 2025 | Aprovado o Requerimento. Sim: 338; Não: 28; Total: 366. | Maioria do partido: sim (34 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454495-142](../../../../../votacoes/2454495-142/) |
 | 15 jul 2025 | Aprovado o Requerimento nº 2.779/2025, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões previsto no § 6º do art. 202 do RICD, para apreciação do segundo turno da PEC 66, de 2023. Sim: 319; Não: 70; Total: 389. | Maioria do partido: sim (42 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2536848-6](../../../../../votacoes/2536848-6/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 | 29 mai 2025 | Rejeitado o Requerimento. Sim: 121; Não: 270; Total: 391. | Maioria do partido: nao (6 sim / 30 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2324988-18](../../../../../votacoes/2324988-18/) |
 | 28 mai 2025 | Rejeitado o Requerimento. Sim: 76; Não: 303; Total: 379. | Maioria do partido: nao (5 sim / 26 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2341047-55](../../../../../votacoes/2341047-55/) |
 | 28 mai 2025 | Rejeitado o Requerimento. Sim: 105; Não: 289; Total: 394. | Maioria do partido: nao (8 sim / 26 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2341047-60](../../../../../votacoes/2341047-60/) |
-| 28 mai 2025 | Rejeitado o Requerimento. Sim: 64; Não: 197; Abstenção: 1; Total: 262. | Maioria do partido: nao (2 sim / 17 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2453934-47](../../../../../votacoes/2453934-47/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

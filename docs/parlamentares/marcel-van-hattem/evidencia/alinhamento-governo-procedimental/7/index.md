@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Marcel van Hattem — Alinhamento com o governo federal, Procedimental (página 7)"
-description: "A decomposição completa do número de Marcel van Hattem: 345 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
+description: "A decomposição completa do número de Marcel van Hattem: 346 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 121ª à 140ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Marcel van Hattem: 345 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>12,5%</b> é <b>43</b> coincidências em
-<b>345</b> votações computáveis — as outras 302 estão
+<p><b>12,7%</b> é <b>44</b> coincidências em
+<b>346</b> votações computáveis — as outras 302 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 16 jul 2025 | Rejeitado o Requerimento. Sim: 104; Não: 350; Abstenção: 2; Total: 456. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2398530-60](../../../../../votacoes/2398530-60/) |
 | 16 jul 2025 | Rejeitado o Requerimento. Sim: 101; Não: 332; Total: 433. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2398530-68](../../../../../votacoes/2398530-68/) |
 | 16 jul 2025 | Aprovado o Recurso nº 38/2023 (art. 58, § 1º c/c art. 132, § 2º, RICD). Sim: 291; Não: 173; Total: 464. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2408145-17](../../../../../votacoes/2408145-17/) |
 | 16 jul 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 347; Não: 107; Total: 454. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2411961-13](../../../../../votacoes/2411961-13/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>121ª</b> à
 | 11 jun 2025 | Rejeitado o Requerimento. Sim: 105; Não: 205; Total: 310. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [264726-127](../../../../../votacoes/264726-127/) |
 | 11 jun 2025 | Aprovado o Requerimento. Sim: 235; Não: 142; Total: 377. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [264726-136](../../../../../votacoes/264726-136/) |
 | 11 jun 2025 | Rejeitado o Requerimento. Sim: 102; Não: 182; Total: 284. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [264726-142](../../../../../votacoes/264726-142/) |
-| 02 jun 2025 | Rejeitado o Requerimento. Sim: 101; Não: 230; Total: 331. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2497990-25](../../../../../votacoes/2497990-25/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

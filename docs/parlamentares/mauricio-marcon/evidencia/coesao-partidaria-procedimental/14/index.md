@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Mauricio Marcon — Coesão com o próprio partido, Procedimental (página 14)"
-description: "A decomposição completa do número de Mauricio Marcon: 499 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
+description: "A decomposição completa do número de Mauricio Marcon: 500 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 261ª à 280ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Mauricio Marcon: 499 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>44,5%</b> é <b>222</b> coincidências em
-<b>499</b> votações computáveis — as outras 277 estão
+<p><b>44,6%</b> é <b>223</b> coincidências em
+<b>500</b> votações computáveis — as outras 277 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 12 dez 2024 | Rejeitado o Requerimento. Sim: 90; Não: 247; Total: 337. | Maioria do partido: nao (1 sim / 7 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2194861-62](../../../../../votacoes/2194861-62/) |
 | 12 dez 2024 | Rejeitado o Requerimento. Sim: 108; Não: 248; Abstenção: 2; Total: 358. | Maioria do partido: nao (0 sim / 9 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2194861-66](../../../../../votacoes/2194861-66/) |
 | 12 dez 2024 | Rejeitado o Requerimento. Sim: 90; Não: 227; Total: 317. | Maioria do partido: nao (0 sim / 8 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2194861-73](../../../../../votacoes/2194861-73/) |
 | 12 dez 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 334; Não: 16; Total: 350. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2479094-8](../../../../../votacoes/2479094-8/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>261ª</b> à
 | 19 nov 2024 | Rejeitado o Requerimento. Sim: 99; Não: 232; Abstenção: 1; Total: 332. | Maioria do partido: nao (0 sim / 8 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2439779-42](../../../../../votacoes/2439779-42/) |
 | 19 nov 2024 | Rejeitado o Requerimento. Sim: 97; Não: 230; Abstenção: 1; Total: 328. | Maioria do partido: nao (1 sim / 8 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2439779-46](../../../../../votacoes/2439779-46/) |
 | 19 nov 2024 | Rejeitado o Requerimento. Sim: 30; Não: 343; Total: 373. | Maioria do partido: nao (0 sim / 11 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2466104-88](../../../../../votacoes/2466104-88/) |
-| 19 nov 2024 | Rejeitado o Requerimento. Sim: 28; Não: 316; Total: 344. | Maioria do partido: nao (0 sim / 10 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2467306-30](../../../../../votacoes/2467306-30/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Giovani Cherini — Alinhamento com o governo federal, Procedimental (página 17)"
-description: "A decomposição completa do número de Giovani Cherini: 335 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 335ª."
+description: "A decomposição completa do número de Giovani Cherini: 336 votações em 17 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 336ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Giovani Cherini: 335 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>22,4%</b> é <b>75</b> coincidências em
-<b>335</b> votações computáveis — as outras 260 estão
+<p><b>22,6%</b> é <b>76</b> coincidências em
+<b>336</b> votações computáveis — as outras 260 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>17 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
-<b>335ª</b>.</p>
+<b>336ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 17 mai 2023 | Rejeitado o Requerimento. Sim: 184; não: 213; total: 397. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2115253-104](../../../../../votacoes/2115253-104/) |
 | 17 mai 2023 | Rejeitado o Requerimento. Sim: 187; não: 232; total: 419. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2115253-111](../../../../../votacoes/2115253-111/) |
 | 17 mai 2023 | Rejeitado o Requerimento. Sim: 173; não: 221; total: 394. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2115253-116](../../../../../votacoes/2115253-116/) |
 | 17 mai 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 367; não: 102; abstenção: 1; total: 470. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2362292-8](../../../../../votacoes/2362292-8/) |

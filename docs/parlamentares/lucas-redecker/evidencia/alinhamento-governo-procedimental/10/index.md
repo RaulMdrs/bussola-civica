@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Lucas Redecker — Alinhamento com o governo federal, Procedimental (página 10)"
-description: "A decomposição completa do número de Lucas Redecker: 389 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
+description: "A decomposição completa do número de Lucas Redecker: 390 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Lucas Redecker: 389 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>41,9%</b> é <b>163</b> coincidências em
-<b>389</b> votações computáveis — as outras 226 estão
+<p><b>42,1%</b> é <b>164</b> coincidências em
+<b>390</b> votações computáveis — as outras 226 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 19 dez 2024 | Rejeitado o Requerimento. Sim: 82; Não: 193; Total: 275. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2460010-35](../../../../../votacoes/2460010-35/) |
 | 19 dez 2024 | Aprovado o Requerimento. Sim: 290; Não: 170; Total: 460. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2473375-53](../../../../../votacoes/2473375-53/) |
 | 19 dez 2024 | Aprovado o Requerimento nº 4.990/2024, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões previsto no § 6º do art. 202 do RICD, para apreciação do segundo turno da PEC nº 31, de 2007. Sim: 343; Não: 99; Abstenção: 1; Total: 443. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2481282-8](../../../../../votacoes/2481282-8/) |
 | 19 dez 2024 | Rejeitado o Requerimento. Sim: 149; Não: 302; Abstenção: 1; Total: 452. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [347421-198](../../../../../votacoes/347421-198/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 | 10 dez 2024 | Rejeitado o Requerimento. Sim: 6; Não: 422; Abstenção: 2; Total: 430. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2454400-32](../../../../../votacoes/2454400-32/) |
 | 10 dez 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 317; Não: 66; Abstenção: 2; Total: 385. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2476749-7](../../../../../votacoes/2476749-7/) |
 | 04 dez 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 267; Não: 156; Total: 423. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2475016-8](../../../../../votacoes/2475016-8/) |
-| 04 dez 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 260; Não: 98; Abstenção: 2; Total: 360. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2475018-8](../../../../../votacoes/2475018-8/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

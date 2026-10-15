@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Pedro Westphalen — Coesão com o próprio partido, Procedimental (página 11)"
-description: "A decomposição completa do número de Pedro Westphalen: 428 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
+description: "A decomposição completa do número de Pedro Westphalen: 429 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 201ª à 220ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Pedro Westphalen: 428 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>64,0%</b> é <b>274</b> coincidências em
-<b>428</b> votações computáveis — as outras 154 estão
+<p><b>64,1%</b> é <b>275</b> coincidências em
+<b>429</b> votações computáveis — as outras 154 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 22 abr 2025 | Rejeitado o Requerimento. Sim: 70; Não: 279; Total: 349. | Maioria do partido: nao (6 sim / 24 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2467641-27](../../../../../votacoes/2467641-27/) |
 | 22 abr 2025 | Rejeitado o Requerimento. Sim: 67; Não: 299; Total: 366. | Maioria do partido: nao (5 sim / 30 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2481874-29](../../../../../votacoes/2481874-29/) |
 | 22 abr 2025 | Rejeitado o Requerimento. Sim: 69; Não: 282; Total: 351. | Maioria do partido: nao (5 sim / 23 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2481875-32](../../../../../votacoes/2481875-32/) |
 | 09 abr 2025 | Rejeitado o Requerimento. Sim: 80; Não: 251; Abstenção: 1; Total: 332. | Maioria do partido: nao (1 sim / 26 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2417172-60](../../../../../votacoes/2417172-60/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>201ª</b> à
 | 19 dez 2024 | Aprovado o Requerimento nº 4.990/2024, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões previsto no § 6º do art. 202 do RICD, para apreciação do segundo turno da PEC nº 31, de 2007. Sim: 343; Não: 99; Abstenção: 1; Total: 443. | Maioria do partido: sim (36 sim / 6 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2481282-8](../../../../../votacoes/2481282-8/) |
 | 19 dez 2024 | Rejeitado o Requerimento. Sim: 149; Não: 302; Abstenção: 1; Total: 452. | Maioria do partido: nao (8 sim / 38 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [347421-198](../../../../../votacoes/347421-198/) |
 | 18 dez 2024 | Rejeitado o Requerimento. Sim: 137; Não: 302; Abstenção: 1; Total: 440. | Maioria do partido: nao (8 sim / 34 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2473389-74](../../../../../votacoes/2473389-74/) |
-| 18 dez 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 299; Não: 134; Abstenção: 3; Total: 436. | Maioria do partido: sim (38 sim / 8 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2480642-7](../../../../../votacoes/2480642-7/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Mauricio Marcon — Coesão com o próprio partido, Procedimental (página 6)"
-description: "A decomposição completa do número de Mauricio Marcon: 499 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
+description: "A decomposição completa do número de Mauricio Marcon: 500 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 120ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Mauricio Marcon: 499 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>44,5%</b> é <b>222</b> coincidências em
-<b>499</b> votações computáveis — as outras 277 estão
+<p><b>44,6%</b> é <b>223</b> coincidências em
+<b>500</b> votações computáveis — as outras 277 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>25 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 28 out 2025 | Rejeitado o Requerimento. Sim: 104; Não: 309; Total: 413. | Maioria do partido: nao (1 sim / 12 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2503426-44](../../../../../votacoes/2503426-44/) |
 | 28 out 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 284; Não: 129; Total: 413. | Maioria do partido: sim (13 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2538979-10](../../../../../votacoes/2538979-10/) |
 | 28 out 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 300; Não: 130; Total: 430. | Maioria do partido: sim (13 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2566565-10](../../../../../votacoes/2566565-10/) |
 | 27 out 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 271; Não: 127; Abstenção: 3; Total: 401. | Maioria do partido: sim (12 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2566427-8](../../../../../votacoes/2566427-8/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 | 17 set 2025 | Rejeitado o Requerimento. Sim: 118; Não: 326; Total: 444. | Maioria do partido: nao (0 sim / 14 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2515300-26](../../../../../votacoes/2515300-26/) |
 | 17 set 2025 | Aprovado o Requerimento. Sim: 326; Não: 109; Total: 435. | Maioria do partido: sim (15 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2515300-30](../../../../../votacoes/2515300-30/) |
 | 17 set 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 311; Não: 163; Abstenção: 7; Total: 481. | Maioria do partido: sim (11 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2562149-7](../../../../../votacoes/2562149-7/) |
-| 16 set 2025 | Rejeitado o Requerimento. Sim: 137; Não: 324; Total: 461. | Maioria do partido: nao (2 sim / 14 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2270800-126](../../../../../votacoes/2270800-126/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

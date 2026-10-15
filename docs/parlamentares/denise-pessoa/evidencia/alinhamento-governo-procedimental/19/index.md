@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Denise Pessôa — Alinhamento com o governo federal, Procedimental (página 19)"
-description: "A decomposição completa do número de Denise Pessôa: 367 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 367ª."
+description: "A decomposição completa do número de Denise Pessôa: 368 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 361ª à 368ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Denise Pessôa: 367 votaç
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>98,1%</b> é <b>360</b> coincidências em
-<b>367</b> votações computáveis — as outras 7 estão
+<p><b>98,1%</b> é <b>361</b> coincidências em
+<b>368</b> votações computáveis — as outras 7 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
-<b>367ª</b>.</p>
+<b>368ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>361ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 10 mai 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; não: 43; abstenção: 1; total: 374. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2354502-8](../../../../../votacoes/2354502-8/) |
 | 03 mai 2023 | Rejeitado o Requerimento. Sim: 114; não: 265; abstenção: 2; total: 381. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2355135-39](../../../../../votacoes/2355135-39/) |
 | 03 mai 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 322; não: 136; abstenção: 2; total: 460. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2357871-9](../../../../../votacoes/2357871-9/) |
 | 25 abr 2023 | Aprovado o Requerimento de Urgência (Art. 154 do RICD). Sim: 238; não: 192; total: 430. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2310837-8](../../../../../votacoes/2310837-8/) |

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Covatti Filho — Coesão com o próprio partido, Mérito (página 8)"
-description: "A decomposição completa do número de Covatti Filho: 429 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
+description: "A decomposição completa do número de Covatti Filho: 431 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Covatti Filho: 429 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>57,3%</b> é <b>246</b> coincidências em
-<b>429</b> votações computáveis — as outras 183 estão
+<p><b>57,5%</b> é <b>248</b> coincidências em
+<b>431</b> votações computáveis — as outras 183 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 16 jul 2025 | Aprovadas. Sim: 267; Não: 116; Total: 383. | Maioria do partido: sim (35 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [257161-454](../../../../../votacoes/257161-454/) |
+| 15 jul 2025 | Aprovado, em primeiro turno, o Substitutivo da Comissão Especial à Proposta de Emenda Constitucional nº 66, de 2023, ressalvados os destaques. Sim: 404; Não: 67; Abstenção: 3; Total: 474. | Maioria do partido: sim (46 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454495-144](../../../../../votacoes/2454495-144/) |
 | 15 jul 2025 | Rejeitada a Emenda nº 5. Sim: 117; Não: 335; Abstenção: 3; Total: 455. | Maioria do partido: nao (13 sim / 36 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2454495-151](../../../../../votacoes/2454495-151/) |
 | 15 jul 2025 | Mantido o texto. Sim: 318; Não: 144; Abstenção: 2; Total: 464. | Maioria do partido: sim (35 sim / 11 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2454495-154](../../../../../votacoes/2454495-154/) |
 | 15 jul 2025 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 66, de 2023, ressalvado o destaque. Sim: 367; Não: 97; Abstenção: 2; Total: 466. | Maioria do partido: sim (45 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454495-166](../../../../../votacoes/2454495-166/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 | 29 mai 2025 | Aprovado o Projeto de Decreto Legislativo nº 609, de 2021. . Sim: 392; Não: 7; Total: 399. | Maioria do partido: sim (35 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2297512-70](../../../../../votacoes/2297512-70/) |
 | 29 mai 2025 | Aprovada a Emenda n° 2. Sim: 214; Não: 204; Abstenção: 1; Total: 419. | Maioria do partido: nao (12 sim / 26 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2306513-113](../../../../../votacoes/2306513-113/) |
 | 29 mai 2025 | Aprovada a parte da Emenda nº 3. Sim: 285; Não: 116; Abstenção: 3; Total: 404. | Maioria do partido: sim (29 sim / 7 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2306513-116](../../../../../votacoes/2306513-116/) |
-| 28 mai 2025 | Suprimido o texto. Sim: 152; Não: 220; Abstenção: 1; Total: 373. | Maioria do partido: nao (2 sim / 30 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2453934-72](../../../../../votacoes/2453934-72/) |
-| 27 mai 2025 | Mantido o texto. Sim: 319; Não: 93; Total: 412. | Maioria do partido: sim (27 sim / 7 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2121642-102](../../../../../votacoes/2121642-102/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

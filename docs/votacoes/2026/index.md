@@ -2,17 +2,20 @@
 layout: default
 kind: indice
 title: "Votações de 2026"
-description: "As 135 votações de 2026 com voto individual recuperável, e como a bancada gaúcha votou em cada uma."
+description: "As 138 votações de 2026 com voto individual recuperável, e como a bancada gaúcha votou em cada uma."
 ---
 
 # Votações de 2026
 
-<p class="subtitulo">135 votações com voto individual recuperável.</p>
+<p class="subtitulo">138 votações com voto individual recuperável.</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
 | Data | Votação | Casa | Chamada |
 |---|---|---|---|
+| 14 out 2026 | [Rejeitada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 281, de 2019, adotada](../2236186-60/) | <span class="escopo">Câmara</span> | rejeitada |
+| 14 out 2026 | [Rejeitado o Requerimento.](../2635476-23/) | <span class="escopo">Câmara</span> | rejeitada |
+| 14 out 2026 | [Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 186, de 2026, a](../2635476-36/) | <span class="escopo">Câmara</span> | aprovada |
 | 03 set 2026 | [Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 74, de 2026, adotada p](../2611313-31/) | <span class="escopo">Câmara</span> | aprovada |
 | 03 set 2026 | [Votação nominal do Projeto de Lei Complementar nº 74, de 2026, nos termos do parecer.](../7105/) | <span class="escopo">Senado</span> | rejeitada |
 | 02 set 2026 | [Aprovado o Projeto de Decreto Legislativo nº 995, de 2026 (Aprova a indicação do Sr. Rodri](../2645346-18/) | <span class="escopo">Câmara</span> | aprovada |

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Motta — Alinhamento com o governo federal, Procedimental (página 10)"
-description: "A decomposição completa do número de Afonso Motta: 359 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
+description: "A decomposição completa do número de Afonso Motta: 360 votações em 18 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Afonso Motta: 359 votaçõ
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>88,3%</b> é <b>317</b> coincidências em
-<b>359</b> votações computáveis — as outras 42 estão
+<p><b>88,3%</b> é <b>318</b> coincidências em
+<b>360</b> votações computáveis — as outras 42 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>18 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 16 dez 2024 | Rejeitado o Requerimento. Sim: 46; Não: 232; Total: 278. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2430143-125](../../../../../votacoes/2430143-125/) |
 | 16 dez 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 314; Não: 140; Total: 454. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2480330-8](../../../../../votacoes/2480330-8/) |
 | 12 dez 2024 | Rejeitado o Requerimento. Sim: 90; Não: 247; Total: 337. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2194861-62](../../../../../votacoes/2194861-62/) |
 | 12 dez 2024 | Rejeitado o Requerimento. Sim: 108; Não: 248; Abstenção: 2; Total: 358. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2194861-66](../../../../../votacoes/2194861-66/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 | 19 nov 2024 | Rejeitado o Requerimento. Sim: 99; Não: 232; Abstenção: 1; Total: 332. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2439779-42](../../../../../votacoes/2439779-42/) |
 | 19 nov 2024 | Rejeitado o Requerimento. Sim: 97; Não: 230; Abstenção: 1; Total: 328. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2439779-46](../../../../../votacoes/2439779-46/) |
 | 19 nov 2024 | Rejeitado o Requerimento. Sim: 30; Não: 343; Total: 373. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2466104-88](../../../../../votacoes/2466104-88/) |
-| 19 nov 2024 | Rejeitado o Requerimento. Sim: 28; Não: 316; Total: 344. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2467306-30](../../../../../votacoes/2467306-30/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">
