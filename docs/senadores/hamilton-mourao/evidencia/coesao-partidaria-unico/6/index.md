@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Hamilton Mourão — Coesão com o próprio partido, Todas as votações abertas (página 6)"
-description: "A decomposição completa do número de Hamilton Mourão: 105 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 105ª."
+description: "A decomposição completa do número de Hamilton Mourão: 106 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 106ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Hamilton Mourão: 105 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>85,7%</b> é <b>90</b> coincidências em
-<b>105</b> votações computáveis — as outras 15 estão
+<p><b>85,8%</b> é <b>91</b> coincidências em
+<b>106</b> votações computáveis — as outras 15 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>6 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
-<b>105ª</b>.</p>
+<b>106ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 21 jun 2023 | Votação nominal da Emenda nº 83 ao Projeto de Lei Complementar nº 93, de 2023, destacada. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6715](../../../../../votacoes/6715/) |
 | 21 jun 2023 | Votação nominal da Emenda nº 89 ao Projeto de Lei Complementar nº 93, de 2023, destacada. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6716](../../../../../votacoes/6716/) |
 | 21 jun 2023 | Votação nominal da Emenda nº 101 ao Projeto de Lei Complementar nº 93, de 2023, destacada. | Maioria do partido: nao (0 sim / 2 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [6717](../../../../../votacoes/6717/) |
 | 20 jun 2023 | Votação nominal da Emenda nº 131 à Medida Provisória nº 1.165, de 2023, destacada. | Maioria do partido: nao (1 sim / 2 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [6709](../../../../../votacoes/6709/) |

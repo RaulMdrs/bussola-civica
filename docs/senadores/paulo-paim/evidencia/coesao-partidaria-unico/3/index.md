@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Paulo Paim — Coesão com o próprio partido, Todas as votações abertas (página 3)"
-description: "A decomposição completa do número de Paulo Paim: 107 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
+description: "A decomposição completa do número de Paulo Paim: 108 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Paulo Paim: 107 votações
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>93,5%</b> é <b>100</b> coincidências em
-<b>107</b> votações computáveis — as outras 7 estão
+<p><b>93,5%</b> é <b>101</b> coincidências em
+<b>108</b> votações computáveis — as outras 7 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>6 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 abr 2025 | Votação nominal do Projeto de Lei Complementar nº 48, de 2023, nos termos do parecer de Plenário. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6927](../../../../../votacoes/6927/) |
 | 01 abr 2025 | Votação nominal da Emenda nº 1 (Substitutivo) ao PL nº 2.088/2023, com subemendas, nos termos do parecer da CAE. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6924](../../../../../votacoes/6924/) |
 | 11 mar 2025 | Votação nominal da Proposta de Emenda à Constituição nº 18, de 2024, nos termos do parecer (1º Turno). | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6919](../../../../../votacoes/6919/) |
 | 11 mar 2025 | Votação nominal da Proposta de Emenda à Constituição nº 18, de 2024 (2º Turno). | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6920](../../../../../votacoes/6920/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 | 12 dez 2024 | Votação nominal da Emenda nº 2.171(Substitutivo) ao PLP 68/24 com Emendas e supressão, nos termos dos pareceres, ressalvados os destaques. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6899](../../../../../votacoes/6899/) |
 | 12 dez 2024 | Votação nominal da Emenda nº 2.203 ao Substitutivo do Relator ao Projeto de Lei Complementar nº 68, de 2024, destacada. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6900](../../../../../votacoes/6900/) |
 | 12 dez 2024 | Votação nominal da Emenda nº 2.201 ao Substitutivo do Relator ao Projeto de Lei Complementar nº 68, de 2024, destacada. | Maioria do partido: nao (0 sim / 8 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6901](../../../../../votacoes/6901/) |
-| 12 dez 2024 | Votação nominal da Emenda nº 2.223 ao Substitutivo do Relator ao Projeto de Lei Complementar nº 68, de 2024, destacada. | Maioria do partido: nao (1 sim / 7 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6902](../../../../../votacoes/6902/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

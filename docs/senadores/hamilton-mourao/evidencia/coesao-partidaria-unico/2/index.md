@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Hamilton Mourão — Coesão com o próprio partido, Todas as votações abertas (página 2)"
-description: "A decomposição completa do número de Hamilton Mourão: 105 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
+description: "A decomposição completa do número de Hamilton Mourão: 106 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Hamilton Mourão: 105 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>85,7%</b> é <b>90</b> coincidências em
-<b>105</b> votações computáveis — as outras 15 estão
+<p><b>85,8%</b> é <b>91</b> coincidências em
+<b>106</b> votações computáveis — as outras 15 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>6 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 09 dez 2025 | Votação nominal do Requerimento nº 911, de 2025, de iniciativa de Líderes, que solicita calendário especial para a Proposta de Emenda à Constituição nº 48, de 2023. | Maioria do partido: sim (4 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7034](../../../../../votacoes/7034/) |
 | 03 dez 2025 | Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei Complementar nº 163, de 2025, nos termos do parecer. | Maioria do partido: sim (2 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [7030](../../../../../votacoes/7030/) |
 | 25 nov 2025 | Votação nominal do Projeto de Lei Complementar nº 185, de 2024, nos termos dos pareceres. | Maioria do partido: sim (4 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7029](../../../../../votacoes/7029/) |
 | 22 out 2025 | Emenda nº 2 (Substitutivo) ao Projeto de Lei Complementar nº 204, de 2025, nos termos do parecer. | Maioria do partido: sim (2 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7017](../../../../../votacoes/7017/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 | 29 abr 2025 | Votação nominal do Projeto de Lei Complementar nº 48, de 2023, nos termos do parecer de Plenário. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6927](../../../../../votacoes/6927/) |
 | 01 abr 2025 | Votação nominal da Emenda nº 1 (Substitutivo) ao PL nº 2.088/2023, com subemendas, nos termos do parecer da CAE. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6924](../../../../../votacoes/6924/) |
 | 19 mar 2025 | Votação nominal do Substitutivo da Câmara dos Deputados ao PLP nº 22/2025, nos termos do parecer. | Maioria do partido: sim (2 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6922](../../../../../votacoes/6922/) |
-| 11 mar 2025 | Votação nominal da Proposta de Emenda à Constituição nº 18, de 2024, nos termos do parecer (1º Turno). | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6919](../../../../../votacoes/6919/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

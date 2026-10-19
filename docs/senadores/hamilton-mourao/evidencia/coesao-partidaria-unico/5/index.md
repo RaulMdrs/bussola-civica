@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Hamilton Mourão — Coesão com o próprio partido, Todas as votações abertas (página 5)"
-description: "A decomposição completa do número de Hamilton Mourão: 105 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
+description: "A decomposição completa do número de Hamilton Mourão: 106 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Hamilton Mourão: 105 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>85,7%</b> é <b>90</b> coincidências em
-<b>105</b> votações computáveis — as outras 15 estão
+<p><b>85,8%</b> é <b>91</b> coincidências em
+<b>106</b> votações computáveis — as outras 15 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>6 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 13 mar 2024 | Votação, em primeiro turno, da PEC nº 72/2023, nos termos do Parecer com ajuste redacional. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6821](../../../../../votacoes/6821/) |
 | 13 mar 2024 | Votação, em segundo turno, da PEC nº 72/2023. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6822](../../../../../votacoes/6822/) |
 | 20 dez 2023 | Votação nominal do PLV 20/2023 e Pressupostos Constitucionais da MPV 1.185/23, nos termos do Parecer, ressalvado o destaque. | Maioria do partido: nao (0 sim / 2 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6816](../../../../../votacoes/6816/) |
 | 20 dez 2023 | Votação nominal da Emenda nº 48 à Medida Provisória nº 1.185, de 2023, destacada. | Maioria do partido: sim (2 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6817](../../../../../votacoes/6817/) |
@@ -44,7 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 | 27 set 2023 | Votação nominal do Art. 28 do Projeto de Lei nº 2.903, de 2023, destacado. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6758](../../../../../votacoes/6758/) |
 | 30 ago 2023 | Votação nominal do Projeto de Lei nº 2.384/2023 e das Emendas nºs 23 e 26, de redação. | Maioria do partido: nao (0 sim / 3 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6745](../../../../../votacoes/6745/) |
 | 21 jun 2023 | Votação nominal do Projeto de Lei Complementar nº 39, de 2023,e das emendas, nos termos do parecer, ressalvados os destaques. | Maioria do partido: sim (2 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6714](../../../../../votacoes/6714/) |
-| 21 jun 2023 | Votação nominal da Emenda nº 83 ao Projeto de Lei Complementar nº 93, de 2023, destacada. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6715](../../../../../votacoes/6715/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Paulo Paim — Coesão com o próprio partido, Todas as votações abertas (página 6)"
-description: "A decomposição completa do número de Paulo Paim: 107 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 107ª."
+description: "A decomposição completa do número de Paulo Paim: 108 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 101ª à 108ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Paulo Paim: 107 votações
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>93,5%</b> é <b>100</b> coincidências em
-<b>107</b> votações computáveis — as outras 7 estão
+<p><b>93,5%</b> é <b>101</b> coincidências em
+<b>108</b> votações computáveis — as outras 7 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>6 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
-<b>107ª</b>.</p>
+<b>108ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>101ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 30 ago 2023 | Votação nominal do Projeto de Lei nº 2.384/2023 e das Emendas nºs 23 e 26, de redação. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6745](../../../../../votacoes/6745/) |
 | 21 jun 2023 | Votação nominal do Projeto de Lei Complementar nº 39, de 2023,e das emendas, nos termos do parecer, ressalvados os destaques. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6714](../../../../../votacoes/6714/) |
 | 21 jun 2023 | Votação nominal da Emenda nº 83 ao Projeto de Lei Complementar nº 93, de 2023, destacada. | Maioria do partido: nao (0 sim / 6 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6715](../../../../../votacoes/6715/) |
 | 21 jun 2023 | Votação nominal da Emenda nº 89 ao Projeto de Lei Complementar nº 93, de 2023, destacada. | Maioria do partido: nao (0 sim / 6 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6716](../../../../../votacoes/6716/) |

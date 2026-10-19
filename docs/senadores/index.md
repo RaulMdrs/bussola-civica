@@ -11,7 +11,7 @@ description: "Os 3 senadores gaúchos: coesão partidária a partir das votaçõ
 
 <div class="interrompe">
 <h4>Não compare estes números com os dos deputados</h4>
-<p>O Senado tem outro universo: <b>117 votações abertas</b> no
+<p>O Senado tem outro universo: <b>118 votações abertas</b> no
 período, contra 1.128 nominais da Câmara, porque
 <b>67% das votações do Senado são secretas</b> — nelas a origem
 confirma que o senador votou, não como.</p>
@@ -31,7 +31,7 @@ por conta própria, que é o que este projeto não faz. Aqui existe um eixo só.
 <text x="116" y="44" class="eixo-rot">sem eixo horizontal: o alinhamento com o governo não é calculável no Senado</text>
 </g>
 <a href="luis-carlos-heinze/">
-<title>Luis Carlos Heinze (PP) — coesão com o próprio partido 87,5%, apurados em 80 votações</title>
+<title>Luis Carlos Heinze (PP) — coesão com o próprio partido 87,7%, apurados em 81 votações</title>
 <circle cx="224.0" cy="81.0" r="6.5" class="orbe"/>
 <circle cx="224.0" cy="81.0" r="2.8" class="corpo"/>
 <text x="238.5" y="85.0" text-anchor="start" class="rotulo">Luis Carlos Heinze</text>
@@ -39,7 +39,7 @@ por conta própria, que é o que este projeto não faz. Aqui existe um eixo só.
 <line x1="90" y1="72" x2="90" y2="90" class="chave"/>
 <text x="82" y="85.0" class="sigla-faixa">PP</text>
 <a href="paulo-paim/">
-<title>Paulo Paim (PT) — coesão com o próprio partido 93,5%, apurados em 107 votações</title>
+<title>Paulo Paim (PT) — coesão com o próprio partido 93,5%, apurados em 108 votações</title>
 <circle cx="224.0" cy="125.0" r="5.1" class="orbe"/>
 <circle cx="224.0" cy="125.0" r="2.8" class="corpo"/>
 <text x="237.1" y="129.0" text-anchor="start" class="rotulo">Paulo Paim</text>
@@ -47,7 +47,7 @@ por conta própria, que é o que este projeto não faz. Aqui existe um eixo só.
 <line x1="90" y1="116" x2="90" y2="134" class="chave"/>
 <text x="82" y="129.0" class="sigla-faixa">PT</text>
 <a href="hamilton-mourao/">
-<title>Hamilton Mourão (REPUBLICANOS) — coesão com o próprio partido 85,7%, apurados em 105 votações</title>
+<title>Hamilton Mourão (REPUBLICANOS) — coesão com o próprio partido 85,8%, apurados em 106 votações</title>
 <circle cx="224.0" cy="169.0" r="6.9" class="orbe"/>
 <circle cx="224.0" cy="169.0" r="2.8" class="corpo"/>
 <text x="238.9" y="173.0" text-anchor="start" class="rotulo">Hamilton Mourão</text>
@@ -60,7 +60,7 @@ por conta própria, que é o que este projeto não faz. Aqui existe um eixo só.
 <div class="legenda">
 <div class="legenda-coluna">
 <p><b>Como ler.</b> A órbita mede o quanto o voto se afasta da maioria da própria bancada — órbita pequena é quem quase nunca destoa dos seus. <b>Não há posição horizontal</b>, e o vazio à direita é isso mesmo: o eixo de alinhamento com o governo existe na Câmara e não existe aqui.</p>
-<p>O <code>n</code> não está no gráfico: vai de <b>80 a 107 votações abertas</b>, e está na tabela abaixo.</p>
+<p>O <code>n</code> não está no gráfico: vai de <b>81 a 108 votações abertas</b>, e está na tabela abaixo.</p>
 </div>
 <div class="legenda-coluna">
 <p class="cautela"><b>As órbitas destes três não se comparam entre si.</b> Cada uma é medida contra a maioria do próprio partido, e são três partidos. Órbita menor não é mais disciplina que a do vizinho — é menos distância de outra referência. Por isso cada um tem sua faixa, e não há régua ligando uma à outra.</p>
@@ -69,7 +69,7 @@ por conta própria, que é o que este projeto não faz. Aqui existe um eixo só.
 
 | Senador | Partido | Coesão partidária | Votações (n) |
 |---|---|---:|---:|
-| <img class="retrato retrato-linha" src="../assets/fotos/hamilton-mourao.jpg" width="114" height="152" loading="lazy" alt="Retrato oficial de Hamilton Mourão">[Hamilton Mourão](hamilton-mourao/) | <span class="sigla">REPUBLICANOS</span> | <span class="valor">85,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>105</b></span> |
-| <img class="retrato retrato-linha" src="../assets/fotos/luis-carlos-heinze.jpg" width="114" height="152" loading="lazy" alt="Retrato oficial de Luis Carlos Heinze">[Luis Carlos Heinze](luis-carlos-heinze/) | <span class="sigla">PP</span> | <span class="valor">87,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>80</b></span> |
-| <img class="retrato retrato-linha" src="../assets/fotos/paulo-paim.jpg" width="114" height="152" loading="lazy" alt="Retrato oficial de Paulo Paim">[Paulo Paim](paulo-paim/) | <span class="sigla">PT</span> | <span class="valor">93,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>107</b></span> |
+| <img class="retrato retrato-linha" src="../assets/fotos/hamilton-mourao.jpg" width="114" height="152" loading="lazy" alt="Retrato oficial de Hamilton Mourão">[Hamilton Mourão](hamilton-mourao/) | <span class="sigla">REPUBLICANOS</span> | <span class="valor">85,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>106</b></span> |
+| <img class="retrato retrato-linha" src="../assets/fotos/luis-carlos-heinze.jpg" width="114" height="152" loading="lazy" alt="Retrato oficial de Luis Carlos Heinze">[Luis Carlos Heinze](luis-carlos-heinze/) | <span class="sigla">PP</span> | <span class="valor">87,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>81</b></span> |
+| <img class="retrato retrato-linha" src="../assets/fotos/paulo-paim.jpg" width="114" height="152" loading="lazy" alt="Retrato oficial de Paulo Paim">[Paulo Paim](paulo-paim/) | <span class="sigla">PT</span> | <span class="valor">93,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>108</b></span> |
 {: .t-senado}

@@ -16,7 +16,7 @@ Um registro de **como 31 deputados federais e 3 senadores do
 Rio Grande do Sul votaram** na legislatura 57, montado só a
 partir das APIs oficiais da Câmara e do Senado. Cada número exibido é
 decomponível até a votação que o compõe, com link para o registro na
-origem — são 87.690 evidências e 6.634
+origem — são 87.693 evidências e 6.634
 discursos.
 
 > **O site não classifica ninguém.** Não há nota, ranking, selo ou
@@ -62,7 +62,7 @@ o governo federal" é o rótulo correto; "esquerda" e "direita", não.
 
 Os universos não se comparam. **68% das votações do Senado são
 secretas** — nelas a origem confirma que o senador votou, não como —, e
-sobram 117 votações abertas contra
+sobram 118 votações abertas contra
 1.128 nominais da Câmara. Além disso, no
 Senado **não existe o eixo de alinhamento com o governo**: a Casa não
 publica orientação de bancada em dados abertos.
@@ -82,7 +82,7 @@ o período. Por exemplo:
 
 > O deputado X votou conforme a orientação da liderança do Governo em
 > **49,6% das 353 votações nominais de mérito** em que seu voto foi
-> computável, entre fevereiro de 2023 e 15 out 2026.
+> computável, entre fevereiro de 2023 e 19 out 2026.
 
 Cada perfil traz esses quatro elementos, e cada percentual é um link
 para a decomposição completa — todas as votações que entraram na conta,
