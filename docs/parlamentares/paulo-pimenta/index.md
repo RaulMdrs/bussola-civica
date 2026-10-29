@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **18 discursos** coletados no período, dos quais **15 substantivos** — os outros 3 são
+São **19 discursos** coletados no período, dos quais **16 substantivos** — os outros 3 são
 orientação de bancada, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,15 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6657">
+<span class="data">27 out 2026 · 18:48</span>
+<div class="corpo">
+<p class="tipo">COMO LÍDER</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74400/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-5867">
 <span class="data">12 ago 2026 · 17:12</span>
@@ -183,20 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5862">
-<span class="data">13 mai 2026 · 18:20</span>
-<div class="corpo">
-<p class="tipo">COMO LÍDER</p>
-<p>O Deputado fez acusações à família Bolsonaro, referindo-se ao banqueiro Daniel Vorcaro como o &quot;filho 05&quot; do ex-Presidente, em alusão ao financiamento de R$ 134 milhões para um filme sobre Bolsonaro. Citou documentos que comprovariam a relação entre Vorcaro e o clã Bolsonaro, incluindo: portaria ampliando percentual de consignado para o Banco Master; depósitos na campanha de Bolsonaro feitos pelo cunhado de Vorcaro; e depósitos na campanha do Governador de São Paulo, Tarcísio de Freitas. Além disso, mencionou revelações do portal The Intercept sobre depósito de mais de R$ 60 bilhões em conta no Texas vinculada a pessoas próximas a Eduardo Bolsonaro, informando que os dados já estariam com o Ministro André Mendonça, o Banco Central e o Conselho de Controle de Atividades Financeiras (COAF). Por fim, anunciou três medidas que seriam formalizadas junto ao Ministério Público Federal (MPF), à Polícia Federal (PF) e ao Ministro do Supremo Tribunal Federal (STF), André Mendonça: o bloqueio imediato de R$ 65 milhões para ressarcimento ao Fundo Garantidor de Crédito (FGC);o bloqueio da mansão do Senador Flávio Bolsonaro em Brasília (DF), financiada pelo Banco de Brasília (BRB), como garantia adicional de ressarcimento; e o uso imediato de tornozeleira eletrônica pelo Senador Flávio Bolsonaro, alegando risco real de fuga.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=14%2F5%2F2026&amp;txPagina=130&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>11</b></span> | 10 |
+| [2026](discursos/2026/) | <span class="n"><b>12</b></span> | 11 |
 | [2025](discursos/2025/) | <span class="n"><b>7</b></span> | 5 |
 {: .t-anos}
 

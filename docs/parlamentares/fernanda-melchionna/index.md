@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **300 discursos** coletados no período, dos quais **250 substantivos** — os outros 50 são
+São **301 discursos** coletados no período, dos quais **251 substantivos** — os outros 50 são
 orientação de bancada, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,15 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6648">
+<span class="data">27 out 2026 · 18:24</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204407/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-3840">
 <span class="data">12 ago 2026 · 16:48</span>
@@ -183,20 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3836">
-<span class="data">30 jun 2026 · 18:16</span>
-<div class="corpo">
-<p class="tipo">BREVES COMUNICAÇÕES</p>
-<p>A Deputada manifestou inconformidade com a obstrução da Extrema Direita ao Projeto de Lei nº 896, de 2023, que altera a Lei nº 7.716, de 5 de janeiro de 1989, para incluir os crimes praticados em razão de misoginia, afirmando que o reconhecimento legal era passo importante no enfrentamento ao discurso de ódio e à incitação à violência contra as mulheres. Além disso, associou a resistência ao PL do Bolsonaro e ao Novo a uma agenda machista e antifeminista, criticou conteúdos misóginos em redes sociais.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204407/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>44</b></span> | 36 |
+| [2026](discursos/2026/) | <span class="n"><b>45</b></span> | 37 |
 | [2025](discursos/2025/) | <span class="n"><b>83</b></span> | 74 |
 | [2024](discursos/2024/) | <span class="n"><b>60</b></span> | 46 |
 | [2023](discursos/2023/) | <span class="n"><b>113</b></span> | 94 |

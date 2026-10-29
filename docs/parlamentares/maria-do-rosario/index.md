@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **343 discursos** coletados no período, dos quais **308 substantivos** — os outros 35 são
+São **345 discursos** coletados no período, dos quais **310 substantivos** — os outros 35 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,24 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6656">
+<span class="data">27 out 2026 · 18:56</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6655">
+<span class="data">27 out 2026 · 18:28</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-6626">
 <span class="data">02 set 2026 · 16:32</span>
@@ -174,29 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6623">
-<span class="data">01 set 2026 · 22:32</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>A Deputada criticou o Senador Flávio Bolsonaro por mentiras sobre o recebimento de recursos e sua relação com o empresário Daniel Vorcaro. Além disso, destacou que os valores envolvidos superam 70 milhões de reais e que recursos de trabalhadores, servidores públicos e aposentadorias do Estado do Rio de Janeiro teriam sido desviados para Vorcaro, para o Senador Flávio, para Eduardo Bolsonaro e, possivelmente, para o ex-Presidente Bolsonaro.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-6622">
-<span class="data">01 set 2026 · 21:16</span>
-<div class="corpo">
-<p class="tipo">DISCUSSÃO</p>
-<p>A Deputada discutiu o Projeto de Lei nº 5.894, de 2025, que institui o Plano Nacional de Cultura para o decênio 2025-2035. Celebrou o retorno do Ministério da Cultura e elogiou o relatório do Deputado Pedro Uczai sobre o Plano Nacional de Cultura, que estabelece metas para os próximos dez anos. Argumentou que o governo anterior representou uma ameaça à identidade cultural do País e que iniciativas como a Lei Aldir Blanc e o programa Cultura Viva simbolizaram resistência a esse projeto. Por fim, destacou que o Plano Nacional de Cultura representa o coroamento de uma gestão vitoriosa e reafirmou o compromisso com uma Nação soberana, democrática e culturalmente valorizada.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>54</b></span> | 50 |
+| [2026](discursos/2026/) | <span class="n"><b>56</b></span> | 52 |
 | [2025](discursos/2025/) | <span class="n"><b>144</b></span> | 119 |
 | [2024](discursos/2024/) | <span class="n"><b>33</b></span> | 33 |
 | [2023](discursos/2023/) | <span class="n"><b>112</b></span> | 106 |

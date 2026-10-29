@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **661 discursos** coletados no período, dos quais **530 substantivos** — os outros 131 são
+São **667 discursos** coletados no período, dos quais **536 substantivos** — os outros 131 são
 orientação de bancada, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -147,8 +147,8 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-6633">
-<span class="data">13 out 2026 · 17:44</span>
+<blockquote class="evidencia discurso" id="d-6643">
+<span class="data">27 out 2026 · 22:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
@@ -156,8 +156,8 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6632">
-<span class="data">13 out 2026 · 17:36</span>
+<blockquote class="evidencia discurso" id="d-6642">
+<span class="data">27 out 2026 · 21:44</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
@@ -165,8 +165,8 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6631">
-<span class="data">13 out 2026 · 17:24</span>
+<blockquote class="evidencia discurso" id="d-6641">
+<span class="data">27 out 2026 · 21:32</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
@@ -174,8 +174,8 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6630">
-<span class="data">13 out 2026 · 16:08</span>
+<blockquote class="evidencia discurso" id="d-6640">
+<span class="data">27 out 2026 · 21:00</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
@@ -183,10 +183,10 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6629">
-<span class="data">13 out 2026 · 15:32</span>
+<blockquote class="evidencia discurso" id="d-6639">
+<span class="data">27 out 2026 · 18:56</span>
 <div class="corpo">
-<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="tipo">PELA ORDEM</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160538/discursos">Ver na API da Câmara</a>
 </div>
@@ -196,7 +196,7 @@ fonte que o publicou.
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>120</b></span> | 98 |
+| [2026](discursos/2026/) | <span class="n"><b>126</b></span> | 104 |
 | [2025](discursos/2025/) | <span class="n"><b>215</b></span> | 177 |
 | [2024](discursos/2024/) | <span class="n"><b>211</b></span> | 154 |
 | [2023](discursos/2023/) | <span class="n"><b>115</b></span> | 101 |

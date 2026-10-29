@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **989 discursos** coletados no período, dos quais **791 substantivos** — os outros 198 são
+São **991 discursos** coletados no período, dos quais **793 substantivos** — os outros 198 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,24 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6636">
+<span class="data">27 out 2026 · 18:44</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6635">
+<span class="data">27 out 2026 · 18:36</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-6628">
 <span class="data">13 out 2026 · 17:56</span>
@@ -174,29 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6593">
-<span class="data">01 set 2026 · 19:44</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado informou que a Oposição realizou coletiva para anunciar medidas diante de fatos noticiados envolvendo Alexandre de Moraes, Gonet e Daniel Vorcaro. Além disso, mencionou pedido de impeachment com quase cem assinaturas e requereu ao Vice-Procurador-Geral da República Hindenburgo Chateaubriand a prisão de Alexandre de Moraes, por suposta atuação para proteger Vorcaro. Ao final, afirmou que a situação teria deixado claras as ações do Ministro nos últimos anos.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-6592">
-<span class="data">01 set 2026 · 17:48</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado orientou a bancada na votação do requerimento de urgência ao Projeto de Lei nº 4.921, de 2026, que dispõe sobre a transformação de cargos vagos no quadro permanente do Tribunal Regional do Trabalho (TRT) da 18ª Região, sem aumento de despesas.&amp;nbsp;Na oportunidade, defendeu a extinção do Tribunal Superior do Trabalho (TST), com incorporação das causas à Justiça Comum. Por fim, criticou a eficiência do Poder Judiciário e cobrou a instalação da Comissão Parlamentar de Inquérito (CPI) do Abuso de Autoridade para investigar possíveis irregularidades.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>102</b></span> | 78 |
+| [2026](discursos/2026/) | <span class="n"><b>104</b></span> | 80 |
 | [2025](discursos/2025/) | <span class="n"><b>272</b></span> | 226 |
 | [2024](discursos/2024/) | <span class="n"><b>248</b></span> | 180 |
 | [2023](discursos/2023/) | <span class="n"><b>367</b></span> | 307 |

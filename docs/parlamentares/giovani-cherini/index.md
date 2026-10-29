@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **126 discursos** coletados no período, dos quais **114 substantivos** — os outros 12 são
+São **130 discursos** coletados no período, dos quais **118 substantivos** — os outros 12 são
 orientação de bancada, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,42 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6647">
+<span class="data">28 out 2026 · 15:24</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160673/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6646">
+<span class="data">28 out 2026 · 14:56</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160673/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6645">
+<span class="data">27 out 2026 · 18:00</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160673/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6644">
+<span class="data">27 out 2026 · 17:16</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160673/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-2406">
 <span class="data">14 out 2025 · 16:00</span>
@@ -156,46 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2405">
-<span class="data">07 out 2025 · 15:20</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado criticou o Supremo Tribunal Federal (STF) e o Governo Federal, afirmando que o Brasil vive uma “ditadura disfarçada” e que o tribunal extrapolou suas funções ao limitar ações do ex-Presidente Jair Bolsonaro. Mencionou que o Ministro do Supremo Tribunal Federal, Luís Roberto Barroso, supostamente reconheceu possíveis excessos do Supremo e a força política de Bolsonaro. Também acusou o Partido dos Trabalhadores (PT) de “comprar tudo, até o Fundação Instituto Brasileiro de Geografia e Estatística (IBGE)”, e afirmou que o partido substituiu a fome pela miséria, culpando o Governo pela crise social e pela violência do crime organizado.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=8%2F10%2F2025&amp;txPagina=70&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-2404">
-<span class="data">01 out 2025 · 16:16</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado criticou a política fiscal do Governo ao afirmar que novos impostos estavam sendo criados para sustentar o aumento de gastos públicos. Mencionou os recursos destinados ao Bolsa Família, no valor de 94 milhões de reais, e ao Vale Gás, de 10 milhões, apontando que a conta seria paga pela população que gera empregos e já enfrenta elevada carga tributária. Destacou que trabalhadores e empresários arcam com 27,5% de Imposto de Renda, mais de 40% sobre empresas e agora mais 10% sobre lucros e dividendos. Também mencionou os altos valores de bens utilizados pelo Presidente Lula e pela Primeira-dama, em contraste com o discurso de proximidade com a população de baixa renda.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=2%2F10%2F2025&amp;txPagina=102&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-2403">
-<span class="data">01 out 2025 · 14:32</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado comentou a prisão na Itália de Tagliaferro, acusado de envolvimento na chamada &quot;vaza-toga&quot;. Afirmou que, em vez de apurar os fatos, o regime petista tenta silenciar vozes críticas, forçando adversários a deixarem o Brasil. Também defendeu que Tagliaferro seja chamado a depor no País para esclarecer os acontecimentos.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=2%2F10%2F2025&amp;txPagina=66&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-2402">
-<span class="data">30 set 2025 · 17:24</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado criticou o Ministro Edson Fachin, do Supremo Tribunal Federal (STF), afirmando que sua decisão de anular condenações e “descondenar” o Presidente Lula em 2021 teria aprofundado a divisão no País e agravado a criminalidade. Ademais, disse que o Brasil afundou economicamente, citando os 94 milhões de beneficiários do Bolsa Família como exemplo do aumento da miséria. Também questionou quem arcaria com as chamadas benesses aprovadas no Congresso, alegando que empresários estariam fechando empresas diante da alta carga tributária. Por fim, acusou o STF de desrespeitar a Constituição desde 2019 e defendeu a necessidade de restabelecer sua observância, citando a aplicação da Lei Magnitsky pelo governo dos Estados Unidos.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=1%2F10%2F2025&amp;txPagina=109&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
+| [2026](discursos/2026/) | <span class="n"><b>4</b></span> | 4 |
 | [2025](discursos/2025/) | <span class="n"><b>28</b></span> | 27 |
 | [2024](discursos/2024/) | <span class="n"><b>23</b></span> | 23 |
 | [2023](discursos/2023/) | <span class="n"><b>75</b></span> | 64 |

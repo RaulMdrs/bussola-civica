@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **94 discursos** coletados no período, dos quais **78 substantivos** — os outros 16 são
+São **95 discursos** coletados no período, dos quais **79 substantivos** — os outros 16 são
 orientação de bancada, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,15 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6649">
+<span class="data">28 out 2026 · 16:20</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220555/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-6612">
 <span class="data">02 set 2026 · 18:40</span>
@@ -183,20 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4684">
-<span class="data">20 mai 2026 · 14:36</span>
-<div class="corpo">
-<p class="tipo">BREVES COMUNICAÇÕES</p>
-<p>A Deputada defendeu a Proposta de Emenda à Constituição que propõe o fim da escala 6x1, com jornada de 40 horas semanais, duas folgas e sem redução salarial, e criticou tentativas de condicionar essa conquista a contrapartidas como a redução do recolhimento do FGTS de 8% para 4% e a isenção temporária da Previdência Patronal para novas contratações. Além disso, apontou contradição dos grupos que não questionaram a reforma trabalhista, aprovada em 120 dias, mas agora resistem à ampliação de direitos. Por fim, reafirmou seu compromisso com os trabalhadores e declarou que dignidade não se negocia.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=21%2F5%2F2026&amp;txPagina=67&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>15</b></span> | 13 |
+| [2026](discursos/2026/) | <span class="n"><b>16</b></span> | 14 |
 | [2025](discursos/2025/) | <span class="n"><b>22</b></span> | 21 |
 | [2024](discursos/2024/) | <span class="n"><b>35</b></span> | 23 |
 | [2023](discursos/2023/) | <span class="n"><b>22</b></span> | 21 |

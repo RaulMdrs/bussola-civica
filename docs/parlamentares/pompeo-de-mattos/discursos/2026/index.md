@@ -7,7 +7,7 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Pompeo de Mattos</a></b> · PDT · 79 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Pompeo de Mattos</a></b> · PDT · 84 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
@@ -16,7 +16,52 @@ description: "Os discursos de Pompeo de Mattos em 2026, com o sumário oficial e
 > neste site: o link de cada discurso leva ao **Diário da Câmara**
 > , onde ele está publicado, ou à **API** quando a origem não o publicou no Diário.
 
-## Substantivos — 60
+## Substantivos — 65
+
+<blockquote class="evidencia discurso" id="d-6654">
+<span class="data">27 out 2026 · 21:56</span>
+<div class="corpo">
+<p class="tipo">DISCUSSÃO</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73486/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6653">
+<span class="data">27 out 2026 · 21:36</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73486/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6652">
+<span class="data">27 out 2026 · 21:24</span>
+<div class="corpo">
+<p class="tipo">DISCUSSÃO</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73486/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6651">
+<span class="data">27 out 2026 · 20:52</span>
+<div class="corpo">
+<p class="tipo">DISCUSSÃO</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73486/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6650">
+<span class="data">27 out 2026 · 20:36</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73486/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-6634">
 <span class="data">13 out 2026 · 16:40</span>

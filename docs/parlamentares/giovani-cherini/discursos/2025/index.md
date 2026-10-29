@@ -9,7 +9,7 @@ description: "Os discursos de Giovani Cherini em 2025, com o sumário oficial e 
 
 <p class="subtitulo"><b><a href="../../">Giovani Cherini</a></b> · PL · 28 discursos em 2025</p>
 
-<p class="anos">Outros anos: <b>2025</b> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
+<p class="anos">Outros anos: <a href="../2026/">2026</a> · <b>2025</b> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
 > O que segue é o **sumário publicado pela Câmara**,
 > sem edição — nada aqui é resumo nosso. O texto integral não é reproduzido

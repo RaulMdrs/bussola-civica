@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **718 discursos** coletados no período, dos quais **637 substantivos** — os outros 81 são
+São **723 discursos** coletados no período, dos quais **642 substantivos** — os outros 81 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -147,47 +147,47 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-6634">
-<span class="data">13 out 2026 · 16:40</span>
+<blockquote class="evidencia discurso" id="d-6654">
+<span class="data">27 out 2026 · 21:56</span>
 <div class="corpo">
-<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="tipo">DISCUSSÃO</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73486/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5404">
-<span class="data">08 jul 2026 · 18:32</span>
+<blockquote class="evidencia discurso" id="d-6653">
+<span class="data">27 out 2026 · 21:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
-<p>O Deputado fez um alerta sobre o risco de uma grande catástrofe climática associada ao Super El Niño, com impactos especialmente graves no Rio Grande do Sul. Recordou as enchentes de 2023 e 2024, mencionou a atuação como Relator da Comissão Externa que acompanhou a recuperação do Estado e cobrou mais rapidez nas obras de diques em Eldorado do Sul (RS), Canoas (RS) e Porto Alegre (RS). Além disso, defendeu a prevenção imediata para salvar vidas e evitar novas perdas humanas e materiais.</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73486/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5403">
-<span class="data">08 jul 2026 · 18:16</span>
+<blockquote class="evidencia discurso" id="d-6652">
+<span class="data">27 out 2026 · 21:24</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
-<p>O Deputado discutiu o Projeto de Lei nº 1.361, que altera a Lei nº 14.260, de 2021, para tornar permanentes os incentivos à indústria da reciclagem. Afirmou que a reciclagem de resíduos sólidos é essencial para a preservação ambiental, a geração de emprego e renda e a melhoria da qualidade de vida. Além disso, sustentou que a transformação do incentivo fiscal em medida permanente estimularia investimentos, tecnologia e ampliação da reciclagem no País, ao destacar que apenas pequena parcela dos resíduos produzidos era reciclada. Por fim, assinalou que o fortalecimento da economia da reciclagem traria benefícios ambientais, sociais e econômicos.</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73486/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5402">
-<span class="data">08 jul 2026 · 17:36</span>
+<blockquote class="evidencia discurso" id="d-6651">
+<span class="data">27 out 2026 · 20:52</span>
 <div class="corpo">
 <p class="tipo">DISCUSSÃO</p>
-<p>O Deputado discutiu o Projeto de Lei nº 1.845, de 2025, que altera a Lei nº 11.445, de 5 de janeiro de 2007, para dispor sobre o cálculo da tarifa do serviço de abastecimento de água em condomínios com múltiplas unidades imobiliárias e medidor único.</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73486/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5401">
-<span class="data">08 jul 2026 · 17:12</span>
+<blockquote class="evidencia discurso" id="d-6650">
+<span class="data">27 out 2026 · 20:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
-<p>O Deputado criticou a atuação da Aegea, empresa que assumiu os serviços da Companhia Riograndense de Saneamento após a privatização no Rio Grande do Sul, e contestou a cobrança individualizada da tarifa de água em condomínios. Além disso, afirmou que a prática seria injusta e defendeu que a cobrança permanecesse vinculada a um único hidrômetro, com divisão do valor entre os condôminos. Também questionou a cobrança de tarifas de água e esgoto em imóveis sem ligação às redes ou sem disponibilidade efetiva do serviço, reiterando sua oposição à privatização do abastecimento de água.</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73486/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
@@ -196,7 +196,7 @@ fonte que o publicou.
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>79</b></span> | 60 |
+| [2026](discursos/2026/) | <span class="n"><b>84</b></span> | 65 |
 | [2025](discursos/2025/) | <span class="n"><b>222</b></span> | 188 |
 | [2024](discursos/2024/) | <span class="n"><b>150</b></span> | 141 |
 | [2023](discursos/2023/) | <span class="n"><b>267</b></span> | 248 |

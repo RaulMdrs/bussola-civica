@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **424 discursos** coletados no período, dos quais **397 substantivos** — os outros 27 são
+São **425 discursos** coletados no período, dos quais **398 substantivos** — os outros 27 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,15 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6637">
+<span class="data">27 out 2026 · 16:16</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160535/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-6595">
 <span class="data">01 set 2026 · 21:00</span>
@@ -183,20 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1604">
-<span class="data">16 jun 2026 · 15:52</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado saudou a presença, na Câmara dos Deputados, do Vereador Ricardo Denti, de Sarandi (RS). Destacou sua atuação em parceria com a bancada do Partido dos Trabalhadores (PT) na articulação de recursos para o Município, especialmente para obras de infraestrutura, habitação e atendimento pelo Serviço de Atendimento Móvel de Urgência (SAMU). Por fim, parabenizou o Vereador pelo trabalho na Câmara Municipal.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160535/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>37</b></span> | 36 |
+| [2026](discursos/2026/) | <span class="n"><b>38</b></span> | 37 |
 | [2025](discursos/2025/) | <span class="n"><b>113</b></span> | 108 |
 | [2024](discursos/2024/) | <span class="n"><b>103</b></span> | 95 |
 | [2023](discursos/2023/) | <span class="n"><b>171</b></span> | 158 |

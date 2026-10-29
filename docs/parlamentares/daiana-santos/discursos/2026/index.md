@@ -7,7 +7,7 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário oficial e li
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Daiana Santos</a></b> · PCdoB · 15 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Daiana Santos</a></b> · PCdoB · 16 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
@@ -16,7 +16,16 @@ description: "Os discursos de Daiana Santos em 2026, com o sumário oficial e li
 > neste site: o link de cada discurso leva ao **Diário da Câmara**
 > , onde ele está publicado, ou à **API** quando a origem não o publicou no Diário.
 
-## Substantivos — 13
+## Substantivos — 14
+
+<blockquote class="evidencia discurso" id="d-6649">
+<span class="data">28 out 2026 · 16:20</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220555/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-6612">
 <span class="data">02 set 2026 · 18:40</span>
