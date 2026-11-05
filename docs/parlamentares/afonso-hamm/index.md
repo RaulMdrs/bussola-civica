@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **138 discursos** coletados no período, dos quais **125 substantivos** — os outros 13 são
+São **139 discursos** coletados no período, dos quais **126 substantivos** — os outros 13 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,15 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6659">
+<span class="data">03 nov 2026 · 16:56</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/136811/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-180">
 <span class="data">11 ago 2026 · 16:24</span>
@@ -183,20 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-176">
-<span class="data">19 mai 2026 · 16:12</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado afirmou que houve equívoco do Parlamentar que o antecedeu ao tratar de temas relacionados ao agronegócio. Citou o movimento SOS Agro no Rio Grande do Sul e mencionou a situação de agricultores afetados por crises climáticas, incluindo registros de suicídios no setor. Destacou a securitização financiada pelo fundo social para mitigação de impactos climáticos e afirmou que não haveria anistia ou descontos, com pagamento pelos produtores. Também mencionou ações na área da saúde no Município de Estância Velha (RS), com destinação de recursos a hospital local e índice de 41% de participação no financiamento.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=20%2F5%2F2026&amp;txPagina=96&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>13</b></span> | 13 |
+| [2026](discursos/2026/) | <span class="n"><b>14</b></span> | 14 |
 | [2025](discursos/2025/) | <span class="n"><b>47</b></span> | 40 |
 | [2024](discursos/2024/) | <span class="n"><b>36</b></span> | 31 |
 | [2023](discursos/2023/) | <span class="n"><b>42</b></span> | 41 |

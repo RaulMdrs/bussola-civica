@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **42 discursos** coletados no período, dos quais **38 substantivos** — os outros 4 são
+São **43 discursos** coletados no período, dos quais **39 substantivos** — os outros 4 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,15 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6658">
+<span class="data">03 nov 2026 · 19:16</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/133810/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-42">
 <span class="data">08 jul 2026 · 16:08</span>
@@ -183,20 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-37">
-<span class="data">24 set 2025 · 14:00</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado registrou a visita da Vereadora Carolina Mux, de Salvador do Sul (RS), destacando seu primeiro mandato e sua atuação em diferentes áreas. Lembrou que, por meio de seu mandato, já foram destinados recursos para o hospital local e para a Apae, reforçando a parceria com o Município. Informou ainda que esteve empenhado em buscar soluções junto à Defesa Civil para demandas represadas e que seguirá discutindo a destinação de verbas para o próximo ano. Ressaltou a iniciativa da Vereadora em buscar recursos para infraestrutura e afirmou que continuará contribuindo para o desenvolvimento de Salvador do Sul, reconhecendo o trabalho realizado pela representante municipal.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=25%2F9%2F2025&amp;txPagina=52&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>4</b></span> | 3 |
+| [2026](discursos/2026/) | <span class="n"><b>5</b></span> | 4 |
 | [2025](discursos/2025/) | <span class="n"><b>17</b></span> | 14 |
 | [2024](discursos/2024/) | <span class="n"><b>3</b></span> | 3 |
 | [2023](discursos/2023/) | <span class="n"><b>18</b></span> | 18 |

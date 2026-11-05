@@ -7,7 +7,7 @@ description: "Os discursos de Alexandre Lindenmeyer em 2026, com o sumário ofic
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Alexandre Lindenmeyer</a></b> · PT · 6 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Alexandre Lindenmeyer</a></b> · PT · 7 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
@@ -16,7 +16,16 @@ description: "Os discursos de Alexandre Lindenmeyer em 2026, com o sumário ofic
 > neste site: o link de cada discurso leva ao **Diário da Câmara**
 > , onde ele está publicado, ou à **API** quando a origem não o publicou no Diário.
 
-## Substantivos — 5
+## Substantivos — 6
+
+<blockquote class="evidencia discurso" id="d-6661">
+<span class="data">03 nov 2026 · 18:16</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220554/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-4595">
 <span class="data">16 jun 2026 · 16:04</span>

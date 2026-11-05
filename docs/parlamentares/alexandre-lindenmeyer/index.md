@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **67 discursos** coletados no período, dos quais **65 substantivos** — os outros 2 são
+São **68 discursos** coletados no período, dos quais **66 substantivos** — os outros 2 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,15 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6661">
+<span class="data">03 nov 2026 · 18:16</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220554/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-4595">
 <span class="data">16 jun 2026 · 16:04</span>
@@ -183,20 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4591">
-<span class="data">12 mai 2026 · 14:40</span>
-<div class="corpo">
-<p class="tipo">BREVES COMUNICAÇÕES</p>
-<p>O Deputado enalteceu o Presidente Lula e o Ministro da Justiça e Segurança Pública, Wellington César, pelo lançamento do Programa Nacional de Combate ao Crime Organizado. Destacou os quatro eixos da iniciativa: ataque ao financiamento e à lavagem de dinheiro, enfrentamento do mercado ilegal de armas, redução da violência letal e combate ao comando de crimes a partir dos presídios. Ademais, ressaltou a previsão de que 138 presídios adotem critérios semelhantes aos dos presídios federais. Ao final, defendeu a recuperação dos espaços ocupados pelo crime organizado e a articulação entre União, Estados e Municípios na segurança pública.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=13%2F5%2F2026&amp;txPagina=47&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>6</b></span> | 5 |
+| [2026](discursos/2026/) | <span class="n"><b>7</b></span> | 6 |
 | [2025](discursos/2025/) | <span class="n"><b>14</b></span> | 14 |
 | [2024](discursos/2024/) | <span class="n"><b>10</b></span> | 10 |
 | [2023](discursos/2023/) | <span class="n"><b>37</b></span> | 36 |
