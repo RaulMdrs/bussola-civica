@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **43 discursos** coletados no período, dos quais **39 substantivos** — os outros 4 são
+São **44 discursos** coletados no período, dos quais **40 substantivos** — os outros 4 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,15 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6667">
+<span class="data">10 nov 2026 · 15:12</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/133810/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-6658">
 <span class="data">03 nov 2026 · 19:16</span>
@@ -183,20 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-38">
-<span class="data">14 out 2025 · 14:48</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado registrou a visita do Vice-Prefeito de Santa Cruz do Sul (RS), Alex Knak, à Câmara dos Deputados, parabenizando sua atuação e destacando sua defesa da relevância econômica da cultura do tabaco para a região, conhecida como Capital Nacional do Fumo. Além disso, assinalou que o Vice-Prefeito esteve em Brasília (DF) em busca de recursos para o Município e apresentou proposta de emenda visando à pavimentação de trecho viário na localidade de Alto Paredão, que conecta Santa Cruz do Sul (RS) a Boqueirão do Leão (RS), interligando o Vale do Rio Pardo ao Vale do Taquari.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=15%2F10%2F2025&amp;txPagina=62&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>5</b></span> | 4 |
+| [2026](discursos/2026/) | <span class="n"><b>6</b></span> | 5 |
 | [2025](discursos/2025/) | <span class="n"><b>17</b></span> | 14 |
 | [2024](discursos/2024/) | <span class="n"><b>3</b></span> | 3 |
 | [2023](discursos/2023/) | <span class="n"><b>18</b></span> | 18 |

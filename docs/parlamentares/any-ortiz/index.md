@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **39 discursos** coletados no período, dos quais **37 substantivos** — os outros 2 são
+São **40 discursos** coletados no período, dos quais **38 substantivos** — os outros 2 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,15 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6682">
+<span class="data">10 nov 2026 · 16:56</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220549/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-4068">
 <span class="data">08 jul 2026 · 16:40</span>
@@ -183,20 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4064">
-<span class="data">05 mai 2026 · 16:08</span>
-<div class="corpo">
-<p class="tipo">BREVES COMUNICAÇÕES</p>
-<p>A Deputada defendeu a redução da maioridade penal após caso de estupro coletivo de duas crianças praticado por um adulto e quatro adolescentes. Citou pesquisa que apontou 90% dos brasileiros favoráveis à medida e questionou a omissão da Casa diante do tema. Argumentou que medidas socioeducativas são insuficientes para crimes hediondos praticados com extrema violência, comparando o sistema atual a uma porta giratória. Além disso, mencionou que países como Estados Unidos, Alemanha, Inglaterra e Japão já responsabilizam criminosos dessa natureza como adultos. Por fim, cobrou do Parlamento o enfrentamento da questão e a revisão da legislação vigente.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=6%2F5%2F2026&amp;txPagina=81&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>11</b></span> | 10 |
+| [2026](discursos/2026/) | <span class="n"><b>12</b></span> | 11 |
 | [2025](discursos/2025/) | <span class="n"><b>8</b></span> | 8 |
 | [2024](discursos/2024/) | <span class="n"><b>9</b></span> | 8 |
 | [2023](discursos/2023/) | <span class="n"><b>11</b></span> | 11 |

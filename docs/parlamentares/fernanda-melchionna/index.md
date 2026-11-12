@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **301 discursos** coletados no período, dos quais **251 substantivos** — os outros 50 são
+São **302 discursos** coletados no período, dos quais **252 substantivos** — os outros 50 são
 orientação de bancada, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,15 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6681">
+<span class="data">10 nov 2026 · 18:20</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204407/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-6648">
 <span class="data">27 out 2026 · 18:24</span>
@@ -183,20 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3837">
-<span class="data">14 jul 2026 · 18:20</span>
-<div class="corpo">
-<p class="tipo">COMO LÍDER</p>
-<p>A Deputada cobrou a votação do Projeto de Lei nº 896, de 2023, que criminaliza a misoginia como crime de ódio, afirmando que a Câmara precisava responder ao movimento de mulheres diante da epidemia de feminicídios. Além disso, criticou o Senado por adiar a análise da Proposta de Emenda à Constituição nº 221, de 2019, que trata do fim da escala 6 por 1 e apontou resistência de setores da extrema direita a avanços em direitos das mulheres. Também reprovou a Comissão de Segurança por aprovar emenda que enfraquecia a Lei de Racismo e por homenagear Gabriel Monteiro, e anunciou representação na Procuradoria-Geral da República.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204407/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>45</b></span> | 37 |
+| [2026](discursos/2026/) | <span class="n"><b>46</b></span> | 38 |
 | [2025](discursos/2025/) | <span class="n"><b>83</b></span> | 74 |
 | [2024](discursos/2024/) | <span class="n"><b>60</b></span> | 46 |
 | [2023](discursos/2023/) | <span class="n"><b>113</b></span> | 94 |

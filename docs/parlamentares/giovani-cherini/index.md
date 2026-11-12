@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **130 discursos** coletados no período, dos quais **118 substantivos** — os outros 12 são
+São **131 discursos** coletados no período, dos quais **119 substantivos** — os outros 12 são
 orientação de bancada, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,15 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6679">
+<span class="data">10 nov 2026 · 14:20</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160673/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-6647">
 <span class="data">28 out 2026 · 15:24</span>
@@ -183,20 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2406">
-<span class="data">14 out 2025 · 16:00</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado acusou o Governo Lula de adotar práticas autoritárias semelhantes às da Venezuela, China e Nicarágua, chamando-o de “Governo da mentira”. Criticou a influência da Primeira-Dama Janja, comparando-a à esposa do ditador nicaraguense Ortega, e atacou Lula por indicar amigos ao Supremo Tribunal Federal (STF) e impor sigilos de até 100 anos, contradizendo o discurso de transparência. Por fim, disse que o país vive sob um “Governo da gastança e do segredo”.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=15%2F10%2F2025&amp;txPagina=84&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>4</b></span> | 4 |
+| [2026](discursos/2026/) | <span class="n"><b>5</b></span> | 5 |
 | [2025](discursos/2025/) | <span class="n"><b>28</b></span> | 27 |
 | [2024](discursos/2024/) | <span class="n"><b>23</b></span> | 23 |
 | [2023](discursos/2023/) | <span class="n"><b>75</b></span> | 64 |

@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **128 discursos** coletados no período, dos quais **101 substantivos** — os outros 27 são
+São **129 discursos** coletados no período, dos quais **102 substantivos** — os outros 27 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,15 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6680">
+<span class="data">10 nov 2026 · 15:40</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178964/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-6609">
 <span class="data">01 set 2026 · 16:16</span>
@@ -183,20 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2635">
-<span class="data">11 ago 2026 · 16:44</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado alertou que os agricultores estão enfrentando dificuldades para atender aos critérios da Medida Provisória (MPV) nº 1.376, de 2026, destinada à renegociação de dívidas rurais, o que pode restringir o acesso ao crédito e resultar em sobra de recursos do Plano Safra. Além disso, solicitou ao Ministro da Fazenda a revisão e a ampliação do alcance da MPV, a fim de permitir o enquadramento de maior número de produtores. Por fim, requereu a publicação, nos Anais da Câmara dos Deputados, de documento elaborado pela Federação dos Trabalhadores na Agricultura no Rio Grande do Sul — Fetag-RS com propostas para ampliar o acesso dos agricultores ao crédito e viabilizar a próxima safra.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178964/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>19</b></span> | 17 |
+| [2026](discursos/2026/) | <span class="n"><b>20</b></span> | 18 |
 | [2025](discursos/2025/) | <span class="n"><b>27</b></span> | 25 |
 | [2024](discursos/2024/) | <span class="n"><b>49</b></span> | 28 |
 | [2023](discursos/2023/) | <span class="n"><b>33</b></span> | 31 |

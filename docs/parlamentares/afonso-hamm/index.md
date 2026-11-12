@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **139 discursos** coletados no período, dos quais **126 substantivos** — os outros 13 são
+São **140 discursos** coletados no período, dos quais **127 substantivos** — os outros 13 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,15 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6668">
+<span class="data">10 nov 2026 · 15:08</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/136811/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-6659">
 <span class="data">03 nov 2026 · 16:56</span>
@@ -183,20 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-177">
-<span class="data">27 mai 2026 · 18:44</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado defendeu o Projeto de Lei nº 2.951, de 2024, que altera a Lei nº 8.171, de 17 de janeiro de 1991, a Lei nº 10.823, de 19 de dezembro de 2003, e a Lei Complementar nº 137, de 26 de agosto de 2010, para aperfeiçoar os marcos legais do seguro rural, destacando as perdas de safras causadas por eventos climáticos extremos, como estiagens e enchentes no Rio Grande do Sul. Ressaltou que a proposta, iniciada pela Senadora Tereza Cristina e aprovada no Senado, amplia a cobertura do seguro rural para a pecuária, a pesca, a aquicultura e a agricultura. Por fim, conclamou o apoio dos colegas para a aprovação da matéria na Câmara.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=28%2F7%2F2026&amp;txPagina=183&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>14</b></span> | 14 |
+| [2026](discursos/2026/) | <span class="n"><b>15</b></span> | 15 |
 | [2025](discursos/2025/) | <span class="n"><b>47</b></span> | 40 |
 | [2024](discursos/2024/) | <span class="n"><b>36</b></span> | 31 |
 | [2023](discursos/2023/) | <span class="n"><b>42</b></span> | 41 |

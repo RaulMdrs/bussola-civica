@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **991 discursos** coletados no período, dos quais **793 substantivos** — os outros 198 são
+São **998 discursos** coletados no período, dos quais **800 substantivos** — os outros 198 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -147,8 +147,8 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-6636">
-<span class="data">27 out 2026 · 18:44</span>
+<blockquote class="evidencia discurso" id="d-6675">
+<span class="data">10 nov 2026 · 20:12</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
@@ -156,17 +156,8 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6635">
-<span class="data">27 out 2026 · 18:36</span>
-<div class="corpo">
-<p class="tipo">BREVES COMUNICAÇÕES</p>
-<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-6628">
-<span class="data">13 out 2026 · 17:56</span>
+<blockquote class="evidencia discurso" id="d-6674">
+<span class="data">10 nov 2026 · 20:04</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
@@ -174,8 +165,17 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6627">
-<span class="data">13 out 2026 · 16:48</span>
+<blockquote class="evidencia discurso" id="d-6673">
+<span class="data">10 nov 2026 · 19:56</span>
+<div class="corpo">
+<p class="tipo">OUTROS</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6672">
+<span class="data">10 nov 2026 · 19:08</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
@@ -183,11 +183,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6594">
-<span class="data">01 set 2026 · 20:08</span>
+<blockquote class="evidencia discurso" id="d-6671">
+<span class="data">10 nov 2026 · 18:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
-<p>O Deputado criticou o que classificou como tentativa do Procurador-Geral da República, Paulo Gonet, de anular provas colhidas pela Polícia Federal e apresentadas pelo Ministro André Mendonça. Citou mensagens atribuídas a Daniel Vorcaro que indicariam vínculos com Gonet e com o Ministro Alexandre de Moraes, incluindo suposto pagamento de serviços advocatícios e benefícios a familiares. Com base nessas informações, pediu ao Vice-Procurador-Geral da República, Hindemburgo Chateaubriand, a prisão de Alexandre de Moraes e defendeu o impeachment do Ministro.</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
@@ -196,7 +196,7 @@ fonte que o publicou.
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>104</b></span> | 80 |
+| [2026](discursos/2026/) | <span class="n"><b>111</b></span> | 87 |
 | [2025](discursos/2025/) | <span class="n"><b>272</b></span> | 226 |
 | [2024](discursos/2024/) | <span class="n"><b>248</b></span> | 180 |
 | [2023](discursos/2023/) | <span class="n"><b>367</b></span> | 307 |

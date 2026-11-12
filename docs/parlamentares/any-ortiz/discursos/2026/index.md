@@ -7,7 +7,7 @@ description: "Os discursos de Any Ortiz em 2026, com o sumário oficial e link p
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Any Ortiz</a></b> · PP · 11 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Any Ortiz</a></b> · PP · 12 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
@@ -16,7 +16,16 @@ description: "Os discursos de Any Ortiz em 2026, com o sumário oficial e link p
 > neste site: o link de cada discurso leva ao **Diário da Câmara**
 > , onde ele está publicado, ou à **API** quando a origem não o publicou no Diário.
 
-## Substantivos — 10
+## Substantivos — 11
+
+<blockquote class="evidencia discurso" id="d-6682">
+<span class="data">10 nov 2026 · 16:56</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220549/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-4068">
 <span class="data">08 jul 2026 · 16:40</span>

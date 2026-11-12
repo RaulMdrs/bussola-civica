@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **425 discursos** coletados no período, dos quais **398 substantivos** — os outros 27 são
+São **426 discursos** coletados no período, dos quais **399 substantivos** — os outros 27 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,15 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6676">
+<span class="data">10 nov 2026 · 16:20</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160535/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-6637">
 <span class="data">27 out 2026 · 16:16</span>
@@ -183,20 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1605">
-<span class="data">16 jun 2026 · 18:44</span>
-<div class="corpo">
-<p class="tipo">BREVES COMUNICAÇÕES</p>
-<p>O Deputado criticou decisões e atuações de integrantes do Supremo Tribunal Federal (STF), mencionando processos relacionados ao Deputado Eduardo Bolsonaro e investigações envolvendo o Banco Master. Além disso, afirmou que houve divergências entre Ministros da Corte quanto a medidas judiciais ligadas ao caso de Daniel Vorcaro e citou informações divulgadas por veículos de comunicação sobre supostas pressões e contatos entre autoridades públicas e investigados. Na continuidade, sustentou que as apurações poderiam alcançar agentes políticos e integrantes de instituições de Estado. Por fim, elogiou a atuação de Ministros indicados pelo ex-Presidente Jair Bolsonaro e defendeu a continuidade das investigações para apuração de eventuais responsabilidades.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160535/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>38</b></span> | 37 |
+| [2026](discursos/2026/) | <span class="n"><b>39</b></span> | 38 |
 | [2025](discursos/2025/) | <span class="n"><b>113</b></span> | 108 |
 | [2024](discursos/2024/) | <span class="n"><b>103</b></span> | 95 |
 | [2023](discursos/2023/) | <span class="n"><b>171</b></span> | 158 |
