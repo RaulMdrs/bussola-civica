@@ -11,7 +11,7 @@ description: "Como Hamilton Mourão vota no Senado: coesão com o próprio parti
 
 <div class="interrompe">
 <h4>Não compare estes números com os dos deputados</h4>
-<p>O Senado tem outro universo: <b>118 votações abertas</b> no
+<p>O Senado tem outro universo: <b>120 votações abertas</b> no
 período, contra 1.128 nominais da Câmara, porque
 <b>67% das votações do Senado são secretas</b> — nelas a origem
 confirma que o senador votou, não como.</p>
@@ -28,7 +28,7 @@ por conta própria, que é o que este projeto não faz. Aqui existe um eixo só.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Todas as votações abertas</span> | [<span class="valor">85,8%</span>](evidencia/coesao-partidaria-unico/) | <span class="n-detalhe">106 <span>votações computáveis</span></span><span class="n-detalhe">118 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Todas as votações abertas</span> | [<span class="valor">86,1%</span>](evidencia/coesao-partidaria-unico/) | <span class="n-detalhe">108 <span>votações computáveis</span></span><span class="n-detalhe">120 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
 Não há recorte entre mérito e procedimental aqui: a regra que separa os
@@ -69,7 +69,7 @@ As descrições são o texto original da fonte oficial.
 
 ### A conta inteira
 
-- [Coesão com o próprio partido, todas as votações abertas](evidencia/coesao-partidaria-unico/) — 106 votações,
+- [Coesão com o próprio partido, todas as votações abertas](evidencia/coesao-partidaria-unico/) — 108 votações,
   coincidências inclusive
 
 ## O que disse em plenário

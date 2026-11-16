@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Paulo Paim — Coesão com o próprio partido, Todas as votações abertas (página 5)"
-description: "A decomposição completa do número de Paulo Paim: 108 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
+description: "A decomposição completa do número de Paulo Paim: 110 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Paulo Paim: 108 votações
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>93,5%</b> é <b>101</b> coincidências em
-<b>108</b> votações computáveis — as outras 7 estão
+<p><b>93,6%</b> é <b>103</b> coincidências em
+<b>110</b> votações computáveis — as outras 7 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>6 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 16 abr 2024 | Votação nominal da Proposta de Emenda à Constituição nº 45, de 2023, nos termos do parecer (2º Turno). | Maioria do partido: nao (0 sim / 5 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6825](../../../../../votacoes/6825/) |
+| 10 abr 2024 | Votação nominal da Emenda nº 1 (Substitutivo) ao PLP nº 252/2023, nos termos do parecer de Plenário. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6823](../../../../../votacoes/6823/) |
 | 13 mar 2024 | Votação, em primeiro turno, da PEC nº 72/2023, nos termos do Parecer com ajuste redacional. | Maioria do partido: sim (6 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6821](../../../../../votacoes/6821/) |
 | 13 mar 2024 | Votação, em segundo turno, da PEC nº 72/2023. | Maioria do partido: sim (6 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6822](../../../../../votacoes/6822/) |
 | 20 dez 2023 | Votação nominal do PLV 20/2023 e Pressupostos Constitucionais da MPV 1.185/23, nos termos do Parecer, ressalvado o destaque. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6816](../../../../../votacoes/6816/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 | 04 out 2023 | Votação nominal do Projeto de Lei Complementar nº 136, de 2023, nos termos dos pareceres. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6759](../../../../../votacoes/6759/) |
 | 27 set 2023 | Votação nominal do Requerimento nº 31, de 2023, da CCJ - Solicita urgência para o PL nº 2.903/2023. | Maioria do partido: nao (0 sim / 5 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6755](../../../../../votacoes/6755/) |
 | 27 set 2023 | Votação nominal do Projeto de Lei nº 2.903 de 2023, nos termos dos Pareceres, ressalvados os destaques. | Maioria do partido: nao (0 sim / 6 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6756](../../../../../votacoes/6756/) |
-| 27 set 2023 | Votação nominal do § 4º do art. 16 do Projeto de Lei nº 2.903, de 2023, destacado. | Maioria do partido: nao (0 sim / 6 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6757](../../../../../votacoes/6757/) |
-| 27 set 2023 | Votação nominal do Art. 28 do Projeto de Lei nº 2.903, de 2023, destacado. | Maioria do partido: nao (0 sim / 6 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6758](../../../../../votacoes/6758/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -9,7 +9,7 @@ description: "Procure uma palavra nos discursos dos deputados federais e senador
 
 <p class="subtitulo">Procura a palavra no <b>sumário publicado pela
 casa</b> — o texto da fonte, não uma classificação nossa. São
-<b>6.687 discursos</b> de 31 deputados e 3 senadores.</p>
+<b>6.695 discursos</b> de 31 deputados e 3 senadores.</p>
 
 <form class="busca" id="busca" role="search">
 <label for="q">Palavra ou expressão</label>
@@ -27,7 +27,7 @@ primeira vez.</p>
 <noscript>
 <div class="interrompe">
 <h4>A busca precisa de JavaScript — o resto do site não</h4>
-<p>Procurar uma palavra em 6.687 sumários exige o
+<p>Procurar uma palavra em 6.695 sumários exige o
 texto do lado do
 leitor, e este site não tem servidor. Sem JavaScript, a navegação
 abaixo continua inteira: cada parlamentar das duas casas, cada ano,
@@ -49,7 +49,7 @@ antes da busca.
 | [Alexandre Lindenmeyer](../parlamentares/alexandre-lindenmeyer/) | <span class="escopo">Câmara</span> | <span class="n"><b>68</b></span> | [2026](../parlamentares/alexandre-lindenmeyer/discursos/2026/) · [2025](../parlamentares/alexandre-lindenmeyer/discursos/2025/) · [2024](../parlamentares/alexandre-lindenmeyer/discursos/2024/) · [2023](../parlamentares/alexandre-lindenmeyer/discursos/2023/) |
 | [Any Ortiz](../parlamentares/any-ortiz/) | <span class="escopo">Câmara</span> | <span class="n"><b>40</b></span> | [2026](../parlamentares/any-ortiz/discursos/2026/) · [2025](../parlamentares/any-ortiz/discursos/2025/) · [2024](../parlamentares/any-ortiz/discursos/2024/) · [2023](../parlamentares/any-ortiz/discursos/2023/) |
 | [Bibo Nunes](../parlamentares/bibo-nunes/) | <span class="escopo">Câmara</span> | <span class="n"><b>833</b></span> | [2026](../parlamentares/bibo-nunes/discursos/2026/) · [2025](../parlamentares/bibo-nunes/discursos/2025/) · [2024](../parlamentares/bibo-nunes/discursos/2024/) · [2023](../parlamentares/bibo-nunes/discursos/2023/) |
-| [Bohn Gass](../parlamentares/bohn-gass/) | <span class="escopo">Câmara</span> | <span class="n"><b>670</b></span> | [2026](../parlamentares/bohn-gass/discursos/2026/) · [2025](../parlamentares/bohn-gass/discursos/2025/) · [2024](../parlamentares/bohn-gass/discursos/2024/) · [2023](../parlamentares/bohn-gass/discursos/2023/) |
+| [Bohn Gass](../parlamentares/bohn-gass/) | <span class="escopo">Câmara</span> | <span class="n"><b>671</b></span> | [2026](../parlamentares/bohn-gass/discursos/2026/) · [2025](../parlamentares/bohn-gass/discursos/2025/) · [2024](../parlamentares/bohn-gass/discursos/2024/) · [2023](../parlamentares/bohn-gass/discursos/2023/) |
 | [Carlos Gomes](../parlamentares/carlos-gomes/) | <span class="escopo">Câmara</span> | <span class="n"><b>9</b></span> | [2026](../parlamentares/carlos-gomes/discursos/2026/) · [2025](../parlamentares/carlos-gomes/discursos/2025/) · [2023](../parlamentares/carlos-gomes/discursos/2023/) |
 | [Covatti Filho](../parlamentares/covatti-filho/) | <span class="escopo">Câmara</span> | <span class="n"><b>1</b></span> | [2024](../parlamentares/covatti-filho/discursos/2024/) |
 | [Daiana Santos](../parlamentares/daiana-santos/) | <span class="escopo">Câmara</span> | <span class="n"><b>95</b></span> | [2026](../parlamentares/daiana-santos/discursos/2026/) · [2025](../parlamentares/daiana-santos/discursos/2025/) · [2024](../parlamentares/daiana-santos/discursos/2024/) · [2023](../parlamentares/daiana-santos/discursos/2023/) |
@@ -62,7 +62,7 @@ antes da busca.
 | [Heitor Schuch](../parlamentares/heitor-schuch/) | <span class="escopo">Câmara</span> | <span class="n"><b>129</b></span> | [2026](../parlamentares/heitor-schuch/discursos/2026/) · [2025](../parlamentares/heitor-schuch/discursos/2025/) · [2024](../parlamentares/heitor-schuch/discursos/2024/) · [2023](../parlamentares/heitor-schuch/discursos/2023/) |
 | [Lucas Redecker](../parlamentares/lucas-redecker/) | <span class="escopo">Câmara</span> | <span class="n"><b>43</b></span> | [2026](../parlamentares/lucas-redecker/discursos/2026/) · [2025](../parlamentares/lucas-redecker/discursos/2025/) · [2024](../parlamentares/lucas-redecker/discursos/2024/) · [2023](../parlamentares/lucas-redecker/discursos/2023/) |
 | [Luiz Carlos Busato](../parlamentares/luiz-carlos-busato/) | <span class="escopo">Câmara</span> | <span class="n"><b>20</b></span> | [2026](../parlamentares/luiz-carlos-busato/discursos/2026/) · [2025](../parlamentares/luiz-carlos-busato/discursos/2025/) · [2024](../parlamentares/luiz-carlos-busato/discursos/2024/) · [2023](../parlamentares/luiz-carlos-busato/discursos/2023/) |
-| [Marcel van Hattem](../parlamentares/marcel-van-hattem/) | <span class="escopo">Câmara</span> | <span class="n"><b>998</b></span> | [2026](../parlamentares/marcel-van-hattem/discursos/2026/) · [2025](../parlamentares/marcel-van-hattem/discursos/2025/) · [2024](../parlamentares/marcel-van-hattem/discursos/2024/) · [2023](../parlamentares/marcel-van-hattem/discursos/2023/) |
+| [Marcel van Hattem](../parlamentares/marcel-van-hattem/) | <span class="escopo">Câmara</span> | <span class="n"><b>1005</b></span> | [2026](../parlamentares/marcel-van-hattem/discursos/2026/) · [2025](../parlamentares/marcel-van-hattem/discursos/2025/) · [2024](../parlamentares/marcel-van-hattem/discursos/2024/) · [2023](../parlamentares/marcel-van-hattem/discursos/2023/) |
 | [Marcelo Moraes](../parlamentares/marcelo-moraes/) | <span class="escopo">Câmara</span> | <span class="n"><b>44</b></span> | [2026](../parlamentares/marcelo-moraes/discursos/2026/) · [2025](../parlamentares/marcelo-moraes/discursos/2025/) · [2024](../parlamentares/marcelo-moraes/discursos/2024/) · [2023](../parlamentares/marcelo-moraes/discursos/2023/) |
 | [Marcon](../parlamentares/marcon/) | <span class="escopo">Câmara</span> | <span class="n"><b>426</b></span> | [2026](../parlamentares/marcon/discursos/2026/) · [2025](../parlamentares/marcon/discursos/2025/) · [2024](../parlamentares/marcon/discursos/2024/) · [2023](../parlamentares/marcon/discursos/2023/) |
 | [Maria do Rosário](../parlamentares/maria-do-rosario/) | <span class="escopo">Câmara</span> | <span class="n"><b>350</b></span> | [2026](../parlamentares/maria-do-rosario/discursos/2026/) · [2025](../parlamentares/maria-do-rosario/discursos/2025/) · [2024](../parlamentares/maria-do-rosario/discursos/2024/) · [2023](../parlamentares/maria-do-rosario/discursos/2023/) |

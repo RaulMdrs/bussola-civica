@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Luis Carlos Heinze — Coesão com o próprio partido, Todas as votações abertas (página 5)"
-description: "A decomposição completa do número de Luis Carlos Heinze: 81 votações em 5 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 81ª."
+description: "A decomposição completa do número de Luis Carlos Heinze: 82 votações em 5 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 82ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Luis Carlos Heinze: 81 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>87,7%</b> é <b>71</b> coincidências em
-<b>81</b> votações computáveis — as outras 10 estão
+<p><b>87,8%</b> é <b>72</b> coincidências em
+<b>82</b> votações computáveis — as outras 10 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>5 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
-<b>81ª</b>.</p>
+<b>82ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,7 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 20 jun 2023 | Votação nominal da Emenda nº 131 à Medida Provisória nº 1.165, de 2023, destacada. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6709](../../../../../votacoes/6709/) |
 | 19 abr 2023 | Votação nominal do Projeto de Resolução nº 46, de 2023, nos termos do Parecer. | Maioria do partido: sim (4 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6676](../../../../../votacoes/6676/) |
 {: .t-evid}
 

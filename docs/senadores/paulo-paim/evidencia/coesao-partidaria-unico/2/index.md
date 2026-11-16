@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Paulo Paim — Coesão com o próprio partido, Todas as votações abertas (página 2)"
-description: "A decomposição completa do número de Paulo Paim: 108 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
+description: "A decomposição completa do número de Paulo Paim: 110 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Paulo Paim: 108 votações
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>93,5%</b> é <b>101</b> coincidências em
-<b>108</b> votações computáveis — as outras 7 estão
+<p><b>93,6%</b> é <b>103</b> coincidências em
+<b>110</b> votações computáveis — as outras 7 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>6 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 09 dez 2025 | Votação nominal da Proposta de Emenda à Constituição nº 48, de 2023, nos termos do parecer (1º turno). | Maioria do partido: nao (0 sim / 7 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [7032](../../../../../votacoes/7032/) |
+| 09 dez 2025 | Votação nominal da Proposta de Emenda à Constituição nº 48, de 2023, nos termos do parecer da Comissão Diretora (2º turno). | Maioria do partido: nao (0 sim / 7 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [7033](../../../../../votacoes/7033/) |
 | 09 dez 2025 | Votação nominal do Requerimento nº 911, de 2025, de iniciativa de Líderes, que solicita calendário especial para a Proposta de Emenda à Constituição nº 48, de 2023. | Maioria do partido: nao (0 sim / 7 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [7034](../../../../../votacoes/7034/) |
 | 03 dez 2025 | Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei Complementar nº 163, de 2025, nos termos do parecer. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7030](../../../../../votacoes/7030/) |
 | 22 out 2025 | Emenda nº 2 (Substitutivo) ao Projeto de Lei Complementar nº 204, de 2025, nos termos do parecer. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7017](../../../../../votacoes/7017/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 | 01 jul 2025 | Votação nominal do Art. 2º do Projeto de Lei de Conversão nº 2, de 2025, destacado. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6954](../../../../../votacoes/6954/) |
 | 25 jun 2025 | (Votação nominal do Requerimento nº 451, de 2025, que solicita urgência para o Projeto de Lei Complementar nº 177, de 2023). | Maioria do partido: sim (5 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [6950](../../../../../votacoes/6950/) |
 | 25 jun 2025 | Votação nominal do Projeto de Lei Complementar nº 177, de 2023, nos termos do parecer, ressalvado o destaque | Maioria do partido: sim (5 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [6951](../../../../../votacoes/6951/) |
-| 25 jun 2025 | Votação nominal da Emenda nº 3 ao Projeto de Lei Complementar nº 177, de 2023, destacada. | Maioria do partido: nao (1 sim / 3 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [6952](../../../../../votacoes/6952/) |
-| 25 jun 2025 | Votação nominal do Requerimento nº 451, de 2025, que solicita urgência para o Projeto de Lei Complementar nº 177, de 2023 | Maioria do partido: sim (5 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [6953](../../../../../votacoes/6953/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

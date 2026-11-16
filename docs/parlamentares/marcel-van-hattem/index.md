@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **998 discursos** coletados no período, dos quais **800 substantivos** — os outros 198 são
+São **1005 discursos** coletados no período, dos quais **807 substantivos** — os outros 198 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -147,46 +147,46 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-6675">
-<span class="data">10 nov 2026 · 20:12</span>
+<blockquote class="evidencia discurso" id="d-6694">
+<span class="data">12 nov 2026 · 12:36</span>
 <div class="corpo">
-<p class="tipo">PELA ORDEM</p>
+<p class="tipo">ORIENTAÇÃO DE BANCADA</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6674">
-<span class="data">10 nov 2026 · 20:04</span>
+<blockquote class="evidencia discurso" id="d-6693">
+<span class="data">12 nov 2026 · 12:16</span>
 <div class="corpo">
-<p class="tipo">PELA ORDEM</p>
+<p class="tipo">COMO LÍDER</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6673">
-<span class="data">10 nov 2026 · 19:56</span>
+<blockquote class="evidencia discurso" id="d-6692">
+<span class="data">12 nov 2026 · 11:56</span>
 <div class="corpo">
-<p class="tipo">OUTROS</p>
+<p class="tipo">DISCUSSÃO</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6672">
-<span class="data">10 nov 2026 · 19:08</span>
+<blockquote class="evidencia discurso" id="d-6691">
+<span class="data">12 nov 2026 · 11:36</span>
 <div class="corpo">
-<p class="tipo">PELA ORDEM</p>
+<p class="tipo">DISCUSSÃO</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6671">
-<span class="data">10 nov 2026 · 18:36</span>
+<blockquote class="evidencia discurso" id="d-6690">
+<span class="data">12 nov 2026 · 10:52</span>
 <div class="corpo">
-<p class="tipo">PELA ORDEM</p>
+<p class="tipo">QUESTÃO DE ORDEM</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/156190/discursos">Ver na API da Câmara</a>
 </div>
@@ -196,7 +196,7 @@ fonte que o publicou.
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>111</b></span> | 87 |
+| [2026](discursos/2026/) | <span class="n"><b>118</b></span> | 94 |
 | [2025](discursos/2025/) | <span class="n"><b>272</b></span> | 226 |
 | [2024](discursos/2024/) | <span class="n"><b>248</b></span> | 180 |
 | [2023](discursos/2023/) | <span class="n"><b>367</b></span> | 307 |

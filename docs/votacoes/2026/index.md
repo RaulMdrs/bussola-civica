@@ -2,17 +2,19 @@
 layout: default
 kind: indice
 title: "Votações de 2026"
-description: "As 139 votações de 2026 com voto individual recuperável, e como a bancada gaúcha votou em cada uma."
+description: "As 141 votações de 2026 com voto individual recuperável, e como a bancada gaúcha votou em cada uma."
 ---
 
 # Votações de 2026
 
-<p class="subtitulo">139 votações com voto individual recuperável.</p>
+<p class="subtitulo">141 votações com voto individual recuperável.</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
 | Data | Votação | Casa | Chamada |
 |---|---|---|---|
+| 12 nov 2026 | [Votação nominal do Requerimento n° 770, de 2026, de Líderes.](../7115/) | <span class="escopo">Senado</span> | rejeitada |
+| 12 nov 2026 | [Votação nominal da Emenda nº 75 (Substitutivo) ao PLP nº 299/2026, nos termos do parecer, ](../7116/) | <span class="escopo">Senado</span> | rejeitada |
 | 15 out 2026 | [Votação nominal do Projeto de Lei Complementar nº 186, de 2026, nos termos do parecer.](../7108/) | <span class="escopo">Senado</span> | rejeitada |
 | 14 out 2026 | [Rejeitada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 281, de 2019, adotada](../2236186-60/) | <span class="escopo">Câmara</span> | rejeitada |
 | 14 out 2026 | [Rejeitado o Requerimento.](../2635476-23/) | <span class="escopo">Câmara</span> | rejeitada |
