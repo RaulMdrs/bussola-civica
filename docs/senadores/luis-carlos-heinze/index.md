@@ -11,9 +11,9 @@ description: "Como Luis Carlos Heinze vota no Senado: coesão com o próprio par
 
 <div class="interrompe">
 <h4>Não compare estes números com os dos deputados</h4>
-<p>O Senado tem outro universo: <b>120 votações abertas</b> no
+<p>O Senado tem outro universo: <b>124 votações abertas</b> no
 período, contra 1.128 nominais da Câmara, porque
-<b>67% das votações do Senado são secretas</b> — nelas a origem
+<b>66% das votações do Senado são secretas</b> — nelas a origem
 confirma que o senador votou, não como.</p>
 </div>
 
@@ -28,7 +28,7 @@ por conta própria, que é o que este projeto não faz. Aqui existe um eixo só.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Todas as votações abertas</span> | [<span class="valor">87,8%</span>](evidencia/coesao-partidaria-unico/) | <span class="n-detalhe">82 <span>votações computáveis</span></span><span class="n-detalhe">120 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Todas as votações abertas</span> | [<span class="valor">85,9%</span>](evidencia/coesao-partidaria-unico/) | <span class="n-detalhe">85 <span>votações computáveis</span></span><span class="n-detalhe">124 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
 Não há recorte entre mérito e procedimental aqui: a regra que separa os
@@ -41,6 +41,24 @@ Amostra das votações em que o voto divergiu da maioria do próprio partido.
 As descrições são o texto original da fonte oficial.
 
 <blockquote class="evidencia">
+<span class="data">18 nov 2026</span>
+<div class="corpo">
+<p>Votação nominal da Emenda nº 40 ao Projeto de Lei Complementar nº 299, de 2026, destacada.</p>
+<p class="referencia">Maioria do partido: sim (5 sim / 2 não entre os pares) — voto registrado: <b>nao</b>.</p>
+<a class="fonte" href="https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=7117">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia">
+<span class="data">18 nov 2026</span>
+<div class="corpo">
+<p>Votação nominal do Art. 6º-F da Lei Complementar nº 200, de 2023, constante do art. 1º do Substitutivo ao PLP nº 299/2026, destacado.</p>
+<p class="referencia">Maioria do partido: nao (2 sim / 5 não entre os pares) — voto registrado: <b>sim</b>.</p>
+<a class="fonte" href="https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=7119">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia">
 <span class="data">12 ago 2026</span>
 <div class="corpo">
 <p>Votação nominal do Art. 13 do Projeto de Lei Complementar nº 114, de 2026, destacado.</p>
@@ -49,27 +67,9 @@ As descrições são o texto original da fonte oficial.
 </div>
 </blockquote>
 
-<blockquote class="evidencia">
-<span class="data">30 set 2025</span>
-<div class="corpo">
-<p>Votação nominal da Emenda nº 721 (Substitutivo) ao PLP nº 108/2024, nos termos do parecer, ressalvado o destaque.</p>
-<p class="referencia">Maioria do partido: sim (5 sim / 0 não entre os pares) — voto registrado: <b>nao</b>.</p>
-<a class="fonte" href="https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=7013">Ver votação na fonte oficial</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia">
-<span class="data">25 jun 2025</span>
-<div class="corpo">
-<p>Votação nominal do Requerimento nº 451, de 2025, que solicita urgência para o Projeto de Lei Complementar nº 177, de 2023</p>
-<p class="referencia">Maioria do partido: sim (4 sim / 2 não entre os pares) — voto registrado: <b>nao</b>.</p>
-<a class="fonte" href="https://legis.senado.leg.br/dadosabertos/votacao?codigoSessaoVotacao=6953">Ver votação na fonte oficial</a>
-</div>
-</blockquote>
-
 ### A conta inteira
 
-- [Coesão com o próprio partido, todas as votações abertas](evidencia/coesao-partidaria-unico/) — 82 votações,
+- [Coesão com o próprio partido, todas as votações abertas](evidencia/coesao-partidaria-unico/) — 85 votações,
   coincidências inclusive
 
 ## O que disse em plenário

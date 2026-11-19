@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **426 discursos** coletados no período, dos quais **399 substantivos** — os outros 27 são
+São **428 discursos** coletados no período, dos quais **401 substantivos** — os outros 27 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,24 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6699">
+<span class="data">17 nov 2026 · 15:36</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160535/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6698">
+<span class="data">17 nov 2026 · 14:48</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160535/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-6676">
 <span class="data">10 nov 2026 · 16:20</span>
@@ -174,29 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-1607">
-<span class="data">01 jul 2026 · 17:40</span>
-<div class="corpo">
-<p class="tipo">COMO LÍDER</p>
-<p>O Deputado criticou o Projeto de Lei nº 896, de 2023, que altera a Lei nº 7.716, de 5 de janeiro de 1989, e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dispor sobre crimes praticados em razão de misoginia, o qual poderia criminalizar padres e pastores por citações bíblicas, além de punir falas sobre mulheres com pena elevada. Também afirmou que a pauta desviou a Câmara de temas como a renegociação das dívidas dos agricultores do Rio Grande do Sul e o aumento de pena para crimes sexuais. Ademais, acusou a Esquerda de atacar religião e família, contestou votos do PSOL e do PT em matéria penal e rejeitou apoio à proposta.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160535/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-1606">
-<span class="data">30 jun 2026 · 16:20</span>
-<div class="corpo">
-<p class="tipo">BREVES COMUNICAÇÕES</p>
-<p>O Deputado contestou declarações do Presidente da República sobre inflação, preços dos combustíveis, desemprego, crescimento econômico e situação fiscal, ao afirmar que os indicadores econômicos e a percepção da população seriam incompatíveis com esse diagnóstico. Além disso, argumentou que o aumento da dívida pública, do déficit fiscal, da taxa Selic e das recuperações judiciais refletiria dificuldades na economia brasileira e criticou a condução do Governo Federal.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160535/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>39</b></span> | 38 |
+| [2026](discursos/2026/) | <span class="n"><b>41</b></span> | 40 |
 | [2025](discursos/2025/) | <span class="n"><b>113</b></span> | 108 |
 | [2024](discursos/2024/) | <span class="n"><b>103</b></span> | 95 |
 | [2023](discursos/2023/) | <span class="n"><b>171</b></span> | 158 |

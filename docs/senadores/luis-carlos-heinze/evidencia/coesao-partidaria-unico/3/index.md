@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Luis Carlos Heinze — Coesão com o próprio partido, Todas as votações abertas (página 3)"
-description: "A decomposição completa do número de Luis Carlos Heinze: 82 votações em 5 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
+description: "A decomposição completa do número de Luis Carlos Heinze: 85 votações em 5 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Luis Carlos Heinze: 82 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>87,8%</b> é <b>72</b> coincidências em
-<b>82</b> votações computáveis — as outras 10 estão
+<p><b>85,9%</b> é <b>73</b> coincidências em
+<b>85</b> votações computáveis — as outras 12 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>5 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
@@ -25,6 +25,9 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 19 fev 2025 | Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei Complementar nº 22, de 2025, nos termos do parecer. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6918](../../../../../votacoes/6918/) |
+| 19 dez 2024 | Votação nominal do Projeto de Lei Complementar nº 210, de 2024, nos termos do parecer, ressalvados os destaques. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6910](../../../../../votacoes/6910/) |
+| 19 dez 2024 | Votação nominal da Emenda nº 14 ao Projeto de Lei nº 210, de 2024, destacada. | Maioria do partido: sim (3 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6911](../../../../../votacoes/6911/) |
 | 19 dez 2024 | Votação nominal da Emenda nº 16 ao Projeto de Lei nº 210, de 2024, destacada. | Maioria do partido: sim (2 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6912](../../../../../votacoes/6912/) |
 | 19 dez 2024 | Votação nominal da Emenda nº 20 ao Projeto de Lei nº 210, de 2024, destacada. | Maioria do partido: sim (3 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6913](../../../../../votacoes/6913/) |
 | 19 dez 2024 | Votação nominal da Proposta de Emenda à Constituição nº 54, de 2024, nos termos do parecer (1º Turno), ressalvado o destaque. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6914](../../../../../votacoes/6914/) |
@@ -42,9 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 | 18 nov 2024 | Votação nominal dos dispositivos do art. 12 do Substitutivo do Relator ao PLP nº 175/2024, destacados. | Maioria do partido: nao (0 sim / 5 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6879](../../../../../votacoes/6879/) |
 | 18 nov 2024 | Votação nominal do §4º do art. 4º do Substitutivo do Relator ao PLP nº 175/2024, destacado. | Maioria do partido: nao (0 sim / 4 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6880](../../../../../votacoes/6880/) |
 | 18 nov 2024 | Votação nominal da Subemenda ao Substitutivo do Relator ao PLP nº 175/2024, destacada. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6881](../../../../../votacoes/6881/) |
-| 12 nov 2024 | Votação nominal da Emenda nº 58 ao Substitutivo da Relatora ao Projeto de Lei nº 182, de 2024, destacada. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6877](../../../../../votacoes/6877/) |
-| 12 nov 2024 | Votação nominal da Emenda nº 45 (Substitutivo) ao PLP nº 175/2024, nos termos do parecer, ressalvados os destaques. | Maioria do partido: sim (3 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [6878](../../../../../votacoes/6878/) |
-| 14 ago 2024 | Votação nominal da Emenda nº 76 (Substitutivo) ao PLP nº 121/2024, nos termos do parecer. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6863](../../../../../votacoes/6863/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **129 discursos** coletados no período, dos quais **102 substantivos** — os outros 27 são
+São **130 discursos** coletados no período, dos quais **103 substantivos** — os outros 27 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,15 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6701">
+<span class="data">17 nov 2026 · 15:44</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178964/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-6680">
 <span class="data">10 nov 2026 · 15:40</span>
@@ -183,20 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2636">
-<span class="data">12 ago 2026 · 18:40</span>
-<div class="corpo">
-<p class="tipo">PARECER</p>
-<p>O Deputado apresentou parecer favorável ao Projeto de Lei Complementar nº 80, de 2026, que altera a Lei nº 14.301, de 7 de janeiro de 2022, para prorrogar o prazo de vigência da não incidência do Adicional ao Frete para Renovação da Marinha Mercante (AFRMM) prevista no art. 17 da Lei nº 9.432, de 8 de janeiro de 1997, nas navegações de cabotagem, interior fluvial e lacustre, desde que a origem ou o destino seja porto localizado na Região Norte ou Nordeste do País. Defendeu a medida como instrumento de desenvolvimento regional, redução de custos logísticos e preservação da competitividade econômica.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/178964/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>20</b></span> | 18 |
+| [2026](discursos/2026/) | <span class="n"><b>21</b></span> | 19 |
 | [2025](discursos/2025/) | <span class="n"><b>27</b></span> | 25 |
 | [2024](discursos/2024/) | <span class="n"><b>49</b></span> | 28 |
 | [2023](discursos/2023/) | <span class="n"><b>33</b></span> | 31 |

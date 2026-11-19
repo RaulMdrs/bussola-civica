@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Luis Carlos Heinze — Coesão com o próprio partido, Todas as votações abertas"
-description: "A decomposição completa do número de Luis Carlos Heinze: 82 votações em 5 páginas, uma por linha, com link para a fonte. Esta traz da 1ª à 20ª."
+description: "A decomposição completa do número de Luis Carlos Heinze: 85 votações em 5 páginas, uma por linha, com link para a fonte. Esta traz da 1ª à 20ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Luis Carlos Heinze: 82 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>87,8%</b> é <b>72</b> coincidências em
-<b>82</b> votações computáveis — as outras 10 estão
+<p><b>85,9%</b> é <b>73</b> coincidências em
+<b>85</b> votações computáveis — as outras 12 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>5 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
@@ -25,6 +25,9 @@ da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 18 nov 2026 | Votação nominal da Emenda nº 40 ao Projeto de Lei Complementar nº 299, de 2026, destacada. | Maioria do partido: sim (5 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [7117](../../../../votacoes/7117/) |
+| 18 nov 2026 | Votação nominal do Art. 6º-F da Lei Complementar nº 200, de 2023, constante do art. 1º do Substitutivo ao PLP nº 299/2026, destacado. | Maioria do partido: nao (2 sim / 5 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [7119](../../../../votacoes/7119/) |
+| 18 nov 2026 | Votação nominal das Emendas, subemenda e adequações redacionais do Relator, em turno suplementar, nos termos do parecer. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7120](../../../../votacoes/7120/) |
 | 12 nov 2026 | Votação nominal do Requerimento n° 770, de 2026, de Líderes. | Maioria do partido: nao (1 sim / 6 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [7115](../../../../votacoes/7115/) |
 | 15 out 2026 | Votação nominal do Projeto de Lei Complementar nº 186, de 2026, nos termos do parecer. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7108](../../../../votacoes/7108/) |
 | 03 set 2026 | Votação nominal do Projeto de Lei Complementar nº 74, de 2026, nos termos do parecer. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7105](../../../../votacoes/7105/) |
@@ -42,9 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
 | 09 dez 2025 | Votação nominal da Proposta de Emenda à Constituição nº 48, de 2023, nos termos do parecer da Comissão Diretora (2º turno). | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7033](../../../../votacoes/7033/) |
 | 09 dez 2025 | Votação nominal do Requerimento nº 911, de 2025, de iniciativa de Líderes, que solicita calendário especial para a Proposta de Emenda à Constituição nº 48, de 2023. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7034](../../../../votacoes/7034/) |
 | 25 nov 2025 | Votação nominal do Projeto de Lei Complementar nº 185, de 2024, nos termos dos pareceres. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7029](../../../../votacoes/7029/) |
-| 22 out 2025 | Emenda nº 2 (Substitutivo) ao Projeto de Lei Complementar nº 204, de 2025, nos termos do parecer. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7017](../../../../votacoes/7017/) |
-| 30 set 2025 | Votação nominal da Emenda nº 721 (Substitutivo) ao PLP nº 108/2024, nos termos do parecer, ressalvado o destaque. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [7013](../../../../votacoes/7013/) |
-| 30 set 2025 | Votação nominal da Emenda nº 587 ao Projeto de Lei Complementar nº 108, de 2024, destacada. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7014](../../../../votacoes/7014/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

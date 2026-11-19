@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Hamilton Mourão — Coesão com o próprio partido, Todas as votações abertas"
-description: "A decomposição completa do número de Hamilton Mourão: 108 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 1ª à 20ª."
+description: "A decomposição completa do número de Hamilton Mourão: 112 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 1ª à 20ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Hamilton Mourão: 108 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>86,1%</b> é <b>93</b> coincidências em
-<b>108</b> votações computáveis — as outras 15 estão
+<p><b>86,6%</b> é <b>97</b> coincidências em
+<b>112</b> votações computáveis — as outras 15 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>6 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
@@ -25,6 +25,10 @@ da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 18 nov 2026 | Votação nominal da Emenda nº 40 ao Projeto de Lei Complementar nº 299, de 2026, destacada. | Maioria do partido: sim (4 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7117](../../../../votacoes/7117/) |
+| 18 nov 2026 | Votação nominal do Art. 6º do Substitutivo ao Projeto de Lei Complementar nº 299, de 2026, destacado. | Maioria do partido: nao (1 sim / 4 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [7118](../../../../votacoes/7118/) |
+| 18 nov 2026 | Votação nominal do Art. 6º-F da Lei Complementar nº 200, de 2023, constante do art. 1º do Substitutivo ao PLP nº 299/2026, destacado. | Maioria do partido: nao (1 sim / 4 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [7119](../../../../votacoes/7119/) |
+| 18 nov 2026 | Votação nominal das Emendas, subemenda e adequações redacionais do Relator, em turno suplementar, nos termos do parecer. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7120](../../../../votacoes/7120/) |
 | 12 nov 2026 | Votação nominal do Requerimento n° 770, de 2026, de Líderes. | Maioria do partido: nao (0 sim / 4 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [7115](../../../../votacoes/7115/) |
 | 12 nov 2026 | Votação nominal da Emenda nº 75 (Substitutivo) ao PLP nº 299/2026, nos termos do parecer, ressalvados os destaques. | Maioria do partido: nao (2 sim / 3 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [7116](../../../../votacoes/7116/) |
 | 15 out 2026 | Votação nominal do Projeto de Lei Complementar nº 186, de 2026, nos termos do parecer. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7108](../../../../votacoes/7108/) |
@@ -41,10 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
 | 24 fev 2026 | Votação nominal da Emenda nº 5 (Substitutivo) à Proposta de Emenda à Constituição nº 22, de 2025, nos termos do parecer de Plenário (1º Turno). | Maioria do partido: sim (4 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7047](../../../../votacoes/7047/) |
 | 24 fev 2026 | Votação nominal da Proposta de Emenda à Constituição nº 22, de 2025, nos termos do parecer da Comissão Diretora (2º Turno). | Maioria do partido: sim (4 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7048](../../../../votacoes/7048/) |
 | 17 dez 2025 | Votação nominal do Projeto de Lei nº 2.162, de 2023, nos termos do parecer. | Maioria do partido: sim (4 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7041](../../../../votacoes/7041/) |
-| 17 dez 2025 | Votação nominal do Art. 7º do Projeto de Lei Complementar nº 128, de 2025, destacado. | Maioria do partido: sim (2 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [7043](../../../../votacoes/7043/) |
-| 17 dez 2025 | Solicita urgência para o Projeto de Lei nº 2.234, de 2022 | Maioria do partido: nao (0 sim / 3 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [7046](../../../../votacoes/7046/) |
-| 10 dez 2025 | Votação nominal da Emenda nº 117 (Substitutivo) ao Projeto de Lei nº 5.582, de 2025, nos termos do parecer. | Maioria do partido: sim (4 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7037](../../../../votacoes/7037/) |
-| 09 dez 2025 | Votação nominal do Requerimento nº 911, de 2025, de iniciativa de Líderes, que solicita calendário especial para a Proposta de Emenda à Constituição nº 48, de 2023. | Maioria do partido: sim (4 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [7031](../../../../votacoes/7031/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **269 discursos** coletados no período, dos quais **244 substantivos** — os outros 25 são
+São **270 discursos** coletados no período, dos quais **245 substantivos** — os outros 25 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,15 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6703">
+<span class="data">17 nov 2026 · 15:36</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220550/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-6610">
 <span class="data">01 set 2026 · 21:00</span>
@@ -183,20 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-4333">
-<span class="data">10 jun 2026 · 17:52</span>
-<div class="corpo">
-<p class="tipo">BREVES COMUNICAÇÕES</p>
-<p>O Deputado criticou o Governo do PT e Lula, afirmando que houve cortina de fumaça para ocultar a deterioração da economia. Além disso, apontou aumento do endividamento das famílias, inflação dos alimentos, juros no maior nível em 17 anos e risco fiscal com déficit projetado de R$ 130 bilhões. Por fim, alertou a população para uma crise econômica grave.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/220550/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>20</b></span> | 19 |
+| [2026](discursos/2026/) | <span class="n"><b>21</b></span> | 20 |
 | [2025](discursos/2025/) | <span class="n"><b>71</b></span> | 66 |
 | [2024](discursos/2024/) | <span class="n"><b>69</b></span> | 62 |
 | [2023](discursos/2023/) | <span class="n"><b>109</b></span> | 97 |

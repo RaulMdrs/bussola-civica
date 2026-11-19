@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Luis Carlos Heinze — Coesão com o próprio partido, Todas as votações abertas (página 4)"
-description: "A decomposição completa do número de Luis Carlos Heinze: 82 votações em 5 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
+description: "A decomposição completa do número de Luis Carlos Heinze: 85 votações em 5 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Luis Carlos Heinze: 82 vot
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>87,8%</b> é <b>72</b> coincidências em
-<b>82</b> votações computáveis — as outras 10 estão
+<p><b>85,9%</b> é <b>73</b> coincidências em
+<b>85</b> votações computáveis — as outras 12 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>5 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
@@ -25,6 +25,9 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 12 nov 2024 | Votação nominal da Emenda nº 58 ao Substitutivo da Relatora ao Projeto de Lei nº 182, de 2024, destacada. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6877](../../../../../votacoes/6877/) |
+| 12 nov 2024 | Votação nominal da Emenda nº 45 (Substitutivo) ao PLP nº 175/2024, nos termos do parecer, ressalvados os destaques. | Maioria do partido: sim (3 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [6878](../../../../../votacoes/6878/) |
+| 14 ago 2024 | Votação nominal da Emenda nº 76 (Substitutivo) ao PLP nº 121/2024, nos termos do parecer. | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6863](../../../../../votacoes/6863/) |
 | 14 ago 2024 | Votação nominal da Emenda nº 7 (Substitutivo) à PEC nº 66/2023, nos termos dos pareceres (1º Turno). | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6867](../../../../../votacoes/6867/) |
 | 14 ago 2024 | Votação nominal da Proposta de Emenda à Constituição nº 66, de 2023 (2º Turno). | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6868](../../../../../votacoes/6868/) |
 | 14 ago 2024 | Votação nominal da Proposta de Emenda à Constituição nº 9, de 2023, nos termos do parecer (1º turno). | Maioria do partido: sim (6 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6873](../../../../../votacoes/6873/) |
@@ -42,9 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 | 04 out 2023 | Votação nominal do Projeto de Lei Complementar nº 136, de 2023, nos termos dos pareceres. | Maioria do partido: sim (5 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6759](../../../../../votacoes/6759/) |
 | 30 ago 2023 | Votação nominal do Projeto de Lei nº 2.384/2023 e das Emendas nºs 23 e 26, de redação. | Maioria do partido: nao (0 sim / 4 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6745](../../../../../votacoes/6745/) |
 | 21 jun 2023 | Votação nominal do Projeto de Lei Complementar nº 39, de 2023,e das emendas, nos termos do parecer, ressalvados os destaques. | Maioria do partido: nao (1 sim / 4 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6714](../../../../../votacoes/6714/) |
-| 21 jun 2023 | Votação nominal da Emenda nº 83 ao Projeto de Lei Complementar nº 93, de 2023, destacada. | Maioria do partido: sim (4 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6715](../../../../../votacoes/6715/) |
-| 21 jun 2023 | Votação nominal da Emenda nº 89 ao Projeto de Lei Complementar nº 93, de 2023, destacada. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6716](../../../../../votacoes/6716/) |
-| 21 jun 2023 | Votação nominal da Emenda nº 101 ao Projeto de Lei Complementar nº 93, de 2023, destacada. | Maioria do partido: nao (0 sim / 3 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6717](../../../../../votacoes/6717/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

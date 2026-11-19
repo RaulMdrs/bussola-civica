@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Hamilton Mourão — Coesão com o próprio partido, Todas as votações abertas (página 5)"
-description: "A decomposição completa do número de Hamilton Mourão: 108 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
+description: "A decomposição completa do número de Hamilton Mourão: 112 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 81ª à 100ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Hamilton Mourão: 108 vota
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>86,1%</b> é <b>93</b> coincidências em
-<b>108</b> votações computáveis — as outras 15 estão
+<p><b>86,6%</b> é <b>97</b> coincidências em
+<b>112</b> votações computáveis — as outras 15 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>6 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
@@ -25,6 +25,10 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 08 mai 2024 | Votação nominal do Projeto de Lei Complementar nº 233, de 2023, nos termos do parecer, ressalvados os destaques. | Maioria do partido: nao (1 sim / 2 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6827](../../../../../votacoes/6827/) |
+| 08 mai 2024 | Votação nominal da Emenda nº 25 ao Projeto de Lei Complementar nº 233, de 2023, destacada. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [6829](../../../../../votacoes/6829/) |
+| 17 abr 2024 | Votação nominal do Projeto de Lei Complementar nº 175, de 2023, nos termos do parecer. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6826](../../../../../votacoes/6826/) |
+| 16 abr 2024 | Votação nominal da Proposta de Emenda à Constituição nº 45, de 2023, nos termos do parecer (1º Turno). | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6824](../../../../../votacoes/6824/) |
 | 16 abr 2024 | Votação nominal da Proposta de Emenda à Constituição nº 45, de 2023, nos termos do parecer (2º Turno). | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6825](../../../../../votacoes/6825/) |
 | 10 abr 2024 | Votação nominal da Emenda nº 1 (Substitutivo) ao PLP nº 252/2023, nos termos do parecer de Plenário. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6823](../../../../../votacoes/6823/) |
 | 13 mar 2024 | Votação, em primeiro turno, da PEC nº 72/2023, nos termos do Parecer com ajuste redacional. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6821](../../../../../votacoes/6821/) |
@@ -41,10 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>81ª</b> à
 | 07 nov 2023 | Votação nominal do RQS 988/2023, que solicita calendário especial para a Proposta de Emenda à Constituição nº 45, de 2019. | Maioria do partido: nao (0 sim / 3 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6772](../../../../../votacoes/6772/) |
 | 01 nov 2023 | Votação nominal do art. 34 do Projeto de Lei nº 4.426, de 2023, destacado. | Maioria do partido: sim (2 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [6769](../../../../../votacoes/6769/) |
 | 10 out 2023 | Votação nominal da Emenda nº 1 (Substitutivo) ao Projeto de Lei nº 2.721, de 2023, nos termos do Parecer. | Maioria do partido: nao (1 sim / 2 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6760](../../../../../votacoes/6760/) |
-| 27 set 2023 | Votação nominal do Requerimento nº 31, de 2023, da CCJ - Solicita urgência para o PL nº 2.903/2023. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6755](../../../../../votacoes/6755/) |
-| 27 set 2023 | Votação nominal do Projeto de Lei nº 2.903 de 2023, nos termos dos Pareceres, ressalvados os destaques. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6756](../../../../../votacoes/6756/) |
-| 27 set 2023 | Votação nominal do § 4º do art. 16 do Projeto de Lei nº 2.903, de 2023, destacado. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6757](../../../../../votacoes/6757/) |
-| 27 set 2023 | Votação nominal do Art. 28 do Projeto de Lei nº 2.903, de 2023, destacado. | Maioria do partido: sim (3 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6758](../../../../../votacoes/6758/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

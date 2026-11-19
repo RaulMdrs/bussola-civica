@@ -137,7 +137,7 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **140 discursos** coletados no período, dos quais **127 substantivos** — os outros 13 são
+São **142 discursos** coletados no período, dos quais **129 substantivos** — os outros 13 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,24 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6697">
+<span class="data">18 nov 2026 · 15:52</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/136811/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6696">
+<span class="data">18 nov 2026 · 15:40</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/136811/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-6668">
 <span class="data">10 nov 2026 · 15:08</span>
@@ -174,29 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-179">
-<span class="data">30 jun 2026 · 15:12</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado registrou a presença de lideranças do agro do Rio Grande do Sul em Brasília e defendeu a inclusão do Projeto de Lei nº 5.122, de 2023, na pauta do Colégio de Líderes, em reunião com o Presidente Hugo Motta. Além disso, saudou o Município de São Lourenço do Sul (RS) e os agricultores do Rio Grande do Sul e do País, ao sustentar que a proposta permitiria alongar a dívida rural, ampliar o prazo para pagamento e assegurar juros módicos, com uso de recursos de fundos e sem ônus ao Tesouro.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/136811/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-178">
-<span class="data">16 jun 2026 · 20:52</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado informou que, em articulação com a Presidência da Casa e com a liderança do Progressistas, recebeu a designação para relatar o Projeto de Lei nº 5.122, de 2023, que alongava a dívida dos agricultores e buscava mitigar os efeitos climáticos sobre a produção. Além disso, afirmou que o texto havia sido aprovado no Senado na semana anterior e defendeu a inclusão da matéria na pauta de votação com urgência, em apoio ao agro brasileiro.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/136811/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>15</b></span> | 15 |
+| [2026](discursos/2026/) | <span class="n"><b>17</b></span> | 17 |
 | [2025](discursos/2025/) | <span class="n"><b>47</b></span> | 40 |
 | [2024](discursos/2024/) | <span class="n"><b>36</b></span> | 31 |
 | [2023](discursos/2023/) | <span class="n"><b>42</b></span> | 41 |

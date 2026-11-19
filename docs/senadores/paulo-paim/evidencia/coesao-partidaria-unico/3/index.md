@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Paulo Paim — Coesão com o próprio partido, Todas as votações abertas (página 3)"
-description: "A decomposição completa do número de Paulo Paim: 110 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
+description: "A decomposição completa do número de Paulo Paim: 114 votações em 6 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Paulo Paim: 110 votações
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>93,6%</b> é <b>103</b> coincidências em
-<b>110</b> votações computáveis — as outras 7 estão
+<p><b>93,9%</b> é <b>107</b> coincidências em
+<b>114</b> votações computáveis — as outras 7 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>6 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
@@ -25,6 +25,10 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 02 jul 2025 | Votação nominal do Projeto de Lei Complementar nº 167, de 2024, nos termos do parecer de Plenário. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6955](../../../../../votacoes/6955/) |
+| 01 jul 2025 | Votação nominal do Art. 2º do Projeto de Lei de Conversão nº 2, de 2025, destacado. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6954](../../../../../votacoes/6954/) |
+| 25 jun 2025 | (Votação nominal do Requerimento nº 451, de 2025, que solicita urgência para o Projeto de Lei Complementar nº 177, de 2023). | Maioria do partido: sim (5 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [6950](../../../../../votacoes/6950/) |
+| 25 jun 2025 | Votação nominal do Projeto de Lei Complementar nº 177, de 2023, nos termos do parecer, ressalvado o destaque | Maioria do partido: sim (5 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [6951](../../../../../votacoes/6951/) |
 | 25 jun 2025 | Votação nominal da Emenda nº 3 ao Projeto de Lei Complementar nº 177, de 2023, destacada. | Maioria do partido: nao (1 sim / 3 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [6952](../../../../../votacoes/6952/) |
 | 25 jun 2025 | Votação nominal do Requerimento nº 451, de 2025, que solicita urgência para o Projeto de Lei Complementar nº 177, de 2023 | Maioria do partido: sim (5 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [6953](../../../../../votacoes/6953/) |
 | 29 abr 2025 | Votação nominal do Projeto de Lei Complementar nº 48, de 2023, nos termos do parecer de Plenário. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6927](../../../../../votacoes/6927/) |
@@ -41,10 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 | 19 dez 2024 | Votação nominal da Proposta de Emenda à Constituição nº 54, de 2024 (2º Turno). | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6916](../../../../../votacoes/6916/) |
 | 19 dez 2024 | Votação nominal do Projeto de Lei nº 4.614, de 2024, nos termos do parecer. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6917](../../../../../votacoes/6917/) |
 | 18 dez 2024 | Votação nominal do Projeto de Lei Complementar nº 92, de 2024, nos termos do parecer. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6908](../../../../../votacoes/6908/) |
-| 18 dez 2024 | Votação nominal da Emenda nº 1 ao Projeto de Lei nº 4.932, de 2024, destacada. | Maioria do partido: nao (0 sim / 8 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [6909](../../../../../votacoes/6909/) |
-| 17 dez 2024 | Votação nominal do Substitutivo da Câmara dos Deputados ao Projeto de Lei Complementar nº 121/2024, nos termos do parecer. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6905](../../../../../votacoes/6905/) |
-| 17 dez 2024 | Votação nominal do Projeto de Lei Complementar nº 143, de 2024, nos termos do parecer. | Maioria do partido: sim (7 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6906](../../../../../votacoes/6906/) |
-| 12 dez 2024 | Votação nominal da Emenda nº 2.171(Substitutivo) ao PLP 68/24 com Emendas e supressão, nos termos dos pareceres, ressalvados os destaques. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [6899](../../../../../votacoes/6899/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

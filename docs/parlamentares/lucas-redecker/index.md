@@ -137,13 +137,22 @@ uma página por eixo e escopo:
 
 ## O que disse em plenário
 
-São **43 discursos** coletados no período, todos substantivos.
+São **44 discursos** coletados no período, todos substantivos.
 
 O que aparece abaixo é o sumário publicado pela Câmara.
 O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6702">
+<span class="data">18 nov 2026 · 14:40</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204404/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-3513">
 <span class="data">12 ago 2026 · 15:16</span>
@@ -181,20 +190,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3509">
-<span class="data">18 mar 2026 · 14:36</span>
-<div class="corpo">
-<p class="tipo">BREVES COMUNICAÇÕES</p>
-<p>O Deputado manifestou preocupação com as repercussões do caso envolvendo o Banco Master e afirmou que há percepção de inércia por parte das instituições. Defendeu a apuração de responsabilidades em diferentes Poderes e criticou possíveis tentativas de encerrar o tema sem esclarecimentos. Também mencionou questionamentos sobre relações entre agentes públicos e o empresário ligado ao banco, além de levantar dúvidas sobre tratamento desigual em investigações. Por fim, cobrou providências do Congresso para garantir transparência e evitar o arquivamento de informações, defendendo que a lei prevaleça sobre interesses individuais.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=19%2F3%2F2026&amp;txPagina=53&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>6</b></span> | 6 |
+| [2026](discursos/2026/) | <span class="n"><b>7</b></span> | 7 |
 | [2025](discursos/2025/) | <span class="n"><b>11</b></span> | 11 |
 | [2024](discursos/2024/) | <span class="n"><b>9</b></span> | 9 |
 | [2023](discursos/2023/) | <span class="n"><b>17</b></span> | 17 |
