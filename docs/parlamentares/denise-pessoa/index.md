@@ -18,10 +18,10 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">96,0%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">405 <span>votações computáveis</span></span><span class="n-detalhe">580 <span>votações no exercício</span></span> |
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">98,1%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">368 <span>votações computáveis</span></span><span class="n-detalhe">538 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">97,1%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">516 <span>votações computáveis</span></span><span class="n-detalhe">580 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">98,3%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">482 <span>votações computáveis</span></span><span class="n-detalhe">538 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">96,1%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">414 <span>votações computáveis</span></span><span class="n-detalhe">590 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">98,1%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">370 <span>votações computáveis</span></span><span class="n-detalhe">540 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">97,1%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">526 <span>votações computáveis</span></span><span class="n-detalhe">590 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">98,3%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">484 <span>votações computáveis</span></span><span class="n-detalhe">540 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
 **Cada percentual acima é um link** para a sua decomposição completa —
@@ -43,7 +43,7 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | Tema | Alinhamento | Votações (n) |
 |---|---:|---:|
 | [Economia](../../temas/economia/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>63</b></span> |
-| [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>42</b></span> |
+| [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>44</b></span> |
 | [Saúde](../../temas/saude/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>29</b></span> |
 | [Indústria, Comércio e Serviços](../../temas/industria-comercio-e-servicos/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>24</b></span> |
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>21</b></span> |
@@ -53,7 +53,7 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Administração Pública](../../temas/administracao-publica/) | <span class="valor">95,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>117</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">95,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>22</b></span> |
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">94,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>18</b></span> <span class="aviso-n">amostra pequena</span> |
-| [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">92,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>27</b></span> |
+| [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">92,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>28</b></span> |
 {: .t-temas}
 
 <span class="aviso-n">amostra pequena</span> marca temas com menos de
@@ -130,10 +130,10 @@ Acima é amostra, e diz que é. A decomposição completa — **todas** as
 votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
-- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 405 votações
-- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 368 votações
-- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 516 votações
-- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 482 votações
+- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 414 votações
+- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 370 votações
+- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 526 votações
+- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 484 votações
 
 ## O que disse em plenário
 

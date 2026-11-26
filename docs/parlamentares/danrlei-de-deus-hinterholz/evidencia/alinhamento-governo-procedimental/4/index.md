@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Danrlei de Deus Hinterholz — Alinhamento com o governo federal, Procedimental (página 4)"
-description: "A decomposição completa do número de Danrlei de Deus Hinterholz: 147 votações em 8 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
+description: "A decomposição completa do número de Danrlei de Deus Hinterholz: 149 votações em 8 páginas, uma por linha, com link para a fonte. Esta traz da 61ª à 80ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Danrlei de Deus Hinterholz
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>40,8%</b> é <b>60</b> coincidências em
-<b>147</b> votações computáveis — as outras 87 estão
+<p><b>40,3%</b> é <b>60</b> coincidências em
+<b>149</b> votações computáveis — as outras 89 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>8 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 24 set 2025 | Rejeitado o Requerimento. Sim: 89; Não: 277; Abstenção: 1; Total: 367. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2519886-21](../../../../../votacoes/2519886-21/) |
+| 24 set 2025 | Rejeitado o Requerimento. Sim: 84; Não: 325; Abstenção: 1; Total: 410. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2519886-26](../../../../../votacoes/2519886-26/) |
 | 24 set 2025 | Rejeitado o Requerimento. Sim: 156; Não: 280; Total: 436. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2541109-27](../../../../../votacoes/2541109-27/) |
 | 24 set 2025 | Rejeitado o Requerimento. Sim: 147; Não: 259; Total: 406. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2541109-34](../../../../../votacoes/2541109-34/) |
 | 17 set 2025 | Rejeitado o Requerimento. Sim: 118; Não: 326; Total: 444. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2515300-26](../../../../../votacoes/2515300-26/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>61ª</b> à
 | 12 ago 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 323; Não: 123; Total: 446. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2543003-8](../../../../../votacoes/2543003-8/) |
 | 16 jul 2025 | Rejeitado o Requerimento. Sim: 100; Não: 350; Total: 450. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2398530-57](../../../../../votacoes/2398530-57/) |
 | 16 jul 2025 | Aprovado o Recurso nº 38/2023 (art. 58, § 1º c/c art. 132, § 2º, RICD). Sim: 291; Não: 173; Total: 464. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2408145-17](../../../../../votacoes/2408145-17/) |
-| 16 jul 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 347; Não: 107; Total: 454. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2411961-13](../../../../../votacoes/2411961-13/) |
-| 16 jul 2025 | Rejeitado o Requerimento. Sim: 124; Não: 269; Total: 393. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [257161-442](../../../../../votacoes/257161-442/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

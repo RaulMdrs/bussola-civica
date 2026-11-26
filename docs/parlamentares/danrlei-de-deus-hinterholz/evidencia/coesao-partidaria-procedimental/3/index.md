@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Danrlei de Deus Hinterholz — Coesão com o próprio partido, Procedimental (página 3)"
-description: "A decomposição completa do número de Danrlei de Deus Hinterholz: 207 votações em 11 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
+description: "A decomposição completa do número de Danrlei de Deus Hinterholz: 209 votações em 11 páginas, uma por linha, com link para a fonte. Esta traz da 41ª à 60ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Danrlei de Deus Hinterholz
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>61,8%</b> é <b>128</b> coincidências em
-<b>207</b> votações computáveis — as outras 79 estão
+<p><b>61,2%</b> é <b>128</b> coincidências em
+<b>209</b> votações computáveis — as outras 81 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>11 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 25 fev 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 308; Não: 120; Total: 428. | Maioria do partido: sim (32 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2604383-7](../../../../../votacoes/2604383-7/) |
+| 09 fev 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 337; Não: 19; Total: 356. | Maioria do partido: sim (32 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2601223-8](../../../../../votacoes/2601223-8/) |
 | 09 fev 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 298; Não: 132; Total: 430. | Maioria do partido: sim (33 sim / 4 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2601522-8](../../../../../votacoes/2601522-8/) |
 | 09 fev 2026 | Rejeitado o Recurso nº 2, de 2026, contra parecer terminativo da Comissão de Constituição e Justiça e de Cidadania à Emenda de Plenário nº 3 oferecida ao Projeto de Lei nº 1.743, de 2024. Sim: 151; Não: 244; Abstenção: 3; Total: 398. | Maioria do partido: nao (7 sim / 29 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2601794-5](../../../../../votacoes/2601794-5/) |
 | 16 dez 2025 | Rejeitado o Requerimento. Sim: 81; Não: 289; Total: 370. | Maioria do partido: nao (2 sim / 31 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2438459-126](../../../../../votacoes/2438459-126/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>41ª</b> à
 | 05 nov 2025 | Rejeitado o Requerimento. Sim: 100; Não: 259; Abstenção: 1; Total: 360. | Maioria do partido: nao (1 sim / 30 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2386051-90](../../../../../votacoes/2386051-90/) |
 | 05 nov 2025 | Rejeitado o Requerimento. Sim: 124; Não: 297; Total: 421. | Maioria do partido: nao (1 sim / 35 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2482078-49](../../../../../votacoes/2482078-49/) |
 | 05 nov 2025 | Aprovado o Requerimento. Sim: 310; Não: 120; Abstenção: 1; Total: 431. | Maioria do partido: sim (39 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2482078-54](../../../../../votacoes/2482078-54/) |
-| 05 nov 2025 | Rejeitado o Requerimento. Sim: 134; Não: 267; Total: 401. | Maioria do partido: nao (5 sim / 32 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2526776-31](../../../../../votacoes/2526776-31/) |
-| 05 nov 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 313; Não: 119; Abstenção: 1; Total: 433. | Maioria do partido: sim (40 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2553457-17](../../../../../votacoes/2553457-17/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

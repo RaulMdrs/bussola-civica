@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Daniel Trzeciak — Coesão com o próprio partido, Procedimental (página 21)"
-description: "A decomposição completa do número de Daniel Trzeciak: 440 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 401ª à 420ª."
+description: "A decomposição completa do número de Daniel Trzeciak: 442 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 401ª à 420ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,10 +11,10 @@ description: "A decomposição completa do número de Daniel Trzeciak: 440 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>65,7%</b> é <b>289</b> coincidências em
-<b>440</b> votações computáveis — as outras 151 estão
+<p><b>65,4%</b> é <b>289</b> coincidências em
+<b>442</b> votações computáveis — as outras 153 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
-repartida em <b>22 páginas</b> de até 20 votações,
+repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>401ª</b> à
 <b>420ª</b>.</p>
 </div>
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>401ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 325; não: 97; total: 422. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2377566-12](../../../../../votacoes/2377566-12/) |
+| 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 425; não: 1; total: 426. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2377675-8](../../../../../votacoes/2377675-8/) |
 | 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 447; não: 13; abstenção: 1; total: 461. | Maioria do partido: sim (13 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2380451-7](../../../../../votacoes/2380451-7/) |
 | 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 397; não: 8; total: 405. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2382599-8](../../../../../votacoes/2382599-8/) |
 | 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 337; não: 103; abstenção: 1; total: 441. | Maioria do partido: sim (11 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2382611-10](../../../../../votacoes/2382611-10/) |
@@ -43,13 +45,11 @@ da mais recente para a mais antiga. Esta traz da <b>401ª</b> à
 | 20 jun 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 278; não: 88; abstenção: 4; total: 370. | Maioria do partido: nao (3 sim / 9 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2369594-8](../../../../../votacoes/2369594-8/) |
 | 14 jun 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 318; não: 118; abstenção: 2; total: 438. | Maioria do partido: sim (9 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2367595-12](../../../../../votacoes/2367595-12/) |
 | 31 mai 2023 | Rejeitado o Requerimento. Sim: 130; não: 337; abstenção: 1; total: 468. | Maioria do partido: nao (3 sim / 10 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2345493-31](../../../../../votacoes/2345493-31/) |
-| 31 mai 2023 | Aprovado o Requerimento. Sim: 324; não: 114; abstenção: 1; total: 439. | Maioria do partido: sim (8 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2345493-35](../../../../../votacoes/2345493-35/) |
-| 30 mai 2023 | Rejeitado o Requerimento. Sim: 123; não: 257; total: 380. | Maioria do partido: nao (1 sim / 9 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [345311-248](../../../../../votacoes/345311-248/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">
 <a class="passo" href="../20/" rel="prev">← Anteriores</a>
-<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../19/">19</a><a href="../20/">20</a><b aria-current="page">21</b><a href="../22/">22</a></span>
+<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../19/">19</a><a href="../20/">20</a><b aria-current="page">21</b><a href="../22/">22</a><a href="../23/">23</a></span>
 <a class="passo" href="../22/" rel="next">Próximas →</a>
 </nav>
 

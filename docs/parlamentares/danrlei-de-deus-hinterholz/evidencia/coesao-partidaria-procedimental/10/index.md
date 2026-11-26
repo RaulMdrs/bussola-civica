@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Danrlei de Deus Hinterholz — Coesão com o próprio partido, Procedimental (página 10)"
-description: "A decomposição completa do número de Danrlei de Deus Hinterholz: 207 votações em 11 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
+description: "A decomposição completa do número de Danrlei de Deus Hinterholz: 209 votações em 11 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Danrlei de Deus Hinterholz
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>61,8%</b> é <b>128</b> coincidências em
-<b>207</b> votações computáveis — as outras 79 estão
+<p><b>61,2%</b> é <b>128</b> coincidências em
+<b>209</b> votações computáveis — as outras 81 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>11 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 18 dez 2024 | Aprovado o Requerimento. Sim: 320; Não: 136; Abstenção: 2; Total: 458. | Maioria do partido: sim (31 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [347421-188](../../../../../votacoes/347421-188/) |
+| 17 dez 2024 | Rejeitado o Requerimento. Sim: 75; Não: 379; Abstenção: 2; Total: 456. | Maioria do partido: nao (0 sim / 39 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2473389-45](../../../../../votacoes/2473389-45/) |
 | 17 dez 2024 | Aprovado o Requerimento. Sim: 308; Não: 148; Total: 456. | Maioria do partido: sim (31 sim / 4 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2473389-53](../../../../../votacoes/2473389-53/) |
 | 16 dez 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 314; Não: 140; Total: 454. | Maioria do partido: sim (30 sim / 8 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2480330-8](../../../../../votacoes/2480330-8/) |
 | 12 dez 2024 | Rejeitado o Requerimento. Sim: 90; Não: 247; Total: 337. | Maioria do partido: nao (0 sim / 26 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2194861-62](../../../../../votacoes/2194861-62/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 | 13 nov 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). | Maioria do partido: sim (25 sim / 4 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2469074-8](../../../../../votacoes/2469074-8/) |
 | 05 nov 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 360; Não: 60; Total: 420. | Maioria do partido: sim (28 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2466682-9](../../../../../votacoes/2466682-9/) |
 | 06 dez 2023 | Rejeitado o Requerimento de Urgência (Art. 155 do RICD). Sim: 254; não: 156; abstenção: 5; total: 415. | Maioria do partido: sim (27 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2357898-11](../../../../../votacoes/2357898-11/) |
-| 05 dez 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 411; não: 2; abstenção: 1; total: 414.. | Maioria do partido: sim (34 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2218538-8](../../../../../votacoes/2218538-8/) |
-| 29 nov 2023 | Aprovado o Requerimento de Urgência (art. 155 do RICD). Sim: 302; não: 57; total: 359. | Maioria do partido: sim (28 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2407960-8](../../../../../votacoes/2407960-8/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Osmar Terra — Coesão com o próprio partido, Procedimental (página 10)"
-description: "A decomposição completa do número de Osmar Terra: 394 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
+description: "A decomposição completa do número de Osmar Terra: 396 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Osmar Terra: 394 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>59,6%</b> é <b>235</b> coincidências em
-<b>394</b> votações computáveis — as outras 159 estão
+<p><b>59,8%</b> é <b>237</b> coincidências em
+<b>396</b> votações computáveis — as outras 159 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 29 abr 2025 | Rejeitado o Requerimento. Sim: 102; Não: 244; Total: 346. | Maioria do partido: nao (4 sim / 18 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2456731-67](../../../../../votacoes/2456731-67/) |
+| 28 abr 2025 | Rejeitado o Requerimento. Sim: 98; Não: 229; Total: 327. | Maioria do partido: nao (7 sim / 18 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2483495-34](../../../../../votacoes/2483495-34/) |
 | 28 abr 2025 | Rejeitado o Requerimento. Sim: 116; Não: 269; Total: 385. | Maioria do partido: nao (8 sim / 18 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2483495-38](../../../../../votacoes/2483495-38/) |
 | 28 abr 2025 | Aprovado o Requerimento. Sim: 274; Não: 122; Total: 396. | Maioria do partido: sim (20 sim / 11 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2483495-47](../../../../../votacoes/2483495-47/) |
 | 23 abr 2025 | Rejeitado o Requerimento. Sim: 101; Não: 240; Total: 341. | Maioria do partido: nao (5 sim / 11 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2456731-54](../../../../../votacoes/2456731-54/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 | 02 abr 2025 | Aprovado o Requerimento. Sim: 300; Não: 92; Total: 392. | Maioria do partido: sim (27 sim / 3 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2492307-38](../../../../../votacoes/2492307-38/) |
 | 01 abr 2025 | Rejeitado o Requerimento. Sim: 88; Não: 269; Abstenção: 1; Total: 358. | Maioria do partido: nao (4 sim / 23 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2463814-34](../../../../../votacoes/2463814-34/) |
 | 01 abr 2025 | Aprovado o Requerimento. Sim: 308; Não: 88; Total: 396. | Maioria do partido: sim (28 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2463814-40](../../../../../votacoes/2463814-40/) |
-| 25 mar 2025 | Rejeitado o Requerimento. Sim: 129; Não: 261; Abstenção: 2; Total: 392. | Maioria do partido: nao (6 sim / 23 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2360457-42](../../../../../votacoes/2360457-42/) |
-| 25 mar 2025 | Rejeitado o Requerimento. Sim: 93; Não: 292; Total: 385. | Maioria do partido: nao (3 sim / 25 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2379209-53](../../../../../votacoes/2379209-53/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

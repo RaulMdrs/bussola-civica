@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Osmar Terra — Coesão com o próprio partido, Procedimental (página 18)"
-description: "A decomposição completa do número de Osmar Terra: 394 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
+description: "A decomposição completa do número de Osmar Terra: 396 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 341ª à 360ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Osmar Terra: 394 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>59,6%</b> é <b>235</b> coincidências em
-<b>394</b> votações computáveis — as outras 159 estão
+<p><b>59,8%</b> é <b>237</b> coincidências em
+<b>396</b> votações computáveis — as outras 159 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 10 out 2023 | Aprovado o Requerimento. Sim: 312; total: 312. | Maioria do partido: sim (21 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2394478-15](../../../../../votacoes/2394478-15/) |
+| 04 out 2023 | Rejeitado o Requerimento. Sim: 56; não: 272; abstenção: 5; total: 333. | Maioria do partido: nao (4 sim / 28 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2358915-39](../../../../../votacoes/2358915-39/) |
 | 04 out 2023 | Rejeitado o Requerimento. Sim: 29; não: 283; abstenção: 2; total: 314. | Maioria do partido: nao (3 sim / 24 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2358915-53](../../../../../votacoes/2358915-53/) |
 | 04 out 2023 | Rejeitado o Requerimento. Sim: 30; não: 350; abstenção: 2; total: 382. | Maioria do partido: nao (2 sim / 32 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2387035-44](../../../../../votacoes/2387035-44/) |
 | 04 out 2023 | Rejeitado o Requerimento. Sim: 20; não: 259; abstenção: 2; total: 281. | Maioria do partido: nao (0 sim / 28 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2387035-55](../../../../../votacoes/2387035-55/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>341ª</b> à
 | 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 450; não: 5; total: 455. | Maioria do partido: sim (35 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2379582-7](../../../../../votacoes/2379582-7/) |
 | 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 447; não: 13; abstenção: 1; total: 461. | Maioria do partido: sim (36 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2380451-7](../../../../../votacoes/2380451-7/) |
 | 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 397; não: 8; total: 405. | Maioria do partido: sim (26 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2382599-8](../../../../../votacoes/2382599-8/) |
-| 29 ago 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 337; não: 103; abstenção: 1; total: 441. | Maioria do partido: sim (31 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2382611-10](../../../../../votacoes/2382611-10/) |
-| 23 ago 2023 | Rejeitado o Requerimento. Sim: 92; não: 310; total: 402. | Maioria do partido: nao (3 sim / 28 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2359135-28](../../../../../votacoes/2359135-28/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

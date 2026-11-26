@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Covatti Filho — Coesão com o próprio partido, Procedimental (página 10)"
-description: "A decomposição completa do número de Covatti Filho: 374 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
+description: "A decomposição completa do número de Covatti Filho: 376 votações em 19 páginas, uma por linha, com link para a fonte. Esta traz da 181ª à 200ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Covatti Filho: 374 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>50,5%</b> é <b>189</b> coincidências em
-<b>374</b> votações computáveis — as outras 185 estão
+<p><b>50,3%</b> é <b>189</b> coincidências em
+<b>376</b> votações computáveis — as outras 187 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>19 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 25 fev 2025 | Rejeitado o Requerimento. Sim: 138; Não: 266; Total: 404. | Maioria do partido: nao (7 sim / 29 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2466108-28](../../../../../votacoes/2466108-28/) |
+| 25 fev 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 347; Não: 29; Abstenção: 3; Total: 379. | Maioria do partido: sim (35 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2485227-8](../../../../../votacoes/2485227-8/) |
 | 19 dez 2024 | Aprovado o Requerimento. Sim: 290; Não: 170; Total: 460. | Maioria do partido: sim (30 sim / 11 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2473375-53](../../../../../votacoes/2473375-53/) |
 | 19 dez 2024 | Aprovado o Requerimento nº 4.990/2024, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões previsto no § 6º do art. 202 do RICD, para apreciação do segundo turno da PEC nº 31, de 2007. Sim: 343; Não: 99; Abstenção: 1; Total: 443. | Maioria do partido: sim (36 sim / 6 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2481282-8](../../../../../votacoes/2481282-8/) |
 | 18 dez 2024 | Rejeitado o Requerimento. Sim: 137; Não: 302; Abstenção: 1; Total: 440. | Maioria do partido: nao (8 sim / 34 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2473389-74](../../../../../votacoes/2473389-74/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>181ª</b> à
 | 10 dez 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 317; Não: 66; Abstenção: 2; Total: 385. | Maioria do partido: sim (32 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2476749-7](../../../../../votacoes/2476749-7/) |
 | 27 nov 2024 | Rejeitado o Requerimento. Sim: 44; Não: 321; Abstenção: 2; Total: 367. | Maioria do partido: nao (4 sim / 33 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2461207-33](../../../../../votacoes/2461207-33/) |
 | 27 nov 2024 | Rejeitado o Requerimento. Sim: 113; Não: 268; Total: 381. | Maioria do partido: nao (6 sim / 31 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [559138-237](../../../../../votacoes/559138-237/) |
-| 27 nov 2024 | Rejeitado o Requerimento. Sim: 116; Não: 274; Total: 390. | Maioria do partido: nao (6 sim / 33 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [559138-241](../../../../../votacoes/559138-241/) |
-| 19 nov 2024 | Rejeitado o Requerimento. Sim: 36; Não: 332; Total: 368. | Maioria do partido: nao (0 sim / 41 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [1548579-186](../../../../../votacoes/1548579-186/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Hamm — Coesão com o próprio partido, Procedimental (página 16)"
-description: "A decomposição completa do número de Afonso Hamm: 388 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
+description: "A decomposição completa do número de Afonso Hamm: 390 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 320ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Afonso Hamm: 388 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>67,5%</b> é <b>262</b> coincidências em
-<b>388</b> votações computáveis — as outras 126 estão
+<p><b>67,2%</b> é <b>262</b> coincidências em
+<b>390</b> votações computáveis — as outras 128 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 28 fev 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 322; não: 105; abstenção: 1; total:428. | Maioria do partido: sim (35 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2408105-8](../../../../../votacoes/2408105-8/) |
+| 28 fev 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 395; não: 8; abstenção: 2; total: 405. | Maioria do partido: sim (34 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2408107-9](../../../../../votacoes/2408107-9/) |
 | 27 fev 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 258; não: 164; abstenção: 3; total: 425. | Maioria do partido: sim (19 sim / 15 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2379378-9](../../../../../votacoes/2379378-9/) |
 | 27 fev 2024 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 285; não: 103; abstenção: 1; total: 389. | Maioria do partido: sim (29 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2403068-11](../../../../../votacoes/2403068-11/) |
 | 27 fev 2024 | Rejeitado o Requerimento. Sim: 237; não: 171; abstenção: 3; total: 411. | Maioria do partido: sim (27 sim / 14 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2418084-8](../../../../../votacoes/2418084-8/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 | 15 dez 2023 | Rejeitado o Requerimento. Sim: 44; não: 318; abstenção: 3; total: 365. | Maioria do partido: nao (7 sim / 32 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [259094-125](../../../../../votacoes/259094-125/) |
 | 15 dez 2023 | Aprovado o Requerimento. Sim: 340; não: 42; abstenção: 3; total: 385. | Maioria do partido: sim (35 sim / 6 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-129](../../../../../votacoes/259094-129/) |
 | 15 dez 2023 | Aprovado o Requerimento nº 4.314/2023, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões previsto no § 6º do art. 202 do RICD, para apreciação do segundo turno da PEC 45, de 2019. Sim: 309; não: 33; abstenção: 1; total: 343. | Maioria do partido: sim (32 sim / 5 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [259094-181](../../../../../votacoes/259094-181/) |
-| 15 dez 2023 | Rejeitado o Requerimento. Sim: 49; não: 323; abstenção: 1; total: 373. | Maioria do partido: nao (7 sim / 34 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [259094-187](../../../../../votacoes/259094-187/) |
-| 14 dez 2023 | Rejeitado o Requerimento. Sim: 38; não: 219; abstenção: 2; total: 259. | Maioria do partido: nao (3 sim / 24 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2387579-19](../../../../../votacoes/2387579-19/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

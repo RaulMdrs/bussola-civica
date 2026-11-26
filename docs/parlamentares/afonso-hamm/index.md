@@ -18,10 +18,10 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">49,4%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">354 <span>votações computáveis</span></span><span class="n-detalhe">580 <span>votações no exercício</span></span> |
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">50,2%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">307 <span>votações computáveis</span></span><span class="n-detalhe">538 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">70,3%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">451 <span>votações computáveis</span></span><span class="n-detalhe">580 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">67,5%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">388 <span>votações computáveis</span></span><span class="n-detalhe">538 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">48,7%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">359 <span>votações computáveis</span></span><span class="n-detalhe">590 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">49,8%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">309 <span>votações computáveis</span></span><span class="n-detalhe">540 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">69,5%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">456 <span>votações computáveis</span></span><span class="n-detalhe">590 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">67,2%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">390 <span>votações computáveis</span></span><span class="n-detalhe">540 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
 **Cada percentual acima é um link** para a sua decomposição completa —
@@ -69,58 +69,58 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">14 out 2026</span>
+<span class="data">23 nov 2026</span>
 <div class="corpo">
-<p>Rejeitada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 281, de 2019, adotada pelo relator da Comissão Especial. <span class="placar">Sim: 252; Não: 176; Total: 428.</span></p>
-<p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2236186-60">Ver votação na fonte oficial</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia">
-<span class="data">20 mai 2026</span>
-<div class="corpo">
-<p>Resultado. <span class="placar">Sim: 182; Não: 182; Abstenção: 2; Total: 366.</span></p>
-<p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2613731-65">Ver votação na fonte oficial</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia">
-<span class="data">06 mai 2026</span>
-<div class="corpo">
-<p>Mantido o texto. <span class="placar">Sim: 343; Não: 97; Abstenção: 1; Total: 441.</span></p>
+<p>Aprovado o Projeto de Lei Complementar nº 299, de 2026, ressalvados os destaques. <span class="placar">Sim: 353; Não: 128; Abstenção: 5; Total: 486.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2447259-99">Ver votação na fonte oficial</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-39">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia">
+<span class="data">23 nov 2026</span>
+<div class="corpo">
+<p>Rejeitadas as Emendas de Plenário. <span class="placar">Sim: 129; Não: 319; Abstenção: 4; Total: 452.</span></p>
+<p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-41">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia">
+<span class="data">23 nov 2026</span>
+<div class="corpo">
+<p>Rejeitada a Emenda de Plenário nº 23. <span class="placar">Sim: 146; Não: 315; Abstenção: 1; Total: 462.</span></p>
+<p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-47">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">12 ago 2026</span>
+<span class="data">23 nov 2026</span>
 <div class="corpo">
-<p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 80, de 2026, adotado pelo relator da Comissão de Finanças e Tributação. <span class="placar">Sim: 327; Não: 26; Total: 353.</span></p>
-<p class="referencia">Maioria do partido: sim (29 sim / 2 não entre os pares) — voto registrado: <b>nao</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2611992-24">Ver votação na fonte oficial</a>
+<p>Aprovado o Projeto de Lei Complementar nº 299, de 2026, ressalvados os destaques. <span class="placar">Sim: 353; Não: 128; Abstenção: 5; Total: 486.</span></p>
+<p class="referencia">Maioria do partido: sim (33 sim / 11 não entre os pares) — voto registrado: <b>nao</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-39">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">12 ago 2026</span>
+<span class="data">23 nov 2026</span>
 <div class="corpo">
-<p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
-<p class="referencia">Maioria do partido: sim (34 sim / 2 não entre os pares) — voto registrado: <b>nao</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2580259-24">Ver votação na fonte oficial</a>
+<p>Rejeitadas as Emendas de Plenário. <span class="placar">Sim: 129; Não: 319; Abstenção: 4; Total: 452.</span></p>
+<p class="referencia">Maioria do partido: nao (10 sim / 25 não entre os pares) — voto registrado: <b>sim</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-41">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">20 mai 2026</span>
+<span class="data">23 nov 2026</span>
 <div class="corpo">
-<p>Rejeitada a Emenda de Plenário nº 2. <span class="placar">Sim: 196; Não: 200; Abstenção: 1; Total: 397.</span></p>
-<p class="referencia">Maioria do partido: nao (13 sim / 14 não entre os pares) — voto registrado: <b>sim</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2613731-47">Ver votação na fonte oficial</a>
+<p>Rejeitada a Emenda de Plenário nº 23. <span class="placar">Sim: 146; Não: 315; Abstenção: 1; Total: 462.</span></p>
+<p class="referencia">Maioria do partido: nao (12 sim / 27 não entre os pares) — voto registrado: <b>sim</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-47">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
@@ -130,10 +130,10 @@ Acima é amostra, e diz que é. A decomposição completa — **todas** as
 votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
-- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 354 votações
-- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 307 votações
-- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 451 votações
-- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 388 votações
+- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 359 votações
+- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 309 votações
+- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 456 votações
+- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 390 votações
 
 ## O que disse em plenário
 

@@ -7,7 +7,7 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário oficia
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Fernanda Melchionna</a></b> · PSOL · 46 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Fernanda Melchionna</a></b> · PSOL · 48 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
@@ -16,7 +16,25 @@ description: "Os discursos de Fernanda Melchionna em 2026, com o sumário oficia
 > neste site: o link de cada discurso leva ao **Diário da Câmara**
 > , onde ele está publicado, ou à **API** quando a origem não o publicou no Diário.
 
-## Substantivos — 38
+## Substantivos — 40
+
+<blockquote class="evidencia discurso" id="d-6726">
+<span class="data">23 nov 2026 · 22:48</span>
+<div class="corpo">
+<p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=24%2F11%2F2026&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6725">
+<span class="data">23 nov 2026 · 18:36</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p>A Deputada criticou o Projeto de Lei Complementar (PLP) nº 299, de 2026, que confere ao Poder Executivo instrumentos de gestão fiscal e orçamentária (ajuste fiscal), por reduzir gastos sociais em benefício do capital financeiro. Sustentou que o arcabouço fiscal enfraquece o Governo Lula e defendeu a redução da taxa de juros, a taxação das grandes fortunas e a auditoria da dívida pública. Ademais, destacou as emendas do Partido Socialismo e Liberdade — PSOL ao PLP, destinadas a resguardar investimentos públicos e recursos para políticas sociais, ciência e tecnologia e combate à violência contra as mulheres. Por fim, informou a coleta de assinaturas para pôr fim ao que chamou de “farra das emendas parlamentares”.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=24%2F11%2F2026&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-6681">
 <span class="data">10 nov 2026 · 18:20</span>

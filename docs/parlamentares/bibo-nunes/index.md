@@ -18,10 +18,10 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">32,8%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">406 <span>votações computáveis</span></span><span class="n-detalhe">580 <span>votações no exercício</span></span> |
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">24,9%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">346 <span>votações computáveis</span></span><span class="n-detalhe">538 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">95,0%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">523 <span>votações computáveis</span></span><span class="n-detalhe">580 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">94,8%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">458 <span>votações computáveis</span></span><span class="n-detalhe">538 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">32,1%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">414 <span>votações computáveis</span></span><span class="n-detalhe">590 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">24,7%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">348 <span>votações computáveis</span></span><span class="n-detalhe">540 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">95,1%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">532 <span>votações computáveis</span></span><span class="n-detalhe">590 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">94,8%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">460 <span>votações computáveis</span></span><span class="n-detalhe">540 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
 **Cada percentual acima é um link** para a sua decomposição completa —
@@ -47,12 +47,12 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">42,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>19</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | <span class="valor">39,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>28</b></span> |
 | [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">34,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>195</b></span> |
-| [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">33,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>33</b></span> |
+| [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">32,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>34</b></span> |
 | [Economia](../../temas/economia/) | <span class="valor">31,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>66</b></span> |
 | [Administração Pública](../../temas/administracao-publica/) | <span class="valor">29,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>127</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">28,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>52</b></span> |
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">22,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>22</b></span> |
-| [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">13,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>45</b></span> |
+| [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">13,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>46</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">11,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>26</b></span> |
 {: .t-temas}
 
@@ -69,29 +69,29 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">14 out 2026</span>
+<span class="data">25 nov 2026</span>
 <div class="corpo">
-<p>Rejeitada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 281, de 2019, adotada pelo relator da Comissão Especial. <span class="placar">Sim: 252; Não: 176; Total: 428.</span></p>
-<p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2236186-60">Ver votação na fonte oficial</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia">
-<span class="data">12 ago 2026</span>
-<div class="corpo">
-<p>Aprovado o Substitutivo Reformulado ao Projeto de Lei Complementar nº 114, de 2026, adotado pela relatora da Comissão de Minas e Energia, ressalvado o destaque. <span class="placar">Sim: 318; Não: 113; Abstenção: 1; Total: 432.</span></p>
+<p>Aprovado o Substitutivo ao Projeto de Lei nº 4.887, de 2023, adotado pela relatora da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família. <span class="placar">Sim: 320; Não: 102; Total: 422.</span></p>
 <p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-71">Ver votação na fonte oficial</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2394518-60">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">12 ago 2026</span>
+<span class="data">23 nov 2026</span>
 <div class="corpo">
-<p>Rejeitadas as Emendas de Plenário. <span class="placar">Sim: 108; Não: 275; Abstenção: 1; Total: 384.</span></p>
+<p>Aprovado o Projeto de Lei Complementar nº 299, de 2026, ressalvados os destaques. <span class="placar">Sim: 353; Não: 128; Abstenção: 5; Total: 486.</span></p>
+<p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-39">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia">
+<span class="data">23 nov 2026</span>
+<div class="corpo">
+<p>Rejeitadas as Emendas de Plenário. <span class="placar">Sim: 129; Não: 319; Abstenção: 4; Total: 452.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2618177-73">Ver votação na fonte oficial</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-41">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
@@ -130,14 +130,14 @@ Acima é amostra, e diz que é. A decomposição completa — **todas** as
 votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
-- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 406 votações
-- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 346 votações
-- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 523 votações
-- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 458 votações
+- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 414 votações
+- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 348 votações
+- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 532 votações
+- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 460 votações
 
 ## O que disse em plenário
 
-São **833 discursos** coletados no período, dos quais **656 substantivos** — os outros 177 são
+São **837 discursos** coletados no período, dos quais **660 substantivos** — os outros 177 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,42 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6724">
+<span class="data">25 nov 2026 · 15:12</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204388/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6723">
+<span class="data">25 nov 2026 · 15:00</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204388/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6722">
+<span class="data">24 nov 2026 · 18:28</span>
+<div class="corpo">
+<p class="tipo">COMO LÍDER</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204388/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6721">
+<span class="data">24 nov 2026 · 18:08</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204388/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-3470">
 <span class="data">27 mai 2026 · 19:44</span>
@@ -156,47 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-3469">
-<span class="data">27 mai 2026 · 18:36</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado orientou a bancada na votação do substitutivo ao Projeto de Lei nº 2.951, de 2024, que altera a Lei nº 8.171, de 17 de janeiro de 1991, a Lei nº 10.823, de 19 de dezembro de 2003, e a Lei Complementar nº 137, de 26 de agosto de 2010, para aperfeiçoar os marcos legais do seguro rural. Também criticou a Proposta de Emenda à Constituição nº 221., de 2019, que altera o art. 7º da Constituição Federal para reduzir a duração máxima semanal do trabalho. Ademais, condenou a Esquerda por, segundo o orador, iludir trabalhadores com promessas de menor jornada sem redução salarial, e manifestou expectativa de que a proposta seja rejeitada pelo Senado.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/204388/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-3468">
-<span class="data">27 mai 2026 · 18:20</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado orientou a bancada na votação do substitutivo ao Projeto de Lei nº 699, de 2023, que institui o Programa de Desenvolvimento da Indústria de Fertilizantes (Profert), altera as Leis nº 10.925, de 23 de julho de 2004, nº 9.430, de 27 de dezembro de 1996, e nº 12.431, de 24 de junho de 2011, e dá outras providências. Além disso, registrou protesto contra a PEC que propõe o fim da escala 6 por 1, classificando-a como &quot;tóxica e demagógica&quot;, e questionou a viabilidade econômica da proposta, argumentando que a redução da jornada sem redução salarial não encontra respaldo na realidade, uma vez que trabalhadores com menor renda não teriam condições de usufruir do tempo livre com tranquilidade.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=28%2F7%2F2026&amp;txPagina=173&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-3467">
-<span class="data">27 mai 2026 · 18:12</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado questionou o conteúdo da Proposta de Emenda à Constituição nº 221, de 2019, em votação, argumentando que a proposta representa um equívoco para a classe trabalhadora, pois resultaria na redução de salários.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=28%2F7%2F2026&amp;txPagina=167&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-3466">
-<span class="data">27 mai 2026 · 17:20</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado criticou a Proposta de Emenda à Constituição nº 221, de 2019, que altera o art. 7º da Constituição Federal para reduzir a duração máxima semanal do trabalho, classificando-a como enganosa para o trabalhador brasileiro. Também questionou a eficácia das políticas sociais do Governo Lula, como o Bolsa Família e o Valegas, argumentando que tais medidas não reduzem a pobreza. Por fim, declarou defender os trabalhadores contra o que chamou de engodo.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=28%2F7%2F2026&amp;txPagina=137&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>41</b></span> | 40 |
+| [2026](discursos/2026/) | <span class="n"><b>45</b></span> | 44 |
 | [2025](discursos/2025/) | <span class="n"><b>244</b></span> | 210 |
 | [2024](discursos/2024/) | <span class="n"><b>296</b></span> | 202 |
 | [2023](discursos/2023/) | <span class="n"><b>252</b></span> | 204 |

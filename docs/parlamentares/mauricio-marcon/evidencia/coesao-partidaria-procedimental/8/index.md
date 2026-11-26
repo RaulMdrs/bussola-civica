@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Mauricio Marcon — Coesão com o próprio partido, Procedimental (página 8)"
-description: "A decomposição completa do número de Mauricio Marcon: 500 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
+description: "A decomposição completa do número de Mauricio Marcon: 502 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 141ª à 160ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,10 +11,10 @@ description: "A decomposição completa do número de Mauricio Marcon: 500 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>44,6%</b> é <b>223</b> coincidências em
-<b>500</b> votações computáveis — as outras 277 estão
+<p><b>44,8%</b> é <b>225</b> coincidências em
+<b>502</b> votações computáveis — as outras 277 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
-repartida em <b>25 páginas</b> de até 20 votações,
+repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 <b>160ª</b>.</p>
 </div>
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 19 ago 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 266; Não: 114; Abstenção: 1; Total: 381. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2549432-7](../../../../../votacoes/2549432-7/) |
+| 13 ago 2025 | Rejeitado o Requerimento. Sim: 119; Não: 295; Total: 414. | Maioria do partido: nao (0 sim / 14 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2370495-47](../../../../../votacoes/2370495-47/) |
 | 13 ago 2025 | Rejeitado o Requerimento. Sim: 110; Não: 294; Total: 404. | Maioria do partido: nao (0 sim / 14 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2370495-50](../../../../../votacoes/2370495-50/) |
 | 12 ago 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 371; Não: 49; Abstenção: 1; Total: 421. | Maioria do partido: sim (14 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2472106-8](../../../../../votacoes/2472106-8/) |
 | 12 ago 2025 | Rejeitado o Requerimento. Sim: 61; Não: 385; Abstenção: 1; Total: 447. | Maioria do partido: nao (0 sim / 15 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2500260-26](../../../../../votacoes/2500260-26/) |
@@ -43,13 +45,11 @@ da mais recente para a mais antiga. Esta traz da <b>141ª</b> à
 | 16 jul 2025 | Rejeitado o Requerimento. Sim: 119; Não: 273; Total: 392. | Maioria do partido: nao (2 sim / 7 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [257161-446](../../../../../votacoes/257161-446/) |
 | 16 jul 2025 | Aprovado o Requerimento. Sim: 256; Não: 109; Total: 365. | Maioria do partido: nao (3 sim / 5 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [257161-450](../../../../../votacoes/257161-450/) |
 | 15 jul 2025 | Aprovado o Requerimento. Sim: 338; Não: 28; Total: 366. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2454495-142](../../../../../votacoes/2454495-142/) |
-| 15 jul 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 323; Não: 55; Abstenção: 2; Total: 380. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2533420-8](../../../../../votacoes/2533420-8/) |
-| 15 jul 2025 | Aprovado o Requerimento nº 2.779/2025, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões previsto no § 6º do art. 202 do RICD, para apreciação do segundo turno da PEC 66, de 2023. Sim: 319; Não: 70; Total: 389. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2536848-6](../../../../../votacoes/2536848-6/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">
 <a class="passo" href="../7/" rel="prev">← Anteriores</a>
-<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../6/">6</a><a href="../7/">7</a><b aria-current="page">8</b><a href="../9/">9</a><a href="../10/">10</a><span class="salto">…</span><a href="../25/">25</a></span>
+<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../6/">6</a><a href="../7/">7</a><b aria-current="page">8</b><a href="../9/">9</a><a href="../10/">10</a><span class="salto">…</span><a href="../26/">26</a></span>
 <a class="passo" href="../9/" rel="next">Próximas →</a>
 </nav>
 

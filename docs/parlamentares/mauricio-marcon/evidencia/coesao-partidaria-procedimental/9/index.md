@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Mauricio Marcon — Coesão com o próprio partido, Procedimental (página 9)"
-description: "A decomposição completa do número de Mauricio Marcon: 500 votações em 25 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
+description: "A decomposição completa do número de Mauricio Marcon: 502 votações em 26 páginas, uma por linha, com link para a fonte. Esta traz da 161ª à 180ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,10 +11,10 @@ description: "A decomposição completa do número de Mauricio Marcon: 500 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>44,6%</b> é <b>223</b> coincidências em
-<b>500</b> votações computáveis — as outras 277 estão
+<p><b>44,8%</b> é <b>225</b> coincidências em
+<b>502</b> votações computáveis — as outras 277 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
-repartida em <b>25 páginas</b> de até 20 votações,
+repartida em <b>26 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 <b>180ª</b>.</p>
 </div>
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 15 jul 2025 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 323; Não: 55; Abstenção: 2; Total: 380. | Maioria do partido: sim (12 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2533420-8](../../../../../votacoes/2533420-8/) |
+| 15 jul 2025 | Aprovado o Requerimento nº 2.779/2025, dos Senhores Líderes, que solicita a quebra de interstício de 5 sessões previsto no § 6º do art. 202 do RICD, para apreciação do segundo turno da PEC 66, de 2023. Sim: 319; Não: 70; Total: 389. | Maioria do partido: sim (8 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2536848-6](../../../../../votacoes/2536848-6/) |
 | 09 jul 2025 | Rejeitado o Requerimento. Sim: 110; Não: 159; Total: 269. | Maioria do partido: nao (0 sim / 8 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2421211-100](../../../../../votacoes/2421211-100/) |
 | 08 jul 2025 | Rejeitado o Requerimento. Sim: 55; Não: 212; Total: 267. | Maioria do partido: nao (0 sim / 7 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2252295-110](../../../../../votacoes/2252295-110/) |
 | 08 jul 2025 | Rejeitado o Requerimento. Sim: 90; Não: 288; Abstenção: 1; Total: 379. | Maioria do partido: nao (0 sim / 11 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2413257-114](../../../../../votacoes/2413257-114/) |
@@ -43,13 +45,11 @@ da mais recente para a mais antiga. Esta traz da <b>161ª</b> à
 | 11 jun 2025 | Rejeitado o Requerimento. Sim: 141; Não: 240; Total: 381. | Maioria do partido: nao (0 sim / 10 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2497816-35](../../../../../votacoes/2497816-35/) |
 | 11 jun 2025 | Rejeitado o Requerimento. Sim: 105; Não: 205; Total: 310. | Maioria do partido: nao (0 sim / 9 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [264726-127](../../../../../votacoes/264726-127/) |
 | 11 jun 2025 | Rejeitado o Requerimento. Sim: 132; Não: 223; Total: 355. | Maioria do partido: nao (0 sim / 8 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [264726-131](../../../../../votacoes/264726-131/) |
-| 11 jun 2025 | Aprovado o Requerimento. Sim: 235; Não: 142; Total: 377. | Maioria do partido: sim (10 sim / 0 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [264726-136](../../../../../votacoes/264726-136/) |
-| 11 jun 2025 | Rejeitado o Requerimento. Sim: 102; Não: 182; Total: 284. | Maioria do partido: nao (0 sim / 7 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [264726-142](../../../../../votacoes/264726-142/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">
 <a class="passo" href="../8/" rel="prev">← Anteriores</a>
-<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../7/">7</a><a href="../8/">8</a><b aria-current="page">9</b><a href="../10/">10</a><a href="../11/">11</a><span class="salto">…</span><a href="../25/">25</a></span>
+<span class="paginas"><a href="../">1</a><span class="salto">…</span><a href="../7/">7</a><a href="../8/">8</a><b aria-current="page">9</b><a href="../10/">10</a><a href="../11/">11</a><span class="salto">…</span><a href="../26/">26</a></span>
 <a class="passo" href="../10/" rel="next">Próximas →</a>
 </nav>
 

@@ -18,10 +18,10 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">84,6%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">377 <span>votações computáveis</span></span><span class="n-detalhe">580 <span>votações no exercício</span></span> |
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">85,1%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">335 <span>votações computáveis</span></span><span class="n-detalhe">538 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">89,5%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">465 <span>votações computáveis</span></span><span class="n-detalhe">580 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">90,8%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">444 <span>votações computáveis</span></span><span class="n-detalhe">538 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">83,9%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">386 <span>votações computáveis</span></span><span class="n-detalhe">590 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">85,2%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">337 <span>votações computáveis</span></span><span class="n-detalhe">540 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">89,1%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">475 <span>votações computáveis</span></span><span class="n-detalhe">590 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">90,8%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">446 <span>votações computáveis</span></span><span class="n-detalhe">540 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
 **Cada percentual acima é um link** para a sua decomposição completa —
@@ -44,7 +44,7 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 |---|---:|---:|
 | [Indústria, Comércio e Serviços](../../temas/industria-comercio-e-servicos/) | <span class="valor">96,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>25</b></span> |
 | [Saúde](../../temas/saude/) | <span class="valor">95,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>24</b></span> |
-| [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">94,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>34</b></span> |
+| [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">94,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>36</b></span> |
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">94,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>17</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">93,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>16</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | <span class="valor">89,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>28</b></span> |
@@ -52,7 +52,7 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">87,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>198</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">84,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>39</b></span> |
 | [Administração Pública](../../temas/administracao-publica/) | <span class="valor">72,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>118</b></span> |
-| [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">59,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>32</b></span> |
+| [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">60,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>33</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">52,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>25</b></span> |
 {: .t-temas}
 
@@ -69,58 +69,58 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">12 ago 2026</span>
+<span class="data">23 nov 2026</span>
 <div class="corpo">
-<p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
+<p>Rejeitada a Emenda de Plenário nº 23. <span class="placar">Sim: 146; Não: 315; Abstenção: 1; Total: 462.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2580259-24">Ver votação na fonte oficial</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-47">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">14 jul 2026</span>
+<span class="data">23 nov 2026</span>
 <div class="corpo">
-<p>Rejeitada a Emenda de Plenário nº 2. <span class="placar">Sim: 134; Não: 285; Abstenção: 2; Total: 421.</span></p>
+<p>Rejeitada a Emenda de Plenário nº 38. <span class="placar">Sim: 172; Não: 282; Abstenção: 2; Total: 456.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2638483-34">Ver votação na fonte oficial</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-50">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">09 dez 2025</span>
+<span class="data">23 nov 2026</span>
 <div class="corpo">
-<p>Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 4.497, de 2024, ressalvados os destaques. <span class="placar">Sim: 310; Não: 115; Total: 425.</span></p>
-<p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2471177-102">Ver votação na fonte oficial</a>
+<p>Mantido o texto. <span class="placar">Sim: 310; Não: 132; Total: 442.</span></p>
+<p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-57">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">09 dez 2025</span>
+<span class="data">23 nov 2026</span>
 <div class="corpo">
-<p>Aprovado o Substitutivo do Senado Federal ao Projeto de Lei nº 4.497, de 2024, ressalvados os destaques. <span class="placar">Sim: 310; Não: 115; Total: 425.</span></p>
-<p class="referencia">Maioria do partido: nao (3 sim / 9 não entre os pares) — voto registrado: <b>sim</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2471177-102">Ver votação na fonte oficial</a>
+<p>Rejeitada a Emenda de Plenário nº 23. <span class="placar">Sim: 146; Não: 315; Abstenção: 1; Total: 462.</span></p>
+<p class="referencia">Maioria do partido: nao (0 sim / 7 não entre os pares) — voto registrado: <b>sim</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-47">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">09 dez 2025</span>
+<span class="data">23 nov 2026</span>
 <div class="corpo">
-<p>Mantido o texto. <span class="placar">Sim: 283; Não: 116; Total: 399.</span></p>
-<p class="referencia">Maioria do partido: nao (2 sim / 10 não entre os pares) — voto registrado: <b>sim</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2471177-105">Ver votação na fonte oficial</a>
+<p>Mantido o texto. <span class="placar">Sim: 310; Não: 132; Total: 442.</span></p>
+<p class="referencia">Maioria do partido: sim (6 sim / 0 não entre os pares) — voto registrado: <b>nao</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-57">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">09 dez 2025</span>
+<span class="data">23 nov 2026</span>
 <div class="corpo">
-<p>Mantido o texto. <span class="placar">Sim: 302; Não: 124; Total: 426.</span></p>
-<p class="referencia">Maioria do partido: nao (2 sim / 11 não entre os pares) — voto registrado: <b>sim</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2471177-108">Ver votação na fonte oficial</a>
+<p>Mantido o texto. <span class="placar">Sim: 319; Não: 127; Abstenção: 1; Total: 447.</span></p>
+<p class="referencia">Maioria do partido: sim (6 sim / 0 não entre os pares) — voto registrado: <b>nao</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-60">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
@@ -130,14 +130,14 @@ Acima é amostra, e diz que é. A decomposição completa — **todas** as
 votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
-- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 377 votações
-- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 335 votações
-- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 465 votações
-- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 444 votações
+- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 386 votações
+- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 337 votações
+- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 475 votações
+- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 446 votações
 
 ## O que disse em plenário
 
-São **728 discursos** coletados no período, dos quais **647 substantivos** — os outros 81 são
+São **737 discursos** coletados no período, dos quais **656 substantivos** — os outros 81 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -147,17 +147,8 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-6684">
-<span class="data">10 nov 2026 · 17:08</span>
-<div class="corpo">
-<p class="tipo">BREVES COMUNICAÇÕES</p>
-<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73486/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-6683">
-<span class="data">10 nov 2026 · 16:24</span>
+<blockquote class="evidencia discurso" id="d-6737">
+<span class="data">25 nov 2026 · 17:52</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
@@ -165,17 +156,17 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6664">
-<span class="data">03 nov 2026 · 19:32</span>
+<blockquote class="evidencia discurso" id="d-6736">
+<span class="data">24 nov 2026 · 18:32</span>
 <div class="corpo">
-<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="tipo">COMO LÍDER</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
 <a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73486/discursos">Ver na API da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6663">
-<span class="data">03 nov 2026 · 19:20</span>
+<blockquote class="evidencia discurso" id="d-6735">
+<span class="data">24 nov 2026 · 17:36</span>
 <div class="corpo">
 <p class="tipo">PELA ORDEM</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
@@ -183,12 +174,21 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6662">
-<span class="data">03 nov 2026 · 18:20</span>
+<blockquote class="evidencia discurso" id="d-6734">
+<span class="data">23 nov 2026 · 23:36</span>
 <div class="corpo">
-<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado orientou a bancada na votação do art. 6º-F que consta no art. 1º do Projeto de Lei Complementar nº 299, de 2026, que confere ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico, ressaltando que não há cortes na saúde nem na educação. Questionou os que criticam o ajuste por considerá-lo insuficiente, mas ao mesmo tempo querem reduzi-lo ainda mais. Apontou que o valor do ajuste equivale a apenas poucos dias de juros pagos pelo Brasil para rolar as dívidas.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=24%2F11%2F2026&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6733">
+<span class="data">23 nov 2026 · 22:56</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/73486/discursos">Ver na API da Câmara</a>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=24%2F11%2F2026&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
 </div>
 </blockquote>
 
@@ -196,7 +196,7 @@ fonte que o publicou.
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>89</b></span> | 70 |
+| [2026](discursos/2026/) | <span class="n"><b>98</b></span> | 79 |
 | [2025](discursos/2025/) | <span class="n"><b>222</b></span> | 188 |
 | [2024](discursos/2024/) | <span class="n"><b>150</b></span> | 141 |
 | [2023](discursos/2023/) | <span class="n"><b>267</b></span> | 248 |

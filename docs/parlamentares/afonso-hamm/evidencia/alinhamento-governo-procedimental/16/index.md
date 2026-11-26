@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Hamm — Alinhamento com o governo federal, Procedimental (página 16)"
-description: "A decomposição completa do número de Afonso Hamm: 307 votações em 16 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 307ª."
+description: "A decomposição completa do número de Afonso Hamm: 309 votações em 16 páginas, uma por linha, com link para a fonte. Esta traz da 301ª à 309ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,12 +11,12 @@ description: "A decomposição completa do número de Afonso Hamm: 307 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>50,2%</b> é <b>154</b> coincidências em
-<b>307</b> votações computáveis — as outras 153 estão
+<p><b>49,8%</b> é <b>154</b> coincidências em
+<b>309</b> votações computáveis — as outras 155 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>16 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
-<b>307ª</b>.</p>
+<b>309ª</b>.</p>
 </div>
 
 > **Coincidiu e divergiu não são acerto e erro.** São o que a conta mede:
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>301ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 17 mai 2023 | Rejeitado o Requerimento. Sim: 187; não: 232; total: 419. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2115253-111](../../../../../votacoes/2115253-111/) |
+| 17 mai 2023 | Rejeitado o Requerimento. Sim: 173; não: 221; total: 394. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2115253-116](../../../../../votacoes/2115253-116/) |
 | 17 mai 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 367; não: 102; abstenção: 1; total: 470. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2362292-8](../../../../../votacoes/2362292-8/) |
 | 10 mai 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 330; não: 43; abstenção: 1; total: 374. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2354502-8](../../../../../votacoes/2354502-8/) |
 | 03 mai 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 322; não: 136; abstenção: 2; total: 460. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2357871-9](../../../../../votacoes/2357871-9/) |

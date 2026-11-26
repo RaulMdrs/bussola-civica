@@ -18,10 +18,10 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">95,1%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">348 <span>votações computáveis</span></span><span class="n-detalhe">580 <span>votações no exercício</span></span> |
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">97,9%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">286 <span>votações computáveis</span></span><span class="n-detalhe">538 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">96,8%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">433 <span>votações computáveis</span></span><span class="n-detalhe">580 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">98,9%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">374 <span>votações computáveis</span></span><span class="n-detalhe">538 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">95,2%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">357 <span>votações computáveis</span></span><span class="n-detalhe">590 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">97,9%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">288 <span>votações computáveis</span></span><span class="n-detalhe">540 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">96,8%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">443 <span>votações computáveis</span></span><span class="n-detalhe">590 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">98,9%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">376 <span>votações computáveis</span></span><span class="n-detalhe">540 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
 **Cada percentual acima é um link** para a sua decomposição completa —
@@ -42,13 +42,13 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 
 | Tema | Alinhamento | Votações (n) |
 |---|---:|---:|
-| [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>26</b></span> |
+| [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>27</b></span> |
 | [Indústria, Comércio e Serviços](../../temas/industria-comercio-e-servicos/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>23</b></span> |
 | [Energia, Recursos Hídricos e Minerais](../../temas/energia-recursos-hidricos-e-minerais/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>14</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>19</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Economia](../../temas/economia/) | <span class="valor">98,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>49</b></span> |
 | [Administração Pública](../../temas/administracao-publica/) | <span class="valor">97,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>116</b></span> |
-| [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">97,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>34</b></span> |
+| [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">97,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>36</b></span> |
 | [Saúde](../../temas/saude/) | <span class="valor">95,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>24</b></span> |
 | [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">95,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>162</b></span> |
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">94,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>19</b></span> <span class="aviso-n">amostra pequena</span> |
@@ -130,14 +130,14 @@ Acima é amostra, e diz que é. A decomposição completa — **todas** as
 votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
-- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 348 votações
-- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 286 votações
-- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 433 votações
-- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 374 votações
+- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 357 votações
+- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 288 votações
+- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 443 votações
+- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 376 votações
 
 ## O que disse em plenário
 
-São **352 discursos** coletados no período, dos quais **317 substantivos** — os outros 35 são
+São **355 discursos** coletados no período, dos quais **320 substantivos** — os outros 35 são
 orientação de bancada e registro de presença, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,33 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6740">
+<span class="data">25 nov 2026 · 14:20</span>
+<div class="corpo">
+<p class="tipo">BREVES COMUNICAÇÕES</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6739">
+<span class="data">23 nov 2026 · 23:16</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>A Deputada orientou a bancada na votação da Emenda de Plenário nº 38 ao Projeto de Lei Complementar nº 299, de 2026, que confere ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico. Além disso, afirmou que a defesa da emenda não é verdadeira, pois o projeto não contém nenhuma possibilidade de corte ou contingenciamento de recursos destinados às pessoas com deficiência, estando preservados o BPC e os pisos constitucionais da saúde e da educação.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=24%2F11%2F2026&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6738">
+<span class="data">23 nov 2026 · 22:32</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=24%2F11%2F2026&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-6705">
 <span class="data">17 nov 2026 · 16:44</span>
@@ -165,38 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-6687">
-<span class="data">10 nov 2026 · 18:28</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-6686">
-<span class="data">10 nov 2026 · 17:08</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-6685">
-<span class="data">10 nov 2026 · 15:44</span>
-<div class="corpo">
-<p class="tipo">BREVES COMUNICAÇÕES</p>
-<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74398/discursos">Ver na API da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>63</b></span> | 59 |
+| [2026](discursos/2026/) | <span class="n"><b>66</b></span> | 62 |
 | [2025](discursos/2025/) | <span class="n"><b>144</b></span> | 119 |
 | [2024](discursos/2024/) | <span class="n"><b>33</b></span> | 33 |
 | [2023](discursos/2023/) | <span class="n"><b>112</b></span> | 106 |

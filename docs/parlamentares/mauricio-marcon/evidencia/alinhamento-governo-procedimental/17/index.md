@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Mauricio Marcon — Alinhamento com o governo federal, Procedimental (página 17)"
-description: "A decomposição completa do número de Mauricio Marcon: 389 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
+description: "A decomposição completa do número de Mauricio Marcon: 391 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 321ª à 340ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Mauricio Marcon: 389 vota�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>20,6%</b> é <b>80</b> coincidências em
-<b>389</b> votações computáveis — as outras 309 estão
+<p><b>20,5%</b> é <b>80</b> coincidências em
+<b>391</b> votações computáveis — as outras 311 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 08 nov 2023 | Rejeitado o Requerimento. Sim: 120; não: 269; total: 389. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2115253-167](../../../../../votacoes/2115253-167/) |
+| 08 nov 2023 | Rejeitado o Requerimento.Sim: 49; não: 288; abstenção: 2; total: 339. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2115253-172](../../../../../votacoes/2115253-172/) |
 | 07 nov 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 277; não: 33 ; total:310. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2390639-8](../../../../../votacoes/2390639-8/) |
 | 07 nov 2023 | Rejeitado o Requerimento. Sim: 94; não: 279; total: 373. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2397925-16](../../../../../votacoes/2397925-16/) |
 | 31 out 2023 | Rejeitado o Requerimento. Sim: 81; não: 234; total: 315. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2376169-40](../../../../../votacoes/2376169-40/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>321ª</b> à
 | 03 out 2023 | Rejeitado o Requerimento. Sim: 19; não: 283; abstenção: 2; total: 304. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2224999-88](../../../../../votacoes/2224999-88/) |
 | 03 out 2023 | Rejeitado o Requerimento. Sim: 10; não: 243; abstenção: 4; total: 257. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2309053-157](../../../../../votacoes/2309053-157/) |
 | 03 out 2023 | Rejeitado o Requerimento. Sim: 22; não: 266; abstenção: 2; total: 290. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2309053-167](../../../../../votacoes/2309053-167/) |
-| 03 out 2023 | Rejeitado o Requerimento. Sim: 26; não: 291; abstenção: 6; total: 323. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2309053-173](../../../../../votacoes/2309053-173/) |
-| 19 set 2023 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 297; não: 105; abstenção: 1; total: 403. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2375630-8](../../../../../votacoes/2375630-8/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

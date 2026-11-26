@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Heitor Schuch — Alinhamento com o governo federal, Procedimental"
-description: "A decomposição completa do número de Heitor Schuch: 239 votações em 12 páginas, uma por linha, com link para a fonte. Esta traz da 1ª à 20ª."
+description: "A decomposição completa do número de Heitor Schuch: 241 votações em 13 páginas, uma por linha, com link para a fonte. Esta traz da 1ª à 20ª."
 ---
 
 # Alinhamento com o governo federal
@@ -11,10 +11,10 @@ description: "A decomposição completa do número de Heitor Schuch: 239 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>92,1%</b> é <b>220</b> coincidências em
-<b>239</b> votações computáveis — as outras 19 estão
+<p><b>92,1%</b> é <b>222</b> coincidências em
+<b>241</b> votações computáveis — as outras 19 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
-repartida em <b>12 páginas</b> de até 20 votações,
+repartida em <b>13 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
 <b>20ª</b>.</p>
 </div>
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 23 nov 2026 | Rejeitado o Requerimento. Sim: 127; Não: 347; Abstenção: 7; Total: 481. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2655570-30](../../../../votacoes/2655570-30/) |
+| 23 nov 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 318; Não: 135; Abstenção: 6; Total: 459. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2655708-8](../../../../votacoes/2655708-8/) |
 | 01 set 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 320; Não: 67; Abstenção: 1; Total: 388. | Orientação do Governo: sim | <b>nao</b> | <span class="divergiu">divergiu</span> | [2643915-8](../../../../votacoes/2643915-8/) |
 | 01 jul 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 293; Não: 158; Abstenção: 3; Total: 454. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2636281-8](../../../../votacoes/2636281-8/) |
 | 17 jun 2026 | Rejeitado o Requerimento. Sim: 117; Não: 250; Total: 367. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2382675-89](../../../../votacoes/2382675-89/) |
@@ -43,13 +45,11 @@ da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
 | 17 mar 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 343; Não: 78; Total: 421. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2581785-8](../../../../votacoes/2581785-8/) |
 | 17 mar 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 399; Não: 19; Total: 418. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2606970-8](../../../../votacoes/2606970-8/) |
 | 11 mar 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 316; Não: 86; Abstenção: 1; Total: 403. | Orientação do Governo: sim | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2607960-9](../../../../votacoes/2607960-9/) |
-| 03 mar 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 317; Não: 117; Total: 434. | Orientação do Governo: nao | <b>sim</b> | <span class="divergiu">divergiu</span> | [2485383-7](../../../../votacoes/2485383-7/) |
-| 03 mar 2026 | Rejeitado o Requerimento. Sim: 157; Não: 272; Abstenção: 3; Total: 432. | Orientação do Governo: nao | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2578879-27](../../../../votacoes/2578879-27/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">
 <span class="passo inerte">← Anteriores</span>
-<span class="paginas"><b aria-current="page">1</b><a href="2/">2</a><a href="3/">3</a><span class="salto">…</span><a href="12/">12</a></span>
+<span class="paginas"><b aria-current="page">1</b><a href="2/">2</a><a href="3/">3</a><span class="salto">…</span><a href="13/">13</a></span>
 <a class="passo" href="2/" rel="next">Próximas →</a>
 </nav>
 

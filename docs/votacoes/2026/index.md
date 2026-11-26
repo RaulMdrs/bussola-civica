@@ -2,17 +2,29 @@
 layout: default
 kind: indice
 title: "Votações de 2026"
-description: "As 145 votações de 2026 com voto individual recuperável, e como a bancada gaúcha votou em cada uma."
+description: "As 157 votações de 2026 com voto individual recuperável, e como a bancada gaúcha votou em cada uma."
 ---
 
 # Votações de 2026
 
-<p class="subtitulo">145 votações com voto individual recuperável.</p>
+<p class="subtitulo">157 votações com voto individual recuperável.</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
 | Data | Votação | Casa | Chamada |
 |---|---|---|---|
+| 25 nov 2026 | [Aprovado o Substitutivo ao Projeto de Lei nº 4.887, de 2023, adotado pela relatora da Comi](../2394518-60/) | <span class="escopo">Câmara</span> | aprovada |
+| 24 nov 2026 | [Aprovado o Substitutivo ao Projeto de Lei nº 1.969, de 2022, da Comissão de Direitos Human](../2332174-59/) | <span class="escopo">Câmara</span> | aprovada |
+| 23 nov 2026 | [Rejeitado o Requerimento.](../2655570-30/) | <span class="escopo">Câmara</span> | rejeitada |
+| 23 nov 2026 | [Aprovado o Projeto de Lei Complementar nº 299, de 2026, ressalvados os destaques.](../2655570-39/) | <span class="escopo">Câmara</span> | aprovada |
+| 23 nov 2026 | [Rejeitadas as Emendas de Plenário.](../2655570-41/) | <span class="escopo">Câmara</span> | rejeitada |
+| 23 nov 2026 | [Mantido o texto.](../2655570-44/) | <span class="escopo">Câmara</span> | — |
+| 23 nov 2026 | [Rejeitada a Emenda de Plenário nº 23.](../2655570-47/) | <span class="escopo">Câmara</span> | rejeitada |
+| 23 nov 2026 | [Rejeitada a Emenda de Plenário nº 38.](../2655570-50/) | <span class="escopo">Câmara</span> | rejeitada |
+| 23 nov 2026 | [Mantido o texto.](../2655570-53/) | <span class="escopo">Câmara</span> | — |
+| 23 nov 2026 | [Mantido o texto.](../2655570-57/) | <span class="escopo">Câmara</span> | — |
+| 23 nov 2026 | [Mantido o texto.](../2655570-60/) | <span class="escopo">Câmara</span> | — |
+| 23 nov 2026 | [Aprovado o Requerimento de Urgência (Art. 155 do RICD).](../2655708-8/) | <span class="escopo">Câmara</span> | aprovada |
 | 18 nov 2026 | [Votação nominal da Emenda nº 40 ao Projeto de Lei Complementar nº 299, de 2026, destacada.](../7117/) | <span class="escopo">Senado</span> | rejeitada |
 | 18 nov 2026 | [Votação nominal do Art. 6º do Substitutivo ao Projeto de Lei Complementar nº 299, de 2026,](../7118/) | <span class="escopo">Senado</span> | rejeitada |
 | 18 nov 2026 | [Votação nominal do Art. 6º-F da Lei Complementar nº 200, de 2023, constante do art. 1º do ](../7119/) | <span class="escopo">Senado</span> | rejeitada |

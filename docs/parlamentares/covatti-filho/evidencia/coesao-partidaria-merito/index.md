@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Covatti Filho — Coesão com o próprio partido, Mérito"
-description: "A decomposição completa do número de Covatti Filho: 431 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 1ª à 20ª."
+description: "A decomposição completa do número de Covatti Filho: 439 votações em 22 páginas, uma por linha, com link para a fonte. Esta traz da 1ª à 20ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Covatti Filho: 431 votaç�
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>57,5%</b> é <b>248</b> coincidências em
-<b>431</b> votações computáveis — as outras 183 estão
+<p><b>56,5%</b> é <b>248</b> coincidências em
+<b>439</b> votações computáveis — as outras 191 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>22 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
@@ -25,6 +25,14 @@ da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 25 nov 2026 | Aprovado o Substitutivo ao Projeto de Lei nº 4.887, de 2023, adotado pela relatora da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família. Sim: 320; Não: 102; Total: 422. | Maioria do partido: sim (31 sim / 7 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2394518-60](../../../../votacoes/2394518-60/) |
+| 24 nov 2026 | Aprovado o Substitutivo ao Projeto de Lei nº 1.969, de 2022, da Comissão de Direitos Humanos, Minorias e Igualdade Racial. Sim: 292; Não: 147; Abstenção: 2; Total: 441. | Maioria do partido: sim (27 sim / 8 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2332174-59](../../../../votacoes/2332174-59/) |
+| 23 nov 2026 | Aprovado o Projeto de Lei Complementar nº 299, de 2026, ressalvados os destaques. Sim: 353; Não: 128; Abstenção: 5; Total: 486. | Maioria do partido: sim (33 sim / 11 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2655570-39](../../../../votacoes/2655570-39/) |
+| 23 nov 2026 | Rejeitadas as Emendas de Plenário. Sim: 129; Não: 319; Abstenção: 4; Total: 452. | Maioria do partido: nao (10 sim / 25 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2655570-41](../../../../votacoes/2655570-41/) |
+| 23 nov 2026 | Mantido o texto. Sim: 413; Não: 29; Total: 442. | Maioria do partido: sim (35 sim / 1 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2655570-44](../../../../votacoes/2655570-44/) |
+| 23 nov 2026 | Rejeitada a Emenda de Plenário nº 23. Sim: 146; Não: 315; Abstenção: 1; Total: 462. | Maioria do partido: nao (12 sim / 27 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2655570-47](../../../../votacoes/2655570-47/) |
+| 23 nov 2026 | Rejeitada a Emenda de Plenário nº 38. Sim: 172; Não: 282; Abstenção: 2; Total: 456. | Maioria do partido: nao (12 sim / 25 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2655570-50](../../../../votacoes/2655570-50/) |
+| 23 nov 2026 | Mantido o texto. Sim: 310; Não: 132; Total: 442. | Maioria do partido: sim (28 sim / 10 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2655570-57](../../../../votacoes/2655570-57/) |
 | 14 out 2026 | Rejeitada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 281, de 2019, adotada pelo relator da Comissão Especial. Sim: 252; Não: 176; Total: 428. | Maioria do partido: sim (29 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2236186-60](../../../../votacoes/2236186-60/) |
 | 14 out 2026 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 186, de 2026, adotada pelo relator da Comissão de Indústria, Comércio e Serviços, ressalvados os destaques. Sim: 461; Não: 4; Total: 465. | Maioria do partido: sim (40 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2635476-36](../../../../votacoes/2635476-36/) |
 | 12 ago 2026 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. Sim: 333; Não: 91; Total: 424. | Maioria do partido: sim (33 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2580259-24](../../../../votacoes/2580259-24/) |
@@ -37,14 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
 | 18 mar 2026 | Mantido o texto. Sim: 232; Não: 151; Abstenção: 1; Total: 384. | Maioria do partido: sim (25 sim / 8 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2462009-79](../../../../votacoes/2462009-79/) |
 | 17 mar 2026 | Aprovada a Subemenda Substitutiva Global ao Projeto de Lei Complementar nº 6, de 2024, adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania. Sim: 417; Não: 1; Total: 418. | Maioria do partido: sim (36 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2418774-66](../../../../votacoes/2418774-66/) |
 | 11 mar 2026 | Mantido o texto. Sim: 213; Não: 152; Abstenção: 3; Total: 368. | Maioria do partido: sim (26 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2596663-47](../../../../votacoes/2596663-47/) |
-| 10 mar 2026 | Mantido o texto. Sim: 408; Não: 13; Total: 421. | Maioria do partido: sim (38 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2449741-72](../../../../votacoes/2449741-72/) |
-| 04 mar 2026 | Aprovado, em primeiro turno, o Substitutivo à Proposta de Emenda à Constituição nº 18, de 2025, adotado pelo relator da Comissão Especial. Sim: 487; Não: 15; Abstenção: 1; Total: 503. | Maioria do partido: sim (47 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2500080-320](../../../../votacoes/2500080-320/) |
-| 04 mar 2026 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 18, de 2025. Sim: 461; Não: 14; Total: 475. | Maioria do partido: sim (45 sim / 0 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2500080-330](../../../../votacoes/2500080-330/) |
-| 03 mar 2026 | Aprovado o Projeto de Lei nº 5.490, de 2025. Sim: 248; Não: 164; Abstenção: 2; Total: 414. | Maioria do partido: sim (20 sim / 17 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2578879-38](../../../../votacoes/2578879-38/) |
-| 02 mar 2026 | Aprovado o Projeto de Lei nº 6.139, de 2023, ressalvado o destaque. Sim: 340; Não: 108; Abstenção: 1; Total: 449. | Maioria do partido: sim (27 sim / 10 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2543171-49](../../../../votacoes/2543171-49/) |
-| 02 mar 2026 | Rejeitada a Emenda de Plenário ao Substitutivo. Sim: 194; Não: 207; Abstenção: 3; Total: 404. | Maioria do partido: sim (17 sim / 14 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [589982-124](../../../../votacoes/589982-124/) |
-| 02 mar 2026 | Mantido o texto. Sim: 258; Não: 119; Abstenção: 1; Total: 378. | Maioria do partido: sim (14 sim / 11 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [589982-126](../../../../votacoes/589982-126/) |
-| 02 mar 2026 | Mantido o texto. Sim: 235; Não: 121; Abstenção: 2; Total: 358. | Maioria do partido: sim (13 sim / 12 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [589982-129](../../../../votacoes/589982-129/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

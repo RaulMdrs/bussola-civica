@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Hamm — Coesão com o próprio partido, Procedimental (página 2)"
-description: "A decomposição completa do número de Afonso Hamm: 388 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
+description: "A decomposição completa do número de Afonso Hamm: 390 votações em 20 páginas, uma por linha, com link para a fonte. Esta traz da 21ª à 40ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Afonso Hamm: 388 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>67,5%</b> é <b>262</b> coincidências em
-<b>388</b> votações computáveis — as outras 126 estão
+<p><b>67,2%</b> é <b>262</b> coincidências em
+<b>390</b> votações computáveis — as outras 128 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>20 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
@@ -25,6 +25,8 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 07 abr 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 272; Não: 18; Total: 290. | Maioria do partido: sim (25 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2562289-8](../../../../../votacoes/2562289-8/) |
+| 25 mar 2026 | Rejeitado o Requerimento. Sim: 137; Não: 257; Total: 394. | Maioria do partido: nao (11 sim / 23 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2595984-22](../../../../../votacoes/2595984-22/) |
 | 25 mar 2026 | Rejeitado o Requerimento. Sim: 126; Não: 262; Total: 388. | Maioria do partido: nao (10 sim / 24 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2595984-26](../../../../../votacoes/2595984-26/) |
 | 25 mar 2026 | Rejeitado o Requerimento. Sim: 124; Não: 257; Abstenção: 1; Total: 382. | Maioria do partido: nao (10 sim / 26 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2595984-31](../../../../../votacoes/2595984-31/) |
 | 18 mar 2026 | Rejeitado o Requerimento. Sim: 116; Não: 311; Abstenção: 2; Total: 429. | Maioria do partido: nao (7 sim / 25 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2462009-57](../../../../../votacoes/2462009-57/) |
@@ -43,8 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>21ª</b> à
 | 03 mar 2026 | Rejeitado o Requerimento. Sim: 157; Não: 272; Abstenção: 3; Total: 432. | Maioria do partido: nao (17 sim / 24 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2578879-27](../../../../../votacoes/2578879-27/) |
 | 03 mar 2026 | Rejeitado o Requerimento. Sim: 148; Não: 237; Abstenção: 1; Total: 386. | Maioria do partido: nao (11 sim / 24 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2578879-31](../../../../../votacoes/2578879-31/) |
 | 02 mar 2026 | Rejeitado o Requerimento. Sim: 100; Não: 295; Total: 395. | Maioria do partido: nao (7 sim / 31 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [589982-103](../../../../../votacoes/589982-103/) |
-| 25 fev 2026 | Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 308; Não: 120; Total: 428. | Maioria do partido: sim (31 sim / 9 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2604383-7](../../../../../votacoes/2604383-7/) |
-| 10 fev 2026 | Rejeitado o Requerimento. Sim: 147; Não: 242; Abstenção: 1; Total: 390. | Maioria do partido: nao (7 sim / 26 não entre os pares) | <b>nao</b> | <span class="coincidiu">coincidiu</span> | [2591974-26](../../../../../votacoes/2591974-26/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">

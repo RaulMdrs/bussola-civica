@@ -18,10 +18,10 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">97,1%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">207 <span>votações computáveis</span></span><span class="n-detalhe">281 <span>votações no exercício</span></span> |
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">97,5%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">163 <span>votações computáveis</span></span><span class="n-detalhe">266 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">98,0%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">253 <span>votações computáveis</span></span><span class="n-detalhe">281 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">98,7%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">235 <span>votações computáveis</span></span><span class="n-detalhe">266 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">97,2%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">216 <span>votações computáveis</span></span><span class="n-detalhe">291 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">97,6%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">165 <span>votações computáveis</span></span><span class="n-detalhe">268 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">98,1%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">263 <span>votações computáveis</span></span><span class="n-detalhe">291 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">98,7%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">237 <span>votações computáveis</span></span><span class="n-detalhe">268 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
 **Cada percentual acima é um link** para a sua decomposição completa —
@@ -42,7 +42,7 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 
 | Tema | Alinhamento | Votações (n) |
 |---|---:|---:|
-| [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>27</b></span> |
+| [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>29</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>23</b></span> |
 | [Saúde](../../temas/saude/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>14</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Indústria, Comércio e Serviços](../../temas/industria-comercio-e-servicos/) | <span class="valor">100,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>11</b></span> <span class="aviso-n">amostra pequena</span> |
@@ -52,7 +52,7 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">97,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>78</b></span> |
 | [Administração Pública](../../temas/administracao-publica/) | <span class="valor">95,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>66</b></span> |
 | [Economia](../../temas/economia/) | <span class="valor">95,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>20</b></span> |
-| [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">94,7%</span> | <span class="n">n&nbsp;=&nbsp;<b>19</b></span> <span class="aviso-n">amostra pequena</span> |
+| [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">95,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>20</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">94,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>17</b></span> <span class="aviso-n">amostra pequena</span> |
 {: .t-temas}
 
@@ -130,14 +130,14 @@ Acima é amostra, e diz que é. A decomposição completa — **todas** as
 votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
-- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 207 votações
-- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 163 votações
-- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 253 votações
-- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 235 votações
+- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 216 votações
+- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 165 votações
+- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 263 votações
+- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 237 votações
 
 ## O que disse em plenário
 
-São **19 discursos** coletados no período, dos quais **16 substantivos** — os outros 3 são
+São **24 discursos** coletados no período, dos quais **21 substantivos** — os outros 3 são
 orientação de bancada, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -147,48 +147,48 @@ fonte que o publicou.
 
 ### Os 5 mais recentes
 
-<blockquote class="evidencia discurso" id="d-6657">
-<span class="data">27 out 2026 · 18:48</span>
+<blockquote class="evidencia discurso" id="d-6745">
+<span class="data">23 nov 2026 · 23:28</span>
+<div class="corpo">
+<p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
+<p>O Deputado encaminhou a votação do art. 6º-F que consta no art. 1º do Projeto de Lei Complementar nº 299, de 2026, que confere ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico. Além disso, afirmou que a medida mais importante do ajuste é acabar com a compensação tributária usada por empresas para comprar créditos de bancos quebrados ou falidos e, com isso, não pagar imposto de renda. Sustentou que esse artifício já permitiu R$ 200 bilhões em compensações, podendo chegar a R$ 300 bilhões. Declarou que esses valores não integram a receita corrente líquida e não são repassados a Estados, Municípios, saúde, educação ou segurança pública.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=24%2F11%2F2026&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6744">
+<span class="data">23 nov 2026 · 23:24</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado orientou a bancada na votação da Emenda de Plenário nº 38 ao Projeto de Lei Complementar nº 299, de 2026, que confere ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico. Além disso, classificou como demagógica a emenda apresentada pela Oposição, afirmando que seu objetivo é confundir a opinião pública e devolver o projeto ao Senado. Alegou que a Oposição extinguiu os pisos da saúde e da educação, ao passo que o Governo atual aumentará o orçamento da saúde em mais de 21 bilhões e o da educação em mais de 11 bilhões de reais, além de garantir o reajuste real do salário mínimo e a proteção do BPC.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=24%2F11%2F2026&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6743">
+<span class="data">23 nov 2026 · 22:16</span>
 <div class="corpo">
 <p class="tipo">COMO LÍDER</p>
 <p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74400/discursos">Ver na API da Câmara</a>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=24%2F11%2F2026&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5867">
-<span class="data">12 ago 2026 · 17:12</span>
+<blockquote class="evidencia discurso" id="d-6742">
+<span class="data">23 nov 2026 · 20:40</span>
 <div class="corpo">
-<p class="tipo">COMO LÍDER</p>
-<p>O Deputado informou que tem acompanhado, junto ao Ministério da Fazenda e a representantes do setor agropecuário, a implementação da Medida Provisória (MPV) nº 1.376, de 2026, que autoriza a criação de linhas de crédito para composição de dívidas para liquidação ou amortização de operações de crédito rural e de Cédulas de Produto Rural e autoriza a participação da União em fundo garantidor destinado à cobertura de operações de crédito rural contratadas por produtores rurais afetados por eventos climáticos adversos. Além disso, comunicou sua indicação como Relator da matéria na Comissão Mista e criticou as dificuldades impostas pelos bancos à renegociação das dívidas pelos produtores rurais. Ademais, defendeu a redução da taxa de juros e alertou para a situação dos agricultores do Rio Grande do Sul, atingidos por sucessivas estiagens e enchentes. Por fim, destacou que acompanhará a aplicação da MPV para assegurar a renegociação das dívidas, com carência, alongamento dos prazos, juros mais baixos e flexibilização das garantias.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/74400/discursos">Ver na API da Câmara</a>
+<p class="tipo">PELA ORDEM</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=24%2F11%2F2026&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-5865">
-<span class="data">27 mai 2026 · 22:20</span>
+<blockquote class="evidencia discurso" id="d-6741">
+<span class="data">23 nov 2026 · 19:32</span>
 <div class="corpo">
-<p class="tipo">QUESTÃO DE ORDEM</p>
-<p>O Deputado celebrou a aprovação da Proposta de Emenda à Constituição nº 221, de 2019, que altera o art. 7º da Constituição Federal para reduzir a duração máxima semanal do trabalho.&amp;nbsp;Além disso, associou a votação à atuação do Governo Federal e à liderança do Presidente Lula na defesa de direitos sociais e trabalhistas. Também criticou adversários políticos ao relacioná-los a denúncias envolvendo o Banco Master, o banqueiro Daniel Vorcaro e fraudes do Instituto Nacional do Seguro Social (INSS). Ademais, afirmou que a nova jornada garantiria mais dignidade aos trabalhadores sem redução salarial e destacou a conquista da jornada de 40 horas semanais. Por fim, reafirmou apoio às pautas trabalhistas e comemorou o resultado da votação como um marco para os trabalhadores brasileiros.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=28%2F7%2F2026&amp;txPagina=253&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-5864">
-<span class="data">27 mai 2026 · 20:20</span>
-<div class="corpo">
-<p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
-<p>O Deputado defendeu a aprovação da Proposta de Emenda à Constituição (PEC) nº 221, de 2019, que reduz a jornada de trabalho e extingue a escala 6 por 1. Ademais, associou a proposta à ampliação da qualidade de vida, do convívio familiar e da dignidade dos trabalhadores, especialmente das mulheres submetidas a jornadas mais extensas e salários mais baixos. Além disso, relembrou a atuação da Deputada Benedita da Silva na aprovação da PEC nº 478, de 2010, que ampliou os direitos das trabalhadoras domésticas e criticou o ex-Presidente Bolsonaro por ter sido o único Parlamentar a votar contra a medida. Ao final, celebrou a aprovação da PEC nº 221, de 2019, como conquista histórica da classe trabalhadora e do Governo do Presidente Lula.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=28%2F7%2F2026&amp;txPagina=213&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
-<blockquote class="evidencia discurso" id="d-5863">
-<span class="data">19 mai 2026 · 18:28</span>
-<div class="corpo">
-<p class="tipo">COMO LÍDER</p>
-<p>O Deputado criticou o Senador Flávio Bolsonaro ao afirmar que houve contradições em declarações relacionadas ao empresário Daniel Vorcaro e a supostos repasses financeiros vinculados ao Banco Master e a um projeto cinematográfico. Além disso, mencionou investigação envolvendo recursos de consignados do Instituto Nacional do Seguro Social (INSS) e apontou que Flávio Bolsonaro teria visitado Vorcaro após a prisão do empresário. Ademais, ironizou a coletiva de imprensa realizada pelo Senador e manifestou constrangimento com a participação de Parlamentares no ato. Por fim, afirmou que os aliados políticos deveriam se afastar do Senador diante das denúncias e da repercussão do caso.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=20%2F5%2F2026&amp;txPagina=165&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado defendeu a aprovação do Projeto de Lei Complementar nº 299, de 2026, que confere ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico (ajuste fiscal).&amp;nbsp;Em seguida, reafirmou a confiança do povo brasileiro no Presidente Lula e argumentou que a proposta garantiria, no Orçamento de 2027, o Desenrola, o novo PIX do MEI, a universalização do Pé-de-Meia, o aumento do Bolsa Família e a manutenção de subsídios para gasolina e óleo diesel, caracterizando-a como medida de defesa da economia e de compromisso com o povo brasileiro.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=24%2F11%2F2026&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
 </div>
 </blockquote>
 
@@ -196,7 +196,7 @@ fonte que o publicou.
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>12</b></span> | 11 |
+| [2026](discursos/2026/) | <span class="n"><b>17</b></span> | 16 |
 | [2025](discursos/2025/) | <span class="n"><b>7</b></span> | 5 |
 {: .t-anos}
 

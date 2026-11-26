@@ -7,7 +7,7 @@ description: "Os discursos de Paulo Pimenta em 2026, com o sumário oficial e li
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Paulo Pimenta</a></b> · PT · 12 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Paulo Pimenta</a></b> · PT · 17 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a></p>
 
@@ -16,7 +16,52 @@ description: "Os discursos de Paulo Pimenta em 2026, com o sumário oficial e li
 > neste site: o link de cada discurso leva ao **Diário da Câmara**
 > , onde ele está publicado, ou à **API** quando a origem não o publicou no Diário.
 
-## Substantivos — 11
+## Substantivos — 16
+
+<blockquote class="evidencia discurso" id="d-6745">
+<span class="data">23 nov 2026 · 23:28</span>
+<div class="corpo">
+<p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
+<p>O Deputado encaminhou a votação do art. 6º-F que consta no art. 1º do Projeto de Lei Complementar nº 299, de 2026, que confere ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico. Além disso, afirmou que a medida mais importante do ajuste é acabar com a compensação tributária usada por empresas para comprar créditos de bancos quebrados ou falidos e, com isso, não pagar imposto de renda. Sustentou que esse artifício já permitiu R$ 200 bilhões em compensações, podendo chegar a R$ 300 bilhões. Declarou que esses valores não integram a receita corrente líquida e não são repassados a Estados, Municípios, saúde, educação ou segurança pública.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=24%2F11%2F2026&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6744">
+<span class="data">23 nov 2026 · 23:24</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado orientou a bancada na votação da Emenda de Plenário nº 38 ao Projeto de Lei Complementar nº 299, de 2026, que confere ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico. Além disso, classificou como demagógica a emenda apresentada pela Oposição, afirmando que seu objetivo é confundir a opinião pública e devolver o projeto ao Senado. Alegou que a Oposição extinguiu os pisos da saúde e da educação, ao passo que o Governo atual aumentará o orçamento da saúde em mais de 21 bilhões e o da educação em mais de 11 bilhões de reais, além de garantir o reajuste real do salário mínimo e a proteção do BPC.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=24%2F11%2F2026&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6743">
+<span class="data">23 nov 2026 · 22:16</span>
+<div class="corpo">
+<p class="tipo">COMO LÍDER</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=24%2F11%2F2026&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6742">
+<span class="data">23 nov 2026 · 20:40</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=24%2F11%2F2026&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6741">
+<span class="data">23 nov 2026 · 19:32</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado defendeu a aprovação do Projeto de Lei Complementar nº 299, de 2026, que confere ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico (ajuste fiscal).&amp;nbsp;Em seguida, reafirmou a confiança do povo brasileiro no Presidente Lula e argumentou que a proposta garantiria, no Orçamento de 2027, o Desenrola, o novo PIX do MEI, a universalização do Pé-de-Meia, o aumento do Bolsa Família e a manutenção de subsídios para gasolina e óleo diesel, caracterizando-a como medida de defesa da economia e de compromisso com o povo brasileiro.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=24%2F11%2F2026&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-6657">
 <span class="data">27 out 2026 · 18:48</span>

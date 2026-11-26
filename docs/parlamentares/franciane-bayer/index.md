@@ -18,10 +18,10 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">57,8%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">398 <span>votações computáveis</span></span><span class="n-detalhe">580 <span>votações no exercício</span></span> |
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">64,1%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">359 <span>votações computáveis</span></span><span class="n-detalhe">538 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">80,0%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">511 <span>votações computáveis</span></span><span class="n-detalhe">580 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">82,9%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">473 <span>votações computáveis</span></span><span class="n-detalhe">538 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">58,5%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">407 <span>votações computáveis</span></span><span class="n-detalhe">590 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">64,3%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">361 <span>votações computáveis</span></span><span class="n-detalhe">540 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">80,2%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">521 <span>votações computáveis</span></span><span class="n-detalhe">590 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">82,9%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">475 <span>votações computáveis</span></span><span class="n-detalhe">540 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
 **Cada percentual acima é um link** para a sua decomposição completa —
@@ -49,9 +49,9 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Economia](../../temas/economia/) | <span class="valor">63,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>72</b></span> |
 | [Finanças Públicas e Orçamento](../../temas/financas-publicas-e-orcamento/) | <span class="valor">63,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>191</b></span> |
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">63,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>19</b></span> <span class="aviso-n">amostra pequena</span> |
-| [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">54,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>42</b></span> |
+| [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">54,5%</span> | <span class="n">n&nbsp;=&nbsp;<b>44</b></span> |
 | [Meio Ambiente e Desenvolvimento Sustentável](../../temas/meio-ambiente-e-desenvolvimento-sustentavel/) | <span class="valor">52,1%</span> | <span class="n">n&nbsp;=&nbsp;<b>48</b></span> |
-| [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">44,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>27</b></span> |
+| [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">46,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>28</b></span> |
 | [Administração Pública](../../temas/administracao-publica/) | <span class="valor">42,4%</span> | <span class="n">n&nbsp;=&nbsp;<b>125</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">31,6%</span> | <span class="n">n&nbsp;=&nbsp;<b>19</b></span> <span class="aviso-n">amostra pequena</span> |
 {: .t-temas}
@@ -67,6 +67,15 @@ referência de cada eixo. As descrições são o texto original da fonte
 oficial, reproduzido sem edição — é o que torna o dado conferível.
 
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
+
+<blockquote class="evidencia">
+<span class="data">24 nov 2026</span>
+<div class="corpo">
+<p>Aprovado o Substitutivo ao Projeto de Lei nº 1.969, de 2022, da Comissão de Direitos Humanos, Minorias e Igualdade Racial. <span class="placar">Sim: 292; Não: 147; Abstenção: 2; Total: 441.</span></p>
+<p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2332174-59">Ver votação na fonte oficial</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia">
 <span class="data">14 out 2026</span>
@@ -86,16 +95,16 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </div>
 </blockquote>
 
+### <span class="eixo-par">Divergências da maioria do próprio partido</span>
+
 <blockquote class="evidencia">
-<span class="data">06 mai 2026</span>
+<span class="data">24 nov 2026</span>
 <div class="corpo">
-<p>Mantido o texto. <span class="placar">Sim: 343; Não: 97; Abstenção: 1; Total: 441.</span></p>
-<p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2447259-99">Ver votação na fonte oficial</a>
+<p>Aprovado o Substitutivo ao Projeto de Lei nº 1.969, de 2022, da Comissão de Direitos Humanos, Minorias e Igualdade Racial. <span class="placar">Sim: 292; Não: 147; Abstenção: 2; Total: 441.</span></p>
+<p class="referencia">Maioria do partido: sim (29 sim / 5 não entre os pares) — voto registrado: <b>nao</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2332174-59">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
-
-### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
 <span class="data">06 mai 2026</span>
@@ -115,25 +124,16 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 </div>
 </blockquote>
 
-<blockquote class="evidencia">
-<span class="data">02 mar 2026</span>
-<div class="corpo">
-<p>Mantido o texto. <span class="placar">Sim: 235; Não: 121; Abstenção: 2; Total: 358.</span></p>
-<p class="referencia">Maioria do partido: sim (30 sim / 8 não entre os pares) — voto registrado: <b>nao</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/589982-129">Ver votação na fonte oficial</a>
-</div>
-</blockquote>
-
 ### A conta inteira
 
 Acima é amostra, e diz que é. A decomposição completa — **todas** as
 votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
-- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 398 votações
-- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 359 votações
-- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 511 votações
-- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 473 votações
+- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 407 votações
+- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 361 votações
+- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 521 votações
+- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 475 votações
 
 ## O que disse em plenário
 

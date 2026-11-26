@@ -18,10 +18,10 @@ quantas votações ocorreram no período de exercício de cada um.
 
 | Eixo | Escopo | Valor | Base de cálculo |
 |---|---|---:|---|
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">59,8%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">410 <span>votações computáveis</span></span><span class="n-detalhe">580 <span>votações no exercício</span></span> |
-| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">56,7%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">330 <span>votações computáveis</span></span><span class="n-detalhe">538 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">75,5%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">507 <span>votações computáveis</span></span><span class="n-detalhe">580 <span>votações no exercício</span></span> |
-| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">73,6%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">424 <span>votações computáveis</span></span><span class="n-detalhe">538 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Mérito</span> | [<span class="valor">58,7%</span>](evidencia/alinhamento-governo-merito/) | <span class="n-detalhe">419 <span>votações computáveis</span></span><span class="n-detalhe">590 <span>votações no exercício</span></span> |
+| <span class="eixo-gov">Alinhamento com o governo federal</span> | <span class="escopo">Procedimental</span> | [<span class="valor">56,3%</span>](evidencia/alinhamento-governo-procedimental/) | <span class="n-detalhe">332 <span>votações computáveis</span></span><span class="n-detalhe">540 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Mérito</span> | [<span class="valor">74,7%</span>](evidencia/coesao-partidaria-merito/) | <span class="n-detalhe">517 <span>votações computáveis</span></span><span class="n-detalhe">590 <span>votações no exercício</span></span> |
+| <span class="eixo-par">Coesão com o próprio partido</span> | <span class="escopo">Procedimental</span> | [<span class="valor">73,2%</span>](evidencia/coesao-partidaria-procedimental/) | <span class="n-detalhe">426 <span>votações computáveis</span></span><span class="n-detalhe">540 <span>votações no exercício</span></span> |
 {: .t-eixos}
 
 **Cada percentual acima é um link** para a sua decomposição completa —
@@ -50,9 +50,9 @@ registrado e o link para a fonte. Nenhum número deste site fica sem isso.
 | [Viação, Transporte e Mobilidade](../../temas/viacao-transporte-e-mobilidade/) | <span class="valor">56,3%</span> | <span class="n">n&nbsp;=&nbsp;<b>16</b></span> <span class="aviso-n">amostra pequena</span> |
 | [Trabalho e Emprego](../../temas/trabalho-e-emprego/) | <span class="valor">54,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>24</b></span> |
 | [Administração Pública](../../temas/administracao-publica/) | <span class="valor">50,8%</span> | <span class="n">n&nbsp;=&nbsp;<b>130</b></span> |
-| [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">50,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>42</b></span> |
+| [Direitos Humanos e Minorias](../../temas/direitos-humanos-e-minorias/) | <span class="valor">50,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>44</b></span> |
 | [Saúde](../../temas/saude/) | <span class="valor">50,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>22</b></span> |
-| [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">41,2%</span> | <span class="n">n&nbsp;=&nbsp;<b>34</b></span> |
+| [Defesa e Segurança](../../temas/defesa-e-seguranca/) | <span class="valor">42,9%</span> | <span class="n">n&nbsp;=&nbsp;<b>35</b></span> |
 | [Direito Penal e Processual Penal](../../temas/direito-penal-e-processual-penal/) | <span class="valor">25,0%</span> | <span class="n">n&nbsp;=&nbsp;<b>28</b></span> |
 {: .t-temas}
 
@@ -69,58 +69,58 @@ oficial, reproduzido sem edição — é o que torna o dado conferível.
 ### <span class="eixo-gov">Divergências da orientação do Governo</span>
 
 <blockquote class="evidencia">
-<span class="data">14 out 2026</span>
+<span class="data">24 nov 2026</span>
 <div class="corpo">
-<p>Rejeitada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 281, de 2019, adotada pelo relator da Comissão Especial. <span class="placar">Sim: 252; Não: 176; Total: 428.</span></p>
-<p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2236186-60">Ver votação na fonte oficial</a>
+<p>Aprovado o Substitutivo ao Projeto de Lei nº 1.969, de 2022, da Comissão de Direitos Humanos, Minorias e Igualdade Racial. <span class="placar">Sim: 292; Não: 147; Abstenção: 2; Total: 441.</span></p>
+<p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2332174-59">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">12 ago 2026</span>
+<span class="data">23 nov 2026</span>
 <div class="corpo">
-<p>Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. <span class="placar">Sim: 333; Não: 91; Total: 424.</span></p>
-<p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2580259-24">Ver votação na fonte oficial</a>
+<p>Aprovado o Projeto de Lei Complementar nº 299, de 2026, ressalvados os destaques. <span class="placar">Sim: 353; Não: 128; Abstenção: 5; Total: 486.</span></p>
+<p class="referencia">Orientação do Governo: sim — voto registrado: <b>nao</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-39">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">20 mai 2026</span>
+<span class="data">23 nov 2026</span>
 <div class="corpo">
-<p>Resultado. <span class="placar">Sim: 182; Não: 182; Abstenção: 2; Total: 366.</span></p>
+<p>Rejeitadas as Emendas de Plenário. <span class="placar">Sim: 129; Não: 319; Abstenção: 4; Total: 452.</span></p>
 <p class="referencia">Orientação do Governo: nao — voto registrado: <b>sim</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2613731-65">Ver votação na fonte oficial</a>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-41">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
 ### <span class="eixo-par">Divergências da maioria do próprio partido</span>
 
 <blockquote class="evidencia">
-<span class="data">28 mai 2026</span>
+<span class="data">23 nov 2026</span>
 <div class="corpo">
-<p>Mantido o texto. <span class="placar">Sim: 335; Não: 117; Abstenção: 5; Total: 457.</span></p>
-<p class="referencia">Maioria do partido: nao (14 sim / 17 não entre os pares) — voto registrado: <b>sim</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2351506-115">Ver votação na fonte oficial</a>
+<p>Aprovado o Projeto de Lei Complementar nº 299, de 2026, ressalvados os destaques. <span class="placar">Sim: 353; Não: 128; Abstenção: 5; Total: 486.</span></p>
+<p class="referencia">Maioria do partido: sim (33 sim / 3 não entre os pares) — voto registrado: <b>nao</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-39">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">20 mai 2026</span>
+<span class="data">23 nov 2026</span>
 <div class="corpo">
-<p>Rejeitada a Emenda de Plenário nº 2. <span class="placar">Sim: 196; Não: 200; Abstenção: 1; Total: 397.</span></p>
-<p class="referencia">Maioria do partido: nao (10 sim / 13 não entre os pares) — voto registrado: <b>sim</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2613731-47">Ver votação na fonte oficial</a>
+<p>Rejeitadas as Emendas de Plenário. <span class="placar">Sim: 129; Não: 319; Abstenção: 4; Total: 452.</span></p>
+<p class="referencia">Maioria do partido: nao (3 sim / 30 não entre os pares) — voto registrado: <b>sim</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-41">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
 <blockquote class="evidencia">
-<span class="data">20 mai 2026</span>
+<span class="data">23 nov 2026</span>
 <div class="corpo">
-<p>Resultado. <span class="placar">Sim: 182; Não: 182; Abstenção: 2; Total: 366.</span></p>
-<p class="referencia">Maioria do partido: nao (10 sim / 11 não entre os pares) — voto registrado: <b>sim</b>.</p>
-<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2613731-65">Ver votação na fonte oficial</a>
+<p>Rejeitada a Emenda de Plenário nº 23. <span class="placar">Sim: 146; Não: 315; Abstenção: 1; Total: 462.</span></p>
+<p class="referencia">Maioria do partido: nao (6 sim / 28 não entre os pares) — voto registrado: <b>sim</b>.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/votacoes/2655570-47">Ver votação na fonte oficial</a>
 </div>
 </blockquote>
 
@@ -130,14 +130,14 @@ Acima é amostra, e diz que é. A decomposição completa — **todas** as
 votações que entraram em cada número, coincidências inclusive — está em
 uma página por eixo e escopo:
 
-- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 410 votações
-- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 330 votações
-- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 507 votações
-- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 424 votações
+- [Alinhamento com o governo federal, mérito](evidencia/alinhamento-governo-merito/) — 419 votações
+- [Alinhamento com o governo federal, procedimental](evidencia/alinhamento-governo-procedimental/) — 332 votações
+- [Coesão com o próprio partido, mérito](evidencia/coesao-partidaria-merito/) — 517 votações
+- [Coesão com o próprio partido, procedimental](evidencia/coesao-partidaria-procedimental/) — 426 votações
 
 ## O que disse em plenário
 
-São **27 discursos** coletados no período, dos quais **22 substantivos** — os outros 5 são
+São **28 discursos** coletados no período, dos quais **23 substantivos** — os outros 5 são
 orientação de bancada, que a classificação separa do perfil e
 **não descarta**: estão nas páginas por ano, na íntegra.
 
@@ -146,6 +146,15 @@ O texto integral não é reproduzido aqui — o link de cada discurso leva à
 fonte que o publicou.
 
 ### Os 5 mais recentes
+
+<blockquote class="evidencia discurso" id="d-6719">
+<span class="data">25 nov 2026 · 16:16</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160559/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-2280">
 <span class="data">19 mai 2026 · 18:00</span>
@@ -183,20 +192,11 @@ fonte que o publicou.
 </div>
 </blockquote>
 
-<blockquote class="evidencia discurso" id="d-2276">
-<span class="data">08 out 2025 · 13:56</span>
-<div class="corpo">
-<p class="tipo">PELA ORDEM</p>
-<p>O Deputado criticou a postura do Governo em relação à arrecadação de impostos sobre produtos de alto consumo e risco, como bebidas alcoólicas, cigarro eletrônico e vapes. Destacou que enquanto fontes lícitas poderiam gerar cerca de R$ 50 bilhões, o Governo busca apenas R$ 20 bilhões, sem controlar efetivamente produtos que circulam pelo narcotráfico ou pelo mercado informal. Apontou que a falta de fiscalização sobre esses itens favorece a ilegalidade e agrava riscos à saúde pública, citando mortes por bebidas adulteradas. Questionou a lógica de não tributar produtos amplamente consumidos e facilmente controláveis, defendendo que a legalização e a tributação poderiam gerar receita e reduzir danos sociais.</p>
-<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=9%2F10%2F2025&amp;txPagina=39&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
-</div>
-</blockquote>
-
 ### Todos, por ano
 
 | Ano | Discursos | Substantivos |
 |---|---:|---:|
-| [2026](discursos/2026/) | <span class="n"><b>4</b></span> | 4 |
+| [2026](discursos/2026/) | <span class="n"><b>5</b></span> | 5 |
 | [2025](discursos/2025/) | <span class="n"><b>10</b></span> | 7 |
 | [2024](discursos/2024/) | <span class="n"><b>8</b></span> | 6 |
 | [2023](discursos/2023/) | <span class="n"><b>5</b></span> | 5 |

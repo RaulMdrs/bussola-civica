@@ -7,7 +7,7 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 
 # Discursos de 2026
 
-<p class="subtitulo"><b><a href="../../">Marcon</a></b> · PT · 41 discursos em 2026</p>
+<p class="subtitulo"><b><a href="../../">Marcon</a></b> · PT · 44 discursos em 2026</p>
 
 <p class="anos">Outros anos: <b>2026</b> · <a href="../2025/">2025</a> · <a href="../2024/">2024</a> · <a href="../2023/">2023</a></p>
 
@@ -16,7 +16,34 @@ description: "Os discursos de Marcon em 2026, com o sumário oficial e link para
 > neste site: o link de cada discurso leva ao **Diário da Câmara**
 > , onde ele está publicado, ou à **API** quando a origem não o publicou no Diário.
 
-## Substantivos — 40
+## Substantivos — 43
+
+<blockquote class="evidencia discurso" id="d-6715">
+<span class="data">24 nov 2026 · 15:52</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p class="sem-sumario">A fonte não publicou sumário para este discurso. O texto está no link abaixo.</p>
+<a class="fonte" href="https://dadosabertos.camara.leg.br/api/v2/deputados/160535/discursos">Ver na API da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6714">
+<span class="data">23 nov 2026 · 23:16</span>
+<div class="corpo">
+<p class="tipo">PELA ORDEM</p>
+<p>O Deputado orientou a bancada na votação da Emenda de Plenário nº 38 ao Projeto de Lei Complementar nº 299, de 2026, que confere ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico. Além disso, afirmou que R$ 9 bilhões serão retirados da saúde por ano.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=24%2F11%2F2026&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
+
+<blockquote class="evidencia discurso" id="d-6713">
+<span class="data">23 nov 2026 · 23:12</span>
+<div class="corpo">
+<p class="tipo">ENCAMINHAMENTO DE VOTAÇÃO</p>
+<p>O Deputado encaminhou a Emenda de Plenário nº 38 ao Projeto de Lei Complementar nº 299, de 2026, que confere ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico, afirmando que a consultoria do Senado Federal apontou corte de 9 bilhões da saúde somente em 2027. Criticou Parlamentares que votaram favoravelmente à medida e informou que o PL protocolou emenda para proteger de contingenciamento despesas com saúde, educação, assistência social e pessoas do espectro autista, prevendo que o PT votará contra a emenda, o que comprova que as declarações de que os mais vulneráveis não serão afetados eram falsas.</p>
+<a class="fonte" href="https://imagem.camara.gov.br/dc_20b.asp?largura=&amp;altura=&amp;tipoForm=diarios&amp;selCodColecaoCsv=D&amp;Datain=24%2F11%2F2026&amp;txPagina=&amp;txSuplemento=&amp;enviar=Pesquisar">Ver no Diário da Câmara</a>
+</div>
+</blockquote>
 
 <blockquote class="evidencia discurso" id="d-6699">
 <span class="data">17 nov 2026 · 15:36</span>

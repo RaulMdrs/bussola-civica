@@ -2,7 +2,7 @@
 layout: default
 kind: evidencia
 title: "Afonso Hamm — Coesão com o próprio partido, Mérito"
-description: "A decomposição completa do número de Afonso Hamm: 451 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 1ª à 20ª."
+description: "A decomposição completa do número de Afonso Hamm: 456 votações em 23 páginas, uma por linha, com link para a fonte. Esta traz da 1ª à 20ª."
 ---
 
 # Coesão com o próprio partido
@@ -11,8 +11,8 @@ description: "A decomposição completa do número de Afonso Hamm: 451 votaçõe
 
 <div class="interrompe">
 <h4>A conta inteira, votação por votação</h4>
-<p><b>70,3%</b> é <b>317</b> coincidências em
-<b>451</b> votações computáveis — as outras 134 estão
+<p><b>69,5%</b> é <b>317</b> coincidências em
+<b>456</b> votações computáveis — as outras 139 estão
 aqui também. Nada foi selecionado: a decomposição é completa, e está
 repartida em <b>23 páginas</b> de até 20 votações,
 da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
@@ -25,6 +25,11 @@ da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
 
 | Data | Votação | Referência | Voto | | Fonte |
 |---|---|---|---|---|---|
+| 23 nov 2026 | Aprovado o Projeto de Lei Complementar nº 299, de 2026, ressalvados os destaques. Sim: 353; Não: 128; Abstenção: 5; Total: 486. | Maioria do partido: sim (33 sim / 11 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2655570-39](../../../../votacoes/2655570-39/) |
+| 23 nov 2026 | Rejeitadas as Emendas de Plenário. Sim: 129; Não: 319; Abstenção: 4; Total: 452. | Maioria do partido: nao (10 sim / 25 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2655570-41](../../../../votacoes/2655570-41/) |
+| 23 nov 2026 | Rejeitada a Emenda de Plenário nº 23. Sim: 146; Não: 315; Abstenção: 1; Total: 462. | Maioria do partido: nao (12 sim / 27 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2655570-47](../../../../votacoes/2655570-47/) |
+| 23 nov 2026 | Mantido o texto. Sim: 310; Não: 132; Total: 442. | Maioria do partido: sim (28 sim / 10 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2655570-57](../../../../votacoes/2655570-57/) |
+| 23 nov 2026 | Mantido o texto. Sim: 319; Não: 127; Abstenção: 1; Total: 447. | Maioria do partido: sim (29 sim / 10 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2655570-60](../../../../votacoes/2655570-60/) |
 | 14 out 2026 | Rejeitada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 281, de 2019, adotada pelo relator da Comissão Especial. Sim: 252; Não: 176; Total: 428. | Maioria do partido: sim (29 sim / 4 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2236186-60](../../../../votacoes/2236186-60/) |
 | 03 set 2026 | Aprovada a Subemenda Substitutiva ao Projeto de Lei Complementar nº 74, de 2026, adotada pelo relator da Comissão de Finanças e Tributação. Sim: 346; Não: 46; Abstenção: 3; Total: 395. | Maioria do partido: sim (31 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2611313-31](../../../../votacoes/2611313-31/) |
 | 12 ago 2026 | Aprovado o Substitutivo ao Projeto de Lei Complementar nº 230, de 2025, adotado pela relatora da Comissão de Finanças e Tributação. Sim: 333; Não: 91; Total: 424. | Maioria do partido: sim (34 sim / 2 não entre os pares) | <b>nao</b> | <span class="divergiu">divergiu</span> | [2580259-24](../../../../votacoes/2580259-24/) |
@@ -40,11 +45,6 @@ da mais recente para a mais antiga. Esta traz da <b>1ª</b> à
 | 28 mai 2026 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 5, de 2023, na forma da Emenda Aglutinativa Substitutiva nº 3. Sim: 385; Não: 93; Abstenção: 7; Total: 485. | Maioria do partido: sim (36 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2351506-104](../../../../votacoes/2351506-104/) |
 | 28 mai 2026 | Mantido o texto. Sim: 340; Não: 110; Abstenção: 7; Total: 457. | Maioria do partido: sim (34 sim / 3 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2351506-108](../../../../votacoes/2351506-108/) |
 | 28 mai 2026 | Mantido o texto. Sim: 342; Não: 113; Abstenção: 5; Total: 460. | Maioria do partido: sim (36 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2351506-112](../../../../votacoes/2351506-112/) |
-| 28 mai 2026 | Mantido o texto. Sim: 335; Não: 117; Abstenção: 5; Total: 457. | Maioria do partido: sim (34 sim / 2 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2351506-115](../../../../votacoes/2351506-115/) |
-| 28 mai 2026 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 5, de 2023. Sim: 368; Não: 96; Abstenção: 7; Total: 471. | Maioria do partido: sim (36 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2351506-122](../../../../votacoes/2351506-122/) |
-| 27 mai 2026 | Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 221, de 2019. Sim: 472; Não: 22; Total: 494. | Maioria do partido: sim (41 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2233802-424](../../../../votacoes/2233802-424/) |
-| 27 mai 2026 | Aprovada, em segundo turno, a Proposta de Emenda à Constituição n° 221, de 2019. . Sim: 461; Não: 19; Total: 480. | Maioria do partido: sim (39 sim / 1 não entre os pares) | <b>sim</b> | <span class="coincidiu">coincidiu</span> | [2233802-438](../../../../votacoes/2233802-438/) |
-| 20 mai 2026 | Rejeitada a Emenda de Plenário nº 2. Sim: 196; Não: 200; Abstenção: 1; Total: 397. | Maioria do partido: nao (13 sim / 14 não entre os pares) | <b>sim</b> | <span class="divergiu">divergiu</span> | [2613731-47](../../../../votacoes/2613731-47/) |
 {: .t-evid}
 
 <nav class="paginacao" aria-label="Páginas da decomposição">
